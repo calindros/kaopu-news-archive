@@ -1,0 +1,43 @@
+name: Update News Archive
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v6
+      
+      - name: Set up Python
+        uses: actions/setup-python@main
+        with:
+          python-version: '3.x'
+      
+      - name: 部署密钥
+        uses: photostructure/git-ssh-signing-action@v2
+        with:
+          ssh-signing-key: ${{ secrets.SSH_PRIVATE_KEY }}
+          git-user-name: ${{ github.actor }}
+          git-user-email: ${{ vars.EMAIL }}
+      
+      - name: 运行脚本
+        run: |
+          gist_raw=$(curl -s https://api.github.com/gists/${{ secrets.SCRIPT_GIST_ID }})
+          echo "$gist_raw" | jq -r '.files | to_entries[] | "\(.value.raw_url) \(.key)"' |
+          while read -r raw_url filename; do
+              curl -o "./$filename" -s "$raw_url"
+          done
+          python index.py
+      
+      - name: 提交并推送
+        run: |
+          git add -A
+          git commit -S -m "chore: update news archive" || echo "No changes to commit"
+          git push https://${{ github.actor }}:${{ github.token }}@github.com/${{ github.repository }}.git

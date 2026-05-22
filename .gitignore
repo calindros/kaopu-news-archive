@@ -1,0 +1,7 @@
+*.bat
+*.md
+*.py
+*.sh
+*.txt
+__pycache__/
+.vscode/
