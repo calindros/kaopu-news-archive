@@ -1,0 +1,97 @@
+name: 压缩 main 分支
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry-run:
+        description: 启用 dry-run 模式
+        required: false
+        type: boolean
+        default: false
+
+run-name: |
+  压缩 main 分支${{ inputs.dry-run && ' (Dry-Run)' || '' }}
+
+
+env:
+  GH_TOKEN: ${{ secrets.GH_TOKEN }}
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    name: 压缩 main 分支${{ inputs.dry-run && ' (Dry-Run)' || '' }}
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+          ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+      - name: 加载 SSH 私钥
+        uses: webfactory/ssh-agent@master
+        with:
+          log-public-key: false
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+      - name: 配置 Git 全局设置
+        run: |
+          git config --global user.name "${{ github.actor }}"
+          git config --global user.email "${{ vars.EMAIL }}"
+          git config --global gpg.format ssh
+          git config --global gpg.ssh.defaultKeyCommand "ssh-add -L"
+          git config --global commit.gpgsign true
+          git config --global tag.gpgsign true
+          git config --global gc.aggressiveDepth 99999
+          git config --global gc.aggressiveWindow 99999
+
+      - name: 压缩仓库
+        if: ${{ !inputs.dry-run }}
+        run: |
+          git gc --aggressive --prune=now
+
+      - name: 获取主分支 cd.yml 工作流状态
+        id: get-cd-workflow-status
+        run: |
+          status=$(gh api repos/${{ github.repository }}/actions/workflows/cd.yml --jq '.state')
+          echo "status=$status" >> $GITHUB_OUTPUT
+          echo "主分支 cd.yml 工作流状态: $status"
+
+      - name: 创建临时孤儿空分支
+        id: create-orphan-branch
+        run: |
+          orphan_branch=$(openssl rand -base64 6 | tr -dc 'a-zA-Z0-9' | head -c 6)
+          echo "BranchName=$orphan_branch" >> $GITHUB_OUTPUT
+          git checkout --orphan $orphan_branch
+          git reset --hard
+          git commit --allow-empty -m "Initial commit"
+          until git push origin refs/heads/$orphan_branch --verbose; do :; done
+
+      - name: 修改默认分支为 orphan
+        run: |
+          gh repo edit ${{ github.repository }} \
+            --default-branch ${{ steps.create-orphan-branch.outputs.BranchName }}
+          sleep 3
+
+      - name: 删除远程 main 分支
+        run: |
+          until git push origin --delete refs/heads/main; do :; done
+
+      - name: 推送压缩后的仓库
+        run: |
+          until git push origin refs/heads/main --verbose; do :; done
+
+      - name: 修改默认分支为 main
+        run: |
+          gh repo edit ${{ github.repository }} \
+            --default-branch main
+          sleep 3
+
+      - name: 删除临时孤儿空分支
+        run: |
+          until git push origin --delete refs/heads/${{ steps.create-orphan-branch.outputs.BranchName }}; do :; done
+
+      - name: 恢复主分支 cd.yml 工作流状态
+        run: |
+          if echo "${{ steps.get-cd-workflow-status.outputs.status }}" | grep -q "^disabled"; then
+            gh workflow disable cd.yml --repo ${{ github.repository }}
+          fi
