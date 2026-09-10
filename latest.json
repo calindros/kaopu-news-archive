@@ -1,11 +1,423 @@
 {
   "details": {
     "date": "2026-09-10",
-    "timestamp": 1789007955,
+    "timestamp": 1789014108,
     "totalPages": 1,
     "total": 300
   },
   "stories": [
+    {
+      "id": "us-iran-tensions-oil-prices-europe-stocks-fall-af0275",
+      "title": "美伊军事冲突升级推高全球能源价格并冲击金融市场",
+      "description": "2026年2月28日爆发的美国与伊朗军事冲突持续升级，截至9月上旬已导致全球能源价格飙升、金融市场剧烈震荡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T03:11:27+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-08-31",
+      "url": "https://kaopu.news/story/2026-08-31/us-iran-tensions-oil-prices-europe-stocks-fall-af0275",
+      "reference": [
+        "中央通訊社",
+        "澎湃新闻",
+        "第一财经",
+        "法广"
+      ],
+      "sourceCount": 40,
+      "sources": []
+    },
+    {
+      "id": "apple-huawei-xiaomi-launch-foldable-phones-bfba49",
+      "title": "苹果发布首款折叠屏手机iPhone Duo",
+      "description": "美国苹果公司于2026年9月9日在加利福尼亚州库比蒂诺总部举行秋季发布会，正式推出首款折叠屏智能手机iPhone Duo。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T03:00:25+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-08",
+      "url": "https://kaopu.news/story/2026-09-08/apple-huawei-xiaomi-launch-foldable-phones-bfba49",
+      "reference": [
+        "第一财经",
+        "联合早报",
+        "中央通訊社",
+        "澎湃新闻"
+      ],
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
+      "id": "deepseek-cuts-flagship-model-prices-60-3ef08e",
+      "title": "DeepSeek宣布旗舰模型降价最高60%",
+      "description": "中国人工智能初创企业DeepSeek于2026年9月9日宣布，自9月10日起下调其旗舰模型V4-Flash的应用程序编程接口服务价格，最高降幅达60%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T03:00:25+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-10",
+      "url": "https://kaopu.news/story/2026-09-10/deepseek-cuts-flagship-model-prices-60-3ef08e",
+      "reference": [
+        "第一财经",
+        "日经"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "huawei-xiaomi-launch-foldable-phones-before-apple-e04e16",
+      "title": "华为小米抢在苹果前发布宽屏折叠手机",
+      "description": "华为和小米于9月7日发布新款折叠屏手机，抢在美国苹果公司9月10日的新品发布会之前。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T03:00:25+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-10",
+      "url": "https://kaopu.news/story/2026-09-10/huawei-xiaomi-launch-foldable-phones-before-apple-e04e16",
+      "reference": [
+        "日经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-bond-yield-hits-near-term-low-785d6a",
+      "title": "日本10年期国债收益率降至近期低点",
+      "description": "9月9日，日本国内债券市场上，作为长期利率指标的新发行10年期国债收益率一度降至2.865%，创8月26日以来低水平。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T03:00:25+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-10",
+      "url": "https://kaopu.news/story/2026-09-10/japan-bond-yield-hits-near-term-low-785d6a",
+      "reference": [
+        "共同网",
+        "日经"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "japan-plans-winter-medical-record-sharing-547039",
+      "title": "日本计划今冬实现全国医院电子病历共享",
+      "description": "日本厚生劳动省计划最早于2026年冬季实现全国医疗机构间电子病历信息共享。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T03:00:25+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-10",
+      "url": "https://kaopu.news/story/2026-09-10/japan-plans-winter-medical-record-sharing-547039",
+      "reference": [
+        "日经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "putin-meets-vietnam-leader-to-lam-2f9c45",
+      "title": "普京与越南领导人苏林在莫斯科会谈",
+      "description": "俄罗斯总统普京与越南最高领导人苏林于9月9日在莫斯科举行会谈。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T03:00:25+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-10",
+      "url": "https://kaopu.news/story/2026-09-10/putin-meets-vietnam-leader-to-lam-2f9c45",
+      "reference": [
+        "日经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-strikes-iran-rocket-launch-sites-4c2e3c",
+      "title": "美伊在霍尔木兹海峡相互袭击油轮军舰致油价破百",
+      "description": "9月8日至9日，美国与伊朗在霍尔木兹海峡及周边海域的冲突急剧升级，双方相互袭击油轮和军舰，国际油价随之突破每桶100美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T03:00:25+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-08-30",
+      "url": "https://kaopu.news/story/2026-08-30/us-strikes-iran-rocket-launch-sites-4c2e3c",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "韩民族日报",
+        "法广"
+      ],
+      "sourceCount": 95,
+      "sources": []
+    },
+    {
+      "id": "china-launches-anti-telecom-fraud-alliance-802023",
+      "title": "中国发起成立国际打击电信网络诈骗联盟",
+      "description": "2026年9月10日，国际打击电信网络诈骗联盟成立大会在中国江苏连云港举行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T02:57:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-10",
+      "url": "https://kaopu.news/story/2026-09-10/china-launches-anti-telecom-fraud-alliance-802023",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "republicans-hold-midterm-rally-dallas-c6a546",
+      "title": "共和党首办期中选举大会川普每晚登台",
+      "description": "共和党于2026年9月9日至10日在达拉斯首次召开专门为中期选举举办的全国代表大会，总统川普每晚登台演讲，试图为选情催票。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T02:55:56+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-09",
+      "url": "https://kaopu.news/story/2026-09-09/republicans-hold-midterm-rally-dallas-c6a546",
+      "reference": [
+        "世界日报",
+        "联合早报"
+      ],
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "icc-president-defies-us-sanctions-260bb6",
+      "title": "日本跨党派议联将请求政府支援ICC应对美制裁",
+      "description": "2026年9月6日，国际刑事法院（ICC）院长赤根智子在东京以在线方式发表演讲，表示面对美国特朗普政府将其列为制裁对象的做法，信念不会动摇，将继续开展调查、起诉和审判工作，并指出制裁“危及法官中立性”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T02:51:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-07",
+      "url": "https://kaopu.news/story/2026-09-07/icc-president-defies-us-sanctions-260bb6",
+      "reference": [
+        "日本放送协会",
+        "共同网"
+      ],
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "wuhan-firms-target-ai-era-optical-upgrade-f86530",
+      "title": "武汉光通信企业卡位AI时代高速光互联升级拐点",
+      "description": "2026年9月10日，在深圳举行的第二十七届中国国际光电博览会上，长飞光纤、华工科技、烽火通信等武汉光通信企业集中展示了面向AI时代的高速光互联技术及产品，旨在卡位产业升级拐点。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T02:46:38.955809+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-10",
+      "url": "https://kaopu.news/story/2026-09-10/wuhan-firms-target-ai-era-optical-upgrade-f86530",
+      "reference": [
+        "第一财经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "gao-qi-appointed-counter-terrorism-commissioner-371f39",
+      "title": "高琪出任中国公安部反恐专员",
+      "description": "中国公安部官网消息显示，高琪已出任公安部党委委员、反恐专员（副部长级），并授予副总警监警衔。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T02:46:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-09",
+      "url": "https://kaopu.news/story/2026-09-09/gao-qi-appointed-counter-terrorism-commissioner-371f39",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "landslide-buries-dozens-in-jiangxi-a7f9a8",
+      "title": "台风沙德尔引发泥石流致江西遂川16人遇难",
+      "description": "受台风“沙德尔”带来的持续强降雨影响，江西省吉安市遂川县高坪镇明坑村石下组于2026年9月5日凌晨4时许发生泥石流灾害。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T02:44:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-05",
+      "url": "https://kaopu.news/story/2026-09-05/landslide-buries-dozens-in-jiangxi-a7f9a8",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "中央通訊社",
+        "财新"
+      ],
+      "sourceCount": 31,
+      "sources": []
+    },
+    {
+      "id": "anthropic-researcher-quits-over-ai-risk-d454ef",
+      "title": "Anthropic研究员因AI灭绝风险离职",
+      "description": "2026年9月10日，人工智能公司Anthropic的一名员工公开表示，相信人工智能在未来十年内导致人类灭绝的风险超过10%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T02:37:14+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-09",
+      "url": "https://kaopu.news/story/2026-09-09/anthropic-researcher-quits-over-ai-risk-d454ef",
+      "reference": [
+        "中央通訊社",
+        "纽约时报"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "bay-area-allocates-85-million-for-electrification-a231dd",
+      "title": "湾区每年投入8500万元推广家电电气化",
+      "description": "2026年9月10日，湾区多个政府部门与能源机构宣布，每年将投入约8500万美元（约合人民币6.1亿元），鼓励家庭将燃气设备更换为电动家电。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T02:36:35+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-10",
+      "url": "https://kaopu.news/story/2026-09-10/bay-area-allocates-85-million-for-electrification-a231dd",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "rubio-announces-peru-joins-americas-shield-9efc01",
+      "title": "美军打击加勒比海贩毒快艇致三人死亡",
+      "description": "美军南方司令部9月9日发表声明称，西半球联合特遣部队在加勒比海对一艘涉嫌贩毒的快艇实施打击，造成船上三人死亡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T02:36:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-09",
+      "url": "https://kaopu.news/story/2026-09-09/rubio-announces-peru-joins-americas-shield-9efc01",
+      "reference": [
+        "法广",
+        "联合早报"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "liu-xiang-completes-buyout-from-shanghai-sports-90cba6",
+      "title": "刘翔完成买断与上海体育局脱离关系",
+      "description": "中国奥运冠军刘翔于2026年9月10日在个人微博发文，称自己已于9月1日完成买断，获得49.4万元人民币买断费，与上海体育局再无关联。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T02:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-10",
+      "url": "https://kaopu.news/story/2026-09-10/liu-xiang-completes-buyout-from-shanghai-sports-90cba6",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "st-shuyuan-fined-for-financial-fraud-a45890",
+      "title": "*ST数源财务造假被罚800万元 原董事长遭市场禁入8年",
+      "description": "浙江证监局9月10日对*ST数源（数源科技）下发行政处罚事先告知书，认定该公司2020年年报、2021年年报及2022年半年报存在财务造假，合计虚增营业收入9.06亿元、虚增利润2365.91万元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T02:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-10",
+      "url": "https://kaopu.news/story/2026-09-10/st-shuyuan-fined-for-financial-fraud-a45890",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "huawei-iran-case-trial-new-york-c8da98",
+      "title": "华为涉窃密与违反制裁案在纽约正式开庭",
+      "description": "2026年9月10日，中国科技公司华为科技有限公司被控窃取商业机密、违反制裁及有组织敲诈勒索等多项罪名的刑事案件，在纽约东区联邦法院正式开庭审理，主审法官为唐娜莉。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T02:23:06+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-08",
+      "url": "https://kaopu.news/story/2026-09-08/huawei-iran-case-trial-new-york-c8da98",
+      "reference": [
+        "联合早报",
+        "世界日报",
+        "纽约时报"
+      ],
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "semaglutide-approved-for-mash-in-china-39ac6c",
+      "title": "减重版司美格鲁肽在华获批治疗脂肪肝",
+      "description": "2026年9月10日，诺和诺德宣布，其减重版司美格鲁肽注射液（商品名：诺和盈）的代谢相关脂肪性肝炎（MASH）适应证已获中国国家药品监督管理局（NMPA）批准上市。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T02:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-10",
+      "url": "https://kaopu.news/story/2026-09-10/semaglutide-approved-for-mash-in-china-39ac6c",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "supreme-court-releases-6-antitrust-cases-e29e12",
+      "title": "最高法发布6件反垄断典型案例",
+      "description": "2026年9月10日，最高人民法院在2026年中国公平竞争政策宣传周期间发布6件反垄断典型案例，涉及限定交易、差别待遇、不公平高价等法律问题。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T02:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-10",
+      "url": "https://kaopu.news/story/2026-09-10/supreme-court-releases-6-antitrust-cases-e29e12",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "four-japanese-win-lasker-award-6cc982",
+      "title": "四名日本人获2026年拉斯克奖",
+      "description": "2026年9月9日，美国拉斯克奖获奖名单公布，四名日本人获奖。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T02:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-09",
+      "url": "https://kaopu.news/story/2026-09-09/four-japanese-win-lasker-award-6cc982",
+      "reference": [
+        "共同网"
+      ],
+      "sourceCount": 3,
+      "sources": []
+    },
     {
       "id": "china-votes-against-iran-nuclear-resolution-b505d7",
       "title": "国际原子能机构通过涉伊核决议 中俄反对",
@@ -21,6 +433,23 @@
         "联合早报"
       ],
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "rhode-island-governor-mckee-loses-primary-eaa9fc",
+      "title": "罗德岛州长麦基在民主党初选中落败",
+      "description": "2026年9月9日，罗德岛州民主党州长丹·麦基在党内初选中败给曾任CVS主管的海伦娜·福克斯，成为美国自2018年以来首位在党内初选中落败的现任州长，也是罗德岛过去30多年来首位在初选中败阵的现任州长。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T02:07:51+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-10",
+      "url": "https://kaopu.news/story/2026-09-10/rhode-island-governor-mckee-loses-primary-eaa9fc",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -75,61 +504,22 @@
       "sources": []
     },
     {
-      "id": "landslide-buries-dozens-in-jiangxi-a7f9a8",
-      "title": "江西遂川泥石流灾害共造成13人遇难",
-      "description": "2026年9月5日凌晨4时许，江西省吉安市遂川县高坪镇明坑村石下组发生泥石流灾害，共造成13人遇难。",
+      "id": "south-korea-q2-nominal-gdp-hits-47-year-high-0605e9",
+      "title": "韩国二季度名义GDP增幅创47年新高",
+      "description": "韩国银行2026年9月8日公布的统计数据显示，第二季度名义国内生产总值同比增长26.4%，创下1979年第三季度以来的最高纪录。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-09-10T01:49:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-05",
-      "url": "https://kaopu.news/story/2026-09-05/landslide-buries-dozens-in-jiangxi-a7f9a8",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "中央通訊社",
-        "财新"
-      ],
-      "sourceCount": 30,
-      "sources": []
-    },
-    {
-      "id": "republicans-hold-midterm-rally-dallas-c6a546",
-      "title": "共和党首办中期选举大会特朗普登台造势",
-      "description": "美国共和党于2026年9月9日至10日在达拉斯美国航空中心首次为中期选举举办全国代表大会，总统特朗普每晚登台发表主旨演讲，为11月选战造势。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-10T01:44:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/republicans-hold-midterm-rally-dallas-c6a546",
-      "reference": [
-        "世界日报",
-        "联合早报"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "apple-huawei-xiaomi-launch-foldable-phones-bfba49",
-      "title": "苹果发布首款折叠屏手机iPhone Duo正式进入折叠屏市场",
-      "description": "美国苹果公司于2026年9月9日在加利福尼亚州库比蒂诺总部举行秋季发布会，正式推出首款折叠屏智能手机iPhone Duo。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-10T01:42:16+00:00",
+      "updatedAt": "2026-09-10T01:52:28+00:00",
       "occurredAt": "",
       "publishedAt": "2026-09-08",
-      "url": "https://kaopu.news/story/2026-09-08/apple-huawei-xiaomi-launch-foldable-phones-bfba49",
+      "url": "https://kaopu.news/story/2026-09-08/south-korea-q2-nominal-gdp-hits-47-year-high-0605e9",
       "reference": [
-        "第一财经",
-        "联合早报",
         "中央通訊社",
-        "澎湃新闻"
+        "韩国国际广播电台",
+        "韩民族日报"
       ],
-      "sourceCount": 14,
+      "sourceCount": 4,
       "sources": []
     },
     {
@@ -452,26 +842,6 @@
       "sources": []
     },
     {
-      "id": "us-strikes-iran-rocket-launch-sites-4c2e3c",
-      "title": "美伊霍尔木兹海峡冲突急剧升级，国际油价突破100美元",
-      "description": "2026年9月5日至10日，美国与伊朗在霍尔木兹海峡及波斯湾地区的军事冲突急剧升级，双方相互袭击油轮与军舰，伊朗宣布设立海峡禁区，国际油价随之突破每桶100美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-10T00:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-08-30",
-      "url": "https://kaopu.news/story/2026-08-30/us-strikes-iran-rocket-launch-sites-4c2e3c",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "韩民族日报",
-        "法广"
-      ],
-      "sourceCount": 91,
-      "sources": []
-    },
-    {
       "id": "ai-gender-swap-videos-china-trend-45f4d3",
       "title": "AI性转视频热潮席卷中国网络",
       "description": "2026年9月10日，中国互联网上兴起一股AI性别反转视频创作热潮。",
@@ -689,26 +1059,6 @@
       "sources": []
     },
     {
-      "id": "us-iran-tensions-oil-prices-europe-stocks-fall-af0275",
-      "title": "美伊军事冲突升级推动国际油价重返100美元",
-      "description": "2026年9月9日，美伊军事冲突升级推动布伦特原油期货六周来首次站上100美元/桶，全球股市承压，多国央行面临加息压力。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T23:26:33.406554+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-08-31",
-      "url": "https://kaopu.news/story/2026-08-31/us-iran-tensions-oil-prices-europe-stocks-fall-af0275",
-      "reference": [
-        "中央通訊社",
-        "澎湃新闻",
-        "第一财经",
-        "法广"
-      ],
-      "sourceCount": 39,
-      "sources": []
-    },
-    {
       "id": "yang-lixin-directs-thunderstorm-revival-007fa0",
       "title": "杨立新复排《雷雨》分享创作理念",
       "description": "2026年9月9日，北京人民艺术剧院经典话剧《雷雨》复排演出在首都剧场进行，复排导演杨立新在演出期间度过69岁生日。",
@@ -792,24 +1142,6 @@
         "澎湃新闻"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "huawei-iran-case-trial-new-york-c8da98",
-      "title": "华为涉窃密欺诈案在纽约开庭审理",
-      "description": "2026年9月9日，华为科技有限公司及其三家子公司因涉嫌窃取商业机密、银行欺诈、洗钱及违反制裁等罪名，在美国纽约东区联邦法院正式开庭审理。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T22:31:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-08",
-      "url": "https://kaopu.news/story/2026-09-08/huawei-iran-case-trial-new-york-c8da98",
-      "reference": [
-        "联合早报",
-        "世界日报"
-      ],
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -1913,23 +2245,6 @@
       "sources": []
     },
     {
-      "id": "four-japanese-win-lasker-award-6cc982",
-      "title": "四名日本人获2026年拉斯克奖",
-      "description": "2026年9月9日，美国拉斯克奖获奖名单公布，四名日本人获奖。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T12:49:43+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/four-japanese-win-lasker-award-6cc982",
-      "reference": [
-        "共同网"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "tokyo-shinjuku-bans-airbnb-near-schools-ed02dd",
       "title": "东京新宿区拟修例禁止住宅区及学校周边经营民宿",
       "description": "东京都新宿区区长吉住健一于2026年9月8日召开记者会，宣布将修订条例以大幅收紧对民宿的监管，原则上禁止在住宅专用区及学校周边经营民宿，商业区民宿的年营业天数上限也将从180天缩短至120天。",
@@ -2638,23 +2953,6 @@
         "加拿大国际广播电台"
       ],
       "sourceCount": 10,
-      "sources": []
-    },
-    {
-      "id": "anthropic-researcher-quits-over-ai-risk-d454ef",
-      "title": "Anthropic研究员因AI失控风险离职",
-      "description": "美国人工智能企业Anthropic的研究员Jacob Coxon于2026年9月8日宣布离职，理由是他担忧AI系统失控可能导致人类灭亡。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T10:46:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/anthropic-researcher-quits-over-ai-risk-d454ef",
-      "reference": [
-        "中央通訊社"
-      ],
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -5003,302 +5301,6 @@
       "url": "https://kaopu.news/story/2026-09-09/china-allows-social-security-fund-buy-overseas-bonds-9ae71a",
       "reference": [
         "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "south-korea-skips-sado-memorial-ceremony-38ab10",
-      "title": "韩国连续三年不参加佐渡金山追悼仪式",
-      "description": "韩国政府9月9日宣布，将不参加定于9月12日在日本新潟县佐渡市世界文化遗产“佐渡岛的金山”举行的劳工追悼仪式。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T05:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/south-korea-skips-sado-memorial-ceremony-38ab10",
-      "reference": [
-        "共同网"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "singapore-cracks-down-on-illegal-transshipment-5763ef",
-      "title": "新加坡重申严打非法转运不实申报可判监",
-      "description": "新加坡人力部兼贸工部政务部长符策翔在2026年9月9日的国会答复中表示，新加坡将采取果断行动维护其商业枢纽声誉，严厉打击非法转运行为。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T04:56:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/singapore-cracks-down-on-illegal-transshipment-5763ef",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "australia-experts-debate-wealth-tax-reform-8cf926",
-      "title": "澳大利亚专家呼吁重议遗产税应对财富转移",
-      "description": "2026年9月9日，澳大利亚专家就是否应重新引入遗产税或土地税等财富税改革展开讨论，以应对代际财富转移和贫富差距问题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T04:55:03.855000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/australia-experts-debate-wealth-tax-reform-8cf926",
-      "reference": [
-        "SBS"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "enhanced-flu-vaccine-rollout-october-1-6beaab",
-      "title": "台湾公费加强型流感疫苗10月1日开打",
-      "description": "台湾疾管署宣布，今年公费流感及新冠疫苗自10月1日起开打，并首次将加强型流感疫苗纳入公费接种。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T04:54:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/enhanced-flu-vaccine-rollout-october-1-6beaab",
-      "reference": [
-        "公视"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "iran-oman-hormuz-navigation-progress-15e08f",
-      "title": "日本外相茂木敏充敦促伊朗在霍尔木兹海峡保持克制",
-      "description": "2026年9月8日，日本外务大臣茂木敏充与伊朗外长阿拉格齐举行电话会谈，这是自今年3月以来双方的第9次通话。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T04:49:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-08",
-      "url": "https://kaopu.news/story/2026-09-08/iran-oman-hormuz-navigation-progress-15e08f",
-      "reference": [
-        "法广",
-        "共同网",
-        "日本放送协会"
-      ],
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "ishin-mps-meet-lai-ching-te-in-taipei-67efec",
-      "title": "日本维新会11名议员访台与赖清德会谈",
-      "description": "日本维新会11名国会议员于2026年9月7日至9日访问台湾，并于9月8日与台湾总统赖清德在总统府举行会谈。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T04:49:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/ishin-mps-meet-lai-ching-te-in-taipei-67efec",
-      "reference": [
-        "中央通訊社",
-        "日本放送协会"
-      ],
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "ishin-members-visit-taiwan-meet-lai-02694a",
-      "title": "日本维新会13名议员访台讨论安全合作",
-      "description": "日本维新会会长马场伸幸率领13名国会议员于2026年9月7日至9日访问台湾，期间晋见总统赖清德，并拜会外交部、立法院及民进党中央党部。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T04:42:14+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-07",
-      "url": "https://kaopu.news/story/2026-09-07/ishin-members-visit-taiwan-meet-lai-02694a",
-      "reference": [
-        "中央通訊社",
-        "联合早报"
-      ],
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "sarawak-medical-helicopter-crashes-five-on-board-a9e6ce",
-      "title": "马来西亚医疗直升机坠毁致五人遇难",
-      "description": "马来西亚砂拉越州一架执行飞行医生任务的BO-105型直升机9月8日下午坠毁，机上五人全部遇难。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T04:32:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-08",
-      "url": "https://kaopu.news/story/2026-09-08/sarawak-medical-helicopter-crashes-five-on-board-a9e6ce",
-      "reference": [
-        "联合早报",
-        "法广"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "cia-deputy-director-expands-spying-on-china-48536d",
-      "title": "美中情局副局长称正扩大对华间谍活动",
-      "description": "美国中央情报局副局长艾利斯于2026年9月8日在华盛顿一场网络安全会议上公开表示，美国正扩大针对中国大陆的间谍活动，以应对中国在军事和经济上构成的“双重威胁”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T04:31:51+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/cia-deputy-director-expands-spying-on-china-48536d",
-      "reference": [
-        "纽约时报",
-        "世界日报"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "fast-releases-largest-hydrogen-galaxy-catalog-2001a7",
-      "title": "中国天眼发布最大中性氢星系样本库",
-      "description": "2026年9月8日，中国科学院国家天文台姜鹏团队利用中国天眼FAST，发布中性氢巡天项目第二期数据集（FASHI DR2），构建起世界规模最大的中性氢星系样本库。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T04:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/fast-releases-largest-hydrogen-galaxy-catalog-2001a7",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "vat-law-brings-three-changes-to-tourism-d862b6",
-      "title": "增值税法实施带来文旅业三大政策变化",
-      "description": "2026年9月9日，第一财经报道称，今年起增值税法及相关配套规则实施，文旅行业迎来三大增值税政策变化。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T04:28:39.392848+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/vat-law-brings-three-changes-to-tourism-d862b6",
-      "reference": [
-        "第一财经"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "chen-yi-shen-democracy-legitimizes-government-f4560e",
-      "title": "国史馆长称台湾民主化赋予政府正当性",
-      "description": "国史馆长陈仪深9月9日在台北一场记者会上表示，二战后未经全面改选的中华民国政府会被视为非法外来政权。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T04:27:08+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/chen-yi-shen-democracy-legitimizes-government-f4560e",
-      "reference": [
-        "中央通訊社"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "gao-qi-appointed-counter-terrorism-commissioner-371f39",
-      "title": "高琪出任公安部反恐专员（副部长级）",
-      "description": "据公安部官网消息，高琪已出任公安部党委委员、反恐专员，该职务为副部长级。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T04:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/gao-qi-appointed-counter-terrorism-commissioner-371f39",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "baby-milk-powder-price-rises-2-8-percent-0a2102",
-      "title": "全球乳清蛋白涨价致本地婴儿奶粉价格同比上涨2.8%",
-      "description": "贸工部在国会答复议员询问时指出，受全球乳清蛋白价格走高及货运成本增加影响，今年1月至7月本地婴儿奶粉零售价格同比上涨2.8%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T04:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/baby-milk-powder-price-rises-2-8-percent-0a2102",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "bessent-warns-markets-as-dealer-7348e3",
-      "title": "贝森特自称庄家警告市场勿与其作对",
-      "description": "2026年9月9日，贝森特公开警告市场不要与其作对，声称自己现在就是“庄家”，并称可以利用美国的资产负债表来制定外交政策。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T04:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/bessent-warns-markets-as-dealer-7348e3",
-      "reference": [
-        "财新"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "north-korean-soldiers-cross-border-20-times-28ceb8",
-      "title": "朝鲜士兵近一月越界逾20次韩国加强戒备",
-      "description": "韩国军方9月9日通报，近一个月来朝鲜士兵越过韩朝军事分界线超过20次，其中仅8月的越界次数就已超过2025年全年总和（17次）。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T04:08:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/north-korean-soldiers-cross-border-20-times-28ceb8",
-      "reference": [
-        "联合早报",
-        "韩国国际广播电台"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "new-york-times-climate-resilience-ranking-taipei-low-6c48ea",
-      "title": "《纽约时报》气候韧性排名台北位列倒数第十",
-      "description": "《纽约时报》2026年9月9日援引气候风险分析公司「AlphaGeo」的研究，对全球72个大型城市进行气候韧性排名，台北市位列倒数第10。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T04:03:58+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/new-york-times-climate-resilience-ranking-taipei-low-6c48ea",
-      "reference": [
-        "公视"
       ],
       "sourceCount": 1,
       "sources": []
