@@ -1,11 +1,28 @@
 {
   "details": {
     "date": "2026-09-10",
-    "timestamp": 1789057700,
+    "timestamp": 1789071980,
     "totalPages": 1,
     "total": 300
   },
   "stories": [
+    {
+      "id": "billionaire-donates-beach-land-settlement-d2e289",
+      "title": "亿万富豪捐海滨土地和解非法挖沙争议",
+      "description": "南加亿万富豪、密尔瓦基酿酒人队老板Mark Attanasio，因涉嫌在马里布非法挖沙石，拟捐赠一处海滨土地给州政府作为公共海滩以和解争议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T19:01:48+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-10",
+      "url": "https://kaopu.news/story/2026-09-10/billionaire-donates-beach-land-settlement-d2e289",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "san-francisco-rent-surge-declares-emergency-29216f",
       "title": "旧金山房租飙升26% 市长宣布租房紧急状态",
@@ -129,6 +146,26 @@
         "联合早报"
       ],
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-iran-tensions-oil-prices-europe-stocks-fall-af0275",
+      "title": "美伊冲突推高国际油价至102美元并引发全球股债抛售",
+      "description": "2026年9月上旬，美国与伊朗军事冲突持续升级，中东战火蔓延导致国际油价飙升，全球通胀压力加剧，股债市场出现剧烈波动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-10T16:02:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-08-31",
+      "url": "https://kaopu.news/story/2026-08-31/us-iran-tensions-oil-prices-europe-stocks-fall-af0275",
+      "reference": [
+        "中央通訊社",
+        "澎湃新闻",
+        "第一财经",
+        "法广"
+      ],
+      "sourceCount": 49,
       "sources": []
     },
     {
@@ -555,26 +592,6 @@
         "法广"
       ],
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "us-iran-tensions-oil-prices-europe-stocks-fall-af0275",
-      "title": "美伊冲突升级封锁霍尔木兹海峡 国际油价破百全球股市债市齐跌",
-      "description": "2026年9月1日起，美军对伊朗境内目标发动新一轮打击，伊朗随即报复袭击中东美军基地，霍尔木兹海峡形同无限期封锁，全球约五分之一石油运输受阻。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-10T13:55:51+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-08-31",
-      "url": "https://kaopu.news/story/2026-08-31/us-iran-tensions-oil-prices-europe-stocks-fall-af0275",
-      "reference": [
-        "中央通訊社",
-        "澎湃新闻",
-        "第一财经",
-        "法广"
-      ],
-      "sourceCount": 48,
       "sources": []
     },
     {
@@ -5275,25 +5292,6 @@
         "中央通訊社"
       ],
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "south-korea-q2-nominal-gdp-hits-47-year-high-0605e9",
-      "title": "韩国二季度名义GDP增幅创47年新高",
-      "description": "韩国银行2026年9月8日公布的统计数据显示，第二季度名义国内生产总值同比增长26.4%，创下1979年第三季度以来的最高纪录。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-10T01:52:28+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-08",
-      "url": "https://kaopu.news/story/2026-09-08/south-korea-q2-nominal-gdp-hits-47-year-high-0605e9",
-      "reference": [
-        "中央通訊社",
-        "韩国国际广播电台",
-        "韩民族日报"
-      ],
-      "sourceCount": 4,
       "sources": []
     }
   ]
