@@ -7,31 +7,30 @@
   },
   "stories": [
     {
-      "id": "foreign-investment-accelerates-in-five-strategic-sectors-e5da02",
-      "title": "第二十六届投洽会聚焦外资在华创新投资",
-      "description": "第二十六届中国国际投资贸易洽谈会于2026年9月8日至11日在厦门国际博览中心举行，本届投洽会围绕“投资中国”“中国投资”“国际投资”三大板块设立主题展区。",
+      "id": "tsa-gateside-precheck-no-ticket-access-a15e2e",
+      "title": "TSA恢复13机场无票送机服务",
+      "description": "美国运输安全管理局（TSA）于2026年9月10日恢复部分机场的登机口送机服务，允许符合条件的TSA PreCheck会员无票通过安检进入登机口区域。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-09-09T23:19:00+00:00",
+      "updatedAt": "2026-09-10T00:17:46+00:00",
       "occurredAt": "",
       "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/foreign-investment-accelerates-in-five-strategic-sectors-e5da02",
+      "url": "https://kaopu.news/story/2026-09-09/tsa-gateside-precheck-no-ticket-access-a15e2e",
       "reference": [
-        "第一财经",
-        "澎湃新闻"
+        "世界日报"
       ],
       "sourceCount": 2,
       "sources": []
     },
     {
       "id": "us-strikes-iran-rocket-launch-sites-4c2e3c",
-      "title": "美伊在霍尔木兹海峡相互袭击油轮军舰致油价破百",
-      "description": "2026年9月5日至9日，美国与伊朗在波斯湾及霍尔木兹海峡附近的军事冲突急剧升级，双方连续数日以对方油轮和军舰为目标发动攻击。",
+      "title": "美伊霍尔木兹海峡冲突急剧升级，国际油价突破100美元",
+      "description": "2026年9月5日至10日，美国与伊朗在霍尔木兹海峡及波斯湾地区的军事冲突急剧升级，双方相互袭击油轮与军舰，伊朗宣布设立海峡禁区，国际油价随之突破每桶100美元。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-09-09T23:12:00+00:00",
+      "updatedAt": "2026-09-10T00:15:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-08-30",
       "url": "https://kaopu.news/story/2026-08-30/us-strikes-iran-rocket-launch-sites-4c2e3c",
@@ -41,17 +40,89 @@
         "韩民族日报",
         "法广"
       ],
-      "sourceCount": 90,
+      "sourceCount": 91,
+      "sources": []
+    },
+    {
+      "id": "israel-embassy-slovenia-opens-amid-protests-076a7a",
+      "title": "以色列驻斯洛文尼亚使馆开馆日遭大规模抗议",
+      "description": "2026年9月9日，以色列驻斯洛文尼亚大使馆在卢布尔雅那正式开馆当天，约2000名示威者在使馆前举行抗议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-09T23:54:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-10",
+      "url": "https://kaopu.news/story/2026-09-10/israel-embassy-slovenia-opens-amid-protests-076a7a",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ifswf-ceo-praises-china-capital-attraction-0f1876",
+      "title": "国际主权财富基金论坛首席执行官肯定中国吸引国际资本表现",
+      "description": "9月9日，在第二十六届中国国际投资贸易洽谈会上，国际主权财富基金论坛（IFSWF）首席执行官Duncan Bonfield接受采访时表示，中国在吸引国际资本方面正取得显著成功，是全球总体表现不错的国家之一。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-09T23:41:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-10",
+      "url": "https://kaopu.news/story/2026-09-10/ifswf-ceo-praises-china-capital-attraction-0f1876",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-agencies-accuse-six-chinese-firms-ai-theft-4787ac",
+      "title": "美国安全机构指控六家中国AI企业大规模蒸馏美模型",
+      "description": "美国国家安全局（NSA）、联邦调查局（FBI）与网络安全和基础设施安全局（CISA）于2026年9月8日发布联合声明，指控深度求索（DeepSeek）、月之暗面（Moonshot AI）、阿里巴巴、MiniMax、阶跃星辰（StepFun）和智谱（Z.AI）六家中国企业，至少从2024年起利用蒸馏技术以工业化规模访问并提取美国AI模型信息。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-09T23:41:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-09",
+      "url": "https://kaopu.news/story/2026-09-09/us-agencies-accuse-six-chinese-firms-ai-theft-4787ac",
+      "reference": [
+        "联合早报",
+        "世界日报",
+        "澎湃新闻",
+        "财新"
+      ],
+      "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "foreign-investment-accelerates-in-five-strategic-sectors-e5da02",
+      "title": "第二十六届投洽会厦门开幕发布多项成果",
+      "description": "第二十六届中国国际投资贸易洽谈会于2026年9月8日至11日在厦门举办。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-09T23:36:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-09",
+      "url": "https://kaopu.news/story/2026-09-09/foreign-investment-accelerates-in-five-strategic-sectors-e5da02",
+      "reference": [
+        "第一财经",
+        "澎湃新闻"
+      ],
+      "sourceCount": 3,
       "sources": []
     },
     {
       "id": "apple-huawei-xiaomi-launch-foldable-phones-bfba49",
-      "title": "苹果发布首款折叠屏手机iPhone Duo起售价1999美元",
-      "description": "美国苹果公司于2026年9月9日在加利福尼亚州库比蒂诺总部发布首款折叠屏手机iPhone Duo，起售价1999美元。",
+      "title": "苹果发布首款折叠屏手机iPhone Duo并全系涨价",
+      "description": "美国苹果公司于2026年9月9日在加利福尼亚州库比蒂诺总部举行秋季发布会，推出首款折叠屏手机iPhone Duo及iPhone 18 Pro系列，并宣布全系涨价。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-09-09T23:10:34.068738+00:00",
+      "updatedAt": "2026-09-09T23:35:36.130870+00:00",
       "occurredAt": "",
       "publishedAt": "2026-09-08",
       "url": "https://kaopu.news/story/2026-09-08/apple-huawei-xiaomi-launch-foldable-phones-bfba49",
@@ -61,7 +132,171 @@
         "中央通訊社",
         "澎湃新闻"
       ],
+      "sourceCount": 13,
+      "sources": []
+    },
+    {
+      "id": "south-korea-rd-gdp-ratio-second-globally-ab99f1",
+      "title": "韩国研发投入占GDP比重居全球第二",
+      "description": "日本文部科学省科学技术与学术政策研究所于2026年9月9日发布《科技指标》报告，显示韩国研发经费占国内生产总值（GDP）的比重位居全球第二。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-09T23:32:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-10",
+      "url": "https://kaopu.news/story/2026-09-10/south-korea-rd-gdp-ratio-second-globally-ab99f1",
+      "reference": [
+        "韩国国际广播电台",
+        "东亚日报"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "ai-actress-tilly-norwood-cnn-interview-dffccd",
+      "title": "好莱坞首位AI演员蒂莉·诺伍德称非人类敌人",
+      "description": "好莱坞首位人工智能演员蒂莉·诺伍德于2026年9月8日接受CNN视频采访。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-09T23:31:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-09",
+      "url": "https://kaopu.news/story/2026-09-09/ai-actress-tilly-norwood-cnn-interview-dffccd",
+      "reference": [
+        "中央通訊社",
+        "东亚日报"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "iaea-confirms-new-north-korea-uranium-facility-ffd9b5",
+      "title": "国际原子能机构披露朝鲜同时扩建宁边与降仙核设施",
+      "description": "国际原子能机构在2026年8月28日的一份报告中披露，朝鲜正在宁边和降仙两地同时扩建铀浓缩设施，其中宁边园区内新建的第二座铀浓缩设施已确认存在，降仙的扩建厂房则已于2026年1月开始运作。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-09T23:31:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-09",
+      "url": "https://kaopu.news/story/2026-09-09/iaea-confirms-new-north-korea-uranium-facility-ffd9b5",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "中央通訊社",
+        "东亚日报"
+      ],
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "zheng-qinwen-beats-swiatek-us-open-quarterfinal-f0de12",
+      "title": "郑钦文美网逆转斯瓦泰克晋级八强",
+      "description": "北京时间2026年9月7日，中国网球选手郑钦文在美国网球公开赛女单第四轮比赛中，以7比5、6比3直落两盘击败六届大满贯冠军、波兰名将斯瓦泰克，晋级八强。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-09T23:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-07",
+      "url": "https://kaopu.news/story/2026-09-07/zheng-qinwen-beats-swiatek-us-open-quarterfinal-f0de12",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "法广"
+      ],
       "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "treasury-raises-buyback-cap-yields-7f0f75",
+      "title": "美财政部国债回购规模不及预期致收益率飙升",
+      "description": "美国财政部于9月9日宣布，将于次日回购最多60亿美元中长期国债，规模低于市场预期的80亿至100亿美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-09T23:27:33.405803+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-06",
+      "url": "https://kaopu.news/story/2026-09-06/treasury-raises-buyback-cap-yields-7f0f75",
+      "reference": [
+        "第一财经",
+        "中央通訊社"
+      ],
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "us-iran-tensions-oil-prices-europe-stocks-fall-af0275",
+      "title": "美伊军事冲突升级推动国际油价重返100美元",
+      "description": "2026年9月9日，美伊军事冲突升级推动布伦特原油期货六周来首次站上100美元/桶，全球股市承压，多国央行面临加息压力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-09T23:26:33.406554+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-08-31",
+      "url": "https://kaopu.news/story/2026-08-31/us-iran-tensions-oil-prices-europe-stocks-fall-af0275",
+      "reference": [
+        "中央通訊社",
+        "澎湃新闻",
+        "第一财经",
+        "法广"
+      ],
+      "sourceCount": 39,
+      "sources": []
+    },
+    {
+      "id": "yang-lixin-directs-thunderstorm-revival-007fa0",
+      "title": "杨立新复排《雷雨》分享创作理念",
+      "description": "2026年9月9日，北京人民艺术剧院经典话剧《雷雨》复排演出在首都剧场进行，复排导演杨立新在演出期间度过69岁生日。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-09T23:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-10",
+      "url": "https://kaopu.news/story/2026-09-10/yang-lixin-directs-thunderstorm-revival-007fa0",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-votes-against-iran-nuclear-resolution-b505d7",
+      "title": "中国在IAEA理事会对伊核决议投反对票",
+      "description": "维也纳当地时间9月9日，国际原子能机构（IAEA）理事会审议伊朗核问题，并就美国、英国、法国、德国共同推动的决议进行表决。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-09T23:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-10",
+      "url": "https://kaopu.news/story/2026-09-10/china-votes-against-iran-nuclear-resolution-b505d7",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tung-chee-hwa-dies-a5afdd",
+      "title": "香港首任特首董建华逝世",
+      "description": "2026年9月9日，香港首任特首董建华逝世。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-09T23:10:34.081000+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-10",
+      "url": "https://kaopu.news/story/2026-09-10/tung-chee-hwa-dies-a5afdd",
+      "reference": [
+        "SBS"
+      ],
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -114,6 +349,25 @@
         "澎湃新闻"
       ],
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-gives-45000-holiday-cash-to-aides-0edc8b",
+      "title": "特朗普向三名白宫女助理各赠4.5万美元节日礼金",
+      "description": "美国前总统特朗普于2026年9月9日向三名白宫女助理各赠送4.5万美元现金作为节日礼物，合计13.5万美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-09T22:36:08+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-09",
+      "url": "https://kaopu.news/story/2026-09-09/trump-gives-45000-holiday-cash-to-aides-0edc8b",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "法广"
+      ],
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -215,6 +469,23 @@
       "url": "https://kaopu.news/story/2026-09-09/china-canada-hold-candid-military-talks-509f0f",
       "reference": [
         "加拿大国际广播电台"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "zelenskyy-plane-narrowly-misses-drone-839182",
+      "title": "泽伦斯基专机起飞时险遭无人机击中",
+      "description": "挪威首相斯托尔向挪威广播公司(NRK)透露，乌克兰总统泽伦斯基的专机2026年9月9日从摩尔多瓦起飞前往挪威途中，险些被无人机击中。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-09T21:32:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-10",
+      "url": "https://kaopu.news/story/2026-09-10/zelenskyy-plane-narrowly-misses-drone-839182",
+      "reference": [
+        "法广"
       ],
       "sourceCount": 1,
       "sources": []
@@ -326,19 +597,20 @@
     },
     {
       "id": "oil-prices-surge-on-september-9-741c16",
-      "title": "国际油价9日显著上涨",
-      "description": "国际油价于2026年9月9日出现显著上涨。",
+      "title": "中东攻击升级推动国际油价突破100美元",
+      "description": "2026年9月9日，中东地区攻击行动持续升级，引发市场对主要原油产区能源供应受干扰的担忧，国际油价显著上涨。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-09-09T20:26:00+00:00",
+      "updatedAt": "2026-09-09T20:35:07+00:00",
       "occurredAt": "",
       "publishedAt": "2026-09-09",
       "url": "https://kaopu.news/story/2026-09-09/oil-prices-surge-on-september-9-741c16",
       "reference": [
-        "澎湃新闻"
+        "澎湃新闻",
+        "中央通訊社"
       ],
-      "sourceCount": 1,
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -464,23 +736,6 @@
       "sources": []
     },
     {
-      "id": "tsa-gateside-precheck-no-ticket-access-a15e2e",
-      "title": "美国TSA推出无票过安检计划 送行接机可进登机区",
-      "description": "美国运输安全管理局（TSA）于2026年9月9日推出“Gateside by TSA PreCheck”计划，允许符合条件的TSA PreCheck会员无需机票即可通过安检进入登机门区域。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T17:48:53+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/tsa-gateside-precheck-no-ticket-access-a15e2e",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-women-basketball-beats-puerto-rico-97abc9",
       "title": "中国女篮险胜波多黎各晋级世界杯八强",
       "description": "2026年9月9日，在2026年国际篮联女篮世界杯四分之一决赛资格赛中，中国女篮以75比72战胜波多黎各女篮，成功晋级八强。",
@@ -495,44 +750,6 @@
         "澎湃新闻"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "treasury-raises-buyback-cap-yields-7f0f75",
-      "title": "美国财政部扩大长债回购规模60亿美元",
-      "description": "美国财政部于2026年9月9日启动扩大后的长期国债回购操作，首次回购规模为60亿美元，高于此前公布的40亿美元下限，但低于市场预期的80亿至100亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T16:28:45+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-06",
-      "url": "https://kaopu.news/story/2026-09-06/treasury-raises-buyback-cap-yields-7f0f75",
-      "reference": [
-        "第一财经",
-        "中央通訊社"
-      ],
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "us-iran-tensions-oil-prices-europe-stocks-fall-af0275",
-      "title": "美伊冲突升级推高油价突破100美元全球股市债市承压",
-      "description": "2026年8月31日，美军与伊朗的军事冲突骤然升级，引发全球金融市场剧烈震荡。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T16:23:43+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-08-31",
-      "url": "https://kaopu.news/story/2026-08-31/us-iran-tensions-oil-prices-europe-stocks-fall-af0275",
-      "reference": [
-        "中央通訊社",
-        "澎湃新闻",
-        "第一财经",
-        "法广"
-      ],
-      "sourceCount": 36,
       "sources": []
     },
     {
@@ -626,23 +843,6 @@
       "sources": []
     },
     {
-      "id": "ai-actress-tilly-norwood-cnn-interview-dffccd",
-      "title": "AI女星蒂莉诺伍德受访称非敌人但即兴演出困难",
-      "description": "2026年9月8日，由人工智能生成的虚拟“女星”蒂莉诺伍德接受美国有线电视新闻网（CNN）即时视频专访。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T15:18:31+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/ai-actress-tilly-norwood-cnn-interview-dffccd",
-      "reference": [
-        "中央通訊社"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "sherrill-ends-ai-data-center-tax-credits-11ef1c",
       "title": "美国十余州因民意反对暂停数据中心税收优惠",
       "description": "2026年9月9日，美国十余个州因当地民意反对，暂停或取消了针对数据中心的税务优惠政策。",
@@ -691,26 +891,6 @@
         "财新"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-agencies-accuse-six-chinese-firms-ai-theft-4787ac",
-      "title": "美国三大安全机构联合指控六家中国AI企业工业规模蒸馏模型",
-      "description": "2026年9月8日，美国国家安全局、网络安全和基础设施安全局以及联邦调查局联合发布声明，指控六家中国人工智能企业自2024年起以“工业规模”利用蒸馏技术，系统性地从美国AI模型中提取专有信息。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T15:02:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/us-agencies-accuse-six-chinese-firms-ai-theft-4787ac",
-      "reference": [
-        "联合早报",
-        "世界日报",
-        "澎湃新闻",
-        "财新"
-      ],
-      "sourceCount": 11,
       "sources": []
     },
     {
@@ -2918,24 +3098,6 @@
       "sources": []
     },
     {
-      "id": "trump-gives-45000-holiday-cash-to-aides-0edc8b",
-      "title": "特朗普向三名女助理各发4.5万美元节日红包",
-      "description": "2026年9月9日，美国总统特朗普向三名女性助理各发放4.5万美元节日现金红包，三人合计13.5万美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T08:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/trump-gives-45000-holiday-cash-to-aides-0edc8b",
-      "reference": [
-        "世界日报",
-        "联合早报"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "china-car-exports-surge-domestic-sales-fall-896039",
       "title": "中国8月乘用车国内零售量同比下滑23.6%",
       "description": "2026年8月，中国乘用车市场国内零售量继续大幅收缩。",
@@ -3074,25 +3236,6 @@
         "法广"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "iaea-confirms-new-north-korea-uranium-facility-ffd9b5",
-      "title": "国际原子能机构确认朝鲜宁边新建第二座铀浓缩设施",
-      "description": "国际原子能机构（IAEA）在8月28日提交的报告中确认，朝鲜在宁边核设施园区内新建了第二座铀浓缩设施，可容纳最多28组离心机级联。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T07:30:30+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/iaea-confirms-new-north-korea-uranium-facility-ffd9b5",
-      "reference": [
-        "韩国国际广播电台",
-        "联合早报",
-        "中央通訊社"
-      ],
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -5162,149 +5305,6 @@
         "第一财经"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-unsold-new-homes-surge-61-percent-3a11ff",
-      "title": "全台待售新成屋四年增逾六成突破11万宅",
-      "description": "中信房屋引用台湾内政部统计指出，全台待售新成屋数量从2021年第4季至2025年第4季大幅攀升，去化压力升高。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T03:12:23+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/taiwan-unsold-new-homes-surge-61-percent-3a11ff",
-      "reference": [
-        "中央通訊社"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "xi-us-visit-agriculture-announcement-763a39",
-      "title": "习近平拟于9月24日率大型商业代表团访美",
-      "description": "中国国家主席习近平计划于2026年9月24日访问美国华盛顿，与美国总统特朗普举行年内第二次峰会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T03:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-04",
-      "url": "https://kaopu.news/story/2026-09-04/xi-us-visit-agriculture-announcement-763a39",
-      "reference": [
-        "联合早报",
-        "世界日报",
-        "中央通訊社",
-        "德国之声"
-      ],
-      "sourceCount": 15,
-      "sources": []
-    },
-    {
-      "id": "shangmugam-condemns-racist-remarks-police-probe-cc1fa7",
-      "title": "新加坡警方调查五名涉种族歧视网民",
-      "description": "新加坡警方于9月9日对五名年龄介于29岁至66岁的网民展开调查，这些人因针对尼泊尔泥石流失踪者及新加坡航空公司投资印度航空发表种族歧视言论而被问话。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T03:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-05",
-      "url": "https://kaopu.news/story/2026-09-05/shangmugam-condemns-racist-remarks-police-probe-cc1fa7",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "japan-warns-heavy-rain-until-september-10-74697e",
-      "title": "日本气象厅警告强降雨持续至10日",
-      "description": "日本气象厅于9月9日警告，受第24号台风“科罗旺”残留热带低气压和活跃锋面影响，强降雨将持续至10日，东海等地可能出现线状降水带。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T03:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/japan-warns-heavy-rain-until-september-10-74697e",
-      "reference": [
-        "共同网",
-        "联合早报"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "chinese-cargo-ship-explores-arctic-route-49b71b",
-      "title": "中国货船探索北极航道引发商业与地缘政治讨论",
-      "description": "2026年9月9日，《纽约时报》报道称，中国正推广首个使用北方海路的定期货运服务，一艘名为“迪拜塔号”的中国货轮于8月停靠宁波后，本周将穿越北冰洋前往英国。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T02:57:34+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/chinese-cargo-ship-explores-arctic-route-49b71b",
-      "reference": [
-        "纽约时报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "xi-putin-congratulate-kim-north-korea-anniversary-6d94a6",
-      "title": "习近平普京分别致电金正恩祝贺朝鲜建国78周年",
-      "description": "2026年9月9日，中国国家主席习近平与俄罗斯总统普京分别致电朝鲜最高领导人金正恩，祝贺朝鲜建国78周年。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T02:55:08+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/xi-putin-congratulate-kim-north-korea-anniversary-6d94a6",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "singapore-mandates-electronic-salary-payment-b2c146",
-      "title": "新加坡人力部拟强制雇主电子支付薪水",
-      "description": "新加坡人力部代部长刘洁敏于2026年9月9日回复议员蔡引舟的询问时透露，人力部正与劳资伙伴探讨强制雇主以电子方式支付薪水，包括外籍员工，以应对现金薪水追讨案例持续增加的问题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T02:53:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/singapore-mandates-electronic-salary-payment-b2c146",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-naval-blockade-cuts-iran-oil-exports-2cd10f",
-      "title": "伊朗向美军舰艇发射弹道导弹遭反击",
-      "description": "当地时间9月7日，伊朗伊斯兰革命卫队向霍尔木兹海峡附近执行封锁任务的美国海军舰艇发射弹道导弹，美军舰艇未被击中。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-09T02:36:27+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-08",
-      "url": "https://kaopu.news/story/2026-09-08/us-naval-blockade-cuts-iran-oil-exports-2cd10f",
-      "reference": [
-        "联合早报",
-        "法广",
-        "韩民族日报"
-      ],
-      "sourceCount": 6,
       "sources": []
     }
   ]
