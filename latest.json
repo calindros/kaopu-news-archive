@@ -7,6 +7,116 @@
   },
   "stories": [
     {
+      "id": "us-stocks-rebound-gulf-iran-talks-8006e3",
+      "title": "美股反弹结束四连阴 海湾国家拟与伊朗会谈",
+      "description": "美国股市在9月11日结束连续四个交易日的下跌，三大股指全线反弹。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-11T23:21:33.723575+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-11",
+      "url": "https://kaopu.news/story/2026-09-11/us-stocks-rebound-gulf-iran-talks-8006e3",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "第一财经"
+      ],
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "saudi-oil-pipeline-attacks-halt-operations-9df300",
+      "title": "沙特东西输油管道遭伊拉克境内无人机袭击关闭",
+      "description": "沙特阿拉伯能源部9月10日宣布，因位于利雅得和麦地那两地的东西输油管道当天上午遭到无人机袭击，造成人员受伤和设施损毁，沙特已预防性关闭该管道。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-11T23:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-11",
+      "url": "https://kaopu.news/story/2026-09-11/saudi-oil-pipeline-attacks-halt-operations-9df300",
+      "reference": [
+        "法广",
+        "联合早报"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "houthi-attack-saudi-arabia-73-civilians-wounded-619de7",
+      "title": "胡塞武装攻占曼德海峡战略要地控制红海航道",
+      "description": "伊朗支持的也门胡塞武装于2026年9月10日攻占红海港口城市穆哈，随后在11日夺取曼德海峡中间的丕林岛及哈尼什群岛，基本控制了这一连接红海与印度洋的通航咽喉。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-11T23:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-08",
+      "url": "https://kaopu.news/story/2026-09-08/houthi-attack-saudi-arabia-73-civilians-wounded-619de7",
+      "reference": [
+        "法广",
+        "财新",
+        "公视",
+        "联合早报"
+      ],
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
+      "id": "gander-hosts-9-11-anniversary-ceremony-3ee435",
+      "title": "甘德市举行仪式纪念9·11事件25周年",
+      "description": "2026年9月11日，纽芬兰省甘德市举行仪式，纪念25年前“9·11”恐怖袭击事件中美国飞机被迫降加拿大时该镇展现的善意。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-11T22:31:29.463000+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-11",
+      "url": "https://kaopu.news/story/2026-09-11/gander-hosts-9-11-anniversary-ceremony-3ee435",
+      "reference": [
+        "加拿大国际广播电台"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-marks-9-11-25th-anniversary-1c4883",
+      "title": "美国举行9·11恐怖袭击25周年纪念活动",
+      "description": "2026年9月11日，美国多地举行活动，纪念9·11恐怖袭击事件发生25周年。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-11T22:23:48.804000+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-11",
+      "url": "https://kaopu.news/story/2026-09-11/us-marks-9-11-25th-anniversary-1c4883",
+      "reference": [
+        "澎湃新闻",
+        "SBS"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "oil-prices-fall-on-september-11-9398c6",
+      "title": "国际油价从四个月高点回落收跌",
+      "description": "受伊朗战争及也门胡塞武装威胁影响，国际油价9月11日从四个月高点回落，周线收红。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-11T22:08:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-11",
+      "url": "https://kaopu.news/story/2026-09-11/oil-prices-fall-on-september-11-9398c6",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "indonesia-java-island-6-5-earthquake-f5e220",
       "title": "印尼爪哇岛附近海域发生6.5级地震",
       "description": "2026年9月12日，印尼爪哇岛附近海域发生6.5级地震。",
@@ -79,40 +189,6 @@
         "联合早报"
       ],
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "saudi-oil-pipeline-attacks-halt-operations-9df300",
-      "title": "沙特东西输油管遭多次袭击暂停运作",
-      "description": "沙特阿拉伯东西输油管位于利雅得及麦地那地区的部分于2026年9月10日上午遭到多次攻击，导致输油管暂停运作并造成人员受伤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-11T20:32:08+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-11",
-      "url": "https://kaopu.news/story/2026-09-11/saudi-oil-pipeline-attacks-halt-operations-9df300",
-      "reference": [
-        "法广"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "oil-prices-fall-on-september-11-9398c6",
-      "title": "国际油价9月11日显著下跌",
-      "description": "国际油价于2026年9月11日出现下跌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-11T19:47:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-11",
-      "url": "https://kaopu.news/story/2026-09-11/oil-prices-fall-on-september-11-9398c6",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -324,26 +400,6 @@
         "世界日报"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "houthi-attack-saudi-arabia-73-civilians-wounded-619de7",
-      "title": "胡塞武装攻占曼德海峡战略要地控制红海航道",
-      "description": "伊朗支持的也门胡塞武装于2026年9月10日攻占红海港口城市摩卡，随后在24小时内接连夺取迈云岛、祖巴卜及哈尼什群岛，基本控制了连接红海与印度洋的曼德海峡通航咽喉。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-11T15:49:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-08",
-      "url": "https://kaopu.news/story/2026-09-08/houthi-attack-saudi-arabia-73-civilians-wounded-619de7",
-      "reference": [
-        "法广",
-        "财新",
-        "公视",
-        "联合早报"
-      ],
-      "sourceCount": 14,
       "sources": []
     },
     {
@@ -5265,61 +5321,6 @@
       "url": "https://kaopu.news/story/2026-09-11/st-qingyue-triggers-mandatory-delisting-81d18e",
       "reference": [
         "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "pboc-unveils-financial-power-fifteenth-five-plan-b853f2",
-      "title": "金融强国十五五规划出台四部门详解改革任务",
-      "description": "2026年9月10日，中国人民银行副行长陆磊在国新办发布会上宣布，《金融强国建设“十五五”规划》正式出台。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-11T00:10:49.749534+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-10",
-      "url": "https://kaopu.news/story/2026-09-10/pboc-unveils-financial-power-fifteenth-five-plan-b853f2",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "china-august-exports-imports-grow-double-digits-99916b",
-      "title": "中国8月出口同比增长25% 贸易顺差连续四月破千亿美元",
-      "description": "中国海关总署2026年9月8日公布的数据显示，8月以美元计出口同比增长25%，进口同比增长28.2%，当月贸易顺差达1190.9亿美元，连续第四个月突破千亿美元大关。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-11T00:06:21.764000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-08",
-      "url": "https://kaopu.news/story/2026-09-08/china-august-exports-imports-grow-double-digits-99916b",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "财新",
-        "法广"
-      ],
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
-      "id": "hefei-orders-fatigue-alert-for-delivery-riders-3e23d2",
-      "title": "合肥要求外卖平台建立疲劳预警机制",
-      "description": "2026年9月9日，合肥市市场监管局、公安局与商务局联合印发《全市外卖平台和第三方合作单位安全监管规范和安全生产工作指引(试行)》，要求外卖平台建立疲劳预警机制。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-10T23:41:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-11",
-      "url": "https://kaopu.news/story/2026-09-11/hefei-orders-fatigue-alert-for-delivery-riders-3e23d2",
-      "reference": [
-        "联合早报"
       ],
       "sourceCount": 1,
       "sources": []
