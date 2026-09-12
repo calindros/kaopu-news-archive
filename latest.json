@@ -3,17 +3,70 @@
     "date": "2026-09-12",
     "timestamp": 1789223112,
     "totalPages": 1,
-    "total": 206
+    "total": 201
   },
   "stories": [
     {
-      "id": "saudi-oil-pipeline-attacks-halt-operations-9df300",
-      "title": "沙特东西输油管道遭无人机袭击后预防性关闭",
-      "description": "沙特阿拉伯东西输油管道位于利雅得和麦地那地区的设施于9月10日上午遭到多次无人机袭击，造成人员受伤和设施损坏，管道随后预防性关闭。",
+      "id": "japan-top-spokesman-calls-for-foreign-intelligence-agency-0c70af",
+      "title": "日本拟大幅增加信息战预算并设立对外情报机构",
+      "description": "日本政府计划大幅增加信息战预算，并考虑设立类似美国中央情报局（CIA）或英国秘密情报局（MI6）的对外情报机构，以应对来自中国和俄罗斯等国的认知战。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-09-12T12:56:00+00:00",
+      "updatedAt": "2026-09-12T14:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-11",
+      "url": "https://kaopu.news/story/2026-09-11/japan-top-spokesman-calls-for-foreign-intelligence-agency-0c70af",
+      "reference": [
+        "共同网",
+        "联合早报"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "jinan-resident-retracts-honor-phone-claim-6660d3",
+      "title": "济南市民澄清荣耀手机延误急救不实",
+      "description": "济南市民张先生8月30日凌晨因母亲突发心梗去世，最初在社交媒体发帖称父亲使用荣耀X70手机拨打120时，因误触“魔法画报”功能影响紧急呼救，导致母亲错过抢救时间。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-12T14:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-12",
+      "url": "https://kaopu.news/story/2026-09-12/jinan-resident-retracts-honor-phone-claim-6660d3",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "j-d-dada-pays-500k-to-settle-sec-case-4e7a8d",
+      "title": "京东子公司达达支付50万美元与美SEC和解",
+      "description": "京东旗下全资子公司达达于2026年9月12日同意支付50万美元（约63万新元）罚金，与美国证券交易委员会就虚增营收案达成和解，但未承认相关指控。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-12T13:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-12",
+      "url": "https://kaopu.news/story/2026-09-12/j-d-dada-pays-500k-to-settle-sec-case-4e7a8d",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "saudi-oil-pipeline-attacks-halt-operations-9df300",
+      "title": "沙特东西输油管道遭无人机袭击后预防性关闭",
+      "description": "2026年9月10日上午，沙特阿拉伯东西输油管道位于利雅得和麦地那地区的设施遭到多次无人机袭击，造成人员受伤和设施损毁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-12T13:31:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-09-11",
       "url": "https://kaopu.news/story/2026-09-11/saudi-oil-pipeline-attacks-halt-operations-9df300",
@@ -22,7 +75,94 @@
         "联合早报",
         "澎湃新闻"
       ],
-      "sourceCount": 4,
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "beijing-robot-data-center-restarts-c18c0c",
+      "title": "北京首个人形机器人数据训练中心重启引行业反思",
+      "description": "2026年9月12日，北京石景山区首个人形机器人数据训练中心在停摆后于服贸会期间重新启动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-12T13:25:33.672044+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-12",
+      "url": "https://kaopu.news/story/2026-09-12/beijing-robot-data-center-restarts-c18c0c",
+      "reference": [
+        "第一财经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "openai-retires-first-non-nvidia-model-spark-443d00",
+      "title": "OpenAI首个非英伟达芯片模型Spark退役",
+      "description": "OpenAI于2026年9月12日宣布，其实验性编程模型GPT-5.3-Codex-Spark将于下周退役。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-12T13:23:33.672489+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-12",
+      "url": "https://kaopu.news/story/2026-09-12/openai-retires-first-non-nvidia-model-spark-443d00",
+      "reference": [
+        "第一财经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-flood-response-hainan-level-four-b3f954",
+      "title": "国家防总对海南启动防汛四级应急响应",
+      "description": "国家防总于9月12日19时针对海南启动防汛四级应急响应。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-12T13:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-12",
+      "url": "https://kaopu.news/story/2026-09-12/china-flood-response-hainan-level-four-b3f954",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "csis-report-us-congress-delegations-decline-05544d",
+      "title": "CSIS报告称美国国会赴中港台访问显著减少",
+      "description": "美国战略暨国际研究中心（CSIS）于2026年9月4日发布报告指出，美国国会近年赴中国、香港及台湾的访问均明显减少，呼吁增加实地交流以维持对当地的第一手了解。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-12T13:06:07+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-12",
+      "url": "https://kaopu.news/story/2026-09-12/csis-report-us-congress-delegations-decline-05544d",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "france-train-derailment-injures-44-8b1e14",
+      "title": "法国诺曼底列车脱轨致44人伤 警方疑为蓄意破坏",
+      "description": "2026年9月11日晚间，法国西北部诺曼底地区一列火车脱轨，造成44人受伤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-12T13:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-12",
+      "url": "https://kaopu.news/story/2026-09-12/france-train-derailment-injures-44-8b1e14",
+      "reference": [
+        "法广",
+        "联合早报",
+        "德国之声"
+      ],
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -75,6 +215,26 @@
         "联合早报"
       ],
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-vice-president-arrives-italy-conference-41e4b3",
+      "title": "萧美琴赴意大利出席论坛并发表演说",
+      "description": "台湾副总统萧美琴于2026年9月10日至12日应邀出席在意大利文托泰内岛举行的第二届“文托泰内欧洲自由与民主论坛”，并由外交部长林佳龙陪同。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-12T12:28:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-11",
+      "url": "https://kaopu.news/story/2026-09-11/taiwan-vice-president-arrives-italy-conference-41e4b3",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "澎湃新闻",
+        "德国之声"
+      ],
+      "sourceCount": 21,
       "sources": []
     },
     {
@@ -807,24 +967,6 @@
       "publishedAt": "2026-09-11",
       "url": "https://kaopu.news/story/2026-09-11/yemen-group-used-anthropic-chatbot-for-missile-development-eed17f",
       "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "france-train-derailment-injures-44-8b1e14",
-      "title": "法国西北部火车脱轨致44伤 警方怀疑蓄意破坏",
-      "description": "2026年9月11日晚约7时45分，一列载有186名乘客的火车在法国西北部诺曼底地区行驶时发生脱轨，造成44人受伤，其中一名18岁女子伤势危急。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-12T08:44:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-12",
-      "url": "https://kaopu.news/story/2026-09-12/france-train-derailment-injures-44-8b1e14",
-      "reference": [
-        "法广",
         "联合早报"
       ],
       "sourceCount": 2,
@@ -2000,26 +2142,6 @@
         "联合早报"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-vice-president-arrives-italy-conference-41e4b3",
-      "title": "萧美琴出席意大利民主论坛 欧洲议会副议长宣布将访台",
-      "description": "台湾副总统萧美琴于2026年9月11日抵达意大利文托泰内岛，出席第二届“文托泰内欧洲自由与民主论坛”并发表演说，外交部长林佳龙随行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-12T05:27:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-11",
-      "url": "https://kaopu.news/story/2026-09-11/taiwan-vice-president-arrives-italy-conference-41e4b3",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "澎湃新闻",
-        "德国之声"
-      ],
-      "sourceCount": 20,
       "sources": []
     },
     {
@@ -3291,78 +3413,6 @@
       "sources": []
     },
     {
-      "id": "taipei-security-dialogue-ai-cognitive-warfare-4452e1",
-      "title": "谷立言称台海冲突经济损失将超二战",
-      "description": "2026年9月9日，美国在台协会处长谷立言在台北安全对话上表示，台海若爆发冲突，对全球经济造成的损失将超越第二次世界大战。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-11T14:06:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/taipei-security-dialogue-ai-cognitive-warfare-4452e1",
-      "reference": [
-        "中央通訊社",
-        "公视",
-        "德国之声",
-        "联合早报"
-      ],
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
-      "id": "chubu-electric-withdraws-hamaoka-review-request-4b635e",
-      "title": "中部电力拟撤回滨冈核电站重启审查申请",
-      "description": "中部电力公司正就撤回滨冈核电站3、4号机组重启审查申请进行最终调整。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-11T13:47:31+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-11",
-      "url": "https://kaopu.news/story/2026-09-11/chubu-electric-withdraws-hamaoka-review-request-4b635e",
-      "reference": [
-        "日本放送协会",
-        "共同网"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "lithium-carbonate-futures-break-130000-yuan-e463e9",
-      "title": "碳酸锂期货跌破13万元关口创七个月新低",
-      "description": "9月11日，碳酸锂期货主力合约盘中最低触及128080元/吨，自2月以来首次跌破13万元整数关口，创2月6日以来新低。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-11T13:44:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-11",
-      "url": "https://kaopu.news/story/2026-09-11/lithium-carbonate-futures-break-130000-yuan-e463e9",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "huawei-cambricon-raise-ai-chip-prices-d36ad8",
-      "title": "华为将最先进AI芯片昇腾950DT售价上调60%",
-      "description": "华为于2026年9月11日通知部分客户，将其最先进的人工智能芯片昇腾950DT的零售单价上调约60%，至25万元人民币（约4万7216新元）。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-11T13:36:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-10",
-      "url": "https://kaopu.news/story/2026-09-10/huawei-cambricon-raise-ai-chip-prices-d36ad8",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "congo-fire-kills-26-students-c0cfa5",
       "title": "刚果（金）学校火灾致至少14名儿童死亡",
       "description": "9月11日，刚果民主共和国东部城市布卡武一所学校发生火灾并引发踩踏，造成至少14名儿童丧生。",
@@ -3419,74 +3469,6 @@
       "sources": []
     },
     {
-      "id": "elderly-woman-falls-fails-to-get-help-492154",
-      "title": "85岁妇在社区关爱组屋跌倒求救两小时无果",
-      "description": "2026年9月2日中午，85岁女住户苏福来在武吉巴督Harmony Village@Bukit Batok社区关爱组屋的厕所内跌倒。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-11T13:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-11",
-      "url": "https://kaopu.news/story/2026-09-11/elderly-woman-falls-fails-to-get-help-492154",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "sweden-election-far-right-coalition-focus-773086",
-      "title": "瑞典国会大选极右翼是否受邀组阁成焦点",
-      "description": "瑞典国会大选将于9月13日举行，执政联盟中的极右翼政党是否受邀组阁成为关注焦点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-11T13:18:46+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-11",
-      "url": "https://kaopu.news/story/2026-09-11/sweden-election-far-right-coalition-focus-773086",
-      "reference": [
-        "公视"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "north-korea-builds-leisure-facilities-825052",
-      "title": "路透社称北韩大兴休闲设施巩固政权",
-      "description": "据路透社2026年9月11日报道，北韩政府近年来大量兴建水上乐园、滑雪度假村与公共浴池等休闲娱乐设施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-11T13:12:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-11",
-      "url": "https://kaopu.news/story/2026-09-11/north-korea-builds-leisure-facilities-825052",
-      "reference": [
-        "公视"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ai-robots-carve-marble-in-carrara-e1a6ac",
-      "title": "意大利石雕重镇引入AI机器人代劳雕刻",
-      "description": "2026年9月11日，意大利卡拉拉的石材雕刻行业开始使用AI机器人替代工匠完成大部分雕刻工序，引发关于艺术创作价值和传统技艺传承的讨论。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-11T13:12:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-11",
-      "url": "https://kaopu.news/story/2026-09-11/ai-robots-carve-marble-in-carrara-e1a6ac",
-      "reference": [
-        "公视"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "russia-warns-lithuania-nuclear-target-9d744f",
       "title": "俄罗斯警告立陶宛若部署核武将成瞄准目标",
       "description": "俄罗斯于2026年9月11日发出警告，如果立陶宛允许北约在其境内部署核武器，俄方将把立陶宛领土纳入核武器瞄准范围。",
@@ -3502,26 +3484,6 @@
         "联合早报"
       ],
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "two-ministries-cite-six-local-debt-cases-6797a5",
-      "title": "中纪委与财政部首次联合通报六起隐性债务问责案例",
-      "description": "2026年9月11日，中央纪委办公厅与财政部办公厅首次联合公开通报六起地方政府隐性债务追责问责典型案例，涉及新增隐性债务、化债不实以及地方主官消极应对中央化债部署等问题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-11T13:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-11",
-      "url": "https://kaopu.news/story/2026-09-11/two-ministries-cite-six-local-debt-cases-6797a5",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "联合早报",
-        "中央通訊社"
-      ],
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -3559,43 +3521,6 @@
       "sources": []
     },
     {
-      "id": "malaysia-students-taiwan-drop-below-10000-7d2690",
-      "title": "马来西亚赴台留学人数2024年跌破万人",
-      "description": "2026年9月11日，马来西亚台湾高等教育展在吉隆坡举办，共有31所台湾大学参展，并首度试办商业就业博览会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-11T13:01:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-11",
-      "url": "https://kaopu.news/story/2026-09-11/malaysia-students-taiwan-drop-below-10000-7d2690",
-      "reference": [
-        "公视"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "algeria-cuts-ties-with-uae-082aca",
-      "title": "阿尔及利亚宣布与阿联酋断绝外交关系",
-      "description": "阿尔及利亚外交部于2026年9月10日宣布，即日起与阿拉伯联合酋长国断绝外交关系。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-11T12:50:08+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-10",
-      "url": "https://kaopu.news/story/2026-09-10/algeria-cuts-ties-with-uae-082aca",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "法广",
-        "公视"
-      ],
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "zelensky-plans-to-meet-trump-in-new-york-275c54",
       "title": "泽伦斯基计划9月底在纽约会见川普",
       "description": "乌克兰总统泽伦斯基9月11日在加拿大举行的记者会上宣布，他计划于9月底在纽约与美国前总统川普会面。",
@@ -3610,26 +3535,6 @@
         "法广"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "cia-deputy-director-expands-spying-on-china-48536d",
-      "title": "中情局副局长公开宣称扩大对华间谍活动",
-      "description": "2026年9月8日，美国中央情报局副局长迈克尔·埃利斯在华盛顿一场网络安全会议上公开表示，美国正扩大针对中国的间谍活动范围，并将人工智能、半导体和生物科技领域的中国企业列为情报搜集的正当目标。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-11T11:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/cia-deputy-director-expands-spying-on-china-48536d",
-      "reference": [
-        "纽约时报",
-        "世界日报",
-        "澎湃新闻",
-        "中央通訊社"
-      ],
-      "sourceCount": 5,
       "sources": []
     },
     {
