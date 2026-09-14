@@ -1,19 +1,408 @@
 {
   "details": {
     "date": "2026-09-14",
-    "timestamp": 1789346609,
+    "timestamp": 1789353851,
     "totalPages": 1,
-    "total": 169
+    "total": 176
   },
   "stories": [
     {
-      "id": "china-not-confirm-xi-brics-summit-cb1675",
-      "title": "习近平访印出席金砖峰会并宣布建设人工智能开源专区",
-      "description": "中国国家主席习近平于2026年9月12日至13日赴印度新德里出席金砖国家领导人第十八次会晤，这是其自2019年以来首次访问印度。",
+      "id": "houthi-attack-saudi-arabia-73-civilians-wounded-619de7",
+      "title": "胡塞武装攻占曼德海峡战略要地并袭击沙特能源设施",
+      "description": "自9月3日起，也门胡塞武装发动大规模攻势，至9月11日已攻占也门西部约5400平方公里领土，包括红海港口城市摩卡、曼德海峡中部的迈云岛及哈尼什群岛，基本控制了曼德海峡也门一侧区域。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-09-14T00:20:00+00:00",
+      "updatedAt": "2026-09-14T02:22:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-08",
+      "url": "https://kaopu.news/story/2026-09-08/houthi-attack-saudi-arabia-73-civilians-wounded-619de7",
+      "reference": [
+        "法广",
+        "财新",
+        "公视",
+        "联合早报"
+      ],
+      "sourceCount": 26,
+      "sources": []
+    },
+    {
+      "id": "taiwan-vice-president-arrives-italy-conference-41e4b3",
+      "title": "萧美琴赴意大利出席论坛并演说引发中国抗议",
+      "description": "台湾副总统萧美琴于2026年9月11日应邀赴意大利文托泰内岛，出席第二届文托泰内欧洲自由与民主论坛并发表演说，外交部长林佳龙陪同出席。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T02:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-11",
+      "url": "https://kaopu.news/story/2026-09-11/taiwan-vice-president-arrives-italy-conference-41e4b3",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "澎湃新闻",
+        "德国之声"
+      ],
+      "sourceCount": 25,
+      "sources": []
+    },
+    {
+      "id": "gac-group-suspended-over-unannounced-matter-d1bbcc",
+      "title": "广汽集团因重要事项未公告9月14日停牌",
+      "description": "9月14日，广汽集团（601238）因重要事项未公告，上海证券交易所安排其全天停牌。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T02:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-14",
+      "url": "https://kaopu.news/story/2026-09-14/gac-group-suspended-over-unannounced-matter-d1bbcc",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "russian-drone-strikes-ukraine-poland-border-b4d094",
+      "title": "俄无人机袭击乌波边境列车险伤英前首相",
+      "description": "2026年9月13日清晨5时许，一架俄罗斯无人机在乌克兰西部距波兰边境约2公里处击中一列客运列车，该列车载有206名乘客。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T02:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-13",
+      "url": "https://kaopu.news/story/2026-09-13/russian-drone-strikes-ukraine-poland-border-b4d094",
+      "reference": [
+        "联合早报",
+        "公视"
+      ],
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "china-seismological-bureau-pushes-earthquake-alert-ios-5d8c52",
+      "title": "中国地震局正与苹果公司推进地震预警接入iOS",
+      "description": "中国地震局监测预报司9月14日表示，中国地震台网中心正在与苹果公司沟通，力争加快推进地震预警信息接入苹果iOS系统。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T02:03:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-14",
+      "url": "https://kaopu.news/story/2026-09-14/china-seismological-bureau-pushes-earthquake-alert-ios-5d8c52",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-japan-south-korea-start-freedom-edge-drills-ccbf98",
+      "title": "朝鲜在韩美日军演结束后发射多枚短程弹道导弹",
+      "description": "朝鲜于2026年9月12日清晨向日本海发射了数枚短程弹道导弹和多管火箭炮，此时距韩美日“自由之刃”联合军演结束仅一天。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T01:49:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-07",
+      "url": "https://kaopu.news/story/2026-09-07/us-japan-south-korea-start-freedom-edge-drills-ccbf98",
+      "reference": [
+        "联合早报",
+        "韩国国际广播电台",
+        "韩民族日报",
+        "共同网"
+      ],
+      "sourceCount": 17,
+      "sources": []
+    },
+    {
+      "id": "trump-visits-pentagon-on-9-11-anniversary-58c298",
+      "title": "美国举行9·11事件25周年纪念活动特朗普出席五角大楼仪式",
+      "description": "2026年9月11日，美国多地举行“9·11”恐怖袭击事件25周年纪念活动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T01:46:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-11",
+      "url": "https://kaopu.news/story/2026-09-11/trump-visits-pentagon-on-9-11-anniversary-58c298",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "SBS",
+        "公视"
+      ],
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "coal-price-nears-1000-yuan-record-5856d0",
+      "title": "动力煤价逼近千元创近三年新高",
+      "description": "2026年9月14日，动力煤价格强势反弹，逼近每吨千元关口，创近三年新高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T01:42:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-14",
+      "url": "https://kaopu.news/story/2026-09-14/coal-price-nears-1000-yuan-record-5856d0",
+      "reference": [
+        "财新"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "republicans-hold-midterm-rally-dallas-c6a546",
+      "title": "特朗普承诺共和党胜选后向每位成年人发放5000美元",
+      "description": "2026年9月9日，美国总统特朗普在达拉斯举行的共和党中期选举大会上宣布，如果共和党在11月选举后继续掌控参众两院，将向每位美国成年人发放5000美元，称为“特朗普红利”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T01:39:51+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-09",
+      "url": "https://kaopu.news/story/2026-09-09/republicans-hold-midterm-rally-dallas-c6a546",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "法广",
+        "日经"
+      ],
+      "sourceCount": 33,
+      "sources": []
+    },
+    {
+      "id": "fujitsu-to-export-ai-semiconductors-from-2027-d51310",
+      "title": "富士通2027年起出口AI半导体",
+      "description": "富士通公司宣布，将从2027年起面向全球市场出口自主研发的AI半导体产品“MONAKA”及搭载该芯片的AI服务器。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T01:32:40+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-14",
+      "url": "https://kaopu.news/story/2026-09-14/fujitsu-to-export-ai-semiconductors-from-2027-d51310",
+      "reference": [
+        "日经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tao-warns-ai-may-deplete-math-open-problems-f480dc",
+      "title": "25位菲尔兹奖得主联名警告AI与数学目标严重错位",
+      "description": "2026年9月11日，25位菲尔兹奖得主联合发表题为《数学领域中AI的严重错位》的紧急声明，对人工智能企业将解决数学难题作为技术能力基准的做法提出批评。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T01:32:40+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-11",
+      "url": "https://kaopu.news/story/2026-09-11/tao-warns-ai-may-deplete-math-open-problems-f480dc",
+      "reference": [
+        "第一财经",
+        "财新",
+        "日经"
+      ],
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "trump-open-to-chinese-car-factories-56ce5b",
+      "title": "特朗普称不反对中国车企在美设厂但须雇佣美国人",
+      "description": "美国总统特朗普9月11日表示，他不反对中国汽车制造商在美国设厂生产汽车，但前提是必须雇佣美国工人，同时坚决反对中国车企在墨西哥建厂后将产品销往美国。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T01:32:40+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-12",
+      "url": "https://kaopu.news/story/2026-09-12/trump-open-to-chinese-car-factories-56ce5b",
+      "reference": [
+        "联合早报",
+        "世界日报",
+        "德国之声",
+        "日经"
+      ],
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "shu-ping-sells-haidilao-shares-614e4b",
+      "title": "舒萍减持海底捞股份引发离岸信托减持担忧",
+      "description": "海底捞联合创办人张勇的妻子舒萍于9月14日出售约3.5亿美元（约4.5亿新元）海底捞股份，公司股价随后急挫。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T01:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-14",
+      "url": "https://kaopu.news/story/2026-09-14/shu-ping-sells-haidilao-shares-614e4b",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tibet-gyirong-mudslide-disrupts-access-cc41a7",
+      "title": "中尼边境冰川崩塌引发特大泥石流致逾千人死亡",
+      "description": "2026年8月26日，中国与尼泊尔边境地区突发冰川崩塌，引发大规模泥石流和洪水，造成两国重大人员伤亡和财产损失。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T01:25:51+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-08-26",
+      "url": "https://kaopu.news/story/2026-08-26/tibet-gyirong-mudslide-disrupts-access-cc41a7",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "中央通訊社",
+        "公视"
+      ],
+      "sourceCount": 643,
+      "sources": []
+    },
+    {
+      "id": "china-raises-visa-fees-for-japanese-citizens-f4b582",
+      "title": "中国驻日使馆大幅上调日本公民赴华签证费",
+      "description": "中国驻日本大使馆自2026年9月14日起大幅上调日本公民赴华签证费用，单次签证费从此前的2250日元上调至16750日元，涨幅约7.4倍。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T01:22:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-11",
+      "url": "https://kaopu.news/story/2026-09-11/china-raises-visa-fees-for-japanese-citizens-f4b582",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "日经"
+      ],
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "kitakyushu-delegation-visits-taiwan-semiconductor-db04dc",
+      "title": "北九州市经济交流团访台深化半导体合作",
+      "description": "日本北九州市市长武内和久率领政企学界经济交流团，于2026年7月下旬访问台湾，以半导体和物理人工智能为核心探索合作机会。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T01:22:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-14",
+      "url": "https://kaopu.news/story/2026-09-14/kitakyushu-delegation-visits-taiwan-semiconductor-db04dc",
+      "reference": [
+        "日经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "gushiken-wins-okinawa-governor-election-c2c73c",
+      "title": "古谢玄太当选冲绳知事支持美军基地搬迁",
+      "description": "日本冲绳县知事选举于9月13日举行，那霸市前副市长古谢玄太（42岁）击败现任知事玉城丹尼，首次当选。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T01:22:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-13",
+      "url": "https://kaopu.news/story/2026-09-13/gushiken-wins-okinawa-governor-election-c2c73c",
+      "reference": [
+        "共同网",
+        "澎湃新闻"
+      ],
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "heze-bbq-shop-closes-after-15-inspections-e99560",
+      "title": "菏泽烧烤店主举报文物失踪后遭频繁检查停业",
+      "description": "山东菏泽一名烧烤店主张先生因实名举报元代沉船文物疑似失踪，其后两个多月内遭五个部门上门检查约15次，最终于2026年9月7日停业。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T01:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-12",
+      "url": "https://kaopu.news/story/2026-09-12/heze-bbq-shop-closes-after-15-inspections-e99560",
+      "reference": [
+        "第一财经",
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "singapore-attracts-us-china-firms-as-ai-hub-834c1b",
+      "title": "新加坡以规则和税收优势吸引中美企业设立枢纽",
+      "description": "2026年9月14日，据日经报道，在中美技术主导权竞争背景下，新加坡凭借明确的规则和税收优惠，成为吸引美国大型企业设立亚洲枢纽基地、中国企业转移或注册总部的目的地。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T01:12:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-14",
+      "url": "https://kaopu.news/story/2026-09-14/singapore-attracts-us-china-firms-as-ai-hub-834c1b",
+      "reference": [
+        "日经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "swift-tests-blockchain-cross-border-payments-e56a12",
+      "title": "Swift联合17家银行试验区块链跨境支付",
+      "description": "环球银行金融电信协会（Swift）于2026年9月14日宣布，已联合花旗集团、三菱UFJ银行等全球17家银行，启动基于区块链技术的代币化存款跨境支付试验，旨在实现24小时全天候即时汇款。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T01:12:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-14",
+      "url": "https://kaopu.news/story/2026-09-14/swift-tests-blockchain-cross-border-payments-e56a12",
+      "reference": [
+        "日经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "south-korea-reports-22-billion-us-power-plant-4a87ab",
+      "title": "金正官结束访美称对美投资协议本周内签署",
+      "description": "韩国产业通商部长官金正官于9月13日结束为期三天的访美行程返回韩国，表示将推动在本周内与美方达成对美投资最终协议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T01:09:22+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-08",
+      "url": "https://kaopu.news/story/2026-09-08/south-korea-reports-22-billion-us-power-plant-4a87ab",
+      "reference": [
+        "韩国国际广播电台",
+        "韩民族日报",
+        "东亚日报",
+        "中央通訊社"
+      ],
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "china-not-confirm-xi-brics-summit-cb1675",
+      "title": "金砖国家领导人第十八次会晤在新德里闭幕并通过宣言",
+      "description": "2026年9月12日至13日，第18届金砖国家领导人会晤在印度首都新德里举行，中国国家主席习近平、印度总理莫迪、俄罗斯总统普京、伊朗总统佩泽希齐扬等成员国领导人出席。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T01:03:28+00:00",
       "occurredAt": "",
       "publishedAt": "2026-09-08",
       "url": "https://kaopu.news/story/2026-09-08/china-not-confirm-xi-brics-summit-cb1675",
@@ -23,7 +412,126 @@
         "联合早报",
         "法广"
       ],
-      "sourceCount": 50,
+      "sourceCount": 52,
+      "sources": []
+    },
+    {
+      "id": "nazhen-technology-hong-kong-ipo-b931b6",
+      "title": "纳真科技赴港上市拟募资逾56亿港元",
+      "description": "中国光通信设备制造商纳真科技于9月14日启动在香港的首次公开募股（IPO），计划发行1.72亿股H股，发售价为每股32.96港元，集资规模约56.7亿港元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T00:53:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-14",
+      "url": "https://kaopu.news/story/2026-09-14/nazhen-technology-hong-kong-ipo-b931b6",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "shanghai-hangzhou-schools-suspend-classes-flu-f43683",
+      "title": "沪杭多校因甲流停课班级居家隔离",
+      "description": "2026年9月14日，上海、杭州多所中小学和幼儿园因甲型流感感染，多个班级按疾控部门要求停课或居家隔离。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T00:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-14",
+      "url": "https://kaopu.news/story/2026-09-14/shanghai-hangzhou-schools-suspend-classes-flu-f43683",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "caixin-t-morning-brief-rounds-up-tech-news-adaef6",
+      "title": "财新T早报汇总智谱融资与OpenAI上市表态",
+      "description": "财新于2026年9月14日发布T早报，汇总多条科技与产业新闻。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T00:42:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-14",
+      "url": "https://kaopu.news/story/2026-09-14/caixin-t-morning-brief-rounds-up-tech-news-adaef6",
+      "reference": [
+        "财新"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "lee-to-host-first-korea-central-asia-summit-028730",
+      "title": "韩总统李在明将主持首届韩国-中亚峰会",
+      "description": "韩国总统李在明将于2026年9月14日起，在首尔与到访的中亚五国元首陆续举行双边会谈，为16日开幕的第一届韩国-中亚峰会做准备。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T00:40:49+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-14",
+      "url": "https://kaopu.news/story/2026-09-14/lee-to-host-first-korea-central-asia-summit-028730",
+      "reference": [
+        "韩国国际广播电台"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "li-shufu-passes-management-to-non-family-a49994",
+      "title": "李书福将吉利管理权交给非家族成员",
+      "description": "2026年9月14日，吉利创始人李书福将公司管理权交给非家族成员，成为民营车企中率先实现职业经理人接班的企业。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T00:23:03.398946+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-14",
+      "url": "https://kaopu.news/story/2026-09-14/li-shufu-passes-management-to-non-family-a49994",
+      "reference": [
+        "财新"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "european-battery-startups-pursue-nanotech-edge-82f64f",
+      "title": "欧洲电池初创企业借纳米技术追赶中国",
+      "description": "2026年9月14日，在欧洲电池产业面临中国竞争及本土企业破产的背景下，荷兰深科技初创公司LeydenJar与Powall正通过纳米技术寻求在电池供应链中占据技术优势。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T00:19:18+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-14",
+      "url": "https://kaopu.news/story/2026-09-14/european-battery-startups-pursue-nanotech-edge-82f64f",
+      "reference": [
+        "英国广播公司"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-revises-defense-mobilization-law-8bb826",
+      "title": "中国修订国防动员法扩大民间资源征用权限",
+      "description": "第十四届全国人大常委会第二十四次会议于2026年8月28日通过新版《国防动员法》，该法于同年10月1日生效。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T00:19:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-14",
+      "url": "https://kaopu.news/story/2026-09-14/china-revises-defense-mobilization-law-8bb826",
+      "reference": [
+        "英国广播公司"
+      ],
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -42,6 +550,46 @@
         "澎湃新闻"
       ],
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "anthropic-researcher-quits-over-ai-risk-d454ef",
+      "title": "Anthropic前研究员考克森辞职警告AI或致人类灭绝",
+      "description": "2026年9月8日，美国人工智能公司Anthropic研究员雅各布·考克森（Jacob Coxon）公开宣布辞职，并发出严厉警告：如果AI行业不放缓发展步伐，人工智能可能在2030年前导致人类灭绝。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T00:02:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-09",
+      "url": "https://kaopu.news/story/2026-09-09/anthropic-researcher-quits-over-ai-risk-d454ef",
+      "reference": [
+        "中央通訊社",
+        "纽约时报",
+        "世界日报",
+        "澎湃新闻"
+      ],
+      "sourceCount": 29,
+      "sources": []
+    },
+    {
+      "id": "iran-to-discuss-strait-of-hormuz-in-oman-cd7bdb",
+      "title": "阿曼宣布伊朗与海湾国家霍尔木兹海峡会议延期",
+      "description": "阿曼官方通讯社9月14日报道，原定当天在阿曼南部城市塞拉莱举行的伊朗与波斯湾国家地区会议已决定推迟。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-14T00:02:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-11",
+      "url": "https://kaopu.news/story/2026-09-11/iran-to-discuss-strait-of-hormuz-in-oman-cd7bdb",
+      "reference": [
+        "法广",
+        "德国之声",
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "sourceCount": 7,
       "sources": []
     },
     {
@@ -77,26 +625,6 @@
         "财新"
       ],
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "anthropic-researcher-quits-over-ai-risk-d454ef",
-      "title": "AI巨头高管密集警告失控风险并呼吁行业减速",
-      "description": "2026年9月8日，Anthropic研究员雅各布·考克森宣布辞职，公开警告人工智能可能在2030年前毁灭人类。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-13T23:44:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/anthropic-researcher-quits-over-ai-risk-d454ef",
-      "reference": [
-        "中央通訊社",
-        "纽约时报",
-        "世界日报",
-        "澎湃新闻"
-      ],
-      "sourceCount": 28,
       "sources": []
     },
     {
@@ -171,26 +699,6 @@
         "德国之声"
       ],
       "sourceCount": 22,
-      "sources": []
-    },
-    {
-      "id": "iran-to-discuss-strait-of-hormuz-in-oman-cd7bdb",
-      "title": "巴林宣布抵制后伊朗与阿曼推迟霍尔木兹海峡会议",
-      "description": "伊朗与阿曼原定9月14日举行的霍尔木兹海峡问题地区会议被推迟。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-13T22:54:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-11",
-      "url": "https://kaopu.news/story/2026-09-11/iran-to-discuss-strait-of-hormuz-in-oman-cd7bdb",
-      "reference": [
-        "法广",
-        "德国之声",
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -310,24 +818,6 @@
         "世界日报"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "gushiken-wins-okinawa-governor-election-c2c73c",
-      "title": "古谢玄太当选冲绳知事支持美军基地搬迁",
-      "description": "2026年9月13日，支持美军普天间基地搬迁至边野古的古谢玄太（42岁）在冲绳县知事选举中击败现任知事玉城丹尼（66岁），首次当选。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-13T19:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-13",
-      "url": "https://kaopu.news/story/2026-09-13/gushiken-wins-okinawa-governor-election-c2c73c",
-      "reference": [
-        "共同网",
-        "澎湃新闻"
-      ],
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -534,26 +1024,6 @@
         "联合早报"
       ],
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "houthi-attack-saudi-arabia-73-civilians-wounded-619de7",
-      "title": "胡塞武装攻占曼德海峡战略要地控制红海也门一侧",
-      "description": "2026年9月10日至11日，伊朗支持的也门胡塞武装发动闪电攻势，先后攻占红海港口城市摩卡与曼德海峡核心战略要地迈云岛（丕林岛）及哈尼什群岛，基本控制了也门整段红海海岸与曼德海峡也门一侧。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-13T14:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-08",
-      "url": "https://kaopu.news/story/2026-09-08/houthi-attack-saudi-arabia-73-civilians-wounded-619de7",
-      "reference": [
-        "法广",
-        "财新",
-        "公视",
-        "联合早报"
-      ],
-      "sourceCount": 24,
       "sources": []
     },
     {
@@ -1018,26 +1488,6 @@
       "sources": []
     },
     {
-      "id": "south-korea-reports-22-billion-us-power-plant-4a87ab",
-      "title": "韩国宣布3500亿美元对美投资计划首批聚焦能源项目",
-      "description": "韩国产业通商资源部长官金正官于2026年9月13日宣布，本周初将与美方通过视频会议进一步磋商，敲定总额3500亿美元对美投资协议的具体细节。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-13T11:56:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-08",
-      "url": "https://kaopu.news/story/2026-09-08/south-korea-reports-22-billion-us-power-plant-4a87ab",
-      "reference": [
-        "韩国国际广播电台",
-        "韩民族日报",
-        "东亚日报",
-        "中央通訊社"
-      ],
-      "sourceCount": 8,
-      "sources": []
-    },
-    {
       "id": "global-tech-transfer-conference-releases-thousands-demands-0c1bc9",
       "title": "全球技术转移大会释放超万项技术需求",
       "description": "2026年9月13日，第七届全球技术转移大会（InnoMatch）在上海举行。",
@@ -1177,24 +1627,6 @@
       "sources": []
     },
     {
-      "id": "heze-bbq-shop-closes-after-15-inspections-e99560",
-      "title": "山东烧烤店主举报文物遗失后遭密集检查停业",
-      "description": "山东菏泽一家烧烤店主张先生因举报元代沉船文物疑似遗失，在两个月内遭遇5部门15次检查，最终被迫停业。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-13T11:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-12",
-      "url": "https://kaopu.news/story/2026-09-12/heze-bbq-shop-closes-after-15-inspections-e99560",
-      "reference": [
-        "第一财经",
-        "澎湃新闻"
-      ],
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "china-wto-launch-investment-facilitation-deal-e99941",
       "title": "中国推动世贸组织启动全球首个多边投资协定",
       "description": "2026年9月13日，中国推动世界贸易组织（WTO）成员启动实施《促进发展的投资便利化协定》（IFDA）。",
@@ -1207,23 +1639,6 @@
       "url": "https://kaopu.news/story/2026-09-13/china-wto-launch-investment-facilitation-deal-e99941",
       "reference": [
         "第一财经"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "russian-drone-strikes-ukraine-poland-border-b4d094",
-      "title": "俄无人机袭击乌波边境小镇波及客运列车",
-      "description": "乌克兰外交部长西比哈2026年9月13日表示，一架俄罗斯无人机于夜间袭击了乌克兰与波兰边境附近的小镇亚霍丁，袭击地点距离波兰边境仅800米。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-13T10:57:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-13",
-      "url": "https://kaopu.news/story/2026-09-13/russian-drone-strikes-ukraine-poland-border-b4d094",
-      "reference": [
-        "联合早报"
       ],
       "sourceCount": 1,
       "sources": []
@@ -1826,26 +2241,6 @@
       "sources": []
     },
     {
-      "id": "tibet-gyirong-mudslide-disrupts-access-cc41a7",
-      "title": "中尼边境冰川崩塌引发特大泥石流致逾千人遇难",
-      "description": "2026年8月26日，中国与尼泊尔边境地区突发冰川崩塌，引发特大泥石流灾害，造成重大人员伤亡和失踪。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-13T06:48:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-08-26",
-      "url": "https://kaopu.news/story/2026-08-26/tibet-gyirong-mudslide-disrupts-access-cc41a7",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "中央通訊社",
-        "公视"
-      ],
-      "sourceCount": 642,
-      "sources": []
-    },
-    {
       "id": "china-computing-conference-token-shortage-cc05a5",
       "title": "算力大会聚焦智能算力短缺与词元激增",
       "description": "2026年9月12日，在2026中国算力大会主论坛上，多位产业界人士与院士就智能算力短缺问题展开讨论。",
@@ -1951,25 +2346,6 @@
       "sources": []
     },
     {
-      "id": "trump-open-to-chinese-car-factories-56ce5b",
-      "title": "特朗普称不反对中国车企赴美建厂但须雇佣美国人",
-      "description": "美国总统特朗普9月11日表示，他不反对中国汽车制造商在美国设厂生产汽车，但前提是必须雇佣美国工人，同时他坚决反对中国制造的汽车直接进口或经墨西哥转口进入美国市场。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-13T06:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-12",
-      "url": "https://kaopu.news/story/2026-09-12/trump-open-to-chinese-car-factories-56ce5b",
-      "reference": [
-        "联合早报",
-        "世界日报",
-        "德国之声"
-      ],
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "democrats-plan-investigations-trump-family-bfafa9",
       "title": "民主党计划全面调查川普及其家族",
       "description": "2026年9月13日，民主党在期中选举获胜后，计划对总统川普及其家族和阁员展开多项调查。",
@@ -2002,26 +2378,6 @@
         "联合早报"
       ],
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "republicans-hold-midterm-rally-dallas-c6a546",
-      "title": "特朗普承诺共和党胜选后向每位成年人发放5000美元",
-      "description": "2026年9月9日，美国总统特朗普在达拉斯举行的共和党中期选举全国大会上承诺，如果共和党在11月的中期选举中保住国会参众两院控制权，将向约2.7亿美国成年人每人发放5000美元，他称之为“特朗普红利”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-13T06:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/republicans-hold-midterm-rally-dallas-c6a546",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "法广",
-        "日经"
-      ],
-      "sourceCount": 32,
       "sources": []
     },
     {
@@ -2264,26 +2620,6 @@
       "sources": []
     },
     {
-      "id": "trump-visits-pentagon-on-9-11-anniversary-58c298",
-      "title": "美国举行9·11恐袭25周年纪念活动",
-      "description": "2026年9月11日，美国多地举行活动纪念9·11恐怖袭击25周年。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-13T05:51:51+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-11",
-      "url": "https://kaopu.news/story/2026-09-11/trump-visits-pentagon-on-9-11-anniversary-58c298",
-      "reference": [
-        "澎湃新闻",
-        "法广",
-        "SBS",
-        "公视"
-      ],
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
       "id": "xiao-qilingtong-zhangjinyun-dies-at-84-13a95f",
       "title": "绍剧表演艺术家小七龄童章金云逝世",
       "description": "绍剧表演艺术家、六小龄童堂兄章金云（艺名小七龄童）因病于2026年9月12日中午12时06分在故乡绍兴去世，享年84岁。",
@@ -2337,26 +2673,6 @@
         "第一财经"
       ],
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "taiwan-vice-president-arrives-italy-conference-41e4b3",
-      "title": "萧美琴赴意大利论坛演说 欧洲议会副议长宣布将访台",
-      "description": "台湾副总统萧美琴于2026年9月11日应邀出席在意大利文托泰内岛举行的第二届“文托泰内欧洲自由与民主论坛”并发表演说。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-13T05:05:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-11",
-      "url": "https://kaopu.news/story/2026-09-11/taiwan-vice-president-arrives-italy-conference-41e4b3",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "澎湃新闻",
-        "德国之声"
-      ],
-      "sourceCount": 23,
       "sources": []
     },
     {
@@ -2751,24 +3067,6 @@
       "sources": []
     },
     {
-      "id": "tao-warns-ai-may-deplete-math-open-problems-f480dc",
-      "title": "25位菲尔兹奖得主联名警告AI冲击数学研究",
-      "description": "9月11日，陶哲轩、邓煜、彼得·舒尔茨等25位菲尔兹奖得主联合发表声明《人工智能在数学中的严重错位》，警告AI公司以解题速度作为基准与数学共同体追求概念理解的目标存在严重错位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-13T02:39:38.473719+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-11",
-      "url": "https://kaopu.news/story/2026-09-11/tao-warns-ai-may-deplete-math-open-problems-f480dc",
-      "reference": [
-        "第一财经",
-        "财新"
-      ],
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "shanghai-tourism-festival-parade-launches-e6403f",
       "title": "第37届上海旅游节大巡游启幕",
       "description": "第37届上海旅游节大巡游于9月12日晚在外滩金牛广场启动，21辆主题花车与21支海内外表演团队参与。",
@@ -2784,23 +3082,6 @@
         "澎湃新闻"
       ],
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "tsmc-expansion-drives-taiwanese-online-grocery-505cf3",
-      "title": "台积电扩张带动凤凰城台湾移民依赖线上买菜",
-      "description": "台积电持续扩大在凤凰城北部的布局，带动台湾人与华人移居当地。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-13T01:58:29+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-13",
-      "url": "https://kaopu.news/story/2026-09-13/tsmc-expansion-drives-taiwanese-online-grocery-505cf3",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2821,40 +3102,6 @@
       "sources": []
     },
     {
-      "id": "hk-philharmonic-premieres-panda-waltz-in-chengdu-9569f1",
-      "title": "香港管弦乐团在成都首演熊猫主题新作《团团转》",
-      "description": "9月12日，香港管弦乐团在成都城市音乐厅由驻团指挥廖国敏执棒，演出委约新作《团团转》内地首演。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-13T01:48:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-13",
-      "url": "https://kaopu.news/story/2026-09-13/hk-philharmonic-premieres-panda-waltz-in-chengdu-9569f1",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "global-central-banks-rate-decisions-week-5eeea4",
-      "title": "全球央行超级周来袭美联储加息概率超八成",
-      "description": "下周全球央行政策预告聚焦美联储、英国央行和日本央行的利率决议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-13T01:47:35.870222+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-13",
-      "url": "https://kaopu.news/story/2026-09-13/global-central-banks-rate-decisions-week-5eeea4",
-      "reference": [
-        "第一财经"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "ai-investment-drives-taiwan-bank-lending-record-48c433",
       "title": "AI热潮推升台湾银行放款余额创48.8兆元新高",
       "description": "2026年9月13日，AI热潮持续推升台湾企业与个人资金需求，导致银行放款创历史新高，市场利率走扬，资金供给偏紧成为新常态。",
@@ -2870,131 +3117,6 @@
         "公视"
       ],
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "pla-ships-aircraft-patrol-taiwan-strait-029af0",
-      "title": "中国海警与解放军在台海周边持续进行海空活动",
-      "description": "2026年8月18日至9月13日，中国人民解放军军机、军舰与中国海警船只在台湾海峡、金门及东沙群岛附近海域进行了持续的海空军事与准军事活动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-13T01:32:24+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-08-29",
-      "url": "https://kaopu.news/story/2026-08-29/pla-ships-aircraft-patrol-taiwan-strait-029af0",
-      "reference": [
-        "中央通訊社",
-        "澎湃新闻",
-        "联合早报",
-        "公视"
-      ],
-      "sourceCount": 38,
-      "sources": []
-    },
-    {
-      "id": "eu-confirms-hottest-august-on-record-120a8c",
-      "title": "2026年8月成有记录以来并列最热8月",
-      "description": "2026年8月成为全球有记录以来并列最热的8月，全球气温再次比工业化前水平高出1.5摄氏度以上，高温正在加速阿尔卑斯山冰川的消退。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-13T01:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-10",
-      "url": "https://kaopu.news/story/2026-09-10/eu-confirms-hottest-august-on-record-120a8c",
-      "reference": [
-        "联合早报",
-        "日本放送协会",
-        "SBS"
-      ],
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "taiwanese-boy-ranks-first-us-chess-e240e4",
-      "title": "台裔男孩官沛霖西洋棋全美9岁级排名第一",
-      "description": "2026年9月13日，美国西洋棋协会公布8月全国棋手排名，南加州台裔男孩官沛霖（Wesley Kwan）在9岁年龄级中位列全美第一。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-13T01:14:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-13",
-      "url": "https://kaopu.news/story/2026-09-13/taiwanese-boy-ranks-first-us-chess-e240e4",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "john-malkovich-wins-venice-best-actor-84e584",
-      "title": "约翰·马可维奇凭黑色喜剧首获威尼斯影帝",
-      "description": "72岁的性格演员约翰·马可维奇凭借马丁·麦克唐纳执导的黑色喜剧，获得第83届威尼斯影展最佳演员奖，这是他职业生涯中首次在大型影展获奖。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-13T01:02:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-13",
-      "url": "https://kaopu.news/story/2026-09-13/john-malkovich-wins-venice-best-actor-84e584",
-      "reference": [
-        "法广"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ma-shanshan-appointed-shenyang-deputy-party-secretary-304ca3",
-      "title": "马珊珊调任沈阳市委副书记市政府党组书记",
-      "description": "2026年9月13日，辽宁省委决定，马珊珊任沈阳市委委员、常委、副书记，并任沈阳市政府党组书记，免去吕志成的沈阳市委副书记、常委、委员及市政府党组书记职务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-13T00:41:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-12",
-      "url": "https://kaopu.news/story/2026-09-12/ma-shanshan-appointed-shenyang-deputy-party-secretary-304ca3",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "socal-heat-wave-overwhelms-ac-repair-7c40b0",
-      "title": "南加州暴热致空调故障维修技师供不应求",
-      "description": "2026年9月13日，南加州持续暴热导致大量空调故障，维修安装服务供不应求。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-13T00:28:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-13",
-      "url": "https://kaopu.news/story/2026-09-13/socal-heat-wave-overwhelms-ac-repair-7c40b0",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "shanghai-fusion-industry-raises-18-billion-0f7a84",
-      "title": "上海核聚变产业累计融资近180亿元",
-      "description": "截至2026年9月，上海在核聚变领域的累计融资已接近180亿元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-13T00:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-13",
-      "url": "https://kaopu.news/story/2026-09-13/shanghai-fusion-industry-raises-18-billion-0f7a84",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 1,
       "sources": []
     }
   ]
