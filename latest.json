@@ -1,19 +1,198 @@
 {
   "details": {
     "date": "2026-09-15",
-    "timestamp": 1789440340,
+    "timestamp": 1789446501,
     "totalPages": 1,
-    "total": 257
+    "total": 262
   },
   "stories": [
     {
-      "id": "anthropic-researcher-quits-over-ai-risk-d454ef",
-      "title": "硅谷AI巨头罕见联手呼吁放缓研发遭特朗普反对",
-      "description": "美国人工智能公司Anthropic首席执行官达里奥·阿莫迪于2026年9月12日发表文章，公开呼吁前沿AI企业放慢模型能力提升速度，并提出一套包含独立第三方评估、协调民主国家安全标准及全球合作的三步方案。",
+      "id": "china-launches-medical-tech-price-pre-approval-b9c724",
+      "title": "国家医保局试行新技术新产品价格预立项制度",
+      "description": "国家医疗保障局9月15日发布通知，宣布试行高水平新技术新产品医疗服务价格项目预立项制度，以推动科技创新成果加快进入临床。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-09-15T02:19:40.973019+00:00",
+      "updatedAt": "2026-09-15T03:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-15",
+      "url": "https://kaopu.news/story/2026-09-15/china-launches-medical-tech-price-pre-approval-b9c724",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "japan-china-lawmakers-visit-beijing-6130f7",
+      "title": "日中友好议员联盟年轻成员代表团访问北京",
+      "description": "日本跨党派团体“日中友好议员联盟”8名年轻议员于2026年9月13日至15日访问北京，团长为自民党籍前法务副大臣高村正大。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-15T03:12:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-11",
+      "url": "https://kaopu.news/story/2026-09-11/japan-china-lawmakers-visit-beijing-6130f7",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "中央通訊社",
+        "日经"
+      ],
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "taiyi-rescues-neta-with-3-billion-eaeaa3",
+      "title": "山子高科澄清与哪吒汽车重整投资方无股权关系",
+      "description": "山子高科技股份有限公司于2026年9月15日发布公告，澄清公司与浙江太乙圣莲企业管理合伙企业之间不存在股权控制关系，公司未直接或间接参与合众新能源汽车（哪吒汽车）的破产重整投资。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-15T03:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-14",
+      "url": "https://kaopu.news/story/2026-09-14/taiyi-rescues-neta-with-3-billion-eaeaa3",
+      "reference": [
+        "财新",
+        "澎湃新闻"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "august-first-tier-city-home-prices-edge-up-b0e1da",
+      "title": "8月一线城市新房价格环比转涨0.1%",
+      "description": "2026年8月，一线城市新建商品住宅销售价格环比由上月持平转为上涨0.1%，这是国家统计局9月15日发布的70个大中城市房价数据所揭示的核心变化。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-15T03:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-15",
+      "url": "https://kaopu.news/story/2026-09-15/august-first-tier-city-home-prices-edge-up-b0e1da",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "联合早报"
+      ],
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "supreme-court-rejects-trump-mail-vote-limits-134acd",
+      "title": "美最高法院驳回政府邮寄选票新规请求",
+      "description": "美国最高法院于9月14日驳回司法部紧急申请，拒绝在2026年期中选举前允许美国邮政总局执行邮寄选票新规，各州可继续沿用现行程序。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-15T03:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-15",
+      "url": "https://kaopu.news/story/2026-09-15/supreme-court-rejects-trump-mail-vote-limits-134acd",
+      "reference": [
+        "世界日报",
+        "联合早报"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-releases-august-economic-data-0c5248",
+      "title": "中国8月工业增速加快至5.2% 消费与投资持续放缓",
+      "description": "中国国家统计局9月15日发布8月份国民经济运行数据，显示工业生产提速，但消费和投资领域表现疲弱。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-15T03:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-15",
+      "url": "https://kaopu.news/story/2026-09-15/china-releases-august-economic-data-0c5248",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "联合早报"
+      ],
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "chinese-electric-trucks-challenge-volkswagen-hannover-35831e",
+      "title": "中国电动卡车亮相汉诺威挑战大众市场地位",
+      "description": "2026年9月14日，汉诺威国际交通运输博览会媒体日开幕，中国多家车企集中展示电动及自动驾驶卡车新品，直接挑战大众汽车等欧洲商用车企的市场地位。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-15T02:56:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-15",
+      "url": "https://kaopu.news/story/2026-09-15/chinese-electric-trucks-challenge-volkswagen-hannover-35831e",
+      "reference": [
+        "韩民族日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "caixin-exposes-ai-stock-god-scam-b5ab21",
+      "title": "第一财经揭露AI股神算法投资骗局",
+      "description": "2026年9月15日，第一财经发布报道，揭露了一起名为“AI股神”的算法投资骗局。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-15T02:53:42.428293+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-15",
+      "url": "https://kaopu.news/story/2026-09-15/caixin-exposes-ai-stock-god-scam-b5ab21",
+      "reference": [
+        "第一财经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "eight-construction-firms-profit-decline-1cac84",
+      "title": "八大建筑央企上半年营收利润齐降",
+      "description": "2026年上半年，中国建筑、中国中铁等八大建筑央企营收与利润普遍下滑，行业进入缩量发展周期。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-15T02:51:42.429182+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-15",
+      "url": "https://kaopu.news/story/2026-09-15/eight-construction-firms-profit-decline-1cac84",
+      "reference": [
+        "第一财经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "moscow-digital-infrastructure-enables-surveillance-a60324",
+      "title": "纽约时报称莫斯科借数字基建强化监控",
+      "description": "《纽约时报》9月15日报道，莫斯科在建设强大数字基础设施、提升生活便利性与城市治安的同时，已成为全球监控最严密的城市之一。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-15T02:43:41+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-15",
+      "url": "https://kaopu.news/story/2026-09-15/moscow-digital-infrastructure-enables-surveillance-a60324",
+      "reference": [
+        "纽约时报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "anthropic-researcher-quits-over-ai-risk-d454ef",
+      "title": "阿莫迪呼吁放缓AI开发遭特朗普反对 中方批遏制意图",
+      "description": "美国人工智能公司Anthropic首席执行官达里奥·阿莫迪于2026年9月12日发表文章，呼吁全球AI企业放慢前沿模型开发速度，并提出引入独立第三方评估、协调安全标准、推动全球合作的三步方案。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-15T02:43:22+00:00",
       "occurredAt": "",
       "publishedAt": "2026-09-09",
       "url": "https://kaopu.news/story/2026-09-09/anthropic-researcher-quits-over-ai-risk-d454ef",
@@ -23,7 +202,171 @@
         "世界日报",
         "澎湃新闻"
       ],
-      "sourceCount": 67,
+      "sourceCount": 68,
+      "sources": []
+    },
+    {
+      "id": "beijing-threatens-cancel-trump-xi-summit-f0d40e",
+      "title": "中方警告若美批准对台军售将取消习近平访美",
+      "description": "2026年9月12日，中方通过外交渠道向美方发出警告：如果美国在计划于9月下旬举行的美中首脑会谈前批准任何新的对台军售，中国将取消国家主席习近平的访美行程。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-15T02:42:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-12",
+      "url": "https://kaopu.news/story/2026-09-12/beijing-threatens-cancel-trump-xi-summit-f0d40e",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "共同网"
+      ],
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "indonesia-ferry-goes-missing-in-java-sea-507543",
+      "title": "印尼渡轮在爪哇海倾覆致6死129人失踪",
+      "description": "印度尼西亚一艘载有243人的渡轮“Virgo Transport 8”号于2026年9月13日凌晨在爪哇海海域倾覆。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-15T02:42:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-13",
+      "url": "https://kaopu.news/story/2026-09-13/indonesia-ferry-goes-missing-in-java-sea-507543",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "法广",
+        "财新"
+      ],
+      "sourceCount": 13,
+      "sources": []
+    },
+    {
+      "id": "donald-trump-jr-receives-russian-wedding-gift-c8bfb9",
+      "title": "小川普收俄商数十万美元婚后派对礼遭曝光",
+      "description": "据《纽约时报》报道，美国总统川普长子小川普今年在巴哈马举办的奢华婚后派对，由与俄罗斯总统普京关系密切的俄国商人克列姆列夫出资数十万美元，包括包下一座私人岛屿及施放烟火。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-15T02:41:56+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-15",
+      "url": "https://kaopu.news/story/2026-09-15/donald-trump-jr-receives-russian-wedding-gift-c8bfb9",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ai-slowdown-call-triggers-chip-stock-drop-15e3d5",
+      "title": "AI巨头呼吁放缓研发引发全球芯片股暴跌",
+      "description": "美国当地时间9月14日，Anthropic首席执行官达里奥·阿莫代伊公开发文呼吁AI行业放缓前沿模型研发节奏，引发全球芯片和AI类股大规模抛售。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-15T02:39:37.352495+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-14",
+      "url": "https://kaopu.news/story/2026-09-14/ai-slowdown-call-triggers-chip-stock-drop-15e3d5",
+      "reference": [
+        "财新",
+        "中央通訊社",
+        "第一财经",
+        "澎湃新闻"
+      ],
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "epa-may-scrap-power-plant-carbon-rules-ea2ada",
+      "title": "美国环保局宣布撤销发电厂碳排放限制",
+      "description": "美国国家环境保护局（EPA）局长李·泽尔丁于2026年9月14日在休斯敦举行的二十国集团（G20）能源部长会议上宣布，撤销针对燃煤和燃气发电厂的温室气体排放限制，推翻前总统拜登2024年出台的相关气候政策。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-15T02:37:42+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-14",
+      "url": "https://kaopu.news/story/2026-09-14/epa-may-scrap-power-plant-carbon-rules-ea2ada",
+      "reference": [
+        "中央通訊社",
+        "世界日报",
+        "联合早报",
+        "英国广播公司"
+      ],
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "costco-kirkland-oil-price-hike-ration-5a91e4",
+      "title": "好市多旗下机油因基础油短缺涨价限购",
+      "description": "好市多旗下Kirkland Signature机油因全球高阶基础油供应短缺，自2026年9月15日起出现涨价和限购。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-15T02:33:57+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-15",
+      "url": "https://kaopu.news/story/2026-09-15/costco-kirkland-oil-price-hike-ration-5a91e4",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "former-coalition-leader-to-manage-snowy-hydro-9d518a",
+      "title": "工党政府任命前联盟党领导人管理雪山水电项目",
+      "description": "2026年9月15日，澳大利亚工党政府宣布任命一名前联盟党领导人，协助管理该国造价最高、工程延误最严重的可再生能源项目——雪山水电项目。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-15T02:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-15",
+      "url": "https://kaopu.news/story/2026-09-15/former-coalition-leader-to-manage-snowy-hydro-9d518a",
+      "reference": [
+        "SBS"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-demand-boosts-pakistan-donkey-industry-9e71c6",
+      "title": "中国需求推动巴基斯坦驴产业扩张",
+      "description": "中国市场对驴肉和阿胶的需求正在巴基斯坦催生一个新兴的毛驴产业。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-15T02:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-15",
+      "url": "https://kaopu.news/story/2026-09-15/china-demand-boosts-pakistan-donkey-industry-9e71c6",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-cuts-food-beverage-tax-to-one-percent-0eec1e",
+      "title": "日本政府敲定食品饮料消费税降至1%",
+      "description": "日本政府于2026年9月15日傍晚通过内阁会议敲定税制改革大纲，决定自2027年4月起实施为期两年的临时措施，将食品饮料消费税率从8%下调至1%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-15T02:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-15",
+      "url": "https://kaopu.news/story/2026-09-15/japan-cuts-food-beverage-tax-to-one-percent-0eec1e",
+      "reference": [
+        "共同网"
+      ],
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -47,24 +390,6 @@
       "sources": []
     },
     {
-      "id": "china-releases-august-economic-data-0c5248",
-      "title": "国家统计局发布8月国民经济运行数据",
-      "description": "国家统计局于9月15日发布2026年8月国民经济运行数据，显示国民经济总体平稳、向新向优发展。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-15T02:08:37.903254+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-15",
-      "url": "https://kaopu.news/story/2026-09-15/china-releases-august-economic-data-0c5248",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "picc-ex-vp-yu-ze-indicted-for-bribery-d640ca",
       "title": "中国人保原副总裁于泽因受贿被提起公诉",
       "description": "中国人民保险集团股份有限公司原党委委员、副总裁于泽涉嫌受贿一案，已由国家监察委员会调查终结并移送检察机关。",
@@ -77,23 +402,6 @@
       "url": "https://kaopu.news/story/2026-09-15/picc-ex-vp-yu-ze-indicted-for-bribery-d640ca",
       "reference": [
         "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "supreme-court-rejects-trump-mail-vote-limits-134acd",
-      "title": "美最高法院驳回川普邮寄投票限制",
-      "description": "美国最高法院9月14日拒绝在2026年期中选举前让川普政府的邮寄投票限制生效，各州可继续沿用现行邮寄选票程序。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-15T02:00:15+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-15",
-      "url": "https://kaopu.news/story/2026-09-15/supreme-court-rejects-trump-mail-vote-limits-134acd",
-      "reference": [
-        "世界日报"
       ],
       "sourceCount": 1,
       "sources": []
@@ -151,26 +459,6 @@
       "sources": []
     },
     {
-      "id": "japan-china-lawmakers-visit-beijing-6130f7",
-      "title": "日中友好议联年轻议员团访华结束",
-      "description": "日本跨党派团体“日中友好议员联盟”一个由年轻成员组成的代表团，于2026年9月13日至15日访问北京。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-15T01:38:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-11",
-      "url": "https://kaopu.news/story/2026-09-11/japan-china-lawmakers-visit-beijing-6130f7",
-      "reference": [
-        "共同网",
-        "联合早报",
-        "中央通訊社",
-        "日经"
-      ],
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
       "id": "taiwan-vice-president-arrives-italy-conference-41e4b3",
       "title": "萧美琴赴意大利论坛演说遭中国抗议",
       "description": "台湾副总统萧美琴于2026年9月10日至12日应邀出席在意大利文托泰内岛举行的第二届“文托泰内欧洲自由与民主论坛”并发表演说，期间维安人员发现一名疑似中国情报人员的女子提前潜入会场，引发中国外交部向意大利和欧盟提出严正交涉。",
@@ -188,24 +476,6 @@
         "德国之声"
       ],
       "sourceCount": 36,
-      "sources": []
-    },
-    {
-      "id": "august-first-tier-city-home-prices-edge-up-b0e1da",
-      "title": "8月一线城市新房价格环比止跌微涨",
-      "description": "国家统计局9月15日发布2026年8月70城房价数据。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-15T01:35:40.723941+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-15",
-      "url": "https://kaopu.news/story/2026-09-15/august-first-tier-city-home-prices-edge-up-b0e1da",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -389,26 +659,6 @@
         "世界日报"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ai-slowdown-call-triggers-chip-stock-drop-15e3d5",
-      "title": "AI巨头呼吁放缓研发引发全球芯片股暴跌",
-      "description": "9月14日，美国股市三大指数全线收跌，费城半导体指数重挫近6%，全球半导体和AI算力硬件产业链总市值蒸发超5000亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-15T00:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-14",
-      "url": "https://kaopu.news/story/2026-09-14/ai-slowdown-call-triggers-chip-stock-drop-15e3d5",
-      "reference": [
-        "财新",
-        "中央通訊社",
-        "第一财经",
-        "澎湃新闻"
-      ],
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -1797,26 +2047,6 @@
       "sources": []
     },
     {
-      "id": "indonesia-ferry-goes-missing-in-java-sea-507543",
-      "title": "印尼渡轮爪哇海倾覆致6死129人失踪",
-      "description": "印度尼西亚渡轮“Virgo Transport 8”号于2026年9月13日凌晨在爪哇海因强风巨浪倾覆，造成至少6人死亡，129人下落不明。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-14T13:07:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-13",
-      "url": "https://kaopu.news/story/2026-09-13/indonesia-ferry-goes-missing-in-java-sea-507543",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "法广",
-        "财新"
-      ],
-      "sourceCount": 12,
-      "sources": []
-    },
-    {
       "id": "dual-nationality-woman-charged-with-spying-50ebe0",
       "title": "德乌双重国籍女子被控为俄从事间谍活动",
       "description": "德国联邦检察官办公室于2026年9月14日宣布，起诉一名拥有德国和乌克兰双重国籍的女子伊洛娜·W，指控其涉嫌为俄罗斯从事间谍活动，刺探德国国防情报。",
@@ -2580,23 +2810,6 @@
       "sources": []
     },
     {
-      "id": "taiyi-rescues-neta-with-3-billion-eaeaa3",
-      "title": "太乙出资30亿元救助哪吒汽车",
-      "description": "2026年9月14日，太乙宣布出资30亿元救助哪吒汽车。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-14T10:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-14",
-      "url": "https://kaopu.news/story/2026-09-14/taiyi-rescues-neta-with-3-billion-eaeaa3",
-      "reference": [
-        "财新"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "singapore-eases-heavy-vehicle-parking-rules-313a3a",
       "title": "新加坡放宽重型车辆隔夜停车规定",
       "description": "新加坡陆路交通管理局9月14日宣布，从9月15日起推出新的申报服务，允许重型车辆车主在获得业主同意后，将车辆隔夜停放在工业设施、获授权工地或商用产业等地点，无需再另行申请重型车辆停车证。",
@@ -3349,25 +3562,6 @@
       "sources": []
     },
     {
-      "id": "epa-may-scrap-power-plant-carbon-rules-ea2ada",
-      "title": "美国环保局宣布取消发电厂温室气体排放限制",
-      "description": "美国环境保护局于2026年9月14日正式宣布，取消要求燃煤和燃气发电厂几乎完全消除碳排放的规定，推翻了前总统拜登政府2024年出台的环保政策。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-14T07:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-14",
-      "url": "https://kaopu.news/story/2026-09-14/epa-may-scrap-power-plant-carbon-rules-ea2ada",
-      "reference": [
-        "中央通訊社",
-        "世界日报",
-        "联合早报"
-      ],
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "malaysia-ex-minister-charged-misappropriating-haj-funds-2803cf",
       "title": "马来西亚前部长加米尔被控挪用朝圣基金局资产",
       "description": "马来西亚负责回教事务的首相署前部长加米尔于2026年9月14日在吉隆坡地庭被控三项挪用回教徒朝圣基金局资产的罪名。",
@@ -3726,24 +3920,6 @@
         "中央通訊社"
       ],
       "sourceCount": 10,
-      "sources": []
-    },
-    {
-      "id": "beijing-threatens-cancel-trump-xi-summit-f0d40e",
-      "title": "中国警告若美对台军售将取消习特会",
-      "description": "2026年9月13日，据日本共同社报道，中国已告知美国，如果美方在预定于9月24日举行的中美领导人峰会前批准任何新的对台军售，中国将取消中国国家主席习近平的访美行程。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-14T06:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-12",
-      "url": "https://kaopu.news/story/2026-09-12/beijing-threatens-cancel-trump-xi-summit-f0d40e",
-      "reference": [
-        "世界日报",
-        "联合早报"
-      ],
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -4433,91 +4609,6 @@
         "德国之声"
       ],
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "us-embassy-employee-leaves-uk-without-interview-db9031",
-      "title": "涉儿童不雅影像美使馆雇员未受讯即离英",
-      "description": "一名涉嫌持有儿童不雅影像的美国驻英大使馆雇员，在伦敦南部被拘留后，于8月未经英国警方讯问即搭乘商业航班返回美国。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-14T02:54:52+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-14",
-      "url": "https://kaopu.news/story/2026-09-14/us-embassy-employee-leaves-uk-without-interview-db9031",
-      "reference": [
-        "英国广播公司"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "okinawa-elects-conservative-governor-de4002",
-      "title": "冲绳选出保守派知事应对中国威胁与经济困境",
-      "description": "2026年9月14日，冲绳县在面临中国威胁和经济困境的背景下，选出保守派知事。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-14T02:46:20+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-14",
-      "url": "https://kaopu.news/story/2026-09-14/okinawa-elects-conservative-governor-de4002",
-      "reference": [
-        "纽约时报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "local-special-bond-issuance-exceeds-3-trillion-695d31",
-      "title": "地方新增专项债发行突破3万亿元监管加码",
-      "description": "截至2026年9月14日，中国地方政府新增专项债发行规模约3.06万亿元，全年发行上限为4.4万亿元，进度接近七成。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-14T02:29:38.952632+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-14",
-      "url": "https://kaopu.news/story/2026-09-14/local-special-bond-issuance-exceeds-3-trillion-695d31",
-      "reference": [
-        "第一财经"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-issues-four-mine-safety-standards-8c4c7f",
-      "title": "中国发布四项矿山安全强制性国家标准",
-      "description": "市场监管总局（国家标准委）于2026年9月14日批准发布4项矿山安全强制性国家标准，该批标准由国家矿山安监局组织制定，将于2027年3月1日起实施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-14T02:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-14",
-      "url": "https://kaopu.news/story/2026-09-14/china-issues-four-mine-safety-standards-8c4c7f",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "narita-airport-restarts-transit-tours-0b9f12",
-      "title": "成田机场10月重启外国中转旅客免费周边游",
-      "description": "成田国际机场公司等机构将于2026年10月重启面向中转外国旅客的周边免费游览项目，并新增付费体验项目。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-14T02:12:31+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-14",
-      "url": "https://kaopu.news/story/2026-09-14/narita-airport-restarts-transit-tours-0b9f12",
-      "reference": [
-        "日经"
-      ],
-      "sourceCount": 1,
       "sources": []
     }
   ]
