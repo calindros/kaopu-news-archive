@@ -1,19 +1,19 @@
 {
   "details": {
     "date": "2026-09-16",
-    "timestamp": 1789576438,
+    "timestamp": 1789590020,
     "totalPages": 1,
-    "total": 277
+    "total": 278
   },
   "stories": [
     {
       "id": "cpi-data-looms-as-fed-rate-hike-odds-rise-7fe0ae",
-      "title": "美联储宣布加息25个基点至4%",
-      "description": "美国联邦储备委员会于2026年9月16日宣布，将联邦基金利率目标区间上调25个基点至3.75%至4%。",
+      "title": "美联储宣布加息25个基点结束三年降息周期",
+      "description": "美国联邦储备委员会于2026年9月16日宣布将联邦基金利率目标区间上调25个基点至3.75%-4%，这是自2023年7月以来首次加息，结束了为期三年的降息周期。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-09-16T18:03:00+00:00",
+      "updatedAt": "2026-09-16T19:03:57+00:00",
       "occurredAt": "",
       "publishedAt": "2026-09-11",
       "url": "https://kaopu.news/story/2026-09-11/cpi-data-looms-as-fed-rate-hike-odds-rise-7fe0ae",
@@ -23,7 +23,41 @@
         "澎湃新闻",
         "法广"
       ],
-      "sourceCount": 25,
+      "sourceCount": 28,
+      "sources": []
+    },
+    {
+      "id": "nyc-council-demands-openai-anthropic-at-ai-hearing-c0ef67",
+      "title": "纽约市议会要求OpenAI和Anthropic出席AI安全听证会",
+      "description": "纽约市议会将于10月5日召开全体委员会会议，就人工智能安全议题举行听证会，并要求OpenAI和Anthropic派代表出席，说明其防范AI失控、网络安全及其他潜在风险的措施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-16T18:32:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-16",
+      "url": "https://kaopu.news/story/2026-09-16/nyc-council-demands-openai-anthropic-at-ai-hearing-c0ef67",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "new-york-launches-17-modular-toilets-7e0bf3",
+      "title": "纽约市启动17座模组化公厕试点安装",
+      "description": "纽约市市长曼达尼于2026年9月16日宣布，在全市范围启动17座新型模组化公共厕所的安装试点，为期一年。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-16T18:23:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-16",
+      "url": "https://kaopu.news/story/2026-09-16/new-york-launches-17-modular-toilets-7e0bf3",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -4868,23 +4902,6 @@
         "世界日报"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "mcn-fake-village-officials-livestreaming-investigated-3a2eeb",
-      "title": "MCN机构批量孵化假冒村干部账号直播带货被查",
-      "description": "澎湃新闻调查发现，湖北天企盈文化传媒有限公司批量认证至少4个微信视频号，以“村支书”“村长”等村干部形象直播带货，但主播并非真实村支书身份。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-15T18:41:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-15",
-      "url": "https://kaopu.news/story/2026-09-15/mcn-fake-village-officials-livestreaming-investigated-3a2eeb",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 2,
       "sources": []
     },
     {
