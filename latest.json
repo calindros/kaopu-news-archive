@@ -1,46 +1,310 @@
 {
   "details": {
     "date": "2026-09-17",
-    "timestamp": 1789633562,
+    "timestamp": 1789640316,
     "totalPages": 1,
-    "total": 279
+    "total": 288
   },
   "stories": [
     {
       "id": "house-passes-bill-allowing-100-tariffs-on-russia-oil-buyers-b18abe",
-      "title": "美国国会通过涉俄制裁法案授权对中印等国征收100%关税",
-      "description": "美国国会于9月16日通过一项大规模涉俄制裁法案，授权总统特朗普对俄罗斯石油和天然气的前五大进口国征收最高100%的关税，潜在对象包括中国和印度。",
+      "title": "美众议院通过对俄伊制裁法案授权总统加征关税",
+      "description": "美国众议院于2026年9月16日以262票赞成、159票反对通过一项大规模制裁法案，授权总统特朗普对购买俄罗斯石油和天然气的前五大进口国征收最高100%的关税。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-09-17T08:20:00+00:00",
+      "updatedAt": "2026-09-17T09:07:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-09-17",
       "url": "https://kaopu.news/story/2026-09-17/house-passes-bill-allowing-100-tariffs-on-russia-oil-buyers-b18abe",
       "reference": [
         "联合早报",
         "世界日报",
+        "澎湃新闻",
+        "法广"
+      ],
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "anwar-invites-myanmar-president-over-rohingya-f175b1",
+      "title": "安华将邀缅甸总统访马讨论遣返罗兴亚难民",
+      "description": "马来西亚首相安华于2026年9月17日表示，将邀请缅甸总统敏昂莱访问马来西亚，通过直接外交谈判，商讨分阶段遣返滞留马国的逾20万名罗兴亚难民。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T09:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/anwar-invites-myanmar-president-over-rohingya-f175b1",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "dai-yulin-investigated-for-discipline-violations-c0fbbe",
+      "title": "辽宁省政协原副主席戴玉林被查",
+      "description": "辽宁省政协原党组副书记、副主席戴玉林因涉嫌严重违纪违法，于2026年9月17日接受中央纪委国家监委纪律审查和监察调查。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T09:01:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/dai-yulin-investigated-for-discipline-violations-c0fbbe",
+      "reference": [
         "澎湃新闻"
       ],
-      "sourceCount": 5,
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "eu-warns-minmetals-nickel-deal-harms-europe-25ef3c",
+      "title": "欧盟警告五矿资源收购巴西镍业务或损害欧洲供应",
+      "description": "欧盟委员会于9月16日向五矿资源发出反垄断异议声明，警告其收购英美资源巴西镍业务的交易可能导致低碳镍铁供应转向中国，损害欧洲不锈钢生产商利益。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T09:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/eu-warns-minmetals-nickel-deal-harms-europe-25ef3c",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "north-south-corridor-delayed-two-years-9cf4ca",
+      "title": "新加坡南北交通廊道整体完工延后约两年",
+      "description": "新加坡陆路交通管理局于2026年9月17日宣布，南北交通廊道因工程复杂及地质条件挑战，整体完工时间延后约两年。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T09:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/north-south-corridor-delayed-two-years-9cf4ca",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "xu-jiayin-sentenced-life-imprisonment-40bd2d",
+      "title": "许家印因恒大债务危机被判无期徒刑",
+      "description": "2026年8月20日，恒大集团创始人许家印因公司债务危机被判处无期徒刑，并处没收个人全部财产。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T09:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/xu-jiayin-sentenced-life-imprisonment-40bd2d",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "carney-to-meet-british-pm-burnham-d96315",
+      "title": "冯德莱恩提议加拿大成为欧盟首个联系成员",
+      "description": "欧盟委员会主席冯德莱恩于2026年9月16日在欧洲议会发表年度“盟情咨文”时，正式提议让加拿大成为欧盟首个“联系成员”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T08:58:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-13",
+      "url": "https://kaopu.news/story/2026-09-13/carney-to-meet-british-pm-burnham-d96315",
+      "reference": [
+        "联合早报",
+        "加拿大国际广播电台",
+        "澎湃新闻",
+        "公视"
+      ],
+      "sourceCount": 16,
+      "sources": []
+    },
+    {
+      "id": "china-not-confirm-xi-brics-summit-cb1675",
+      "title": "金砖峰会新德里落幕 中国宣布建设AI开源专区",
+      "description": "2026年9月12日至13日，第十八届金砖国家领导人会晤在印度新德里举行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T08:58:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-08",
+      "url": "https://kaopu.news/story/2026-09-08/china-not-confirm-xi-brics-summit-cb1675",
+      "reference": [
+        "中央通訊社",
+        "澎湃新闻",
+        "联合早报",
+        "法广"
+      ],
+      "sourceCount": 59,
       "sources": []
     },
     {
       "id": "china-criticizes-eu-public-procurement-law-c4af0a",
-      "title": "商务部批评欧盟公共采购法设置欧洲优先条款",
-      "description": "商务部新闻发言人何亚东在9月17日的例行新闻发布会上表示，中方对欧委会《公共采购法》草案设置“欧洲优先”条款高度关切。",
+      "title": "商务部回应欧盟贸易保护举措与中美降税磋商进展",
+      "description": "9月17日，中国商务部新闻发言人何亚东在例行新闻发布会上，就欧盟委员会近期多项涉华贸易政策及中欧贸易不平衡问题作出回应，同时透露了中美经贸团队在降税议题上的沟通进展。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-09-17T08:17:44.832587+00:00",
+      "updatedAt": "2026-09-17T08:57:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-09-17",
       "url": "https://kaopu.news/story/2026-09-17/china-criticizes-eu-public-procurement-law-c4af0a",
       "reference": [
         "澎湃新闻",
+        "联合早报",
         "第一财经"
       ],
-      "sourceCount": 2,
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "hainan-first-hualong-one-nuclear-unit-operates-24e3cb",
+      "title": "海南首台华龙一号核电机组投产商运",
+      "description": "2026年9月17日，海南首台“华龙一号”核电机组——华能昌江核电二期项目3号机组正式投产商运。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T08:56:35.941675+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/hainan-first-hualong-one-nuclear-unit-operates-24e3cb",
+      "reference": [
+        "第一财经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "saudi-arabia-downs-houthi-drone-5aaf74",
+      "title": "沙特空袭也门致一死并击中三座电信塔",
+      "description": "沙特阿拉伯于9月17日对也门胡塞武装控制区发动空袭，造成一人死亡、一人受伤，并击中塔伊兹省的三座电信塔。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T08:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-16",
+      "url": "https://kaopu.news/story/2026-09-16/saudi-arabia-downs-houthi-drone-5aaf74",
+      "reference": [
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "st-er-ya-controlling-shareholder-shares-frozen-dc0eb8",
+      "title": "*ST尔雅控股股东所持股份全部被司法冻结",
+      "description": "湖北美尔雅股份有限公司（*ST尔雅，600107.SH）于2026年9月16日公告披露，控股股东美尔雅集团近一年存在债务逾期，金额达2.7亿元，其持有的公司股份已全部被司法冻结。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T08:40:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/st-er-ya-controlling-shareholder-shares-frozen-dc0eb8",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "south-korea-voter-tolerance-declines-3b2108",
+      "title": "韩国选民政治包容度三年间骤降",
+      "description": "韩民族日报2026年9月17日援引一项追踪调查报道称，2024年至2026年间，韩国选民对政治立场不同者的包容度显著下降。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T08:37:20+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/south-korea-voter-tolerance-declines-3b2108",
+      "reference": [
+        "韩民族日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "hong-kong-boosts-cybersecurity-against-ai-attacks-88e142",
+      "title": "香港将强化跨部门网络安全协同应对AI攻击",
+      "description": "2026年9月17日，香港宣布将强化跨部门网络安全协同，以应对人工智能驱动的新阶段网络攻击。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T08:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/hong-kong-boosts-cybersecurity-against-ai-attacks-88e142",
+      "reference": [
+        "财新"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "app-marketing-overhaul-falls-short-d922d3",
+      "title": "金融产品网络营销新规实施在即 多家App整改未到位",
+      "description": "金融产品网络营销新规即将实施，目前处于倒计时阶段。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T08:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/app-marketing-overhaul-falls-short-d922d3",
+      "reference": [
+        "财新"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "regulators-propose-rules-for-online-insurance-ea39e4",
+      "title": "监管部门拟新规整治互联网保险乱象",
+      "description": "监管部门于2026年9月17日就进一步规范互联网保险经营在业内征求意见，针对营销、产品、扣费等环节列出多项禁止性条款，以治理弹窗扣费等乱象。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T08:17:45.617393+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/regulators-propose-rules-for-online-insurance-ea39e4",
+      "reference": [
+        "第一财经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "habahe-county-publishes-officials-phone-numbers-227c2d",
+      "title": "新疆哈巴河县公开202名领导干部手机号",
+      "description": "9月12日，新疆哈巴河县通过官方微信公众号发布《哈巴河县党政领导通讯录》，集中公开202名领导干部的手机号码，涵盖县四套班子、县直部门及乡镇领导。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T08:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/habahe-county-publishes-officials-phone-numbers-227c2d",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -61,6 +325,40 @@
         "中央通訊社"
       ],
       "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "st-ht-subsidiary-transfers-1073-billion-claims-7d3749",
+      "title": "*ST皇庭子公司转让10.73亿元债权抵债",
+      "description": "*ST皇庭（000056.SZ）全资子公司深圳融发投资有限公司于2026年9月16日将其对关联方债务人享有的10.73亿元债权转让给连云港旭思朗实业有限公司，用于抵销融发投资对旭思朗的10.73亿元债务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T08:07:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/st-ht-subsidiary-transfers-1073-billion-claims-7d3749",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-returns-58-cultural-relics-to-china-74a148",
+      "title": "美国向中国返还58件文物艺术品和古生物化石",
+      "description": "2026年9月16日，中国驻美国大使馆举行交接仪式，美国向中国返还58件文物艺术品和古生物化石。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T08:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/us-returns-58-cultural-relics-to-china-74a148",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -112,6 +410,26 @@
         "澎湃新闻"
       ],
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "indonesia-wildfire-japan-italy-aid-ad4790",
+      "title": "日本自卫队直升机首次在海外投入印尼林火灭火",
+      "description": "2026年9月16日，日本陆上自卫队CH-47运输直升机在印度尼西亚投入森林火灾灭火行动，这是自卫队首次在海外执行灭火任务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T07:57:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-07",
+      "url": "https://kaopu.news/story/2026-09-07/indonesia-wildfire-japan-italy-aid-ad4790",
+      "reference": [
+        "联合早报",
+        "共同网",
+        "公视",
+        "日本放送协会"
+      ],
+      "sourceCount": 10,
       "sources": []
     },
     {
@@ -219,8 +537,8 @@
     },
     {
       "id": "tibet-gyirong-mudslide-disrupts-access-cc41a7",
-      "title": "尼泊尔冰川崩塌引发泥石流致逾1400人遇难",
-      "description": "2026年8月26日，尼泊尔朗当利龙峰发生大规模冰川与岩石崩塌，引发夹杂水、冰和碎屑的特大泥石流，冲向下游中国西藏与尼泊尔边境地区，造成重大人员伤亡。",
+      "title": "尼泊尔冰川崩塌引发洪灾致逾1400人遇难",
+      "description": "2026年8月26日，尼泊尔与中国西藏边境的朗当利龙峰发生大规模冰川与岩石崩塌，引发夹杂水、冰和碎屑的毁灭性洪流，冲毁下游社区与基础设施。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -234,7 +552,7 @@
         "中央通訊社",
         "公视"
       ],
-      "sourceCount": 650,
+      "sourceCount": 651,
       "sources": []
     },
     {
@@ -399,6 +717,23 @@
       "sources": []
     },
     {
+      "id": "yemen-forces-houthis-fight-border-camp-af84cf",
+      "title": "叶门政府军与青年运动争夺沙乌地边境军营控制权",
+      "description": "2026年9月17日，叶门政府军与青年运动在沙乌地阿拉伯边境附近爆发战斗，双方正在争夺阿拉巴纳特军营的控制权。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T07:02:12+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/yemen-forces-houthis-fight-border-camp-af84cf",
+      "reference": [
+        "法广"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "typhoon-dujuan-may-affect-japan-holiday-7f8359",
       "title": "台风杜鹃生成 连休期间将影响日本",
       "description": "日本气象厅16日晚9时确认，今年第25号台风“杜鹃”已在马里亚纳群岛附近海域生成。",
@@ -555,6 +890,24 @@
         "共同网"
       ],
       "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "fiji-declares-aids-crisis-national-emergency-7531a8",
+      "title": "斐济因HIV病例激增宣布进入全国紧急状态",
+      "description": "斐济政府于2026年9月17日宣布，因艾滋病病毒（HIV）感染病例激增，全国进入紧急状态，并启动全政府层面的协同应对措施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:32:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-15",
+      "url": "https://kaopu.news/story/2026-09-15/fiji-declares-aids-crisis-national-emergency-7531a8",
+      "reference": [
+        "澎湃新闻",
+        "法广"
+      ],
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -943,8 +1296,8 @@
     },
     {
       "id": "house-votes-on-ai-data-center-electricity-costs-8fc18f",
-      "title": "美国众议院通过法案禁止AI电费转嫁消费者",
-      "description": "美国众议院于2026年9月16日以417票对3票通过《费率支付者保护法案》，规定用电需求达100兆瓦及以上的人工智能数据中心须自行承担新增电力基础设施成本，不得将费用转嫁给普通家庭或小企业。",
+      "title": "美国众议院通过法案要求AI数据中心自担电力成本",
+      "description": "美国众议院于2026年9月16日以417票对3票的压倒性跨党派多数通过《费率支付者保护法案》，要求大型人工智能数据中心自行承担新增电力基础设施成本，不得将其转嫁给普通消费者。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -954,9 +1307,27 @@
       "url": "https://kaopu.news/story/2026-09-16/house-votes-on-ai-data-center-electricity-costs-8fc18f",
       "reference": [
         "世界日报",
+        "法广",
         "第一财经"
       ],
-      "sourceCount": 2,
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "bolivia-paraguay-complete-border-demarcation-31c6bd",
+      "title": "玻利维亚与巴拉圭完成755公里边界划定",
+      "description": "玻利维亚与巴拉圭于2026年9月17日完成两国全长约755公里边界的划定工作，结束了持续88年的谈判进程。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:02:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/bolivia-paraguay-complete-border-demarcation-31c6bd",
+      "reference": [
+        "法广"
+      ],
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1574,26 +1945,6 @@
         "公视"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "carney-to-meet-british-pm-burnham-d96315",
-      "title": "欧盟提议加拿大成首个准成员国遭特朗普威胁",
-      "description": "欧盟委员会主席冯德莱恩于2026年9月16日在欧洲议会发表年度咨文时，提议让加拿大成为欧盟首个“准成员国”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T03:39:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-13",
-      "url": "https://kaopu.news/story/2026-09-13/carney-to-meet-british-pm-burnham-d96315",
-      "reference": [
-        "联合早报",
-        "加拿大国际广播电台",
-        "澎湃新闻",
-        "公视"
-      ],
-      "sourceCount": 14,
       "sources": []
     },
     {
@@ -2780,24 +3131,6 @@
         "法广"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "saudi-arabia-downs-houthi-drone-5aaf74",
-      "title": "美国外交官在阿曼与胡塞武装会晤",
-      "description": "美国外交官于上周末在阿曼政府协助下，于美国驻阿曼使馆与也门胡塞武装代表举行会晤，讨论红海紧张局势及停火协议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T21:33:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/saudi-arabia-downs-houthi-drone-5aaf74",
-      "reference": [
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -4248,26 +4581,6 @@
       "sources": []
     },
     {
-      "id": "indonesia-wildfire-japan-italy-aid-ad4790",
-      "title": "印尼林火碳排放占全球三分之一濒危物种遭重创",
-      "description": "截至2026年9月16日，印度尼西亚因强厄尔尼诺现象引发的森林与泥炭地大火仍在持续燃烧，林火产生的跨境烟霾已威胁濒危野生动物生存并引发严重公共卫生危机，多国力量正在协助印尼灭火。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T10:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-07",
-      "url": "https://kaopu.news/story/2026-09-07/indonesia-wildfire-japan-italy-aid-ad4790",
-      "reference": [
-        "联合早报",
-        "共同网",
-        "公视",
-        "日本放送协会"
-      ],
-      "sourceCount": 9,
-      "sources": []
-    },
-    {
       "id": "fushou-reports-first-half-net-loss-ea103f",
       "title": "福寿实业上半年净损3.08亿元",
       "description": "福寿实业2026年上半年归属于母公司业主净损新台币3.08亿元，由盈转亏。",
@@ -4617,23 +4930,6 @@
       "sources": []
     },
     {
-      "id": "youthtechsg-survey-reports-online-harm-becab1",
-      "title": "新加坡拟修法限制青少年使用社交媒体",
-      "description": "新加坡数码发展及新闻部长杨莉明今年8月透露，政府计划最快明年初修法，要求社交媒体平台核实用户年龄、默认关闭自动播放功能，并加强阻止陌生人通过私信接触青少年。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T09:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-14",
-      "url": "https://kaopu.news/story/2026-09-14/youthtechsg-survey-reports-online-harm-becab1",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "dap-contests-eight-seats-malacca-election-158516",
       "title": "马来西亚民行党宣布马六甲州选参选八席",
       "description": "马来西亚民主行动党秘书长陆兆福于9月15日宣布，该党将在马六甲州选举中参选八个州议席，包括捍卫现有的四个议席，并挑战另外四个议席。",
@@ -4665,24 +4961,6 @@
         "第一财经"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "south-korea-senior-digital-class-eab386",
-      "title": "韩国政府开设银发数码培训班弥合代际鸿沟",
-      "description": "韩国政府于2026年9月16日推出面向老年人的数码技能培训课程，旨在帮助银发族适应数字生活，弥合代际数码鸿沟。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T08:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-14",
-      "url": "https://kaopu.news/story/2026-09-14/south-korea-senior-digital-class-eab386",
-      "reference": [
-        "公视",
-        "联合早报"
-      ],
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -4785,128 +5063,6 @@
       "url": "https://kaopu.news/story/2026-09-16/yu-liang-restricted-high-consumption-de8d4b",
       "reference": [
         "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "saudi-oil-pipeline-attacks-halt-operations-9df300",
-      "title": "沙特东西输油管道遭无人机袭击受损关闭",
-      "description": "2026年9月10日，沙特阿拉伯东西输油管道遭来自伊拉克境内的无人机袭击，导致管道受损并预防性关闭，红海沿岸延布港石油装船作业随即暂停。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T07:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-11",
-      "url": "https://kaopu.news/story/2026-09-11/saudi-oil-pipeline-attacks-halt-operations-9df300",
-      "reference": [
-        "法广",
-        "联合早报",
-        "澎湃新闻",
-        "中央通訊社"
-      ],
-      "sourceCount": 15,
-      "sources": []
-    },
-    {
-      "id": "china-tops-foreign-land-purchases-in-japan-2ee36d",
-      "title": "中国大陆在日大规模购地申报件数居首",
-      "description": "日本国土交通省首次公布依据修订后的《国土利用计划法》施行规则统计的外国人在日大规模购地申报数据。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T07:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/china-tops-foreign-land-purchases-in-japan-2ee36d",
-      "reference": [
-        "共同网"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "new-power-system-plan-released-ff2b0f",
-      "title": "两部门发布新型电力系统十五五规划",
-      "description": "国家发展改革委与国家能源局于9月16日联合发布《新型电力系统建设“十五五”规划》，明确新能源利用率分地区目标，并鼓励就近消纳新业态发展。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T07:17:35.449896+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/new-power-system-plan-released-ff2b0f",
-      "reference": [
-        "第一财经"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "saudi-capital-market-commercial-real-estate-china-f43ab6",
-      "title": "沙特资本市场与商业地产加速在华布局",
-      "description": "9月16日，据第一财经报道，沙特资本市场与商业地产行业近期加码中国市场布局。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T07:16:35.450227+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/saudi-capital-market-commercial-real-estate-china-f43ab6",
-      "reference": [
-        "第一财经"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "shaanxi-man-identity-theft-tax-fraud-9c247d",
-      "title": "陕西男子疑遭盗用身份注册公司虚开增值税发票近千万",
-      "description": "陕西一名化名石富的男子，因妻子所在单位核查个人事项报告，意外发现自己被登记为西安泰尔奇化工有限公司的实际控制人和唯一股东。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T07:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/shaanxi-man-identity-theft-tax-fraud-9c247d",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "korea-household-debt-gdp-ratio-lowest-300c43",
-      "title": "韩国家庭债务占GDP比率降至10年最低",
-      "description": "韩国银行与国际清算银行9月16日公布的数据显示，今年第二季度末韩国家庭债务占名义GDP的比率估计约为81.3%，若获证实，将是自2016年第二季度以来10年来的最低水平。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:54:50+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/korea-household-debt-gdp-ratio-lowest-300c43",
-      "reference": [
-        "韩国国际广播电台"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "liu-zaisheng-dies-at-89-a45f52",
-      "title": "音乐史学家刘再生在济南逝世享年89岁",
-      "description": "我国著名音乐史学家、音乐评论家、山东师范大学教授刘再生因病医治无效，于2026年9月15日21时17分在济南逝世，享年89岁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:53:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/liu-zaisheng-dies-at-89-a45f52",
-      "reference": [
-        "澎湃新闻"
       ],
       "sourceCount": 1,
       "sources": []
