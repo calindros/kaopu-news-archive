@@ -1,19 +1,19 @@
 {
   "details": {
     "date": "2026-09-17",
-    "timestamp": 1789627146,
+    "timestamp": 1789633562,
     "totalPages": 1,
-    "total": 279
+    "total": 276
   },
   "stories": [
     {
       "id": "cpi-data-looms-as-fed-rate-hike-odds-rise-7fe0ae",
-      "title": "美联储三年来首次加息25个基点",
-      "description": "美国联邦储备委员会于2026年9月16日宣布将联邦基金利率目标区间上调25个基点至3.75%-4.00%，联邦公开市场委员会12名委员全票通过。",
+      "title": "美联储三年来首次加息25个基点并暗示年内或再加息",
+      "description": "美国联邦储备委员会于2026年9月16日一致投票决定，将联邦基金利率目标区间上调25个基点至3.75%-4.00%。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-09-17T06:09:00+00:00",
+      "updatedAt": "2026-09-17T07:15:38.905213+00:00",
       "occurredAt": "",
       "publishedAt": "2026-09-11",
       "url": "https://kaopu.news/story/2026-09-11/cpi-data-looms-as-fed-rate-hike-odds-rise-7fe0ae",
@@ -23,7 +23,556 @@
         "澎湃新闻",
         "法广"
       ],
-      "sourceCount": 54,
+      "sourceCount": 58,
+      "sources": []
+    },
+    {
+      "id": "chinese-victims-sue-japanese-firms-for-compensation-66d606",
+      "title": "中国被掳劳工遗属在石家庄起诉六家日企索赔",
+      "description": "2026年9月16日，50名二战期间被强掳至日本的中国劳工遗属向河北省石家庄市高级人民法院提交起诉书，起诉大成建设、日铁矿业等6家日本企业。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T07:12:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-16",
+      "url": "https://kaopu.news/story/2026-09-16/chinese-victims-sue-japanese-firms-for-compensation-66d606",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "日本放送协会",
+        "日经"
+      ],
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "singapore-offers-free-ai-subscriptions-70dc47",
+      "title": "新加坡推200余门AI课程并赠六个月工具订阅",
+      "description": "新加坡技能与劳动力发展局（SWDA）于2026年9月16日宣布推出200多门人工智能课程，计划在未来三年培养10万名兼具专业技能与AI应用能力的“AI双语”员工。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T07:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-16",
+      "url": "https://kaopu.news/story/2026-09-16/singapore-offers-free-ai-subscriptions-70dc47",
+      "reference": [
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "house-passes-bill-allowing-100-tariffs-on-russia-oil-buyers-b18abe",
+      "title": "美众议院通过制裁俄伊法案授权对中印加征关税",
+      "description": "美国众议院于2026年9月16日以262票赞成、159票反对通过《2026年林赛·格雷厄姆制裁俄罗斯和伊朗法案》，授权总统特朗普对俄罗斯石油和天然气的主要进口国征收最高100%的关税。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T07:07:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/house-passes-bill-allowing-100-tariffs-on-russia-oil-buyers-b18abe",
+      "reference": [
+        "联合早报",
+        "世界日报",
+        "澎湃新闻"
+      ],
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "typhoon-dujuan-may-affect-japan-holiday-7f8359",
+      "title": "台风杜鹃生成 连休期间将影响日本",
+      "description": "日本气象厅16日晚9时确认，今年第25号台风“杜鹃”已在马里亚纳群岛附近海域生成。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T07:02:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/typhoon-dujuan-may-affect-japan-holiday-7f8359",
+      "reference": [
+        "共同网"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "deepseek-engineer-ai-forces-career-change-af9c79",
+      "title": "DeepSeek开发者将Anthropic比作希特勒引发争议",
+      "description": "中国人工智能初创企业DeepSeek的核心开发者刘胜与于2026年9月14日在微信公众号发文，将美国AI公司Anthropic掌握最先进通用人工智能比作“让希特勒先于盟军掌握原子弹技术”，表达对AI技术集中化的担忧。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:53:37+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-15",
+      "url": "https://kaopu.news/story/2026-09-15/deepseek-engineer-ai-forces-career-change-af9c79",
+      "reference": [
+        "第一财经",
+        "韩民族日报"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "un-report-war-risk-ranking-surges-495292",
+      "title": "联合国报告称全球对大规模战争准备不足",
+      "description": "联合国于2026年9月15日发布《2026年全球风险报告》，指出大规模战争风险在全球风险排名中急剧上升，各国对此缺乏准备。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:49:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-16",
+      "url": "https://kaopu.news/story/2026-09-16/un-report-war-risk-ranking-surges-495292",
+      "reference": [
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "labor-ministry-extends-wedding-leave-to-14-days-6bcd88",
+      "title": "台湾劳动部将劳工婚假延长至14天",
+      "description": "台湾劳动部于2026年9月17日预告修正劳工请假规则，自10月1日起，将劳工婚假从现行8日延长至14日，工资照给。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:43:15+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/labor-ministry-extends-wedding-leave-to-14-days-6bcd88",
+      "reference": [
+        "公视"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "southern-medical-university-student-falls-death-a0edec",
+      "title": "南方医科大学一名八年制学生坠楼身亡",
+      "description": "2026年9月15日凌晨，南方医科大学白云校区一名临床医学八年制本博连读学生从宿舍楼23楼坠下，经警方现场勘查确认系高坠身亡，并排除他杀。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:35:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-16",
+      "url": "https://kaopu.news/story/2026-09-16/southern-medical-university-student-falls-death-a0edec",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "财新"
+      ],
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "beijing-threatens-cancel-trump-xi-summit-f0d40e",
+      "title": "中方以取消习特会施压美方搁置对台军售",
+      "description": "围绕计划于2026年9月下旬在美国举行的美中首脑会谈，中方明确告知美方，若华盛顿在会谈前批准任何新的对台湾武器出售，中国国家主席习近平将暂不访美。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:33:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-12",
+      "url": "https://kaopu.news/story/2026-09-12/beijing-threatens-cancel-trump-xi-summit-f0d40e",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "共同网"
+      ],
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "flushing-commons-phase-two-breaks-ground-6f335f",
+      "title": "法拉盛广场二期动工将建YMCA新会址",
+      "description": "法拉盛广场二期工程于2026年9月16日正式动工。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/flushing-commons-phase-two-breaks-ground-6f335f",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "new-york-launches-17-modular-toilets-7e0bf3",
+      "title": "纽约市启动17座新型公共厕所试点安装",
+      "description": "纽约市于2026年9月17日启动17座新型公共厕所的试点安装工程，为期一年。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-16",
+      "url": "https://kaopu.news/story/2026-09-16/new-york-launches-17-modular-toilets-7e0bf3",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-considers-japan-south-korea-frigate-purchase-01ebf2",
+      "title": "美国海军考虑向日韩采购军舰应对中国扩张",
+      "description": "美国海军正在考虑一项罕见举措：向日本、韩国等盟国采购护卫舰，以应对中国海军持续高速扩张与自身舰艇数量不足的双重压力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-16",
+      "url": "https://kaopu.news/story/2026-09-16/us-considers-japan-south-korea-frigate-purchase-01ebf2",
+      "reference": [
+        "日经",
+        "世界日报",
+        "联合早报"
+      ],
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "heastie-nominates-ong-for-pep-chair-75b188",
+      "title": "纽约州众议长提名邓炳强角逐市教育政策小组主席",
+      "description": "纽约州众议长希士提（Carl Heastie）于2026年9月17日提名皇后区家长领袖邓炳强（Alan Ong）角逐纽约市教育政策小组（PEP）主席。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/heastie-nominates-ong-for-pep-chair-75b188",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "xiaomi-ai-leader-livestreams-model-training-5ed390",
+      "title": "小米AI团队负责人直播大模型训练过程",
+      "description": "9月17日，小米MiMo大模型团队负责人罗福莉在X平台公开直播MiMo-V2.6大模型的强化学习训练过程，并披露了训练成本与扩展方向等细节。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/xiaomi-ai-leader-livestreams-model-training-5ed390",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "brooklyn-school-absenteeism-sparks-reform-3cb414",
+      "title": "布碌仑一小学六成学生长期缺勤遭促改革",
+      "description": "2026年9月17日，位于纽约市布碌仑康尼岛的188博迪小学因高达60%的学生长期缺勤及考试不及格，遭到教师和社区要求改革，并呼吁将其转型为职业技术学校。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/brooklyn-school-absenteeism-sparks-reform-3cb414",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "massie-impeaches-defense-secretary-hegseth-32f888",
+      "title": "美众议院提前休会取消防长弹劾投票",
+      "description": "美国众议院共和党籍议长强生9月16日突然宣布众议院提前休会，原定17日对国防部长赫塞斯的弹劾决议投票被取消，推迟至11月期中选举后处理。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-16",
+      "url": "https://kaopu.news/story/2026-09-16/massie-impeaches-defense-secretary-hegseth-32f888",
+      "reference": [
+        "澎湃新闻",
+        "公视",
+        "世界日报"
+      ],
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "nyc-council-hearing-crime-data-accuracy-e46cb1",
+      "title": "纽约市议会听证会质疑警方犯罪统计准确性",
+      "description": "2026年9月16日，纽约市议会公共安全委员会举行听证会，审查市警局犯罪统计数据的准确性。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/nyc-council-hearing-crime-data-accuracy-e46cb1",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "san-francisco-opera-orchestra-strike-cancels-shows-154a5a",
+      "title": "旧金山歌剧院乐团罢工致多场演出取消",
+      "description": "旧金山歌剧院乐团因劳资谈判破裂，于2026年9月12日第104个乐季开幕日发起史上首次罢工，导致多场演出取消。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/san-francisco-opera-orchestra-strike-cancels-shows-154a5a",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "chicago-chinatown-tourism-rents-residents-904aec",
+      "title": "芝加哥华埠社区警告旅游化推高租金挤压居民",
+      "description": "2026年9月17日，芝加哥华埠社区组织华埠更好团结联盟（CBCAC）指出，华埠正从居民生活核心区转变为以游客消费为导向的旅游中心，面临租金上涨、连锁品牌挤压及周边大型球场开发带来的仕绅化风险。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/chicago-chinatown-tourism-rents-residents-904aec",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "sf-report-muni-cuts-may-drop-home-prices-fa2c62",
+      "title": "旧金山报告称Muni服务削减或致房价下跌",
+      "description": "旧金山市主计长办公室2026年9月17日发布报告警告，若选民未通过Muni土地税H提案导致公共交通服务大幅削减，当地房价可能下跌。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/sf-report-muni-cuts-may-drop-home-prices-fa2c62",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "takaichi-cabinet-reshuffled-after-one-year-141dae",
+      "title": "高市内阁执政一年后改组",
+      "description": "2025年10月21日，第一届高市内阁成立，至2026年9月17日改组为第二届高市内阁，执政历程约一年。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/takaichi-cabinet-reshuffled-after-one-year-141dae",
+      "reference": [
+        "共同网"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nbc4-helicopter-crash-kills-three-6cffd8",
+      "title": "洛杉矶新闻直升机报道车祸时坠毁致5人死亡",
+      "description": "2026年9月15日晚间，洛杉矶查茨沃思（Chatsworth）发生一起连环悲剧：一辆休旅车与地铁巴士相撞造成人员死亡，随后一架正在空中直播报道该事故的新闻直升机坠毁，两起事件共造成5人遇难。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-16",
+      "url": "https://kaopu.news/story/2026-09-16/nbc4-helicopter-crash-kills-three-6cffd8",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "公视"
+      ],
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "treasury-raises-buyback-cap-yields-7f0f75",
+      "title": "美债收益率突破5%创19年新高全球金融市场剧震",
+      "description": "2026年2月底美伊冲突爆发以来，全球金融市场持续承受剧烈震荡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-06",
+      "url": "https://kaopu.news/story/2026-09-06/treasury-raises-buyback-cap-yields-7f0f75",
+      "reference": [
+        "第一财经",
+        "中央通訊社",
+        "澎湃新闻",
+        "日经"
+      ],
+      "sourceCount": 34,
+      "sources": []
+    },
+    {
+      "id": "indian-migrant-kills-woman-then-shoots-self-30474f",
+      "title": "印度无证移民当街枪杀跟踪数月女子后自杀",
+      "description": "2026年9月8日下午，加州一名印度籍无证移民在街头枪杀一名曾遭其跟踪数月的女子，随后在警方拦截时自杀身亡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/indian-migrant-kills-woman-then-shoots-self-30474f",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "unvaccinated-woman-dies-from-measles-c82e8f",
+      "title": "宾州麻疹疫情一月内致四人死亡",
+      "description": "宾夕法尼亚州麻疹疫情持续蔓延，一个月内累计报告四例死亡病例。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-14",
+      "url": "https://kaopu.news/story/2026-09-14/unvaccinated-woman-dies-from-measles-c82e8f",
+      "reference": [
+        "法广",
+        "世界日报"
+      ],
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "target-pokemon-limited-edition-draws-crowds-52aca0",
+      "title": "Target开卖宝可梦限定商品引发百人排队",
+      "description": "为庆祝宝可梦30周年，Target于2026年9月16日推出限定商品，包括卡牌、Owala联名水壶、玩偶及收藏品，吸引大批粉丝排队抢购。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/target-pokemon-limited-edition-draws-crowds-52aca0",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "uscis-scans-old-records-to-revoke-citizenship-5d04d5",
+      "title": "美国移民局翻查旧纪录加速撤销入籍公民身份",
+      "description": "美国公民暨移民服务局（USCIS）正利用科技和集中化手段，翻查已入籍多年的移民旧纪录，以发现可能存在的归化资格问题，并推动取消归化公民身份。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/uscis-scans-old-records-to-revoke-citizenship-5d04d5",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-cuts-freezes-177-billion-federal-grants-0512fa",
+      "title": "川普第二任期已削减或冻结1770亿元联邦赠款",
+      "description": "跨党派非营利组织「各州联合民主中心」与研究机构「拨款见证」于2026年9月17日联合发布报告，指出川普总统第二任期以来，其政府已削减或冻结全美各州高达1770亿元联邦赠款，约占联邦可自由支配经费的10%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:12:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/trump-cuts-freezes-177-billion-federal-grants-0512fa",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "annie-dillard-dies-at-81-46b4e3",
+      "title": "普立兹奖作家安妮·迪勒去世享年81岁",
+      "description": "普立兹奖得主、美国作家安妮·迪勒（Annie Dillard）于2026年9月15日在麻州南韦尔弗利特家中因自然原因去世，享年81岁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/annie-dillard-dies-at-81-46b4e3",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "spacex-drives-el-segundo-transformation-6ec43f",
+      "title": "SpaceX带动艾尔塞冈度从蓝领城转型高档聚落",
+      "description": "2026年9月17日，在SpaceX等高科技企业带动下，美国加州艾尔塞冈度（El Segundo）从蓝领工业社区转型为高档商业与居住聚落，吸引大量新创、金融、体育及创意产业进驻。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/spacex-drives-el-segundo-transformation-6ec43f",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "dc-chinatown-asian-population-plunges-after-arena-49bd04",
+      "title": "华府华埠因体育馆进驻致亚裔人口锐减68%",
+      "description": "世界日报2026年9月17日报道，华府华埠因1997年第一资本体育馆（原MCI中心）进驻，地价与租金飙升，导致华裔居民与商家大量流失，近30年后华埠已名存实亡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T06:07:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/dc-chinatown-asian-population-plunges-after-arena-49bd04",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -322,9 +871,26 @@
       "sources": []
     },
     {
+      "id": "taiwan-health-coins-launch-in-october-1ce9fa",
+      "title": "台湾健康币政策10月上路12月起兑换",
+      "description": "台湾卫福部9月17日宣布，健康币政策将于10月1日起实施，年满18岁民众完成公费成人预防保健服务、B/C型肝炎筛检、癌症筛检、流感及新冠疫苗接种，或首次登录健康币专区，可获得100至1350币不等的健康币，每人最多累积至1.3万币。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T05:15:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/taiwan-health-coins-launch-in-october-1ce9fa",
+      "reference": [
+        "中央通訊社"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "xi-us-visit-agriculture-announcement-763a39",
-      "title": "习近平抵达华盛顿与特朗普举行今年第二次会晤",
-      "description": "中国国家主席习近平于2026年9月24日抵达华盛顿，与美国总统特朗普举行今年第二次首脑会晤。",
+      "title": "习近平抵达华盛顿与特朗普举行第二次元首会晤",
+      "description": "中国国家主席习近平于2026年9月24日抵达华盛顿，与美国总统特朗普举行今年的第二次面对面会谈。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -338,7 +904,7 @@
         "中央通訊社",
         "德国之声"
       ],
-      "sourceCount": 33,
+      "sourceCount": 34,
       "sources": []
     },
     {
@@ -356,25 +922,6 @@
         "澎湃新闻"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nbc4-helicopter-crash-kills-three-6cffd8",
-      "title": "NBC新闻直升机洛杉矶坠毁致3人死亡",
-      "description": "美国全国广播公司（NBC）旗下一架新闻直升机于2026年9月15日晚间在洛杉矶查兹沃思坠毁，造成机上记者、飞行员及一名地面行人共3人死亡。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T04:59:47+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/nbc4-helicopter-crash-kills-three-6cffd8",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "公视"
-      ],
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -465,25 +1012,6 @@
       "sources": []
     },
     {
-      "id": "chinese-victims-sue-japanese-firms-for-compensation-66d606",
-      "title": "中国劳工遗属在河北集体起诉六家日企索赔",
-      "description": "2026年9月16日，二战期间被强掳至日本的中国劳工遗属共50人，向河北省石家庄市高级人民法院提交集体诉状，起诉大成建设、日铁矿业等6家日本企业。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T04:41:16+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/chinese-victims-sue-japanese-firms-for-compensation-66d606",
-      "reference": [
-        "共同网",
-        "联合早报",
-        "日本放送协会"
-      ],
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "lee-policy-address-first-five-year-plan-53ede2",
       "title": "香港特区政府公布首个五年规划对接国家十五五",
       "description": "2026年9月16日，香港特区行政长官李家超在立法会公布《香港特别行政区经济和社会发展第一个五年规划（2026—2030年）》，并同步发表《行政长官2026年施政报告》。",
@@ -559,8 +1087,8 @@
     },
     {
       "id": "changhua-speaker-investigated-for-banquet-b96647",
-      "title": "彰化议长谢典霖涉投票行贿遭声押",
-      "description": "彰化地检署于2026年9月17日侦办一起投票行贿案，国民党籍彰化县议长谢典霖及其父母郑汝芬、谢新隆等5人被依《公职人员选举罢免法》第99条第1项投票行贿罪当庭逮捕，并向法院声请羁押禁见。",
+      "title": "彰化议长谢典霖涉贿选遭声押禁见",
+      "description": "彰化地检署于2026年9月17日以涉嫌违反《公职人员选举罢免法》投票行贿罪，当庭逮捕彰化县议长谢典霖及其父母郑汝芬、谢新隆等5人，并向法院声请羁押禁见。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -569,9 +1097,10 @@
       "publishedAt": "2026-09-16",
       "url": "https://kaopu.news/story/2026-09-16/changhua-speaker-investigated-for-banquet-b96647",
       "reference": [
-        "公视"
+        "公视",
+        "中央通訊社"
       ],
-      "sourceCount": 2,
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -640,23 +1169,6 @@
       "occurredAt": "",
       "publishedAt": "2026-09-17",
       "url": "https://kaopu.news/story/2026-09-17/taiwan-wetland-restoration-rescues-endangered-plants-438833",
-      "reference": [
-        "公视"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "labor-ministry-extends-wedding-leave-to-14-days-6bcd88",
-      "title": "台湾劳动部预告劳工婚假增至14天",
-      "description": "台湾劳动部于2026年9月17日预告修正劳工请假规则，将劳工婚假从现行8日增加至14日，新规定预计于10月1日正式生效。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T04:11:12+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-17",
-      "url": "https://kaopu.news/story/2026-09-17/labor-ministry-extends-wedding-leave-to-14-days-6bcd88",
       "reference": [
         "公视"
       ],
@@ -736,25 +1248,6 @@
       "sources": []
     },
     {
-      "id": "house-passes-bill-allowing-100-tariffs-on-russia-oil-buyers-b18abe",
-      "title": "美众议院通过制裁俄伊法案授权总统征高额关税",
-      "description": "美国国会众议院于2026年9月16日以262票赞成、159票反对的表决结果，通过《2026年林赛·格雷厄姆制裁俄罗斯和伊朗法案》，将法案送交总统特朗普签署。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T03:36:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-17",
-      "url": "https://kaopu.news/story/2026-09-17/house-passes-bill-allowing-100-tariffs-on-russia-oil-buyers-b18abe",
-      "reference": [
-        "联合早报",
-        "世界日报",
-        "澎湃新闻"
-      ],
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "manus-plans-500-million-funding-round-8142b8",
       "title": "Manus拟开展被收购叫停后首轮5亿美元融资",
       "description": "中国AI初创公司Manus拟开展被收购行动叫停后的首轮融资，计划筹集5亿美元，公司估值将提高一倍至40亿美元。",
@@ -769,6 +1262,24 @@
         "联合早报"
       ],
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-taiwan-drone-ai-strait-plan-f2b1b3",
+      "title": "美台军方低调推进无人机蜂群台海防御构想",
+      "description": "据国际媒体2026年9月16日至17日报道，美台军方正低调推进一项名为「地狱景象」的台海防御作战构想。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T03:33:15+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-16",
+      "url": "https://kaopu.news/story/2026-09-16/us-taiwan-drone-ai-strait-plan-f2b1b3",
+      "reference": [
+        "世界日报",
+        "中央通訊社"
+      ],
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -965,6 +1476,25 @@
       "sources": []
     },
     {
+      "id": "yellen-says-joint-yen-intervention-small-8ca25a",
+      "title": "贝森特出席众院听证会回应日元干预与台湾入IMF议题",
+      "description": "美国财政部长贝森特9月15日出席众议院金融服务委员会听证会，就美日联合干预汇市、台湾申请加入国际货币基金组织（IMF）以及川普提出的5000美元支票计划等议题作出回应。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T03:03:54+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-16",
+      "url": "https://kaopu.news/story/2026-09-16/yellen-says-joint-yen-intervention-small-8ca25a",
+      "reference": [
+        "共同网",
+        "世界日报",
+        "中央通訊社"
+      ],
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
       "id": "kagoshima-offers-free-shinkansen-rides-2d8af1",
       "title": "鹿儿岛县向国际游客提供新干线免费乘车服务",
       "description": "日本鹿儿岛县于2026年9月18日启动一项试点计划，向国际游客提供九州新干线免费乘车服务，旨在吸引游客前往该县相对冷门的景点。",
@@ -1108,25 +1638,6 @@
         "联合早报"
       ],
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "southern-medical-university-student-falls-death-a0edec",
-      "title": "南方医科大学一名本博连读学生坠楼身亡",
-      "description": "2026年9月15日凌晨1时55分，南方医科大学一名2020级临床医学八年制本博连读学生从学校高层公寓坠楼身亡，警方现场勘查后排除他杀。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T02:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/southern-medical-university-student-falls-death-a0edec",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "财新"
-      ],
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -1513,23 +2024,6 @@
       "url": "https://kaopu.news/story/2026-09-17/oppein-chairman-admits-miscalculation-profit-halved-6bc102",
       "reference": [
         "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "typhoon-dujuan-may-affect-japan-holiday-7f8359",
-      "title": "台风杜鹃生成或影响日本连休",
-      "description": "日本气象厅宣布，今年第25号台风“杜鹃”已于9月16日晚9时在马里亚纳群岛附近海域生成。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T00:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-17",
-      "url": "https://kaopu.news/story/2026-09-17/typhoon-dujuan-may-affect-japan-holiday-7f8359",
-      "reference": [
-        "共同网"
       ],
       "sourceCount": 1,
       "sources": []
@@ -2056,23 +2550,6 @@
       "occurredAt": "",
       "publishedAt": "2026-09-16",
       "url": "https://kaopu.news/story/2026-09-16/californians-flock-to-costco-for-dating-9351ec",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "new-york-launches-17-modular-toilets-7e0bf3",
-      "title": "纽约市启动17座模组化公厕试点安装",
-      "description": "纽约市市长曼达尼于2026年9月16日宣布，在全市范围启动17座新型模组化公共厕所的安装试点，为期一年。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T18:23:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/new-york-launches-17-modular-toilets-7e0bf3",
       "reference": [
         "世界日报"
       ],
@@ -2639,24 +3116,6 @@
       "sources": []
     },
     {
-      "id": "massie-impeaches-defense-secretary-hegseth-32f888",
-      "title": "美共和党议员马西正式提案弹劾防长赫格塞斯",
-      "description": "美国共和党籍众议员托马斯·马西于9月15日依据特权议案程序，正式向众议院提交针对国防部长皮特·赫格塞斯的弹劾提案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T13:08:39+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/massie-impeaches-defense-secretary-hegseth-32f888",
-      "reference": [
-        "澎湃新闻",
-        "公视"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "south-korea-investment-scam-losses-250-million-7aec89",
       "title": "韩国上半年投资诈骗致散户损失2.5亿美元",
       "description": "韩国警方9月16日公布的数据显示，2026年上半年投资诈骗案件导致散户损失约2.5亿美元，较去年同期增加近20%。",
@@ -3060,25 +3519,6 @@
       "sources": []
     },
     {
-      "id": "us-considers-japan-south-korea-frigate-purchase-01ebf2",
-      "title": "美国海军考虑从日韩盟国采购军舰",
-      "description": "多名美国海军消息人士于2026年9月16日透露，美国海军正考虑从日本、韩国等盟国采购护卫舰，以应对中国海军持续扩张带来的压力。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T12:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/us-considers-japan-south-korea-frigate-purchase-01ebf2",
-      "reference": [
-        "日经",
-        "世界日报",
-        "联合早报"
-      ],
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "intel-ceo-predicts-worsening-memory-shortage-85f694",
       "title": "英特尔CEO预测内存短缺明年进一步恶化",
       "description": "当地时间9月15日，英特尔CEO陈立武在美国加州圣克拉拉举行的AI Infrastructure Summit上表示，受AI普及推动，内存供应紧张和价格上涨的情况明年可能进一步恶化。",
@@ -3318,44 +3758,6 @@
         "第一财经"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "treasury-raises-buyback-cap-yields-7f0f75",
-      "title": "10年期美债收益率突破5%创19年新高",
-      "description": "9月15日，美国10年期国债收益率盘中升至5.045%，创下2007年以来最高水平，30年期收益率同步触及5.399%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T11:19:36.550688+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-06",
-      "url": "https://kaopu.news/story/2026-09-06/treasury-raises-buyback-cap-yields-7f0f75",
-      "reference": [
-        "第一财经",
-        "中央通訊社",
-        "澎湃新闻",
-        "日经"
-      ],
-      "sourceCount": 33,
-      "sources": []
-    },
-    {
-      "id": "yellen-says-joint-yen-intervention-small-8ca25a",
-      "title": "美财长称联合干预日元仅用象征性金额",
-      "description": "美国财政部长贝森特9月16日在国会听证会上表示，美国7月31日联手日本干预汇市、买入日元仅动用“象征性”金额，远低于10亿美元，且已为财政部赚取数千万美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T11:10:50+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/yellen-says-joint-yen-intervention-small-8ca25a",
-      "reference": [
-        "共同网",
-        "世界日报"
-      ],
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -4188,26 +4590,6 @@
       "sources": []
     },
     {
-      "id": "huang-ai-safety-innovation-trump-xi-dinner-f202a3",
-      "title": "黄仁勋在Dreamforce大会反对AI政府监管",
-      "description": "2026年9月15日，在旧金山举行的Salesforce年度Dreamforce大会上，英伟达首席执行官黄仁勋就人工智能监管与安全问题，与Anthropic首席执行官达里奥·阿莫代伊及OpenAI首席执行官山姆·阿尔特曼展开立场交锋。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T07:07:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/huang-ai-safety-innovation-trump-xi-dinner-f202a3",
-      "reference": [
-        "中央通訊社",
-        "世界日报",
-        "澎湃新闻",
-        "公视"
-      ],
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
       "id": "shaanxi-man-identity-theft-tax-fraud-9c247d",
       "title": "陕西男子疑遭盗用身份注册公司虚开增值税发票近千万",
       "description": "陕西一名化名石富的男子，因妻子所在单位核查个人事项报告，意外发现自己被登记为西安泰尔奇化工有限公司的实际控制人和唯一股东。",
@@ -4273,26 +4655,6 @@
         "世界日报"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "kennedy-center-board-votes-on-closure-94dc74",
-      "title": "肯尼迪中心因财务与安全危机投票决定立即关闭",
-      "description": "2026年9月15日，美国肯尼迪表演艺术中心董事会投票决定立即关闭主楼进行翻修。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-14",
-      "url": "https://kaopu.news/story/2026-09-14/kennedy-center-board-votes-on-closure-94dc74",
-      "reference": [
-        "法广",
-        "世界日报",
-        "公视",
-        "澎湃新闻"
-      ],
-      "sourceCount": 7,
       "sources": []
     },
     {
@@ -4364,80 +4726,6 @@
       "sources": []
     },
     {
-      "id": "nyc-councilors-propose-youtube-ban-schools-d4e739",
-      "title": "纽约市议会要求教育局减少学生屏幕时间",
-      "description": "2026年9月15日，纽约市议会举行监督听证会，要求市教育局减少公立学校学生的屏幕使用时间，并规范数字设备在课堂上的应用。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-15",
-      "url": "https://kaopu.news/story/2026-09-15/nyc-councilors-propose-youtube-ban-schools-d4e739",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "supreme-court-rejects-trump-mail-vote-limits-134acd",
-      "title": "最高法院驳回川普限制邮寄选票紧急申请",
-      "description": "美国最高法院于2026年9月14日驳回司法部一项紧急申请，拒绝允许美国邮政总局在11月期中选举前执行邮寄选票新规，维持下级法院此前颁布的禁令。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-15",
-      "url": "https://kaopu.news/story/2026-09-15/supreme-court-rejects-trump-mail-vote-limits-134acd",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "法广",
-        "公视"
-      ],
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "snap-benefits-increase-29-percent-october-544fb2",
-      "title": "美国粮食券福利上调2.9% 领取人数下降13%",
-      "description": "美国农业部宣布，自10月1日起，SNAP（粮食券）福利因年度生活成本调整上调2.9%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/snap-benefits-increase-29-percent-october-544fb2",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "widow-bay-leads-emmy-awards-29a081",
-      "title": "《寡妇湾》横扫第78届艾美奖14项大奖破纪录",
-      "description": "当地时间9月14日晚，第78届美国电视黄金时段艾美奖颁奖典礼在洛杉矶孔雀剧院举行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-15",
-      "url": "https://kaopu.news/story/2026-09-15/widow-bay-leads-emmy-awards-29a081",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "英国广播公司",
-        "共同网"
-      ],
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "engineers-charged-robinhood-trade-secrets-9aa028",
       "title": "两名华人工程师涉窃罗宾汉商业机密被起诉",
       "description": "纽约南区联邦检察官办公室于2026年9月15日解封一份起诉书，指控两名曾在罗宾汉（Robinhood）公司任职的华人工程师窃取商业机密，并利用内幕信息进行期货交易。",
@@ -4452,99 +4740,6 @@
         "世界日报"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "republicans-hold-midterm-rally-dallas-c6a546",
-      "title": "特朗普承诺共和党胜选后向每位成年人发放5000美元",
-      "description": "2026年9月9日，美国总统特朗普在得克萨斯州达拉斯举行的共和党中期选举全国代表大会上承诺，如果共和党在11月中期选举中保住国会参众两院控制权，将向每位美国成年人发放5000美元，称为“特朗普红利”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/republicans-hold-midterm-rally-dallas-c6a546",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "法广",
-        "日经"
-      ],
-      "sourceCount": 35,
-      "sources": []
-    },
-    {
-      "id": "chinese-men-plead-guilty-to-grease-theft-adc2fa",
-      "title": "两华男认罪跨十州偷餐馆废油案",
-      "description": "联邦司法部近日公布，一个犯罪集团被控驾驶卡车横跨全美十州，从餐馆后方储油槽偷取使用过的食用油，转售用于提炼生质柴油，所得款项涉嫌洗钱。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-15",
-      "url": "https://kaopu.news/story/2026-09-15/chinese-men-plead-guilty-to-grease-theft-adc2fa",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "us-crypto-bill-fails-senate-vote-ad0f15",
-      "title": "美参议院否决加密货币监管法案",
-      "description": "2026年9月15日，美国参议院程序性投票否决《数字资产市场清晰法案》，表决结果为49票赞成对50票反对，未达到60票的推进门槛，四名共和党参议员加入民主党阵营投下反对票。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/us-crypto-bill-fails-senate-vote-ad0f15",
-      "reference": [
-        "澎湃新闻",
-        "世界日报"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "us-adjusts-canada-tariff-list-ce53bb",
-      "title": "美国调整对加拿大新关税起司摩托艇在列",
-      "description": "美国针对加拿大商品的新关税调整于2026年9月15日生效，新增受50%关税影响的商品包括起司、摩托艇、纸类、铝和钢制品、床垫及特定家具，而卫生纸、面纸、钓鱼用具、超过4公升容器的威士忌、融雪盐和水泥则获得豁免。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-15",
-      "url": "https://kaopu.news/story/2026-09-15/us-adjusts-canada-tariff-list-ce53bb",
-      "reference": [
-        "法广",
-        "世界日报"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "gates-foundation-invests-1-billion-ai-equity-72e127",
-      "title": "盖茨基金会宣布投入10亿美元推动AI公平普及",
-      "description": "盖茨基金会于2026年9月15日发布第九年度《目标守卫者报告》，宣布未来两年投入至少10亿美元，支持人工智能在医疗、教育和农业领域的公平应用。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:21:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-15",
-      "url": "https://kaopu.news/story/2026-09-15/gates-foundation-invests-1-billion-ai-equity-72e127",
-      "reference": [
-        "财新",
-        "第一财经",
-        "世界日报",
-        "联合早报"
-      ],
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -4596,23 +4791,6 @@
         "世界日报"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "hoa-fee-foreclosure-arizona-home-38a92f",
-      "title": "亚利桑那夫妻欠977元HOA费致47.5万美元房屋被法拍",
-      "description": "亚利桑那州梅萨一对夫妻因欠缴977美元屋主协会（HOA）费用，导致其价值47.5万美元的住宅于2026年9月16日被法拍，并以8172美元售出。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-15",
-      "url": "https://kaopu.news/story/2026-09-15/hoa-fee-foreclosure-arizona-home-38a92f",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -4679,246 +4857,6 @@
       "url": "https://kaopu.news/story/2026-09-16/yangcheng-teahouse-closes-flagship-store-9df489",
       "reference": [
         "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-rejects-shanghai-official-entry-a90033",
-      "title": "陆委会限制上海踩线团层级引发争议",
-      "description": "2026年9月16日，上海踩线团赴台筹备台北上海双城论坛，因台湾大陆委员会仅准许处长级官员入台而引发争议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:14:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/taiwan-rejects-shanghai-official-entry-a90033",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "haitian-immigrant-bel-dies-after-ankle-monitor-humiliation-237ae5",
-      "title": "海地移民贝尔因电子脚镣羞辱自杀身亡",
-      "description": "20岁海地移民贝尔（Pierre Damas Bel）因失去临时保护身份并被移民和海关执法局要求佩戴电子脚镣，感到羞辱后情绪低落，于2026年8月31日上午在俄亥俄州70号州际公路走入车流，被一辆联结车撞死。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/haitian-immigrant-bel-dies-after-ankle-monitor-humiliation-237ae5",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "mexican-man-gets-1-8m-fine-after-returning-92013e",
-      "title": "非法居留15年墨西哥男子返墨后收国土安全部182万美元罚单",
-      "description": "一名43岁墨西哥裔男子内格雷特在收到最终递解令后非法居留美国超过15年，2025年离美返回墨西哥瓜达拉哈拉。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/mexican-man-gets-1-8m-fine-after-returning-92013e",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "new-jersey-districts-settle-sex-abuse-case-f9af91",
-      "title": "新泽西三学区就主管性侵案支付149万和解金",
-      "description": "新泽西州三个学区与六名前学生达成和解，这些学生指控同一名校方高层主管希利（Michael Healy）在数十年间对他们实施性侵。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/new-jersey-districts-settle-sex-abuse-case-f9af91",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "seattle-offers-2-5-million-childcare-stipend-9651f6",
-      "title": "西雅图推出250万美元托育人员留任补助",
-      "description": "西雅图市府于9月16日宣布，将提供总额250万美元的托育人员留任补助，经费来自“家庭、教育、学前教育与承诺”（FEPP）税收计划。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/seattle-offers-2-5-million-childcare-stipend-9651f6",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "seattle-mayor-signs-do-not-solicit-list-c2f05c",
-      "title": "西雅图市长签署条例设立拒绝推销名单",
-      "description": "2026年9月16日，西雅图市长凯蒂·B·威尔逊签署第127491号条例，建立全市首个“拒绝推销名单”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:09:50+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/seattle-mayor-signs-do-not-solicit-list-c2f05c",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "south-korea-allocates-25-china-route-rights-6c28d4",
-      "title": "韩国分配25条中国航线运营权给10家航司",
-      "description": "韩国国土交通部于2026年9月16日宣布，经航空交通审议委员会审议，将25条以中国航线为主的国际航线运营权分配给10家本土航空公司，重点支持低成本航司和地方机场。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:05:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/south-korea-allocates-25-china-route-rights-6c28d4",
-      "reference": [
-        "联合早报",
-        "韩国国际广播电台"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "california-mother-raises-funds-for-detained-families-f69c82",
-      "title": "加州母亲每周募款援助德州拘留中心被拘家庭",
-      "description": "2026年9月16日，来自加利福尼亚州的母亲凯西·雷夫金（Casey Revkin）通过其2018年创立的非营利组织“一步步回家”（Each Step Home），每周向被关押在得克萨斯州迪利（Dilley）拘留中心的家庭捐款上万美元，用于购买食物和必需品。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/california-mother-raises-funds-for-detained-families-f69c82",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "knight-couple-donate-1-1-billion-for-womens-hospital-a80d1b",
-      "title": "耐吉联合创办人奈特夫妇捐赠11亿美元创建妇科医院",
-      "description": "耐吉联合创办人菲尔·奈特与妻子佩妮·奈特于2026年9月15日宣布，向俄勒冈州普罗维登斯圣文森医学中心及其旗下心脏研究中心捐赠11亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/knight-couple-donate-1-1-billion-for-womens-hospital-a80d1b",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "12-child-care-providers-arrested-fraud-c35ea1",
-      "title": "南加州12名托儿业者诈领补助逾千万美元被捕",
-      "description": "美国司法部与国税局刑事调查局15日在圣地牙哥联合公布，南加州12名家庭托儿业者因涉嫌伪造儿童出席纪录、诈领政府托儿补助逾1000万美元，已于10日被捕，起诉书同日解封。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/12-child-care-providers-arrested-fraud-c35ea1",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "monterey-park-alpr-records-disputed-123e7f",
-      "title": "蒙市AI车牌摄影机查询纪录遭质疑违规",
-      "description": "蒙特利公园市居民监督组织DeFlock Monterey Park于2026年9月16日公布分析报告，质疑市府34台Flock自动车牌辨识摄影机15个月（2025年5月至2026年7月）的使用纪录存在稽核失效与违规查询。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/monterey-park-alpr-records-disputed-123e7f",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "new-york-city-new-rules-affect-consumers-3dec5b",
-      "title": "纽约市多项新规将影响民众开支",
-      "description": "纽约市多项与民众荷包相关的新规即将上路，涉及自助仓储、租金稳定公寓冻涨及自动续订服务取消规则。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/new-york-city-new-rules-affect-consumers-3dec5b",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "san-francisco-rent-surges-31-percent-2e187e",
-      "title": "旧金山租金8月同比飙升31%",
-      "description": "2026年8月，旧金山租金中位数同比上涨31%，达到4700美元，而周边地区租金出现下降。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/san-francisco-rent-surges-31-percent-2e187e",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "volunteer-handles-lone-elders-funeral-052ea2",
-      "title": "72岁义工受托为独居阿叔料理后事",
-      "description": "2026年9月16日，72岁义工俞耀胜受托为76岁独居阿叔郑先生料理身后事。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/volunteer-handles-lone-elders-funeral-052ea2",
-      "reference": [
-        "联合早报"
       ],
       "sourceCount": 1,
       "sources": []
