@@ -1,11 +1,389 @@
 {
   "details": {
     "date": "2026-09-17",
-    "timestamp": 1789612435,
+    "timestamp": 1789619403,
     "totalPages": 1,
     "total": 287
   },
   "stories": [
+    {
+      "id": "openai-discloses-six-model-misalignment-cases-f2493d",
+      "title": "OpenAI发布模型错位追踪框架并披露六起异常事件",
+      "description": "当地时间2026年9月16日，OpenAI发布一套用于跟踪、调查和公开模型目标偏离事件的新框架，并同步披露过去半年观察到的六起此前未公开的模型异常行为案例。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T03:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/openai-discloses-six-model-misalignment-cases-f2493d",
+      "reference": [
+        "第一财经",
+        "澎湃新闻"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "huawei-advances-shengten-960-chip-launch-af9d91",
+      "title": "华为宣布升腾960芯片提前至2027年发布",
+      "description": "2026年9月17日，华为轮值董事长汪涛在华为全联接大会上宣布，升腾960系列芯片研发进度超出预期，发布时间大幅提前。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T03:18:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/huawei-advances-shengten-960-chip-launch-af9d91",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "ai-tv-programs-must-add-label-251c43",
+      "title": "广电总局要求AI视听节目必须添加标识",
+      "description": "国家广播电视总局在2026年9月17日国新办新闻发布会上宣布，使用人工智能技术生成、制作、播出的广电视听节目必须添加内容标识，关键环节及成片内容须坚持人工审核把关。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T03:07:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/ai-tv-programs-must-add-label-251c43",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "kagoshima-offers-free-shinkansen-rides-2d8af1",
+      "title": "鹿儿岛县向国际游客提供新干线免费乘车服务",
+      "description": "日本鹿儿岛县于2026年9月18日启动一项试点计划，向国际游客提供九州新干线免费乘车服务，旨在吸引游客前往该县相对冷门的景点。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T02:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/kagoshima-offers-free-shinkansen-rides-2d8af1",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-centenarians-exceed-100000-46e036",
+      "title": "日本百岁老人数量首次突破10万人",
+      "description": "截至2026年9月1日，日本全国百岁以上老年人达到107,677人，首次突破10万大关。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T02:54:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-15",
+      "url": "https://kaopu.news/story/2026-09-15/japan-centenarians-exceed-100000-46e036",
+      "reference": [
+        "联合早报",
+        "法广",
+        "共同网",
+        "日本放送协会"
+      ],
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "tung-chee-hwa-dies-at-89-aa76f6",
+      "title": "香港首任特首董建华逝世享年89岁",
+      "description": "香港特别行政区首任行政长官董建华于2026年9月8日21时57分在香港养和医院安详辞世，享年89岁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T02:54:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-08",
+      "url": "https://kaopu.news/story/2026-09-08/tung-chee-hwa-dies-at-89-aa76f6",
+      "reference": [
+        "联合早报",
+        "英国广播公司",
+        "端传媒",
+        "法广"
+      ],
+      "sourceCount": 21,
+      "sources": []
+    },
+    {
+      "id": "audit-reveals-local-fiscal-resource-issues-ae0549",
+      "title": "审计揭地方财政资源统筹存在多项问题",
+      "description": "2026年9月17日，多省审计报告披露地方财政资源统筹存在资金未盘活、非税收入应收未收及国企未纳入预算编制等问题。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T02:48:13.404016+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/audit-reveals-local-fiscal-resource-issues-ae0549",
+      "reference": [
+        "第一财经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "huang-trump-call-reject-ai-doom-34f06b",
+      "title": "特朗普驳斥AI安全威胁为骗局并致电黄仁勋",
+      "description": "美国总统特朗普于9月14日公开驳斥人工智能可能毁灭人类的担忧，称其为“骗局”，并反对对AI行业施加新的监管限制。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T02:45:30+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-14",
+      "url": "https://kaopu.news/story/2026-09-14/huang-trump-call-reject-ai-doom-34f06b",
+      "reference": [
+        "法广",
+        "中央通訊社",
+        "世界日报",
+        "澎湃新闻"
+      ],
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
+      "id": "lee-policy-address-first-five-year-plan-53ede2",
+      "title": "香港特区政府公布首个五年规划及2026年施政报告",
+      "description": "2026年9月16日，香港特区行政长官李家超在立法会公布《香港特别行政区经济和社会发展第一个五年规划（2026-2030年）》及《行政长官2026年施政报告》。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T02:42:32+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-13",
+      "url": "https://kaopu.news/story/2026-09-13/lee-policy-address-first-five-year-plan-53ede2",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "中央通訊社",
+        "财新"
+      ],
+      "sourceCount": 22,
+      "sources": []
+    },
+    {
+      "id": "china-micro-drama-users-exceed-800-million-5a4e54",
+      "title": "国新办称微短剧用户超8亿 AI剧占比超九成",
+      "description": "国新办9月17日在新闻发布会上介绍了2026年前8个月微短剧行业数据。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T02:41:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/china-micro-drama-users-exceed-800-million-5a4e54",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "market-regulator-issues-food-safety-guidelines-a8f153",
+      "title": "市场监管总局发布网络食品销售风险管控清单",
+      "description": "市场监管总局于2026年9月17日印发网络食品销售相关《食品安全风险管控清单》，聚焦直播电商平台经营者、网络食品交易第三方平台提供者、入网食品销售企业三类主体。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T02:38:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/market-regulator-issues-food-safety-guidelines-a8f153",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ge-jianxiong-analyzes-huizhou-merchant-rise-022351",
+      "title": "葛剑雄新书分析徽商兴起源于市场选择",
+      "description": "2026年9月17日，葛剑雄在新书《何以世界:透过地理看人类文明》中分析徽商兴起原因，指出其成功在于找到当时最有发展前途的商品和最好的市场，而非仅因徽州山多地少。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T02:36:36.271588+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/ge-jianxiong-analyzes-huizhou-merchant-rise-022351",
+      "reference": [
+        "第一财经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "cpi-data-looms-as-fed-rate-hike-odds-rise-7fe0ae",
+      "title": "美联储三年来首次加息25个基点应对通胀",
+      "description": "美国联邦储备委员会于2026年9月16日将联邦基金利率目标区间上调25个基点至3.75%-4.00%，这是自2023年7月以来首次加息。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T02:35:02+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-11",
+      "url": "https://kaopu.news/story/2026-09-11/cpi-data-looms-as-fed-rate-hike-odds-rise-7fe0ae",
+      "reference": [
+        "第一财经",
+        "中央通訊社",
+        "澎湃新闻",
+        "法广"
+      ],
+      "sourceCount": 49,
+      "sources": []
+    },
+    {
+      "id": "ministry-reveals-10-cyber-crime-cases-787c00",
+      "title": "公安部公布10起网络违法犯罪典型案例",
+      "description": "2026年9月17日，公安部公布10起典型案例，涉及网络谣言、网暴运动员、舆情敲诈、侵犯公民个人信息及黑客犯罪等突出网络违法犯罪活动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T02:33:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/ministry-reveals-10-cyber-crime-cases-787c00",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "australia-bans-student-dependents-34bda0",
+      "title": "澳大利亚宣布收紧移民政策削减净移民人数",
+      "description": "2026年9月17日，澳大利亚内政部长托尼·伯克在堪培拉国家新闻俱乐部公布移民政策改革，主要针对临时签证。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T02:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/australia-bans-student-dependents-34bda0",
+      "reference": [
+        "联合早报",
+        "SBS"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "kim-yo-jong-rejects-iaea-denuclearization-724990",
+      "title": "金与正称朝鲜拥核地位不可逆转",
+      "description": "朝鲜劳动党副部长金与正于9月17日通过朝中社发表声明，强调朝鲜的拥核地位在“事实上和法律上已永久确立”，绝不会改变。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T02:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/kim-yo-jong-rejects-iaea-denuclearization-724990",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "southern-medical-university-student-falls-death-a0edec",
+      "title": "南方医科大学一名本博连读学生坠楼身亡",
+      "description": "2026年9月15日凌晨1时55分，南方医科大学一名2020级临床医学八年制本博连读学生从学校高层公寓坠楼身亡，警方现场勘查后排除他杀。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T02:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-16",
+      "url": "https://kaopu.news/story/2026-09-16/southern-medical-university-student-falls-death-a0edec",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "财新"
+      ],
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "south-korea-backs-repeal-contact-restrictions-09e817",
+      "title": "韩国政府赞成废除南北民间接触限制条款",
+      "description": "韩国统一部于2026年9月17日向国会提交资料，表明已决定赞成废除《南北交流合作法》中限制居民接触北韩居民的条款。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T02:23:47+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/south-korea-backs-repeal-contact-restrictions-09e817",
+      "reference": [
+        "韩国国际广播电台"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "chinese-listed-firms-profit-surge-loss-record-e75b24",
+      "title": "中国上市企业上半年利润增两成亏损企业占比创纪录",
+      "description": "2026年9月17日发布的财务数据显示，2026年上半年约5400家中国上市企业（不含金融业）净利润总额同比增长22%，达到1.9万亿元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T02:12:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/chinese-listed-firms-profit-surge-loss-record-e75b24",
+      "reference": [
+        "日经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "rakuten-opens-hangzhou-firm-for-chinese-sellers-4fdf55",
+      "title": "日本乐天在杭州成立公司招募中国卖家",
+      "description": "日本乐天集团于9月16日宣布，已在浙江省杭州市成立新公司，旨在吸引更多中国电商卖家入驻其日本电商平台。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T02:12:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/rakuten-opens-hangzhou-firm-for-chinese-sellers-4fdf55",
+      "reference": [
+        "日经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-officials-worry-china-f35-saudi-a8eb5a",
+      "title": "美情报官员担忧中国借沙特获取F-35技术",
+      "description": "美国情报官员对美国向沙特出售F-35战斗机的风险表示担忧，称中国可能通过在沙特的间谍活动或两国间的军事安全伙伴关系获取该战机技术。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-17T02:10:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/us-officials-worry-china-f35-saudi-a8eb5a",
+      "reference": [
+        "纽约时报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "japan-tourist-arrivals-drop-in-august-a56bcd",
       "title": "8月访日中国大陆游客同比减少近六成",
@@ -46,38 +424,18 @@
       "sources": []
     },
     {
-      "id": "cpi-data-looms-as-fed-rate-hike-odds-rise-7fe0ae",
-      "title": "美联储全票通过三年来首次加息并暗示年内再升",
-      "description": "美国联邦储备委员会于2026年9月16日宣布加息25个基点，将联邦基金利率目标区间上调至3.75%-4.00%。",
+      "id": "taiwan-teachers-win-appeals-no-compensation-b621e9",
+      "title": "台湾教师遭投诉处分后胜诉却难获赔偿",
+      "description": "2026年9月17日，台湾多位教师因遭家长投诉或校方处分后提起行政救济并胜诉，但未获得赔偿，引发对校事会议制度及教师权益保障的讨论。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-09-17T02:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-11",
-      "url": "https://kaopu.news/story/2026-09-11/cpi-data-looms-as-fed-rate-hike-odds-rise-7fe0ae",
-      "reference": [
-        "第一财经",
-        "中央通訊社",
-        "澎湃新闻",
-        "法广"
-      ],
-      "sourceCount": 48,
-      "sources": []
-    },
-    {
-      "id": "openai-discloses-six-model-misalignment-cases-f2493d",
-      "title": "OpenAI披露六起模型异常行为并发布追踪框架",
-      "description": "OpenAI于9月16日发布新的模型错位追踪与披露框架，并同步公开了过去六个月内观察到的六起此前未披露的模型异常行为事件。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T01:58:40.678355+00:00",
+      "updatedAt": "2026-09-17T02:07:42+00:00",
       "occurredAt": "",
       "publishedAt": "2026-09-17",
-      "url": "https://kaopu.news/story/2026-09-17/openai-discloses-six-model-misalignment-cases-f2493d",
+      "url": "https://kaopu.news/story/2026-09-17/taiwan-teachers-win-appeals-no-compensation-b621e9",
       "reference": [
-        "第一财经"
+        "公视"
       ],
       "sourceCount": 1,
       "sources": []
@@ -100,22 +458,22 @@
       "sources": []
     },
     {
-      "id": "southern-medical-university-student-falls-death-a0edec",
-      "title": "南方医科大学八年制本博连读学生坠楼身亡",
-      "description": "2026年9月15日凌晨1时55分左右，南方医科大学一名临床医学八年制本博连读学生在学校高层公寓坠楼身亡。",
+      "id": "north-korean-laborers-produce-drones-in-russia-8eac01",
+      "title": "多边制裁监测组报告揭露朝鲜向俄无人机工厂派遣劳工",
+      "description": "多边制裁监测组（MSMT）于2026年9月17日发布报告，揭露朝鲜通过向至少17个国家派遣海外劳工非法赚取外汇，部分劳工被证实进入俄罗斯阿拉布加经济特区的工厂生产军用无人机。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-09-17T01:53:04.086608+00:00",
+      "updatedAt": "2026-09-17T01:57:26+00:00",
       "occurredAt": "",
       "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/southern-medical-university-student-falls-death-a0edec",
+      "url": "https://kaopu.news/story/2026-09-16/north-korean-laborers-produce-drones-in-russia-8eac01",
       "reference": [
         "联合早报",
-        "澎湃新闻",
-        "财新"
+        "东亚日报",
+        "韩国国际广播电台"
       ],
-      "sourceCount": 5,
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -190,23 +548,6 @@
       "sources": []
     },
     {
-      "id": "australia-bans-student-dependents-34bda0",
-      "title": "澳洲拟禁止留学生携伴侣子女入境",
-      "description": "澳大利亚政府计划收紧移民政策，禁止留学生在求学期间携带伴侣及子女，并设定到2028年将净海外移民人数从约30万减至22.5万的目标。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T01:37:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-17",
-      "url": "https://kaopu.news/story/2026-09-17/australia-bans-student-dependents-34bda0",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "pm-wong-to-visit-qatar-in-october-062eb5",
       "title": "黄循财总理10月正式访问卡塔尔",
       "description": "黄循财总理将于10月对卡塔尔进行正式访问，这预计是他上任后首次出访中东地区。",
@@ -236,23 +577,6 @@
       "url": "https://kaopu.news/story/2026-09-17/us-lawmakers-propose-32-hour-workweek-df0f3a",
       "reference": [
         "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "kim-yo-jong-rejects-iaea-denuclearization-724990",
-      "title": "金与正驳斥国际原子能机构无核化要求",
-      "description": "朝鲜劳动党总务部长金与正于9月17日通过朝中社发表谈话，反驳国际原子能机构在第70届大会上提出的无核化要求，强调朝鲜的拥核国家地位已不可逆转。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T01:33:20+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-17",
-      "url": "https://kaopu.news/story/2026-09-17/kim-yo-jong-rejects-iaea-denuclearization-724990",
-      "reference": [
-        "韩国国际广播电台"
       ],
       "sourceCount": 1,
       "sources": []
@@ -797,24 +1121,6 @@
         "东亚日报"
       ],
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "north-korean-laborers-produce-drones-in-russia-8eac01",
-      "title": "朝鲜向至少17国派遣逾10万海外劳工",
-      "description": "多边对朝制裁监测组（MSMT）于2026年9月16日发布报告，揭露朝鲜违反联合国制裁，向至少17个国家和地区派遣海外劳工，总规模超过10万人。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T23:32:37+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/north-korean-laborers-produce-drones-in-russia-8eac01",
-      "reference": [
-        "联合早报",
-        "东亚日报"
-      ],
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1511,26 +1817,6 @@
         "联合早报"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "lee-policy-address-first-five-year-plan-53ede2",
-      "title": "香港特区政府发布首个五年规划及施政报告",
-      "description": "2026年9月16日，香港特区行政长官李家超在立法会公布《香港特别行政区经济和社会发展第一个五年规划（2026—2030年）》，并同步发表《行政长官2026年施政报告》。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T14:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-13",
-      "url": "https://kaopu.news/story/2026-09-13/lee-policy-address-first-five-year-plan-53ede2",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "中央通訊社",
-        "财新"
-      ],
-      "sourceCount": 21,
       "sources": []
     },
     {
@@ -4646,26 +4932,6 @@
       "sources": []
     },
     {
-      "id": "huang-trump-call-reject-ai-doom-34f06b",
-      "title": "特朗普与黄仁勋共同驳斥AI末日论并反对加强监管",
-      "description": "美国总统特朗普与英伟达首席执行官黄仁勋于9月14日共同驳斥了人工智能可能毁灭人类的担忧，明确反对对AI行业施加新的监管限制。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T03:35:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-14",
-      "url": "https://kaopu.news/story/2026-09-14/huang-trump-call-reject-ai-doom-34f06b",
-      "reference": [
-        "法广",
-        "中央通訊社",
-        "世界日报",
-        "澎湃新闻"
-      ],
-      "sourceCount": 14,
-      "sources": []
-    },
-    {
       "id": "wto-report-warns-trade-fragmentation-c13fff",
       "title": "世贸组织发布报告警告贸易碎片化风险",
       "description": "世界贸易组织于2026年9月15日发布《2026年世界贸易报告》，对全球贸易体系面临的碎片化风险发出警告，并呼吁各成员推进多边贸易规则改革。",
@@ -4798,276 +5064,6 @@
       "occurredAt": "",
       "publishedAt": "2026-09-16",
       "url": "https://kaopu.news/story/2026-09-16/taiwan-employee-non-regular-pay-hits-record-09e699",
-      "reference": [
-        "中央通訊社"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-centenarians-exceed-100000-46e036",
-      "title": "日本百岁以上老年人首次突破10万人",
-      "description": "日本厚生劳动省9月15日公布的最新统计显示，截至2026年9月1日，日本百岁以上老年人口达到10万7677人，首次突破10万大关。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T03:12:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-15",
-      "url": "https://kaopu.news/story/2026-09-15/japan-centenarians-exceed-100000-46e036",
-      "reference": [
-        "联合早报",
-        "法广",
-        "共同网",
-        "日本放送协会"
-      ],
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "un-report-war-risk-ranking-surges-495292",
-      "title": "联合国报告称大规模战争风险排名飙升",
-      "description": "联合国于2026年9月15日发布《2026年全球风险报告》，指出大规模战争在全球风险排名中升幅最大，在28项风险中跃升16位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T03:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/un-report-war-risk-ranking-surges-495292",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-taiwan-drone-ai-strait-plan-f2b1b3",
-      "title": "美台军方推进无人机AI自主攻击台海构想",
-      "description": "据《经济学人》15日报道，美台军方正低调推进一项名为“地狱景象”的台海作战构想，计划在中国武力攻台时，以大量低成本空中、水面及水下无人机涌入台湾海峡，结合人工智能自主识别并攻击中国人民解放军舰艇。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T03:00:21+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/us-taiwan-drone-ai-strait-plan-f2b1b3",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "gac-group-suspended-over-unannounced-matter-d1bbcc",
-      "title": "一汽股份通过入股广汽集团成为第二大股东",
-      "description": "中国第一汽车股份有限公司通过购买广州汽车集团股份有限公司股份，成为其第二大股东，双方于2026年9月14日签署战略合作协议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T02:52:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-14",
-      "url": "https://kaopu.news/story/2026-09-14/gac-group-suspended-over-unannounced-matter-d1bbcc",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "财新",
-        "日经"
-      ],
-      "sourceCount": 9,
-      "sources": []
-    },
-    {
-      "id": "house-votes-on-ai-data-center-electricity-costs-8fc18f",
-      "title": "美国众议院将表决法案要求AI数据中心自付电费成本",
-      "description": "美国众议院最快于2026年9月16日晚间表决一项跨党派法案，要求大型人工智能数据中心自行承担新增电力基础设施成本，以避免转嫁给普通家庭。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T02:50:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/house-votes-on-ai-data-center-electricity-costs-8fc18f",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-officials-hold-ai-talks-with-anthropic-4e99e3",
-      "title": "特朗普政府与Anthropic高管视频讨论AI安全",
-      "description": "美国特朗普政府高级官员于9月15日与人工智能初创公司Anthropic高管举行视频会谈，讨论AI安全风险。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T02:49:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/trump-officials-hold-ai-talks-with-anthropic-4e99e3",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-cuts-food-beverage-tax-to-one-percent-0eec1e",
-      "title": "日本政府敲定消费税减税大纲 食品税率将降至1%",
-      "description": "日本政府于2026年9月15日召开临时内阁会议，正式敲定税制改革大纲，决定自2027年4月起将食品饮料的消费税率从现行的8%下调至1%，为期两年。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T02:32:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-15",
-      "url": "https://kaopu.news/story/2026-09-15/japan-cuts-food-beverage-tax-to-one-percent-0eec1e",
-      "reference": [
-        "共同网",
-        "中央通訊社",
-        "日本放送协会",
-        "日经"
-      ],
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "apple-huawei-xiaomi-launch-foldable-phones-bfba49",
-      "title": "苹果发布首款折叠屏手机iPhone Duo全系涨价",
-      "description": "美国苹果公司于2026年9月9日在加利福尼亚州库比蒂诺总部举行秋季新品发布会，推出首款折叠屏手机iPhone Duo及iPhone 18 Pro系列，全系产品售价上调。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T02:31:58+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-08",
-      "url": "https://kaopu.news/story/2026-09-08/apple-huawei-xiaomi-launch-foldable-phones-bfba49",
-      "reference": [
-        "第一财经",
-        "联合早报",
-        "中央通訊社",
-        "澎湃新闻"
-      ],
-      "sourceCount": 42,
-      "sources": []
-    },
-    {
-      "id": "sf-express-plans-10-billion-bond-issue-9bb3bf",
-      "title": "顺丰控股拟发债筹资100亿元人民币",
-      "description": "中国快递企业顺丰控股于2026年9月16日宣布，拟通过发行两批债券筹集100亿元人民币（约19亿新元）。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T02:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/sf-express-plans-10-billion-bond-issue-9bb3bf",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "un-calls-for-gaza-mass-grave-investigation-3c372c",
-      "title": "联合国呼吁调查加沙废墟大量遗骸",
-      "description": "联合国人权事务高级专员沃尔克·图尔克9月16日呼吁允许国际调查人员进入加沙全境，以调查从废墟中挖出的大量遇难者遗骸，其中可能包含战争罪行的证据。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T02:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/un-calls-for-gaza-mass-grave-investigation-3c372c",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "alke-taiwan-plant-targets-2027-production-caeaa6",
-      "title": "立凯电台南新厂目标2027年7月量产",
-      "description": "电池正极材料厂商立凯电于2026年9月16日宣布，已选定在台南租赁厂房建设磷酸铁锂（LFP）前驱体新产线，目标2027年1月试产、同年7月量产出货。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T02:24:38+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/alke-taiwan-plant-targets-2027-production-caeaa6",
-      "reference": [
-        "中央通訊社"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "guangxi-pickle-vat-poisoning-kills-four-912393",
-      "title": "广西河池酸菜腌制点中毒致4人死亡",
-      "description": "2026年7月16日15时许，广西河池市金城江区东江镇一酸菜腌制点发生中毒事故，造成4人死亡，直接经济损失约64万元（截至9月1日）。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T02:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/guangxi-pickle-vat-poisoning-kills-four-912393",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "supreme-court-releases-four-cyber-law-cases-773a92",
-      "title": "最高法发布四起网络法治典型案例",
-      "description": "最高人民法院于9月16日发布4件网络法治典型案例，涉及人格权侵害禁令、带货主播侵权、AI搜索侵权责任及跨境赌博技术支持犯罪等法律问题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T02:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/supreme-court-releases-four-cyber-law-cases-773a92",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-to-allow-north-korean-athletes-for-asian-games-d6763b",
-      "title": "朝鲜180人代表团抵达日本参加名古屋亚运会",
-      "description": "朝鲜体育代表团于2026年9月11日抵达日本关西国际机场，参加将于19日开幕的爱知·名古屋亚运会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T01:49:43+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-07",
-      "url": "https://kaopu.news/story/2026-09-07/japan-to-allow-north-korean-athletes-for-asian-games-d6763b",
-      "reference": [
-        "共同网",
-        "韩国国际广播电台",
-        "中央通訊社",
-        "日本放送协会"
-      ],
-      "sourceCount": 12,
-      "sources": []
-    },
-    {
-      "id": "openai-talks-new-funding-valuation-1-2-trillion-f6bd46",
-      "title": "OpenAI洽谈新一轮融资估值达1.2万亿美元",
-      "description": "据《金融时报》16日引述知情人士报道，OpenAI正与多家大型投资人磋商新一轮融资，此轮融资将使该公司在上市前估值达到约1.2万亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-16T00:49:50+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/openai-talks-new-funding-valuation-1-2-trillion-f6bd46",
       "reference": [
         "中央通訊社"
       ],
