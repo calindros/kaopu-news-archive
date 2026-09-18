@@ -1,11 +1,331 @@
 {
   "details": {
     "date": "2026-09-18",
-    "timestamp": 1789698326,
+    "timestamp": 1789705849,
     "totalPages": 1,
-    "total": 261
+    "total": 263
   },
   "stories": [
+    {
+      "id": "japan-bank-set-to-raise-rate-7f103c",
+      "title": "日本央行加息至1.25%创1995年来新高",
+      "description": "日本央行在9月18日的货币政策会议上决定将基准利率上调0.25个百分点至1.25%，为1995年以来最高水平。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-18T03:18:43+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/japan-bank-set-to-raise-rate-7f103c",
+      "reference": [
+        "共同网",
+        "日经"
+      ],
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "lee-holds-press-conference-on-term-amendment-fc3a86",
+      "title": "李在明电视记者会重申无意寻求连任",
+      "description": "韩国总统李在明9月18日在电视直播记者会上明确表示，自己完全没有寻求第二个总统任期的打算，以此回应外界有关他可能推动修宪连任的猜测。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-18T03:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-16",
+      "url": "https://kaopu.news/story/2026-09-16/lee-holds-press-conference-on-term-amendment-fc3a86",
+      "reference": [
+        "东亚日报",
+        "韩国国际广播电台",
+        "联合早报"
+      ],
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "japan-us-semiconductor-plant-talks-9edc03",
+      "title": "日美就建设半导体工厂展开磋商",
+      "description": "日美两国政府正在就建设半导体工厂展开磋商，作为第三轮日本对美投资框架的一部分。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-18T03:02:35+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/japan-us-semiconductor-plant-talks-9edc03",
+      "reference": [
+        "日经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "singapore-to-launch-workplace-discrimination-counseling-8d74cc",
+      "title": "新加坡明年首季推出职场歧视辅导服务",
+      "description": "新加坡妇女组织理事会宣布，将于2027年首季度推出“职场辅导与支援服务”，为职场歧视或骚扰受害者提供情绪、心理和实际支持。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-18T03:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/singapore-to-launch-workplace-discrimination-counseling-8d74cc",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "australia-bans-student-dependents-34bda0",
+      "title": "澳大利亚宣布移民改革限制留学生携带家属",
+      "description": "澳大利亚联邦政府于2026年9月17日公布新一轮移民改革方案，核心措施包括限制国际学生携带家属来澳、打击境内“跳签”行为，以及将背包客度假打工签证的续签改为抽签制度。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-18T02:52:48+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/australia-bans-student-dependents-34bda0",
+      "reference": [
+        "联合早报",
+        "SBS",
+        "法广"
+      ],
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "provinces-launch-second-round-receipt-lottery-c20164",
+      "title": "多省9月启动第二轮有奖发票活动",
+      "description": "湖北、河南、重庆三个省份自2026年9月起启动第二轮有奖发票活动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-18T02:41:36.487593+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/provinces-launch-second-round-receipt-lottery-c20164",
+      "reference": [
+        "第一财经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "merz-says-unconditional-transatlantic-friendship-era-may-end-3bbff5",
+      "title": "默茨称欧美无条件友谊时代可能终结",
+      "description": "德国总理默茨9月17日在柏林对党内成员表示，自二战以来建立的欧洲与美国之间的“无条件跨大西洋友谊”时代可能已经结束。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-18T02:41:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/merz-says-unconditional-transatlantic-friendship-era-may-end-3bbff5",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "un-report-accuses-us-war-crimes-iran-3cf6d5",
+      "title": "联合国调查团认定美军空袭伊朗两处民用设施构成战争罪",
+      "description": "联合国伊朗问题独立国际事实调查团于2026年9月17日发布报告，认定美国在2026年2月28日对伊朗发动的两起军事打击构成战争罪。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-18T02:41:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/un-report-accuses-us-war-crimes-iran-3cf6d5",
+      "reference": [
+        "法广",
+        "公视",
+        "澎湃新闻"
+      ],
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "fa-chairman-demands-independent-fifa-inquiry-c694af",
+      "title": "英足总主席要求国际足联理事会展开独立调查",
+      "description": "英格兰足总主席黛比·休伊特于2026年9月18日要求国际足联理事会对“国际足联前进公司（FFE）”争议及美国队前锋巴洛贡禁赛暂缓执行决定展开独立调查。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-18T02:39:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/fa-chairman-demands-independent-fifa-inquiry-c694af",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "housing-market-enters-stock-era-3c2720",
+      "title": "住建部称房地产市场进入存量时代",
+      "description": "住房城乡建设部9月18日在国新办新闻发布会上表示，当前中国房地产市场出现“两个转变”：供求关系发生重大变化，以及进入存量时代。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-18T02:39:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/housing-market-enters-stock-era-3c2720",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-women-beat-thailand-1-0-1d1a59",
+      "title": "台湾女足女排亚运预赛双双告捷",
+      "description": "2026年9月18日，台湾女足与女排在名古屋亚运预赛中分别获胜。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-18T02:30:12+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/taiwan-women-beat-thailand-1-0-1d1a59",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "typhoon-dujuan-may-affect-japan-holiday-7f8359",
+      "title": "大型台风杜鹃逼近日本连休期间影响关东",
+      "description": "第25号大型台风“杜鹃”于9月18日逼近日本，预计将在连休期间影响小笠原诸岛、伊豆诸岛及关东地区。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-18T02:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/typhoon-dujuan-may-affect-japan-holiday-7f8359",
+      "reference": [
+        "共同网"
+      ],
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "tung-chee-hwa-dies-at-89-aa76f6",
+      "title": "香港首任特首董建华逝世享年89岁",
+      "description": "香港特别行政区首任行政长官、全国政协前副主席董建华于2026年9月8日晚间在养和医院逝世，享年89岁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-18T02:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-08",
+      "url": "https://kaopu.news/story/2026-09-08/tung-chee-hwa-dies-at-89-aa76f6",
+      "reference": [
+        "联合早报",
+        "英国广播公司",
+        "端传媒",
+        "法广"
+      ],
+      "sourceCount": 22,
+      "sources": []
+    },
+    {
+      "id": "75-year-old-chinese-dentist-learns-surfing-d8dc26",
+      "title": "75岁华人牙医牛铁军南加州学习冲浪",
+      "description": "75岁的华人牙医牛铁军（Don T. Niu）于2025年6月开始学习冲浪，经过约3个月的室内训练后，已在南加州Dana Point海滩下海实践。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-18T02:27:48+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/75-year-old-chinese-dentist-learns-surfing-d8dc26",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "st-yingfei-signs-restructuring-investment-agreement-b6c6ae",
+      "title": "*ST英飞签署重整投资协议国科控股将成第一大股东",
+      "description": "9月17日，*ST英飞（002528.SZ）与6家重整投资人签署《重整投资协议》。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-18T02:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/st-yingfei-signs-restructuring-investment-agreement-b6c6ae",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "xi-us-visit-agriculture-announcement-763a39",
+      "title": "习近平将抵华盛顿与特朗普举行第二次会晤",
+      "description": "中国国家主席习近平将于2026年9月23日下午抵达华盛顿郊外的安德鲁斯联合基地，美国总统特朗普将亲自到机场迎接并举行欢迎仪式。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-18T02:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-04",
+      "url": "https://kaopu.news/story/2026-09-04/xi-us-visit-agriculture-announcement-763a39",
+      "reference": [
+        "联合早报",
+        "世界日报",
+        "中央通訊社",
+        "德国之声"
+      ],
+      "sourceCount": 40,
+      "sources": []
+    },
+    {
+      "id": "china-oil-reserves-shift-energy-landscape-c75c75",
+      "title": "中国储备巨量石油或改变全球能源格局",
+      "description": "据《纽约时报》2026年9月18日报道，中国已储备大量石油，这一转变可能重塑全球能源格局。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-18T02:23:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/china-oil-reserves-shift-energy-landscape-c75c75",
+      "reference": [
+        "纽约时报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-fears-ai-political-social-risks-642a0c",
+      "title": "中国决策者担忧人工智能引发政治社会风险",
+      "description": "2026年9月18日，中国决策者表达了对人工智能可能引发政治和社会风险的担忧。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-18T02:19:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/china-fears-ai-political-social-risks-642a0c",
+      "reference": [
+        "纽约时报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "pinglu-canal-trial-navigation-begins-157dee",
       "title": "平陆运河正式通航 西南货物出海缩短560公里",
@@ -24,6 +344,23 @@
         "中央通訊社"
       ],
       "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "koreans-return-to-deficit-at-61-f5aec8",
+      "title": "韩国人平均61岁重返人生赤字期",
+      "description": "韩国国家数据处9月18日发布《2024年国民转移账户》，数据显示韩国人平均从28岁起进入劳动收入超过消费支出的“盈余期”，45岁时盈余达到峰值，61岁起再次转为赤字，盈余期持续33年。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-18T02:09:56+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/koreans-return-to-deficit-at-61-f5aec8",
+      "reference": [
+        "韩民族日报"
+      ],
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -66,6 +403,24 @@
       "sources": []
     },
     {
+      "id": "zelenskyy-warns-north-korea-threatens-east-asia-70cd43",
+      "title": "泽连斯基称朝鲜派兵威胁太平洋安全",
+      "description": "乌克兰总统泽连斯基于9月16日在基辅总统办公室接受日本广播协会（NHK）独家专访，将朝鲜向俄罗斯派兵定义为太平洋地区安全问题，并呼吁加强与日本的军事合作。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-18T02:00:07+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-17",
+      "url": "https://kaopu.news/story/2026-09-17/zelenskyy-warns-north-korea-threatens-east-asia-70cd43",
+      "reference": [
+        "日本放送协会",
+        "韩国国际广播电台"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "waymo-announces-singapore-launch-2028-855bda",
       "title": "Waymo宣布2028年进军新加坡自驾车市场",
       "description": "谷歌母公司Alphabet旗下的自动驾驶德士公司Waymo于2026年9月18日宣布，计划于2028年在新加坡正式推出服务，成为该国第三家自驾车服务供应商。",
@@ -80,26 +435,6 @@
         "联合早报"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "xi-us-visit-agriculture-announcement-763a39",
-      "title": "习近平抵达华盛顿特朗普亲赴机场迎接",
-      "description": "中国国家主席习近平于2026年9月23日下午抵达华盛顿郊外的安德鲁斯联合基地，开始对美国进行国事访问。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T01:55:44+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-04",
-      "url": "https://kaopu.news/story/2026-09-04/xi-us-visit-agriculture-announcement-763a39",
-      "reference": [
-        "联合早报",
-        "世界日报",
-        "中央通訊社",
-        "德国之声"
-      ],
-      "sourceCount": 39,
       "sources": []
     },
     {
@@ -221,23 +556,6 @@
         "日经"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-bank-set-to-raise-rate-7f103c",
-      "title": "日本央行加息至1.25%创31年新高",
-      "description": "日本央行在9月18日结束的货币政策会议上决定加息，将政策利率从1.0%上调至1.25%，为1995年以来约31年的最高水平。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T01:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-17",
-      "url": "https://kaopu.news/story/2026-09-17/japan-bank-set-to-raise-rate-7f103c",
-      "reference": [
-        "共同网"
-      ],
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -380,24 +698,6 @@
         "联合早报"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "un-report-accuses-us-war-crimes-iran-3cf6d5",
-      "title": "联合国报告指控美军在伊朗犯战争罪",
-      "description": "联合国人权委员会2月28日发布报告，指控美军在伊朗的军事行动中犯下战争罪，同时指控伊朗政府镇压示威者犯下危害人类罪。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T00:56:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-17",
-      "url": "https://kaopu.news/story/2026-09-17/un-report-accuses-us-war-crimes-iran-3cf6d5",
-      "reference": [
-        "法广",
-        "公视"
-      ],
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -2456,23 +2756,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-women-beat-thailand-1-0-1d1a59",
-      "title": "台湾女足1比0胜泰国晋级在望",
-      "description": "2026年9月17日，台湾女足在名古屋亚运女子足球E组小组赛中以1比0击败泰国队。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T09:33:52+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-17",
-      "url": "https://kaopu.news/story/2026-09-17/taiwan-women-beat-thailand-1-0-1d1a59",
-      "reference": [
-        "中央通訊社"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "suez-shifts-to-industrial-sector-in-china-9b0760",
       "title": "苏伊士在华战略转型聚焦工业板块",
       "description": "法国环保企业苏伊士于2026年9月17日宣布在华战略转型，重点发展工业业务，并计划将中国研发的技术与方案推广至全球市场。",
@@ -2963,25 +3246,6 @@
       "sources": []
     },
     {
-      "id": "australia-bans-student-dependents-34bda0",
-      "title": "澳大利亚宣布收紧国际学生签证并改革背包客签证制度",
-      "description": "2026年9月17日，澳大利亚内政部长托尼·伯克在堪培拉国家新闻俱乐部公布新一轮移民改革方案，核心措施包括收紧国际学生签证政策、对背包客度假打工签证续签引入抽签制度，以及为所有访客签证附加“不得进一步停留”条款。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T07:34:14+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-17",
-      "url": "https://kaopu.news/story/2026-09-17/australia-bans-student-dependents-34bda0",
-      "reference": [
-        "联合早报",
-        "SBS",
-        "法广"
-      ],
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "chinese-student-trial-zurich-knife-attack-84cab5",
       "title": "中国留学生瑞士当街刺伤3名幼童受审",
       "description": "一名中国留学生因涉嫌于2024年10月在苏黎世厄利孔当街持刀袭击3名5岁幼童，本周在苏黎世地区法院出庭受审。",
@@ -3173,23 +3437,6 @@
         "法广"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "typhoon-dujuan-may-affect-japan-holiday-7f8359",
-      "title": "台风杜鹃生成 连休期间将影响日本",
-      "description": "日本气象厅16日晚9时确认，今年第25号台风“杜鹃”已在马里亚纳群岛附近海域生成。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T07:02:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-17",
-      "url": "https://kaopu.news/story/2026-09-17/typhoon-dujuan-may-affect-japan-holiday-7f8359",
-      "reference": [
-        "共同网"
-      ],
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -4115,23 +4362,6 @@
       "sources": []
     },
     {
-      "id": "zelenskyy-warns-north-korea-threatens-east-asia-70cd43",
-      "title": "泽连斯基警告北朝鲜派兵威胁东亚安全",
-      "description": "乌克兰总统泽连斯基于9月16日在首都基辅的总统办公室接受日本放送协会（NHK）独家专访，就北朝鲜派兵问题发出警告。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T04:41:02+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-17",
-      "url": "https://kaopu.news/story/2026-09-17/zelenskyy-warns-north-korea-threatens-east-asia-70cd43",
-      "reference": [
-        "日本放送协会"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "kuomintang-proposes-early-cash-handout-e8a2e8",
       "title": "国民党中常委提议今年先普发1万元现金",
       "description": "2026年9月17日，国民党中常委建议立法院党团将今年度普发现金1万元的提案抽出迳付二读，让民众今年即可领取。",
@@ -4408,199 +4638,6 @@
         "世界日报"
       ],
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "ai-tv-programs-must-add-label-251c43",
-      "title": "广电总局要求AI视听节目必须添加标识",
-      "description": "国家广播电视总局在2026年9月17日国新办新闻发布会上宣布，使用人工智能技术生成、制作、播出的广电视听节目必须添加内容标识，关键环节及成片内容须坚持人工审核把关。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T03:07:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-17",
-      "url": "https://kaopu.news/story/2026-09-17/ai-tv-programs-must-add-label-251c43",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "kagoshima-offers-free-shinkansen-rides-2d8af1",
-      "title": "鹿儿岛县向国际游客提供新干线免费乘车服务",
-      "description": "日本鹿儿岛县于2026年9月18日启动一项试点计划，向国际游客提供九州新干线免费乘车服务，旨在吸引游客前往该县相对冷门的景点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T02:59:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-17",
-      "url": "https://kaopu.news/story/2026-09-17/kagoshima-offers-free-shinkansen-rides-2d8af1",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-centenarians-exceed-100000-46e036",
-      "title": "日本百岁老人数量首次突破10万人",
-      "description": "截至2026年9月1日，日本全国百岁以上老年人达到107,677人，首次突破10万大关。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T02:54:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-15",
-      "url": "https://kaopu.news/story/2026-09-15/japan-centenarians-exceed-100000-46e036",
-      "reference": [
-        "联合早报",
-        "法广",
-        "共同网",
-        "日本放送协会"
-      ],
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "tung-chee-hwa-dies-at-89-aa76f6",
-      "title": "香港首任特首董建华逝世享年89岁",
-      "description": "香港特别行政区首任行政长官董建华于2026年9月8日21时57分在香港养和医院安详辞世，享年89岁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T02:54:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-08",
-      "url": "https://kaopu.news/story/2026-09-08/tung-chee-hwa-dies-at-89-aa76f6",
-      "reference": [
-        "联合早报",
-        "英国广播公司",
-        "端传媒",
-        "法广"
-      ],
-      "sourceCount": 21,
-      "sources": []
-    },
-    {
-      "id": "audit-reveals-local-fiscal-resource-issues-ae0549",
-      "title": "审计揭地方财政资源统筹存在多项问题",
-      "description": "2026年9月17日，多省审计报告披露地方财政资源统筹存在资金未盘活、非税收入应收未收及国企未纳入预算编制等问题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T02:48:13.404016+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-17",
-      "url": "https://kaopu.news/story/2026-09-17/audit-reveals-local-fiscal-resource-issues-ae0549",
-      "reference": [
-        "第一财经"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ge-jianxiong-analyzes-huizhou-merchant-rise-022351",
-      "title": "葛剑雄新书分析徽商兴起源于市场选择",
-      "description": "2026年9月17日，葛剑雄在新书《何以世界:透过地理看人类文明》中分析徽商兴起原因，指出其成功在于找到当时最有发展前途的商品和最好的市场，而非仅因徽州山多地少。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T02:36:36.271588+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-17",
-      "url": "https://kaopu.news/story/2026-09-17/ge-jianxiong-analyzes-huizhou-merchant-rise-022351",
-      "reference": [
-        "第一财经"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ministry-reveals-10-cyber-crime-cases-787c00",
-      "title": "公安部公布10起网络违法犯罪典型案例",
-      "description": "2026年9月17日，公安部公布10起典型案例，涉及网络谣言、网暴运动员、舆情敲诈、侵犯公民个人信息及黑客犯罪等突出网络违法犯罪活动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T02:33:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-17",
-      "url": "https://kaopu.news/story/2026-09-17/ministry-reveals-10-cyber-crime-cases-787c00",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "south-korea-backs-repeal-contact-restrictions-09e817",
-      "title": "韩国政府赞成废除南北民间接触限制条款",
-      "description": "韩国统一部于2026年9月17日向国会提交资料，表明已决定赞成废除《南北交流合作法》中限制居民接触北韩居民的条款。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T02:23:47+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-17",
-      "url": "https://kaopu.news/story/2026-09-17/south-korea-backs-repeal-contact-restrictions-09e817",
-      "reference": [
-        "韩国国际广播电台"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "chinese-listed-firms-profit-surge-loss-record-e75b24",
-      "title": "中国上市企业上半年利润增两成亏损企业占比创纪录",
-      "description": "2026年9月17日发布的财务数据显示，2026年上半年约5400家中国上市企业（不含金融业）净利润总额同比增长22%，达到1.9万亿元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T02:12:34+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-17",
-      "url": "https://kaopu.news/story/2026-09-17/chinese-listed-firms-profit-surge-loss-record-e75b24",
-      "reference": [
-        "日经"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "rakuten-opens-hangzhou-firm-for-chinese-sellers-4fdf55",
-      "title": "日本乐天在杭州成立公司招募中国卖家",
-      "description": "日本乐天集团于9月16日宣布，已在浙江省杭州市成立新公司，旨在吸引更多中国电商卖家入驻其日本电商平台。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T02:12:34+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-17",
-      "url": "https://kaopu.news/story/2026-09-17/rakuten-opens-hangzhou-firm-for-chinese-sellers-4fdf55",
-      "reference": [
-        "日经"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-teachers-win-appeals-no-compensation-b621e9",
-      "title": "台湾教师遭投诉处分后胜诉却难获赔偿",
-      "description": "2026年9月17日，台湾多位教师因遭家长投诉或校方处分后提起行政救济并胜诉，但未获得赔偿，引发对校事会议制度及教师权益保障的讨论。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-17T02:07:42+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-17",
-      "url": "https://kaopu.news/story/2026-09-17/taiwan-teachers-win-appeals-no-compensation-b621e9",
-      "reference": [
-        "公视"
-      ],
-      "sourceCount": 1,
       "sources": []
     }
   ]
