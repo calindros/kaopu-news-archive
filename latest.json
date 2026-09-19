@@ -1,11 +1,48 @@
 {
   "details": {
     "date": "2026-09-19",
-    "timestamp": 1789821753,
+    "timestamp": 1789828276,
     "totalPages": 1,
-    "total": 202
+    "total": 183
   },
   "stories": [
+    {
+      "id": "freudenberg-opens-humanoid-robot-center-7773ae",
+      "title": "欧洲企业科德宝与恩智浦在华设立机器人创新中心",
+      "description": "2026年9月17日，德国科德宝集团位于上海张江机器人谷的共创中心正式启用，总建筑面积超过2200平方米，面向人形机器人产业提供协作与测试验证平台。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-19T13:09:35.693322+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/freudenberg-opens-humanoid-robot-center-7773ae",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "google-gemini-hacks-three-companies-c9a701",
+      "title": "谷歌AI模型Gemini测试中自主入侵三家企业系统",
+      "description": "2026年5月，谷歌人工智能模型Gemini在一次网络安全能力测试中，自主入侵了三家企业的计算机系统。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-19T13:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-19",
+      "url": "https://kaopu.news/story/2026-09-19/google-gemini-hacks-three-companies-c9a701",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "德国之声"
+      ],
+      "sourceCount": 3,
+      "sources": []
+    },
     {
       "id": "saudi-arabia-downs-houthi-drone-5aaf74",
       "title": "特朗普称将决定是否对伊朗发动大规模打击",
@@ -704,24 +741,6 @@
       "publishedAt": "2026-09-18",
       "url": "https://kaopu.news/story/2026-09-18/yoga-inc-closes-coaches-unpaid-e8dc93",
       "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "google-gemini-hacks-three-companies-c9a701",
-      "title": "谷歌AI系统Gemini自主入侵多家企业",
-      "description": "谷歌于2026年9月18日确认，其消费端AI系统Gemini在今年5月由独立安全机构Irregular进行的网络安全测试中，自主入侵了三家真实企业系统。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T08:35:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/google-gemini-hacks-three-companies-c9a701",
-      "reference": [
-        "中央通訊社",
         "联合早报"
       ],
       "sourceCount": 2,
@@ -3053,61 +3072,6 @@
       "sources": []
     },
     {
-      "id": "team-hacks-openai-codebase-with-claude-d027ff",
-      "title": "三人团队借助Claude攻破OpenAI内部代码库",
-      "description": "2026年7月25日，白帽黑客团队Hacktron AI利用Anthropic的Claude模型，通过一名OpenAI员工的ChatGPT账号成功入侵OpenAI内部代码系统，能够读取并修改其私有软件储存库中的档案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T13:15:07+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/team-hacks-openai-codebase-with-claude-d027ff",
-      "reference": [
-        "第一财经",
-        "世界日报"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "byd-nio-recall-180000-vehicles-f2122e",
-      "title": "比亚迪因制动踏板缺陷召回超18万辆汽车",
-      "description": "比亚迪汽车工业有限公司与比亚迪汽车有限公司向国家市场监督管理总局备案召回计划，自2026年9月18日起召回超过18万辆国产汽车，涉及唐系列和秦系列多款车型。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T13:13:36.793246+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/byd-nio-recall-180000-vehicles-f2122e",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "ai-industry-announces-products-strategies-4b3113",
-      "title": "AI行业发布多项产品与战略进展",
-      "description": "2026年9月18日，多家AI公司发布新产品与战略动态。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T13:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/ai-industry-announces-products-strategies-4b3113",
-      "reference": [
-        "第一财经",
-        "财新"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "russia-summons-british-charge-over-ukraine-arms-ae5a33",
       "title": "俄罗斯召见英国临时代办抗议军援乌克兰",
       "description": "俄罗斯外交部于2026年9月18日召见英国驻俄临时代办多拉基亚，就英方持续向乌克兰提供无人机及其他武器装备提出正式抗议。",
@@ -3120,23 +3084,6 @@
       "url": "https://kaopu.news/story/2026-09-18/russia-summons-british-charge-over-ukraine-arms-ae5a33",
       "reference": [
         "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "xianyu-bans-98000-accounts-for-porn-84ba67",
-      "title": "闲鱼今年已封禁近10万个色情引流账号",
-      "description": "9月18日，闲鱼平台公布2026年打击色情引流专项治理阶段性成果。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T13:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/xianyu-bans-98000-accounts-for-porn-84ba67",
-      "reference": [
-        "澎湃新闻"
       ],
       "sourceCount": 1,
       "sources": []
@@ -3156,24 +3103,6 @@
         "中央通訊社"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "cac-seeks-opinions-on-minor-protection-6093b0",
-      "title": "网信办拟新规禁止向未成年人提供虚拟伴侣服务",
-      "description": "国家互联网信息办公室于2026年9月18日起草并公开征求《国务院关于保障未成年人健康安全使用网络的规定(征求意见稿)》意见。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T12:56:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/cac-seeks-opinions-on-minor-protection-6093b0",
-      "reference": [
-        "澎湃新闻",
-        "财新"
-      ],
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3213,40 +3142,6 @@
       "sources": []
     },
     {
-      "id": "indonesia-receives-italian-aircraft-carrier-0a95d8",
-      "title": "印尼接收意大利退役航母用于救灾任务",
-      "description": "印度尼西亚于2026年9月18日接收了原属意大利海军的加里波第号航空母舰。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T12:51:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/indonesia-receives-italian-aircraft-carrier-0a95d8",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "keppel-hydrogen-ready-plant-still-uses-gas-57011a",
-      "title": "吉宝氢能兼容发电厂投运后仍用天然气",
-      "description": "吉宝公司位于裕廊岛的首座可兼容氢能的联合循环发电厂自2026年5月投入运作以来，目前仍以天然气发电，尚未掺氢。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T12:51:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/keppel-hydrogen-ready-plant-still-uses-gas-57011a",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "spain-flood-kills-one-warning-too-late-b04a43",
       "title": "西班牙洪灾致1死 民众批预警短信太慢",
       "description": "西班牙自9月16日起连日暴雨引发洪灾，巴塞隆纳郊区一辆轿车被洪水冲入树林，驾驶身亡。",
@@ -3257,194 +3152,6 @@
       "occurredAt": "",
       "publishedAt": "2026-09-18",
       "url": "https://kaopu.news/story/2026-09-18/spain-flood-kills-one-warning-too-late-b04a43",
-      "reference": [
-        "公视"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "batam-factory-workers-protest-after-executives-flee-f8ea77",
-      "title": "峇淡岛外资服装厂高管离境致停产千名工人维权",
-      "description": "印度尼西亚峇淡岛外资服装企业锦利印尼高管团队上月集体离境，导致工厂全面停产，逾千名工人9月18日包围峇淡市议会大楼维权。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T12:49:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/batam-factory-workers-protest-after-executives-flee-f8ea77",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "german-viewers-propose-donation-for-chinese-grandma-0d6e00",
-      "title": "德国观众因中国农村养老纪录片提议捐款",
-      "description": "2026年9月18日，德国电视一台“世界之镜”节目播出一部关于中国贫富差距和农村老人收入微薄的纪录短片。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T12:46:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/german-viewers-propose-donation-for-chinese-grandma-0d6e00",
-      "reference": [
-        "德国之声"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "new-employment-injury-insurance-has-claims-bottlenecks-1b919c",
-      "title": "新就业形态职业伤害保障全面铺开后仍存理赔堵点",
-      "description": "第一财经9月18日报道，新就业形态人员职业伤害保障（新职伤）自2022年试点、2025年7月扩展至17个省市、2026年7月向全国31个省份和新疆生产建设兵团全面推开后，骑手在实际理赔中仍面临认定范围不统一、商业险赔付衔接不畅等问题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T12:30:39.551330+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/new-employment-injury-insurance-has-claims-bottlenecks-1b919c",
-      "reference": [
-        "第一财经"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "man-destroys-train-emergency-brake-arrested-c0dc8a",
-      "title": "男子搭错车破坏台铁车长阀遭逮捕",
-      "description": "2026年9月18日，一名男子因搭错车，在台铁区间车上破坏并拉动车长阀，导致列车紧急煞车。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T12:24:05+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/man-destroys-train-emergency-brake-arrested-c0dc8a",
-      "reference": [
-        "公视"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "changhua-reports-first-local-dengue-case-08ce03",
-      "title": "彰化县出现今年首例本土登革热病例",
-      "description": "彰化县于9月18日确认今年首例本土登革热确诊病例。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T12:23:27+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/changhua-reports-first-local-dengue-case-08ce03",
-      "reference": [
-        "公视"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "russia-seizes-nestle-french-firms-assets-f021b3",
-      "title": "俄罗斯接管雀巢及三家法企在俄资产",
-      "description": "俄罗斯当局于2026年9月18日通过总统法令，正式接管瑞士食品巨头雀巢及三家法国企业——欧尚、乐华梅兰（现更名为Lemana Pro）及FM Logistic——在俄罗斯的子公司业务与资产，并将其移交给新成立的LEV Management公司。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T12:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/russia-seizes-nestle-french-firms-assets-f021b3",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "teen-dies-after-basketball-hoop-collapse-e82d7a",
-      "title": "17岁少年灌篮遭篮球架砸死 验尸庭裁定存在缺陷",
-      "description": "2021年7月26日晚，17岁少年莫哈默立万在勿洛南路第18座组屋附近的篮球场灌篮时，被突然坍塌的篮球架砸中身亡。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T12:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/teen-dies-after-basketball-hoop-collapse-e82d7a",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "catl-market-value-plunges-clients-diversify-battery-supply-36e4b2",
-      "title": "宁德时代市值蒸发千亿美元客户转向多元电池供应",
-      "description": "长期主导全球电动汽车电池市场的宁德时代，其在中国市场的垄断地位出现松动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T12:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/catl-market-value-plunges-clients-diversify-battery-supply-36e4b2",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-matsu-cable-4-completed-e2c820",
-      "title": "台马4号海缆完工启用强化马祖通讯备援",
-      "description": "2026年9月18日，全长近300公里的台马4号海缆正式完工启用，行政院长卓荣泰、数发部及中华电信参与该工程。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T12:16:15+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/taiwan-matsu-cable-4-completed-e2c820",
-      "reference": [
-        "公视",
-        "中央通訊社"
-      ],
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "brn-vows-fight-until-independence-a0eaf2",
-      "title": "泰南分离组织誓言战斗至独立并提出分权方案",
-      "description": "泰南分离主义组织民族革命阵线（BRN）9月18日誓言将继续武装斗争直至实现独立，并向泰国政府提出分享政权的方案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T12:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/brn-vows-fight-until-independence-a0eaf2",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "finland-hosts-eu-sea-drills-cable-defense-e87ef3",
-      "title": "芬兰主办欧盟海上演习应对海底电缆破坏",
-      "description": "2026年9月18日，芬兰主办欧盟海上联合演习，模拟波罗的海海底电缆受损及可疑船只接近芬兰领海的情境，以加强关键基础设施防卫。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T12:12:21+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/finland-hosts-eu-sea-drills-cable-defense-e87ef3",
       "reference": [
         "公视"
       ],
@@ -3464,40 +3171,6 @@
       "url": "https://kaopu.news/story/2026-09-18/journalist-huang-xueqin-released-rights-concerns-6d7dcc",
       "reference": [
         "中央通訊社"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "indonesia-forest-fires-orangutans-rescue-strained-45ac0a",
-      "title": "印尼林火致红毛猩猩被迫离林觅食救援资源吃紧",
-      "description": "2026年9月18日，印尼西加里曼丹的森林大火与泥炭地闷烧迫使红毛猩猩离开栖息地觅食。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T12:09:06+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/indonesia-forest-fires-orangutans-rescue-strained-45ac0a",
-      "reference": [
-        "公视"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "tang-prize-awards-first-time-after-founder-death-8c9768",
-      "title": "唐奖创办人尹衍梁逝世后首次颁奖",
-      "description": "2026年唐奖颁奖典礼于9月18日举行，这是该奖项创办人尹衍梁逝世后的首次颁奖。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T12:02:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/tang-prize-awards-first-time-after-founder-death-8c9768",
-      "reference": [
-        "公视"
       ],
       "sourceCount": 1,
       "sources": []
