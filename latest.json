@@ -7,6 +7,62 @@
   },
   "stories": [
     {
+      "id": "trump-bans-three-media-from-white-house-91429c",
+      "title": "特朗普禁止CNN等三家媒体进入白宫采访",
+      "description": "当地时间9月18日，美国总统特朗普宣布即刻禁止CNN、MSNOW和Politico三家新闻机构进入白宫采访，并点名《纽约时报》和《华盛顿邮报》可能成为下一批被禁对象。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-19T02:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/trump-bans-three-media-from-white-house-91429c",
+      "reference": [
+        "SBS",
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "trump-announces-greenland-security-deal-6db87b",
+      "title": "美国与丹麦及格陵兰达成协议获得格陵兰安全永久控制权",
+      "description": "2026年9月18日，美国总统特朗普宣布，美国已与丹麦及格陵兰自治政府达成一项无限期协议，获得对格陵兰岛安全及相关事务的永久控制权。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-19T02:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/trump-announces-greenland-security-deal-6db87b",
+      "reference": [
+        "法广",
+        "联合早报",
+        "澎湃新闻",
+        "财新"
+      ],
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "beijing-probes-four-online-travel-platforms-0f1029",
+      "title": "北京对四家在线旅游平台立案调查",
+      "description": "北京市市场监督管理局于2026年9月19日公布，已对四家在线酒店旅游预订平台企业涉嫌违法行为立案调查。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-19T02:01:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-19",
+      "url": "https://kaopu.news/story/2026-09-19/beijing-probes-four-online-travel-platforms-0f1029",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "queensland-hanfu-society-10th-anniversary-d069e3",
       "title": "昆士兰汉服社成立十周年社长分享汉服日常化故事",
       "description": "2026年9月19日，澳大利亚昆士兰汉服社迎来成立十周年。",
@@ -257,24 +313,6 @@
       "sources": []
     },
     {
-      "id": "trump-bans-three-media-from-white-house-91429c",
-      "title": "特朗普禁止三家新闻机构进入白宫",
-      "description": "2026年9月18日，美国总统特朗普宣布禁止美国有线电视新闻网（CNN）、MS NOW和Politico三家新闻机构进入白宫，引发新闻自由争议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T23:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/trump-bans-three-media-from-white-house-91429c",
-      "reference": [
-        "SBS",
-        "联合早报"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "ministry-reveals-10-cyber-crime-cases-787c00",
       "title": "中国公布五起网暴运动员典型案例",
       "description": "中国公安网安部门于2026年9月18日公布五起体育领域网络暴力典型案例，涉事网民因在抖音、微博等平台发布侮辱、诽谤运动员的言论或组织粉丝群体网暴，被属地公安机关依法处以行政处罚。",
@@ -328,25 +366,6 @@
         "日经"
       ],
       "sourceCount": 37,
-      "sources": []
-    },
-    {
-      "id": "trump-announces-greenland-security-deal-6db87b",
-      "title": "特朗普宣布美国获得格陵兰岛安全永久控制权",
-      "description": "美国总统特朗普于2026年9月18日宣布，美国已与丹麦及格陵兰岛达成一项无限期协议，获得对格陵兰岛安全及所有相关事务的永久控制权，美方无需为此支付费用。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T23:36:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/trump-announces-greenland-security-deal-6db87b",
-      "reference": [
-        "法广",
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -5278,23 +5297,6 @@
       "url": "https://kaopu.news/story/2026-09-18/china-fears-ai-political-social-risks-642a0c",
       "reference": [
         "纽约时报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "koreans-return-to-deficit-at-61-f5aec8",
-      "title": "韩国人平均61岁重返人生赤字期",
-      "description": "韩国国家数据处9月18日发布《2024年国民转移账户》，数据显示韩国人平均从28岁起进入劳动收入超过消费支出的“盈余期”，45岁时盈余达到峰值，61岁起再次转为赤字，盈余期持续33年。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-18T02:09:56+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/koreans-return-to-deficit-at-61-f5aec8",
-      "reference": [
-        "韩民族日报"
       ],
       "sourceCount": 1,
       "sources": []
