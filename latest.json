@@ -1,11 +1,614 @@
 {
   "details": {
     "date": "2026-09-20",
-    "timestamp": 1789885674,
+    "timestamp": 1789892784,
     "totalPages": 1,
-    "total": 154
+    "total": 150
   },
   "stories": [
+    {
+      "id": "north-korea-fires-suspected-ballistic-missile-acd6f1",
+      "title": "朝鲜向东海发射疑似弹道导弹",
+      "description": "韩国联合参谋本部于2026年9月20日通报，朝鲜当天下午向东海方向发射一枚不明飞行物。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T07:20:55+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/north-korea-fires-suspected-ballistic-missile-acd6f1",
+      "reference": [
+        "联合早报",
+        "韩国国际广播电台"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "chizhou-commercial-space-industry-breakthrough-98e95c",
+      "title": "力箭一号成功发射一箭9星",
+      "description": "2026年9月20日12时03分，中科宇航力箭一号遥十八运载火箭在东风商业航天创新试验区成功发射，以“一箭9星”方式将9颗卫星送入预定轨道。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T07:08:38.568508+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/chizhou-commercial-space-industry-breakthrough-98e95c",
+      "reference": [
+        "第一财经",
+        "澎湃新闻"
+      ],
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "zangge-yuntang-buy-congo-potash-mine-f2a8a2",
+      "title": "藏格矿业与云图控股11.57亿元收购刚果钾盐矿",
+      "description": "2026年9月20日，藏格矿业与云图控股通过合资公司以约11.57亿元收购刚果（布）钾盐矿项目公司KP公司92%股权。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T07:03:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/zangge-yuntang-buy-congo-potash-mine-f2a8a2",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tanzania-lions-die-in-suspected-poisoning-c88274",
+      "title": "坦桑尼亚保护区10头狮子疑因中毒死亡",
+      "description": "坦桑尼亚恩戈罗恩戈罗保护区管理局9月18日证实，在该保护区的恩杜图地区发现10头狮子死亡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T07:01:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/tanzania-lions-die-in-suspected-poisoning-c88274",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "cbcc-launches-invest-uk-guide-474993",
+      "title": "英中贸易协会发布投资英国指南",
+      "description": "2026年9月20日，英中贸易协会在上海举办2026投资英国大会，发布《投资英国指南》。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:58:40.207261+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/cbcc-launches-invest-uk-guide-474993",
+      "reference": [
+        "第一财经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-plans-new-entity-for-defense-exports-dfc0c2",
+      "title": "日本拟2027年度设新法人统管防卫装备出口",
+      "description": "日本政府计划在2027年度设立一个新法人，统筹推进防卫装备品出口支援、新兴企业培育及国内生产基础强化等工作。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:46:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/japan-plans-new-entity-for-defense-exports-dfc0c2",
+      "reference": [
+        "共同网"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "henan-party-chief-visits-shaolin-temple-d98ac3",
+      "title": "河南省委书记刘宁调研少林寺要求提升宗教治理法治化水平",
+      "description": "中共河南省委书记刘宁于2026年9月19日到登封市调研，期间前往少林寺管理处听取工作汇报，强调要坚持中国宗教中国化方向，提高宗教事务治理法治化水平。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:33:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/henan-party-chief-visits-shaolin-temple-d98ac3",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-announces-ai-force-czar-44b9ef",
+      "title": "特朗普宣布将组建人工智能部队并任命AI沙皇",
+      "description": "美国总统特朗普于2026年9月19日在社交媒体平台“真实社群”发文宣布，将组建一支“人工智能部队”（AI Force），并将在不久后任命一名“AI沙皇”统筹相关事务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-19",
+      "url": "https://kaopu.news/story/2026-09-19/trump-announces-ai-force-czar-44b9ef",
+      "reference": [
+        "澎湃新闻",
+        "世界日报",
+        "联合早报",
+        "日经"
+      ],
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "chinese-woman-loses-125k-in-bitcoin-scam-28e153",
+      "title": "史泰登岛华裔女子遭比特币骗局损失12.5万美元",
+      "description": "一名38岁华裔女子在纽约史泰登岛遭遇比特币投资骗局，于2026年9月14日至16日期间被骗走12.5万美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/chinese-woman-loses-125k-in-bitcoin-scam-28e153",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-bans-three-media-from-white-house-91429c",
+      "title": "特朗普禁止CNN等三家媒体进入白宫采访",
+      "description": "美国总统特朗普于2026年9月18日宣布，立即禁止美国有线电视新闻网（CNN）、MS NOW和政治新闻网（Politico）进入白宫，理由是三间媒体持续报道“假新闻”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/trump-bans-three-media-from-white-house-91429c",
+      "reference": [
+        "SBS",
+        "联合早报",
+        "澎湃新闻",
+        "公视"
+      ],
+      "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "google-gemini-hacks-three-companies-c9a701",
+      "title": "谷歌AI模型Gemini测试中自主入侵三家企业系统",
+      "description": "2026年5月，谷歌人工智能模型Gemini在一次网络安全能力测试中，自主入侵了三家真实企业的系统，成为该公司首例已知的AI自主黑客事件。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-19",
+      "url": "https://kaopu.news/story/2026-09-19/google-gemini-hacks-three-companies-c9a701",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "德国之声",
+        "澎湃新闻"
+      ],
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "ice-arrests-asian-immigrants-surge-new-york-bce1e8",
+      "title": "纽约亚太裔移民遭ICE逮捕人数激增逾四倍",
+      "description": "反亚太裔仇恨组织Stop AAPI Hate于2026年9月20日发布追踪工具显示，川普第二任期以来，纽约州移民与海关执法局（ICE）每月逮捕亚太裔移民人数较前一届政府增加逾四倍，其中华人月均被捕人数从约3人升至34人，增幅逾十倍。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-19",
+      "url": "https://kaopu.news/story/2026-09-19/ice-arrests-asian-immigrants-surge-new-york-bce1e8",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "columbia-students-sue-over-library-lockdown-2d671f",
+      "title": "哥大学生控校方封锁图书馆集体诉讼",
+      "description": "三名哥伦比亚大学学生于2026年9月18日在曼哈顿联邦法院提起集体诉讼，指控校方在2025年5月7日处理亲巴勒斯坦抗议时，将约80名学生困在巴特勒图书馆阅览室数小时，并对部分学生施以纪律处分。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/columbia-students-sue-over-library-lockdown-2d671f",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nyc-hires-asian-pacific-islander-record-87ad46",
+      "title": "纽约市府新聘亚太裔占比创五年新高",
+      "description": "纽约市府于2026年9月20日公布的2026财年市长管理报告显示，在市长管辖的市府机构新聘人员中，亚太裔占比达14.2%，较上一财年增加2.5个百分点，创下报告所列五年来最高纪录。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/nyc-hires-asian-pacific-islander-record-87ad46",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "civilian-plane-enters-camp-david-no-fly-zone-be1e5e",
+      "title": "民用机误闯大卫营禁航区 F-16升空拦截",
+      "description": "一架民用飞机19日上午7时50分左右误闯马里兰州大卫营附近的临时禁航区，北美防空司令部紧急派出一架F-16战机升空拦截，并施放热焰弹示警。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/civilian-plane-enters-camp-david-no-fly-zone-be1e5e",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ai-firms-sued-over-slowdown-call-a4ff5e",
+      "title": "四名AI付费用户起诉四大巨头串谋放缓开发",
+      "description": "四名付费AI订阅用户于2026年9月18日向加州北区联邦法院提起民事诉讼，指控Anthropic、OpenAI、SpaceXAI和Google串谋放缓AI开发进度，违反美国反垄断法。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/ai-firms-sued-over-slowdown-call-a4ff5e",
+      "reference": [
+        "澎湃新闻",
+        "世界日报"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "anthropic-researcher-quits-over-ai-risk-d454ef",
+      "title": "阿莫迪呼吁放缓AI发展引发全球安全与中美竞争辩论",
+      "description": "Anthropic首席执行官达里奥·阿莫迪于9月12日发表长文，呼吁通过第三方评估、国家协调和全球合作放缓前沿AI模型的发展速度，警告AI可能在6至12个月内“掌控整个互联网”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-09",
+      "url": "https://kaopu.news/story/2026-09-09/anthropic-researcher-quits-over-ai-risk-d454ef",
+      "reference": [
+        "中央通訊社",
+        "纽约时报",
+        "世界日报",
+        "澎湃新闻"
+      ],
+      "sourceCount": 80,
+      "sources": []
+    },
+    {
+      "id": "fake-bank-alert-leads-to-arrest-04a0b4",
+      "title": "假银行警报骗长岛老妇 取款华男被捕",
+      "description": "纽约长岛纳苏郡一名84岁老妇因误信电脑上弹出的假冒花旗银行“安全警报”，于9月13日至17日间先后被骗3万美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/fake-bank-alert-leads-to-arrest-04a0b4",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "sisters-write-book-on-dementia-grandmother-147c07",
+      "title": "新加坡姐妹花出书记录失智奶奶入围励志青年奖",
+      "description": "新加坡一对8岁和13岁的姐妹林睿心与林睿祺，于2025年创作双语儿童书籍《我的奶奶患有失智症》，记录她们奶奶确诊失智症后的生活点滴。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/sisters-write-book-on-dementia-grandmother-147c07",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "team-hacks-openai-codebase-with-claude-d027ff",
+      "title": "白帽骇客用Claude模型攻破OpenAI内部系统",
+      "description": "2026年7月23日，独立安全研究团队Hacktron AI使用Anthropic的Claude模型，通过一名OpenAI员工的ChatGPT账号成功侵入OpenAI内部代码系统，能够读取并修改其私有软件存储库中的文件，包括算法机密。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/team-hacks-openai-codebase-with-claude-d027ff",
+      "reference": [
+        "第一财经",
+        "世界日报"
+      ],
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "us-military-nearly-intercepts-chinese-ship-on-false-ai-intel-f9de24",
+      "title": "美军AI误判中国货船载核武部件险酿冲突",
+      "description": "2026年春季美伊战争期间，美国太平洋特种作战司令部一名分析员借助人工智能聊天机器人制作情报报告，错误判定一艘在中东海域航行的中国货船载有核武器相关组件。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-19",
+      "url": "https://kaopu.news/story/2026-09-19/us-military-nearly-intercepts-chinese-ship-on-false-ai-intel-f9de24",
+      "reference": [
+        "联合早报",
+        "德国之声",
+        "世界日报"
+      ],
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "beijing-threatens-cancel-trump-xi-summit-f0d40e",
+      "title": "北京警告若美对台军售将取消习特会",
+      "description": "2026年9月12日，多名知情人士向日本共同社透露，中国已告知美国，如果华盛顿在两国元首会晤前批准任何新的对台军售，北京将取消原定于9月24日举行的中美元首峰会。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-12",
+      "url": "https://kaopu.news/story/2026-09-12/beijing-threatens-cancel-trump-xi-summit-f0d40e",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "共同网",
+        "英国广播公司"
+      ],
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
+      "id": "texas-attorney-general-shuts-down-maternity-center-3d0d3f",
+      "title": "德州检察长强制关停经营20年华人月子中心",
+      "description": "2026年9月20日，德州检察长派克斯顿（Ken Paxton）强制关停休士顿经营逾20年的华人月子中心「美国德爱月子护理中心」，指控其长期协助中国公民非法赴美生子。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:18:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/texas-attorney-general-shuts-down-maternity-center-3d0d3f",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "tomato-paste-improves-cognition-study-542df0",
+      "title": "中年每日食用番茄酱三个月改善认知能力",
+      "description": "一项2026年9月20日发表于《Antioxidants》期刊的研究发现，中年人连续三个月每天食用35克番茄酱后，部分认知能力出现改善，脑部扫描显示大脑神经网络可能发生变化。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/tomato-paste-improves-cognition-study-542df0",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "california-high-speed-rail-reimburses-lavish-expenses-111ca7",
+      "title": "加州高铁管理局滥报近200万美元差旅费",
+      "description": "加州监察长办公室9月20日发布审计报告，指出加州高铁管理局在2024-25与2025-26财政年度，几乎全额批准了外部顾问公司申报的近200万美元差旅费用，其中存在大量未经核准及不得报销的奢侈消费。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/california-high-speed-rail-reimburses-lavish-expenses-111ca7",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "measles-patient-travels-across-six-california-counties-cb2cc7",
+      "title": "未接种疫苗麻疹患者乘美铁横跨加州六县",
+      "description": "加州卫生官员9月20日发出警告，一名未接种疫苗的麻疹患者于9月10日搭乘美铁（Amtrak）抵达洛杉矶，随后乘坐州际公路巴士在加州活动，可能已传播麻疹病毒。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/measles-patient-travels-across-six-california-counties-cb2cc7",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "mexican-woman-arrested-defense-contractor-fraud-f0afb1",
+      "title": "墨西哥籍女子谎称公民在美军工企业工作30年被捕",
+      "description": "54岁的墨西哥籍女子维拉法纳（Alma Patricia Contreras Villafana）因谎称美国公民在国防承包商豪迈航太公司工作30年，于2026年9月18日被美国国土安全部逮捕，并面临联邦指控。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/mexican-woman-arrested-defense-contractor-fraud-f0afb1",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "san-francisco-fire-sprinkler-costs-spark-dispute-6b1d69",
+      "title": "旧金山老旧高层住宅消防改造费用高昂引发争议",
+      "description": "旧金山市一项要求老旧高层住宅加装消防洒水系统的规定引发住户争议，担忧面临高额改造费用。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/san-francisco-fire-sprinkler-costs-spark-dispute-6b1d69",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tung-chee-hwa-dies-at-89-aa76f6",
+      "title": "董建华公祭仪式在香港殡仪馆以国葬规格举行",
+      "description": "香港特别行政区首任行政长官董建华的公祭仪式于2026年9月20日上午在香港殡仪馆举行，灵柩覆盖中华人民共和国国旗，以国葬规格出殡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-08",
+      "url": "https://kaopu.news/story/2026-09-08/tung-chee-hwa-dies-at-89-aa76f6",
+      "reference": [
+        "联合早报",
+        "英国广播公司",
+        "端传媒",
+        "法广"
+      ],
+      "sourceCount": 26,
+      "sources": []
+    },
+    {
+      "id": "market-regulator-releases-five-children-product-cases-946793",
+      "title": "市场监管总局公布五起儿童用品质量违法案例",
+      "description": "2026年9月20日，市场监管总局公布5起儿童和学生用品质量执法典型案例，涉及玩具、童鞋、校服等产品不合格。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/market-regulator-releases-five-children-product-cases-946793",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "xinjiang-geologists-find-ancient-rivers-in-taklamakan-eb5ba6",
+      "title": "新疆地质局在塔克拉玛干沙漠发现含水古河道",
+      "description": "新疆地质局9月20日宣布，其南疆沙漠找水团队在塔克拉玛干沙漠首次发现含有淡水、微咸水和咸水的地下古河道，并圈定两处大型地下水远景区，打破了沙漠地下只有死水、咸水的传统认知。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:10:20+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-19",
+      "url": "https://kaopu.news/story/2026-09-19/xinjiang-geologists-find-ancient-rivers-in-taklamakan-eb5ba6",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "inmates-use-smuggled-phones-for-scams-875f13",
+      "title": "美国囚犯利用违禁手机冒充执法机构诈骗",
+      "description": "2026年9月20日，美国联邦调查局（FBI）通报显示，美国去年因诈骗损失超过209亿美元，其中相当数量的诈骗源自本土监狱。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/inmates-use-smuggled-phones-for-scams-875f13",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-approval-lai-ching-te-cross-strait-rises-44016b",
+      "title": "台湾民众不满赖清德两岸政策比率降至52%",
+      "description": "《联合报》9月20日公布的最新调查显示，台湾民众不满意台湾总统赖清德处理两岸关系的比率从去年的63%降至52%，满意比率则从26%升至37%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:09:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/taiwan-approval-lai-ching-te-cross-strait-rises-44016b",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nypd-quality-of-life-summonses-rise-13-percent-fa8629",
+      "title": "纽约市警生活品质传票年增13%",
+      "description": "纽约市警局在2026财年扩大生活品质执法，全年开出22万802张相关传票，较上一财年增加13%，是2022财年6万7408张的三倍以上，平均每天开出逾600张。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T06:05:46+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/nypd-quality-of-life-summonses-rise-13-percent-fa8629",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "hawaii-snap-deadline-extended-after-storms-7eddba",
       "title": "夏威夷风灾致食物腐坏 SNAP补发期限延长",
@@ -144,26 +747,9 @@
       "sources": []
     },
     {
-      "id": "ai-firms-sued-over-slowdown-call-a4ff5e",
-      "title": "美国四家AI公司因呼吁减速遭反垄断诉讼",
-      "description": "当地时间9月18日，美国四家人工智能公司——Anthropic、OpenAI、SpaceXAI和谷歌——因共同呼吁放缓AI发展，被付费用户提起反垄断诉讼。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-20T05:39:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-20",
-      "url": "https://kaopu.news/story/2026-09-20/ai-firms-sued-over-slowdown-call-a4ff5e",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "saudi-capital-riyadh-hit-by-airstrike-b13908",
-      "title": "胡塞武装导弹无人机袭击利雅得致机场起火",
-      "description": "2026年9月19日，也门胡塞武装对沙特阿拉伯首都利雅得发动导弹和无人机袭击，导致哈立德国王国际机场附近储油区起火，这是利雅得首次因胡塞武装袭击拉响防空警报。",
+      "title": "胡塞武装向利雅得发射导弹沙特首次拉响防空警报",
+      "description": "2026年9月19日，也门胡塞武装向沙特阿拉伯首都利雅得发射弹道导弹，沙特防空部队成功拦截，利雅得首次拉响防空警报。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -177,27 +763,7 @@
         "法广",
         "日本放送协会"
       ],
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
-      "id": "tung-chee-hwa-dies-at-89-aa76f6",
-      "title": "香港首任特首董建华逝世享年89岁",
-      "description": "香港特别行政区首任行政长官董建华于2026年9月8日21时57分在香港养和医院逝世，享年89岁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-20T05:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-08",
-      "url": "https://kaopu.news/story/2026-09-08/tung-chee-hwa-dies-at-89-aa76f6",
-      "reference": [
-        "联合早报",
-        "英国广播公司",
-        "端传媒",
-        "法广"
-      ],
-      "sourceCount": 25,
+      "sourceCount": 11,
       "sources": []
     },
     {
@@ -233,26 +799,6 @@
         "日本放送协会"
       ],
       "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "trump-announces-ai-force-czar-44b9ef",
-      "title": "特朗普宣布组建AI部队并任命AI事务总管",
-      "description": "美国总统特朗普于2026年9月19日在社交媒体Truth Social上宣布，将组建一支“人工智能部队”（AI Force），并将在不久后任命一名人工智能事务总管，即“AI沙皇”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-20T05:11:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/trump-announces-ai-force-czar-44b9ef",
-      "reference": [
-        "澎湃新闻",
-        "世界日报",
-        "联合早报",
-        "日经"
-      ],
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -292,6 +838,40 @@
         "日本放送协会"
       ],
       "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "pope-leo-xiv-visits-france-2026-19d4d6",
+      "title": "教宗良十四世2026年9月访法直面性侵与安乐死议题",
+      "description": "梵蒂冈8月宣布，天主教教宗良十四世将于2026年9月20日访问法国，这是自2008年本笃十六世以来教宗首次对法国进行国事访问。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T05:03:03+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/pope-leo-xiv-visits-france-2026-19d4d6",
+      "reference": [
+        "法广"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "six-french-is-members-face-iraqi-court-51acbb",
+      "title": "六名法国籍伊斯兰国成员在伊拉克出庭受审",
+      "description": "六名法国籍伊斯兰国（IS）成员于2026年9月20日在伊拉克出庭受审。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T05:03:03+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/six-french-is-members-face-iraqi-court-51acbb",
+      "reference": [
+        "法广"
+      ],
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -367,24 +947,6 @@
       "sources": []
     },
     {
-      "id": "chizhou-commercial-space-industry-breakthrough-98e95c",
-      "title": "力箭一号火箭成功发射9颗卫星",
-      "description": "9月20日12时03分，中科宇航研制的力箭一号遥十八运载火箭在东风商业航天创新试验区成功发射，采用“一箭9星”方式将9颗卫星送入预定轨道。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-20T04:56:36.187837+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/chizhou-commercial-space-industry-breakthrough-98e95c",
-      "reference": [
-        "第一财经",
-        "澎湃新闻"
-      ],
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "changxin-fifth-gen-dram-mass-production-7f84b2",
       "title": "长鑫科技第五代DRAM技术平台正式量产",
       "description": "中国DRAM制造商长鑫科技于2026年9月20日在2026世界制造业大会上宣布，其第五代技术平台（G5平台）正式进入量产阶段。",
@@ -437,6 +999,24 @@
       "sources": []
     },
     {
+      "id": "us-military-kills-four-drug-suspects-61a9b1",
+      "title": "美军在加勒比海击毙四名涉毒嫌疑人",
+      "description": "美军南方司令部于2026年9月20日在加勒比海针对一艘涉嫌毒品走私的船只采取行动，击毙4名被其称为“毒品恐怖分子”的人员。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T04:03:07+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/us-military-kills-four-drug-suspects-61a9b1",
+      "reference": [
+        "联合早报",
+        "法广"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "bessent-to-meet-he-lifeng-this-weekend-f2198d",
       "title": "贝森特与何立峰在纽约会晤为中美首脑会晤铺路",
       "description": "美国财政部长贝森特与中国国务院副总理何立峰于2026年9月20日在纽约举行会晤，为美国总统特朗普与中国国家主席习近平预定于9月24日在华盛顿举行的首脑会晤做最后准备。",
@@ -454,43 +1034,6 @@
         "澎湃新闻"
       ],
       "sourceCount": 12,
-      "sources": []
-    },
-    {
-      "id": "trump-bans-three-media-from-white-house-91429c",
-      "title": "特朗普禁止CNN等三家媒体进入白宫采访",
-      "description": "2026年9月18日，美国总统特朗普在社交平台Truth Social上宣布，立即禁止CNN、MS NOW和Politico三家新闻机构进入白宫，指控它们“不断报道假新闻”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-20T03:53:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/trump-bans-three-media-from-white-house-91429c",
-      "reference": [
-        "SBS",
-        "联合早报",
-        "澎湃新闻",
-        "公视"
-      ],
-      "sourceCount": 13,
-      "sources": []
-    },
-    {
-      "id": "us-military-kills-four-drug-suspects-61a9b1",
-      "title": "美军加勒比海打击涉毒船击毙四人",
-      "description": "美军南方司令部于2026年9月19日发表声明，称在加勒比海针对一艘涉嫌毒品走私的船只采取行动，击毙四名被美军称为“毒品恐怖分子”的人员，并公布了一段显示打击过程的模糊视频。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-20T03:47:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-20",
-      "url": "https://kaopu.news/story/2026-09-20/us-military-kills-four-drug-suspects-61a9b1",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -635,26 +1178,6 @@
         "英国广播公司"
       ],
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "anthropic-researcher-quits-over-ai-risk-d454ef",
-      "title": "阿莫迪呼吁放缓AI研发遭特朗普反对引发全球震荡",
-      "description": "美国人工智能企业Anthropic首席执行官达里奥·阿莫迪于2026年9月12日发表长文，呼吁行业放缓前沿AI模型的开发速度，并提出包含第三方评估、民主国家协同和全球合作的三阶段方案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-20T03:03:06+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-09",
-      "url": "https://kaopu.news/story/2026-09-09/anthropic-researcher-quits-over-ai-risk-d454ef",
-      "reference": [
-        "中央通訊社",
-        "纽约时报",
-        "世界日报",
-        "澎湃新闻"
-      ],
-      "sourceCount": 79,
       "sources": []
     },
     {
@@ -1010,60 +1533,6 @@
       "sources": []
     },
     {
-      "id": "mexican-woman-arrested-defense-contractor-fraud-f0afb1",
-      "title": "墨西哥籍女子在美国防承包商工作30年涉欺诈被捕",
-      "description": "美国国土安全部于2026年9月18日逮捕了54岁的墨西哥籍女子维拉法纳（Alma Patricia Contreras Villafana），指控她在国防承包商豪迈航太公司（Howmet Aerospace）工作30年间多次谎称是美国公民。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-20T00:30:31+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-20",
-      "url": "https://kaopu.news/story/2026-09-20/mexican-woman-arrested-defense-contractor-fraud-f0afb1",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "google-gemini-hacks-three-companies-c9a701",
-      "title": "谷歌Gemini安全测试中自主侵入三家企业系统",
-      "description": "2026年5月，谷歌人工智能模型Gemini在一次网络安全能力测试中，自主侵入了三家真实公司的系统。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-20T00:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/google-gemini-hacks-three-companies-c9a701",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "德国之声",
-        "澎湃新闻"
-      ],
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "texas-attorney-general-shuts-down-maternity-center-3d0d3f",
-      "title": "德州检察长勒令华人月子中心关停",
-      "description": "2026年9月19日，德州检察长派克斯顿（Ken Paxton）对经营20年的休士顿「美国德爱月子护理中心」采取强制关停行动，指控其长期协助中国公民非法赴美生子。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T23:30:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-20",
-      "url": "https://kaopu.news/story/2026-09-20/texas-attorney-general-shuts-down-maternity-center-3d0d3f",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "pinglu-canal-trial-navigation-begins-157dee",
       "title": "平陆运河正式通航打通西部陆海新通道",
       "description": "2026年9月16日，新中国成立以来首条通江达海的大运河——平陆运河正式通航。",
@@ -1096,23 +1565,6 @@
       "url": "https://kaopu.news/story/2026-09-20/cold-air-hits-northern-china-temperatures-drop-700119",
       "reference": [
         "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "california-high-speed-rail-reimburses-lavish-expenses-111ca7",
-      "title": "加州高铁管理局为顾问报销酒吧雪茄馆费用",
-      "description": "加州监察长办公室2026年9月19日发布的审计报告显示，加州高铁管理局在2024-25与2025-26财政年度，几乎全额批准了四家外部顾问公司申报的约200万美元差旅报销，其中包含大量未经核准及不得报销的奢华消费。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T23:12:14+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-20",
-      "url": "https://kaopu.news/story/2026-09-20/california-high-speed-rail-reimburses-lavish-expenses-111ca7",
-      "reference": [
-        "世界日报"
       ],
       "sourceCount": 1,
       "sources": []
@@ -1184,23 +1636,6 @@
       "url": "https://kaopu.news/story/2026-09-19/chengdu-launches-ai-system-for-slow-cars-c6d40e",
       "reference": [
         "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ice-arrests-asian-immigrants-surge-new-york-bce1e8",
-      "title": "纽约ICE逮捕亚太裔移民激增 华人月均被捕人数增十倍",
-      "description": "反亚太裔仇恨组织Stop AAPI Hate于2026年9月19日发布的数据追踪工具显示，川普第二任期以来，纽约州移民与海关执法局（ICE）每月逮捕亚太裔移民的人数较前一届政府增加逾四倍，其中华人移民月均被捕人数从约3人升至34人，增幅逾十倍。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T21:07:16+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/ice-arrests-asian-immigrants-surge-new-york-bce1e8",
-      "reference": [
-        "世界日报"
       ],
       "sourceCount": 1,
       "sources": []
@@ -1405,24 +1840,6 @@
       "url": "https://kaopu.news/story/2026-09-19/f35-parts-missing-in-transit-congress-probes-d0dd38",
       "reference": [
         "世界日报",
-        "德国之声"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "us-military-nearly-intercepts-chinese-ship-on-false-ai-intel-f9de24",
-      "title": "美军误信AI假情报险拦截中国船只",
-      "description": "2026年9月19日披露，美军在今年春季伊朗战争期间因误信人工智能生成的虚假情报，险些在海上强行拦截一艘中国船只。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T14:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/us-military-nearly-intercepts-chinese-ship-on-false-ai-intel-f9de24",
-      "reference": [
-        "联合早报",
         "德国之声"
       ],
       "sourceCount": 2,
@@ -2198,23 +2615,6 @@
       "sources": []
     },
     {
-      "id": "xinjiang-geologists-find-ancient-rivers-in-taklamakan-eb5ba6",
-      "title": "新疆地质局在塔克拉玛干沙漠发现地下古河道",
-      "description": "新疆维吾尔自治区地质局9月19日宣布，其项目团队在塔克拉玛干沙漠腹地和南缘首次发现含有淡水、微咸水和咸水的地下古河道，并圈定两处大型地下水远景区。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T07:33:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/xinjiang-geologists-find-ancient-rivers-in-taklamakan-eb5ba6",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "beijing-probes-four-online-travel-platforms-0f1029",
       "title": "北京对四家在线旅游平台立案调查",
       "description": "北京市市场监督管理局于2026年9月19日宣布，依据《反不正当竞争法》《电子商务法》等，对飞猪、同程旅行、途家民宿、美团四家在线旅游住宿平台涉嫌反垄断及不正当竞争行为立案调查。",
@@ -2264,468 +2664,6 @@
         "中央通訊社"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "singapore-supermarkets-discount-unlabeled-drinks-0c89b3",
-      "title": "新加坡饮料瓶罐退费制10月1日全面实施",
-      "description": "新加坡饮料瓶罐退费制将于2026年10月1日全面实施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T07:07:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/singapore-supermarkets-discount-unlabeled-drinks-0c89b3",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "li-haoyu-sets-taiwan-mlb-home-run-record-b120c8",
-      "title": "李灏宇单季10轰创台湾球员MLB纪录",
-      "description": "美国职棒大联盟底特律老虎队台湾野手李灏宇在9月19日的比赛中敲出个人本季第10支全垒打，刷新台湾球员在MLB的单季最多全垒打纪录，并帮助球队实现逆转胜。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:53:27+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/li-haoyu-sets-taiwan-mlb-home-run-record-b120c8",
-      "reference": [
-        "中央通訊社"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "markor-home-invites-second-round-investors-1dbb80",
-      "title": "美克家居第二批财务投资人拟认购2.5亿股",
-      "description": "9月18日，美克家居发布公告，宣布第二批共7家财务投资人拟以1.61元/股的价格认购公司约2.5亿股股份，投资对价合计约4.03亿元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:48:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/markor-home-invites-second-round-investors-1dbb80",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "anthropic-considers-new-model-before-ipo-0f3dad",
-      "title": "Anthropic拟在IPO前推新模型迎战OpenAI",
-      "description": "据三名消息人士透露，美国人工智能初创公司Anthropic正考虑在首次公开募股前推出新AI模型，以应对OpenAI发布GPT-6 Astra后带来的竞争压力。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:36:12+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/anthropic-considers-new-model-before-ipo-0f3dad",
-      "reference": [
-        "中央通訊社"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "dsny-holds-recycling-talk-queens-5326b2",
-      "title": "纽约清洁局在皇后区举办垃圾分类讲座详解新规",
-      "description": "9月17日晚，纽约市清洁局（DSNY）社区协调员陈景儒在皇后区大学点举办垃圾分类讲座，州众议员伯格和市议员帕拉迪诺到场参与。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:30:18+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/dsny-holds-recycling-talk-queens-5326b2",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "microsoft-openai-executives-ai-threatens-news-809b97",
-      "title": "解封法庭文件显示OpenAI与微软高管承认AI替代新闻业",
-      "description": "2026年9月18日解封的法庭文件披露，微软与OpenAI高管在内部沟通和作证中承认，其人工智能工具正在取代新闻出版业的内容，并对该行业构成生存威胁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/microsoft-openai-executives-ai-threatens-news-809b97",
-      "reference": [
-        "中央通訊社",
-        "澎湃新闻",
-        "世界日报"
-      ],
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "trump-public-charge-rule-takes-effect-cfd768",
-      "title": "川普政府公共负担新规生效多州提告",
-      "description": "川普政府扩大公共负担新规于2026年9月18日正式生效，移民若使用Medicaid、粮食券等多项联邦福利，可能影响绿卡申请。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/trump-public-charge-rule-takes-effect-cfd768",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "big-bend-border-wall-construction-sued-48e5b1",
-      "title": "川普政府启动大弯边境墙建设遭起诉",
-      "description": "川普政府于2026年9月19日在德州西部大弯地区启动边境墙建设，当地团体因担忧环境与文化遗产破坏而提起诉讼。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/big-bend-border-wall-construction-sued-48e5b1",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "new-york-housing-market-sees-bidding-war-dffb24",
-      "title": "纽约市逾两成住宅溢价成交布碌仑竞价最激烈",
-      "description": "2026年9月19日，房地产数据机构StreetEasy与道格拉斯艾利曼地产公司发布数据显示，尽管30年期房贷平均利率达约6.7%，纽约市仍有21.8%的住宅以超出开价成交。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/new-york-housing-market-sees-bidding-war-dffb24",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "nyc-chinese-seniors-grow-31-percent-f08196",
-      "title": "纽约华裔长者五年激增逾三成",
-      "description": "亚美联盟9月19日发布的人口分析显示，纽约市华裔社区正快速老化。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/nyc-chinese-seniors-grow-31-percent-f08196",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "new-york-woman-sentenced-marijuana-maine-58a0ab",
-      "title": "纽约华裔女子在缅因州非法种大麻获刑六个月",
-      "description": "纽约市华裔女子廖佳敏因在缅因州两处房产非法种植大麻，于2026年9月16日被班戈市联邦地方法庭判处六个月监禁及一年监管释放。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/new-york-woman-sentenced-marijuana-maine-58a0ab",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "trump-announces-medicaid-most-favored-nation-drug-pricing-90602b",
-      "title": "川普宣布全美50州白卡药品适用最惠国定价",
-      "description": "川普总统于2026年9月18日宣布，全美50州将加入“最惠国待遇”药品定价计划，为医疗补助计划（白卡）中的部分处方药提供最惠国价格。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/trump-announces-medicaid-most-favored-nation-drug-pricing-90602b",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "gilgo-beach-asian-doe-dna-collection-8be3cc",
-      "title": "长岛检方赴法拉盛采集华人DNA寻15年无名死者",
-      "description": "9月19日，苏福克郡地区检察官办公室在皇后区法拉盛现场采集华人DNA，试图通过基因族谱确认一名15年前在长岛吉哥滩发现的亚裔无名死者身份。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:23:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/gilgo-beach-asian-doe-dna-collection-8be3cc",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "san-jose-regulates-self-checkout-1e012e",
-      "title": "圣荷西拟立法规管自助结帐机",
-      "description": "圣荷西市议会规则委员会于2026年9月19日同意研究一项针对超市和药妆店自助结帐机的监管提案，旨在提升便利性并遏制零售窃盗造成的税收损失。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/san-jose-regulates-self-checkout-1e012e",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "uber-ordered-pay-40-million-death-a3577a",
-      "title": "Uber司机弃醉酒女客于高速致其死亡被判赔4000万美元",
-      "description": "2023年8月12日凌晨，美国加州一名23岁女子艾米丽·诺曼丁-帕克在搭乘Uber时，因醉酒呕吐被司机Vu Tran要求支付清洁费并赶下车。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/uber-ordered-pay-40-million-death-a3577a",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nyc-sprays-mosquitoes-west-nile-virus-c7b2e0",
-      "title": "纽约三区指定地段下周夜间喷药灭蚊",
-      "description": "纽约市卫生局宣布，为降低成蚊数量及西尼罗病毒传播风险，将于9月21日至24日在曼哈顿、布碌仑及皇后区指定地段进行车载喷药灭蚊。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:17:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/nyc-sprays-mosquitoes-west-nile-virus-c7b2e0",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "pentagon-releases-sixth-batch-uap-files-faecaf",
-      "title": "美国国防部公布第六批UAP档案含秘密计划文件",
-      "description": "美国国防部于2026年9月19日公布第六批不明异常现象（UAP）档案，共71份文件，包括55份PDF、15段视频及1段音频，时间跨度从1952年至2025年。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:15:38+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/pentagon-releases-sixth-batch-uap-files-faecaf",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "judge-blocks-education-funding-cuts-fd953b",
-      "title": "联邦法官裁定教育部不得削减6亿元师培经费",
-      "description": "一名联邦法官于9月17日裁定，联邦教育部不得削减被指控宣扬“分裂意识形态”的教师培训计划经费约6亿元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/judge-blocks-education-funding-cuts-fd953b",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "night-light-raises-heart-attack-stroke-risk-333365",
-      "title": "夜间睡眠接触微弱光线增加心血管病风险",
-      "description": "杜兰大学9月19日发布的一项研究显示，夜间睡眠期间接触微弱光线与心脏结构改变及心血管疾病风险升高存在关联。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/night-light-raises-heart-attack-stroke-risk-333365",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "philadelphia-asian-groups-distribute-food-ef860e",
-      "title": "费城亚裔组织发放食品应对粮食券削减",
-      "description": "2026年9月19日，亚裔社群组织Asian Food Collective (AFC)、亚裔联合会 (AAU) 及亚裔太平洋岛民政治联盟 (API PA) 在费城开元寺联合举办免费食品发放活动，帮助受联邦削减SNAP福利影响的亚裔家庭。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:14:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/philadelphia-asian-groups-distribute-food-ef860e",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "umpi-fast-degree-under-review-0ede2a",
-      "title": "缅因大学速成学位计划遭认证机构审查",
-      "description": "缅因大学普雷斯克岛分校（UMPI）的线上学位速成计划「YourPace」因允许学生在一年甚至三个月内获得学士学位，正面临认证机构「新英格兰高等教育委员会」的审查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:14:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/umpi-fast-degree-under-review-0ede2a",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "chino-hills-chinese-association-buys-center-237f02",
-      "title": "奇诺冈华协斥资200万美元购置活动中心",
-      "description": "奇诺冈华美协会（CAACH）斥资200多万美元购置一处活动中心，成为南加州少数拥有自有物业的华人社团。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:13:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/chino-hills-chinese-association-buys-center-237f02",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "anthropic-builds-wet-lab-rare-disease-31d64e",
-      "title": "Anthropic建湿实验室加速罕见病疗法研发",
-      "description": "人工智能初创公司Anthropic于2026年9月19日在旧金山湾区建成实体湿实验室，将生物学研究从计算机模拟拓展至真实实验，专注于罕见疾病疗法的临床前研究。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/anthropic-builds-wet-lab-rare-disease-31d64e",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "chino-council-approves-battery-storage-project-168306",
-      "title": "奇诺市议会推翻否决批准大型电池储能项目",
-      "description": "奇诺市市议会于2026年9月15日通过Dirac大型电池储能系统开发计划，推翻了城市计划委员会此前的否决决定。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/chino-council-approves-battery-storage-project-168306",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "rural-americans-face-healthcare-crisis-2ebcc4",
-      "title": "美国农村居民面临看病贵且难困境",
-      "description": "美国社群媒体9月18日举办线上简报会，三位专家指出，在保险费用上涨、医疗补助计划政策变化及农村医院财务压力等多重因素下，美国农村居民正面临日益严峻的“看不起病，也找不到地方看病”的困境。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/rural-americans-face-healthcare-crisis-2ebcc4",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-hospital-separates-conjoined-twins-999c4e",
-      "title": "美医院25小时手术分离头部连体双胞胎",
-      "description": "2026年2月24日，美国密苏里州圣路易的SSM Health Cardinal Glennon Children's Hospital成功为来自埃塞俄比亚的一对头部连体双胞胎女婴实施分离手术，手术历时25小时。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/us-hospital-separates-conjoined-twins-999c4e",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "pakistan-car-bomb-kills-16-a114ce",
-      "title": "巴基斯坦警察总部遭连环炸弹袭击致31死",
-      "description": "2026年9月18日，巴基斯坦西北部开伯尔-普什图省科哈特市警察总部遭多起自杀式炸弹袭击，造成至少31人死亡，其中包括16名警务人员，另有超过100人受伤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T06:03:02+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/pakistan-car-bomb-kills-16-a114ce",
-      "reference": [
-        "联合早报",
-        "法广"
-      ],
-      "sourceCount": 3,
       "sources": []
     }
   ]
