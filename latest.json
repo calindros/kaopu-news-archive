@@ -1,11 +1,348 @@
 {
   "details": {
     "date": "2026-09-20",
-    "timestamp": 1789892784,
+    "timestamp": 1789900078,
     "totalPages": 1,
-    "total": 148
+    "total": 159
   },
   "stories": [
+    {
+      "id": "trump-bans-three-media-from-white-house-91429c",
+      "title": "特朗普禁止CNN等三家媒体进入白宫采访",
+      "description": "美国总统特朗普于2026年9月18日宣布，立即禁止CNN、MS NOW和Politico三家新闻机构进入白宫采访，理由是其持续报道“假新闻”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T09:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/trump-bans-three-media-from-white-house-91429c",
+      "reference": [
+        "SBS",
+        "联合早报",
+        "澎湃新闻",
+        "公视"
+      ],
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
+      "id": "housing-market-enters-stock-era-3c2720",
+      "title": "住建部宣布中国房地产市场正式进入存量时代",
+      "description": "2026年9月18日，住房和城乡建设部在国务院新闻办公室举行的“开局起步‘十五五’”系列主题新闻发布会上宣布，中国房地产市场已进入存量时代，并部署了现房销售、住房公积金改革、城市更新等一系列“十五五”时期的重点工作。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T09:06:38.789659+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/housing-market-enters-stock-era-3c2720",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "中央通訊社",
+        "联合早报"
+      ],
+      "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "li-chenggang-appointed-trade-representative-6beeeb",
+      "title": "李成钢获任中国国际贸易谈判代表",
+      "description": "中国国务院于2026年9月20日任命李成钢为中华人民共和国国际贸易谈判代表（正部长级），同时任命余晓晖为工业和信息化部副部长、潘文博为农业农村部副部长。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T09:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/li-chenggang-appointed-trade-representative-6beeeb",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "liu-chunlei-appointed-xinjiang-discipline-secretary-138902",
+      "title": "刘春雷任新疆维吾尔自治区纪委书记",
+      "description": "中共中央于2026年9月20日批准刘春雷担任新疆维吾尔自治区党委委员、常委和自治区纪委书记。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T09:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/liu-chunlei-appointed-xinjiang-discipline-secretary-138902",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "national-day-ticket-prices-double-peak-4eacb8",
+      "title": "中秋国庆双节国内机票价格呈双峰走势",
+      "description": "第一财经9月20日援引航旅纵横与航班管家数据报道，2026年中秋国庆双节期间国内机票市场呈现“双峰”价格走势，部分热门航线节前涨幅达130%，返程价格接近翻倍。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T09:03:38.790437+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/national-day-ticket-prices-double-peak-4eacb8",
+      "reference": [
+        "第一财经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-power-load-hits-record-high-27e263",
+      "title": "8月中国用电负荷15.6亿千瓦创历史新高",
+      "description": "国家能源局发布数据显示，2026年8月全社会用电量达10332亿千瓦时，同比增长1.7%；用电负荷攀升至15.6亿千瓦，创历史新高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T09:01:36.638050+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/china-power-load-hits-record-high-27e263",
+      "reference": [
+        "联合早报",
+        "第一财经"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "lpr-unchanged-for-16-months-55e2b5",
+      "title": "9月LPR连续16个月维持不变",
+      "description": "中国人民银行9月20日公布的贷款市场报价利率（LPR）显示，1年期和5年期以上品种均与上月持平，已连续16个月未作调整。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T08:57:37.021849+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/lpr-unchanged-for-16-months-55e2b5",
+      "reference": [
+        "第一财经",
+        "澎湃新闻"
+      ],
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "ite-students-build-ai-prototypes-for-special-needs-509f28",
+      "title": "工教院学生借助AI开发教育原型助特殊需求学生",
+      "description": "2026年9月20日，工艺教育学院学生在D.A.R.E. Community试点项目中利用人工智能开发多个教育原型，旨在帮助有阅读障碍的儿童、学习进度较慢的学生，并协助教师设计更包容的课程。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T08:57:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/ite-students-build-ai-prototypes-for-special-needs-509f28",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "cai-dong-appointed-nfra-party-member-a7edd2",
+      "title": "国务院任命蔡东为国家金融监督管理总局副局长",
+      "description": "国务院2026年9月20日发布任免消息，任命蔡东为国家金融监督管理总局副局长。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T08:54:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/cai-dong-appointed-nfra-party-member-a7edd2",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "li-bingjie-defends-asian-games-title-826b9f",
+      "title": "李冰洁卫冕亚运会女子1500米自由泳冠军",
+      "description": "2026年9月20日，在爱知·名古屋亚运会女子1500米自由泳比赛中，中国队选手李冰洁成功卫冕冠军。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T08:54:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/li-bingjie-defends-asian-games-title-826b9f",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nanyang-deputy-mayor-aying-expelled-f70852",
+      "title": "南阳原副市长阿颖因严重违法被开除公职",
+      "description": "2026年9月20日，河南省监委通报，南阳市原副市长阿颖因严重违法被开除公职，其涉嫌受贿犯罪问题已移送检察机关审查起诉。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T08:41:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/nanyang-deputy-mayor-aying-expelled-f70852",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ukraine-drone-attack-moscow-refinery-four-dead-0f1cca",
+      "title": "乌克兰大规模无人机袭击致莫斯科炼油厂受损四人死亡",
+      "description": "乌克兰于9月20日对俄罗斯发动今年以来最大规模的无人机袭击。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T08:32:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/ukraine-drone-attack-moscow-refinery-four-dead-0f1cca",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "new-zealand-warships-cross-taiwan-strait-e0077d",
+      "title": "新西兰两艘军舰穿越台湾海峡遭解放军监视",
+      "description": "新西兰海军两艘军舰于9月18日穿越台湾海峡，中国人民解放军全程对其进行跟踪监视并保持警戒。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T08:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/new-zealand-warships-cross-taiwan-strait-e0077d",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "iran-war-hits-poor-african-nations-4c3535",
+      "title": "美以袭击伊朗六个月后全球经济回旋余地持续收窄",
+      "description": "2026年2月，美国和以色列对伊朗发动袭击，引发史上最大规模的全球能源流动中断。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T08:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/iran-war-hits-poor-african-nations-4c3535",
+      "reference": [
+        "纽约时报",
+        "联合早报",
+        "财新"
+      ],
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "tung-chee-hwa-dies-at-89-aa76f6",
+      "title": "香港首任特首董建华逝世享年89岁",
+      "description": "香港特别行政区首任行政长官董建华于2026年9月8日21时57分在香港逝世，享年89岁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T08:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-08",
+      "url": "https://kaopu.news/story/2026-09-08/tung-chee-hwa-dies-at-89-aa76f6",
+      "reference": [
+        "联合早报",
+        "英国广播公司",
+        "端传媒",
+        "法广"
+      ],
+      "sourceCount": 27,
+      "sources": []
+    },
+    {
+      "id": "qinghai-normal-university-releases-tibetan-ai-input-method-a966f7",
+      "title": "青海师大发布首款藏语多模态AI输入法",
+      "description": "2026年9月20日，青海师范大学在建校70周年大会上发布中国首款藏语多语言全模态AI输入法“智达AI输入法”及配套藏文字库。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T08:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/qinghai-normal-university-releases-tibetan-ai-input-method-a966f7",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "rare-disease-clinics-required-in-cities-39455d",
+      "title": "卫健委要求人口超300万地市开设罕见病门诊",
+      "description": "国家卫健委与国家中医药局于9月20日联合发布通知，要求到2026年底前，全国所有省份及人口超300万的地市至少依托一家医院开设罕见病门诊。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T08:21:35.505287+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/rare-disease-clinics-required-in-cities-39455d",
+      "reference": [
+        "第一财经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-smart-glasses-market-divides-507d72",
+      "title": "中国智能眼镜市场分化音频眼镜下滑AI眼镜增长",
+      "description": "2026年9月20日，IDC、群智咨询等机构数据显示，2026年第二季度中国智能眼镜市场出现明显分化。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T08:18:33.592115+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/china-smart-glasses-market-divides-507d72",
+      "reference": [
+        "第一财经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "44-young-scientists-get-15-year-support-aa1dfe",
+      "title": "国家自然科学基金委选拔44名青年科学家获15年支持",
+      "description": "国家自然科学基金委员会主任窦贤康在9月19日举行的第六届新基石502论坛上透露，今年在35岁以下青年科学基金A类（青A）赛道中选拔了44人，其中海外9人、国内30多人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T08:13:33.593373+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/44-young-scientists-get-15-year-support-aa1dfe",
+      "reference": [
+        "第一财经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "xinjiang-geologists-find-ancient-rivers-in-taklamakan-eb5ba6",
       "title": "新疆地质局在塔克拉玛干沙漠发现含水古河道",
@@ -47,8 +384,8 @@
     },
     {
       "id": "north-korea-fires-suspected-ballistic-missile-acd6f1",
-      "title": "朝鲜向东海发射疑似弹道导弹物体",
-      "description": "9月20日下午，朝鲜向东海方向发射一枚疑似弹道导弹的不明飞行物，该物体落入日本专属经济区以外海域。",
+      "title": "朝鲜从元山发射弹道导弹落入日本专属经济区外",
+      "description": "9月20日下午，朝鲜从元山一带向东海方向发射一枚弹道导弹，韩国联合参谋本部和日本防卫省先后探测到此次发射。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -58,10 +395,11 @@
       "url": "https://kaopu.news/story/2026-09-20/north-korea-fires-suspected-ballistic-missile-acd6f1",
       "reference": [
         "联合早报",
+        "法广",
         "韩国国际广播电台",
         "日经"
       ],
-      "sourceCount": 3,
+      "sourceCount": 4,
       "sources": []
     },
     {
@@ -236,26 +574,6 @@
         "世界日报"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-bans-three-media-from-white-house-91429c",
-      "title": "特朗普禁止CNN等三家媒体进入白宫采访",
-      "description": "美国总统特朗普于2026年9月18日宣布，立即禁止美国有线电视新闻网（CNN）、MS NOW和政治新闻网（Politico）进入白宫，理由是三间媒体持续报道“假新闻”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-20T06:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/trump-bans-three-media-from-white-house-91429c",
-      "reference": [
-        "SBS",
-        "联合早报",
-        "澎湃新闻",
-        "公视"
-      ],
-      "sourceCount": 14,
       "sources": []
     },
     {
@@ -598,26 +916,6 @@
       "sources": []
     },
     {
-      "id": "tung-chee-hwa-dies-at-89-aa76f6",
-      "title": "董建华公祭仪式在香港殡仪馆以国葬规格举行",
-      "description": "香港特别行政区首任行政长官董建华的公祭仪式于2026年9月20日上午在香港殡仪馆举行，灵柩覆盖中华人民共和国国旗，以国葬规格出殡。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-20T06:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-08",
-      "url": "https://kaopu.news/story/2026-09-08/tung-chee-hwa-dies-at-89-aa76f6",
-      "reference": [
-        "联合早报",
-        "英国广播公司",
-        "端传媒",
-        "法广"
-      ],
-      "sourceCount": 26,
-      "sources": []
-    },
-    {
       "id": "market-regulator-releases-five-children-product-cases-946793",
       "title": "市场监管总局公布五起儿童用品质量违法案例",
       "description": "2026年9月20日，市场监管总局公布5起儿童和学生用品质量执法典型案例，涉及玩具、童鞋、校服等产品不合格。",
@@ -840,6 +1138,40 @@
         "日本放送协会"
       ],
       "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "german-state-elections-hit-merz-coalition-e37d2b",
+      "title": "德国两邦议会选举极右极左势力壮大冲击梅尔茨",
+      "description": "2026年9月20日，德国麦克伦堡-西帕默瑞尼亚邦与柏林市邦举行议会选举。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T05:33:02+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/german-state-elections-hit-merz-coalition-e37d2b",
+      "reference": [
+        "法广"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "republicans-use-transgender-issue-for-election-751d59",
+      "title": "共和党将跨性别议题定为2026年中期选举武器",
+      "description": "2026年9月20日，共和党及前总统川普明确将跨性别议题作为2026年中期选举的竞选武器。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T05:33:02+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/republicans-use-transgender-issue-for-election-751d59",
+      "reference": [
+        "法广"
+      ],
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1503,24 +1835,6 @@
         "第一财经"
       ],
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "lpr-unchanged-for-16-months-55e2b5",
-      "title": "9月LPR报价连续16个月保持不变",
-      "description": "中国人民银行授权全国银行间同业拆借中心于2026年9月20日公布贷款市场报价利率（LPR），1年期和5年期以上利率均与上月持平。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-20T01:13:37.482270+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-20",
-      "url": "https://kaopu.news/story/2026-09-20/lpr-unchanged-for-16-months-55e2b5",
-      "reference": [
-        "第一财经",
-        "澎湃新闻"
-      ],
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -2491,76 +2805,6 @@
       "sources": []
     },
     {
-      "id": "typhoon-white-dolphin-causes-billions-in-losses-ceb547",
-      "title": "台风白海豚致8月中国经济损失282.6亿元",
-      "description": "中国应急管理部通报，2026年8月全国自然灾害共造成1262万人次受灾，死亡失踪595人，直接经济损失360.3亿元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T08:57:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/typhoon-white-dolphin-causes-billions-in-losses-ceb547",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "north-korea-hackers-steal-crypto-via-job-interviews-294132",
-      "title": "朝鲜黑客假借求职面试窃取逾百国加密货币",
-      "description": "日本内阁秘书长木原稔9月18日表示，朝鲜黑客组织WaterPlum通过虚假线上求职面试，入侵100多个国家和地区的设备，对全球安全和经济活动构成威胁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T08:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/north-korea-hackers-steal-crypto-via-job-interviews-294132",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-approves-iran-visa-for-un-assembly-e80599",
-      "title": "美国连续第二年拒发阿巴斯签证并批准伊朗代表团参会",
-      "description": "美国国务院于2026年9月18日拒绝向巴勒斯坦总统阿巴斯及约80名官员发放参加第81届联合国大会的签证，这是美方连续第二年采取此类措施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T08:51:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-17",
-      "url": "https://kaopu.news/story/2026-09-17/us-approves-iran-visa-for-un-assembly-e80599",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "法广"
-      ],
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "yoga-inc-closes-coaches-unpaid-e8dc93",
-      "title": "瑜伽品牌Yoga Inc无预警停业欠薪逾4万元",
-      "description": "本地连锁瑜伽品牌Yoga Inc于2026年9月18日无预警关闭淡滨尼和榜鹅的最后两间瑜伽室，全面停业。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T08:43:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/yoga-inc-closes-coaches-unpaid-e8dc93",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "kennedy-center-board-votes-on-closure-94dc74",
       "title": "肯尼迪中心董事会投票关闭主楼翻修两年",
       "description": "美国肯尼迪表演艺术中心董事会于2026年9月15日投票决定，立即关闭该中心主楼进行为期两年的翻修。",
@@ -2578,57 +2822,6 @@
         "澎湃新闻"
       ],
       "sourceCount": 11,
-      "sources": []
-    },
-    {
-      "id": "china-state-media-accuses-anthropic-sharing-data-with-us-318079",
-      "title": "中国官媒指控Anthropic向美情报机构分享数据",
-      "description": "中国官媒“玉渊谭天”于2026年9月19日发文，指控美国人工智能公司Anthropic修改隐私政策，允许公司在认为必要时未经法律程序与美国情报机构共享信息。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T08:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/china-state-media-accuses-anthropic-sharing-data-with-us-318079",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "appeals-court-requires-notice-before-migrant-transfer-83406a",
-      "title": "美上诉法院要求川普政府遣送移民前须通知",
-      "description": "美国联邦第一巡回上诉法院于2026年9月19日维持原判，裁定川普政府在将移民遣送至第三国前，必须事先通知当事人并给予其提出异议的机会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T07:37:02+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/appeals-court-requires-notice-before-migrant-transfer-83406a",
-      "reference": [
-        "法广"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ineos-starts-eu-first-commercial-carbon-storage-096bd2",
-      "title": "英力士启动欧盟首座商业碳封存设施",
-      "description": "化工巨头英力士9月18日宣布，欧盟首座商业规模的二氧化碳封存设施正式投入运营。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T07:18:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/ineos-starts-eu-first-commercial-carbon-storage-096bd2",
-      "reference": [
-        "中央通訊社"
-      ],
-      "sourceCount": 1,
       "sources": []
     }
   ]
