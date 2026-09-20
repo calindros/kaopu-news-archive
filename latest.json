@@ -1,11 +1,385 @@
 {
   "details": {
     "date": "2026-09-20",
-    "timestamp": 1789906726,
+    "timestamp": 1789914620,
     "totalPages": 1,
-    "total": 159
+    "total": 168
   },
   "stories": [
+    {
+      "id": "kennedy-center-board-votes-on-closure-94dc74",
+      "title": "肯尼迪中心董事会投票决定立即关闭主楼翻修两年",
+      "description": "2026年9月15日，华盛顿肯尼迪表演艺术中心董事会投票决定立即关闭主楼，启动为期两年的翻修工程。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T13:13:29+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-14",
+      "url": "https://kaopu.news/story/2026-09-14/kennedy-center-board-votes-on-closure-94dc74",
+      "reference": [
+        "法广",
+        "世界日报",
+        "公视",
+        "澎湃新闻"
+      ],
+      "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "japan-survey-shows-ai-chatbot-attachment-506020",
+      "title": "日本调查显示多数AI聊天机器人用户产生依恋感",
+      "description": "日本广告公司电通于2026年9月20日发布调查结果，显示日本社会正关注人类与AI聊天机器人产生情感依赖的现象。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T13:03:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/japan-survey-shows-ai-chatbot-attachment-506020",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-power-load-hits-record-high-27e263",
+      "title": "中国8月全社会用电量10332亿千瓦时创历史新高",
+      "description": "2026年8月，中国全社会用电量达到10332亿千瓦时，用电负荷攀升至15.6亿千瓦，两项数据均创下历史新高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T13:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/china-power-load-hits-record-high-27e263",
+      "reference": [
+        "联合早报",
+        "第一财经",
+        "澎湃新闻"
+      ],
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "silicon-flow-completes-nearly-900-million-yuan-funding-e6656f",
+      "title": "硅基流动完成近9亿元新融资",
+      "description": "模型服务商硅基流动于2026年9月20日完成近9亿元新融资，年内累计融资额接近29亿元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T12:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/silicon-flow-completes-nearly-900-million-yuan-funding-e6656f",
+      "reference": [
+        "财新"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "csrc-rewards-whistleblowers-17-cases-90c03c",
+      "title": "证监会公示首批吹哨人奖励名单拟对17起案件举报人发奖金",
+      "description": "2026年9月18日，中国证监会官网公示首批“吹哨人”奖励名单，拟对提供17起证券期货违法案件线索的举报人给予奖励，最高奖金100万元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T12:58:47.120677+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/csrc-rewards-whistleblowers-17-cases-90c03c",
+      "reference": [
+        "澎湃新闻",
+        "财新",
+        "第一财经"
+      ],
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "ukraine-drone-attack-moscow-refinery-four-dead-0f1cca",
+      "title": "乌克兰大规模无人机袭击莫斯科致2死20伤",
+      "description": "9月20日，乌克兰在俄罗斯国会选举最后一天对莫斯科及周边地区发动大规模无人机袭击。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T12:57:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/ukraine-drone-attack-moscow-refinery-four-dead-0f1cca",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "north-korea-fires-suspected-ballistic-missile-acd6f1",
+      "title": "朝鲜从元山向日本海发射短程弹道导弹",
+      "description": "韩国军方于9月20日下午3时前后探测到朝鲜从元山附近向日本海方向发射一枚短程弹道导弹。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T12:25:08+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/north-korea-fires-suspected-ballistic-missile-acd6f1",
+      "reference": [
+        "联合早报",
+        "法广",
+        "韩国国际广播电台",
+        "日经"
+      ],
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "courier-firms-raise-fees-in-anhui-jiangsu-fdb748",
+      "title": "多家快递公司上调安徽江苏区域服务费",
+      "description": "自2026年9月20日起，中通、圆通、申通、韵达及极兔等快递公司统一上调安徽、江苏区域的快递服务费，其中江苏区域每票上调不低于0.1元，安徽区域每票最低上调0.15元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T12:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/courier-firms-raise-fees-in-anhui-jiangsu-fdb748",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "philippines-high-school-shooting-one-dead-fdb608",
+      "title": "菲律宾16岁学生受暗网蛊惑校园行凶致3死7伤",
+      "description": "2026年9月18日下午，菲律宾南哥打巴托省邦加镇一所高中发生枪击事件，一名16岁学生开枪行凶后自尽，共造成包括枪手在内的3人死亡、7人受伤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T12:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/philippines-high-school-shooting-one-dead-fdb608",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "法广",
+        "公视"
+      ],
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "pboc-resumes-14-day-reverse-repo-44f1c0",
+      "title": "央行重启14天逆回购投放1000亿元",
+      "description": "中国人民银行于9月18日重启14天逆回购操作，当日投放1000亿元，以提前应对中秋、国庆双节及季末流动性压力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T12:11:30.667352+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/pboc-resumes-14-day-reverse-repo-44f1c0",
+      "reference": [
+        "第一财经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "german-state-elections-hit-merz-coalition-e37d2b",
+      "title": "德国两州选举极右翼势力壮大冲击默茨政府",
+      "description": "2026年9月20日，德国梅克伦堡-前波莫瑞州和柏林举行地方选举。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T12:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/german-state-elections-hit-merz-coalition-e37d2b",
+      "reference": [
+        "法广",
+        "德国之声"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "shanghai-opens-medical-data-for-insurance-b946f3",
+      "title": "上海开放医疗数据推动带病体保险研发",
+      "description": "上海临床创新转化研究院（临转院）与商业保险公司合作，利用开放医疗数据推动专病复发险等“带病体”保险产品的研发与落地。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T12:10:30.668082+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/shanghai-opens-medical-data-for-insurance-b946f3",
+      "reference": [
+        "第一财经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "oil-tanker-shortage-drives-shipping-costs-8d53eb",
+      "title": "超大型油轮短缺推高全球石油运输成本",
+      "description": "2026年9月20日，受超大型油轮短缺影响，全球石油运输成本飙升，导致部分长途原油贸易无利可图，可能进一步扰乱原油供应流动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T12:07:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/oil-tanker-shortage-drives-shipping-costs-8d53eb",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "malaysia-reviews-tuition-centre-bumiputera-rule-9ce679",
+      "title": "马来西亚教育部将检讨补习中心土著持股规定",
+      "description": "马来西亚教育部规定，以公司形式经营的补习中心从明年起更新执照须强制让土著持有三成股权，引发业者强烈反弹。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T11:55:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/malaysia-reviews-tuition-centre-bumiputera-rule-9ce679",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "whale-shark-appears-off-xiao-liuqiu-2ebe4b",
+      "title": "濒危鲸鲨现身屏东小琉球海域",
+      "description": "屏东小琉球电杆礁一带海域于19日出现一只体长约4米的鲸鲨。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T11:53:08+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/whale-shark-appears-off-xiao-liuqiu-2ebe4b",
+      "reference": [
+        "公视"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "anwar-to-meet-loke-over-resignation-bc6c5d",
+      "title": "安华将安排时间与陆兆福讨论辞职事宜",
+      "description": "马来西亚首相安华于2026年9月20日透露，将安排时间与民主行动党秘书长兼交通部长陆兆福会面，讨论其辞去交通部长职务一事。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T11:51:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/anwar-to-meet-loke-over-resignation-bc6c5d",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "singapore-launches-new-bus-routes-2d4ca9",
+      "title": "新加坡推出新巴士路线改善登加兀兰交通",
+      "description": "新加坡陆路交通管理局于9月20日宣布，将通过巴士连接增强计划推出三条新巴士路线，并优化两条现有路线，以改善登加、兀兰等地区的交通连接。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T11:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/singapore-launches-new-bus-routes-2d4ca9",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-tells-iran-ready-to-negotiate-239eae",
+      "title": "伊朗通过卡塔尔向美国提出七项谈判条件",
+      "description": "伊朗最高国家安全委员会秘书雷扎伊于9月19日通过卡塔尔调解方向美国传达七项谈判条件，核心要求包括停止所有战线攻击、解冻伊朗资产并解除海上封锁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T11:47:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-19",
+      "url": "https://kaopu.news/story/2026-09-19/us-tells-iran-ready-to-negotiate-239eae",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "日本放送协会",
+        "财新"
+      ],
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "yellow-ribbon-run-attracts-7500-participants-324b5c",
+      "title": "黄丝带义跑首进市区吸引7500人参与",
+      "description": "2026年9月20日，黄丝带义跑首次在加冷汇（The Kallang）举行，从樟宜监狱中心移师市区，并新增888米亲子跑项目。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T11:39:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/yellow-ribbon-run-attracts-7500-participants-324b5c",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "zhejiang-streamers-arrested-for-illegal-bird-hunting-591091",
+      "title": "浙江两主播直播猎鸟被捕并采取刑事强制措施",
+      "description": "2026年9月10日，浙江台州两名主播王某某、黄某某因直播非法猎捕野生鸟类并售卖狩猎工具，被台州市公安局黄岩分局抓获，并采取刑事强制措施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T11:36:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/zhejiang-streamers-arrested-for-illegal-bird-hunting-591091",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-curbs-oil-price-surge-79d123",
+      "title": "中国抑制国际油价暴涨至200美元",
+      "description": "2026年9月20日，国际能源论坛上，瑞典某能源公司CEO向澎湃新闻表示，得益于中国的市场调控，国际油价未因中东危机和霍尔木兹海峡封锁而暴涨至200美元/桶。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T11:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/china-curbs-oil-price-surge-79d123",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "saudi-capital-riyadh-hit-by-airstrike-b13908",
       "title": "胡塞武装向利雅得发射导弹致机场起火",
@@ -24,6 +398,77 @@
         "日本放送协会"
       ],
       "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "tung-chee-hwa-dies-at-89-aa76f6",
+      "title": "香港首任特首董建华公祭出殡仪式以国葬规格举行",
+      "description": "香港特别行政区首任行政长官董建华的公祭及出殡仪式于2026年9月20日在香港殡仪馆举行，灵柩覆盖中华人民共和国国旗，葬礼规格参照已故全国政协副主席霍英东。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T11:21:43+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-08",
+      "url": "https://kaopu.news/story/2026-09-08/tung-chee-hwa-dies-at-89-aa76f6",
+      "reference": [
+        "联合早报",
+        "英国广播公司",
+        "端传媒",
+        "法广"
+      ],
+      "sourceCount": 29,
+      "sources": []
+    },
+    {
+      "id": "deep-loss-funds-rebound-30-percent-c479ba",
+      "title": "深跌基金反弹超30%资金涌入小微盘股",
+      "description": "截至9月18日，59只在7月单月跌幅超过30%的主动权益基金自8月以来累计上涨超过30%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T11:17:37.042251+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/deep-loss-funds-rebound-30-percent-c479ba",
+      "reference": [
+        "第一财经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "first-18-active-etfs-near-approval-77e629",
+      "title": "首批18只主动ETF获批在即最快下周发售",
+      "description": "首批18只主动管理ETF已进入获批关键窗口。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T11:16:37.440973+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/first-18-active-etfs-near-approval-77e629",
+      "reference": [
+        "第一财经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "former-drug-committee-member-indicted-for-leak-a6e878",
+      "title": "前健保署药品咨委涉泄密遭起诉",
+      "description": "台北地检署于2026年9月20日对一名毛姓女医师提起公诉，指控其涉嫌将三种罕见疾病药物的审查信息外泄给药厂经理。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T11:16:28+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/former-drug-committee-member-indicted-for-leak-a6e878",
+      "reference": [
+        "公视"
+      ],
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -85,23 +530,39 @@
       "sources": []
     },
     {
-      "id": "philippines-high-school-shooting-one-dead-fdb608",
-      "title": "菲律宾15岁高中生受暗网蛊惑校园开枪致三死七伤后自杀",
-      "description": "2026年9月18日下午，菲律宾南部南哥打巴托省邦加镇一所高中发生枪击事件，一名15岁男生持枪在校园内射击，造成两名学生死亡、七人受伤，枪手随后自杀身亡。",
+      "id": "li-chenggang-appointed-trade-representative-6beeeb",
+      "title": "李成钢获任中国国际贸易谈判代表职衔升格",
+      "description": "中国国务院于2026年9月20日任命李成钢为中华人民共和国国际贸易谈判代表，级别为正部长级。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-09-20T10:38:00+00:00",
+      "updatedAt": "2026-09-20T11:00:15+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/philippines-high-school-shooting-one-dead-fdb608",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/li-chenggang-appointed-trade-representative-6beeeb",
       "reference": [
-        "联合早报",
         "澎湃新闻",
-        "法广",
-        "公视"
+        "联合早报",
+        "中央通訊社"
       ],
-      "sourceCount": 6,
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "saudi-arabia-exits-mbridge-platform-15401b",
+      "title": "沙特阿拉伯退出中国主导的数字货币桥平台",
+      "description": "沙特阿拉伯中央银行已于去年退出由中国主导的多边央行数字货币桥（mBridge）平台。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T10:51:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/saudi-arabia-exits-mbridge-platform-15401b",
+      "reference": [
+        "中央通訊社"
+      ],
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -247,26 +708,6 @@
       "sources": []
     },
     {
-      "id": "tung-chee-hwa-dies-at-89-aa76f6",
-      "title": "香港首任特首董建华逝世享年89岁",
-      "description": "香港特别行政区首任行政长官董建华于2026年9月8日21时57分在香港养和医院安详辞世，享年89岁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-20T09:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-08",
-      "url": "https://kaopu.news/story/2026-09-08/tung-chee-hwa-dies-at-89-aa76f6",
-      "reference": [
-        "联合早报",
-        "英国广播公司",
-        "端传媒",
-        "法广"
-      ],
-      "sourceCount": 28,
-      "sources": []
-    },
-    {
       "id": "tibet-ningsuan-faces-bankruptcy-reorganization-b1b5c9",
       "title": "西藏宁算因11年前融资面临破产重整",
       "description": "2026年9月20日，西藏宁算因11年前一笔3.8亿元的股票质押融资陷入资不抵债，面临破产重整倒计时。",
@@ -316,46 +757,6 @@
         "财新"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-tells-iran-ready-to-negotiate-239eae",
-      "title": "伊朗通过卡塔尔向美国提出七项谈判条件",
-      "description": "9月19日，伊朗最高国家安全委员会秘书雷扎伊通过卡塔尔调解人向美国政府传达了开启谈判所需的七项条件，并称正等待美国总统特朗普的回应。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-20T09:45:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/us-tells-iran-ready-to-negotiate-239eae",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "日本放送协会",
-        "财新"
-      ],
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "north-korea-fires-suspected-ballistic-missile-acd6f1",
-      "title": "朝鲜从元山向东部海域发射两枚弹道导弹",
-      "description": "9月20日下午，朝鲜从元山地区向朝鲜半岛东部海域先后发射两枚弹道导弹。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-20T09:44:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-20",
-      "url": "https://kaopu.news/story/2026-09-20/north-korea-fires-suspected-ballistic-missile-acd6f1",
-      "reference": [
-        "联合早报",
-        "法广",
-        "韩国国际广播电台",
-        "日经"
-      ],
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -499,24 +900,6 @@
       "sources": []
     },
     {
-      "id": "li-chenggang-appointed-trade-representative-6beeeb",
-      "title": "李成钢获任中国国际贸易谈判代表",
-      "description": "中国国务院于2026年9月20日任命李成钢为中华人民共和国国际贸易谈判代表（正部长级），同时任命余晓晖为工业和信息化部副部长、潘文博为农业农村部副部长。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-20T09:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-20",
-      "url": "https://kaopu.news/story/2026-09-20/li-chenggang-appointed-trade-representative-6beeeb",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "liu-chunlei-appointed-xinjiang-discipline-secretary-138902",
       "title": "刘春雷任新疆维吾尔自治区纪委书记",
       "description": "中共中央于2026年9月20日批准刘春雷担任新疆维吾尔自治区党委委员、常委和自治区纪委书记。",
@@ -548,24 +931,6 @@
         "第一财经"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-power-load-hits-record-high-27e263",
-      "title": "8月中国用电负荷15.6亿千瓦创历史新高",
-      "description": "国家能源局发布数据显示，2026年8月全社会用电量达10332亿千瓦时，同比增长1.7%；用电负荷攀升至15.6亿千瓦，创历史新高。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-20T09:01:36.638050+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-20",
-      "url": "https://kaopu.news/story/2026-09-20/china-power-load-hits-record-high-27e263",
-      "reference": [
-        "联合早报",
-        "第一财经"
-      ],
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -648,23 +1013,6 @@
       "occurredAt": "",
       "publishedAt": "2026-09-20",
       "url": "https://kaopu.news/story/2026-09-20/nanyang-deputy-mayor-aying-expelled-f70852",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ukraine-drone-attack-moscow-refinery-four-dead-0f1cca",
-      "title": "乌克兰大规模无人机袭击致莫斯科炼油厂受损四人死亡",
-      "description": "乌克兰于9月20日对俄罗斯发动今年以来最大规模的无人机袭击。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-20T08:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-20",
-      "url": "https://kaopu.news/story/2026-09-20/ukraine-drone-attack-moscow-refinery-four-dead-0f1cca",
       "reference": [
         "联合早报"
       ],
@@ -1510,23 +1858,6 @@
         "共同网"
       ],
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "german-state-elections-hit-merz-coalition-e37d2b",
-      "title": "德国两邦议会选举极右极左势力壮大冲击梅尔茨",
-      "description": "2026年9月20日，德国麦克伦堡-西帕默瑞尼亚邦与柏林市邦举行议会选举。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-20T05:33:02+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-20",
-      "url": "https://kaopu.news/story/2026-09-20/german-state-elections-hit-merz-coalition-e37d2b",
-      "reference": [
-        "法广"
-      ],
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2605,24 +2936,6 @@
       "sources": []
     },
     {
-      "id": "freudenberg-opens-humanoid-robot-center-7773ae",
-      "title": "欧洲企业科德宝与恩智浦在华设立机器人创新中心",
-      "description": "2026年9月17日，德国科德宝集团位于上海张江机器人谷的共创中心正式启用，总建筑面积超过2200平方米，面向人形机器人产业提供协作与测试验证平台。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T13:09:35.693322+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/freudenberg-opens-humanoid-robot-center-7773ae",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "ai-industry-news-roundup-aaaac0",
       "title": "AI行业快讯汇总多家企业最新动态",
       "description": "第一财经于2026年9月19日发布AI行业快讯，汇总了OpenAI、谷歌、Anthropic以及三六零与升腾AI的最新动态。",
@@ -2637,26 +2950,6 @@
         "第一财经"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "saudi-arabia-downs-houthi-drone-5aaf74",
-      "title": "特朗普称将决定是否对伊朗发动大规模打击",
-      "description": "美国总统特朗普9月16日表示希望美伊战争接近尾声，并称收到伊朗方面的直接联系。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T12:51:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-16",
-      "url": "https://kaopu.news/story/2026-09-16/saudi-arabia-downs-houthi-drone-5aaf74",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "韩民族日报",
-        "财新"
-      ],
-      "sourceCount": 9,
       "sources": []
     },
     {
@@ -2677,151 +2970,6 @@
         "法广"
       ],
       "sourceCount": 13,
-      "sources": []
-    },
-    {
-      "id": "st-hanchuan-shares-auctioned-over-divorce-debt-bbb87d",
-      "title": "ST瀚川实控人离婚欠款致控股股东持股被拍卖",
-      "description": "2026年9月19日，ST瀚川（瀚川智能，688022.SH）公告称，公司实际控制人蔡昌蔚与前妻刘爱琼的离婚财产纠纷案经二审终审，法院判决蔡昌蔚支付刘爱琼4000万元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T11:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/st-hanchuan-shares-auctioned-over-divorce-debt-bbb87d",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "three-phase-crackdown-on-environmental-fraud-659ad7",
-      "title": "多部门联合部署三阶段打击环境监测造假",
-      "description": "2026年9月18日，生态环境部联合市场监管、公检法等部门在北京召开会议，部署分三阶段深入打击生态环境监测机构弄虚作假问题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T11:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/three-phase-crackdown-on-environmental-fraud-659ad7",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "airbus-tianjin-delivers-first-aircraft-052bee",
-      "title": "空客天津第二条总装线交付首架飞机",
-      "description": "2026年9月19日，空客天津第二条总装线交付了首架飞机，该总装线的中国供应商占比有所提升。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T11:07:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/airbus-tianjin-delivers-first-aircraft-052bee",
-      "reference": [
-        "财新"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "south-korea-anthem-error-asian-games-f0b43e",
-      "title": "名古屋亚运会误播朝鲜国歌向韩方致歉",
-      "description": "2026年9月18日，爱知·名古屋亚运会组委会就男子曲棍球赛前误播朝鲜国歌一事，向韩国体育代表团正式致歉。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T11:00:24+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/south-korea-anthem-error-asian-games-f0b43e",
-      "reference": [
-        "共同网",
-        "中央通訊社",
-        "澎湃新闻"
-      ],
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "oca-bans-taiwan-sports-minister-from-asian-games-ceremony-9e7ec9",
-      "title": "台湾运动部长李洋遭亚奥会拒入场后抗议终获放行",
-      "description": "2026年9月18日，台湾运动部长李洋在名古屋亚运选手村升旗典礼中一度被亚洲奥林匹克理事会（OCA）禁止入场，经台湾代表团抗议协商后最终顺利参加。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T09:32:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/oca-bans-taiwan-sports-minister-from-asian-games-ceremony-9e7ec9",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "sourceCount": 9,
-      "sources": []
-    },
-    {
-      "id": "japan-bank-set-to-raise-rate-7f103c",
-      "title": "日本央行加息至1.25%后实施汇率询价遏制日元贬值",
-      "description": "日本央行于9月18日以7比2的投票结果将政策利率从1.0%上调至1.25%，创下1995年以来最高水平。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T09:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-17",
-      "url": "https://kaopu.news/story/2026-09-17/japan-bank-set-to-raise-rate-7f103c",
-      "reference": [
-        "共同网",
-        "中央通訊社",
-        "日经",
-        "澎湃新闻"
-      ],
-      "sourceCount": 27,
-      "sources": []
-    },
-    {
-      "id": "huang-documentary-tops-netflix-hong-kong-14e50e",
-      "title": "黄之锋纪录片遭党媒批判后登顶Netflix香港榜首",
-      "description": "中共在港媒体文汇报于9月14日刊文批评Netflix纪录片《黄之锋:热血青年vs.超级强权》，指控该片“美化黄之锋罪行”并挑战国家安全底线。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T09:28:31+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/huang-documentary-tops-netflix-hong-kong-14e50e",
-      "reference": [
-        "中央通訊社"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "kennedy-center-board-votes-on-closure-94dc74",
-      "title": "肯尼迪中心董事会投票关闭主楼翻修两年",
-      "description": "美国肯尼迪表演艺术中心董事会于2026年9月15日投票决定，立即关闭该中心主楼进行为期两年的翻修。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T08:33:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-14",
-      "url": "https://kaopu.news/story/2026-09-14/kennedy-center-board-votes-on-closure-94dc74",
-      "reference": [
-        "法广",
-        "世界日报",
-        "公视",
-        "澎湃新闻"
-      ],
-      "sourceCount": 11,
       "sources": []
     }
   ]
