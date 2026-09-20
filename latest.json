@@ -3,13 +3,13 @@
     "date": "2026-09-20",
     "timestamp": 1789922537,
     "totalPages": 1,
-    "total": 174
+    "total": 173
   },
   "stories": [
     {
       "id": "german-state-elections-hit-merz-coalition-e37d2b",
-      "title": "德国基民盟在两州选举中遭历史性挫败",
-      "description": "2026年9月20日，德国基民盟在梅克伦堡-前波莫瑞州和柏林的地方选举中遭遇历史性挫败。",
+      "title": "基民盟两州选举惨败默茨拒绝辞职",
+      "description": "9月20日，德国基民盟在梅克伦堡-前波莫瑞州和柏林的地方选举中均遭败绩。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -21,7 +21,7 @@
         "法广",
         "德国之声"
       ],
-      "sourceCount": 3,
+      "sourceCount": 4,
       "sources": []
     },
     {
@@ -43,8 +43,8 @@
     },
     {
       "id": "bessent-to-meet-he-lifeng-this-weekend-f2198d",
-      "title": "贝森特与何立峰在纽约举行高层会谈为元首会晤铺路",
-      "description": "美国财政部长贝森特与中国国务院副总理何立峰于当地时间9月20日在纽约举行高层会谈，为即将于9月24日举行的中美元首会晤做准备。",
+      "title": "贝森特与何立峰在纽约举行高层会谈为习特会铺路",
+      "description": "美国财政部长贝森特与中国国务院副总理何立峰于2026年9月20日在纽约摩根大通总部举行高层会谈，为计划于9月24日在华盛顿举行的中美元首会晤做准备。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -58,7 +58,7 @@
         "世界日报",
         "澎湃新闻"
       ],
-      "sourceCount": 18,
+      "sourceCount": 19,
       "sources": []
     },
     {
@@ -80,8 +80,8 @@
     },
     {
       "id": "saudi-arabia-downs-houthi-drone-5aaf74",
-      "title": "特朗普权衡对伊朗发动大规模打击以结束战争",
-      "description": "美国总统特朗普于9月16日表示希望持续近七个月的美伊战争接近尾声，并称已收到伊朗方面的直接联系。",
+      "title": "美国与胡塞武装达成互不攻击秘密协议",
+      "description": "美国与也门胡塞武装于上周末在阿曼首都马斯喀特秘密会晤，达成互不攻击协议。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -95,7 +95,7 @@
         "韩民族日报",
         "财新"
       ],
-      "sourceCount": 10,
+      "sourceCount": 11,
       "sources": []
     },
     {
@@ -260,6 +260,24 @@
       "sources": []
     },
     {
+      "id": "france-diesel-price-hits-record-high-cba0f8",
+      "title": "法国柴油均价升至2.41欧元创历史新高",
+      "description": "截至2026年9月20日上午10时30分，法国柴油每公升均价达到2.41欧元，超越前一天创下的历史最高纪录。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-20T14:33:02+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-20",
+      "url": "https://kaopu.news/story/2026-09-20/france-diesel-price-hits-record-high-cba0f8",
+      "reference": [
+        "中央通訊社",
+        "法广"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "saudi-capital-riyadh-hit-by-airstrike-b13908",
       "title": "胡塞武装首次袭击利雅得致机场起火",
       "description": "2026年9月19日，也门胡塞武装对沙特阿拉伯首都利雅得发动大规模导弹和无人机袭击，这是本轮冲突中利雅得首次成为直接攻击目标。",
@@ -316,7 +334,7 @@
     {
       "id": "north-korea-fires-suspected-ballistic-missile-acd6f1",
       "title": "朝鲜一天内两次向东部海域发射短程弹道导弹",
-      "description": "朝鲜于2026年9月20日下午在约三小时内两度向东部海域发射短程弹道导弹，进行武力示威。",
+      "description": "朝鲜于2026年9月20日下午在约三小时间隔内两次向东部海域发射短程弹道导弹。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -330,7 +348,7 @@
         "韩国国际广播电台",
         "日经"
       ],
-      "sourceCount": 8,
+      "sourceCount": 9,
       "sources": []
     },
     {
@@ -406,23 +424,6 @@
         "法广"
       ],
       "sourceCount": 14,
-      "sources": []
-    },
-    {
-      "id": "france-diesel-price-hits-record-high-cba0f8",
-      "title": "中东战争推高油价 法国柴油均价创历史新高",
-      "description": "受中东战争扰乱全球原油供应影响，法国柴油每公升均价于2026年9月20日上涨至2.41欧元（约合新台币87.86元），创下历史新高。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-20T13:33:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-20",
-      "url": "https://kaopu.news/story/2026-09-20/france-diesel-price-hits-record-high-cba0f8",
-      "reference": [
-        "中央通訊社"
-      ],
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3055,23 +3056,6 @@
       "url": "https://kaopu.news/story/2026-09-19/guangzhou-police-crack-reflux-drug-ring-6ae345",
       "reference": [
         "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "italy-minister-warns-energy-price-shock-0117ad",
-      "title": "意大利经济部长警告能源涨价将冲击民众账单",
-      "description": "意大利经济部长乔捷堤9月19日警告，地缘政治导致的能源价格飙涨将很快反映在企业和家庭的账单上，并可能引发新一波经济危机。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-19T14:55:28+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/italy-minister-warns-energy-price-shock-0117ad",
-      "reference": [
-        "中央通訊社"
       ],
       "sourceCount": 1,
       "sources": []
