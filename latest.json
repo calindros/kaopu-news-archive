@@ -1,19 +1,55 @@
 {
   "details": {
     "date": "2026-09-22",
-    "timestamp": 1790043343,
+    "timestamp": 1790051527,
     "totalPages": 1,
-    "total": 265
+    "total": 264
   },
   "stories": [
     {
-      "id": "trump-bans-three-media-from-white-house-91429c",
-      "title": "特朗普禁止三家媒体进入白宫引发联合诉讼与电视网抵制",
-      "description": "2026年9月18日，美国总统特朗普在社交媒体宣布，立即禁止美国有线电视新闻网（CNN）、MS NOW和《政治报》（Politico）进入白宫，理由是三家长时间“报道假新闻”。",
+      "id": "china-sets-world-record-in-air-rifle-d7da6f",
+      "title": "盛李豪王子菲夺亚运射击金牌破世界纪录",
+      "description": "9月22日，在名古屋亚运会射击10米气步枪混合团体决赛中，由盛李豪和王子菲组成的中国队夺得金牌，并打破决赛世界纪录。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-09-22T02:15:00+00:00",
+      "updatedAt": "2026-09-22T03:38:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-22",
+      "url": "https://kaopu.news/story/2026-09-22/china-sets-world-record-in-air-rifle-d7da6f",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "alibaba-launches-zhenwu-v900-ai-chip-6443dd",
+      "title": "阿里巴巴发布新一代AI芯片真武V900并宣布数据中心扩张计划",
+      "description": "2026年9月22日，阿里巴巴在杭州云栖大会上发布新一代AI芯片真武V900，并宣布大规模AI基础设施扩张计划。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-22T03:30:34.143466+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-22",
+      "url": "https://kaopu.news/story/2026-09-22/alibaba-launches-zhenwu-v900-ai-chip-6443dd",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "第一财经"
+      ],
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "trump-bans-three-media-from-white-house-91429c",
+      "title": "特朗普禁止三家媒体进入白宫引发联合诉讼与电视采访抵制",
+      "description": "美国总统特朗普于2026年9月18日在社交媒体宣布，即刻禁止美国有线电视新闻网（CNN）、MS NOW和政客新闻网（Politico）进入白宫，指责这三家媒体“持续报道假新闻”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-22T03:23:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-09-18",
       "url": "https://kaopu.news/story/2026-09-18/trump-bans-three-media-from-white-house-91429c",
@@ -23,7 +59,253 @@
         "澎湃新闻",
         "公视"
       ],
-      "sourceCount": 25,
+      "sourceCount": 29,
+      "sources": []
+    },
+    {
+      "id": "saudi-arabia-boosts-oil-exports-prices-crash-cf928c",
+      "title": "中东局势缓和推动国际油价大幅下跌",
+      "description": "2026年9月21日，受中东地缘政治局势缓和及原油供应恢复预期影响，国际原油期货价格大幅下跌。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-22T03:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-21",
+      "url": "https://kaopu.news/story/2026-09-21/saudi-arabia-boosts-oil-exports-prices-crash-cf928c",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "supreme-court-issues-criminal-civil-rules-2a3c74",
+      "title": "最高法发布司法解释统一民刑交叉案件裁判规则",
+      "description": "最高人民法院于2026年9月22日发布《关于审理涉及刑事犯罪的民事纠纷案件若干问题的规定》，统一民刑交叉案件的裁判规则，旨在防止以刑事手段干预经济纠纷。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-22T03:12:42.748341+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-21",
+      "url": "https://kaopu.news/story/2026-09-21/supreme-court-issues-criminal-civil-rules-2a3c74",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "bitcoin-breaks-85000-usd-january-high-b03c8c",
+      "title": "比特币突破8.7万美元创近7个月新高",
+      "description": "9月21日，比特币价格在多重因素推动下盘中一度升至8.7万美元，较前一日上涨约8%，创今年1月以来新高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-22T03:12:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-21",
+      "url": "https://kaopu.news/story/2026-09-21/bitcoin-breaks-85000-usd-january-high-b03c8c",
+      "reference": [
+        "澎湃新闻",
+        "日经"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "vietnam-leader-rejects-transshipment-trade-e47947",
+      "title": "越南领导人苏林称不接受转口贸易",
+      "description": "越南最高领导人苏林于2026年9月21日在纽约接受彭博电视台专访，明确表示越南不接受转口贸易，强调贸易必须真实、产品必须真正产自越南。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-22T03:03:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-22",
+      "url": "https://kaopu.news/story/2026-09-22/vietnam-leader-rejects-transshipment-trade-e47947",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "guangzhou-police-crack-reflux-drug-ring-6ae345",
+      "title": "诺和诺德配合打击司美格鲁肽回流药",
+      "description": "9月22日，诺和诺德中国就司美格鲁肽“回流药”问题发表声明，表示一贯坚决支持并全力配合国家有关部门依法对医保回流药等非法行为进行严厉打击，并将继续推进授权认证渠道体系。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-22T03:02:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-19",
+      "url": "https://kaopu.news/story/2026-09-19/guangzhou-police-crack-reflux-drug-ring-6ae345",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "xu-xingzhi-directed-fengyun-children-76a9d0",
+      "title": "许幸之导演《风云儿女》及国歌诞生幕后获披露",
+      "description": "2026年9月22日，澎湃新闻通过专访许幸之长子许国庆，回顾了许幸之作为导演、画家、戏剧家等多重身份的艺术成就，重点讲述其1935年导演中国最早抗日题材故事片《风云儿女》及《义勇军进行曲》诞生的幕后故事。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-22T02:55:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-22",
+      "url": "https://kaopu.news/story/2026-09-22/xu-xingzhi-directed-fengyun-children-76a9d0",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "hkex-proposes-trading-split-rules-changes-e3bb94",
+      "title": "港交所拟缩短分拆上市锁定期至一年",
+      "description": "香港交易及结算所有限公司（港交所）旗下联交所于2026年9月21日发布第二阶段上市机制竞争力检讨咨询文件，拟优化上市公司须予公布的交易、关联交易及分拆上市规定，咨询期至2026年11月30日。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-22T02:41:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-21",
+      "url": "https://kaopu.news/story/2026-09-21/hkex-proposes-trading-split-rules-changes-e3bb94",
+      "reference": [
+        "第一财经",
+        "财新"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-first-cross-sea-rail-line-opens-2d326e",
+      "title": "我国首条跨海市域铁路宁象线通车运营",
+      "description": "9月22日，我国首条跨海市域铁路——宁波至象山市域铁路（宁象线）正式通车运营。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-22T02:34:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-22",
+      "url": "https://kaopu.news/story/2026-09-22/china-first-cross-sea-rail-line-opens-2d326e",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-warns-against-drug-precursor-chemicals-bf6e34",
+      "title": "中国禁毒办发布警示通告防范美托咪定和酒石酸制毒风险",
+      "description": "中国国家禁毒委员会办公室于2026年9月22日发布《关于防范美托咪定和酒石酸流入非法渠道用于制毒的警示通告》，提醒相关企业和个人警惕这两种化学品被用于制造毒品的风险。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-22T02:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-22",
+      "url": "https://kaopu.news/story/2026-09-22/china-warns-against-drug-precursor-chemicals-bf6e34",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "byd-recalls-32000-pickups-australia-b528ec",
+      "title": "比亚迪在澳大利亚召回逾3.2万辆皮卡",
+      "description": "2026年9月22日，比亚迪在澳大利亚召回32009辆SHARK 6插电式混合动力皮卡，原因是备胎组件存在缺陷，可能导致备胎在行驶过程中脱落。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-22T02:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-22",
+      "url": "https://kaopu.news/story/2026-09-22/byd-recalls-32000-pickups-australia-b528ec",
+      "reference": [
+        "SBS"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-announces-greenland-security-deal-6db87b",
+      "title": "美国丹麦格陵兰签署协议 美获格陵兰安全永久控制权",
+      "description": "2026年9月22日，美国、丹麦和格陵兰岛在纽约联合国总部签署一项安全协议，赋予美国对格陵兰岛安全事务的永久控制权。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-22T02:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/trump-announces-greenland-security-deal-6db87b",
+      "reference": [
+        "法广",
+        "联合早报",
+        "澎湃新闻",
+        "财新"
+      ],
+      "sourceCount": 13,
+      "sources": []
+    },
+    {
+      "id": "judge-orders-release-of-chinese-red-notice-fugitive-d440b4",
+      "title": "美法官下令释放遭ICE二次逮捕的中国红通人员",
+      "description": "美国联邦治安法官克里斯蒂娜·T·谢伊于2026年9月17日裁定，移民暨海关执法局（ICE）二次逮捕并长期拘留中国红色通缉令对象马凤云的行为侵犯了其程序正当权，下令在24小时内将其释放。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-22T02:22:44+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-22",
+      "url": "https://kaopu.news/story/2026-09-22/judge-orders-release-of-chinese-red-notice-fugitive-d440b4",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-customs-plans-gate-type-inspection-f73cd0",
+      "title": "日本财务省拟2027年试点闸机式海关检查",
+      "description": "日本财务省计划在机场入境海关检查环节引入闸机式检测设备，旅客无需放下行李即可完成查验。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-22T02:22:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-22",
+      "url": "https://kaopu.news/story/2026-09-22/japan-customs-plans-gate-type-inspection-f73cd0",
+      "reference": [
+        "日经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tourism-ministry-launches-national-day-consumption-month-635011",
+      "title": "文旅部启动2026年国庆文旅消费月",
+      "description": "文化和旅游部于9月22日在云南省弥勒市举办2026年全国国庆文化和旅游消费月主场活动，正式启动该消费月。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-22T02:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-22",
+      "url": "https://kaopu.news/story/2026-09-22/tourism-ministry-launches-national-day-consumption-month-635011",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -37,23 +319,6 @@
       "occurredAt": "",
       "publishedAt": "2026-09-22",
       "url": "https://kaopu.news/story/2026-09-22/seven-planetary-boundaries-breached-a1cb50",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-warns-against-drug-precursor-chemicals-bf6e34",
-      "title": "国家禁毒办发布通告防范两种化学品流失制毒",
-      "description": "国家禁毒委员会办公室于2026年9月22日公开发布警示通告，要求防范美托咪定和酒石酸流入非法渠道用于制毒的风险。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-22T02:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-22",
-      "url": "https://kaopu.news/story/2026-09-22/china-warns-against-drug-precursor-chemicals-bf6e34",
       "reference": [
         "澎湃新闻"
       ],
@@ -120,7 +385,7 @@
     {
       "id": "japan-us-south-korea-foreign-ministers-joint-statement-2cf364",
       "title": "日美韩外长纽约会谈发表联合声明",
-      "description": "日本外相茂木敏充、美国国务卿卢比奥、韩国外长赵显于2026年9月21日在纽约举行约40分钟会谈，并发表联合声明。",
+      "description": "日本外相茂木敏充、美国国务卿卢比奥与韩国外长赵显于2026年9月21日在纽约举行三国外长会谈，会后发表联合声明，涵盖朝鲜问题、经济安全合作及台海和平稳定等议题。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -130,9 +395,10 @@
       "url": "https://kaopu.news/story/2026-09-22/japan-us-south-korea-foreign-ministers-joint-statement-2cf364",
       "reference": [
         "韩国国际广播电台",
+        "朝鲜日报",
         "日经"
       ],
-      "sourceCount": 2,
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -225,6 +491,40 @@
       "sources": []
     },
     {
+      "id": "taiwan-stocks-hit-record-high-da2516",
+      "title": "台股早盘大涨882点创48601点新高",
+      "description": "受美股大涨及台积电美国存托凭证（ADR）上涨2.41%激励，台股9月22日早盘最高触及48601.53点，上涨882.69点，创盘中历史新高，并重新站上48000点关口。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-22T01:25:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-22",
+      "url": "https://kaopu.news/story/2026-09-22/taiwan-stocks-hit-record-high-da2516",
+      "reference": [
+        "中央通訊社"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "han-test-system-surges-110-percent-fb56b3",
+      "title": "汉民测试系统上柜首日股价大涨逾110%",
+      "description": "半导体晶圆测试供应商汉民测试系统（汉测）9月22日以每股2250元新台币正式上柜交易，早盘最高触及4745元，涨幅达110.89%，市值突破1289.54亿元新台币。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-22T01:24:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-22",
+      "url": "https://kaopu.news/story/2026-09-22/han-test-system-surges-110-percent-fb56b3",
+      "reference": [
+        "中央通訊社"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "south-korea-ex-generals-sentenced-for-martial-law-riot-c6d885",
       "title": "韩国五名前军方将领因参与紧急戒严内乱一审获重刑",
       "description": "2026年9月21日，首尔中央地方法院对五名参与“12·3紧急戒严”内乱事件的韩国前军方高级将领作出一审判决，全部判处实刑。",
@@ -244,6 +544,23 @@
       "sources": []
     },
     {
+      "id": "xinhua-stock-hits-record-21800-taiwan-7cc168",
+      "title": "信骅股价涨停至21800元创台股纪录",
+      "description": "台股股王信骅9月22日股价涨停至21800元，上涨1980元，创下台股个股股价和单日上涨金额新高纪录。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-22T01:18:28+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-22",
+      "url": "https://kaopu.news/story/2026-09-22/xinhua-stock-hits-record-21800-taiwan-7cc168",
+      "reference": [
+        "中央通訊社"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "pakistani-astronauts-to-fly-with-chinese-crew-b69372",
       "title": "巴基斯坦航天员将与中国航天员同飞空间站",
       "description": "中国载人航天工程副总设计师、特级航天员杨利伟9月22日表示，两名巴基斯坦航天员目前正在科研中心与中国航天员一同执行任务训练，不久后将与中国航天员一起在中国空间站飞行。",
@@ -256,23 +573,6 @@
       "url": "https://kaopu.news/story/2026-09-22/pakistani-astronauts-to-fly-with-chinese-crew-b69372",
       "reference": [
         "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-sets-world-record-in-air-rifle-d7da6f",
-      "title": "中国队打破亚运会气步枪混合团体世界纪录",
-      "description": "2026年9月22日，在爱知·名古屋亚运会10米气步枪混合团体资格赛中，由王子菲、盛李豪组成的中国队打破资格赛世界纪录。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-22T01:13:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-22",
-      "url": "https://kaopu.news/story/2026-09-22/china-sets-world-record-in-air-rifle-d7da6f",
-      "reference": [
-        "澎湃新闻"
       ],
       "sourceCount": 1,
       "sources": []
@@ -369,6 +669,26 @@
         "日经"
       ],
       "sourceCount": 114,
+      "sources": []
+    },
+    {
+      "id": "landmine-blast-injures-three-near-korean-border-9c21fb",
+      "title": "韩军非军事区搜索时触发地雷致3人受伤",
+      "description": "2026年9月21日，韩国陆军第25步兵师前沿部队在韩朝非军事区韩方一侧执行搜索任务时发生地雷爆炸，造成3名官兵受伤，其中两人重伤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-22T01:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-21",
+      "url": "https://kaopu.news/story/2026-09-21/landmine-blast-injures-three-near-korean-border-9c21fb",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "法广",
+        "朝鲜日报"
+      ],
+      "sourceCount": 5,
       "sources": []
     },
     {
@@ -497,6 +817,23 @@
       "sources": []
     },
     {
+      "id": "vietnam-warns-of-power-shortage-from-2027-cd652e",
+      "title": "越南工贸部警告明年起将面临严重缺电威胁",
+      "description": "越南工业贸易部于2026年9月22日向总理提交紧急报告，警告因发电和电网工程严重滞后，叠加高科技产业、人工智能及数据中心用电需求激增，该国从2027年起将面临真正的缺电威胁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-22T00:41:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-22",
+      "url": "https://kaopu.news/story/2026-09-22/vietnam-warns-of-power-shortage-from-2027-cd652e",
+      "reference": [
+        "中央通訊社"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "uk-to-provide-air-refueling-to-saudi-arabia-cead23",
       "title": "英国将向沙特提供空中加油支持应对胡塞袭击",
       "description": "英国首相伯纳姆9月22日宣布，应沙特阿拉伯请求，英国将向其提供防御性空中加油支持，以协助应对也门胡塞武装的袭击。",
@@ -514,6 +851,24 @@
       "sources": []
     },
     {
+      "id": "countries-support-ai-regulation-statement-d4b0b2",
+      "title": "多国领袖签署联合声明要求加强AI监管",
+      "description": "2026年9月22日，挪威、芬兰、澳大利亚、加拿大、德国、西班牙、爱尔兰、荷兰、新加坡、南非、肯尼亚等国领袖以及欧盟委员会主席冯德莱恩共同签署一份联合声明，呼吁对前沿人工智能模型加强监管。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-22T00:33:07+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-21",
+      "url": "https://kaopu.news/story/2026-09-21/countries-support-ai-regulation-statement-d4b0b2",
+      "reference": [
+        "SBS",
+        "法广"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "zhipu-ai-launches-zero-retention-feature-97340e",
       "title": "智谱就AI编程工具上传用户数据致歉并开源ZCode",
       "description": "中国人工智能公司智谱（2513.HK）于9月21日就旗下桌面AI编程工具ZCode的数据安全争议完成整改并向用户致歉，同时正式将ZCode开源至GitHub。",
@@ -528,6 +883,23 @@
         "联合早报",
         "财新",
         "第一财经"
+      ],
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "taiwan-stocks-surge-500-points-27516f",
+      "title": "台股大涨538点收47718点创近期新高",
+      "description": "2026年9月21日，台股在电子权值股带动下大幅上涨，加权指数收于47718.84点，上涨538.09点，涨幅1.14%，成交值新台币8202.15亿元，创近期新高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-22T00:31:07+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-21",
+      "url": "https://kaopu.news/story/2026-09-21/taiwan-stocks-surge-500-points-27516f",
+      "reference": [
+        "中央通訊社"
       ],
       "sourceCount": 4,
       "sources": []
@@ -890,23 +1262,6 @@
       "sources": []
     },
     {
-      "id": "countries-support-ai-regulation-statement-d4b0b2",
-      "title": "20多国支持加强人工智能监管联合声明",
-      "description": "2026年9月21日，20多个国家在联合国大会期间支持一份加强对人工智能监管的联合声明。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-21T21:40:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-21",
-      "url": "https://kaopu.news/story/2026-09-21/countries-support-ai-regulation-statement-d4b0b2",
-      "reference": [
-        "SBS"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "us-considers-belarus-potash-to-cut-canada-dependence-d89e3b",
       "title": "美国考虑改向白俄罗斯购买钾肥以减少对加拿大依赖",
       "description": "2026年9月21日，据加拿大国际广播电台报道，美国正考虑改向白俄罗斯购买钾肥，以减少对加拿大钾肥的依赖。",
@@ -936,23 +1291,6 @@
       "url": "https://kaopu.news/story/2026-09-21/eu-extends-russia-sanctions-three-years-f8fb54",
       "reference": [
         "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "saudi-arabia-boosts-oil-exports-prices-crash-cf928c",
-      "title": "沙特提高海峡原油出口致国际油价重挫",
-      "description": "2026年9月21日，沙特阿拉伯通过霍尔木兹海峡提高原油出口，同时市场对伊朗战事可能取得外交进展抱有新的期望，导致国际油价大幅下跌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-21T21:07:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-21",
-      "url": "https://kaopu.news/story/2026-09-21/saudi-arabia-boosts-oil-exports-prices-crash-cf928c",
-      "reference": [
-        "中央通訊社"
       ],
       "sourceCount": 1,
       "sources": []
@@ -1007,26 +1345,6 @@
         "中央通訊社"
       ],
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "trump-announces-greenland-security-deal-6db87b",
-      "title": "美国与丹麦及格陵兰签署安全协议",
-      "description": "2026年9月22日，美国、丹麦与格陵兰自治政府在纽约联合国总部签署一项安全协议，美国由此获得对格陵兰安全事务的永久控制权。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-21T20:14:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/trump-announces-greenland-security-deal-6db87b",
-      "reference": [
-        "法广",
-        "联合早报",
-        "澎湃新闻",
-        "财新"
-      ],
-      "sourceCount": 12,
       "sources": []
     },
     {
@@ -1752,23 +2070,6 @@
       "sources": []
     },
     {
-      "id": "hkex-proposes-trading-split-rules-changes-e3bb94",
-      "title": "港交所拟优化上市公司交易及分拆上市规则",
-      "description": "香港联交所于2026年9月21日发布第二阶段咨询文件，拟优化上市公司在须予公布的交易、关联交易及分拆上市方面的监管规定。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-21T13:29:40.707441+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-21",
-      "url": "https://kaopu.news/story/2026-09-21/hkex-proposes-trading-split-rules-changes-e3bb94",
-      "reference": [
-        "第一财经"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "materials-ky-buys-blackstone-acetate-tow-maker-19054e",
       "title": "材料-KY以3.68亿美元收购黑石旗下醋酸纤维丝束商",
       "description": "材料-KY（济南大自然新材料股份有限公司）于2026年9月21日宣布，将以约3.68亿美元收购黑石集团旗下全球前三大醋酸纤维丝束制造商Cerdia Holding的全部股权。",
@@ -1834,23 +2135,6 @@
       "url": "https://kaopu.news/story/2026-09-21/china-crewed-lunar-landing-by-2030-7c2fe2",
       "reference": [
         "第一财经"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "bitcoin-breaks-85000-usd-january-high-b03c8c",
-      "title": "比特币突破8.5万美元创今年1月以来新高",
-      "description": "9月21日，比特币价格盘中突破8.5万美元关口，最高升至约8.52万美元，创今年1月以来新高，日内涨幅约5%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-21T13:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-21",
-      "url": "https://kaopu.news/story/2026-09-21/bitcoin-breaks-85000-usd-january-high-b03c8c",
-      "reference": [
-        "澎湃新闻"
       ],
       "sourceCount": 1,
       "sources": []
@@ -3340,25 +3624,6 @@
       "sources": []
     },
     {
-      "id": "landmine-blast-injures-three-near-korean-border-9c21fb",
-      "title": "韩朝非军事区韩方一侧地雷爆炸致3名韩国军人受伤",
-      "description": "2026年9月21日，韩朝非军事区韩方一侧发生地雷爆炸，造成3名韩国军人受伤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-21T06:33:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-21",
-      "url": "https://kaopu.news/story/2026-09-21/landmine-blast-injures-three-near-korean-border-9c21fb",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "法广"
-      ],
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "australia-releases-intergenerational-report-adec86",
       "title": "澳大利亚代际报告预测年轻劳动者财政压力增大",
       "description": "澳大利亚国库部长吉姆·查默斯于2026年9月21日中午发布最新完整的《代际报告》。",
@@ -4034,23 +4299,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-stocks-surge-500-points-27516f",
-      "title": "台积电领涨台股收涨538点",
-      "description": "2026年9月21日，台股在台积电等电子权值股带动下大幅上涨，加权指数收于47718.84点，上涨538.09点，涨幅1.14%，盘中最高触及47750.98点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-21T05:46:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-21",
-      "url": "https://kaopu.news/story/2026-09-21/taiwan-stocks-surge-500-points-27516f",
-      "reference": [
-        "中央通訊社"
-      ],
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "beijing-probes-four-online-travel-platforms-0f1029",
       "title": "北京对飞猪同程途家美团四平台立案调查",
       "description": "9月19日，北京市市场监督管理局对飞猪、同程旅行、途家、美团四家在线旅游住宿平台涉嫌违法行为立案调查。",
@@ -4394,264 +4642,6 @@
         "澎湃新闻"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "shunde-textile-factory-fire-kills-eight-934e58",
-      "title": "广东顺德纺织公司火灾致8死1伤",
-      "description": "2026年9月20日下午，广东省佛山市顺德区一家纺织公司厂区发生火灾。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-21T03:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-21",
-      "url": "https://kaopu.news/story/2026-09-21/shunde-textile-factory-fire-kills-eight-934e58",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "three-phase-crackdown-on-environmental-fraud-659ad7",
-      "title": "五部门联合整治生态环境技术服务机构造假",
-      "description": "2026年9月21日，生态环境部联合最高人民法院、最高人民检察院、公安部、市场监管总局印发通知，部署11项具体措施，严厉打击生态环境监测等技术服务机构的数据弄虚作假行为。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-21T03:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-19",
-      "url": "https://kaopu.news/story/2026-09-19/three-phase-crackdown-on-environmental-fraud-659ad7",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "trump-considers-military-strike-or-negotiation-on-iran-1b2690",
-      "title": "特朗普称正考虑军事打击或谈判解决伊朗问题",
-      "description": "美国总统特朗普于2026年9月21日表示，正在就伊朗问题进入“决策模式”，考虑选项包括军事打击、经济施压或谈判。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-21T02:59:50+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-21",
-      "url": "https://kaopu.news/story/2026-09-21/trump-considers-military-strike-or-negotiation-on-iran-1b2690",
-      "reference": [
-        "韩民族日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ai-model-development-cycle-shrinks-to-44-days-81854c",
-      "title": "中美AI模型开发周期缩短至44天",
-      "description": "据日经2026年9月21日报道，2026年4月至9月期间，中美两国9家AI公司的高性能模型发布平均间隔为44天，仅为2023年1月至2026年3月平均间隔125天的约三分之一。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-21T02:52:31+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-21",
-      "url": "https://kaopu.news/story/2026-09-21/ai-model-development-cycle-shrinks-to-44-days-81854c",
-      "reference": [
-        "日经"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "wang-hongjun-dies-at-100-aeeeae",
-      "title": "百岁文物专家王宏钧在北京逝世",
-      "description": "著名文物专家和博物馆学家、原中国历史博物馆副馆长王宏钧因病于2026年9月15日在北京逝世，享年100岁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-21T02:51:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-21",
-      "url": "https://kaopu.news/story/2026-09-21/wang-hongjun-dies-at-100-aeeeae",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "catastrophe-bonds-enter-china-market-4cf6ea",
-      "title": "巨灾债券创新工具进入中国市场",
-      "description": "据财新2026年9月21日报道，巨灾债券这一将巨灾风险从保险领域转移至资本市场的创新工具，正在进入中国市场。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-21T02:33:04.380271+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-21",
-      "url": "https://kaopu.news/story/2026-09-21/catastrophe-bonds-enter-china-market-4cf6ea",
-      "reference": [
-        "财新"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "qiu-zhongjian-dies-at-93-10f395",
-      "title": "石油地质专家邱中建院士逝世享年93岁",
-      "description": "著名石油地质专家、中国工程院院士邱中建于2026年9月17日逝世，享年93岁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-21T02:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-21",
-      "url": "https://kaopu.news/story/2026-09-21/qiu-zhongjian-dies-at-93-10f395",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "fake-medical-license-companies-shut-down-f71483",
-      "title": "西安绵阳两家公司涉医师资格造假被停业调查",
-      "description": "9月19日，总台报道曝光陕西西安的陕西掌中书教育科技有限公司和四川绵阳的四川医承启教育咨询有限公司，在短视频平台公开叫卖医师资格考试报名造假服务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-21T02:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-21",
-      "url": "https://kaopu.news/story/2026-09-21/fake-medical-license-companies-shut-down-f71483",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "kyoto-national-museum-holds-genji-exhibition-c4acd4",
-      "title": "京都国立博物馆将举办《源氏物语》特别展",
-      "description": "京都国立博物馆将于2026年10月6日至11月29日举办《源氏物语：王朝的辉煌》特别展，该展览随后将于2027年1月19日至3月14日移至东京国立博物馆展出。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-21T02:22:33+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-21",
-      "url": "https://kaopu.news/story/2026-09-21/kyoto-national-museum-holds-genji-exhibition-c4acd4",
-      "reference": [
-        "日经"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-accuses-china-iran-using-ai-influence-campaign-5eb72d",
-      "title": "美方指控中伊首次用开源AI模型开展影响力行动",
-      "description": "美国官员于2026年9月21日指控，中国和伊朗首次利用基于中国开源模型的人工智能体，以极少人工干预大规模开展从创建虚假账户到协调信息传播的影响力行动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-21T02:14:53+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-21",
-      "url": "https://kaopu.news/story/2026-09-21/us-accuses-china-iran-using-ai-influence-campaign-5eb72d",
-      "reference": [
-        "纽约时报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "global-long-term-rates-rise-despite-rate-cuts-0505cb",
-      "title": "全球长期利率在降息潮中逆势攀升",
-      "description": "2026年9月21日，全球长期利率在主要央行降息背景下仍保持高位，反映资本市场定价逻辑发生深层转变。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-21T02:12:33+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-21",
-      "url": "https://kaopu.news/story/2026-09-21/global-long-term-rates-rise-despite-rate-cuts-0505cb",
-      "reference": [
-        "日经"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "supreme-court-issues-criminal-civil-rules-2a3c74",
-      "title": "最高法发布民刑交叉案件司法解释明起施行",
-      "description": "最高人民法院于2026年9月22日起施行《关于审理涉及刑事犯罪的民事纠纷案件若干问题的规定》，统一民刑交叉案件的裁判规则。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-21T02:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-21",
-      "url": "https://kaopu.news/story/2026-09-21/supreme-court-issues-criminal-civil-rules-2a3c74",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "cathay-survey-shows-79-percent-expect-inflation-above-2-e6f70c",
-      "title": "国泰金调查显示近八成民众预期一年后通胀超2%",
-      "description": "国泰金控于2026年9月21日发布9月国民经济信心调查结果。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-21T01:50:15+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-21",
-      "url": "https://kaopu.news/story/2026-09-21/cathay-survey-shows-79-percent-expect-inflation-above-2-e6f70c",
-      "reference": [
-        "中央通訊社"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "wall-street-predicts-1-trillion-short-term-debt-6a844a",
-      "title": "华尔街预测美国未来一年短债发行将达1万亿美元",
-      "description": "据金融时报报道，华尔街多家银行预测，美国在未来一年可能通过发行短期国库券举债高达1万亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-21T01:13:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-21",
-      "url": "https://kaopu.news/story/2026-09-21/wall-street-predicts-1-trillion-short-term-debt-6a844a",
-      "reference": [
-        "中央通訊社"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "iran-war-hits-poor-african-nations-4c3535",
-      "title": "伊朗官方数据显示战争首季经济萎缩10.1%",
-      "description": "伊朗统计中心公布的数据显示，在波斯历第一季度（2026年3月下旬至6月下旬），伊朗国内生产总值同比萎缩10.1%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-21T01:03:05+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/iran-war-hits-poor-african-nations-4c3535",
-      "reference": [
-        "纽约时报",
-        "联合早报",
-        "财新",
-        "法广"
-      ],
-      "sourceCount": 5,
       "sources": []
     }
   ]
