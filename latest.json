@@ -1,11 +1,65 @@
 {
   "details": {
     "date": "2026-09-24",
-    "timestamp": 1790267293,
+    "timestamp": 1790281131,
     "totalPages": 1,
-    "total": 254
+    "total": 256
   },
   "stories": [
+    {
+      "id": "xi-us-visit-agriculture-announcement-763a39",
+      "title": "习近平抵达华盛顿对美国进行国事访问",
+      "description": "中国国家主席习近平于2026年9月24日对美国进行国事访问，与美国总统特朗普在白宫举行会谈、欢迎仪式及国宴。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-24T18:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-04",
+      "url": "https://kaopu.news/story/2026-09-04/xi-us-visit-agriculture-announcement-763a39",
+      "reference": [
+        "联合早报",
+        "世界日报",
+        "中央通訊社",
+        "德国之声"
+      ],
+      "sourceCount": 374,
+      "sources": []
+    },
+    {
+      "id": "us-mortgage-rate-hits-7-percent-4df049",
+      "title": "美国30年期房贷利率突破7%创近20个月新高",
+      "description": "美国30年期固定房贷平均利率于2026年9月24日升至7.03%，为2025年1月16日以来最高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-24T18:45:47+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-24",
+      "url": "https://kaopu.news/story/2026-09-24/us-mortgage-rate-hits-7-percent-4df049",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nyc-congestion-pricing-funds-night-delivery-d17528",
+      "title": "纽约堵车费拨款500万补助商家夜间送货",
+      "description": "纽约市交通局9月23日宣布，将从堵车费收入中拨款500万美元，为愿意将货物配送改至夜间或凌晨的本地商家提供一次性补助，以减少日间交通拥堵和废气排放。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-24T18:30:20+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-24",
+      "url": "https://kaopu.news/story/2026-09-24/nyc-congestion-pricing-funds-night-delivery-d17528",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "walmart-settles-expired-baby-formula-case-dc71fc",
       "title": "沃尔玛因售过期婴儿奶粉在加州和解1600万美元",
@@ -24,23 +78,23 @@
       "sources": []
     },
     {
-      "id": "xi-us-visit-agriculture-announcement-763a39",
-      "title": "习近平与特朗普白宫会谈达成贸易休战延长协议",
-      "description": "中国国家主席习近平于2026年9月24日对美国进行国事访问，在白宫与美国总统特朗普举行正式会谈。",
+      "id": "trump-bans-three-media-from-white-house-91429c",
+      "title": "联邦法官下令白宫恢复三家媒体采访权限",
+      "description": "美国哥伦比亚特区联邦地区法院法官蒂莫西·凯利于9月24日发布一项为期14天的临时限制令，要求特朗普政府立即恢复CNN、MS NOW和Politico三家媒体的白宫采访权限。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-09-24T17:46:00+00:00",
+      "updatedAt": "2026-09-24T17:02:12+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-09-04",
-      "url": "https://kaopu.news/story/2026-09-04/xi-us-visit-agriculture-announcement-763a39",
+      "publishedAt": "2026-09-18",
+      "url": "https://kaopu.news/story/2026-09-18/trump-bans-three-media-from-white-house-91429c",
       "reference": [
+        "SBS",
         "联合早报",
-        "世界日报",
-        "中央通訊社",
-        "德国之声"
+        "澎湃新闻",
+        "公视"
       ],
-      "sourceCount": 370,
+      "sourceCount": 45,
       "sources": []
     },
     {
@@ -520,26 +574,6 @@
         "公视"
       ],
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "trump-bans-three-media-from-white-house-91429c",
-      "title": "联邦法官裁定白宫须恢复三家被禁媒体采访证",
-      "description": "美国哥伦比亚特区联邦地区法院法官蒂莫西·凯利于9月24日发布临时限制令，要求白宫立即恢复CNN、MS NOW新闻频道和《政治报》三家媒体的记者证，为期14天。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-24T13:05:20+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-18",
-      "url": "https://kaopu.news/story/2026-09-18/trump-bans-three-media-from-white-house-91429c",
-      "reference": [
-        "SBS",
-        "联合早报",
-        "澎湃新闻",
-        "公视"
-      ],
-      "sourceCount": 44,
       "sources": []
     },
     {
