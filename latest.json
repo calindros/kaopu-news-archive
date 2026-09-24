@@ -1,15 +1,180 @@
 {
   "details": {
     "date": "2026-09-24",
-    "timestamp": 1790212781,
+    "timestamp": 1790216578,
     "totalPages": 1,
-    "total": 266
+    "total": 269
   },
   "stories": [
     {
+      "id": "bessent-to-meet-he-lifeng-this-weekend-f2198d",
+      "title": "中美同意将贸易休战协议延长两个月至明年1月",
+      "description": "美国财政部长贝森特与中国国务院副总理何立峰于2026年9月23日在华盛顿举行磋商，双方同意将2025年10月达成的“釜山协议”延长两个月，新的截止日期为2027年1月10日。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-24T01:17:40+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-15",
+      "url": "https://kaopu.news/story/2026-09-15/bessent-to-meet-he-lifeng-this-weekend-f2198d",
+      "reference": [
+        "联合早报",
+        "SBS",
+        "世界日报",
+        "澎湃新闻"
+      ],
+      "sourceCount": 48,
+      "sources": []
+    },
+    {
+      "id": "softbank-issues-bonds-for-openai-investment-842b30",
+      "title": "软银发行111亿美元垃圾债为OpenAI投资筹资",
+      "description": "软银集团于9月24日宣布发行总额111亿美元的公司债，用于支付其对OpenAI后续投资案的第三期款项。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-24T01:17:40+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-21",
+      "url": "https://kaopu.news/story/2026-09-21/softbank-issues-bonds-for-openai-investment-842b30",
+      "reference": [
+        "中央通訊社",
+        "日经"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "india-joins-japan-us-semiconductor-supply-chain-5ec0a1",
+      "title": "印度联合日美企业打造半导体供应链",
+      "description": "印度政府于2026年9月24日宣布，通过超2万亿日元补贴计划，联合日本和美国企业构建半导体供应链，以降低对中国的依赖。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-24T01:10:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-24",
+      "url": "https://kaopu.news/story/2026-09-24/india-joins-japan-us-semiconductor-supply-chain-5ec0a1",
+      "reference": [
+        "日经"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "houthis-warn-to-strike-us-interests-d0fd49",
+      "title": "胡塞武装警告将打击美国中东利益",
+      "description": "也门胡塞武装军事顾问索尔9月22日接受法新社独家采访时警告，如果美国介入也门冲突支持沙特阿拉伯，或试图控制曼德海峡，胡塞武装将打击美国在中东地区的利益。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-24T01:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-24",
+      "url": "https://kaopu.news/story/2026-09-24/houthis-warn-to-strike-us-interests-d0fd49",
+      "reference": [
+        "联合早报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "xi-us-visit-agriculture-announcement-763a39",
+      "title": "特朗普破例亲赴机场迎接习近平抵美",
+      "description": "中国国家主席习近平于2026年9月23日下午乘专机抵达华盛顿附近的安德鲁斯联合基地，应美国总统特朗普邀请对美国进行国事访问。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-24T01:02:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-04",
+      "url": "https://kaopu.news/story/2026-09-04/xi-us-visit-agriculture-announcement-763a39",
+      "reference": [
+        "联合早报",
+        "世界日报",
+        "中央通訊社",
+        "德国之声"
+      ],
+      "sourceCount": 222,
+      "sources": []
+    },
+    {
+      "id": "deepseek-publishes-agent-sandbox-paper-6e393e",
+      "title": "DeepSeek发布大规模Agent训练沙盒系统",
+      "description": "2026年9月19日，中国人工智能公司DeepSeek在预印本平台arXiv发表论文，首次系统披露其用于大规模智能体（Agent）强化学习训练的生产级沙盒基础设施DSec。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-24T00:58:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-23",
+      "url": "https://kaopu.news/story/2026-09-23/deepseek-publishes-agent-sandbox-paper-6e393e",
+      "reference": [
+        "第一财经",
+        "澎湃新闻"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "ny-stocks-fall-on-september-23-2b4a77",
+      "title": "美债收益率升破5%拖累美股三大指数全线下跌",
+      "description": "受美国国债收益率飙升至近二十年高位以及中东地缘政治紧张局势加剧的双重冲击，纽约股市三大指数在9月23日全面收跌。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-24T00:53:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-23",
+      "url": "https://kaopu.news/story/2026-09-23/ny-stocks-fall-on-september-23-2b4a77",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "法广",
+        "第一财经"
+      ],
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "gop-senators-urge-unfreeze-taiwan-aid-473613",
+      "title": "四名共和党参议员促特朗普解冻对台援助",
+      "description": "四名美国共和党联邦参议员于2026年9月23日致函国务卿鲁比奥和国防部长赫格塞斯，要求恢复总额超过150亿美元的对台湾国安援助。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-24T00:52:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-23",
+      "url": "https://kaopu.news/story/2026-09-23/gop-senators-urge-unfreeze-taiwan-aid-473613",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-stock-rally-drives-early-retirement-04772a",
+      "title": "美股连涨推动退休资产增值 部分美国人提前离职",
+      "description": "美国银行经济学家Stephen Juneau和Aditya Bhave将当前情况形容为一场由股票推动的“退休派对”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-24T00:29:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-24",
+      "url": "https://kaopu.news/story/2026-09-24/us-stock-rally-drives-early-retirement-04772a",
+      "reference": [
+        "世界日报"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "altman-to-attend-un-ai-security-meeting-2d2720",
-      "title": "OpenAI首席执行官阿特曼在安理会警告AI需谨慎发展",
-      "description": "2026年9月23日，OpenAI首席执行官阿特曼在联合国安理会公开会议上发出警告，称人工智能系统能力不断增强，可能超越现有机构的管控能力，业界必须极度谨慎发展。",
+      "title": "OpenAI首席执行官阿特曼在联合国安理会警告AI发展须极度谨慎",
+      "description": "2026年9月23日，OpenAI首席执行官阿特曼在联合国安理会一场聚焦人工智能与国际安全的会议上发出警告，称AI行业不能因为潜在利益巨大就承担过高的技术风险，必须极度谨慎地推进发展。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -23,7 +188,7 @@
         "中央通訊社",
         "日经"
       ],
-      "sourceCount": 6,
+      "sourceCount": 8,
       "sources": []
     },
     {
@@ -64,8 +229,8 @@
     },
     {
       "id": "rubio-says-trump-to-meet-china-at-apec-g20-459d35",
-      "title": "美国邀请普京参加G20峰会俄方将考虑",
-      "description": "美国国务卿鲁比奥9月24日在联合国大会期间宣布，美国总统特朗普已邀请俄罗斯总统普京出席12月在佛罗里达州迈阿密举行的二十国集团（G20）峰会。",
+      "title": "美国邀请普京参加G20峰会 俄方将考虑",
+      "description": "美国国务卿鲁比奥9月23日在联合国大会期间宣布，美国总统特朗普已邀请俄罗斯总统普京参加12月在迈阿密举行的二十国集团（G20）峰会。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -74,9 +239,10 @@
       "publishedAt": "2026-09-23",
       "url": "https://kaopu.news/story/2026-09-23/rubio-says-trump-to-meet-china-at-apec-g20-459d35",
       "reference": [
-        "联合早报"
+        "联合早报",
+        "法广"
       ],
-      "sourceCount": 2,
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -259,45 +425,6 @@
       "sources": []
     },
     {
-      "id": "bessent-to-meet-he-lifeng-this-weekend-f2198d",
-      "title": "美中同意将贸易停火协议延长两个月",
-      "description": "美国与中国同意将原定2026年11月10日到期的贸易停火协议延长两个月，至2027年1月10日。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-23T23:17:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-15",
-      "url": "https://kaopu.news/story/2026-09-15/bessent-to-meet-he-lifeng-this-weekend-f2198d",
-      "reference": [
-        "联合早报",
-        "SBS",
-        "世界日报",
-        "澎湃新闻"
-      ],
-      "sourceCount": 47,
-      "sources": []
-    },
-    {
-      "id": "ny-stocks-fall-on-september-23-2b4a77",
-      "title": "美债收益率飙升与地缘紧张拖累美股三大指数全线下跌",
-      "description": "2026年9月23日，美国股市三大指数全线收低。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-23T23:13:38.638557+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-23",
-      "url": "https://kaopu.news/story/2026-09-23/ny-stocks-fall-on-september-23-2b4a77",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "第一财经"
-      ],
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "dji-and-inst360-compete-in-imaging-market-76b20b",
       "title": "大疆与影石竞逐智能影像市场",
       "description": "财新9月23日报道，云台相机已成为手持智能影像市场的核心增长动力，大疆与影石在该领域展开激烈竞争。",
@@ -344,6 +471,23 @@
       "url": "https://kaopu.news/story/2026-09-23/australian-chinese-emergency-information-gap-bcf604",
       "reference": [
         "SBS"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "zelenskyy-accuses-putin-47-nations-fighters-5677a0",
+      "title": "泽伦斯基指控普丁动用47国公民参战",
+      "description": "乌克兰总统泽伦斯基9月23日在联合国指控俄罗斯总统普丁在俄乌战争中动用来自47个国家的公民参战。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-23T22:03:38+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-24",
+      "url": "https://kaopu.news/story/2026-09-24/zelenskyy-accuses-putin-47-nations-fighters-5677a0",
+      "reference": [
+        "法广"
       ],
       "sourceCount": 1,
       "sources": []
@@ -514,23 +658,6 @@
       "url": "https://kaopu.news/story/2026-09-23/canada-housing-production-must-double-422e96",
       "reference": [
         "加拿大国际广播电台"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "gop-senators-urge-unfreeze-taiwan-aid-473613",
-      "title": "四名共和党参议员吁解冻对台逾150亿美元援助",
-      "description": "2026年9月23日，四名共和党籍联邦参议员致信美国国务卿卢比欧与战争部长赫格塞斯，呼吁川普政府解冻遭搁置的对台湾逾150亿美元国家安全援助。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-23T17:15:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-23",
-      "url": "https://kaopu.news/story/2026-09-23/gop-senators-urge-unfreeze-taiwan-aid-473613",
-      "reference": [
-        "中央通訊社"
       ],
       "sourceCount": 1,
       "sources": []
@@ -717,23 +844,6 @@
         "财新"
       ],
       "sourceCount": 13,
-      "sources": []
-    },
-    {
-      "id": "deepseek-publishes-agent-sandbox-paper-6e393e",
-      "title": "DeepSeek发布智能体沙箱论文并引入新任CFO",
-      "description": "DeepSeek于9月23日公开一篇31页论文，介绍其内部使用的生产级智能体训练沙箱平台DSec。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-23T14:55:34.849104+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-23",
-      "url": "https://kaopu.news/story/2026-09-23/deepseek-publishes-agent-sandbox-paper-6e393e",
-      "reference": [
-        "第一财经"
-      ],
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -4572,23 +4682,6 @@
       "sources": []
     },
     {
-      "id": "meta-singapore-police-fraud-accounts-4b277f",
-      "title": "Meta与新加坡警方合作打击逾370万涉诈账户",
-      "description": "Meta与新加坡警察部队于2026年9月23日公布合作成果，双方在过去两年加强信息共享，今年7月根据警方线索在超过360万个空壳页面被用于诈骗前采取行动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-23T01:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-23",
-      "url": "https://kaopu.news/story/2026-09-23/meta-singapore-police-fraud-accounts-4b277f",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "taiwan-cement-buys-ukraine-ifcem-3d893d",
       "title": "台泥拟7.5亿欧元收购乌克兰第二大水泥商",
       "description": "台泥于2026年9月23日召开临时董事会，通过授权旗下荷兰子公司以不超过7.5亿欧元的企业价值，推进收购乌克兰第二大水泥建材公司IFCEM等企业的100%股权。",
@@ -4623,23 +4716,6 @@
       "sources": []
     },
     {
-      "id": "san-francisco-light-art-attracts-night-visitors-fd129c",
-      "title": "旧金山多处灯光艺术装置免费开放吸引夜间游客",
-      "description": "非营利艺术组织Illuminate于9月21日至25日在旧金山恩典座堂推出「Grace Window」灯光作品，从费尔蒙酒店屋顶发射25道雷射光束，跨越约720呎射入座堂玫瑰窗的彩色玻璃。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-23T00:19:51+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-23",
-      "url": "https://kaopu.news/story/2026-09-23/san-francisco-light-art-attracts-night-visitors-fd129c",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "italy-deficit-exceeds-eu-limit-keeps-procedure-88c03e",
       "title": "意大利2025年赤字超欧盟上限无法脱离监管程序",
       "description": "意大利国家统计局9月23日确认，该国2025年财政赤字占GDP比重为3.1%，未能降至欧盟规定的3%门槛以下，这意味着意大利无法提前脱离欧盟“超额赤字程序”。",
@@ -4654,24 +4730,6 @@
         "中央通訊社"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ineos-suspends-three-uk-plants-ef3079",
-      "title": "英力士因天然气价格高涨暂停3座英国工厂",
-      "description": "2026年9月22日，石化巨头英力士公司宣布，因欧洲天然气价格高涨，暂停其位于英国赫尔的3座工厂营运。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-22T21:33:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-22",
-      "url": "https://kaopu.news/story/2026-09-22/ineos-suspends-three-uk-plants-ef3079",
-      "reference": [
-        "中央通訊社",
-        "法广"
-      ],
-      "sourceCount": 2,
       "sources": []
     }
   ]
