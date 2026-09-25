@@ -1,19 +1,19 @@
 {
   "details": {
-    "date": "2026-09-24",
-    "timestamp": 1790288152,
+    "date": "2026-09-25",
+    "timestamp": 1790296336,
     "totalPages": 1,
     "total": 257
   },
   "stories": [
     {
       "id": "xi-us-visit-agriculture-announcement-763a39",
-      "title": "习近平抵达华盛顿对美国进行国事访问",
-      "description": "中国国家主席习近平于2026年9月24日对美国进行国事访问，与美国总统特朗普在白宫举行会谈。",
+      "title": "习近平与特朗普白宫会谈三小时 中美贸易休战延长两个月",
+      "description": "中国国家主席习近平于2026年9月24日对美国进行国事访问，与美国总统特朗普在白宫举行约三小时会谈，讨论安全、贸易、科技、人工智能、台湾问题及伊朗局势。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-09-24T22:05:00+00:00",
+      "updatedAt": "2026-09-24T23:18:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-09-04",
       "url": "https://kaopu.news/story/2026-09-04/xi-us-visit-agriculture-announcement-763a39",
@@ -23,7 +23,64 @@
         "中央通訊社",
         "德国之声"
       ],
-      "sourceCount": 380,
+      "sourceCount": 384,
+      "sources": []
+    },
+    {
+      "id": "fed-officials-warn-strong-demand-may-fuel-inflation-d0c6f4",
+      "title": "美债收益率创二十余年新高道指三连阴",
+      "description": "2026年9月24日，美国金融市场遭遇债券抛售潮，30年期国债收益率一度触及5.501%，创2004年6月以来最高水平；10年期国债收益率升至5.223%，为2007年6月以来新高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-24T23:10:35.620769+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-21",
+      "url": "https://kaopu.news/story/2026-09-21/fed-officials-warn-strong-demand-may-fuel-inflation-d0c6f4",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "中央通訊社",
+        "日经"
+      ],
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "iran-proposes-conditional-strait-opening-12baf0",
+      "title": "美伊联大期间间接会谈三小时 伊朗提出重开霍尔木兹海峡条件",
+      "description": "2026年9月22日，美国与伊朗在第81届联合国大会期间通过卡塔尔和巴基斯坦斡旋举行约三小时间接会谈。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-24T23:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-22",
+      "url": "https://kaopu.news/story/2026-09-22/iran-proposes-conditional-strait-opening-12baf0",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "澎湃新闻",
+        "日经"
+      ],
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "review-of-zhu-rongji-reform-policy-making-34aca8",
+      "title": "端传媒发文回顾朱镕基改革政策生产模式",
+      "description": "端传媒于2026年9月24日发表文章，回顾朱镕基改革时期经济学家与改革官僚在政策生产中的角色。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-24T23:00:35+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-24",
+      "url": "https://kaopu.news/story/2026-09-24/review-of-zhu-rongji-reform-policy-making-34aca8",
+      "reference": [
+        "端传媒"
+      ],
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -321,26 +378,6 @@
         "世界日报"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "fed-officials-warn-strong-demand-may-fuel-inflation-d0c6f4",
-      "title": "美30年期国债收益率升至5.446%创22年新高",
-      "description": "美东时间9月24日，美国国债市场遭遇新一轮抛售，30年期国债收益率一度触及5.446%，创2004年6月以来最高水平；10年期国债收益率升至5.15%，为2007年7月以来新高。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-24T15:37:37.087727+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-21",
-      "url": "https://kaopu.news/story/2026-09-21/fed-officials-warn-strong-demand-may-fuel-inflation-d0c6f4",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "中央通訊社",
-        "日经"
-      ],
-      "sourceCount": 10,
       "sources": []
     },
     {
@@ -2174,26 +2211,6 @@
         "世界日报"
       ],
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "iran-proposes-conditional-strait-opening-12baf0",
-      "title": "美伊联大期间间接会谈三小时 伊朗提出重开霍尔木兹海峡条件",
-      "description": "2026年9月22日，伊朗与美国代表团在第81届联合国大会期间于纽约举行约三小时间接会谈。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-24T08:44:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-22",
-      "url": "https://kaopu.news/story/2026-09-22/iran-proposes-conditional-strait-opening-12baf0",
-      "reference": [
-        "共同网",
-        "联合早报",
-        "澎湃新闻",
-        "日经"
-      ],
-      "sourceCount": 7,
       "sources": []
     },
     {
@@ -4464,23 +4481,6 @@
       "url": "https://kaopu.news/story/2026-09-24/end-criticizes-sun-yuchen-jing-tian-moral-performance-445448",
       "reference": [
         "端传媒"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "australian-chinese-emergency-information-gap-bcf604",
-      "title": "研究显示澳洲华人急诊服务存在信息缺口",
-      "description": "2026年9月23日，澳大利亚医生陈沁介绍该国急诊体系时指出，一项新研究发现澳洲华人在何时去急诊、如何获取急诊服务以及到急诊室后会发生什么等方面存在信息缺口。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-23T22:39:34+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-23",
-      "url": "https://kaopu.news/story/2026-09-23/australian-chinese-emergency-information-gap-bcf604",
-      "reference": [
-        "SBS"
       ],
       "sourceCount": 1,
       "sources": []
