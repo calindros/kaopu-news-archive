@@ -1,19 +1,19 @@
 {
   "details": {
     "date": "2026-09-25",
-    "timestamp": 1790300020,
+    "timestamp": 1790303305,
     "totalPages": 1,
     "total": 251
   },
   "stories": [
     {
       "id": "xi-us-visit-agriculture-announcement-763a39",
-      "title": "习近平与特朗普白宫会谈同意延长贸易休战",
-      "description": "中国国家主席习近平于2026年9月24日对美国进行国事访问，与美国总统特朗普在白宫举行正式会谈。",
+      "title": "习近平与特朗普白宫会谈三小时 贸易休战延长两个月",
+      "description": "中国国家主席习近平9月24日对美国进行国事访问，在白宫与美国总统特朗普举行约三小时会谈，并出席国宴。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-09-25T00:21:00+00:00",
+      "updatedAt": "2026-09-25T01:22:32+00:00",
       "occurredAt": "",
       "publishedAt": "2026-09-04",
       "url": "https://kaopu.news/story/2026-09-04/xi-us-visit-agriculture-announcement-763a39",
@@ -23,7 +23,97 @@
         "中央通訊社",
         "德国之声"
       ],
-      "sourceCount": 393,
+      "sourceCount": 402,
+      "sources": []
+    },
+    {
+      "id": "beijing-issues-new-home-sales-rules-5e9070",
+      "title": "北京发布商品住房销售改革细则",
+      "description": "北京市住房和城乡建设委员会等四部门于9月24日发布商品住房销售制度改革实施细则，落实住建部等三部门8月28日新政。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-25T01:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-24",
+      "url": "https://kaopu.news/story/2026-09-24/beijing-issues-new-home-sales-rules-5e9070",
+      "reference": [
+        "第一财经",
+        "澎湃新闻"
+      ],
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "cpi-data-looms-as-fed-rate-hike-odds-rise-7fe0ae",
+      "title": "美联储三年来首次加息25个基点并释放鹰派信号",
+      "description": "美国联邦储备委员会于9月16日将联邦基金利率目标区间上调25个基点至3.75%–4.00%，这是自2023年7月以来首次加息。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-25T01:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-11",
+      "url": "https://kaopu.news/story/2026-09-11/cpi-data-looms-as-fed-rate-hike-odds-rise-7fe0ae",
+      "reference": [
+        "第一财经",
+        "中央通訊社",
+        "澎湃新闻",
+        "日经"
+      ],
+      "sourceCount": 116,
+      "sources": []
+    },
+    {
+      "id": "iwashita-visits-china-as-trade-chief-3aa1da",
+      "title": "日本前外相岩屋毅27日将访华修复中日关系",
+      "description": "日本前外相岩屋毅9月24日在东京出席中国驻日使馆国庆招待会时宣布，将于27日起以日本国际贸易促进协会会长身份访华。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-25T00:47:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-24",
+      "url": "https://kaopu.news/story/2026-09-24/iwashita-visits-china-as-trade-chief-3aa1da",
+      "reference": [
+        "共同网",
+        "联合早报"
+      ],
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "china-revises-audit-law-implementation-rules-c4412f",
+      "title": "中国修订审计法实施条例强化审计独立性",
+      "description": "国务院9月25日公布修订后的《中华人民共和国审计法实施条例》，自2026年12月1日起施行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-25T00:41:30.488071+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-25",
+      "url": "https://kaopu.news/story/2026-09-25/china-revises-audit-law-implementation-rules-c4412f",
+      "reference": [
+        "第一财经"
+      ],
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "zhipu-accused-of-unauthorized-data-upload-adccf0",
+      "title": "智谱被指未经用户允许上传数据",
+      "description": "本周AI领域发生多起事件。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-25T00:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-25",
+      "url": "https://kaopu.news/story/2026-09-25/zhipu-accused-of-unauthorized-data-upload-adccf0",
+      "reference": [
+        "财新"
+      ],
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -78,6 +168,24 @@
         "世界日报"
       ],
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-mortgage-rate-hits-7-percent-4df049",
+      "title": "美国30年期房贷利率突破7%创近20个月新高",
+      "description": "截至2026年9月24日，美国30年期固定房贷平均利率升至7.03%，创下2025年1月16日以来最高水平。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-09-24T23:16:08+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-24",
+      "url": "https://kaopu.news/story/2026-09-24/us-mortgage-rate-hits-7-percent-4df049",
+      "reference": [
+        "世界日报",
+        "中央通訊社"
+      ],
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -275,23 +383,6 @@
         "公视"
       ],
       "sourceCount": 46,
-      "sources": []
-    },
-    {
-      "id": "us-mortgage-rate-hits-7-percent-4df049",
-      "title": "美国30年期房贷利率突破7%创近20个月新高",
-      "description": "美国30年期固定房贷平均利率于2026年9月24日升至7.03%，为2025年1月16日以来最高。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-24T18:45:47+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-24",
-      "url": "https://kaopu.news/story/2026-09-24/us-mortgage-rate-hits-7-percent-4df049",
-      "reference": [
-        "世界日报"
-      ],
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -824,23 +915,6 @@
       "sources": []
     },
     {
-      "id": "beijing-issues-new-home-sales-rules-5e9070",
-      "title": "北京发布商品房销售新规细化现房与预售管理",
-      "description": "北京市多部门于9月24日联合发布《本市贯彻落实〈关于完善商品住房销售制度的通知〉的实施意见》，对现房销售、预售条件、信贷管理及土地款分期缴纳等作出细则规定。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-24T12:58:35.207458+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-24",
-      "url": "https://kaopu.news/story/2026-09-24/beijing-issues-new-home-sales-rules-5e9070",
-      "reference": [
-        "第一财经"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "malaysia-registry-revokes-pn-registration-d9752e",
       "title": "马来西亚社团注册局勒令国盟暂停活动",
       "description": "马来西亚社团注册局援引《1966年社团法令》，于9月22日向在野联盟国民联盟发出要求解释信，并于9月23日指示国盟即日起暂停所有活动。",
@@ -1001,23 +1075,6 @@
         "联合早报"
       ],
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "iwashita-visits-china-as-trade-chief-3aa1da",
-      "title": "日本前外相岩屋毅27日起访华修复关系",
-      "description": "日本前外相岩屋毅9月24日在东京出席中国国庆节招待会时宣布，他将于27日起以日本国际贸易促进协会会长身份访问中国。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-24T12:17:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-24",
-      "url": "https://kaopu.news/story/2026-09-24/iwashita-visits-china-as-trade-chief-3aa1da",
-      "reference": [
-        "共同网"
-      ],
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -4306,60 +4363,6 @@
         "中央通訊社"
       ],
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "india-joins-japan-us-semiconductor-supply-chain-5ec0a1",
-      "title": "印度联合日美企业打造半导体供应链",
-      "description": "印度政府于2026年9月24日宣布，通过超2万亿日元补贴计划，联合日本和美国企业构建半导体供应链，以降低对中国的依赖。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-24T01:10:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-24",
-      "url": "https://kaopu.news/story/2026-09-24/india-joins-japan-us-semiconductor-supply-chain-5ec0a1",
-      "reference": [
-        "日经"
-      ],
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "houthis-warn-to-strike-us-interests-d0fd49",
-      "title": "胡塞武装警告将打击美国中东利益",
-      "description": "也门胡塞武装军事顾问索尔9月22日接受法新社独家采访时警告，如果美国介入也门冲突支持沙特阿拉伯，或试图控制曼德海峡，胡塞武装将打击美国在中东地区的利益。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-24T01:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-24",
-      "url": "https://kaopu.news/story/2026-09-24/houthis-warn-to-strike-us-interests-d0fd49",
-      "reference": [
-        "联合早报"
-      ],
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ny-stocks-fall-on-september-23-2b4a77",
-      "title": "美债收益率升破5%拖累美股三大指数全线下跌",
-      "description": "受美国国债收益率飙升至近二十年高位以及中东地缘政治紧张局势加剧的双重冲击，纽约股市三大指数在9月23日全面收跌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-24T00:53:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-23",
-      "url": "https://kaopu.news/story/2026-09-23/ny-stocks-fall-on-september-23-2b4a77",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "法广",
-        "第一财经"
-      ],
-      "sourceCount": 5,
       "sources": []
     },
     {
