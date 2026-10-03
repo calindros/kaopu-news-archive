@@ -1,11 +1,125 @@
 {
   "details": {
     "date": "2026-10-03",
-    "timestamp": 1791038004,
+    "timestamp": 1791044938,
     "totalPages": 1,
     "total": 277
   },
   "stories": [
+    {
+      "id": "newcastle-car-crash-injures-nine-a644cf",
+      "title": "纽卡斯尔司机冲撞送行人群致10人受伤",
+      "description": "澳大利亚新南威尔士州纽卡斯尔当地时间10月3日上午约9时30分，一辆汽车冲入为纽卡斯尔骑士队送行的人群。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T15:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/newcastle-car-crash-injures-nine-a644cf",
+      "reference": [
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "brazil-election-lula-flavio-runoff-c7c17b",
+      "title": "巴西最新民调显示卢拉领先优势缩小",
+      "description": "巴西总统选举前公布的最新民调显示，寻求连任的左翼总统卢拉在首轮及假设举行的第二轮投票中均领先参议员弗拉维奥·博索纳罗，但首轮领先幅度较9月中旬缩小。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T15:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-02",
+      "url": "https://kaopu.news/story/2026-10-02/brazil-election-lula-flavio-runoff-c7c17b",
+      "reference": [
+        "法广",
+        "公视",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "openai-ex-safety-staffer-urges-nuclear-plant-safeguards-f429ca",
+      "title": "OpenAI前安全员工呼吁AI采用核电厂级管控",
+      "description": "曾负责OpenAI安全团队透明度工作的前员工大卫·罗宾逊近日辞职，并于10月2日在《大西洋月刊》发表文章，批评顶尖人工智能公司控制技术风险不力，呼吁加强安全管控。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T14:48:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/openai-ex-safety-staffer-urges-nuclear-plant-safeguards-f429ca",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tesla-q3-deliveries-beat-expectations-e46ca3",
+      "title": "美国电动车市场显现需求复苏迹象",
+      "description": "特斯拉与Rivian公布的2026年第三季度（7月至9月）交付量均超过市场预期。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T14:44:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-02",
+      "url": "https://kaopu.news/story/2026-10-02/tesla-q3-deliveries-beat-expectations-e46ca3",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "法广",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "malaysia-to-suspend-myeg-collection-services-f3ff68",
+      "title": "马来西亚陆交局将暂停MYEG旗下两家公司代收费服务",
+      "description": "马来西亚陆路交通局将从10月5日零时起，暂停MYEG集团旗下Zetrix AI有限公司和My E.G.私人有限公司作为陆交局代收费机构。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T14:18:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/malaysia-to-suspend-myeg-collection-services-f3ff68",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "saudi-aramco-refinery-fire-smoke-8149d8",
+      "title": "利雅得以南沙特阿美炼油厂冒出火光和浓烟",
+      "description": "法新社称，10月3日，利雅得以南一处沙特阿美炼油厂出现火光和浓烟，现场具体情况尚不明朗。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T14:09:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/saudi-aramco-refinery-fire-smoke-8149d8",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "us-plans-spr-oil-swap-release-63641a",
       "title": "七国集团同意协调释放一亿桶石油储备",
@@ -1227,27 +1341,6 @@
       "sources": []
     },
     {
-      "id": "tesla-q3-deliveries-beat-expectations-e46ca3",
-      "title": "特斯拉三季度交付48.65万辆高于预期",
-      "description": "特斯拉公布2026年第三季度（7月至9月）全球汽车交付数据：交付486,532辆，同比减少约2%，高于市场预期。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T06:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/tesla-q3-deliveries-beat-expectations-e46ca3",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "法广",
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "amazon-pledges-billion-data-center-communities-f1f4a3",
       "title": "亚马逊承诺五年投入逾十亿美元支持数据中心社区",
       "description": "亚马逊10月2日宣布“共同建设”计划，承诺未来五年向数据中心所在社区投入超过10亿美元。",
@@ -1571,24 +1664,6 @@
       "sources": []
     },
     {
-      "id": "newcastle-car-crash-injures-nine-a644cf",
-      "title": "澳大利亚纽卡斯尔汽车冲撞人群致九人受伤",
-      "description": "10月3日，悉尼以北约110公里的纽卡斯尔发生汽车冲撞人群事故，九人受伤，包括儿童。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T02:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/newcastle-car-crash-injures-nine-a644cf",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "charles-camilla-caribbean-visit-no-apology-6bbb85",
       "title": "英王夫妇将访加勒比三国但不就奴隶贸易正式道歉",
       "description": "路透社称，查尔斯三世与卡米拉计划于10月底访问巴哈马和圭亚那，之后前往安提瓜和巴布达。",
@@ -1798,24 +1873,6 @@
       "sources": []
     },
     {
-      "id": "british-columbia-gas-expansion-uses-chinese-steel-c09dfb",
-      "title": "卑诗省天然气厂扩建将采用中国钢材",
-      "description": "卑诗省天然气厂扩建工程将使用中国钢材。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T22:31:12.135000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/british-columbia-gas-expansion-uses-chinese-steel-c09dfb",
-      "reference": [
-        "加拿大国际广播电台"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "west-texas-crude-price-falls-fbae74",
       "title": "国际油价10月2日收跌纽约原油跌幅较大",
       "description": "国际油价10月2日收盘下跌。",
@@ -1887,26 +1944,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "swiss-glaciers-melt-second-highest-f70873",
-      "title": "瑞士冰川2026年冰量减少5.5%创史上第二高",
-      "description": "瑞士科学院10月1日公布瑞士冰川监测网（GLAMOS）的最新数据：2026年瑞士冰川冰量减少5.5%，年度损失幅度仅次于2022年。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T15:09:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-01",
-      "url": "https://kaopu.news/story/2026-10-01/swiss-glaciers-melt-second-highest-f70873",
-      "reference": [
-        "联合早报",
-        "法广",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -3595,24 +3632,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-fda-seeks-tougher-ad-penalties-4c1554",
-      "title": "台湾食药署指活化胜广告涉嫌违法可罚500万",
-      "description": "台湾食药署10月1日表示，益生菌产品“活化胜”的电视广告宣称可帮助肾病患者恢复肾功能、逆转肾病。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-01T12:50:27+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-01",
-      "url": "https://kaopu.news/story/2026-10-01/taiwan-fda-seeks-tougher-ad-penalties-4c1554",
-      "reference": [
-        "公视"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "kei-nishikori-loses-final-event-tiafoe-8a3320",
       "title": "锦织圭首轮不敌蒂亚福结束职业生涯",
       "description": "已宣布将在本赛季结束后退役的36岁锦织圭，在东京有明网球森林举行的木下集团日本公开赛男单首轮中，以4比6、4比6负于当时世界排名第八的弗兰西斯·蒂亚福。",
@@ -3963,25 +3982,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "tencent-oracle-lease-100000-ai-chips-cafe90",
-      "title": "腾讯签约甲骨文租用十万枚先进AI芯片",
-      "description": "《金融时报》援引知情人士称，腾讯已与甲骨文签署五年协议，租用约10万枚中国无法取得的先进AI芯片，使用甲骨文在东南亚的多个数据中心。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-01T05:49:56+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-01",
-      "url": "https://kaopu.news/story/2026-10-01/tencent-oracle-lease-100000-ai-chips-cafe90",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "ai",
-      "sourceCount": 2,
       "sources": []
     },
     {
