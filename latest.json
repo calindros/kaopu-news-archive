@@ -3,17 +3,110 @@
     "date": "2026-10-03",
     "timestamp": 1791016469,
     "totalPages": 1,
-    "total": 277
+    "total": 276
   },
   "stories": [
     {
-      "id": "singapore-residents-sodium-excess-rate-hits-95-percent-d07757",
-      "title": "新加坡居民钠摄入超标比例升至95%",
-      "description": "新加坡保健卫生部和保健促进局10月3日公布2025年全国人口健康调查及全国营养调查结果。",
+      "id": "taiwan-f16v-jets-arrive-taitung-843b7d",
+      "title": "台湾首批两架F-16V战机抵达台东基地",
+      "description": "台湾空军向美国采购的首批两架F-16V Block 70战机于10月2日中午抵达台东志航基地，编号为6727、6728。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-03T07:15:00+00:00",
+      "updatedAt": "2026-10-03T08:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-01",
+      "url": "https://kaopu.news/story/2026-10-01/taiwan-f16v-jets-arrive-taitung-843b7d",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "法广",
+        "德国之声"
+      ],
+      "section": "asia",
+      "sourceCount": 22,
+      "sources": []
+    },
+    {
+      "id": "philippines-asean-discuss-myanmar-aid-fdc8b1",
+      "title": "菲律宾愿推动东盟商讨援助缅甸方案",
+      "description": "缅甸西部若开邦皎道镇一处繁忙的河边集市9月28日遭缅甸军方空袭，造成50人死亡、数十人受伤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T08:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/philippines-asean-discuss-myanmar-aid-fdc8b1",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-banks-ai-jobs-rise-nearly-half-4c87f8",
+      "title": "摩根大通等银行人工智能职位同比增长近半",
+      "description": "企业招聘数据公司Draup提供给美国消费者新闻与商业频道（CNBC）的分析显示，摩根大通、花旗集团和第一资本等银行今年人工智能相关招聘职位较2025年增加49%，达到13万9819个。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T07:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/us-banks-ai-jobs-rise-nearly-half-4c87f8",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "singapore-social-media-scams-cause-losses-70ba45",
+      "title": "新加坡社媒优惠诈骗致至少140万元损失",
+      "description": "新加坡警方称，自7月以来已接获至少246起相关钓鱼诈骗报案，受害者损失至少140万元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T07:57:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/singapore-social-media-scams-cause-losses-70ba45",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "singapore-mandates-islamic-education-registration-25c097",
+      "title": "新加坡要求定期授课者注册回教宗教学校",
+      "description": "新加坡回教理事会实施回教宗教教育注册新规。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T07:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/singapore-mandates-islamic-education-registration-25c097",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "singapore-residents-sodium-excess-rate-hits-95-percent-d07757",
+      "title": "新加坡调查显示居民日均钠摄入量升至世卫上限两倍",
+      "description": "新加坡保健卫生部和保健促进局10月3日公布2025年全国营养调查结果。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T07:30:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-03",
       "url": "https://kaopu.news/story/2026-10-03/singapore-residents-sodium-excess-rate-hits-95-percent-d07757",
@@ -21,7 +114,99 @@
         "联合早报"
       ],
       "section": "life",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "apple-mac-full-disk-access-controls-dfdf1f",
+      "title": "苹果拟加强Mac完全磁盘访问权限控制",
+      "description": "苹果于10月2日通过官方博客宣布，将调整Mac操作系统，在AI助手申请访问数据时提供更明确的提示，并加入额外控制，要求用户通过明确的手动操作授予完全磁盘访问权限。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T07:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/apple-mac-full-disk-access-controls-dfdf1f",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "tech",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "zhou-qian-becomes-china-ambassador-czech-republic-6ec958",
+      "title": "周谦到任并出任中国驻捷克大使一职",
+      "description": "周谦已履新中国驻捷克大使。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T07:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-02",
+      "url": "https://kaopu.news/story/2026-10-02/zhou-qian-becomes-china-ambassador-czech-republic-6ec958",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "russian-strike-kyiv-north-bridge-disrupts-traffic-c7ae52",
+      "title": "俄军袭击基辅北桥致东西向跨河交通中断",
+      "description": "基辅市长克里琴科星期六（10月3日）说，俄罗斯军队袭击了横跨第聂伯河的北桥。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T07:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/russian-strike-kyiv-north-bridge-disrupts-traffic-c7ae52",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-wins-asian-games-mens-golf-gold-4d9d0f",
+      "title": "中国队夺得亚运会男子高尔夫团体赛金牌",
+      "description": "中国队在爱知·名古屋亚运会男子高尔夫球团体赛中夺冠，为中国体育代表团拿下本届赛事第166枚金牌，比代表团此前在多哈亚运会创下的165枚纪录多1枚。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T07:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/china-wins-asian-games-mens-golf-gold-4d9d0f",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "sports",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "columbia-journalism-school-suspends-ma-admissions-7b2664",
+      "title": "哥伦比亚大学新闻学院暂停文学硕士招生一年",
+      "description": "哥伦比亚大学新闻学院10月2日宣布，文学硕士项目暂停招生一年，以重新审视并重组课程。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T07:09:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/columbia-journalism-school-suspends-ma-admissions-7b2664",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -461,27 +646,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-f16v-jets-arrive-taitung-843b7d",
-      "title": "台湾首批两架F-16V战机抵达台东志航基地",
-      "description": "台湾空军向美国采购的首批两架F-16V（Block 70）战机于10月2日中午前后抵达台东志航基地，编号为6727和6728，均为单座机。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T05:29:50+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-01",
-      "url": "https://kaopu.news/story/2026-10-01/taiwan-f16v-jets-arrive-taitung-843b7d",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "法广",
-        "德国之声"
-      ],
-      "section": "asia",
-      "sourceCount": 21,
-      "sources": []
-    },
-    {
       "id": "iwashita-visits-china-as-trade-chief-3aa1da",
       "title": "岩屋毅率团访华推动日中高层对话",
       "description": "日本前外相、日本国际贸易促进协会会长岩屋毅于9月27日至29日率团访问北京，先后会见中国外长王毅和国务院副总理何立峰，并表示将继续推动日中高级别对话。",
@@ -558,24 +722,6 @@
       ],
       "section": "sports",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "apple-mac-full-disk-access-controls-dfdf1f",
-      "title": "苹果拟为Mac全盘访问权限增设明确控制",
-      "description": "苹果公司10月2日表示，将调整Mac操作系统，在应用请求完整磁盘访问权限时加入额外控制，要求用户通过明确操作主动授权。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T05:16:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/apple-mac-full-disk-access-controls-dfdf1f",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1988,24 +2134,6 @@
       "sources": []
     },
     {
-      "id": "zhou-qian-becomes-china-ambassador-czech-republic-6ec958",
-      "title": "周谦已到任并出任中国驻捷克大使",
-      "description": "中国驻捷克大使馆微信公众号消息显示，周谦已出任中国驻捷克大使。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T09:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/zhou-qian-becomes-china-ambassador-czech-republic-6ec958",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "byd-september-sales-rise-17-percent-4810ef",
       "title": "比亚迪9月销量同比增长17%至46.36万辆",
       "description": "比亚迪10月1日公布，9月汽车销量为46万3561辆，同比增长17%，增幅低于8月的17.8%。",
@@ -2268,24 +2396,6 @@
         "联合早报"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nepal-pm-shah-urges-climate-justice-a44395",
-      "title": "尼泊尔总理夏哈在联合国呼吁落实气候正义",
-      "description": "尼泊尔近期接连遭遇暴雨、山洪和雪崩，总理夏哈在联合国大会发言，呼吁落实气候正义，并要求国际社会为脆弱国家提供更多无偿资金支持。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T08:08:07+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/nepal-pm-shah-urges-climate-justice-a44395",
-      "reference": [
-        "公视"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -2734,21 +2844,21 @@
       "sources": []
     },
     {
-      "id": "barr-warns-us-inflation-target-progress-uncertain-79e6ec",
-      "title": "巴尔称美国通胀回归2%目标进展仍不明",
-      "description": "美国房贷利率走高之际，消费者信心转弱。",
+      "id": "chicago-election-board-deploys-voting-security-ec1b33",
+      "title": "芝加哥选委会部署措施防范投票受干扰",
+      "description": "芝加哥11月3日中期选举的提前投票已于10月1日启动，市中心两处地点率先开放。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
       "updatedAt": "2026-10-02T06:00:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/barr-warns-us-inflation-target-progress-uncertain-79e6ec",
+      "publishedAt": "2026-10-01",
+      "url": "https://kaopu.news/story/2026-10-01/chicago-election-board-deploys-voting-security-ec1b33",
       "reference": [
         "世界日报"
       ],
-      "section": "business",
-      "sourceCount": 1,
+      "section": "us",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2824,24 +2934,6 @@
       "sources": []
     },
     {
-      "id": "new-york-officials-protest-census-immigrant-exclusion-c88d60",
-      "title": "纽约官员集会反对人口普查排除移民提案",
-      "description": "纽约市议会议长朱曼宁、纽约州检察长詹乐霞和亚美联盟10月1日举行集会，反对美国联邦人口普查局拟调整2030年人口普查规则。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-01",
-      "url": "https://kaopu.news/story/2026-10-01/new-york-officials-protest-census-immigrant-exclusion-c88d60",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "pearl-buck-pennsylvania-estate-opens-0dc98d",
       "title": "赛珍珠宾州旧居庄园现已开放参观",
       "description": "位于美国宾夕法尼亚州巴克斯郡的赛珍珠旧居庄园现已对游客开放。",
@@ -2875,24 +2967,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "supreme-court-review-trump-immigration-detention-b8a38b",
-      "title": "美国最高法院将审理无证移民强制拘留政策",
-      "description": "美国最高法院10月1日宣布，将审理特朗普政府拒绝部分被拘留无证移民申请保释听证、并在驱逐程序期间强制拘留的做法是否合法。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/supreme-court-review-trump-immigration-detention-b8a38b",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3079,24 +3153,6 @@
       ],
       "section": "asia",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "taiwan-legislature-freezes-cho-jung-tai-salary-c851f9",
-      "title": "卓荣泰称台湾立法院冻结其四个月薪资于法无据",
-      "description": "台湾立法院8月14日表决通过115年度中央政府总预算案，并冻结行政院长卓荣泰9月至12月的薪资。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T03:48:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/taiwan-legislature-freezes-cho-jung-tai-salary-c851f9",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3733,24 +3789,6 @@
       "sources": []
     },
     {
-      "id": "illinois-medicaid-eligibility-rules-tighten-a1f063",
-      "title": "联邦新规将让伊州部分移民失去白卡",
-      "description": "美国联邦移民身份资格新规自当日起生效，伊利诺伊州约9300名非公民受到影响，涉及部分难民、获庇护者及其他人道主义移民。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-01T06:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-30",
-      "url": "https://kaopu.news/story/2026-09-30/illinois-medicaid-eligibility-rules-tighten-a1f063",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "victoria-police-warn-ai-voice-scam-d2072f",
       "title": "维州警方警告AI仿声诈骗锁定讲普通话华人社区",
       "description": "维州警方于10月1日下午发出警告，诈骗者正借助人工智能仿制医生、全科医生和外科医生的声音，再通过电话假扮医疗专业人士行骗。",
@@ -3894,25 +3932,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "google-launches-gemini-4-cyber-defenders-165a20",
-      "title": "谷歌发布Gemini 4模型先供防御人员使用",
-      "description": "谷歌于9月30日发布Gemini 4世代核心模型Argon，目前仅向部分可信赖的网络安全防御人员及合作伙伴开放，尚未公布面向公众开放的时间。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-01T02:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-01",
-      "url": "https://kaopu.news/story/2026-10-01/google-launches-gemini-4-cyber-defenders-165a20",
-      "reference": [
-        "中央通訊社",
-        "财新"
-      ],
-      "section": "ai",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -4909,8 +4928,8 @@
     },
     {
       "id": "you-benchang-dies-in-beijing-8752cf",
-      "title": "表演艺术家游本昌逝世享年93岁",
-      "description": "中国国家话剧院表演艺术家、一级演员游本昌于2026年9月24日凌晨1时40分在北京逝世，享年93岁。",
+      "title": "表演艺术家游本昌在北京逝世，享年93岁",
+      "description": "中国国家话剧院表演艺术家、一级演员游本昌于9月24日凌晨在北京逝世，享年93岁。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -5073,24 +5092,6 @@
       "sources": []
     },
     {
-      "id": "asian-games-adds-trendy-sports-573340",
-      "title": "亚运会新增潮流项目吸引年轻观众",
-      "description": "第20届亚洲夏季运动会开幕式于9月19日播出后受到广泛关注。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-24T11:59:37.859524+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-24",
-      "url": "https://kaopu.news/story/2026-09-24/asian-games-adds-trendy-sports-573340",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "historian-zhounianchang-dies-at-94-232220",
       "title": "历史学家周年昌因病在北京逝世享年94岁",
       "description": "历史学家周年昌于2026年9月23日在北京因病去世，享年94岁。",
@@ -5139,24 +5140,6 @@
       "url": "https://kaopu.news/story/2026-09-24/li-liang-book-vocational-school-students-0c2c6d",
       "reference": [
         "第一财经"
-      ],
-      "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "end-criticizes-sun-yuchen-jing-tian-moral-performance-445448",
-      "title": "端传媒发文批评孙宇晨与景甜案例中的道德表演",
-      "description": "端传媒于2026年9月23日发表题为《孙宇晨与景甜,“大结果”时代的幻想与幻灭》的文章，以孙宇晨与景甜的相关事件为案例，探讨“大结果”时代中富豪道德表演与物化成功的社会现象。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-23T23:00:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-24",
-      "url": "https://kaopu.news/story/2026-09-24/end-criticizes-sun-yuchen-jing-tian-moral-performance-445448",
-      "reference": [
-        "端传媒"
       ],
       "section": "culture",
       "sourceCount": 1,
