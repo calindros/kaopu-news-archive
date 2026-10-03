@@ -3,9 +3,435 @@
     "date": "2026-10-03",
     "timestamp": 1791009153,
     "totalPages": 1,
-    "total": 279
+    "total": 280
   },
   "stories": [
+    {
+      "id": "new-york-council-skips-loke-registration-bill-69e3cb",
+      "title": "纽约市议会审议23项电动单车及滑板车安全提案",
+      "description": "纽约市议会9月30日审议23项电动单车及滑板车安全提案，涉及外送平台牌照、车速检测及运用技术限制危险骑行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T06:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-01",
+      "url": "https://kaopu.news/story/2026-10-01/new-york-council-skips-loke-registration-bill-69e3cb",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "trump-says-iran-war-will-end-soon-729938",
+      "title": "特朗普称美国对伊朗下一步行动进展顺利",
+      "description": "特朗普10月2日称，美国对伊朗的下一步行动是一项“重大”举措，推进得很顺利，并表示伊朗处境不妙。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T06:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/trump-says-iran-war-will-end-soon-729938",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "vance-aca-fraud-crackdown-enrollees-f2b0e3",
+      "title": "范斯推动清查健保欺诈剔除76万投保人",
+      "description": "美国副总统JD范斯推动联邦政府清查《可负担健保法》投保资格。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T06:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/vance-aca-fraud-crackdown-enrollees-f2b0e3",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "xi-us-visit-agriculture-announcement-763a39",
+      "title": "玉渊谭天提出中美11月AI对话三项协商方向",
+      "description": "央视旗下新媒体账号“玉渊谭天”10月2日发文称，中美计划于11月举行的下一次人工智能对话，将围绕三方面问题推进协商。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T06:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-04",
+      "url": "https://kaopu.news/story/2026-09-04/xi-us-visit-agriculture-announcement-763a39",
+      "reference": [
+        "联合早报",
+        "世界日报",
+        "中央通訊社",
+        "德国之声"
+      ],
+      "section": "china",
+      "sourceCount": 617,
+      "sources": []
+    },
+    {
+      "id": "gensler-names-12-san-francisco-housing-conversion-candidates-8ca917",
+      "title": "旧金山筛出12栋办公楼改建住宅候选楼",
+      "description": "建筑设计公司Gensler评估了旧金山市中心36栋办公楼，其中12栋得分达到75%以上，被列为改建住宅潜力较高的候选楼宇。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T06:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-02",
+      "url": "https://kaopu.news/story/2026-10-02/gensler-names-12-san-francisco-housing-conversion-candidates-8ca917",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-weighs-clayton-ai-czar-eeed0c",
+      "title": "川普拟让情报总监克莱顿兼任白宫人工智能首席顾问",
+      "description": "川普总统拟提名现任国家情报总监杰伊·克莱顿兼任白宫人工智能首席顾问，俗称“AI沙皇”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T06:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-02",
+      "url": "https://kaopu.news/story/2026-10-02/trump-weighs-clayton-ai-czar-eeed0c",
+      "reference": [
+        "法广",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "tsai-ing-wen-stanford-speeches-d906eb",
+      "title": "蔡英文将赴斯坦福发表科技与国家安全主题演讲",
+      "description": "台湾前总统蔡英文将于10月7日赴美国加州斯坦福大学，参加Stanford DEFCON 2026科技与国家安全研讨会并发表开幕主题演讲。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T06:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-02",
+      "url": "https://kaopu.news/story/2026-10-02/tsai-ing-wen-stanford-speeches-d906eb",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "世界日报"
+      ],
+      "section": "asia",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "catalina-island-tucey-1500000-wage-restitution-e298a8",
+      "title": "卡塔利娜岛业者图西被令支付150万美元欠薪赔偿",
+      "description": "经营卡塔利娜岛多家旅馆和餐厅的图西（Yueh Mei Tucey，又名Nora Tucey）于2026年9月28日在赔偿及量刑听证会上向法院交付150万美元支票。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T06:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-02",
+      "url": "https://kaopu.news/story/2026-10-02/catalina-island-tucey-1500000-wage-restitution-e298a8",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "tesla-q3-deliveries-beat-expectations-e46ca3",
+      "title": "特斯拉三季度交付48.65万辆高于预期",
+      "description": "特斯拉公布2026年第三季度（7月至9月）全球汽车交付数据：交付486,532辆，同比减少约2%，高于市场预期。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T06:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-02",
+      "url": "https://kaopu.news/story/2026-10-02/tesla-q3-deliveries-beat-expectations-e46ca3",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "法广",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "amazon-pledges-billion-data-center-communities-f1f4a3",
+      "title": "亚马逊承诺五年投入逾十亿美元支持数据中心社区",
+      "description": "亚马逊10月2日宣布“共同建设”计划，承诺未来五年向数据中心所在社区投入超过10亿美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T06:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/amazon-pledges-billion-data-center-communities-f1f4a3",
+      "reference": [
+        "联合早报",
+        "世界日报"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-mortgage-rates-rise-728-998268",
+      "title": "美国30年期房贷利率升至7.28%创近三年新高",
+      "description": "房地美10月1日公布，美国30年期固定房贷平均利率从前一周的7.03%升至7.28%，达到2023年11月以来最高水平。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T06:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-02",
+      "url": "https://kaopu.news/story/2026-10-02/us-mortgage-rates-rise-728-998268",
+      "reference": [
+        "中央通訊社",
+        "世界日报"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "chicago-alpha-school-ai-teaching-d1bbbe",
+      "title": "芝加哥Alpha学校开课以AI教授核心学科",
+      "description": "芝加哥Alpha School校区已于2026年9月开课，面向学前班至八年级学生，采用AI系统教授核心学科、辅以生活技能训练的教学模式。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T06:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-02",
+      "url": "https://kaopu.news/story/2026-10-02/chicago-alpha-school-ai-teaching-d1bbbe",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "spacex-grace-docks-iss-fastest-us-flight-344bd3",
+      "title": "SpaceX载人飞船八小时抵达空间站创纪录",
+      "description": "SpaceX于美国东部当地时间10月1日从佛罗里达州卡纳维拉尔角发射NASA的Crew-13任务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T06:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-02",
+      "url": "https://kaopu.news/story/2026-10-02/spacex-grace-docks-iss-fastest-us-flight-344bd3",
+      "reference": [
+        "中央通訊社",
+        "法广",
+        "公视",
+        "世界日报"
+      ],
+      "section": "tech",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "north-korea-launches-wonsan-ballistic-missile-17c2f6",
+      "title": "朝鲜发射弹道导弹遭日本严正抗议",
+      "description": "韩国军方称，朝鲜于10月3日上午约6时30分从元山一带发射一枚弹道导弹，飞向日本海。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T06:08:03+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/north-korea-launches-wonsan-ballistic-missile-17c2f6",
+      "reference": [
+        "联合早报",
+        "韩国国际广播电台",
+        "日本放送协会",
+        "法广"
+      ],
+      "section": "asia",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "kennedy-center-honors-move-capital-one-arena-ab477a",
+      "title": "肯尼迪中心荣誉奖典礼将移至第一资本体育馆",
+      "description": "肯尼迪中心发言人10月2日宣布，第49届肯尼迪中心荣誉奖颁奖典礼定于12月7日在华盛顿第一资本体育馆举行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T05:48:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/kennedy-center-honors-move-capital-one-arena-ab477a",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-plans-spr-oil-swap-release-63641a",
+      "title": "七国集团协调释放一亿桶石油储备",
+      "description": "七国集团领导人10月2日举行视频会议并发表联合声明，决定通过国际能源署协调释放最多1亿桶柴油和原油储备，以缓解中东局势推高能源价格、加剧燃料供应压力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T05:29:55+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-30",
+      "url": "https://kaopu.news/story/2026-09-30/us-plans-spr-oil-swap-release-63641a",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "中央通訊社",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 19,
+      "sources": []
+    },
+    {
+      "id": "taiwan-f16v-jets-arrive-taitung-843b7d",
+      "title": "台湾首批两架F-16V战机抵达台东志航基地",
+      "description": "台湾空军向美国采购的首批两架F-16V（Block 70）战机于10月2日中午前后抵达台东志航基地，编号为6727和6728，均为单座机。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T05:29:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-01",
+      "url": "https://kaopu.news/story/2026-10-01/taiwan-f16v-jets-arrive-taitung-843b7d",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "法广",
+        "德国之声"
+      ],
+      "section": "asia",
+      "sourceCount": 21,
+      "sources": []
+    },
+    {
+      "id": "iwashita-visits-china-as-trade-chief-3aa1da",
+      "title": "岩屋毅率团访华推动日中高层对话",
+      "description": "日本前外相、日本国际贸易促进协会会长岩屋毅于9月27日至29日率团访问北京，先后会见中国外长王毅和国务院副总理何立峰，并表示将继续推动日中高级别对话。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T05:29:47+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-24",
+      "url": "https://kaopu.news/story/2026-09-24/iwashita-visits-china-as-trade-chief-3aa1da",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "日本放送协会",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 36,
+      "sources": []
+    },
+    {
+      "id": "japan-ruling-party-proposes-land-permit-system-1a06fd",
+      "title": "日本专家会议建议加强重要土地管制",
+      "description": "日本政府专家会议10月2日向小野田纪美提交建议，拟加强安保重要设施周边及边境离岛土地管制。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T05:29:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-01",
+      "url": "https://kaopu.news/story/2026-10-01/japan-ruling-party-proposes-land-permit-system-1a06fd",
+      "reference": [
+        "共同网",
+        "日本放送协会"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "us-plans-nmesis-deployment-yonaguni-8101a1",
+      "title": "美军计划向与那国岛部署反舰导弹装置和防空系统",
+      "description": "日本防卫省冲绳防卫局宣布，美军计划在10月19日至29日举行的日美“利剑”联合演习期间，首次向冲绳县与那国岛部署NMESIS反舰导弹发射装置和MADIS短程防空系统。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T05:29:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-02",
+      "url": "https://kaopu.news/story/2026-10-02/us-plans-nmesis-deployment-yonaguni-8101a1",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "日本放送协会"
+      ],
+      "section": "asia",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "zhang-zhuhan-asian-games-kayak-cross-silver-d81231",
+      "title": "张筑涵名古屋亚运越野激流摘得银牌",
+      "description": "张筑涵10月2日在名古屋亚运会女子越野激流决赛中获得银牌，连续第四届亚运会收获奖牌。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T05:19:22+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-02",
+      "url": "https://kaopu.news/story/2026-10-02/zhang-zhuhan-asian-games-kayak-cross-silver-d81231",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "sports",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "mexico-twins-school-attack-vice-principal-killed-e9ff34",
+      "title": "墨西哥双胞胎持刀闯入校园致副校长身亡",
+      "description": "10月1日，曾就读于科阿韦拉州托雷翁市一所中学的18岁双胞胎兄弟携带刀具和简易爆裂物进入校园袭击师生，副校长伤重不治。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T05:15:32+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/mexico-twins-school-attack-vice-principal-killed-e9ff34",
+      "reference": [
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "evergrande-liquidators-seek-191-point-5-billion-hkd-052a41",
       "title": "恒大清盘人向张松桥、蒋大龙追讨191.5亿港元",
@@ -41,27 +467,6 @@
       ],
       "section": "us",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "taiwan-f16v-jets-arrive-taitung-843b7d",
-      "title": "台湾首批两架F-16V抵达台东志航基地",
-      "description": "台湾空军从美国采购的首批两架F-16V Block 70战机，编号6727、6728，于10月2日中午前后降落台东志航基地。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T04:32:47+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-01",
-      "url": "https://kaopu.news/story/2026-10-01/taiwan-f16v-jets-arrive-taitung-843b7d",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "法广",
-        "德国之声"
-      ],
-      "section": "asia",
-      "sourceCount": 20,
       "sources": []
     },
     {
@@ -101,6 +506,25 @@
       ],
       "section": "business",
       "sourceCount": 24,
+      "sources": []
+    },
+    {
+      "id": "pakistan-says-indian-border-guards-killed-two-civilians-ad51da",
+      "title": "印度边防部队开枪致两名巴基斯坦人死亡",
+      "description": "印度边境安全部队10月2日在巴基斯坦旁遮普省卡苏尔边境附近向三人开火，造成两人死亡、一人受伤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T03:38:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/pakistan-says-indian-border-guards-killed-two-civilians-ad51da",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -160,25 +584,6 @@
       ],
       "section": "china",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "us-plans-nmesis-deployment-yonaguni-8101a1",
-      "title": "美军将首次向与那国岛部署两型武器系统",
-      "description": "日本防卫省冲绳防卫局10月2日宣布，美军将在10月19日至29日举行的日美联合综合演习“利剑”期间，首次把NMESIS反舰导弹发射装置和MADIS短程防空系统部署到冲绳县与那国岛。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T03:13:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/us-plans-nmesis-deployment-yonaguni-8101a1",
-      "reference": [
-        "共同网",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -293,60 +698,6 @@
       "sources": []
     },
     {
-      "id": "amazon-pledges-billion-data-center-communities-f1f4a3",
-      "title": "亚马逊承诺五年拨款超10亿美元支持数据中心社区",
-      "description": "法新社称，亚马逊星期五（10月2日）公布“共同建设”计划，未来五年将投入超过10亿美元，支持其数据中心所在社区。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T01:42:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/amazon-pledges-billion-data-center-communities-f1f4a3",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "vance-aca-fraud-crackdown-enrollees-f2b0e3",
-      "title": "范斯推动健保反欺诈行动剔除76万名投保人",
-      "description": "美国副总统JD范斯称，政府已从《可负担健保法》（ACA）保险计划中剔除76万名不存在或被经纪人欺诈注册的投保人，另有40万人正在接受资格审查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T01:41:47+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/vance-aca-fraud-crackdown-enrollees-f2b0e3",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-says-iran-war-will-end-soon-729938",
-      "title": "特朗普称与伊朗的战事将很快结束",
-      "description": "美国总统特朗普2日谈及与伊朗的战事，称战事“很快结束”，并表示伊朗“永远不会拥有核武器”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T01:37:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/trump-says-iran-war-will-end-soon-729938",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "argentina-china-auto-show-buenos-aires-6b1316",
       "title": "阿根廷首届中国汽车展在布宜诺斯艾利斯举行",
       "description": "阿根廷首届中国汽车展当地时间10月2日在首都布宜诺斯艾利斯举行，吉利、奇瑞、东风、长城等20多个中国品牌参展。",
@@ -362,27 +713,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "spacex-grace-docks-iss-fastest-us-flight-344bd3",
-      "title": "SpaceX载人飞船8小时抵达国际空间站刷新纪录",
-      "description": "中央社援引法新社消息称，美国国家航空航天局（NASA）与SpaceX合作执行的Crew-13任务，已于当地时间10月1日完成与国际空间站的对接。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T01:14:42+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/spacex-grace-docks-iss-fastest-us-flight-344bd3",
-      "reference": [
-        "中央通訊社",
-        "法广",
-        "公视",
-        "世界日报"
-      ],
-      "section": "tech",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -499,25 +829,6 @@
       "sources": []
     },
     {
-      "id": "north-korea-launches-wonsan-ballistic-missile-17c2f6",
-      "title": "朝鲜从元山向东部海域发射弹道导弹",
-      "description": "韩国联合参谋本部称，韩军当地时间10月3日6时30分许探测到朝鲜从元山一带向半岛东部海域发射弹道导弹，目前正分析其参数和射程。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T23:58:41+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/north-korea-launches-wonsan-ballistic-missile-17c2f6",
-      "reference": [
-        "联合早报",
-        "韩国国际广播电台"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "korea-law-abolishes-prosecutors-office-b2396e",
       "title": "韩国检察厅运行78年后正式退出历史舞台",
       "description": "韩国检察厅于10月1日结束最后一个工作日，相关修订法律于10月2日生效。",
@@ -579,27 +890,6 @@
       "sources": []
     },
     {
-      "id": "us-plans-spr-oil-swap-release-63641a",
-      "title": "七国集团同意释放1亿桶柴油和原油储备",
-      "description": "七国集团领导人在法国总统马克龙主持的视频会议后发布联合声明，同意通过国际能源署协调释放1亿桶柴油和原油储备，以缓解能源供应压力。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T23:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-30",
-      "url": "https://kaopu.news/story/2026-09-30/us-plans-spr-oil-swap-release-63641a",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 17,
-      "sources": []
-    },
-    {
       "id": "left-behind-children-feel-distant-after-reunion-231f29",
       "title": "国际留守儿童团聚后仍觉得父母陌生",
       "description": "国际留守儿童与父母团聚后，仍可能在父母身边感到陌生。",
@@ -612,24 +902,6 @@
       "url": "https://kaopu.news/story/2026-10-02/left-behind-children-feel-distant-after-reunion-231f29",
       "reference": [
         "端传媒"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "gensler-names-12-san-francisco-housing-conversion-candidates-8ca917",
-      "title": "Gensler筛出旧金山12栋办公楼住宅改建候选楼",
-      "description": "建筑设计公司Gensler评估了旧金山市中心36栋办公楼，选出12栋得分达到75%以上的楼宇，列为住宅改建潜力较高的候选者。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T22:41:39+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/gensler-names-12-san-francisco-housing-conversion-candidates-8ca917",
-      "reference": [
-        "世界日报"
       ],
       "section": "life",
       "sourceCount": 1,
@@ -654,42 +926,6 @@
       "sources": []
     },
     {
-      "id": "pakistan-says-indian-border-guards-killed-two-civilians-ad51da",
-      "title": "巴方称印度边防人员在边境打死两名平民",
-      "description": "巴基斯坦安全部门一名消息人士称，2日，旁遮普省卡苏尔地区靠近印巴边界处发生枪击，开枪者为印度边防人员，三名村民中两人死亡、一人受伤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T21:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/pakistan-says-indian-border-guards-killed-two-civilians-ad51da",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-weighs-clayton-ai-czar-eeed0c",
-      "title": "特朗普拟任情报总监克雷顿为人工智能沙皇",
-      "description": "特朗普政府正考虑任命现任国家情报总监克雷顿负责统筹联邦政府人工智能工作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T20:02:49+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/trump-weighs-clayton-ai-czar-eeed0c",
-      "reference": [
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "west-texas-crude-price-falls-fbae74",
       "title": "国际油价10月2日收跌纽约原油跌幅较大",
       "description": "国际油价10月2日收盘下跌。",
@@ -706,44 +942,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "catalina-island-tucey-1500000-wage-restitution-e298a8",
-      "title": "卡塔利娜岛华裔业者被令支付150万美元欠薪赔偿",
-      "description": "洛杉矶县检察官办公室披露，南加州卡塔利娜岛旅馆和餐厅业者图西（Yueh Mei Tucey，又名Nora Tucey）在9月28日的赔偿及量刑听证会上向法院交付150万美元支票，用于赔偿数十名被欠薪员工。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T18:37:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/catalina-island-tucey-1500000-wage-restitution-e298a8",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "tesla-q3-deliveries-beat-expectations-e46ca3",
-      "title": "特斯拉三季度全球交付48.65万辆高于预期",
-      "description": "特斯拉公布2026年第三季度（7月至9月）全球汽车交付量为48万6532辆，同比减少约2%，仍超过市场预期。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T18:32:51+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/tesla-q3-deliveries-beat-expectations-e46ca3",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "business",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1067,24 +1265,6 @@
       "sources": []
     },
     {
-      "id": "japan-ruling-party-proposes-land-permit-system-1a06fd",
-      "title": "日本专家会议建议重要土地购置须获许可",
-      "description": "由东京大学名誉教授森田朗担任主席的日本政府专家会议10月2日向外国人共生担当相小野田纪美递交建议书，主张安保重要设施周边及边境离岛土地所有权转移须经许可，并原则上不允许外国政府及对其活动具有极其重要影响力的人购地。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T14:18:29+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-01",
-      "url": "https://kaopu.news/story/2026-10-01/japan-ruling-party-proposes-land-permit-system-1a06fd",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "french-students-protests-spread-warning-fdc4ef",
       "title": "法国学生抗议蔓延至全国逾千所高中受影响",
       "description": "法国学生因教师短缺、校舍陈旧、课堂拥挤及教学资源不足而发起的抗议，9月从巴黎地区扩展至全国，已波及逾千所高中。",
@@ -1120,24 +1300,6 @@
         "联合早报"
       ],
       "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "chicago-alpha-school-ai-teaching-d1bbbe",
-      "title": "芝加哥Alpha学校开课采用AI教授核心学科",
-      "description": "芝加哥Alpha School今年9月开课，以人工智能系统教授数学、阅读、写作、语言和科学等核心科目。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T13:48:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/chicago-alpha-school-ai-teaching-d1bbbe",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -1533,27 +1695,6 @@
       "sources": []
     },
     {
-      "id": "xi-us-visit-agriculture-announcement-763a39",
-      "title": "谢锋呼吁中美为人工智能设置护栏",
-      "description": "中国驻美国大使谢锋9月29日接受美国《新闻周刊》专访时呼吁，中美应为人工智能发展设置防护措施，加强合作，而不是把技术竞争推向相互封闭。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T10:15:38+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-04",
-      "url": "https://kaopu.news/story/2026-09-04/xi-us-visit-agriculture-announcement-763a39",
-      "reference": [
-        "联合早报",
-        "世界日报",
-        "中央通訊社",
-        "德国之声"
-      ],
-      "section": "china",
-      "sourceCount": 616,
-      "sources": []
-    },
-    {
       "id": "japan-customer-harassment-rules-take-effect-0731f4",
       "title": "日本新法要求企业应对顾客骚扰保护员工",
       "description": "日本修订后的《劳动施策综合推进法》于10月1日施行，将应对顾客骚扰列为所有企业的义务，旨在保护从业人员。",
@@ -1700,24 +1841,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "zhang-zhuhan-asian-games-kayak-cross-silver-d81231",
-      "title": "张筑涵获名古屋亚运会越野激流银牌",
-      "description": "张筑涵10月2日在名古屋亚运会女子越野激流决赛中获得银牌，连续四届亚运会登上领奖台。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T09:36:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/zhang-zhuhan-asian-games-kayak-cross-silver-d81231",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "sports",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1947,26 +2070,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "tsai-ing-wen-stanford-speeches-d906eb",
-      "title": "蔡英文将赴斯坦福发表国安会议开幕演讲",
-      "description": "台湾前总统蔡英文将于10月7日赴美国加利福尼亚州，出席斯坦福大学举行的Stanford DEFCON 2026科技与国家安全会议，并发表开幕主题演讲。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T08:42:08+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/tsai-ing-wen-stanford-speeches-d906eb",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "世界日报"
-      ],
-      "section": "asia",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -2359,25 +2462,6 @@
       "sources": []
     },
     {
-      "id": "us-mortgage-rates-rise-728-998268",
-      "title": "美国30年期房贷利率升至7.28%创近三年新高",
-      "description": "房地美10月1日公布，美国30年期固定房贷平均利率升至7.28%，较前一周的7.03%上升0.25个百分点，达到2023年11月以来最高水平；本周涨幅为四年来最大。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T06:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/us-mortgage-rates-rise-728-998268",
-      "reference": [
-        "中央通訊社",
-        "世界日报"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "greg-lui-charged-server-smuggling-china-080ea8",
       "title": "加州科技公司创办人被控走私英伟达芯片赴华",
       "description": "美国联邦检方于2026年10月1日公布对Earthmade Computers创办人兼首席执行官吕耀刚（Greg Lui）的指控，他当天被捕。",
@@ -2651,42 +2735,6 @@
       "sources": []
     },
     {
-      "id": "new-jersey-caldwell-resigns-sexual-remarks-probe-49b741",
-      "title": "新泽西州副州长卡德威尔涉性暗示指控辞职",
-      "description": "新泽西州副州长卡德威尔任职八个月后，于9月25日宣布辞职。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/new-jersey-caldwell-resigns-sexual-remarks-probe-49b741",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "new-york-council-skips-loke-registration-bill-69e3cb",
-      "title": "纽约市议会审议23项电动自行车与滑板车安全提案",
-      "description": "纽约市议会9月30日举行电动自行车和滑板车安全听证会，讨论23项提案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-01",
-      "url": "https://kaopu.news/story/2026-10-01/new-york-council-skips-loke-registration-bill-69e3cb",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "new-york-officials-protest-census-immigrant-exclusion-c88d60",
       "title": "纽约官员集会反对人口普查排除移民提案",
       "description": "纽约市议会议长朱曼宁、纽约州检察长詹乐霞和亚美联盟10月1日举行集会，反对美国联邦人口普查局拟调整2030年人口普查规则。",
@@ -2741,6 +2789,42 @@
       "sources": []
     },
     {
+      "id": "supreme-court-review-trump-immigration-detention-b8a38b",
+      "title": "美国最高法院将审理无证移民强制拘留政策",
+      "description": "美国最高法院10月1日宣布，将审理特朗普政府拒绝部分被拘留无证移民申请保释听证、并在驱逐程序期间强制拘留的做法是否合法。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-02T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-02",
+      "url": "https://kaopu.news/story/2026-10-02/supreme-court-review-trump-immigration-detention-b8a38b",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-administration-revokes-over-250000-visas-3a80a8",
+      "title": "美国国务院称特朗普政府已撤销逾25万张签证",
+      "description": "美国国务院发言人汤米·皮戈特表示，特朗普政府自2025年重返白宫以来已撤销超过25万张外国人签证。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-02T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-02",
+      "url": "https://kaopu.news/story/2026-10-02/trump-administration-revokes-over-250000-visas-3a80a8",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "trump-orders-federal-ai-superintelligence-terminology-42bf73",
       "title": "特朗普政府要求联邦文件将人工智能改称超级智能",
       "description": "美国白宫9月29日发布行政命令，要求联邦行政部门在官方信函、公共通信、网站、报告和政策文件等非法律文件中，以“Super Intelligence”（超级智能，SI）取代“Artificial Intelligence”（人工智能，AI）。",
@@ -2773,24 +2857,6 @@
         "澎湃新闻"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "uk-grants-south-korea-japan-sakhalin-lng-exemption-cbbf34",
-      "title": "英国向日韩发放萨哈林二号业务制裁豁免",
-      "description": "英国向韩国和日本发放临时许可，让英国企业继续为萨哈林二号项目对两国的既有液化天然气合同提供运输等服务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T05:41:56+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/uk-grants-south-korea-japan-sakhalin-lng-exemption-cbbf34",
-      "reference": [
-        "韩国国际广播电台"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -3423,27 +3489,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "iwashita-visits-china-as-trade-chief-3aa1da",
-      "title": "中国高层连续两天会见岩屋毅要求纠正涉台言行",
-      "description": "日本前外相、日本国际贸易促进协会会长岩屋毅率约50名日本企业界人士于2026年9月28日至29日在北京先后与中国外长王毅、国务院副总理何立峰举行会谈。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-01T09:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-24",
-      "url": "https://kaopu.news/story/2026-09-24/iwashita-visits-china-as-trade-chief-3aa1da",
-      "reference": [
-        "共同网",
-        "联合早报",
-        "日本放送协会",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 35,
       "sources": []
     },
     {
@@ -4979,8 +5024,8 @@
     },
     {
       "id": "nagoya-asian-games-scattered-venues-signal-trend-b359ea",
-      "title": "名古屋亚运会分散办赛模式折射大赛申办降温",
-      "description": "2026年9月26日，正在举行的名古屋亚运会因其赛事布局分散、多项比赛异地举行的办赛方式，成为分析国际综合性体育大赛申办趋缓、模式转型的典型案例。",
+      "title": "名古屋亚运会呈现大型赛事办赛转型",
+      "description": "名古屋亚运会采取分散办赛安排，多项比赛在异地举行。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -4997,8 +5042,8 @@
     },
     {
       "id": "aztec-codices-return-to-mexico-d3f1fc",
-      "title": "阿兹提克手抄本186年来首次在墨西哥展出",
-      "description": "法国将16世纪阿兹提克文明手抄本《阿兹卡蒂特兰手抄本》送回墨西哥，于9月25日在墨西哥国立人类学博物馆展出，这是该文献186年来首次在墨西哥亮相。",
+      "title": "法国将阿兹卡蒂特兰手抄本送回墨西哥展出",
+      "description": "法国巴黎国家图书馆收藏的16世纪《阿兹卡蒂特兰手抄本》已借展至墨西哥国立人类学博物馆，这是该文献186年来首次在墨西哥展出。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -5015,8 +5060,8 @@
     },
     {
       "id": "dai-dunbang-classical-literature-exhibition-shanghai-73d277",
-      "title": "上海图书馆东馆推出戴敦邦古典文学画展",
-      "description": "2026年9月24日，上海图书馆东馆推出“戴敦邦 完梦红楼”主题展览，展出画家戴敦邦五十年来为《三国演义》《水浒传》《西游记》《红楼梦》《金瓶梅》五大古典文学名著创作的主题画作。",
+      "title": "戴敦邦五大名著主题展在上海图书馆东馆开幕",
+      "description": "上海图书馆东馆于2026年9月24日开幕“戴敦邦 完梦红楼”主题展，集中展出戴敦邦五十年来围绕《三国演义》《水浒传》《西游记》《红楼梦》和《金瓶梅》创作的主题画作。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -5033,8 +5078,8 @@
     },
     {
       "id": "gucci-launches-china-made-sneakers-5dd2b4",
-      "title": "古驰推出中国制造运动鞋打破意大利传统",
-      "description": "古驰(Gucci)于2026年9月25日开始销售标有“中国制造”字样的新款高端运动鞋“Drip”，打破该品牌长期以来在意大利生产的传统。",
+      "title": "古驰推出中国制造运动鞋打破意大利生产传统",
+      "description": "古驰已开始销售由设计师德姆纳操刀的“Drip”未来感运动鞋。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -5171,24 +5216,6 @@
       "url": "https://kaopu.news/story/2026-09-24/end-criticizes-sun-yuchen-jing-tian-moral-performance-445448",
       "reference": [
         "端传媒"
-      ],
-      "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "mogao-cave-artifacts-debut-in-southeast-asia-3f9d1c",
-      "title": "莫高窟文物将首次在东南亚展出",
-      "description": "亚洲文明博物馆与敦煌研究院联合举办的“敦煌:佛教艺术与丝绸之路”展将于2026年9月25日在新加坡开幕，届时将是莫高窟艺术原作首次在东南亚展出。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-23T14:36:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-23",
-      "url": "https://kaopu.news/story/2026-09-23/mogao-cave-artifacts-debut-in-southeast-asia-3f9d1c",
-      "reference": [
-        "联合早报"
       ],
       "section": "culture",
       "sourceCount": 1,
