@@ -3,9 +3,120 @@
     "date": "2026-10-03",
     "timestamp": 1790993882,
     "totalPages": 1,
-    "total": 279
+    "total": 280
   },
   "stories": [
+    {
+      "id": "us-inspector-general-report-iran-war-costs-32f094",
+      "title": "美国国防部监察长报告披露对伊战事消耗",
+      "description": "美国国防部监察长近日公布一份关于美军“史诗狂怒”行动的报告。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T01:58:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/us-inspector-general-report-iran-war-costs-32f094",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-september-jobs-growth-misses-forecast-c121f2",
+      "title": "美国就业增长远逊预期后美股三大股指收涨",
+      "description": "美国劳工部公布的9月非农就业报告显示，当月就业人数增加2.9万人，远低于市场预期的9万人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T01:45:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-02",
+      "url": "https://kaopu.news/story/2026-10-02/us-september-jobs-growth-misses-forecast-c121f2",
+      "reference": [
+        "中央通訊社",
+        "财新",
+        "法广",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "amazon-pledges-billion-data-center-communities-f1f4a3",
+      "title": "亚马逊承诺五年拨款超10亿美元支持数据中心社区",
+      "description": "法新社称，亚马逊星期五（10月2日）公布“共同建设”计划，未来五年将投入超过10亿美元，支持其数据中心所在社区。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T01:42:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/amazon-pledges-billion-data-center-communities-f1f4a3",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "vance-aca-fraud-crackdown-enrollees-f2b0e3",
+      "title": "范斯推动健保反欺诈行动剔除76万名投保人",
+      "description": "美国副总统JD范斯称，政府已从《可负担健保法》（ACA）保险计划中剔除76万名不存在或被经纪人欺诈注册的投保人，另有40万人正在接受资格审查。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T01:41:47+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/vance-aca-fraud-crackdown-enrollees-f2b0e3",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-says-iran-war-will-end-soon-729938",
+      "title": "特朗普称与伊朗的战事将很快结束",
+      "description": "美国总统特朗普2日谈及与伊朗的战事，称战事“很快结束”，并表示伊朗“永远不会拥有核武器”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T01:37:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/trump-says-iran-war-will-end-soon-729938",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "argentina-china-auto-show-buenos-aires-6b1316",
+      "title": "阿根廷首届中国汽车展在布宜诺斯艾利斯举行",
+      "description": "阿根廷首届中国汽车展当地时间10月2日在首都布宜诺斯艾利斯举行，吉利、奇瑞、东风、长城等20多个中国品牌参展。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T01:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/argentina-china-auto-show-buenos-aires-6b1316",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "spacex-grace-docks-iss-fastest-us-flight-344bd3",
       "title": "SpaceX载人飞船8小时抵达国际空间站刷新纪录",
@@ -122,27 +233,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-september-jobs-growth-misses-forecast-c121f2",
-      "title": "美国9月非农就业仅增加2.9万人",
-      "description": "美国劳工部10月2日公布的数据显示，9月非农就业人数增加2.9万人，低于市场预期的9万人，也低于此前12个月月均增加4.5万人的水平。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T00:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/us-september-jobs-growth-misses-forecast-c121f2",
-      "reference": [
-        "中央通訊社",
-        "财新",
-        "法广",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -2723,44 +2813,6 @@
       "sources": []
     },
     {
-      "id": "fed-watchdog-finds-renovation-cost-overruns-695c10",
-      "title": "美联储监察长称总部翻修超支未涉刑事违法",
-      "description": "美国联邦储备局监察长办公室9月30日公布美联储华盛顿总部翻修调查报告。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T04:03:38+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-01",
-      "url": "https://kaopu.news/story/2026-10-01/fed-watchdog-finds-renovation-cost-overruns-695c10",
-      "reference": [
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "pentagon-awards-raytheon-sm6-missile-contract-12f854",
-      "title": "五角大楼授予雷神最高244亿美元导弹合约",
-      "description": "美国五角大楼周四授予雷神公司最高244亿美元的SM-6导弹合约，期限五年、可选择延长两年，旨在加快生产并补充伊朗战事中消耗的弹药。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T03:48:43+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/pentagon-awards-raytheon-sm6-missile-contract-12f854",
-      "reference": [
-        "法广",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "taiwan-legislature-freezes-cho-jung-tai-salary-c851f9",
       "title": "卓荣泰称台湾立法院冻结其四个月薪资于法无据",
       "description": "台湾立法院8月14日表决通过115年度中央政府总预算案，并冻结行政院长卓荣泰9月至12月的薪资。",
@@ -2945,24 +2997,6 @@
       "sources": []
     },
     {
-      "id": "us-iran-conflict-risk-lifts-oil-prices-ec6cbf",
-      "title": "美伊冲突升级风险推动国际油价大幅上涨",
-      "description": "美伊军事冲突扩大及霍尔木兹海峡航运受扰的风险重新计入原油价格。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T02:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/us-iran-conflict-risk-lifts-oil-prices-ec6cbf",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "doushen-subsidiary-signs-gpu-cloud-deal-3c26cd",
       "title": "豆神教育孙公司签约提供60个月GPU算力服务",
       "description": "豆神教育科技（北京）股份有限公司9月30日公告称，其全资孙公司豆神香港有限公司近日与VB客户签署云计算服务协议，将在60个月服务期内提供GPU算力服务。",
@@ -3114,8 +3148,8 @@
     },
     {
       "id": "macarthur-foundation-announces-2026-genius-grants-89c5a0",
-      "title": "麦克阿瑟基金会公布名单林松等三名华裔学者获奖",
-      "description": "麦克阿瑟基金会9月29日公布2026年天才奖名单，20名得主分别获得80万美元无条件奖金。",
+      "title": "麦克阿瑟基金会公布2026年天才奖得主",
+      "description": "麦克阿瑟基金会9月29日公布2026年度“天才奖”名单，艺术、人文和科学领域共有20人获奖。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -3128,27 +3162,6 @@
       ],
       "section": "culture",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "cpi-data-looms-as-fed-rate-hike-odds-rise-7fe0ae",
-      "title": "全球公债遭抛售推高美欧殖利率至24年新高",
-      "description": "10月1日，全球政府公债市场遭遇大规模抛售，推动美国10年期和30年期公债殖利率双双升至2002年以来最高水平，欧洲主要股指全线收跌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-01T17:32:52+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-11",
-      "url": "https://kaopu.news/story/2026-09-11/cpi-data-looms-as-fed-rate-hike-odds-rise-7fe0ae",
-      "reference": [
-        "第一财经",
-        "中央通訊社",
-        "澎湃新闻",
-        "日经"
-      ],
-      "section": "business",
-      "sourceCount": 153,
       "sources": []
     },
     {
@@ -3619,7 +3632,7 @@
     {
       "id": "mcdonalds-expands-ai-pricing-franchisee-concerns-1164c6",
       "title": "麦当劳扩大AI定价建议引发加盟店主争议",
-      "description": "麦当劳于10月1日扩大在美国及部分海外市场使用人工智能系统为门店提供菜单定价建议。",
+      "description": "麦当劳正扩大在美国及部分海外市场使用人工智能定价工具，为各门店、各项餐点提供价格建议。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -3910,7 +3923,7 @@
     {
       "id": "xu-yao-appointed-deputy-minister-bada60",
       "title": "徐耀出任中共中央社会工作部副部长",
-      "description": "徐耀于2026年9月30日出任中共中央社会工作部副部长。",
+      "description": "中共中央社会工作部官网“部领导”页面近日更新，显示徐耀现任该部副部长；他此前任中国退役军人事务部副部长。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -3929,7 +3942,7 @@
     {
       "id": "you-benchang-funeral-beijing-held-d5d339",
       "title": "游本昌遗体告别仪式在北京八宝山举行",
-      "description": "著名表演艺术家游本昌的遗体告别仪式9月30日上午在北京八宝山殡仪馆兰厅举行。",
+      "description": "著名表演艺术家游本昌的遗体告别仪式于9月30日上午在北京八宝山殡仪馆兰厅举行。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -3947,8 +3960,8 @@
     },
     {
       "id": "yunnan-plan-three-economic-belts-56be9d",
-      "title": "云南发布规划提出未来五年建设三条经济带",
-      "description": "云南省政府9月29日发布《云南省区域协同发展“十五五”规划》，提出未来五年重点建设中老铁路沿线经济带、渝昆高铁经济带和沿边经济带。",
+      "title": "云南规划未来五年打造三条经济带",
+      "description": "云南省政府9月29日发布《云南省区域协同发展“十五五”规划》，提出未来五年围绕中老铁路、渝昆高铁和云南边境地区建设三条经济带，推动省内廊道与区域发展协同，并加强云南连接中国市场与南亚、东南亚市场的作用。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -4024,8 +4037,8 @@
     },
     {
       "id": "hubei-wuhan-regional-innovation-engine-780681",
-      "title": "湖北省委发布实施意见推动武汉成为区域科创引擎",
-      "description": "2026年9月30日，中共湖北省委正式发布武汉区域科技创新中心建设实施意见，提出以武汉为核心引擎，推动其从提升城市自身科创能力转向带动全省及周边区域创新，并完善成果转化和跨区域协作机制。",
+      "title": "湖北省委发文推动武汉科创转向区域引擎",
+      "description": "湖北省委近日正式发布《实施意见》，提出以武汉区域科技创新中心为核心、武汉都市圈为重要载体，推动武汉科创从提升城市自身能力转向带动区域创新。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -4042,8 +4055,8 @@
     },
     {
       "id": "wu-jian-southwest-securities-investigation-0dadae",
-      "title": "西南证券原董事长吴坚接受纪律审查和监察调查",
-      "description": "9月30日，重庆市纪委监委发布消息称，西南证券股份有限公司原党委书记、董事长吴坚涉嫌严重违纪违法，现正接受纪律审查和监察调查。",
+      "title": "西南证券原党委书记、董事长吴坚接受审查调查",
+      "description": "中央纪委国家监委网站9月30日刊载了重庆市纪委监委发布的消息。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -4060,8 +4073,8 @@
     },
     {
       "id": "raskin-demands-data-center-nda-disclosure-901c53",
-      "title": "拉斯金要求科技巨头提交数据中心保密协议",
-      "description": "美国民主党众议员杰米·拉斯金于9月29日致函亚马逊、谷歌、Meta Platforms和甲骨文公司，要求提供这些公司与地方政府签订的数据中心保密协议内容。",
+      "title": "拉斯金要求科技巨头交出数据中心保密协议",
+      "description": "美国民主党马里兰州联邦众议员、众议院司法委员会资深成员杰米·拉斯金于9月29日致函亚马逊、谷歌、Meta Platforms和甲骨文公司，要求提供这些企业与地方政府就数据中心项目签订的保密协议。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -4078,8 +4091,8 @@
     },
     {
       "id": "china-water-investment-795-billion-yuan-5095ad",
-      "title": "水利部前三季度完成水利投资7950亿元",
-      "description": "水利部9月30日在国务院新闻办公室举行的发布会上介绍现代化水网建设情况。",
+      "title": "水利部前三季度水利投资达7950亿元",
+      "description": "水利部规划计划司司长李明9月30日在国务院新闻办发布会上介绍，今年前九个月水利建设投资达到7950亿元。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -4116,8 +4129,8 @@
     },
     {
       "id": "nagoya-asian-games-ticket-sales-empty-stands-2baa5e",
-      "title": "名古屋亚运门票售逾百万看台仍现空座",
-      "description": "截至9月28日，名古屋亚运会门票累计销量已超过100万张，但多个项目比赛现场仍有不少空座。",
+      "title": "名古屋亚运门票销量突破百万看台仍现大量空座",
+      "description": "名古屋亚运会组委会9月29日表示，截至9月28日，赛事门票累计售出超过100万张；但多项比赛现场仍有大量空座。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -4134,8 +4147,8 @@
     },
     {
       "id": "china-extends-us-trade-barrier-probes-d0ec7f",
-      "title": "中国商务部将两项对美调查延至12月27日",
-      "description": "中国商务部9月30日公布决定，将针对美国相关做法的两项贸易壁垒调查延长至2026年12月27日。",
+      "title": "中国商务部将两项对美壁垒调查延至12月27日",
+      "description": "中国商务部近日宣布，将两项针对美国相关措施的贸易壁垒调查延长至2026年12月27日。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -4174,8 +4187,8 @@
     },
     {
       "id": "china-tax-agency-unifies-penalty-rules-4842fe",
-      "title": "税务总局统一全国税务行政处罚裁量标准",
-      "description": "国家税务总局9月30日公开《全国税务行政处罚裁量基准（2026年版）》，统一全国税务行政处罚的裁量标准。",
+      "title": "税务总局统一税务处罚裁量标准11月起施行",
+      "description": "国家税务总局9月30日公布《全国税务行政处罚裁量基准（2026年版）》，新标准将于2026年11月1日起施行。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -4192,8 +4205,8 @@
     },
     {
       "id": "agibot-humanoid-shipments-surpass-unitree-f43bdd",
-      "title": "智元上半年人形机器人出货量超宇树",
-      "description": "IDC与Smart Analytics Global（SAG）发布的报告均显示，2026年上半年智元人形机器人出货量超过宇树科技，位居全球第一。",
+      "title": "智元上半年人形机器人出货量超宇树科技",
+      "description": "IDC与Smart Analytics Global（SAG）近日发布的报告均显示，2026年上半年智元人形机器人出货量超过宇树科技，排名第一。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -4210,8 +4223,8 @@
     },
     {
       "id": "osaka-hospital-completes-insurance-covered-ips-surgery-d8a3fd",
-      "title": "日本完成首例医保覆盖iPS心肌细胞片移植手术",
-      "description": "2026年9月29日，大阪警察医院为一名神奈川县50多岁女性完成“RiHEART”移植手术。",
+      "title": "日本完成医保覆盖iPS心肌产品首例移植手术",
+      "description": "日本大阪警察医院29日为一名来自神奈川县的50多岁女性完成“RiHEART”移植。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -4229,8 +4242,8 @@
     },
     {
       "id": "tokyo-court-recognizes-tsuda-voice-rights-1c66fc",
-      "title": "东京法院认定津田健次郎声音受形象权保护",
-      "description": "东京地方法院9月30日就声优津田健次郎起诉TikTok运营公司擅自使用AI模仿其声音一案作出判决，认为声音与肖像一样体现个人身份，受到形象权保护；法院同时驳回了删除视频的诉求。",
+      "title": "东京法院认定声音属人格象征但驳回删视频诉求",
+      "description": "东京地方法院审判长高桥彩于2026年9月30日就津田健次郎起诉TikTok运营公司一案作出判决。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -4247,8 +4260,8 @@
     },
     {
       "id": "south-korea-plans-200000-robots-209dbf",
-      "title": "韩国政府计划2030年前普及20万台机器人",
-      "description": "韩国国务总理韩圣淑9月30日在第九届国家尖端战略产业委员会会议上宣布，政府拟与民间合作，到2030年前推广使用20万台机器人。",
+      "title": "韩国政府计划到2030年普及20万台机器人",
+      "description": "韩国国务总理韩圣淑在第九届国家尖端战略产业委员会会议上宣布，政府计划与民间合作，在2030年前普及20万台机器人。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -4265,8 +4278,8 @@
     },
     {
       "id": "vw-chinese-partner-europe-lfp-capacity-f5f8c0",
-      "title": "大众携中国企业在欧洲建设磷酸铁锂电池产能",
-      "description": "大众汽车集团与中国企业合资建设欧洲磷酸铁锂电池产能。",
+      "title": "大众汽车集团与中国企业合建欧洲磷酸铁锂电池产能",
+      "description": "大众汽车集团与一家中国企业合资建设欧洲磷酸铁锂电池产能。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -4283,8 +4296,8 @@
     },
     {
       "id": "taiwan-crown-magazine-ends-publication-70ac01",
-      "title": "台湾《皇冠》杂志宣布12月出版最后一期",
-      "description": "台湾《皇冠》杂志发行人平珩9月29日宣布，这本由平鑫涛于1954年创办的杂志将在今年12月推出最后一期，结束72年的出版历程。",
+      "title": "台湾《皇冠》杂志宣布将于12月停刊",
+      "description": "台湾《皇冠》杂志发行人平珩9月29日宣布，杂志将在2026年12月出版最后一期，结束自1954年2月创刊以来72年的出版历程。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -4301,8 +4314,8 @@
     },
     {
       "id": "datong-launches-ai-infrastructure-cube-57cd52",
-      "title": "大同推出AI基础设施方案称180天可建机柜",
-      "description": "大同公司于2026年9月30日举办AI基础设施解决方案发布会，首次推出TTG AIDC CUBE，称可在180天内提供从电网接入到算力机柜建置的服务。",
+      "title": "龚明鑫称台湾十年内将有25部天然气机组上线",
+      "description": "大同9月30日举行AI数据中心基础设施方案发布会，首次推出TTG AIDC CUBE。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -4319,8 +4332,8 @@
     },
     {
       "id": "inmo-air3-recalled-us-canada-overheating-c383ac",
-      "title": "影目科技为海外版AIR3过热致歉并安排召回更新",
-      "description": "影目科技9月30日就INMO AIR3海外版出现过热现象发布致歉声明，称问题与部分未经官方测试的第三方应用有关，公司已下架相关应用并调整设备功耗管理策略。",
+      "title": "影目科技就AIR3海外版过热致歉并启动整改",
+      "description": "影目科技9月30日就INMO AIR3海外版在特定使用情境下升温发布声明并致歉。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -4337,8 +4350,8 @@
     },
     {
       "id": "china-badminton-asian-games-worst-record-2318ca",
-      "title": "中国羽毛球队亚运战绩创二十四年来新低",
-      "description": "中国国家羽毛球队在爱知·名古屋亚运会羽毛球项目于9月30日收官，最终获得2金3银3铜，成绩为2002年釜山亚运会以来最差。",
+      "title": "国羽亚运会获两金创下2002年以来最差战绩",
+      "description": "爱知·名古屋亚运会羽毛球比赛于9月29日结束，中国国家羽毛球队以2金3银3铜、共8枚奖牌收官，创下自2002年釜山亚运会以来的最差成绩。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -4355,7 +4368,7 @@
     },
     {
       "id": "sanlian-publishes-qian-yuan-book-90a472",
-      "title": "三联书店出版《我们的钱瑗》增补本",
+      "title": "三联书店推出《我们的钱瑗》增补本",
       "description": "生活·读书·新知三联书店于2026年9月出版《我们的钱瑗（增补本）》。",
       "context": "",
       "keyFacts": [],
