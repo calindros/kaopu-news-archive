@@ -1,11 +1,199 @@
 {
   "details": {
     "date": "2026-10-04",
-    "timestamp": 1791094674,
+    "timestamp": 1791102314,
     "totalPages": 1,
-    "total": 279
+    "total": 280
   },
   "stories": [
+    {
+      "id": "okinawa-police-arrest-marine-robbery-murder-suspect-0e0016",
+      "title": "冲绳警方逮捕涉嫌抢劫杀人的美军士兵",
+      "description": "冲绳县警方10月4日以涉嫌抢劫杀人逮捕20岁的美国海军陆战队员德文·雅各布·巴拉德。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T07:00:20+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/okinawa-police-arrest-marine-robbery-murder-suspect-0e0016",
+      "reference": [
+        "联合早报",
+        "共同网",
+        "日本放送协会",
+        "澎湃新闻"
+      ],
+      "section": "asia",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "bermuda-boston-medical-jet-loses-contact-56e328",
+      "title": "美海岸警卫队发现失联医疗专机残骸",
+      "description": "美国海岸警卫队当地时间10月3日确认，在马萨诸塞州楠塔基特岛附近海域发现的残骸属于一架失联医疗转运专机。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T06:52:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/bermuda-boston-medical-jet-loses-contact-56e328",
+      "reference": [
+        "世界日报",
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "oca-names-asian-games-mvps-9769d2",
+      "title": "亚奥理事会公布第20届亚运会MVP人选",
+      "description": "亚奥理事会4日举行新闻发布会，宣布中国游泳运动员于子迪当选第20届亚运会女子最有价值运动员，泰国短跑运动员汶颂当选男子最有价值运动员。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T06:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/oca-names-asian-games-mvps-9769d2",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "sports",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "li-mu-guang-crocodile-farm-founder-dies-a1c314",
+      "title": "农光行鳄鱼场创办人李木光逝世，享年87岁",
+      "description": "农光行鳄鱼场创办人李木光因末期胃癌于9月28日在睡梦中去世，享年87岁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T06:42:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/li-mu-guang-crocodile-farm-founder-dies-a1c314",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "bessent-proposes-us-china-ai-safety-mechanism-ab2659",
+      "title": "贝森特拟提议美中建立人工智能安全通报机制",
+      "description": "美国财政部长贝森特10月3日表示，他计划向中国提议建立美中人工智能安全通报机制，以应对相关风险；他认为中方会同意这一提议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/bessent-proposes-us-china-ai-safety-mechanism-ab2659",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "columbia-journalism-school-suspends-ma-admissions-7b2664",
+      "title": "哥伦比亚大学新闻学院暂停文科硕士招生一年",
+      "description": "哥伦比亚大学新闻学院10月2日宣布，文科硕士（M.A.）课程将暂停招生一年。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T06:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/columbia-journalism-school-suspends-ma-admissions-7b2664",
+      "reference": [
+        "联合早报",
+        "世界日报"
+      ],
+      "section": "culture",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "shinhan-bank-hack-exposes-customer-data-b766c1",
+      "title": "李在明下令彻查金融及公共机构个人信息泄露",
+      "description": "韩国总统李在明10月4日下令彻查近期金融机构和公共机构的个人信息泄露事件，并制定应对措施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T06:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-01",
+      "url": "https://kaopu.news/story/2026-10-01/shinhan-bank-hack-exposes-customer-data-b766c1",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "democrats-challenge-gop-five-senate-races-31f7dd",
+      "title": "五州参议院民调显示民主党候选人整体占优",
+      "description": "纽约时报与谢纳学院9月联合民调覆盖德州、阿拉斯加州、俄亥俄州、爱荷华州和堪萨斯州的参议院选举。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T06:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/democrats-challenge-gop-five-senate-races-31f7dd",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "hong-kong-foreign-home-care-worker-plan-eb9c0c",
+      "title": "香港政府最快明年下半年推动外籍居家照护员计划",
+      "description": "联合早报援引《明报》报道，香港劳工及福利局局长孙玉菡10月4日表示，政府最快于2027年下半年推动外籍居家照护员计划；香港今年的施政报告已提出引入该计划。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T06:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/hong-kong-foreign-home-care-worker-plan-eb9c0c",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "americans-blame-trump-policies-rising-prices-246693",
+      "title": "美国选民更看好民主党应对生活成本",
+      "description": "美联社与NORC公共事务研究中心9月24日至28日进行的民调显示，美国登记选民在生活成本和经济议题上更倾向认为民主党有能力应对，但普遍不相信两党能够解决重要民生问题或帮助普通民众。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T06:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-01",
+      "url": "https://kaopu.news/story/2026-10-01/americans-blame-trump-policies-rising-prices-246693",
+      "reference": [
+        "公视",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
     {
       "id": "trump-announces-32-day-midterm-campaign-tour-cd9120",
       "title": "特朗普赴共和党红州助选力保国会多数",
@@ -26,13 +214,34 @@
       "sources": []
     },
     {
-      "id": "ice-crackdown-chinese-savings-transfers-260f6c",
-      "title": "ICE执法趋严促部分华人出售房产准备离美",
-      "description": "随着美国移民与海关执法局（ICE）加大执法力度，部分等待绿卡或身份不稳定的华人开始出售房产、汽车和大型家具，改为租房、租车，为可能离开美国做准备。",
+      "id": "french-students-protests-spread-warning-fdc4ef",
+      "title": "法国学生抗议升级逾千所学校受影响",
+      "description": "法国学生因教师短缺、班级拥挤、校舍老旧和学习资源不足发起的抗议自9月从巴黎地区扩散至全国。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-04T06:16:00+00:00",
+      "updatedAt": "2026-10-04T06:20:17+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-29",
+      "url": "https://kaopu.news/story/2026-09-29/french-students-protests-spread-warning-fdc4ef",
+      "reference": [
+        "联合早报",
+        "法广",
+        "公视",
+        "德国之声"
+      ],
+      "section": "world",
+      "sourceCount": 13,
+      "sources": []
+    },
+    {
+      "id": "ice-crackdown-chinese-savings-transfers-260f6c",
+      "title": "身份待定华人转移资产为离美预留退路",
+      "description": "随着美国移民与海关执法局（ICE）执法趋严，一些身份仍待确定、等待绿卡的华人开始转移存款或出售房产、车辆，担心遭拘留或不得不离美时，难以及时处理资产。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T06:20:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-04",
       "url": "https://kaopu.news/story/2026-10-04/ice-crackdown-chinese-savings-transfers-260f6c",
@@ -40,7 +249,189 @@
         "世界日报"
       ],
       "section": "life",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "san-francisco-schools-preserve-federal-investigation-records-109ad6",
+      "title": "旧金山学区总监要求教师保存联邦调查材料",
+      "description": "旧金山联合学区总监史瑞庆（Maria Su）10月2日发邮件称，学区正为美国司法部的第九条合规审查整理文件，需要员工协助辨认和收集相关材料。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T06:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/san-francisco-schools-preserve-federal-investigation-records-109ad6",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ho-yin-mo-released-after-ice-detention-6b4759",
+      "title": "加州议员幕僚毛皓延被ICE拘留15天后获释",
+      "description": "加州州众议员司嘉怡办公室的地区代表毛皓延在拉斯维加斯被美国移民暨海关执法局（ICE）拘留15天后，于10月2日获释。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T06:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/ho-yin-mo-released-after-ice-detention-6b4759",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "japan-tops-global-tourism-development-index-5da4b6",
+      "title": "日本升至全球旅游发展指数排名第一",
+      "description": "世界经济论坛发布的《2026年旅游暨旅游业发展指数》显示，日本升至全球第一，美国排名第二，中国位列第八，首次进入前十。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T06:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/japan-tops-global-tourism-development-index-5da4b6",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "shinyhunters-khader-arrested-jordan-17bf2d",
+      "title": "疑似闪亮猎人成员哈德尔在约旦被捕",
+      "description": "三名知情人士称，疑似网络犯罪组织“闪亮猎人”成员哈德尔（Saif al-Din Khader）于9月29日在约旦被捕，网名为“Rey”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T06:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/shinyhunters-khader-arrested-jordan-17bf2d",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-plans-manila-asean-summit-visit-4aad73",
+      "title": "特朗普计划11月赴马尼拉出席东盟峰会",
+      "description": "知情人士称，美国总统特朗普计划于11月16日至18日前往菲律宾马尼拉，出席东盟峰会。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T06:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/trump-plans-manila-asean-summit-visit-4aad73",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "hong-kong-third-quarter-equity-financing-record-e064ff",
+      "title": "香港第三季股权融资额刷新同期纪录",
+      "description": "香港2026年第三季度（7月至9月）股权融资达到475亿美元，创历年同期新高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T06:12:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/hong-kong-third-quarter-equity-financing-record-e064ff",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "musk-confirms-tsmc-terafab-talks-04d215",
+      "title": "台积电评估协助运营马斯克得州晶圆厂",
+      "description": "台湾积体电路制造公司（台积电）正评估协助埃隆·马斯克旗下Terafab运营得克萨斯州的新半导体厂。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T06:10:12+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/musk-confirms-tsmc-terafab-talks-04d215",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "business",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "chicago-parking-meter-deal-stonepeak-profit-share-2d1b78",
+      "title": "芝加哥议会批准停车收费系统转售协议",
+      "description": "芝加哥市议会近日以46票赞成、3票反对，通过停车收费系统转售协议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T06:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/chicago-parking-meter-deal-stonepeak-profit-share-2d1b78",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-drops-new-jersey-military-detention-center-plan-b998b9",
+      "title": "川普政府放弃新泽西军事基地拘留中心计划",
+      "description": "川普政府已放弃在新泽西州麦圭尔—迪克斯—莱克赫斯特联合基地建设移民拘留中心的方案。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T06:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/trump-drops-new-jersey-military-detention-center-plan-b998b9",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "merz-visits-kyiv-reaffirms-german-support-a18592",
+      "title": "默茨无预告访问基辅重申德国支持",
+      "description": "德国总理默茨周日（10月4日）未预先公布行程便抵达基辅，随行者包括德国经济部长赖歇，以及西门子能源、亨索尔特、迪尔防务和昆腾系统等企业高管。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T06:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/merz-visits-kyiv-reaffirms-german-support-a18592",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -115,6 +506,24 @@
         "世界日报"
       ],
       "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "san-jose-expands-detention-ban-public-land-ce68f0",
+      "title": "圣荷西市议会扩大拘留设施禁令至公共用地",
+      "description": "圣荷西市议会9月29日一致表决，将为期45天的新建拘留设施暂停令扩大至公共用地。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/san-jose-expands-detention-ban-public-land-ce68f0",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -330,26 +739,6 @@
       "sources": []
     },
     {
-      "id": "okinawa-police-arrest-marine-robbery-murder-suspect-0e0016",
-      "title": "冲绳警方逮捕涉嫌抢劫杀害女性的美军士兵",
-      "description": "冲绳警方10月4日逮捕20岁海军陆战队员Davin Ballard，指其涉嫌在那霸抢劫杀害39岁Anna Yagi。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T05:03:28+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-04",
-      "url": "https://kaopu.news/story/2026-10-04/okinawa-police-arrest-marine-robbery-murder-suspect-0e0016",
-      "reference": [
-        "联合早报",
-        "共同网",
-        "日本放送协会"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "china-wins-asian-games-mens-golf-gold-4d9d0f",
       "title": "中国队以169枚金牌创非东道主亚运最佳战绩",
       "description": "第二十届亚运会结束后，中国队以169枚金牌、89枚银牌和83枚铜牌完成本届赛事，奖牌总数为341枚，在金牌榜和奖牌榜上均位居第一，并刷新了代表团以非东道主身份参加亚运会的最佳成绩。",
@@ -385,6 +774,27 @@
       ],
       "section": "sports",
       "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "cornell-fraternity-accused-of-drug-sexual-assault-a48306",
+      "title": "康奈尔校长支持外部律师审查性侵案处理",
+      "description": "康奈尔大学校长迈克尔·柯里科夫10月4日表示，学校将与校董会合作，欢迎外部律师事务所独立审查校方对2024年Chi Phi兄弟会性侵指控的处理。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T05:02:52+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-28",
+      "url": "https://kaopu.news/story/2026-09-28/cornell-fraternity-accused-of-drug-sexual-assault-a48306",
+      "reference": [
+        "端传媒",
+        "世界日报",
+        "公视",
+        "纽约时报"
+      ],
+      "section": "us",
+      "sourceCount": 16,
       "sources": []
     },
     {
@@ -445,6 +855,24 @@
       "sources": []
     },
     {
+      "id": "yemen-government-forces-strike-sanaa-saada-taiz-a9b2e1",
+      "title": "也门政府军对萨那等三地发动打击",
+      "description": "也门军方发言人马吉德·努扎利称，政府军已打击首都萨那、萨达省和塔伊兹省。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T04:32:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/yemen-government-forces-strike-sanaa-saada-taiz-a9b2e1",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "spain-eviction-sparks-mass-protests-386112",
       "title": "西班牙数万人举行游行抗议住房危机",
       "description": "10月3日，西班牙马德里、瓦伦西亚、巴塞罗那等地举行约50场游行，数万民众要求降低租金、停止驱逐租户并加强住房保障。",
@@ -463,43 +891,6 @@
       ],
       "section": "world",
       "sourceCount": 9,
-      "sources": []
-    },
-    {
-      "id": "oca-names-asian-games-mvps-9769d2",
-      "title": "亚奥理事会公布亚运会最有价值运动员名单",
-      "description": "亚奥理事会10月4日公布第20届亚运会最有价值运动员评选结果，泰国短跑选手汶颂获男子奖项，中国游泳选手于子迪获女子奖项。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T03:23:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-04",
-      "url": "https://kaopu.news/story/2026-10-04/oca-names-asian-games-mvps-9769d2",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "bermuda-boston-medical-jet-loses-contact-56e328",
-      "title": "美国海岸警卫队发现失联医疗机残骸",
-      "description": "美国海岸警卫队当地时间10月3日证实，在马萨诸塞州楠塔基特岛附近海域发现一架失联医疗运输飞机的残骸。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T03:06:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/bermuda-boston-medical-jet-loses-contact-56e328",
-      "reference": [
-        "世界日报",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -861,27 +1252,6 @@
       "sources": []
     },
     {
-      "id": "french-students-protests-spread-warning-fdc4ef",
-      "title": "法国高中生抗议波及全国逾千所学校",
-      "description": "法国高中生自9月起因教师短缺、校舍状况和教学安排等问题发起抗议，行动从巴黎地区扩展至全国，部分学生封锁校门并与警方发生冲突。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T00:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-29",
-      "url": "https://kaopu.news/story/2026-09-29/french-students-protests-spread-warning-fdc4ef",
-      "reference": [
-        "联合早报",
-        "法广",
-        "公视",
-        "德国之声"
-      ],
-      "section": "world",
-      "sourceCount": 12,
-      "sources": []
-    },
-    {
       "id": "vietnam-fuel-prices-raise-business-costs-553d4c",
       "title": "越南油价近三月涨逾两成推高企业成本",
       "description": "越南燃油价格近三个月明显上涨，92号无铅汽油从6月底每升约20126越南盾升至9月底的26397越南盾，涨幅超过两成，企业生产和运输成本随之增加，通胀压力加重。",
@@ -933,43 +1303,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ho-yin-mo-released-after-ice-detention-6b4759",
-      "title": "加州众议员华裔幕僚毛皓延被拘15天后获释",
-      "description": "加州众议员史司嘉怡旧金山办公室的幕僚毛皓延9月17日在拉斯维加斯哈里瑞德国际机场被美国移民暨海关执法局（ICE）拘留。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T23:44:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-04",
-      "url": "https://kaopu.news/story/2026-10-04/ho-yin-mo-released-after-ice-detention-6b4759",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "columbia-journalism-school-suspends-ma-admissions-7b2664",
-      "title": "哥伦比亚大学新闻学院暂停文科硕士招生一年",
-      "description": "哥伦比亚大学新闻学院于2026年10月2日宣布，文科硕士（M.A.）项目暂停招生一年。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T23:39:34+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/columbia-journalism-school-suspends-ma-admissions-7b2664",
-      "reference": [
-        "联合早报",
-        "世界日报"
-      ],
-      "section": "culture",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1043,27 +1376,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "cornell-fraternity-accused-of-drug-sexual-assault-a48306",
-      "title": "纽约州任命特别检察官调查康奈尔性侵案",
-      "description": "纽约州州长凯西·霍楚已任命州总检察长莱蒂蒂娅·詹姆斯为特别检察官，调查康奈尔大学一名前学生指控Chi Phi兄弟会7名成员于2024年10月19日对她下药并集体性侵一案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T21:32:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-28",
-      "url": "https://kaopu.news/story/2026-09-28/cornell-fraternity-accused-of-drug-sexual-assault-a48306",
-      "reference": [
-        "端传媒",
-        "世界日报",
-        "公视",
-        "纽约时报"
-      ],
-      "section": "us",
-      "sourceCount": 15,
       "sources": []
     },
     {
@@ -1519,25 +1831,6 @@
       "sources": []
     },
     {
-      "id": "musk-confirms-tsmc-terafab-talks-04d215",
-      "title": "台积电评估协助运营马斯克得州Terafab工厂",
-      "description": "独立科技记者高灿鸣（Tim Culpan）在其Culpium平台援引知情人士称，台积电正评估协助马斯克旗下Terafab运营得州新厂。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T11:30:42+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/musk-confirms-tsmc-terafab-talks-04d215",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "trump-russia-lukoil-oil-deal-talks-6e5ccc",
       "title": "特朗普政府与俄罗斯探讨数十亿美元卢克石油交易",
       "description": "据《联合早报》转述，《纽约时报》援引消息人士报道，特朗普政府与俄罗斯围绕结束俄乌战争的谈判已涉及一项价值数十亿美元的卢克石油交易。",
@@ -1607,42 +1900,6 @@
       ],
       "section": "life",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "kaiser-report-germany-east-west-gap-ac54e2",
-      "title": "凯泽发布报告指出德国东西部差距仍存",
-      "description": "德国联邦政府东部事务专员伊丽莎白·凯泽近日公布2026年度报告。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T10:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/kaiser-report-germany-east-west-gap-ac54e2",
-      "reference": [
-        "德国之声"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ta419-spoofs-koizumi-site-phishing-emails-77e715",
-      "title": "TA419伪冒小泉官网向日美智库人员发送钓鱼邮件",
-      "description": "美国网络安全企业Proofpoint于10月1日称，名为TA419的组织曾向日本和美国的智库及大学相关人员发送钓鱼邮件，企图骗取密码等信息。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T09:45:15+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/ta419-spoofs-koizumi-site-phishing-emails-77e715",
-      "reference": [
-        "共同网"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2847,25 +3104,6 @@
       "sources": []
     },
     {
-      "id": "musk-returns-trump-government-pentagon-war-study-78117c",
-      "title": "赫格塞斯宣布马斯克等人牵头未来战争研究",
-      "description": "美国战争部长皮特·赫格塞斯9月30日在弗吉尼亚州匡提科军事基地介绍五角大楼“子午线计划”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T13:02:49+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-01",
-      "url": "https://kaopu.news/story/2026-10-01/musk-returns-trump-government-pentagon-war-study-78117c",
-      "reference": [
-        "联合早报",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "east-japan-september-rainfall-record-b25ad1",
       "title": "日本东部九月降水量创同期最高纪录",
       "description": "日本东部9月降水量达常年的214%，创同期最高纪录；关东甲信、东海降水量为常年的236%，日照为常年的46%，均刷新1946年以来纪录。",
@@ -2882,44 +3120,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "takaichi-orders-cabinet-expand-fukushima-soil-reuse-01913c",
-      "title": "高市要求日本内阁扩大福岛去污土再利用",
-      "description": "日本首相高市早苗10月2日在首相官邸的政府复兴推进会议上，要求全体内阁成员扩大福岛县去污土再利用，并表示将制定2030年以后的县外最终处置路径。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T12:32:44+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/takaichi-orders-cabinet-expand-fukushima-soil-reuse-01913c",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nike-restructures-business-three-regions-eca788",
-      "title": "耐克将全球业务架构调整为三大区域",
-      "description": "耐克集团当地时间10月1日宣布启动Pace运营模式转型，把原有四大区域调整为三大区域：北美与拉丁美洲合并为美洲市场，亚太与大中华区合并为APGC，欧洲、中东和非洲（EMEA）维持不变。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T12:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/nike-restructures-business-three-regions-eca788",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "business",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -3278,97 +3478,6 @@
       "sources": []
     },
     {
-      "id": "greg-lui-charged-server-smuggling-china-080ea8",
-      "title": "加州科技公司创办人被控走私英伟达芯片赴华",
-      "description": "美国联邦检方于2026年10月1日公布对Earthmade Computers创办人兼首席执行官吕耀刚（Greg Lui）的指控，他当天被捕。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T06:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-01",
-      "url": "https://kaopu.news/story/2026-10-01/greg-lui-charged-server-smuggling-china-080ea8",
-      "reference": [
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "new-york-rent-board-stabilized-rent-freeze-a7cbc0",
-      "title": "纽约租金指导委员会核定稳定公寓租约零涨幅",
-      "description": "纽约市租金指导委员会核定，2026年10月1日至2027年9月30日生效的租金稳定公寓一年期和两年期租约，租金涨幅均为零。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T06:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/new-york-rent-board-stabilized-rent-freeze-a7cbc0",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "court-orders-lin-release-after-ice-detention-77ac3a",
-      "title": "联邦法院裁定ICE拘留林碧萍违反正当程序",
-      "description": "加州中区联邦地区法院9月14日裁定，林碧萍自8月4日起遭美国移民及海关执法局（ICE）拘留，在失去人身自由前没有收到通知，也未能在中立决策者面前陈述，违反第五修正案的程序性正当程序保障。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T06:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/court-orders-lin-release-after-ice-detention-77ac3a",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "california-chinese-detainees-win-release-84dd09",
-      "title": "联邦法院下令释放三名遭ICE拘留的中国公民",
-      "description": "2026年4月至9月，三名在南加州遭美国移民及海关执法局（ICE）拘留的中国公民，分别依据《美国法典》第28编第2241条向加州中区联邦地区法院申请人身保护令，质疑拘留前没有获得通知或听证。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T06:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/california-chinese-detainees-win-release-84dd09",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "green-card-holder-paroled-after-cannabis-arrest-becaae",
-      "title": "涉大麻农场案绿卡持有人返美遭扣卡仅获临时准入",
-      "description": "来自广东台山的美国绿卡持有人关先生今年8月从中国返美时，因五年前在大麻农场工作期间曾被警方逮捕，遭移民官带入二次审查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T06:17:54+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/green-card-holder-paroled-after-cannabis-arrest-becaae",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "openai-fires-three-researchers-22bdac",
       "title": "OpenAI解雇三名涉敏感信息违规研究员",
       "description": "OpenAI于当地时间10月1日确认，已与三名曾在安全团队任职的研究人员解除雇佣关系。",
@@ -3384,42 +3493,6 @@
         "澎湃新闻"
       ],
       "section": "ai",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "philadelphia-fed-san-diego-home-prices-rise-dac404",
-      "title": "费城联储研究显示圣迭戈房价134年上涨1225%",
-      "description": "费城联储银行一项新分析利用报纸房地产广告，追溯美国主要城市1890年至2024年的房价变化。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T06:02:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/philadelphia-fed-san-diego-home-prices-rise-dac404",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "becerra-hilton-california-governor-debate-ba98e4",
-      "title": "贝西拉与希尔顿在加州州长辩论中交锋",
-      "description": "民主党候选人贝西拉与共和党候选人希尔顿于9月30日晚在洛杉矶参加CNN主办的一小时电视辩论，围绕生活负担、住房、移民、无家可归者问题、气候变化和人工智能等议题交锋。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T06:01:44+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-30",
-      "url": "https://kaopu.news/story/2026-09-30/becerra-hilton-california-governor-debate-ba98e4",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 2,
       "sources": []
     },
@@ -4077,25 +4150,6 @@
       "sources": []
     },
     {
-      "id": "ftc-investigates-runaway-ai-agents-1b5778",
-      "title": "美国联邦贸易委员会启动AI代理安全调查",
-      "description": "以及《世界日报》援引路透社的报道，美国联邦贸易委员会（FTC）正调查Anthropic、OpenAI等人工智能开发商，核查AI代理是否危害消费者。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-01T06:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-01",
-      "url": "https://kaopu.news/story/2026-10-01/ftc-investigates-runaway-ai-agents-1b5778",
-      "reference": [
-        "世界日报",
-        "中央通訊社"
-      ],
-      "section": "ai",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "voice-disorders-linked-dementia-risk-2ffab4",
       "title": "大型研究发现声音异常与认知障碍风险相关",
       "description": "一项大型研究分析了833417名50岁以上成年人的数据，发现声音异常与失智症等认知障碍风险存在关联。",
@@ -4279,26 +4333,6 @@
       "sources": []
     },
     {
-      "id": "china-forecasts-strongest-el-nino-november-aee6f2",
-      "title": "世界银行与中国气象局同步预警有记录以来最强厄尔尼诺",
-      "description": "世界银行前景预测局与中国气象局国家气候中心9月30日分别就当前厄尔尼诺事件发布分析，后者预计本轮事件将在11月前后达到峰值，成为1950年有监测记录以来最强的一次。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-30T12:36:37.511899+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-29",
-      "url": "https://kaopu.news/story/2026-09-29/china-forecasts-strongest-el-nino-november-aee6f2",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "第一财经"
-      ],
-      "section": "china",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "axelspace-satellite-communications-failure-ee2e93",
       "title": "Axelspace宣布四颗新型地球观测卫星通信故障",
       "description": "日本航天企业Axelspace于9月29日宣布，其7颗新型地球观测卫星“GRUS-3”中有4颗的通信系统发生故障。",
@@ -4313,24 +4347,6 @@
         "共同网"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "hubei-wuhan-regional-innovation-engine-780681",
-      "title": "湖北省委发文推动武汉科创转向区域引擎",
-      "description": "湖北省委近日正式发布《实施意见》，提出以武汉区域科技创新中心为核心、武汉都市圈为重要载体，推动武汉科创从提升城市自身能力转向带动区域创新。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-30T12:19:38.119392+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-30",
-      "url": "https://kaopu.news/story/2026-09-30/hubei-wuhan-regional-innovation-engine-780681",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
