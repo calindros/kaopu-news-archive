@@ -1,11 +1,145 @@
 {
   "details": {
     "date": "2026-10-04",
-    "timestamp": 1791117354,
+    "timestamp": 1791124664,
     "totalPages": 1,
     "total": 281
   },
   "stories": [
+    {
+      "id": "french-students-protests-spread-warning-fdc4ef",
+      "title": "法国教育部长称周一最多500所高中将停课",
+      "description": "法国学生因教师不足、校舍老旧及教学条件不佳而发起的抗议仍在继续。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T13:37:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-29",
+      "url": "https://kaopu.news/story/2026-09-29/french-students-protests-spread-warning-fdc4ef",
+      "reference": [
+        "联合早报",
+        "法广",
+        "公视",
+        "德国之声"
+      ],
+      "section": "world",
+      "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "china-u23-beat-uzbekistan-win-bronze-4ac850",
+      "title": "中国U23男足点球击败乌兹别克斯坦夺得铜牌",
+      "description": "中国U23男足在10月3日举行的爱知·名古屋亚运会男足铜牌赛中，常规时间与乌兹别克斯坦U23男足战成2比2，点球大战以4比3取胜，获得铜牌。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T13:09:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/china-u23-beat-uzbekistan-win-bronze-4ac850",
+      "reference": [
+        "澎湃新闻",
+        "德国之声"
+      ],
+      "section": "sports",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "trump-orders-federal-ai-superintelligence-terminology-42bf73",
+      "title": "特朗普成立超级智能特别工作组评估风险",
+      "description": "特朗普10月4日宣布成立“超级智能特别工作组”（Super Intelligence Force，SIF），负责统筹美国联邦政府在超级智能领域的工作。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T13:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-01",
+      "url": "https://kaopu.news/story/2026-10-01/trump-orders-federal-ai-superintelligence-terminology-42bf73",
+      "reference": [
+        "世界日报",
+        "第一财经",
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "philippines-raids-online-gambling-arrests-244-33efa2",
+      "title": "菲律宾突袭棉兰老岛非法博彩点拘捕244名外籍人员",
+      "description": "菲律宾执法部门10月2日在南部棉兰老岛突袭两处涉嫌非法经营的网络博彩场所，共拘捕244名外籍人员，多数为中国公民。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T13:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/philippines-raids-online-gambling-arrests-244-33efa2",
+      "reference": [
+        "联合早报",
+        "德国之声"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "chalmers-says-us-iran-war-curbs-global-growth-bdfdbf",
+      "title": "澳大利亚财长称美伊战争抑制全球经济增长",
+      "description": "澳大利亚财政部长吉姆·查默斯星期天（10月4日）接受澳大利亚广播公司采访时称，美伊战争给全球经济造成严重冲击，推高通胀与借贷成本，并抑制经济增长。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T12:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/chalmers-says-us-iran-war-curbs-global-growth-bdfdbf",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "dap-not-rule-out-solo-election-bid-d43a9b",
+      "title": "陆兆福称行动党不排除下届大选单独参选",
+      "description": "马来西亚民主行动党秘书长陆兆福在《海峡时报星期刊》专访中表示，行动党目前仍倾向与希望联盟合作，但不排除在下届大选单独参选。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T12:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/dap-not-rule-out-solo-election-bid-d43a9b",
+      "reference": [
+        "当今大马",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-threatens-foreign-firms-300-tariffs-9effc7",
+      "title": "特朗普威胁对未在美设厂外企征收最高300%关税",
+      "description": "美国总统特朗普10月3日在俄亥俄州一所高中举行的竞选集会上称，外国企业若不在美国设厂，将面临最高300%的关税。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T12:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/trump-threatens-foreign-firms-300-tariffs-9effc7",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "ta419-spoofs-koizumi-site-phishing-emails-77e715",
       "title": "TA419冒充小泉进次郎官方网站发送钓鱼邮件",
@@ -118,6 +252,27 @@
       ],
       "section": "asia",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "bermuda-boston-medical-jet-loses-contact-56e328",
+      "title": "美国海岸警卫队找到失联医疗机残骸",
+      "description": "美国海岸警卫队在楠塔基特岛附近海域找到一架失联医疗运输机的残骸，并确认与该机有关；法广和联合早报援引法新社报道说，机上6人仍未找到，搜救工作仍在进行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-04T11:32:49+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/bermuda-boston-medical-jet-loses-contact-56e328",
+      "reference": [
+        "世界日报",
+        "澎湃新闻",
+        "联合早报",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 6,
       "sources": []
     },
     {
@@ -446,24 +601,6 @@
       "sources": []
     },
     {
-      "id": "dap-not-rule-out-solo-election-bid-d43a9b",
-      "title": "陆兆福称行动党不排除下届大选单独上阵",
-      "description": "行动党秘书长陆兆福表示，只要条件允许，他仍希望维系希盟；但行动党不排除在下届大选单独参选。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T07:37:47+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-04",
-      "url": "https://kaopu.news/story/2026-10-04/dap-not-rule-out-solo-election-bid-d43a9b",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "brazil-research-chatbots-mirror-political-views-b9012b",
       "title": "巴西研究发现聊天机器人会迎合用户政治立场",
       "description": "巴西国立坎皮纳斯州立大学研究人员测试发现，受测聊天机器人会根据用户自述的政治倾向改变对政治议题的判断。",
@@ -479,26 +616,6 @@
       ],
       "section": "ai",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "bermuda-boston-medical-jet-loses-contact-56e328",
-      "title": "美海岸警卫队发现失联医疗专机残骸",
-      "description": "美国海岸警卫队当地时间10月3日确认，在马萨诸塞州楠塔基特岛附近海域发现的残骸属于一架失联医疗转运专机。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T06:52:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/bermuda-boston-medical-jet-loses-contact-56e328",
-      "reference": [
-        "世界日报",
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -665,27 +782,6 @@
       ],
       "section": "us",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "french-students-protests-spread-warning-fdc4ef",
-      "title": "法国学生抗议升级逾千所学校受影响",
-      "description": "法国学生因教师短缺、班级拥挤、校舍老旧和学习资源不足发起的抗议自9月从巴黎地区扩散至全国。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T06:20:17+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-29",
-      "url": "https://kaopu.news/story/2026-09-29/french-students-protests-spread-warning-fdc4ef",
-      "reference": [
-        "联合早报",
-        "法广",
-        "公视",
-        "德国之声"
-      ],
-      "section": "world",
-      "sourceCount": 13,
       "sources": []
     },
     {
@@ -1133,25 +1229,6 @@
       "sources": []
     },
     {
-      "id": "china-u23-beat-uzbekistan-win-bronze-4ac850",
-      "title": "中国U23男足点球击败乌兹别克斯坦队夺得亚运铜牌",
-      "description": "10月3日举行的爱知·名古屋亚运会男足铜牌赛中，中国U23男足与乌兹别克斯坦U23男足常规时间战成2比2，中国队随后在点球大战中以4比3获胜，获得铜牌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T05:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/china-u23-beat-uzbekistan-win-bronze-4ac850",
-      "reference": [
-        "澎湃新闻",
-        "德国之声"
-      ],
-      "section": "sports",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "cornell-fraternity-accused-of-drug-sexual-assault-a48306",
       "title": "康奈尔校长支持外部律师审查性侵案处理",
       "description": "康奈尔大学校长迈克尔·柯里科夫10月4日表示，学校将与校董会合作，欢迎外部律师事务所独立审查校方对2024年Chi Phi兄弟会性侵指控的处理。",
@@ -1209,24 +1286,6 @@
       ],
       "section": "world",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "philippines-raids-online-gambling-arrests-244-33efa2",
-      "title": "菲律宾突袭非法网络博彩点逮捕240多名外籍人员",
-      "description": "菲律宾军方及其他执法部门10月2日突袭棉兰老岛两处地点，逮捕240多名涉嫌从事非法活动的外国员工。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T04:44:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-04",
-      "url": "https://kaopu.news/story/2026-10-04/philippines-raids-online-gambling-arrests-244-33efa2",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1303,24 +1362,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "trump-orders-federal-ai-superintelligence-terminology-42bf73",
-      "title": "特朗普政府成立超级智能小组评估AI风险",
-      "description": "特朗普政府已成立“超级智能小组”（Super Intelligence Force），由美国国家情报总监杰伊·克雷顿主持，计划在120天内提交报告，评估相关风险、机会及联邦政府的职责。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T02:41:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-01",
-      "url": "https://kaopu.news/story/2026-10-01/trump-orders-federal-ai-superintelligence-terminology-42bf73",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "ai",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1977,24 +2018,6 @@
       ],
       "section": "tech",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "france-charges-five-hamas-fundraising-suspects-feaf53",
-      "title": "法国五人涉嫌借人道组织为哈马斯筹资被控",
-      "description": "法国国家反恐检察官办公室10月3日说，五人涉嫌借助人道主义组织为哈马斯筹集资金，已在法国被控。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T13:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/france-charges-five-hamas-fundraising-suspects-feaf53",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3029,25 +3052,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "supreme-court-allows-trump-third-country-deportations-0c4393",
-      "title": "美国最高法院暂准川普政府继续第三国遣返",
-      "description": "美国最高法院9月29日以6比3作出临时裁定，暂停麻州联邦地区法院对第三国遣返设置的程序限制，允许川普政府在案件审理期间继续把移民送往原籍国以外的国家。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T16:14:45+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-30",
-      "url": "https://kaopu.news/story/2026-09-30/supreme-court-allows-trump-third-country-deportations-0c4393",
-      "reference": [
-        "世界日报",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 3,
       "sources": []
     },
     {
