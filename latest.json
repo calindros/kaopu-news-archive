@@ -1,11 +1,30 @@
 {
   "details": {
-    "date": "2026-10-03",
-    "timestamp": 1791066962,
+    "date": "2026-10-04",
+    "timestamp": 1791073285,
     "totalPages": 1,
-    "total": 277
+    "total": 278
   },
   "stories": [
+    {
+      "id": "judge-approves-paramount-warner-settlement-808b39",
+      "title": "美国法官批准和解为派拉蒙收购华纳扫清障碍",
+      "description": "美国加州联邦地区法院法官阿拉塞丽·马丁内斯-奥尔金9月30日批准派拉蒙天空之舞与12个州达成的反垄断和解，并签署同意令。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T22:57:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-01",
+      "url": "https://kaopu.news/story/2026-10-01/judge-approves-paramount-warner-settlement-808b39",
+      "reference": [
+        "中央通訊社",
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
     {
       "id": "cornell-fraternity-accused-of-drug-sexual-assault-a48306",
       "title": "纽约州任命特别检察官调查康奈尔性侵案",
@@ -43,6 +62,25 @@
       ],
       "section": "china",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "openai-ex-safety-staffer-urges-nuclear-plant-safeguards-f429ca",
+      "title": "罗宾森呼吁前沿人工智能实验室建立多重安全防护",
+      "description": "OpenAI前工程师戴维·罗宾森于2026年10月2日在《大西洋月刊》发表文章，呼吁前沿人工智能实验室借鉴航空和核能行业的做法，设置多重安全防护，避免事故酿成灾难。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-03T20:56:18+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/openai-ex-safety-staffer-urges-nuclear-plant-safeguards-f429ca",
+      "reference": [
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -198,24 +236,6 @@
       ],
       "section": "world",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "openai-ex-safety-staffer-urges-nuclear-plant-safeguards-f429ca",
-      "title": "OpenAI前安全员工呼吁AI采用核电厂级管控",
-      "description": "曾负责OpenAI安全团队透明度工作的前员工大卫·罗宾逊近日辞职，并于10月2日在《大西洋月刊》发表文章，批评顶尖人工智能公司控制技术风险不力，呼吁加强安全管控。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T14:48:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/openai-ex-safety-staffer-urges-nuclear-plant-safeguards-f429ca",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3083,6 +3103,25 @@
       "sources": []
     },
     {
+      "id": "americans-blame-trump-policies-rising-prices-246693",
+      "title": "多数美国人认为特朗普政策推高物价",
+      "description": "美联社与NORC公共事务研究中心于9月24日至28日调查2000多名美国成年人，结果于10月2日公布。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-02T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-01",
+      "url": "https://kaopu.news/story/2026-10-01/americans-blame-trump-policies-rising-prices-246693",
+      "reference": [
+        "公视",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "chicago-election-board-deploys-voting-security-ec1b33",
       "title": "芝加哥选委会部署措施防范投票受干扰",
       "description": "芝加哥11月3日中期选举的提前投票已于10月1日启动，市中心两处地点率先开放。",
@@ -3206,24 +3245,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "supreme-court-review-trump-immigration-detention-b8a38b",
-      "title": "美国最高法院将审理无证移民强制拘留政策",
-      "description": "美国最高法院10月1日宣布，将审理特朗普政府拒绝部分被拘留无证移民申请保释听证、并在驱逐程序期间强制拘留的做法是否合法。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/supreme-court-review-trump-immigration-detention-b8a38b",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
       "sources": []
     },
     {
