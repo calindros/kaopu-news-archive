@@ -1,39 +1,58 @@
 {
   "details": {
     "date": "2026-10-05",
-    "timestamp": 1791193504,
+    "timestamp": 1791199060,
     "totalPages": 1,
-    "total": 278
+    "total": 277
   },
   "stories": [
     {
-      "id": "japan-sets-october-5-extraordinary-diet-session-d86bdd",
-      "title": "高市将发表国会演说 预计提出推动日中关系稳定发展",
-      "description": "日本首相高市早苗将于10月5日在众议院全体会议发表施政演说。",
+      "id": "bloomberg-china-us-ai-gap-three-percent-baa317",
+      "title": "彭博称中美顶尖AI模型差距缩至3%",
+      "description": "彭博行业研究10月5日发布报告称，中国顶尖人工智能模型与美国竞争对手的基准测试得分差距已缩至3%，为历来最低。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-05T09:00:00+00:00",
+      "updatedAt": "2026-10-05T10:02:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-09-29",
-      "url": "https://kaopu.news/story/2026-09-29/japan-sets-october-5-extraordinary-diet-session-d86bdd",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/bloomberg-china-us-ai-gap-three-percent-baa317",
       "reference": [
-        "共同网",
-        "韩民族日报",
+        "世界日报",
         "联合早报"
       ],
-      "section": "asia",
-      "sourceCount": 7,
+      "section": "ai",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "deisseroth-hegemann-nagel-win-medicine-nobel-prize-93f018",
+      "title": "三名科学家获2026年诺贝尔生理学或医学奖",
+      "description": "2026年诺贝尔生理学或医学奖于当地时间10月5日11时30分（北京时间17时30分）公布，美国科学家卡尔·迪赛罗斯与德国科学家彼得·黑格曼、格奥尔格·纳格尔获奖，表彰内容涉及光门控离子通道和光遗传学。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T09:57:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/deisseroth-hegemann-nagel-win-medicine-nobel-prize-93f018",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "财新"
+      ],
+      "section": "tech",
+      "sourceCount": 3,
       "sources": []
     },
     {
       "id": "wanying-zhang-arrested-spying-taiwan-president-son-818df0",
-      "title": "FBI逮捕涉嫌监视赖清德儿子的加州房产经纪",
-      "description": "美国联邦调查局（FBI）10月4日在洛杉矶国际机场逮捕34岁的加州尔湾房地产经纪人张婉莹。",
+      "title": "美国联邦调查局在洛杉矶机场逮捕涉监视赖清德之子女子",
+      "description": "美国联邦调查局于10月4日在洛杉矶国际机场逮捕34岁的张婉莹（Wanying Heather Zhang）。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-05T08:58:22+00:00",
+      "updatedAt": "2026-10-05T09:57:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-05",
       "url": "https://kaopu.news/story/2026-10-05/wanying-zhang-arrested-spying-taiwan-president-son-818df0",
@@ -44,7 +63,183 @@
         "法广"
       ],
       "section": "us",
-      "sourceCount": 11,
+      "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "amro-warns-ai-correction-threatens-asia-d457e9",
+      "title": "AMRO警告AI无序回调恐冲击亚洲经济",
+      "description": "东盟与中日韩宏观经济研究办公室（AMRO）10月5日发布《2026年金融稳定报告》，警告AI领域若发生无序回调，风险可能经多个渠道传导，冲击东盟、中国、日本和韩国的金融市场与实体经济。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T09:47:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/amro-warns-ai-correction-threatens-asia-d457e9",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-sets-october-5-extraordinary-diet-session-d86bdd",
+      "title": "高市早苗在国会阐述经济外交与安保政策",
+      "description": "日本首相高市早苗10月5日在临时国会众议院全体会议发表施政演说，阐述经济财政、外交及安全保障政策。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T09:45:57+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-29",
+      "url": "https://kaopu.news/story/2026-09-29/japan-sets-october-5-extraordinary-diet-session-d86bdd",
+      "reference": [
+        "共同网",
+        "韩民族日报",
+        "联合早报",
+        "日本放送协会"
+      ],
+      "section": "asia",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "trump-orders-federal-ai-superintelligence-terminology-42bf73",
+      "title": "特朗普成立超级智能特别工作组统筹联邦事务",
+      "description": "美国总统特朗普10月4日宣布成立“超级智能特别工作组”（Super Intelligence Force，SIF），负责协调联邦政府在超级智能领域的工作。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T09:45:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-01",
+      "url": "https://kaopu.news/story/2026-10-01/trump-orders-federal-ai-superintelligence-terminology-42bf73",
+      "reference": [
+        "世界日报",
+        "第一财经",
+        "澎湃新闻",
+        "日本放送协会"
+      ],
+      "section": "ai",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "north-korea-launches-wonsan-ballistic-missile-17c2f6",
+      "title": "朝鲜发射中程高超音速导弹称命中目标",
+      "description": "朝鲜10月3日凌晨从东部元山附近向日本海发射一枚导弹。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T09:45:45+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/north-korea-launches-wonsan-ballistic-missile-17c2f6",
+      "reference": [
+        "联合早报",
+        "韩国国际广播电台",
+        "日本放送协会",
+        "法广"
+      ],
+      "section": "asia",
+      "sourceCount": 18,
+      "sources": []
+    },
+    {
+      "id": "hong-kong-plans-yuan-government-spending-4fb30b",
+      "title": "香港政府拟拓展人民币支付政府开支场景",
+      "description": "香港特区政府首份《五年规划》提出研究在更多合适场景以人民币支付政府开支。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T09:42:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/hong-kong-plans-yuan-government-spending-4fb30b",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "philippines-accuses-china-forces-harassing-aircraft-vessels-0008d6",
+      "title": "南部战区称菲律宾C-208闯入黄岩岛领空",
+      "description": "中国人民解放军南部战区称，10月3日，一架菲律宾C-208型机未经中国政府批准进入黄岩岛领空；战区派出海空力量跟踪该机，并警告其离开。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T09:39:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/philippines-accuses-china-forces-harassing-aircraft-vessels-0008d6",
+      "reference": [
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-tech-rebound-lifts-taiwan-stocks-record-857342",
+      "title": "台股大涨逾千点刷新收盘历史纪录",
+      "description": "台湾股市10月5日在权重股带动下大幅上涨，盘中最高升至49770.66点，收于49712.04点，上涨1236.3点，涨幅2.55%；盘中和收盘指数均创历史新高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T09:36:45+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/us-tech-rebound-lifts-taiwan-stocks-record-857342",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "business",
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "nato-plans-unveil-drone-ai-victory-strategy-3402be",
+      "title": "北约拟公布融合无人机与人工智能的制胜战略",
+      "description": "北约正制定名为“胜利理论”的战略，北约欧洲盟军最高司令格林克维奇上将定于10月12日在波兰公布。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T09:34:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/nato-plans-unveil-drone-ai-victory-strategy-3402be",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "french-students-protests-spread-warning-fdc4ef",
+      "title": "法国教育部长此前预计数百所高中因学生抗议停课",
+      "description": "法国高中生因教师短缺、校舍老旧和学习条件恶化而发起的抗议已从巴黎地区蔓延至全国。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T08:55:46+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-29",
+      "url": "https://kaopu.news/story/2026-09-29/french-students-protests-spread-warning-fdc4ef",
+      "reference": [
+        "联合早报",
+        "法广",
+        "公视",
+        "德国之声"
+      ],
+      "section": "world",
+      "sourceCount": 16,
       "sources": []
     },
     {
@@ -84,6 +279,27 @@
       ],
       "section": "asia",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "bangkok-declares-flood-disaster-zone-3e37be",
+      "title": "泰国洪灾波及逾1300家企业生产物流受阻",
+      "description": "9月底暴雨引发的洪灾仍影响泰国多地企业。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T08:23:05+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-26",
+      "url": "https://kaopu.news/story/2026-09-26/bangkok-declares-flood-disaster-zone-3e37be",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "法广",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 29,
       "sources": []
     },
     {
@@ -250,25 +466,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-tech-rebound-lifts-taiwan-stocks-record-857342",
-      "title": "台股大涨1236点收盘刷新历史新高",
-      "description": "台湾股市10月5日在美国科技股反弹、权值股走强带动下开高走高。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-05T07:14:56+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/us-tech-rebound-lifts-taiwan-stocks-record-857342",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "business",
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -1338,27 +1535,6 @@
       "sources": []
     },
     {
-      "id": "north-korea-launches-wonsan-ballistic-missile-17c2f6",
-      "title": "朝鲜试射中程导弹称具低空变轨能力",
-      "description": "朝鲜于10月3日凌晨从东部元山附近实施中程战略导弹发射训练。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-05T02:55:18+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/north-korea-launches-wonsan-ballistic-missile-17c2f6",
-      "reference": [
-        "联合早报",
-        "韩国国际广播电台",
-        "日本放送协会",
-        "法广"
-      ],
-      "section": "asia",
-      "sourceCount": 17,
-      "sources": []
-    },
-    {
       "id": "china-wins-asian-games-mens-golf-gold-4d9d0f",
       "title": "中国队以341枚奖牌位居名古屋亚运会榜首",
       "description": "第20届爱知·名古屋亚运会10月4日在日本名古屋闭幕，赛事历时16天。",
@@ -1377,25 +1553,6 @@
       ],
       "section": "sports",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "bloomberg-china-us-ai-gap-three-percent-baa317",
-      "title": "彭博报告称中美顶尖AI模型差距缩至约3%",
-      "description": "彭博行业研究10月5日发布报告称，中美顶尖人工智能模型在基准测试中的得分差距已收窄至约3%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-05T01:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/bloomberg-china-us-ai-gap-three-percent-baa317",
-      "reference": [
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "ai",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1669,27 +1826,6 @@
       "sources": []
     },
     {
-      "id": "french-students-protests-spread-warning-fdc4ef",
-      "title": "法国约400至500所高中因抗议停课",
-      "description": "法国教育部长杰弗雷表示，10月5日约400至500所高中将因安全条件未获保障而全面或部分停课，数量与10月2日大致相当。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T20:02:49+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-29",
-      "url": "https://kaopu.news/story/2026-09-29/french-students-protests-spread-warning-fdc4ef",
-      "reference": [
-        "联合早报",
-        "法广",
-        "公视",
-        "德国之声"
-      ],
-      "section": "world",
-      "sourceCount": 15,
-      "sources": []
-    },
-    {
       "id": "opec-seven-members-hold-november-oil-output-target-ccc8a7",
       "title": "OPEC+七国决定维持11月石油产量目标",
       "description": "OPEC+七个主要成员国于10月4日召开简短线上会议，决定维持11月石油产量目标不变。",
@@ -1747,24 +1883,6 @@
       "sources": []
     },
     {
-      "id": "philippines-accuses-china-forces-harassing-aircraft-vessels-0008d6",
-      "title": "菲律宾称中国军方海警骚扰菲方飞机船只",
-      "description": "菲律宾方面10月4日指称，中国军方和海警在南中国海黄岩岛及中业岛附近干扰、阻碍菲律宾政府飞机和船只。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T14:35:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-04",
-      "url": "https://kaopu.news/story/2026-10-04/philippines-accuses-china-forces-harassing-aircraft-vessels-0008d6",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "tiremakers-raise-tire-prices-2-5-percent-cd9321",
       "title": "多家轮胎企业自10月起上调产品价格2%至5%",
       "description": "通用股份、中策橡胶、赛轮轮胎、玲珑轮胎等企业自10月1日起陆续上调全钢胎、半钢胎、工程胎等产品价格，幅度为2%至5%。",
@@ -1817,26 +1935,6 @@
       ],
       "section": "sports",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "trump-orders-federal-ai-superintelligence-terminology-42bf73",
-      "title": "特朗普成立超级智能特别工作组评估风险",
-      "description": "特朗普10月4日宣布成立“超级智能特别工作组”（Super Intelligence Force，SIF），负责统筹美国联邦政府在超级智能领域的工作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T13:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-01",
-      "url": "https://kaopu.news/story/2026-10-01/trump-orders-federal-ai-superintelligence-terminology-42bf73",
-      "reference": [
-        "世界日报",
-        "第一财经",
-        "澎湃新闻"
-      ],
-      "section": "ai",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -2042,27 +2140,6 @@
       "sources": []
     },
     {
-      "id": "bangkok-declares-flood-disaster-zone-3e37be",
-      "title": "泰国财政部称洪灾对整体经济影响低于百分之零点一",
-      "description": "泰国财政部估算，近期洪灾对全国经济的影响低于0.1%，并维持2026年经济增长2%至2.5%的预测。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T09:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-26",
-      "url": "https://kaopu.news/story/2026-09-26/bangkok-declares-flood-disaster-zone-3e37be",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "法广",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 28,
-      "sources": []
-    },
-    {
       "id": "feng-rui-reportedly-detained-4e6955",
       "title": "长期关注劳权的自媒体人冯睿传被有关部门拘留",
       "description": "长期关注中国劳工权益的自媒体人冯睿（网名“小五”）于9月30日传出失联。",
@@ -2078,25 +2155,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "two-tankers-struck-unidentified-projectiles-no-casualties-32fffb",
-      "title": "霍尔木兹海峡一艘船遭袭致机舱受损",
-      "description": "英国海上贸易行动办公室10月4日通报，一艘船在霍尔木兹海峡遭不明弹体袭击，机舱受损，船员无人受伤，也未造成环境影响。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T09:45:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/two-tankers-struck-unidentified-projectiles-no-casualties-32fffb",
-      "reference": [
-        "联合早报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -2922,24 +2980,6 @@
       "url": "https://kaopu.news/story/2026-10-03/shanghai-rubber-futures-hit-nine-year-high-d694fe",
       "reference": [
         "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "zhongji-innolight-acquires-zhongshi-stake-636671",
-      "title": "中际旭创完成受让中石科技10.47%股份",
-      "description": "中际旭创受让中石科技3137.25万股，并于2026年9月29日完成过户，持股比例为10.47%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T13:05:35.883655+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/zhongji-innolight-acquires-zhongshi-stake-636671",
-      "reference": [
-        "第一财经"
       ],
       "section": "business",
       "sourceCount": 1,
@@ -3917,24 +3957,6 @@
       "sources": []
     },
     {
-      "id": "doushen-subsidiary-signs-gpu-cloud-deal-3c26cd",
-      "title": "豆神教育孙公司签约提供60个月GPU算力服务",
-      "description": "豆神教育科技（北京）股份有限公司9月30日公告称，其全资孙公司豆神香港有限公司近日与VB客户签署云计算服务协议，将在60个月服务期内提供GPU算力服务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T02:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/doushen-subsidiary-signs-gpu-cloud-deal-3c26cd",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-scholars-tout-paid-rsa-memberships-as-fellowships-f55a84",
       "title": "中国高校学者付费入会后标榜RSA院士",
       "description": "北京大学教授饶毅等学者共同创办的自媒体《知识分子》9月29日发文，揭露一些中国高校学者付费取得英国皇家学会工艺院（RSA）会员资格后，将其宣传为“RSA院士”，容易让人误以为他们与英国皇家学会有关。",
@@ -4304,24 +4326,6 @@
       "sources": []
     },
     {
-      "id": "moreno-slotkin-seek-china-car-ban-approval-4bda5f",
-      "title": "美国参议员拟休会后推动中国汽车禁令获批",
-      "description": "美国国会助理9月30日说，伯尼·莫雷诺和埃莉萨·斯洛特金计划在11月参议院休会期结束后，争取推动禁止中国汽车进入美国市场的法案获批。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-01T02:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-01",
-      "url": "https://kaopu.news/story/2026-10-01/moreno-slotkin-seek-china-car-ban-approval-4bda5f",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "lee-chia-hua-documentary-death-row-children-6cd7f1",
       "title": "李家骅推出纪录片呈现死刑犯子女处境",
       "description": "台湾纪录片导演李家骅推出新片《我的爸爸是死刑犯》，以三名死刑犯子女的经历，呈现父亲犯罪后家庭生活受到的影响。",
@@ -4574,24 +4578,6 @@
         "联合早报"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "datong-launches-ai-infrastructure-cube-57cd52",
-      "title": "龚明鑫称台湾十年内将有25部天然气机组上线",
-      "description": "大同9月30日举行AI数据中心基础设施方案发布会，首次推出TTG AIDC CUBE。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-30T05:58:18+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-30",
-      "url": "https://kaopu.news/story/2026-09-30/datong-launches-ai-infrastructure-cube-57cd52",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "tech",
       "sourceCount": 1,
       "sources": []
     },
