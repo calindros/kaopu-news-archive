@@ -1,11 +1,184 @@
 {
   "details": {
     "date": "2026-10-05",
-    "timestamp": 1791207566,
+    "timestamp": 1791213877,
     "totalPages": 1,
-    "total": 275
+    "total": 277
   },
   "stories": [
+    {
+      "id": "negeri-sembilan-council-seeks-nadzaruddin-treason-charges-0a47c7",
+      "title": "森美兰最高统治者之争波及州行政运作",
+      "description": "森美兰州围绕最高统治者人选的争议在10月4日至5日出现新交锋：司法与酋长理事会重申慕力兹仍在位，支持纳扎鲁丁的四名酋长等传统领袖则驳斥理事会的指控。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T14:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/negeri-sembilan-council-seeks-nadzaruddin-treason-charges-0a47c7",
+      "reference": [
+        "当今大马",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "irkutsk-antiplague-institute-worker-death-f5f4c2",
+      "title": "伊尔库次克抗鼠疫研究所员工肺炎死亡近200人受观察",
+      "description": "俄罗斯伊尔库次克抗鼠疫研究所一名女性员工上周因不明原因肺炎死亡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T14:03:29+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/irkutsk-antiplague-institute-worker-death-f5f4c2",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "german-spd-ministries-back-tougher-china-trade-472c43",
+      "title": "德国社民党部委支持对华采取更强硬经贸立场",
+      "description": "一份由德国社民党主导的联邦政府多个部委共同文件主张对华采取更强硬的经贸立场，并支持欧盟委员会对中国插电式混合动力汽车企业开展反补贴调查。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T14:03:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/german-spd-ministries-back-tougher-china-trade-472c43",
+      "reference": [
+        "德国之声"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-withdraws-b1-bombers-fairford-ba37f3",
+      "title": "美军撤回驻英国费尔福德基地全部B-1轰炸机",
+      "description": "美国五角大楼10月4日证实，部署在英国皇家空军费尔福德基地的美军B-1轰炸机已全部撤回美国本土基地。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T13:58:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/us-withdraws-b1-bombers-fairford-ba37f3",
+      "reference": [
+        "联合早报",
+        "英国广播公司",
+        "法广",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "wanying-zhang-arrested-spying-taiwan-president-son-818df0",
+      "title": "FBI洛杉矶机场逮捕涉监视赖清德之子的加州房产经纪",
+      "description": "美国联邦调查局（FBI）10月4日在洛杉矶国际机场逮捕张婉莹。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T13:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/wanying-zhang-arrested-spying-taiwan-president-son-818df0",
+      "reference": [
+        "世界日报",
+        "中央通訊社",
+        "联合早报",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 16,
+      "sources": []
+    },
+    {
+      "id": "saudi-aramco-refinery-fire-smoke-8149d8",
+      "title": "也门政府军称夺取曼德海峡关键阵地",
+      "description": "也门政府军10月5日称已控制曼德海峡，并沿红海沿岸推进，同时在首都萨那方向发动攻势。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T13:47:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/saudi-aramco-refinery-fire-smoke-8149d8",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "法广",
+        "日本放送协会"
+      ],
+      "section": "world",
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "hackers-breach-denmark-firm-steal-records-93942a",
+      "title": "黑客入侵丹麦企业窃取880万人登记资料",
+      "description": "丹麦数字事务部通报，未经授权者入侵一家依法获准访问国家人口登记系统（CPR）的企业，非法取得约880万人的姓名、地址和CPR号码。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T13:39:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/hackers-breach-denmark-firm-steal-records-93942a",
+      "reference": [
+        "法广",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-ohio-campaign-republicans-trail-1db952",
+      "title": "特朗普赴俄亥俄州拉票共和党选情落后",
+      "description": "美国总统特朗普10月3日前往俄亥俄州，为共和党候选人拉票，并呼吁选民把他当作也在参选。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T13:32:15+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/trump-ohio-campaign-republicans-trail-1db952",
+      "reference": [
+        "公视"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "thailand-expands-crackdown-foreign-businesses-tourists-1bce69",
+      "title": "泰国政府扩大整治行动应对外资游客引发的不满",
+      "description": "面对旅游地区居民对外资涌入、部分游客行为及生计受影响的不满，泰国阿努廷政府从2026年7月启动针对外资与泰资持股结构可疑企业的整顿。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T13:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/thailand-expands-crackdown-foreign-businesses-tourists-1bce69",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "japan-sets-october-5-extraordinary-diet-session-d86bdd",
       "title": "高市早苗发表施政演说提出构建稳定日中关系",
@@ -25,6 +198,24 @@
       ],
       "section": "asia",
       "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "iran-plans-extend-missile-range-3e9f09",
+      "title": "伊朗军方计划提升导弹射程应对美以威胁",
+      "description": "面对美国和以色列的威胁，伊朗军方计划提升导弹射程。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T13:05:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/iran-plans-extend-missile-range-3e9f09",
+      "reference": [
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -82,27 +273,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "saudi-aramco-refinery-fire-smoke-8149d8",
-      "title": "沙特联军称百架战机空袭摧毁324个高价值目标",
-      "description": "沙特主导的多国联军10月5日凌晨对胡塞武装控制区发动空袭，参与也门政府发起的“也门黎明”行动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-05T13:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/saudi-aramco-refinery-fire-smoke-8149d8",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "法广",
-        "日本放送协会"
-      ],
-      "section": "world",
-      "sourceCount": 9,
       "sources": []
     },
     {
@@ -183,27 +353,6 @@
       "sources": []
     },
     {
-      "id": "wanying-zhang-arrested-spying-taiwan-president-son-818df0",
-      "title": "FBI逮捕涉嫌监视赖清德儿子的加州房产经纪",
-      "description": "美国联邦调查局（FBI）10月4日在洛杉矶国际机场逮捕34岁的张婉莹。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-05T12:53:14+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/wanying-zhang-arrested-spying-taiwan-president-son-818df0",
-      "reference": [
-        "世界日报",
-        "中央通訊社",
-        "联合早报",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 15,
-      "sources": []
-    },
-    {
       "id": "deisseroth-hegemann-nagel-win-medicine-nobel-prize-93f018",
       "title": "三位科学家开创光遗传学获诺贝尔医学奖",
       "description": "瑞典卡罗林斯卡学院诺贝尔大会10月5日公布2026年诺贝尔生理学或医学奖得主：美国科学家卡尔·戴塞罗斯、德国科学家彼得·黑格曼和格奥尔格·纳格尔。",
@@ -258,6 +407,25 @@
       ],
       "section": "business",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "uk-greens-pass-zionism-racism-motion-7b5a3d",
+      "title": "英国绿党通过动议将锡安主义定为种族主义",
+      "description": "英国绿党年会于10月4日以1022票赞成、813票反对通过动议，将锡安主义与其他形式的种族主义作同等定性，并支持在历史上的全部巴勒斯坦土地上建立统一的民主国家。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T12:34:56+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/uk-greens-pass-zionism-racism-motion-7b5a3d",
+      "reference": [
+        "联合早报",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -878,24 +1046,6 @@
       ],
       "section": "world",
       "sourceCount": 29,
-      "sources": []
-    },
-    {
-      "id": "negeri-sembilan-council-seeks-nadzaruddin-treason-charges-0a47c7",
-      "title": "森美兰四酋长驳斥理事会叛君指控",
-      "description": "森美兰司法与酋长理事会（DKU）指称纳扎鲁丁涉及叛君及刑事罪行，并要求调查四名地位有争议的酋长并以叛君罪提控；逼宫派则要求联邦政府采取行动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-05T07:57:53+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/negeri-sembilan-council-seeks-nadzaruddin-treason-charges-0a47c7",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1616,27 +1766,6 @@
       "sources": []
     },
     {
-      "id": "us-withdraws-b1-bombers-fairford-ba37f3",
-      "title": "美军撤回驻英费尔福德基地全部B-1B轰炸机",
-      "description": "美国国防部10月4日证实，部署在英国皇家空军费尔福德基地的12架B-1B战略轰炸机已全部撤回美国本土基地。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-05T05:26:16+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/us-withdraws-b1-bombers-fairford-ba37f3",
-      "reference": [
-        "联合早报",
-        "英国广播公司",
-        "法广",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "uchida-warns-ai-boom-market-correction-risk-ce4134",
       "title": "日本央行副行长警告人工智能热潮下市场回调风险",
       "description": "10月5日，据联合早报和中央社报道，日本央行副行长内田真一谈及全球人工智能应用的经济影响。",
@@ -2034,45 +2163,6 @@
       "sources": []
     },
     {
-      "id": "uk-greens-pass-zionism-racism-motion-7b5a3d",
-      "title": "英国绿党通过将锡安主义视为种族主义的动议",
-      "description": "英国绿党10月4日在年会表决通过一项动议，主张把锡安主义视为与其他形式的种族主义无异，并支持在历史上的全部巴勒斯坦土地建立统一、民主的巴勒斯坦国。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-05T00:43:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/uk-greens-pass-zionism-racism-motion-7b5a3d",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "russian-strike-kyiv-north-bridge-disrupts-traffic-c7ae52",
-      "title": "俄军连续四天空袭基辅跨河大桥致交通受阻",
-      "description": "俄罗斯军队自10月1日起连续4天空袭基辅南、北两座横跨第聂伯河的大桥。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-05T00:31:21+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/russian-strike-kyiv-north-bridge-disrupts-traffic-c7ae52",
-      "reference": [
-        "联合早报",
-        "法广",
-        "澎湃新闻",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "deepseek-harness-adds-claude-code-mods-compatibility-3b6197",
       "title": "DeepSeek框架试接Claude Mods兼容层",
       "description": "DeepSeek智能体框架DeepSeek Harness于10月3日发布新版本，升级涉及插件机制和跨平台支持，并加入实验性的Claude Code Mods兼容层。",
@@ -2087,24 +2177,6 @@
         "澎湃新闻"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "merz-macron-seek-china-advice-lee-jae-myung-f27008",
-      "title": "默茨和马克龙向李在明寻求对华建议",
-      "description": "德国总理默茨和法国总统马克龙先后向韩国总统李在明询问韩国如何处理对华关系，反映出欧洲在顾及美国盟友关系与维持对华经贸联系之间面临的难题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T23:51:54+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/merz-macron-seek-china-advice-lee-jae-myung-f27008",
-      "reference": [
-        "东亚日报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -2166,25 +2238,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "zelensky-us-proposes-trilateral-technical-talks-51366c",
-      "title": "泽连斯基称美方提议10月底前举行三方技术会议",
-      "description": "乌克兰总统泽连斯基10月4日表示，美国正分别与乌克兰和俄罗斯保持接触，并提议在10月底前举行美乌俄三方技术层面会议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T23:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-04",
-      "url": "https://kaopu.news/story/2026-10-04/zelensky-us-proposes-trilateral-technical-talks-51366c",
-      "reference": [
-        "法广",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2834,24 +2887,6 @@
       ],
       "section": "business",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "chicago-parking-meter-deal-stonepeak-profit-share-2d1b78",
-      "title": "芝加哥议会批准停车收费系统转售协议",
-      "description": "芝加哥市议会近日以46票赞成、3票反对，通过停车收费系统转售协议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T06:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-04",
-      "url": "https://kaopu.news/story/2026-10-04/chicago-parking-meter-deal-stonepeak-profit-share-2d1b78",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
