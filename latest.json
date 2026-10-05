@@ -1,19 +1,285 @@
 {
   "details": {
     "date": "2026-10-05",
-    "timestamp": 1791173895,
+    "timestamp": 1791184961,
     "totalPages": 1,
-    "total": 280
+    "total": 279
   },
   "stories": [
     {
-      "id": "okinawa-police-arrest-marine-robbery-murder-suspect-0e0016",
-      "title": "冲绳警方逮捕涉嫌抢劫杀人的美国海军陆战队员",
-      "description": "冲绳县警方10月4日逮捕20岁的美国海军陆战队员德文·雅各布·巴拉德，指其涉嫌前一日凌晨在那霸市一家酒店杀害39岁的屋宜杏奈，并抢走她的钱包等物品。",
+      "id": "wanying-zhang-arrested-spying-taiwan-president-son-818df0",
+      "title": "美国FBI逮捕涉监视赖清德之子的加州房产经纪人",
+      "description": "美国联邦调查局10月4日在洛杉矶国际机场逮捕34岁的加州尔湾房地产经纪人张婉莹。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-05T04:43:46+00:00",
+      "updatedAt": "2026-10-05T06:17:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/wanying-zhang-arrested-spying-taiwan-president-son-818df0",
+      "reference": [
+        "世界日报",
+        "中央通訊社",
+        "联合早报",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "detroit-officer-son-loaded-gun-daycare-parents-charged-773f7b",
+      "title": "底特律警员3岁儿子带枪进托儿所父母被控",
+      "description": "援引《今日美国》（USA TODAY）的消息，9月28日，密歇根州坎顿市一所早期学习中心发生幼童携枪事件。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T06:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/detroit-officer-son-loaded-gun-daycare-parents-charged-773f7b",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "japan-sets-october-5-extraordinary-diet-session-d86bdd",
+      "title": "高市早苗承诺推动构建稳定日中关系",
+      "description": "日本首相高市早苗10月5日在众议院全体会议发表施政演说，阐述经济、财政和外交政策，并表示将通过对话维护日本国家利益，推动与中国建立建设性、稳定的关系。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T06:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-29",
+      "url": "https://kaopu.news/story/2026-09-29/japan-sets-october-5-extraordinary-diet-session-d86bdd",
+      "reference": [
+        "共同网",
+        "韩民族日报",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "golden-gate-bridge-seismic-retrofit-7252db",
+      "title": "金门大桥推进18亿美元抗震加固工程",
+      "description": "金门大桥管理局正在推进一项耗资18亿美元的抗震加固工程，目标是提升大桥抵御圣安德烈断层可能引发的8.3级地震的能力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/golden-gate-bridge-seismic-retrofit-7252db",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "lax-automated-people-mover-delays-service-b9e416",
+      "title": "洛杉矶机场自动电车推迟至明年载客",
+      "description": "ABC 7电视台援引《洛杉矶时报》称，洛杉矶国际机场自动旅客运输系统的载客时间已推至明年。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/lax-automated-people-mover-delays-service-b9e416",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "los-angeles-voters-decide-parks-budget-doubling-cea77b",
+      "title": "洛杉矶选民将表决公园预算十年翻倍提案",
+      "description": "洛杉矶市选民将于2026年11月3日表决PRK市宪章修正案。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/los-angeles-voters-decide-parks-budget-doubling-cea77b",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "pennsylvania-measles-cases-reach-943-051d7b",
+      "title": "宾州2026年麻疹确诊病例升至943例",
+      "description": "宾州卫生厅9月30日公布的数据显示，宾州2026年麻疹确诊病例累计达到943例，覆盖全州67个郡中的39个；至少176人因麻疹住院，相关死亡共5例。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/pennsylvania-measles-cases-reach-943-051d7b",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "san-francisco-homerise-plans-dissolution-53528a",
+      "title": "旧金山HomeRise决定一至两年内有序解散",
+      "description": "旧金山非营利住房服务机构HomeRise董事会已同意在未来一至两年内分阶段结束运营并解散。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/san-francisco-homerise-plans-dissolution-53528a",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "chiang-wan-an-apologizes-police-bar-discrimination-108528",
+      "title": "蒋万安为酒吧执法歧视争议二度道歉",
+      "description": "台湾台北市万华分局警方10月3日到西门町同志酒吧“Commander D”执行妨害风化案件搜索。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T05:54:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/chiang-wan-an-apologizes-police-bar-discrimination-108528",
+      "reference": [
+        "公视",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "malaysia-to-suspend-myeg-collection-services-f3ff68",
+      "title": "马来西亚陆交局暂停Zetrix与MyEG代收费服务",
+      "description": "马来西亚陆路交通局自10月5日零时起暂停Zetrix AI及My E.G.作为代收费机构的服务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T05:41:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/malaysia-to-suspend-myeg-collection-services-f3ff68",
+      "reference": [
+        "联合早报",
+        "当今大马"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "northeast-monsoon-strengthens-brings-northern-rain-cooling-e62f4b",
+      "title": "入秋最强东北季风影响台湾北部和东半部转凉有雨",
+      "description": "台湾中央气象署表示，入秋以来最强东北季风于10月5日影响台湾，北部和东半部转凉并有降雨，高温下降约5摄氏度。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T05:39:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/northeast-monsoon-strengthens-brings-northern-rain-cooling-e62f4b",
+      "reference": [
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-tech-rebound-lifts-taiwan-stocks-record-857342",
+      "title": "美股科技股反弹推动台湾股市盘中创历史新高",
+      "description": "10月5日，受美股科技股反弹及人工智能、权重股走强带动，台湾加权指数盘中最高升至49770.66点，上涨1294点，刷新历史纪录。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T05:36:18+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/us-tech-rebound-lifts-taiwan-stocks-record-857342",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "business",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "trump-weighs-clayton-ai-czar-eeed0c",
+      "title": "特朗普成立超级智慧部队由克莱顿领导",
+      "description": "美国总统特朗普近日在社交媒体Truth Social宣布成立白宫“超级智慧部队”（Super Intelligence Force，SIF），由美国国家情报总监杰伊·克莱顿领导，负责协调联邦政府人工智能工作。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T05:29:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-02",
+      "url": "https://kaopu.news/story/2026-10-02/trump-weighs-clayton-ai-czar-eeed0c",
+      "reference": [
+        "法广",
+        "世界日报",
+        "联合早报",
+        "公视"
+      ],
+      "section": "us",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "us-withdraws-b1-bombers-fairford-ba37f3",
+      "title": "美军撤回驻英费尔福德基地全部B-1B轰炸机",
+      "description": "美国国防部10月4日证实，部署在英国皇家空军费尔福德基地的12架B-1B战略轰炸机已全部撤回美国本土基地。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T05:26:16+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/us-withdraws-b1-bombers-fairford-ba37f3",
+      "reference": [
+        "联合早报",
+        "英国广播公司",
+        "法广",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "okinawa-police-arrest-marine-robbery-murder-suspect-0e0016",
+      "title": "冲绳警方逮捕涉抢劫杀人美军士兵",
+      "description": "冲绳县警方10月4日逮捕20岁美国海军陆战队员德文·雅各布·巴拉德，指其涉嫌于10月3日凌晨在那霸市若狭一家酒店抢劫并杀害一名39岁女性。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T05:24:52+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-04",
       "url": "https://kaopu.news/story/2026-10-04/okinawa-police-arrest-marine-robbery-murder-suspect-0e0016",
@@ -24,7 +290,44 @@
         "澎湃新闻"
       ],
       "section": "asia",
-      "sourceCount": 16,
+      "sourceCount": 17,
+      "sources": []
+    },
+    {
+      "id": "uchida-warns-ai-boom-market-correction-risk-ce4134",
+      "title": "日本央行副行长警告人工智能热潮下市场回调风险",
+      "description": "10月5日，据联合早报和中央社报道，日本央行副行长内田真一谈及全球人工智能应用的经济影响。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T05:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/uchida-warns-ai-boom-market-correction-risk-ce4134",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "lvgem-china-creditors-restructuring-agreement-296fd8",
+      "title": "绿景中国地产与主要债权人达成重组支持协议",
+      "description": "绿景中国地产公告称，公司于9月30日与数名主要债权方签署重组支持协议，就拟议债务重组的核心条款形成共识。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-05T05:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/lvgem-china-creditors-restructuring-agreement-296fd8",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -107,24 +410,21 @@
       "sources": []
     },
     {
-      "id": "wanying-zhang-arrested-spying-taiwan-president-son-818df0",
-      "title": "FBI在洛杉矶机场逮捕涉监视赖清德之子的女子",
-      "description": "美国联邦调查局（FBI）10月4日在洛杉矶国际机场逮捕34岁的张婉莹。",
+      "id": "taiwan-inheritance-gift-tax-exemptions-rise-f4ff33",
+      "title": "台湾财政部预计上调2027年遗赠税免税额",
+      "description": "台湾财政部预计调高2027年遗产税和赠与税免税额。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-05T04:02:50+00:00",
+      "updatedAt": "2026-10-05T04:08:03+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/wanying-zhang-arrested-spying-taiwan-president-son-818df0",
+      "url": "https://kaopu.news/story/2026-10-05/taiwan-inheritance-gift-tax-exemptions-rise-f4ff33",
       "reference": [
-        "世界日报",
-        "中央通訊社",
-        "联合早报",
-        "法广"
+        "中央通訊社"
       ],
-      "section": "us",
-      "sourceCount": 5,
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -355,26 +655,6 @@
       "sources": []
     },
     {
-      "id": "us-withdraws-b1-bombers-fairford-ba37f3",
-      "title": "美军撤回部署在英国费尔福德基地的全部轰炸机",
-      "description": "美国五角大厦证实，部署在英国皇家空军费尔福德基地的轰炸机已全部撤回美国本土基地。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-05T03:02:50+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/us-withdraws-b1-bombers-fairford-ba37f3",
-      "reference": [
-        "联合早报",
-        "英国广播公司",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "cornell-fraternity-accused-of-drug-sexual-assault-a48306",
       "title": "汤普金斯郡检方重启康奈尔兄弟会性侵案调查",
       "description": "纽约州汤普金斯郡地方检察官办公室9月28日重启康奈尔大学Chi Phi兄弟会涉嫌集体性侵案调查，重新审查材料，并考虑是否将证据提交大陪审团。",
@@ -492,24 +772,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-tech-rebound-lifts-taiwan-stocks-record-857342",
-      "title": "台股早盘大涨逾千点刷新历史新高",
-      "description": "台湾股市5日早盘一度升至49646.72点，涨逾1100点，盘中不断刷新历史高位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-05T01:36:15+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/us-tech-rebound-lifts-taiwan-stocks-record-857342",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -817,26 +1079,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "trump-weighs-clayton-ai-czar-eeed0c",
-      "title": "特朗普宣布克莱顿领导白宫超级智慧部队",
-      "description": "特朗普近日在社交平台“真实社群”发文，宣布由美国国家情报总监杰伊·克莱顿领导白宫新设的“超级智慧部队”，负责协调美国人工智能（AI）发展。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T16:02:49+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/trump-weighs-clayton-ai-czar-eeed0c",
-      "reference": [
-        "法广",
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -1954,24 +2196,6 @@
       "sources": []
     },
     {
-      "id": "northeast-monsoon-strengthens-brings-northern-rain-cooling-e62f4b",
-      "title": "东北季风周一起增强北部将转凉降雨",
-      "description": "台湾中央气象署预报，东北季风将于周一增强，北部、东北部和东部气温率先下滑，白天高温将降低4至5摄氏度。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T05:07:22+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-04",
-      "url": "https://kaopu.news/story/2026-10-04/northeast-monsoon-strengthens-brings-northern-rain-cooling-e62f4b",
-      "reference": [
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "global-gasoline-car-share-falls-below-half-856e9f",
       "title": "全球纯汽油车新车份额上半年首次跌破五成",
       "description": "Mobility Global对全球新车市场的统计显示，2026年1月至6月（不含部分大型车辆），纯汽油发动机汽车销量为2025万辆，同比减少10%；其市场份额下降3个百分点至49%，自汽车在1920年代开始普及以来首次跌破一半。",
@@ -2061,24 +2285,6 @@
         "中央通訊社"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "detroit-officer-son-loaded-gun-daycare-parents-charged-773f7b",
-      "title": "底特律警员三岁儿子携上膛手枪入托父母遭起诉",
-      "description": "9月28日，密歇根州坎顿市一所早期学习中心发生涉枪事件：一名3岁男童把家中的上膛手枪装进书包带到中心，并拿给其他孩子看。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T01:51:39+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-04",
-      "url": "https://kaopu.news/story/2026-10-04/detroit-officer-son-loaded-gun-daycare-parents-charged-773f7b",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -2325,24 +2531,6 @@
       ],
       "section": "business",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "malaysia-to-suspend-myeg-collection-services-f3ff68",
-      "title": "马来西亚陆交局将暂停MYEG旗下两家公司代收费服务",
-      "description": "马来西亚陆路交通局将从10月5日零时起，暂停MYEG集团旗下Zetrix AI有限公司和My E.G.私人有限公司作为陆交局代收费机构。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T14:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/malaysia-to-suspend-myeg-collection-services-f3ff68",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2921,26 +3109,6 @@
       "sources": []
     },
     {
-      "id": "tsai-ing-wen-stanford-speeches-d906eb",
-      "title": "蔡英文将赴斯坦福发表科技与国家安全主题演讲",
-      "description": "台湾前总统蔡英文将于10月7日赴美国加州斯坦福大学，参加Stanford DEFCON 2026科技与国家安全研讨会并发表开幕主题演讲。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T06:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/tsai-ing-wen-stanford-speeches-d906eb",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "世界日报"
-      ],
-      "section": "asia",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "glp1-drugs-push-fast-food-menu-changes-eebcca",
       "title": "GLP-1减肥药推动连锁餐饮调整菜单",
       "description": "随着GLP-1减肥药使用增多，消费者对饮食的关注更多转向蛋白质和热量，麦当劳、Chipotle和Shake Shack都在调整菜单。",
@@ -2959,24 +3127,6 @@
       "sources": []
     },
     {
-      "id": "catalina-island-tucey-1500000-wage-restitution-e298a8",
-      "title": "卡塔利娜岛业者图西被令支付150万美元欠薪赔偿",
-      "description": "经营卡塔利娜岛多家旅馆和餐厅的图西（Yueh Mei Tucey，又名Nora Tucey）于2026年9月28日在赔偿及量刑听证会上向法院交付150万美元支票。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T06:17:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/catalina-island-tucey-1500000-wage-restitution-e298a8",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "lyft-agrees-california-wage-lawsuit-settlement-ad646d",
       "title": "Lyft同意支付2.725亿美元和解加州工资诉讼",
       "description": "网约车公司Lyft同意支付2.725亿美元，了结一宗涉及加州司机分类及工资工时保障的诉讼。",
@@ -2992,44 +3142,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "amazon-pledges-billion-data-center-communities-f1f4a3",
-      "title": "亚马逊承诺五年投入逾十亿美元支持数据中心社区",
-      "description": "亚马逊10月2日宣布“共同建设”计划，承诺未来五年向数据中心所在社区投入超过10亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T06:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/amazon-pledges-billion-data-center-communities-f1f4a3",
-      "reference": [
-        "联合早报",
-        "世界日报"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "us-mortgage-rates-rise-728-998268",
-      "title": "美国30年期房贷利率升至7.28%创近三年新高",
-      "description": "房地美10月1日公布，美国30年期固定房贷平均利率从前一周的7.03%升至7.28%，达到2023年11月以来最高水平。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T06:14:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/us-mortgage-rates-rise-728-998268",
-      "reference": [
-        "中央通訊社",
-        "世界日报"
-      ],
-      "section": "business",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -3129,45 +3241,6 @@
       "sources": []
     },
     {
-      "id": "japan-ruling-party-proposes-land-permit-system-1a06fd",
-      "title": "日本专家会议建议加强重要土地管制",
-      "description": "日本政府专家会议10月2日向小野田纪美提交建议，拟加强安保重要设施周边及边境离岛土地管制。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T05:29:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-01",
-      "url": "https://kaopu.news/story/2026-10-01/japan-ruling-party-proposes-land-permit-system-1a06fd",
-      "reference": [
-        "共同网",
-        "日本放送协会"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "us-plans-nmesis-deployment-yonaguni-8101a1",
-      "title": "美军计划向与那国岛部署反舰导弹装置和防空系统",
-      "description": "日本防卫省冲绳防卫局宣布，美军计划在10月19日至29日举行的日美“利剑”联合演习期间，首次向冲绳县与那国岛部署NMESIS反舰导弹发射装置和MADIS短程防空系统。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T05:29:31+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/us-plans-nmesis-deployment-yonaguni-8101a1",
-      "reference": [
-        "共同网",
-        "联合早报",
-        "日本放送协会"
-      ],
-      "section": "asia",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "zhang-zhuhan-asian-games-kayak-cross-silver-d81231",
       "title": "张筑涵名古屋亚运越野激流摘得银牌",
       "description": "张筑涵10月2日在名古屋亚运会女子越野激流决赛中获得银牌，连续第四届亚运会收获奖牌。",
@@ -3202,25 +3275,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "fed-watchdog-finds-renovation-cost-overruns-695c10",
-      "title": "美国司法部不重启美联储翻修案刑事调查",
-      "description": "美国司法部长托德·布兰奇10月2日表示，司法部不会重启针对美联储华盛顿总部翻修工程的刑事调查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T04:38:52+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-01",
-      "url": "https://kaopu.news/story/2026-10-01/fed-watchdog-finds-renovation-cost-overruns-695c10",
-      "reference": [
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -3405,61 +3459,6 @@
       ],
       "section": "sports",
       "sourceCount": 11,
-      "sources": []
-    },
-    {
-      "id": "singapore-adds-hpv9-national-immunisation-programme-3d3e58",
-      "title": "新加坡明年起将九价HPV疫苗纳入国家免疫计划",
-      "description": "新加坡保健卫生部、传染病管理局和保健促进局10月2日宣布，九价人乳头瘤病毒疫苗（HPV9）将从2027年1月起纳入全国儿童疫苗计划、全国成人免疫计划及受津贴疫苗清单，建议9岁至26岁女性接种，以预防子宫颈癌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T12:07:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/singapore-adds-hpv9-national-immunisation-programme-3d3e58",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-customer-harassment-rules-take-effect-0731f4",
-      "title": "日本新法要求企业应对顾客骚扰保护员工",
-      "description": "日本修订后的《劳动施策综合推进法》于10月1日施行，将应对顾客骚扰列为所有企业的义务，旨在保护从业人员。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T10:12:08+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-01",
-      "url": "https://kaopu.news/story/2026-10-01/japan-customer-harassment-rules-take-effect-0731f4",
-      "reference": [
-        "公视",
-        "日本放送协会"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "pasir-panjang-seizes-391kg-cannabis-84ad55",
-      "title": "巴西班让扫描站截获391公斤转运大麻",
-      "description": "新加坡移民与关卡局和中央肃毒局9月24日在巴西班让扫描站检查一个入境集装箱，查获约391公斤大麻。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T10:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/pasir-panjang-seizes-391kg-cannabis-84ad55",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3871,27 +3870,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "countries-support-ai-regulation-statement-d4b0b2",
-      "title": "英伟达推出开放平台为AI代理划定安全边界",
-      "description": "英伟达9月28日发布面向人工智能代理的开放安全平台，由OpenShell软件和Sentry参考系统设计组成，试图限制代理能访问的资源和可执行的操作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T00:01:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-21",
-      "url": "https://kaopu.news/story/2026-09-21/countries-support-ai-regulation-statement-d4b0b2",
-      "reference": [
-        "SBS",
-        "法广",
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "ai",
-      "sourceCount": 14,
       "sources": []
     },
     {
