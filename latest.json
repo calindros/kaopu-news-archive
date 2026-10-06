@@ -1,11 +1,31 @@
 {
   "details": {
     "date": "2026-10-06",
-    "timestamp": 1791286791,
+    "timestamp": 1791293473,
     "totalPages": 1,
-    "total": 283
+    "total": 282
   },
   "stories": [
+    {
+      "id": "germany-france-push-eu-china-trade-tool-20a12a",
+      "title": "法德提议欧盟建立快速贸易反应工具",
+      "description": "法国总统马克龙和德国总理默茨10月5日致信欧盟委员会主席冯德莱恩，并提交非正式文件，建议欧盟更迅速地运用贸易防御手段，同时建立快速反应工具。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T12:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/germany-france-push-eu-china-trade-tool-20a12a",
+      "reference": [
+        "德国之声",
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
     {
       "id": "south-korea-says-north-korea-planted-dmz-mine-3e9e0a",
       "title": "韩国认定朝鲜埋雷致伤并清除部分地雷",
@@ -49,6 +69,24 @@
       "sources": []
     },
     {
+      "id": "china-refiners-buy-iraqi-qatari-crude-69771e",
+      "title": "中国独立炼厂增购伊拉克和卡塔尔原油",
+      "description": "中国独立炼厂近日增加采购伊拉克和卡塔尔原油，作为伊朗供应减少后的替代来源，相关货物安排在10月和11月交付。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T12:03:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/china-refiners-buy-iraqi-qatari-crude-69771e",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "latino-voters-shift-democrats-trump-republicans-5d73b8",
       "title": "民调显示特朗普西班牙裔认可率降至两届任期最低",
       "description": "路透社与益普索10月5日完成的全美民调显示，美国总统特朗普的整体执政认可度仍处低位，西班牙裔美国人的认可率为其两个总统任期以来最低。",
@@ -83,6 +121,60 @@
       ],
       "section": "asia",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "akazawa-says-china-rare-earth-curbs-hit-global-economy-d490be",
+      "title": "赤泽亮正称中国稀土管制冲击全球经济",
+      "description": "日本经济产业大臣赤泽亮正当天在东京发表演讲，谈及中国稀土出口限制对全球经济的影响，并主张日本巩固芯片制造和人工智能产业所需材料、零部件及生产设备方面的优势。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T11:06:38+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/akazawa-says-china-rare-earth-curbs-hit-global-economy-d490be",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "hkma-questions-hsbc-singapore-ai-center-362e2b",
+      "title": "报道称香港金管局施压质问汇丰为何将AI中心设在新加坡",
+      "description": "香港01、信报等香港媒体引述英国《金融时报》称，香港金融管理局曾就汇丰控股计划把全球人工智能卓越中心设在新加坡一事向汇丰施压，追问为何不选香港。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T11:06:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/hkma-questions-hsbc-singapore-ai-center-362e2b",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "suzuki-announces-electric-minicar-launch-1f7228",
+      "title": "铃木宣布首款纯电微型车11月16日发售",
+      "description": "铃木公司6日宣布，首款微型纯电动汽车“e SKY”将于11月16日在日本发售。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T11:06:28+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/suzuki-announces-electric-minicar-launch-1f7228",
+      "reference": [
+        "共同网"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1967,24 +2059,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-opposition-senior-health-waiver-funding-row-7a368d",
-      "title": "蓝白提案老人免缴健保费民进党团警示权力分立冲突",
-      "description": "台湾蓝白提出方案，拟让所得税率低于20%的65岁及以上民众免缴健保费。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T04:09:15+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/taiwan-opposition-senior-health-waiver-funding-row-7a368d",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "trump-eases-red-diesel-use-restrictions-836df2",
       "title": "特朗普签署行政令放宽红色柴油使用限制",
       "description": "美国总统特朗普10月5日晚在内布拉斯加州一场竞选集会上签署行政令，放宽红色柴油原有的非道路用途限制，允许各类使用者购买。",
@@ -2261,25 +2335,6 @@
       ],
       "section": "business",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "germany-france-push-eu-china-trade-tool-20a12a",
-      "title": "马克龙默茨致信欧盟推动快速贸易应对机制",
-      "description": "法国总统马克龙和德国总理默茨10月5日致信欧盟委员会主席冯德莱恩，建议欧盟建立更快、更有力的贸易应对机制。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T01:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/germany-france-push-eu-china-trade-tool-20a12a",
-      "reference": [
-        "德国之声",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2887,27 +2942,6 @@
       "sources": []
     },
     {
-      "id": "us-september-jobs-growth-misses-forecast-c121f2",
-      "title": "美国就业数据疲弱带动亚洲股市收高",
-      "description": "亚洲多地股市10月5日收高，日本和台湾市场涨幅居前。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-05T10:05:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/us-september-jobs-growth-misses-forecast-c121f2",
-      "reference": [
-        "中央通訊社",
-        "财新",
-        "法广",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 12,
-      "sources": []
-    },
-    {
       "id": "amro-warns-ai-correction-threatens-asia-d457e9",
       "title": "AMRO警告AI无序回调恐冲击亚洲经济",
       "description": "东盟与中日韩宏观经济研究办公室（AMRO）10月5日发布《2026年金融稳定报告》，警告AI领域若发生无序回调，风险可能经多个渠道传导，冲击东盟、中国、日本和韩国的金融市场与实体经济。",
@@ -3069,24 +3103,6 @@
         "共同网"
       ],
       "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "malaysia-subsidy-spending-falls-2025-df179d",
-      "title": "马来西亚去年补贴开支下降40.1%",
-      "description": "马来西亚政府2025年补贴开支为234亿3000万令吉，较2024年的391亿令吉减少40.1%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-05T07:11:38+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/malaysia-subsidy-spending-falls-2025-df179d",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -3740,24 +3756,6 @@
         "日经"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-ai-plan-includes-overseas-firms-cd9225",
-      "title": "数发部将海外注册且主要业务在台湾的企业纳入AI投资",
-      "description": "台湾数位发展部近期修订「加强投资AI新创实施方案」作业要点，将在台湾开展主要营业活动的海外注册公司纳入投资范围。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T02:07:15+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-04",
-      "url": "https://kaopu.news/story/2026-10-04/taiwan-ai-plan-includes-overseas-firms-cd9225",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -4656,26 +4654,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "hengrui-licenses-obesity-drug-to-novo-nordisk-73ff14",
-      "title": "恒瑞医药将口服减重药海外权益授权诺和诺德",
-      "description": "中国药企恒瑞医药与丹麦制药巨头诺和诺德于2026年9月30日达成许可协议，将自主研发的GLP-1/GIP双受体激动剂HRS-1596在中国大陆及港澳台以外地区的开发、生产和商业化独家权利授予诺和诺德，潜在交易总额最高可达26亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-30T11:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-29",
-      "url": "https://kaopu.news/story/2026-09-29/hengrui-licenses-obesity-drug-to-novo-nordisk-73ff14",
-      "reference": [
-        "联合早报",
-        "第一财经",
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 3,
       "sources": []
     },
     {
