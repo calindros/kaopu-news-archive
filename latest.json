@@ -1,11 +1,298 @@
 {
   "details": {
     "date": "2026-10-06",
-    "timestamp": 1791293473,
+    "timestamp": 1791300514,
     "totalPages": 1,
     "total": 282
   },
   "stories": [
+    {
+      "id": "rausch-elected-saxony-anhalt-parliament-speaker-58835f",
+      "title": "劳施当选萨安州议会议长成德国首位AfD籍州议长",
+      "description": "萨克森-安哈尔特州议会10月6日在马格德堡举行议长选举。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T14:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/rausch-elected-saxony-anhalt-parliament-speaker-58835f",
+      "reference": [
+        "德国之声"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "germany-france-push-eu-china-trade-tool-20a12a",
+      "title": "法德提议欧盟建立经济胁迫反制工具",
+      "description": "法国和德国于10月5日向欧盟委员会提出建立新经济胁迫反制机制，建议欧盟在遭受经济攻击时，限制施压方企业进入欧盟单一市场。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T13:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/germany-france-push-eu-china-trade-tool-20a12a",
+      "reference": [
+        "德国之声",
+        "联合早报",
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "world",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "hanning-arrested-over-paid-classified-files-e1d973",
+      "title": "德国前情报局长与前同事因涉嫌泄密被捕",
+      "description": "德国联邦检察机关称，德国前联邦情报局（BND）局长奥古斯特·汉宁及前局内工作人员曼弗雷德·D.于10月6日被捕。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T13:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/hanning-arrested-over-paid-classified-files-e1d973",
+      "reference": [
+        "联合早报",
+        "德国之声"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "south-korea-says-north-korea-planted-dmz-mine-3e9e0a",
+      "title": "韩国认定朝鲜地雷致非军事区爆炸",
+      "description": "韩国联合参谋本部10月5日公布最终调查结果，认定9月21日西部战线非军事区发生的爆炸由朝鲜埋设的地雷引起。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T13:58:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/south-korea-says-north-korea-planted-dmz-mine-3e9e0a",
+      "reference": [
+        "澎湃新闻",
+        "韩国国际广播电台",
+        "韩民族日报",
+        "法广"
+      ],
+      "section": "asia",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "indonesia-morowali-nickel-mine-clash-injures-six-8eb45d",
+      "title": "印尼莫罗瓦利镍矿冲突致六人受伤",
+      "description": "10月2日，印尼中苏拉威西省莫罗瓦利县马塔拉佩村村民因运矿车辆扬尘问题与矿场工人发生冲突，造成六人受伤，75名中国籍工人被撤离。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T13:41:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/indonesia-morowali-nickel-mine-clash-injures-six-8eb45d",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-f16v-jets-arrive-taitung-843b7d",
+      "title": "台湾首批两架F-16V战机抵达台东志航基地",
+      "description": "台湾空军向美国采购的首批两架F-16V Block 70战机于10月2日抵达台东志航基地，编号为6727和6728。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T13:37:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-01",
+      "url": "https://kaopu.news/story/2026-10-01/taiwan-f16v-jets-arrive-taitung-843b7d",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "法广",
+        "德国之声"
+      ],
+      "section": "asia",
+      "sourceCount": 26,
+      "sources": []
+    },
+    {
+      "id": "japan-plans-climate-adaptation-revision-6d924d",
+      "title": "日本政府拟修订气候适应计划应对异常天气",
+      "description": "日本近期遭遇暴雨、酷暑等异常天气，农业生产和水资源供应受到冲击，食品价格上涨、通胀压力加大。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T13:36:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/japan-plans-climate-adaptation-revision-6d924d",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "wanying-zhang-arrested-spying-taiwan-president-son-818df0",
+      "title": "美联邦调查局逮捕涉监视赖清德儿子的房产经纪",
+      "description": "美国联邦调查局10月4日在洛杉矶国际机场逮捕34岁的加州尔湾房地产经纪张婉莹。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T13:34:12+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/wanying-zhang-arrested-spying-taiwan-president-son-818df0",
+      "reference": [
+        "世界日报",
+        "中央通訊社",
+        "联合早报",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 40,
+      "sources": []
+    },
+    {
+      "id": "indonesia-halts-forest-clearing-rice-plan-764b4a",
+      "title": "印尼政府宣布停止开垦森林种稻计划",
+      "description": "印度尼西亚政府宣布停止为扩大水稻种植而开垦森林的计划。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T13:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/indonesia-halts-forest-clearing-rice-plan-764b4a",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "israel-integrity-party-overtakes-likud-734d02",
+      "title": "以色列大选临近正直党民调支持度超联合党",
+      "description": "以色列定于10月27日举行国会选举，竞选活动已经展开。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T13:20:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/israel-integrity-party-overtakes-likud-734d02",
+      "reference": [
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nigeria-military-plane-crash-kills-32-2ad908",
+      "title": "尼日利亚军机在翁多州坠毁致32人遇难",
+      "description": "尼日利亚一架ATR-42军机10月5日执行贝宁市至拉各斯的例行任务时，在翁多州坠毁，机上32人全部遇难。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T13:15:30+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/nigeria-military-plane-crash-kills-32-2ad908",
+      "reference": [
+        "法广",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "hochul-declares-new-york-state-emergency-67da57",
+      "title": "纽约州宣布进入一个月灾难紧急状态",
+      "description": "纽约州州长凯西·霍楚10月5日签署行政命令，宣布全州进入为期一个月的灾难紧急状态，以应对麻疹病例增加。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T13:15:17+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/hochul-declares-new-york-state-emergency-67da57",
+      "reference": [
+        "联合早报",
+        "公视",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "china-urges-us-to-handle-taiwan-issue-carefully-78051f",
+      "title": "中国大陆外交部敦促美国慎重处理台湾问题",
+      "description": "路透社引述不具名美国官员称，中国大陆在2028年前对台动武的可能性有所下降。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T13:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/china-urges-us-to-handle-taiwan-issue-carefully-78051f",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "blue-cross-blue-shield-ai-hospital-spending-d68971",
+      "title": "蓝十字蓝盾协会称医院AI使用伴随医疗支出增加",
+      "description": "蓝十字蓝盾协会近日发布报告称，医院使用人工智能处理病历和保险申报编码，与其保险计划医疗支出上升有关。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T13:10:49+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/blue-cross-blue-shield-ai-hospital-spending-d68971",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "yokota-sakie-urges-north-korea-return-megumi-c0305d",
+      "title": "高市称曾请特朗普促成日朝首脑会谈",
+      "description": "日本首相高市早苗10月6日在官邸会见朝鲜绑架日本人事件受害者家属代表横田拓也及跨党派国会议员联盟干部，听取访美情况汇报。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T13:10:04+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/yokota-sakie-urges-north-korea-return-megumi-c0305d",
+      "reference": [
+        "日本放送协会",
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
+      "sources": []
+    },
     {
       "id": "aws-bedrock-adds-zhipu-glm-53-8fe8ea",
       "title": "Amazon Bedrock接入智谱GLM-5.3模型",
@@ -23,6 +310,27 @@
       ],
       "section": "ai",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "francis-halzen-wins-2026-nobel-physics-prize-149741",
+      "title": "哈尔岑独享2026年诺贝尔物理学奖",
+      "description": "瑞典皇家科学院当地时间10月6日宣布，将2026年诺贝尔物理学奖授予弗朗西斯·哈尔岑，肯定他推动冰立方中微子天文台建成，以及发现来自天体物理过程的高能中微子所作的贡献。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T13:05:07+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/francis-halzen-wins-2026-nobel-physics-prize-149741",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "联合早报",
+        "财新"
+      ],
+      "section": "tech",
+      "sourceCount": 9,
       "sources": []
     },
     {
@@ -45,12 +353,12 @@
     },
     {
       "id": "french-students-protests-spread-warning-fdc4ef",
-      "title": "法国高中生全国示威要求改善教育条件",
-      "description": "法国高中生、教师及家长10月6日在全国多地举行示威并封锁学校，要求政府改善师资短缺、校舍老旧和教育资源不足等问题。",
+      "title": "法国高中生全国示威获工会与大学声援",
+      "description": "法国高中生10月6日在全国多地举行新一轮示威，教师、家长、工会和大学团体加入声援，要求政府解决师资短缺、教育资源不足和校舍老旧等问题。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-06T12:49:00+00:00",
+      "updatedAt": "2026-10-06T12:55:35+00:00",
       "occurredAt": "",
       "publishedAt": "2026-09-29",
       "url": "https://kaopu.news/story/2026-09-29/french-students-protests-spread-warning-fdc4ef",
@@ -61,28 +369,45 @@
         "德国之声"
       ],
       "section": "world",
-      "sourceCount": 17,
+      "sourceCount": 18,
       "sources": []
     },
     {
-      "id": "germany-france-push-eu-china-trade-tool-20a12a",
-      "title": "法德提议欧盟推出快速贸易防御工具",
-      "description": "法国和德国10月5日向欧盟委员会递交非正式文件，建议加强欧盟贸易防御并建立快速反应工具。",
+      "id": "trump-eases-red-diesel-use-restrictions-836df2",
+      "title": "特朗普签令放宽红色柴油公路使用限制",
+      "description": "美国总统特朗普10月5日晚在内布拉斯加州一场选举集会上签署行政命令，放宽红色柴油用于一般道路行驶柴油车辆的限制，以应对柴油价格上涨。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-06T12:49:00+00:00",
+      "updatedAt": "2026-10-06T12:54:58+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/germany-france-push-eu-china-trade-tool-20a12a",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/trump-eases-red-diesel-use-restrictions-836df2",
       "reference": [
-        "德国之声",
+        "法广",
         "联合早报",
-        "澎湃新闻",
-        "第一财经"
+        "公视"
       ],
-      "section": "world",
-      "sourceCount": 5,
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "us-military-tests-border-counter-drone-tech-c049ed",
+      "title": "美军在尤马试验场测试边境反无人机技术",
+      "description": "美国北方司令部在亚利桑那州尤马试验场举行“猎鹰顶峰”演习，活动从8月下旬持续至9月下旬，重点测试用于应对美墨边境走私活动的反无人机技术。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T12:54:30+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/us-military-tests-border-counter-drone-tech-c049ed",
+      "reference": [
+        "公视"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -123,48 +448,6 @@
       ],
       "section": "asia",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "francis-halzen-wins-2026-nobel-physics-prize-149741",
-      "title": "哈尔岑独得2026年诺贝尔物理学奖",
-      "description": "瑞典皇家科学院10月6日宣布，将2026年诺贝尔物理学奖授予比利时裔美国物理学家弗朗西斯·哈尔岑，表彰他推动冰立方中微子天文台建设、发现具有天体物理来源的高能中微子所作的贡献。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T12:21:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/francis-halzen-wins-2026-nobel-physics-prize-149741",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "联合早报",
-        "财新"
-      ],
-      "section": "tech",
-      "sourceCount": 8,
-      "sources": []
-    },
-    {
-      "id": "south-korea-says-north-korea-planted-dmz-mine-3e9e0a",
-      "title": "韩国认定朝鲜埋雷致伤并清除部分地雷",
-      "description": "韩国联合参谋本部10月5日公布调查结果，认定9月21日西部战线非军事区发生的地雷爆炸，是朝鲜军队在军事分界线以南埋设地雷所致。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T12:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/south-korea-says-north-korea-planted-dmz-mine-3e9e0a",
-      "reference": [
-        "澎湃新闻",
-        "韩国国际广播电台",
-        "韩民族日报",
-        "法广"
-      ],
-      "section": "asia",
-      "sourceCount": 7,
       "sources": []
     },
     {
@@ -280,27 +563,6 @@
       "sources": []
     },
     {
-      "id": "wanying-zhang-arrested-spying-taiwan-president-son-818df0",
-      "title": "涉监视赖清德长子张婉莹出庭后继续羁押",
-      "description": "34岁的加州尔湾房地产经纪人张婉莹被美国检方指控受中国政府人员指使，在美国监视台湾总统赖清德长子赖廷与及其家人，并向中方传送影像和车辆信息。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T11:43:24+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/wanying-zhang-arrested-spying-taiwan-president-son-818df0",
-      "reference": [
-        "世界日报",
-        "中央通訊社",
-        "联合早报",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 39,
-      "sources": []
-    },
-    {
       "id": "chinese-military-aircraft-cross-taiwan-strait-line-58892e",
       "title": "台湾国防部称9架次中国军机越过海峡中线进入台湾空域",
       "description": "台湾国防部称，10月6日下午，中国人民解放军军机配合军舰在台湾周边进行所谓“联合战备警巡”；其中9架次越过台湾海峡中线，进入台湾北部及中部空域。",
@@ -387,24 +649,6 @@
         "共同网"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "hanning-arrested-over-paid-classified-files-e1d973",
-      "title": "德国前情报局长涉付费获取机密被捕",
-      "description": "德国联邦检察机关星期二宣布，德国前联邦情报局局长奥古斯特·汉宁和前情报局办公室主管曼弗雷德·D.被捕，两人涉嫌以报酬换取机密材料并向外国情报机构提供信息。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T10:53:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/hanning-arrested-over-paid-classified-files-e1d973",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -499,25 +743,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "yokota-sakie-urges-north-korea-return-megumi-c0305d",
-      "title": "高市请求特朗普敦促金正恩同意日朝首脑会谈",
-      "description": "日本首相高市早苗10月6日在官邸会见朝鲜绑架日本人事件受害者家属及跨党派议员联盟干部时透露，她曾请求美国总统特朗普：若与朝鲜领导人金正恩举行美朝首脑会谈，应敦促金正恩同意举行日朝首脑会谈。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T10:22:42+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/yokota-sakie-urges-north-korea-return-megumi-c0305d",
-      "reference": [
-        "日本放送协会",
-        "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -703,24 +928,6 @@
       "url": "https://kaopu.news/story/2026-10-06/lee-hsiang-chou-taiwan-arms-race-defense-988cfe",
       "reference": [
         "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "indonesia-halts-forest-clearing-rice-plan-764b4a",
-      "title": "印尼政府将停止毁林种稻计划称大米已实现自给",
-      "description": "印度尼西亚政府10月6日宣布将停止为种植水稻而开垦森林的计划，称大米产量已能满足全国需求。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T09:09:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/indonesia-halts-forest-clearing-rice-plan-764b4a",
-      "reference": [
-        "联合早报"
       ],
       "section": "asia",
       "sourceCount": 1,
@@ -1379,26 +1586,6 @@
       "sources": []
     },
     {
-      "id": "hochul-declares-new-york-state-emergency-67da57",
-      "title": "纽约州州长宣布全州进入灾难紧急状态",
-      "description": "纽约州州长凯西·霍楚10月5日签署行政命令，宣布全州进入灾难紧急状态，以应对纽约州及周边农村地区麻疹病例增加。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T06:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/hochul-declares-new-york-state-emergency-67da57",
-      "reference": [
-        "联合早报",
-        "公视",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "perdue-reaffirms-trump-taiwan-policy-2c69a9",
       "title": "庞德伟重申特朗普政府对台政策立场未变",
       "description": "美国驻华大使庞德伟10月5日在X发布两则中英对照声明，再次表示特朗普对台立场坚定，美国的一中政策及对台立场没有改变。",
@@ -1970,24 +2157,6 @@
       "sources": []
     },
     {
-      "id": "malaysia-bank-blocks-19b-ringgit-scam-transactions-efc7c4",
-      "title": "马来西亚国行称上半年拦截19亿令吉诈骗交易",
-      "description": "马来西亚国家银行总裁阿都拉昔说，马来西亚金融领域在2026年上半年拦截了约19亿令吉的企图诈骗交易，金额高于2025年全年拦截的12亿令吉。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T05:09:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/malaysia-bank-blocks-19b-ringgit-scam-transactions-efc7c4",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "singapore-mom-explores-retrenchment-benefit-rules-684327",
       "title": "新加坡人力部探讨强化雇主裁员福利约束",
       "description": "新加坡人力部代部长兼数码发展及新闻部高级政务部长刘洁敏10月6日在国会答复议员时说，配合雇佣法令检讨，人力部与劳资政伙伴将研究加强雇主支付裁员福利的约束，并讨论设定强制性的提前裁员通知期，让就业支援服务更早介入。",
@@ -2081,24 +2250,6 @@
       "sources": []
     },
     {
-      "id": "anwar-government-rejects-equal-mp-funding-be76d7",
-      "title": "安华政府拒绝向朝野议员平等拨款",
-      "description": "安华政府仍拒绝向所有国会议员提供平等拨款。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T04:44:51+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/anwar-government-rejects-equal-mp-funding-be76d7",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "hong-kong-fertility-center-resumes-services-27ba06",
       "title": "香港希愈生殖医学中心获准全面恢复服务",
       "description": "香港人类生殖科技管理局10月5日召开特别会议，批准中环希愈生殖医学中心自10月6日起恢复牌照涵盖的全部17项治疗服务。",
@@ -2132,43 +2283,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "shen-boyang-keeps-twin-city-forum-c35983",
-      "title": "沈伯洋改口称保留双城论坛交流框架",
-      "description": "台湾民进党台北市长候选人沈伯洋星期一（10月5日）被问及是否停办台北上海双城论坛时表示，现有交流框架“先留着”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T04:17:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/shen-boyang-keeps-twin-city-forum-c35983",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-eases-red-diesel-use-restrictions-836df2",
-      "title": "特朗普签署行政令放宽红色柴油使用限制",
-      "description": "美国总统特朗普10月5日晚在内布拉斯加州一场竞选集会上签署行政令，放宽红色柴油原有的非道路用途限制，允许各类使用者购买。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T04:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/trump-eases-red-diesel-use-restrictions-836df2",
-      "reference": [
-        "法广",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2242,24 +2356,6 @@
         "共同网"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "iran-keeps-hormuz-strait-closed-until-terms-met-2cf86c",
-      "title": "卡利巴夫称霍尔木兹海峡须满足七项条件才重开",
-      "description": "伊朗议会议长穆罕默德·巴吉尔·卡利巴夫10月4日表示，伊朗与美国今年6月签署的结束战争谅解备忘录所列七项伊方条件落实前，霍尔木兹海峡不会开放。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T02:52:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/iran-keeps-hormuz-strait-closed-until-terms-met-2cf86c",
-      "reference": [
-        "韩民族日报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -2449,27 +2545,6 @@
       ],
       "section": "us",
       "sourceCount": 20,
-      "sources": []
-    },
-    {
-      "id": "bermuda-boston-medical-jet-loses-contact-56e328",
-      "title": "加拿大将派员参与楠塔基特坠机调查",
-      "description": "加拿大交通安全委员会将派调查人员参与楠塔基特岛附近医疗飞机失事调查，并协助搜寻和打捞。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T00:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/bermuda-boston-medical-jet-loses-contact-56e328",
-      "reference": [
-        "世界日报",
-        "澎湃新闻",
-        "联合早报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 9,
       "sources": []
     },
     {
@@ -2710,24 +2785,6 @@
       "sources": []
     },
     {
-      "id": "trump-ohio-campaign-republicans-trail-1db952",
-      "title": "特朗普赴俄亥俄州拉票共和党选情落后",
-      "description": "美国总统特朗普10月3日前往俄亥俄州，为共和党候选人拉票，并呼吁选民把他当作也在参选。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-05T13:32:15+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/trump-ohio-campaign-republicans-trail-1db952",
-      "reference": [
-        "公视"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "muhos-google-data-center-forest-clearing-97ac1a",
       "title": "穆霍斯谷歌数据中心工地已砍伐逾300公顷森林",
       "description": "芬兰穆霍斯拟建谷歌数据中心的工地已有300多公顷森林被砍，约相当于420座足球场。",
@@ -2903,24 +2960,6 @@
       "url": "https://kaopu.news/story/2026-10-05/china-mutual-fund-liquidations-eight-year-high-15d9f5",
       "reference": [
         "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-central-bank-reserves-6007-billion-ca8de5",
-      "title": "台湾央行公布9月底外汇储备为6007.45亿美元",
-      "description": "台湾中央银行10月5日公布，9月末外汇储备为6007.45亿美元，较8月末减少11.59亿美元，仍高于6000亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-05T10:53:41+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/taiwan-central-bank-reserves-6007-billion-ca8de5",
-      "reference": [
-        "中央通訊社"
       ],
       "section": "business",
       "sourceCount": 1,
@@ -3743,26 +3782,6 @@
       "sources": []
     },
     {
-      "id": "musk-confirms-tsmc-terafab-talks-04d215",
-      "title": "台积电评估协助运营马斯克得州晶圆厂",
-      "description": "台湾积体电路制造公司（台积电）正评估协助埃隆·马斯克旗下Terafab运营得克萨斯州的新半导体厂。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T06:10:12+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/musk-confirms-tsmc-terafab-talks-04d215",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "business",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "us-plans-china-overcapacity-measures-c12e3a",
       "title": "美国计划数周内公布应对中国产能过剩措施",
       "description": "美国计划在数周内公布针对中国产能过剩的措施。",
@@ -4160,26 +4179,6 @@
       ],
       "section": "sports",
       "sourceCount": 11,
-      "sources": []
-    },
-    {
-      "id": "china-antelope-reef-runway-construction-e6d8b9",
-      "title": "中国推进羚羊礁跑道建设预计明年年中完工",
-      "description": "中央社和德国之声也报道了羚羊礁工程进展。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T09:57:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/china-antelope-reef-runway-construction-e6d8b9",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "德国之声"
-      ],
-      "section": "china",
-      "sourceCount": 3,
       "sources": []
     },
     {
