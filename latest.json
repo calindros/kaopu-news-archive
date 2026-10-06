@@ -1,27 +1,218 @@
 {
   "details": {
     "date": "2026-10-06",
-    "timestamp": 1791279152,
+    "timestamp": 1791282852,
     "totalPages": 1,
-    "total": 284
+    "total": 283
   },
   "stories": [
     {
-      "id": "taichung-prosecutors-charge-yaita-attacker-c65c37",
-      "title": "台中检方起诉殴打矢板明夫的香港男子求刑五年",
-      "description": "香港男子廖港发今年7月6日在台中殴打台籍日裔媒体人矢板明夫。",
+      "id": "myanmar-warships-deliver-migrants-thanlyin-70b631",
+      "title": "安华称敏昂莱未来几天将访问马来西亚",
+      "description": "马来西亚首相安华10月6日在国会说，缅甸总统敏昂莱将在未来几天访问马来西亚。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-06T08:01:00+00:00",
+      "updatedAt": "2026-10-06T09:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/myanmar-warships-deliver-migrants-thanlyin-70b631",
+      "reference": [
+        "联合早报",
+        "法广",
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "tsai-ing-wen-stanford-speeches-d906eb",
+      "title": "蔡英文卸任后首次访美抵达旧金山",
+      "description": "台湾前总统蔡英文美西时间10月5日晚抵达旧金山，开始卸任后的首次访美行程。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T09:13:56+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-02",
+      "url": "https://kaopu.news/story/2026-10-02/tsai-ing-wen-stanford-speeches-d906eb",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "世界日报"
+      ],
+      "section": "asia",
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "ueno-zoo-visitors-fall-after-panda-return-8305c3",
+      "title": "晓晓蕾蕾返华后上野动物园游客减少近两成",
+      "description": "晓晓和蕾蕾于2026年1月底返回中国后，东京上野动物园游客人数下滑。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T08:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/ueno-zoo-visitors-fall-after-panda-return-8305c3",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "south-korea-self-employed-loan-delinquency-rises-a77695",
+      "title": "韩国个体户贷款逾期问题显现进一步加剧迹象",
+      "description": "韩国个体户在内需疲弱、借贷成本上行之际，贷款逾期问题出现进一步加剧的迹象。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T08:43:45+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/south-korea-self-employed-loan-delinquency-rises-a77695",
+      "reference": [
+        "韩民族日报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taichung-prosecutors-charge-yaita-attacker-c65c37",
+      "title": "台湾台中检方起诉袭击矢板明夫的香港男子并求刑五年",
+      "description": "台湾台中地检署10月6日起诉香港男子廖港发，按伤害、恐吓、公然侮辱及组织犯罪相关罪名追诉，并求处法定最高刑5年有期徒刑。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T08:38:34+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-06",
       "url": "https://kaopu.news/story/2026-10-06/taichung-prosecutors-charge-yaita-attacker-c65c37",
       "reference": [
-        "联合早报"
+        "联合早报",
+        "中央通訊社"
       ],
       "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "pentagon-stops-using-anthropic-ai-6aca67",
+      "title": "美国国防部宣布停用Anthropic人工智能产品",
+      "description": "美国国防部一名官员10月5日表示，五角大楼已停止使用Anthropic的人工智能产品。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T08:35:20+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/pentagon-stops-using-anthropic-ai-6aca67",
+      "reference": [
+        "英国广播公司"
+      ],
+      "section": "us",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "peking-tsinghua-ai-phds-million-yuan-salaries-de5332",
+      "title": "人工智能相关博士首年薪酬数百万元已不鲜见",
+      "description": "熟悉北大博士就业情况的人士称，人工智能相关专业博士毕业首年拿到数百万元人民币薪酬已不鲜见。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T08:34:52.564909+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/peking-tsinghua-ai-phds-million-yuan-salaries-de5332",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "youyang-illegal-mining-flooding-kills-seven-ef5690",
+      "title": "重庆酉阳废弃矿洞盗矿事故造成7人死亡",
+      "description": "重庆市酉阳土家族苗族自治县公安局称，10月3日接到有人在酉阳、秀山交界处一处封闭废弃矿洞失联的报警。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T08:32:32+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/youyang-illegal-mining-flooding-kills-seven-ef5690",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "government-plans-child-ai-safeguards-d8fb56",
+      "title": "政府拟在人工智能法案中要求儿童软件设置安全防线",
+      "description": "政府拟在筹划中的《人工智能治理法案》中加入规定，要求所有面向儿童开发的软件配备安全防线。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T08:31:21+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/government-plans-child-ai-safeguards-d8fb56",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-tpp-caucus-seeks-hsu-suspension-probe-be892d",
+      "title": "台湾外交部启动查证徐佳青家人涉滥用外馆资源指控",
+      "description": "台湾民众党立法院党团10月5日指控台湾侨务委员会委员长徐佳青任职期间让家人使用驻外机构公务资源，并要求她停职、启动调查。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T08:24:19+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/taiwan-tpp-caucus-seeks-hsu-suspension-probe-be892d",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "okinawa-police-arrest-marine-robbery-murder-suspect-0e0016",
+      "title": "驻冲绳美军士兵涉嫌抢劫杀人被捕",
+      "description": "10月3日凌晨，冲绳县那霸市一间酒店发现39岁女性屋宜杏奈死亡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T08:13:35+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/okinawa-police-arrest-marine-robbery-murder-suspect-0e0016",
+      "reference": [
+        "联合早报",
+        "共同网",
+        "日本放送协会",
+        "澎湃新闻"
+      ],
+      "section": "asia",
+      "sourceCount": 27,
       "sources": []
     },
     {
@@ -100,9 +291,27 @@
       "sources": []
     },
     {
+      "id": "malaysia-bill-empowers-minister-revoke-sports-groups-a14b67",
+      "title": "马来西亚政府拟授权部长撤销有害体育组织注册",
+      "description": "马来西亚青年及体育部长莫哈末道菲（Taufiq Johari）于10月5日向马来西亚国会提交《1997年体育发展法令》修订案，拟允许负责体育事务的部长撤销被认定危害国家安全、公共秩序或道德的体育组织注册。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T07:41:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/malaysia-bill-empowers-minister-revoke-sports-groups-a14b67",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "shinhan-bank-hack-exposes-customer-data-b766c1",
-      "title": "韩国多家金融机构遭攻击客户信息泄露",
-      "description": "韩国多家银行及其他金融机构近日接连遭网络攻击，客户、员工和贷款募集人员信息泄露。",
+      "title": "韩国多家金融机构遭网络攻击致信息泄露",
+      "description": "韩国多家金融机构近日接连遭网络攻击，客户及相关人员信息外泄。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -117,7 +326,25 @@
         "朝鲜日报"
       ],
       "section": "asia",
-      "sourceCount": 9,
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "israel-orders-military-alert-hamas-attack-9318ff",
+      "title": "以色列下令军方提高戒备防范哈马斯袭击",
+      "description": "以色列下令军方提高戒备。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T07:34:55+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/israel-orders-military-alert-hamas-attack-9318ff",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -234,6 +461,24 @@
       "sources": []
     },
     {
+      "id": "parti-quebecois-quebec-election-return-b07e5c",
+      "title": "媒体预测魁人党胜选并将组建魁北克省政府",
+      "description": "加拿大广播公司（CBC）及民间媒体预测，魁人党将在魁北克省选中胜出并组建下一届省政府；报道发布时，该党能否在国民议会取得过半席位仍未确定。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T07:02:53+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/parti-quebecois-quebec-election-return-b07e5c",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "japan-plans-foreign-admission-policy-9bd682",
       "title": "日本政府拟年内提出外国人接纳基本方针",
       "description": "日本首相高市早苗在10月5日的施政演说中提出，政府将探讨接纳外国人的基本方式。",
@@ -291,24 +536,42 @@
       "sources": []
     },
     {
-      "id": "okinawa-police-arrest-marine-robbery-murder-suspect-0e0016",
-      "title": "驻冲绳美军士兵涉嫌抢劫杀人被捕",
-      "description": "冲绳县那霸市一名39岁女性屋宜杏奈于10月3日凌晨被发现在一家酒店遇害，警方称她的钱包等财物遭抢。",
+      "id": "irkutsk-antiplague-institute-worker-death-f5f4c2",
+      "title": "伊尔库茨克鼠疫研究所员工死于不明肺炎",
+      "description": "俄罗斯伊尔库茨克州鼠疫研究所28岁员工达莉娅·希比洛娃于10月2日死亡。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-06T06:56:49+00:00",
+      "updatedAt": "2026-10-06T06:32:57+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-04",
-      "url": "https://kaopu.news/story/2026-10-04/okinawa-police-arrest-marine-robbery-murder-suspect-0e0016",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/irkutsk-antiplague-institute-worker-death-f5f4c2",
       "reference": [
+        "世界日报",
+        "加拿大国际广播电台",
         "联合早报",
-        "共同网",
-        "日本放送协会",
-        "澎湃新闻"
+        "公视"
       ],
-      "section": "asia",
-      "sourceCount": 26,
+      "section": "world",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "ukrainian-railways-evacuates-passengers-drone-threats-76fcda",
+      "title": "乌克兰铁路称9月因安全威胁疏散5831班列车乘客",
+      "description": "乌克兰铁路公司称，2026年9月因安全威胁，共有5831班列车疏散乘客，日均205班。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T06:32:56+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/ukrainian-railways-evacuates-passengers-drone-threats-76fcda",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -683,26 +946,6 @@
       "sources": []
     },
     {
-      "id": "tsai-ing-wen-stanford-speeches-d906eb",
-      "title": "蔡英文卸任后首次访美抵达旧金山",
-      "description": "台湾前总统蔡英文于美西时间10月5日晚抵达旧金山，展开为期约一周的交流访问。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T06:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/tsai-ing-wen-stanford-speeches-d906eb",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "世界日报"
-      ],
-      "section": "asia",
-      "sourceCount": 9,
-      "sources": []
-    },
-    {
       "id": "five-men-charged-scam-money-laundering-7fa1f6",
       "title": "美国联邦大陪审团起诉五人涉洗钱逾740万美元",
       "description": "华盛顿州西区联邦大陪审团起诉五名居住在华盛顿州的男子，指控他们参与面向美国各地受害者的技术支持诈骗和洗钱网络。",
@@ -846,6 +1089,45 @@
       ],
       "section": "us",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "french-teen-loses-hand-riot-grenade-de4db5",
+      "title": "法国高中生抗议中一名少年因防暴手榴弹失去手掌",
+      "description": "法国高中生自9月下旬起举行要求改善教育环境的示威，一名少年因防暴手榴弹失去手掌。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T06:02:52+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/french-teen-loses-hand-riot-grenade-de4db5",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "south-korea-says-north-korea-planted-dmz-mine-3e9e0a",
+      "title": "韩军认定朝鲜地雷引发非军事区爆炸",
+      "description": "韩国联合参谋本部10月5日公布最终调查结论，认定9月21日西部战线非军事区韩方一侧的爆炸由朝鲜埋设在军事分界线以南的反步兵地雷引起。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-06T06:02:52+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/south-korea-says-north-korea-planted-dmz-mine-3e9e0a",
+      "reference": [
+        "澎湃新闻",
+        "韩国国际广播电台",
+        "韩民族日报",
+        "法广"
+      ],
+      "section": "asia",
+      "sourceCount": 6,
       "sources": []
     },
     {
@@ -1017,26 +1299,6 @@
       "sources": []
     },
     {
-      "id": "myanmar-warships-deliver-migrants-thanlyin-70b631",
-      "title": "马来西亚遣返1476名缅甸籍扣留者",
-      "description": "马来西亚9月29日将1476名缅甸籍扣留者送返缅甸。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T05:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-04",
-      "url": "https://kaopu.news/story/2026-10-04/myanmar-warships-deliver-migrants-thanlyin-70b631",
-      "reference": [
-        "联合早报",
-        "法广",
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "new-world-development-debt-exchange-offer-486b69",
       "title": "新世界发展启动近10亿美元债务交换要约",
       "description": "新世界发展10月6日在交易所公告提出债务交换要约，涉及三批未偿还无担保票据，合计约9.91亿美元（约12.68亿新元）。",
@@ -1052,25 +1314,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-tpp-caucus-seeks-hsu-suspension-probe-be892d",
-      "title": "台湾外交部要求驻美德代表处核查徐佳青家人用车指控",
-      "description": "台湾民众党立法院党团指称，侨务委员会委员长徐佳青任职期间，丈夫唐博伟曾使用驻美国代表处公务车，儿子则以“摄影官”名义随行欧洲活动；党团要求徐佳青停职并启动调查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T05:39:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/taiwan-tpp-caucus-seeks-hsu-suspension-probe-be892d",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -1092,26 +1335,6 @@
       ],
       "section": "world",
       "sourceCount": 20,
-      "sources": []
-    },
-    {
-      "id": "south-korea-says-north-korea-planted-dmz-mine-3e9e0a",
-      "title": "韩国调查认定朝鲜地雷致三名韩军受伤",
-      "description": "韩国联合参谋本部10月5日公布最终调查结果，认定9月21日西部战线第25师在非军事区执行任务时，遭朝鲜埋设在军事分界线以南的反步兵地雷炸伤，3名韩国军人受伤，其中2人伤势严重。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T05:14:43+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/south-korea-says-north-korea-planted-dmz-mine-3e9e0a",
-      "reference": [
-        "澎湃新闻",
-        "韩国国际广播电台",
-        "韩民族日报"
-      ],
-      "section": "asia",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -1204,27 +1427,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "irkutsk-antiplague-institute-worker-death-f5f4c2",
-      "title": "俄州长称鼠疫研究所员工死于病因不明肺炎",
-      "description": "28岁的达莉娅·希皮洛娃在西伯利亚和远东防鼠疫研究所工作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T05:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/irkutsk-antiplague-institute-worker-death-f5f4c2",
-      "reference": [
-        "世界日报",
-        "加拿大国际广播电台",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -1657,25 +1859,6 @@
       "sources": []
     },
     {
-      "id": "youyang-illegal-mining-flooding-kills-seven-ef5690",
-      "title": "酉阳废弃矿洞盗矿案疑致七人溺亡",
-      "description": "酉阳县公安局10月5日通报，警方10月3日接报称，酉阳、秀山交界处有人在废弃矿洞失联。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T03:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/youyang-illegal-mining-flooding-kills-seven-ef5690",
-      "reference": [
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "iran-keeps-hormuz-strait-closed-until-terms-met-2cf86c",
       "title": "卡利巴夫称霍尔木兹海峡须满足七项条件才重开",
       "description": "伊朗议会议长穆罕默德·巴吉尔·卡利巴夫10月4日表示，伊朗与美国今年6月签署的结束战争谅解备忘录所列七项伊方条件落实前，霍尔木兹海峡不会开放。",
@@ -1746,24 +1929,6 @@
         "澎湃新闻"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ptptn-reports-loan-repayment-arrears-6db891",
-      "title": "高教部书面答复：PTPTN贷款拖欠额达107亿令吉",
-      "description": "高教部发布在国会网站上的书面答复显示，截至8月31日，高等教育基金局（PTPTN）的贷款还款拖欠总额为107亿令吉，涉及116万名借贷者。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T02:25:41+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/ptptn-reports-loan-repayment-arrears-6db891",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -2146,25 +2311,6 @@
       "sources": []
     },
     {
-      "id": "araghchi-says-us-iran-conflict-needs-talks-50b4bc",
-      "title": "伊朗总统称继续与美国谈判已无意义",
-      "description": "伊朗总统裴泽斯基安称，继续与美国谈判毫无意义。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-05T20:02:53+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-04",
-      "url": "https://kaopu.news/story/2026-10-04/araghchi-says-us-iran-conflict-needs-talks-50b4bc",
-      "reference": [
-        "联合早报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "newsom-signs-immigration-bills-detention-oversight-e2cb16",
       "title": "纽森签署移民法案加强拘留设施监管",
       "description": "加州州长纽森9月29日签署多项移民相关法案，限制联邦移民执法的部分做法，并加强对移民拘留设施的监管。",
@@ -2233,60 +2379,6 @@
         "世界日报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "australia-regulator-finds-gaming-child-safety-gaps-feed87",
-      "title": "澳大利亚监管机构发现游戏平台儿童保护措施有漏洞",
-      "description": "澳大利亚电子安全委员会发布报告，指出Steam、Roblox、Fortnite和Minecraft等游戏平台在防止儿童遭受性剥削、暴力极端内容及其他网络伤害方面存在不足。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-05T15:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/australia-regulator-finds-gaming-child-safety-gaps-feed87",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "tepco-starts-24th-fukushima-water-discharge-eba023",
-      "title": "东京电力启动福岛第一核电站第24轮核污染水排海",
-      "description": "新华社东京10月5日消息称，东京电力公司10月5日启动福岛第一核电站第24轮核污染水排海，为2026财年第6轮。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-05T14:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/tepco-starts-24th-fukushima-water-discharge-eba023",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "black-sea-ship-fire-sinks-two-dead-64f9ea",
-      "title": "黑海商船起火后沉没造成两人死亡",
-      "description": "一艘商船在罗马尼亚专属经济区黑海海域起火后沉没，造成两人死亡。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-05T14:36:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/black-sea-ship-fire-sinks-two-dead-64f9ea",
-      "reference": [
-        "法广"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -3233,27 +3325,6 @@
       "sources": []
     },
     {
-      "id": "china-first-home-loan-subsidy-policy-648080",
-      "title": "三部门实施首套房贷财政贴息政策",
-      "description": "财政部、中国人民银行、国家金融监督管理总局联合推出居民购房贷款贴息政策，自2026年10月1日起实施，实施期暂定一年。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T23:48:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-29",
-      "url": "https://kaopu.news/story/2026-09-29/china-first-home-loan-subsidy-policy-648080",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "联合早报",
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 25,
-      "sources": []
-    },
-    {
       "id": "dongfang-1-1-platform-construction-complete-39ca97",
       "title": "东方1-1气田注碳增气平台主体建造完工",
       "description": "记者4日从海洋石油工程股份有限公司获悉，东方1-1气田新建中心平台主体于10月4日建造完成，进入调试阶段。",
@@ -3569,24 +3640,6 @@
       "sources": []
     },
     {
-      "id": "king-county-flu-er-visits-rise-sixfold-2ef84e",
-      "title": "金恩县流感急诊就诊量同比增加逾六倍",
-      "description": "西雅图及华盛顿州的流感和其他呼吸道疾病活动今年提前上升。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-04",
-      "url": "https://kaopu.news/story/2026-10-04/king-county-flu-er-visits-rise-sixfold-2ef84e",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "smartasset-california-single-comfortable-living-income-d776a6",
       "title": "加州单身舒适生活需年入12万6797美元",
       "description": "该报援引《加州邮报》称，理财网站SmartAsset的一份最新报告估算，加州单身成年人要达到报告所称的“舒适生活”水平，税前年收入需为12万6797美元。",
@@ -3597,24 +3650,6 @@
       "occurredAt": "",
       "publishedAt": "2026-10-04",
       "url": "https://kaopu.news/story/2026-10-04/smartasset-california-single-comfortable-living-income-d776a6",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "washington-minimum-wage-rises-2027-d2065e",
-      "title": "华州最低时薪将于2027年升至17.73美元",
-      "description": "华盛顿州劳工与产业厅宣布，华州最低时薪将于2027年1月1日起从17.13美元提高到17.73美元，涨幅为3.5%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-04",
-      "url": "https://kaopu.news/story/2026-10-04/washington-minimum-wage-rises-2027-d2065e",
       "reference": [
         "世界日报"
       ],
@@ -3752,25 +3787,6 @@
       "sources": []
     },
     {
-      "id": "openai-ex-safety-staffer-urges-nuclear-plant-safeguards-f429ca",
-      "title": "罗宾森呼吁前沿人工智能实验室建立多重安全防护",
-      "description": "OpenAI前工程师戴维·罗宾森于2026年10月2日在《大西洋月刊》发表文章，呼吁前沿人工智能实验室借鉴航空和核能行业的做法，设置多重安全防护，避免事故酿成灾难。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T20:56:18+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/openai-ex-safety-staffer-urges-nuclear-plant-safeguards-f429ca",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "ai",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "alphabet-tpu-satellite-reaches-orbit-a10c79",
       "title": "Alphabet发射搭载TPU卫星测试太空AI",
       "description": "第一财经也提及此事。",
@@ -3811,24 +3827,6 @@
       "sources": []
     },
     {
-      "id": "economists-warn-ai-investment-returns-fall-short-7f1c73",
-      "title": "经济学者警示人工智能巨额投入难获相应回报",
-      "description": "多名经济学者和金融机构警告，人工智能（AI）基础设施投入与企业估值已达高位，但广泛的生产力提升尚未显现；若回报无法匹配庞大债务和支出，可能形成资本泡沫并带来经济风险。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T10:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/economists-warn-ai-investment-returns-fall-short-7f1c73",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "ntu-satellite-tests-perovskite-solar-ai-117a65",
       "title": "南大卫星升空测试钙钛矿电池与星载AI",
       "description": "南洋理工大学的CRIMSON-1卫星于10月1日搭乘SpaceX猎鹰9号火箭，从美国加利福尼亚州范登堡太空军基地升空。",
@@ -3861,24 +3859,6 @@
         "澎湃新闻"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-banks-ai-jobs-rise-nearly-half-4c87f8",
-      "title": "摩根大通等银行人工智能职位同比增长近半",
-      "description": "企业招聘数据公司Draup提供给美国消费者新闻与商业频道（CNBC）的分析显示，摩根大通、花旗集团和第一资本等银行今年人工智能相关招聘职位较2025年增加49%，达到13万9819个。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-03T07:59:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/us-banks-ai-jobs-rise-nearly-half-4c87f8",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "ai",
       "sourceCount": 1,
       "sources": []
     },
