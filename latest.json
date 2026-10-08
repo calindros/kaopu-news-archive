@@ -1,11 +1,126 @@
 {
   "details": {
     "date": "2026-10-08",
-    "timestamp": 1791415247,
+    "timestamp": 1791423287,
     "totalPages": 1,
     "total": 280
   },
   "stories": [
+    {
+      "id": "dhs-proposes-opt-fees-international-students-3d5464",
+      "title": "美国拟要求学校为国际学生OPT缴纳最高10万美元",
+      "description": "美国国土安全部10月7日公布拟议规则，要求学校为国际学生申请选择性实习训练（OPT）工作许可缴费：每名学生首次申请须付7万美元，申请延期再付3万美元，最高合计10万美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T00:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-07",
+      "url": "https://kaopu.news/story/2026-10-07/dhs-proposes-opt-fees-international-students-3d5464",
+      "reference": [
+        "世界日报",
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "wanying-zhang-arrested-spying-taiwan-president-son-818df0",
+      "title": "美籍华裔房产经纪涉嫌监视赖清德之子被捕",
+      "description": "34岁的美籍华裔房产经纪张婉莹涉嫌受中国政府官员指示，在美国监视台湾总统赖清德之子赖廷与及其家人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T00:00:28+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/wanying-zhang-arrested-spying-taiwan-president-son-818df0",
+      "reference": [
+        "世界日报",
+        "中央通訊社",
+        "联合早报",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 44,
+      "sources": []
+    },
+    {
+      "id": "tsinghua-team-stabilizes-nuclear-clock-03128b",
+      "title": "中国科学家率先研制核光钟并实现稳定运行",
+      "description": "中国科学家率先研制出核光钟并实现稳定运行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-07T23:45:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/tsinghua-team-stabilizes-nuclear-clock-03128b",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "houthis-claim-strikes-saudi-targets-9f88db",
+      "title": "沙特主导联军称摧毁也门胡塞武装82处军事目标",
+      "description": "沙特主导的联军10月7日晚宣布在也门打击胡塞武装，称摧毁82处军事目标。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-07T23:44:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/houthis-claim-strikes-saudi-targets-9f88db",
+      "reference": [
+        "法广",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "us-asks-south-korea-exclude-nis-cyber-talks-98b60c",
+      "title": "美国要求韩方将国情院排除出朝鲜网络威胁工作组",
+      "description": "美国特朗普政府要求韩国政府将国家情报院排除在韩美日应对朝鲜网络威胁的工作组之外，国情院人员因此缺席了6月底在华盛顿举行的第五次会议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-07T23:37:49+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/us-asks-south-korea-exclude-nis-cyber-talks-98b60c",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "seoul-high-court-acquits-yoon-suk-yeol-f1b299",
+      "title": "尹锡悦与明泰均涉免费民调案二审获判无罪",
+      "description": "韩国首尔高等法院刑事第七庭于10月7日作出二审判决，宣告尹锡悦与明泰均无罪。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-07T23:37:06+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-07",
+      "url": "https://kaopu.news/story/2026-10-07/seoul-high-court-acquits-yoon-suk-yeol-f1b299",
+      "reference": [
+        "澎湃新闻",
+        "东亚日报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
     {
       "id": "us-plans-spr-oil-swap-release-63641a",
       "title": "国际能源署成员国加快释放石油储备",
@@ -158,22 +273,21 @@
       "sources": []
     },
     {
-      "id": "dhs-proposes-opt-fees-international-students-3d5464",
-      "title": "美国拟要求高校为国际生OPT申请缴费最高十万美元",
-      "description": "美国国土安全部10月7日公布一项拟议规则，要求学校为国际学生首次申请选择性实习训练（OPT）缴纳7万美元；申请延期还须再缴3万美元，最高合计10万美元。",
+      "id": "france-weighs-short-term-bond-issuance-28d1e9",
+      "title": "法国研议增发短期公债应对长债需求走弱",
+      "description": "面对投资者对法国长期国债兴趣减弱，法国政府正考虑增加短期公债发行，并以更具策略性的方式安排新债发行。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-07T21:33:00+00:00",
+      "updatedAt": "2026-10-07T21:59:24+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/dhs-proposes-opt-fees-international-students-3d5464",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/france-weighs-short-term-bond-issuance-28d1e9",
       "reference": [
-        "世界日报",
-        "澎湃新闻"
+        "中央通訊社"
       ],
-      "section": "us",
-      "sourceCount": 3,
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -267,27 +381,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "wanying-zhang-arrested-spying-taiwan-president-son-818df0",
-      "title": "美国联邦调查局逮捕涉监视赖清德长子的房仲",
-      "description": "美国联邦调查局（FBI）10月4日在洛杉矶国际机场逮捕34岁的加州房地产经纪人张婉莹。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T20:59:29+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/wanying-zhang-arrested-spying-taiwan-president-son-818df0",
-      "reference": [
-        "世界日报",
-        "中央通訊社",
-        "联合早报",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 43,
       "sources": []
     },
     {
@@ -1493,25 +1586,6 @@
       "sources": []
     },
     {
-      "id": "france-submarine-tests-m51-3-missile-994ed3",
-      "title": "法国首次成功试射新型M51.3潜射核导弹",
-      "description": "法国10月6日首次成功试射新型M51.3潜射核弹道导弹。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T11:54:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/france-submarine-tests-m51-3-missile-994ed3",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "singapore-consumer-association-reports-fitness-losses-1f6ecf",
       "title": "新加坡消协建议加强消费者预付款保障",
       "description": "新加坡消费者协会（消协）10月5日公布，今年1月1日至9月30日，消费者申报的预付款损失累计为669万5207元7角7分，较2025年全年的约271万元高约147%。",
@@ -1809,24 +1883,6 @@
       "sources": []
     },
     {
-      "id": "russia-strikes-ukraine-kill-at-least-19-8acd8a",
-      "title": "俄军袭击乌克兰多地致至少19人死亡",
-      "description": "乌克兰当局星期三（10月7日）说，俄罗斯当天向乌克兰多个地区发动导弹和无人机袭击，至少造成19人死亡。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T10:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/russia-strikes-ukraine-kill-at-least-19-8acd8a",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "eva-marie-saint-dies-los-angeles-67e1db",
       "title": "美国女演员爱娃·玛丽·森特102岁去世",
       "description": "美国女演员爱娃·玛丽·森特于当地时间10月6日在洛杉矶家中去世，享年102岁。",
@@ -2085,26 +2141,6 @@
       "sources": []
     },
     {
-      "id": "taipei-prosecutors-indict-four-surveillance-agents-dedeb8",
-      "title": "台北检方起诉四名监控沈伯洋的调查公司人员",
-      "description": "台湾台北地检署于2026年10月7日以涉嫌违反《个人资料保护法》，起诉郑永津、谢乙辰、江文鑫、侯凯瀚四名调查公司人员。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T08:25:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/taipei-prosecutors-indict-four-surveillance-agents-dedeb8",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "kavanagh-urges-us-reduce-taiwan-commitment-dbf0dc",
       "title": "卡瓦纳主张美国降低对台承诺以规避美中战争风险",
       "description": "美国智库“防御优先作为”军事分析主任詹妮弗·卡瓦纳近日在《治国方针与战略》秋季号刊文，主张美国降低对台湾的军事承诺。",
@@ -2137,24 +2173,6 @@
         "第一财经"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "etomidate-vapes-spread-taiwan-schools-36f97c",
-      "title": "依托咪酯借电子烟在台湾校园扩散",
-      "description": "台湾青少年通过电子烟接触依托咪酯的情况已在校园扩散。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T08:08:57+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/etomidate-vapes-spread-taiwan-schools-36f97c",
-      "reference": [
-        "公视"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -4426,24 +4444,6 @@
       "url": "https://kaopu.news/story/2026-10-02/mongolian-youth-launches-livestock-safety-platform-7a9824",
       "reference": [
         "公视"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ye-jun-wins-wolf-physics-prize-f213b5",
-      "title": "叶军获2026年沃尔夫物理学奖",
-      "description": "华人科学家叶军获得2026年沃尔夫物理学奖。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T07:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/ye-jun-wins-wolf-physics-prize-f213b5",
-      "reference": [
-        "财新"
       ],
       "section": "tech",
       "sourceCount": 1,
