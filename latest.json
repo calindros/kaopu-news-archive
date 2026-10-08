@@ -1,11 +1,89 @@
 {
   "details": {
     "date": "2026-10-08",
-    "timestamp": 1791495004,
+    "timestamp": 1791501628,
     "totalPages": 1,
     "total": 280
   },
   "stories": [
+    {
+      "id": "irkutsk-antiplague-institute-worker-death-f5f4c2",
+      "title": "俄罗斯结束伊尔库茨克鼠疫疑案相关防控措施",
+      "description": "俄罗斯伊尔库茨克州州长伊戈尔·科布泽夫10月8日表示，针对一名鼠疫研究所员工死亡事件采取的接触者医学观察、隔离和预防措施已经结束。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T21:46:52.618000+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/irkutsk-antiplague-institute-worker-death-f5f4c2",
+      "reference": [
+        "世界日报",
+        "加拿大国际广播电台",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 33,
+      "sources": []
+    },
+    {
+      "id": "pentagon-orders-centcom-prepare-iran-operation-13fb26",
+      "title": "国际油价8日收盘显著上涨近4%",
+      "description": "国际油价10月8日收盘上涨。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T21:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/pentagon-orders-centcom-prepare-iran-operation-13fb26",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "日本放送协会",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "horizon-robotics-overseas-soc-orders-top-20-million-141297",
+      "title": "余凯称地平线海外车载SoC在手订单超2000万套",
+      "description": "地平线机器人正通过博世以及与欧摩威合资成立的中国智驾新程拓展海外车载芯片业务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T21:08:17+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/horizon-robotics-overseas-soc-orders-top-20-million-141297",
+      "reference": [
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nissan-chemical-establishes-jiangsu-materials-unit-e9c968",
+      "title": "日产化学在江苏设立半导体材料子公司",
+      "description": "日产化学10月7日宣布，已在中国江苏设立半导体材料生产销售子公司。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T21:08:17+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/nissan-chemical-establishes-jiangsu-materials-unit-e9c968",
+      "reference": [
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "eu-trade-chief-beijing-talks-a85d92",
       "title": "欧盟与中国在北京启动为期两天的贸易磋商",
@@ -156,27 +234,6 @@
       "sources": []
     },
     {
-      "id": "pentagon-orders-centcom-prepare-iran-operation-13fb26",
-      "title": "特朗普政府考虑期中选举前重启对伊朗大规模打击",
-      "description": "特朗普政府正考虑在11月美国期中选举前恢复对伊朗的大规模军事行动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T16:57:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/pentagon-orders-centcom-prepare-iran-operation-13fb26",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "日本放送协会",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "thailand-arrests-chinese-journalist-bai-zhaodong-extradition-9f83ec",
       "title": "泰国逮捕中国调查记者白兆东并启动引渡程序",
       "description": "律师柏格曼向法新社表示，白兆东当天上午被泰国当局逮捕，随后被带到曼谷刑事法院处理中国提出的引渡请求；白在庭上确认将抗辩引渡。",
@@ -309,27 +366,6 @@
       ],
       "section": "business",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "irkutsk-antiplague-institute-worker-death-f5f4c2",
-      "title": "俄罗斯完成鼠疫研究所死者接触者监测未见异常",
-      "description": "俄罗斯已完成对伊尔库茨克一名防鼠疫研究所工作人员死亡事件相关接触者的医学监测。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T15:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/irkutsk-antiplague-institute-worker-death-f5f4c2",
-      "reference": [
-        "世界日报",
-        "加拿大国际广播电台",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 32,
       "sources": []
     },
     {
@@ -2467,45 +2503,6 @@
       ],
       "section": "us",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "tishman-speyer-renovates-chrysler-building-553338",
-      "title": "铁狮门投入2.35亿美元翻修克莱斯勒大厦",
-      "description": "铁狮门7日宣布与土地所有者库柏联盟学院签订为期150年的地租协议，并与其他投资者重新接手克莱斯勒大厦。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T06:23:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/tishman-speyer-renovates-chrysler-building-553338",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-central-bank-adds-gold-reserves-321b77",
-      "title": "中国央行9月增持74万盎司黄金",
-      "description": "中国人民银行10月7日公布的数据显示，截至9月底，中国官方黄金储备为7747万盎司，约合2409.6吨，较8月底增加74万盎司。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T06:22:22+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/china-central-bank-adds-gold-reserves-321b77",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "第一财经",
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 6,
       "sources": []
     },
     {
