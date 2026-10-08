@@ -3,9 +3,164 @@
     "date": "2026-10-08",
     "timestamp": 1791430868,
     "totalPages": 1,
-    "total": 281
+    "total": 279
   },
   "stories": [
+    {
+      "id": "dhs-proposes-opt-fees-international-students-3d5464",
+      "title": "美国拟要求高校为国际学生OPT申请缴纳高额费用",
+      "description": "美国国土安全部10月7日公布拟议规则，要求高校为国际学生申请OPT缴纳高额费用。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T03:12:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-07",
+      "url": "https://kaopu.news/story/2026-10-07/dhs-proposes-opt-fees-international-students-3d5464",
+      "reference": [
+        "世界日报",
+        "澎湃新闻",
+        "联合早报",
+        "财新"
+      ],
+      "section": "us",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "us-treasury-long-yields-hit-2002-high-278f16",
+      "title": "比特币面对利率走高仍维持坚挺",
+      "description": "在美国长期利率上升、加密资产交易所Bitget发生资产非法流出后，比特币价格仍保持坚挺，10月7日主要在每枚8.4万美元区间交易。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T03:12:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-07",
+      "url": "https://kaopu.news/story/2026-10-07/us-treasury-long-yields-hit-2002-high-278f16",
+      "reference": [
+        "第一财经",
+        "中央通訊社",
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "new-york-tiktok-tests-teen-safety-settings-fece70",
+      "title": "纽约州检察长指TikTok未告知青少年测试安全配置",
+      "description": "彭博商业周刊援引TikTok一份机密文件称，纽约州总检察长乐迪蒂亚·詹姆斯在修订诉讼中指控，TikTok自2021年起开展算法测试，却未告知部分美国青少年用户平台已有新的安全配置。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T03:01:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/new-york-tiktok-tests-teen-safety-settings-fece70",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "microsoft-announces-local-ai-laptop-19b03b",
+      "title": "微软宣布将于10月16日发售可本地运行AI的电脑",
+      "description": "微软10月7日在旧金山宣布，与英伟达合作开发的Surface Laptop Ultra定于10月16日发售。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T03:00:38+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/microsoft-announces-local-ai-laptop-19b03b",
+      "reference": [
+        "日经"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "pahang-sultan-urges-kalimantan-stop-burning-76ca04",
+      "title": "彭亨苏丹呼吁加里曼丹停止露天焚烧",
+      "description": "彭亨州苏丹阿都拉周四呼吁印度尼西亚加里曼丹居民及种植公司停止露天焚烧，以免烟霾加重并危害民众健康。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T02:58:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/pahang-sultan-urges-kalimantan-stop-burning-76ca04",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-unveil-korea-us-investment-plan-b846f6",
+      "title": "万斯称美国将推进阿拉斯加液化天然气项目",
+      "description": "美国副总统J.D.万斯当地时间10月6日接受阿拉斯加当地电视台采访时说，韩国政局是阿拉斯加液化天然气（LNG）项目推进中的一个变量。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T02:45:04+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-30",
+      "url": "https://kaopu.news/story/2026-09-30/trump-unveil-korea-us-investment-plan-b846f6",
+      "reference": [
+        "朝鲜日报",
+        "韩国国际广播电台",
+        "韩民族日报",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 27,
+      "sources": []
+    },
+    {
+      "id": "openai-gpt6-intelligent-ui-launch-0e7c32",
+      "title": "OpenAI推出GPT-6智能交互层",
+      "description": "当地时间10月7日，OpenAI在GPT-6中加入Intelligent UI，Anthropic则发布Claude Haiku 5.5。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T02:41:38.321891+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/openai-gpt6-intelligent-ui-launch-0e7c32",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "shinhan-bank-hack-exposes-customer-data-b766c1",
+      "title": "网安公司称广东26岁人士疑涉韩金融攻击",
+      "description": "韩国至少7家金融机构在9月下旬至10月上旬遭网络入侵，约6.8万名客户及员工个人信息泄露。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T02:38:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-01",
+      "url": "https://kaopu.news/story/2026-10-01/shinhan-bank-hack-exposes-customer-data-b766c1",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "东亚日报",
+        "朝鲜日报"
+      ],
+      "section": "asia",
+      "sourceCount": 16,
+      "sources": []
+    },
     {
       "id": "china-self-reliance-widens-eu-trade-deficit-9eb9ae",
       "title": "中国出口政策加剧中欧贸易失衡",
@@ -60,6 +215,42 @@
       ],
       "section": "world",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "byd-shelves-malaysia-plant-local-partner-75eedb",
+      "title": "比亚迪搁置马来西亚自建厂计划 与当地企业洽谈合作",
+      "description": "比亚迪搁置了在马来西亚自行建设组装厂的方案，转而与当地企业洽谈合作，计划通过合作建立本地生产体系。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T02:10:32+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/byd-shelves-malaysia-plant-local-partner-75eedb",
+      "reference": [
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "peng-yu-dies-zhuhai-age-93-e9d4e2",
+      "title": "影视表演艺术家彭玉在珠海去世，享年93岁",
+      "description": "中视协演员工作委员会10月8日发文称，影视表演艺术家、一级演员彭玉于2026年10月7日10时27分在珠海去世，享年93岁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T02:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/peng-yu-dies-zhuhai-age-93-e9d4e2",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -203,27 +394,6 @@
       "sources": []
     },
     {
-      "id": "shinhan-bank-hack-exposes-customer-data-b766c1",
-      "title": "韩国金融机构遭入侵约6.8万人信息泄露",
-      "description": "韩国至少7家金融机构遭网络入侵，约6.8万名客户及员工个人信息外泄。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T01:46:57+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-01",
-      "url": "https://kaopu.news/story/2026-10-01/shinhan-bank-hack-exposes-customer-data-b766c1",
-      "reference": [
-        "韩国国际广播电台",
-        "联合早报",
-        "东亚日报",
-        "朝鲜日报"
-      ],
-      "section": "asia",
-      "sourceCount": 15,
-      "sources": []
-    },
-    {
       "id": "michael-bennet-visits-taiwan-leaders-cec220",
       "title": "鲍以尔率美国众议员团访台表达支持",
       "description": "美国联邦众议院预算委员会民主党首席议员鲍以尔率众议员萨立纳斯、甘迺迪及幕僚于10月6日至9日访问台湾。",
@@ -295,6 +465,24 @@
       ],
       "section": "business",
       "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "hong-kong-police-arrest-17-crash-claim-suspects-ddfcc9",
+      "title": "香港警方拘捕17名涉交通事故索赔者",
+      "description": "香港警方近日开展新一轮执法，拘捕17名在交通事故后提出民事索赔、涉嫌诈骗的人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T01:27:12+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/hong-kong-police-arrest-17-crash-claim-suspects-ddfcc9",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -420,6 +608,24 @@
       "sources": []
     },
     {
+      "id": "lithuania-parliament-advances-nuclear-deployment-amendment-4615d7",
+      "title": "立陶宛议会首轮通过核武及外军部署修宪案",
+      "description": "立陶宛议会10月6日以106票赞成通过宪法修正案首轮表决，拟为在立陶宛部署核武器及驻扎外国军队打开空间。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T01:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/lithuania-parliament-advances-nuclear-deployment-amendment-4615d7",
+      "reference": [
+        "朝鲜日报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "us-halts-korean-intelligence-officer-visa-17dead",
       "title": "美国政府拒绝韩国情报院长访问NGA及会晤请求",
       "description": "韩国国家情报院院长李钟奭原计划于2026年3月赴华盛顿，参访美国国防部下属的国家地理空间情报局（NGA），并会见美国情报机构负责人；美方没有批准这些安排。",
@@ -490,48 +696,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "dhs-proposes-opt-fees-international-students-3d5464",
-      "title": "美国拟要求高校为国际学生OPT支付最高十万美元",
-      "description": "美国国土安全部10月7日公布一项拟议规则，计划提高国际学生毕业后通过选择性实习训练（OPT）留美工作的费用。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T00:47:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/dhs-proposes-opt-fees-international-students-3d5464",
-      "reference": [
-        "世界日报",
-        "澎湃新闻",
-        "联合早报",
-        "财新"
-      ],
-      "section": "us",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "trump-unveil-korea-us-investment-plan-b846f6",
-      "title": "万斯称美方将完成阿拉斯加液化天然气项目",
-      "description": "美韩就韩国是否投资阿拉斯加液化天然气（LNG）项目仍说法不一。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T00:44:27+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-30",
-      "url": "https://kaopu.news/story/2026-09-30/trump-unveil-korea-us-investment-plan-b846f6",
-      "reference": [
-        "朝鲜日报",
-        "韩国国际广播电台",
-        "韩民族日报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 26,
       "sources": []
     },
     {
@@ -1015,25 +1179,6 @@
         "澎湃新闻"
       ],
       "section": "world",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "us-treasury-long-yields-hit-2002-high-278f16",
-      "title": "全球债市抛售推高美国长期国债收益率",
-      "description": "全球债券市场7日出现抛售，美国、英国、法国和意大利长期国债收益率走高。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T17:28:52+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/us-treasury-long-yields-hit-2002-high-278f16",
-      "reference": [
-        "第一财经",
-        "中央通訊社"
-      ],
-      "section": "business",
       "sourceCount": 3,
       "sources": []
     },
@@ -1629,24 +1774,6 @@
         "联合早报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "cemil-tugay-joins-turkey-ruling-party-9f0674",
-      "title": "伊兹米尔市长图盖加入土耳其执政党",
-      "description": "伊兹米尔市长杰米尔·图盖近日决定加入土耳其执政党正义发展党。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T13:32:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/cemil-tugay-joins-turkey-ruling-party-9f0674",
-      "reference": [
-        "法广"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -2284,42 +2411,6 @@
       "sources": []
     },
     {
-      "id": "prabowo-officials-haze-lawsuit-opens-pontianak-838bf0",
-      "title": "普拉博沃等官员因烟霾治理遭诉案在坤甸开庭",
-      "description": "针对印尼政府野火烟霾治理的集体诉讼于10月7日星期三在西加里曼丹省坤甸开庭。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T10:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/prabowo-officials-haze-lawsuit-opens-pontianak-838bf0",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "malaysia-civil-groups-urge-cross-border-haze-bill-a41588",
-      "title": "约40名民团代表游行至国会促加快跨境烟霾法立法",
-      "description": "约40名公民组织代表前往马来西亚国会大厦游行，敦促联邦政府加快推动《跨境烟霾法案》立法。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T10:00:56+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/malaysia-civil-groups-urge-cross-border-haze-bill-a41588",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "democrats-challenge-gop-five-senate-races-31f7dd",
       "title": "库克将堪萨斯参院选情改列势均力敌",
       "description": "库克政治报告于2026年10月6日调整了三个联邦参议院席位的选情评级，方向均有利于民主党候选人。",
@@ -2372,24 +2463,6 @@
         "联合早报"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "kim-yanghee-urges-korea-expand-us-leverage-6927da",
-      "title": "金良姬主张韩国以制造优势拓宽对美谈判空间",
-      "description": "大邱大学经济金融通商学教授金良姬在9月29日接受访谈时表示，韩国应把半导体、造船、核电等制造能力转化为对美谈判筹码。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T08:57:14+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/kim-yanghee-urges-korea-expand-us-leverage-6927da",
-      "reference": [
-        "韩民族日报"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -2887,24 +2960,6 @@
         "中央通訊社"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "former-cia-official-pleads-guilty-fraud-ea5d7a",
-      "title": "前中情局高官认罪诈取公款致联邦损失近两亿美元",
-      "description": "中央情报局前资深官员戴维·罗许于10月6日在弗吉尼亚州承认一项电信欺诈罪。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/former-cia-official-pleads-guilty-fraud-ea5d7a",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -3863,42 +3918,6 @@
       "sources": []
     },
     {
-      "id": "ukraine-kyiv-ai-turrets-intercept-russian-drones-59352b",
-      "title": "乌克兰部署AI炮塔拦截俄新型喷气无人机",
-      "description": "乌克兰已开始在基辅部署配备人工智能的机器人炮塔，用于拦截俄罗斯新型喷气式无人机。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-05T14:23:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/ukraine-kyiv-ai-turrets-intercept-russian-drones-59352b",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-noetra-physical-ai-funding-e7fbaf",
-      "title": "日本政府决定提供逾3800亿日元支持实体AI项目",
-      "description": "日本多行业企业近期围绕实体AI开展合作，日本政府决定在本年度为Noetra相关计划提供逾3800亿日元支持。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-05T13:49:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/japan-noetra-physical-ai-funding-e7fbaf",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "muhos-google-data-center-forest-clearing-97ac1a",
       "title": "穆霍斯谷歌数据中心工地已砍伐逾300公顷森林",
       "description": "芬兰穆霍斯拟建谷歌数据中心的工地已有300多公顷森林被砍，约相当于420座足球场。",
@@ -3913,24 +3932,6 @@
         "公视"
       ],
       "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-ai-semiconductor-equipment-output-record-01bdb0",
-      "title": "AI需求推动台湾电子半导体设备业产值创新高",
-      "description": "台湾经济部统计处10月5日公布，人工智能需求带动电子及半导体生产用机械设备业增长。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-05T12:20:21+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/taiwan-ai-semiconductor-equipment-output-record-01bdb0",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -4137,27 +4138,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "xi-trump-wwii-remarks-spark-taiwan-row-06ebed",
-      "title": "特朗普称二战中美曾是盟友引发台日回应",
-      "description": "特朗普与习近平9月24日在白宫会晤期间都谈到二战时期的中美合作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-04T21:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-26",
-      "url": "https://kaopu.news/story/2026-09-26/xi-trump-wwii-remarks-spark-taiwan-row-06ebed",
-      "reference": [
-        "世界日报",
-        "中央通訊社",
-        "联合早报",
-        "德国之声"
-      ],
-      "section": "china",
-      "sourceCount": 11,
       "sources": []
     },
     {
@@ -5211,24 +5191,6 @@
         "澎湃新闻"
       ],
       "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "xiang-biao-becomes-z-gen-academic-idol-4a27df",
-      "title": "项飙因解读青年焦虑成为中国Z世代学术偶像",
-      "description": "54岁的中国人类学家项飙因直接谈论年轻人的焦虑与生活困境，成为中国Z世代追捧的学术人物。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-27T01:35:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-27",
-      "url": "https://kaopu.news/story/2026-09-27/xiang-biao-becomes-z-gen-academic-idol-4a27df",
-      "reference": [
-        "英国广播公司"
-      ],
-      "section": "culture",
       "sourceCount": 1,
       "sources": []
     }
