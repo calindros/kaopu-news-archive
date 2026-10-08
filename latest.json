@@ -1,19 +1,139 @@
 {
   "details": {
     "date": "2026-10-08",
-    "timestamp": 1791437709,
+    "timestamp": 1791441840,
     "totalPages": 1,
-    "total": 278
+    "total": 277
   },
   "stories": [
     {
-      "id": "samsung-q3-profit-breaks-100-trillion-won-07e12d",
-      "title": "三星电子三季度营业利润首次突破100万亿韩元",
-      "description": "三星电子10月8日公布2026年第三季度初步业绩：营业利润约107.4万亿韩元，同比增长782.5%；销售额约195万亿韩元，同比增长126.6%。",
+      "id": "wanying-zhang-arrested-spying-taiwan-president-son-818df0",
+      "title": "美法官拒绝张婉莹保释并裁定继续羁押",
+      "description": "洛杉矶联邦法院法官史蒂夫·金10月7日裁定，涉嫌受中国官员指示在美国监视台湾总统赖清德之子赖廷与及其家人的张婉莹继续羁押，驳回辩方的保释申请。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-08T04:20:00+00:00",
+      "updatedAt": "2026-10-08T05:40:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/wanying-zhang-arrested-spying-taiwan-president-son-818df0",
+      "reference": [
+        "世界日报",
+        "中央通訊社",
+        "联合早报",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 49,
+      "sources": []
+    },
+    {
+      "id": "china-consulate-pressures-munich-yang-shuangzi-talk-0b04c7",
+      "title": "杨双子慕尼黑活动口译被指删改引争议",
+      "description": "台湾作家杨双子宣传《台湾漫游录》德文版期间，慕尼黑文学馆一场活动的口译被指漏译或改译涉及台湾、中国及历史政治的发言；中国驻慕尼黑总领事馆是否曾要求取消活动，也出现相互矛盾的说法。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T05:29:23+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/china-consulate-pressures-munich-yang-shuangzi-talk-0b04c7",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "英国广播公司"
+      ],
+      "section": "china",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "guojun-xuan-silvia-zhang-arrested-child-abuse-07e661",
+      "title": "加州夫妇涉嫌虐待儿童被捕各以2000万美元保释",
+      "description": "宣国军与妻子张思薇于2026年10月6日在加州阿卡迪亚被捕，随后在帕萨迪纳法院拒绝认罪。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T05:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/guojun-xuan-silvia-zhang-arrested-child-abuse-07e661",
+      "reference": [
+        "世界日报",
+        "英国广播公司"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "chiang-wan-an-plans-songshan-airport-ai-park-707aa0",
+      "title": "蒋万安提出迁移松山机场打造AI园区",
+      "description": "台北市长蒋万安10月8日提出迁移松山机场、将约300公顷用地规划为台北AI园区的构想，园区将包含产业空间、住宅和绿地。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T05:25:54+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/chiang-wan-an-plans-songshan-airport-ai-park-707aa0",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "trump-approves-hasan-firing-squad-execution-357269",
+      "title": "美军定于12月3日行刑队枪决胡德堡枪击案凶手",
+      "description": "美国陆军定于2026年12月3日在德克萨斯州胡德堡以行刑队枪决尼达尔·马里克·哈桑。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T05:18:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/trump-approves-hasan-firing-squad-execution-357269",
+      "reference": [
+        "世界日报",
+        "英国广播公司",
+        "法广",
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "openai-gpt6-intelligent-ui-launch-0e7c32",
+      "title": "Anthropic发布Haiku 5.5，平均运行成本降75%",
+      "description": "Anthropic当地时间10月7日发布轻量级模型Claude Haiku 5.5。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T05:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/openai-gpt6-intelligent-ui-launch-0e7c32",
+      "reference": [
+        "第一财经",
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "samsung-q3-profit-breaks-100-trillion-won-07e12d",
+      "title": "三星电子三季度营业利润首次突破百万亿韩元",
+      "description": "三星电子10月8日公布2026年第三季度（7月至9月）初步业绩：合并销售额约195万亿韩元，同比增长126.6%；营业利润约107.4万亿韩元，同比增长782.5%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T05:00:43.011723+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-08",
       "url": "https://kaopu.news/story/2026-10-08/samsung-q3-profit-breaks-100-trillion-won-07e12d",
@@ -21,10 +141,357 @@
         "韩国国际广播电台",
         "朝鲜日报",
         "中央通訊社",
+        "法广"
+      ],
+      "section": "business",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "dhs-proposes-opt-fees-international-students-3d5464",
+      "title": "美国拟要求高校为国际生OPT申请缴费最高十万美元",
+      "description": "美国国土安全部（DHS）10月7日提出一项针对国际学生选择性实习训练（OPT）的拟议规则：学校为每名学生首次申请OPT缴纳7万美元，申请延期再缴3万美元，最高合计10万美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T04:54:43.012167+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-07",
+      "url": "https://kaopu.news/story/2026-10-07/dhs-proposes-opt-fees-international-students-3d5464",
+      "reference": [
+        "世界日报",
+        "澎湃新闻",
+        "联合早报",
+        "财新"
+      ],
+      "section": "us",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "malaysia-standardize-public-university-discipline-rules-f22ab2",
+      "title": "马来西亚高教部拟统一公立大学纪律规章",
+      "description": "马来西亚高等教育部计划统一各公立大学的纪律规章，避免学生行使表达、结社和和平集会等自由时，因就读院校不同而受到区别对待。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T04:54:42+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/malaysia-standardize-public-university-discipline-rules-f22ab2",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "hegseth-praises-lincoln-carrier-sailors-f94084",
+      "title": "赫格塞斯登上林肯号称赞官兵韧性",
+      "description": "赫格塞斯星期三登上林肯号航母向官兵讲话，称赞他们在创纪录的长期部署中展现韧性。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T04:53:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/hegseth-praises-lincoln-carrier-sailors-f94084",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "south-korea-seeks-un-medical-sanctions-waiver-f5f03a",
+      "title": "韩国政府申请对朝医疗援助制裁豁免",
+      "description": "韩国政府已通过韩国国际保健医疗财团向联合国安理会对朝制裁委员会提交豁免申请，计划在2026年11月底前向平壤市江东郡医院运送医疗设备。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T04:51:19+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/south-korea-seeks-un-medical-sanctions-waiver-f5f03a",
+      "reference": [
+        "韩国国际广播电台"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "white-house-ai-science-summit-research-support-123857",
+      "title": "白宫将办AI峰会推出科研人才支持计划",
+      "description": "白宫定于10月8日举行“科学：新的黄金时代”人工智能峰会。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T04:50:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/white-house-ai-science-summit-research-support-123857",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "cpc-approves-fan-bo-jiangsu-deputy-secretary-f1c12b",
+      "title": "中共中央批准范波出任江苏省委副书记",
+      "description": "江苏先锋网10月8日公布，中共中央批准范波担任江苏省委副书记，并批准边学文任江苏省委委员、常委和省纪委书记。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T04:49:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/cpc-approves-fan-bo-jiangsu-deputy-secretary-f1c12b",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "eu-considers-temporary-chinese-hybrid-import-curbs-ff7ac9",
+      "title": "知情外交人士称中方拒绝欧盟限制混动车输欧提议",
+      "description": "欧中官员10月8日至9日在北京举行贸易谈判，欧盟贸易执委马罗斯·塞夫科维奇与中国商务部长王文涛将举行会谈。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T04:45:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-07",
+      "url": "https://kaopu.news/story/2026-10-07/eu-considers-temporary-chinese-hybrid-import-curbs-ff7ac9",
+      "reference": [
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "chinese-online-ends-h-share-listing-9da382",
+      "title": "中文在线董事会终止发行H股并赴港上市",
+      "description": "中文在线第六届董事会于10月7日通过终止发行H股并在香港联交所上市的议案。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T04:39:36.208118+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/chinese-online-ends-h-share-listing-9da382",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "irkutsk-antiplague-institute-worker-death-f5f4c2",
+      "title": "俄防鼠疫研究所员工死于病因不明肺炎",
+      "description": "俄罗斯伊尔库茨克西伯利亚与远东防鼠疫研究所28岁员工达莉娅·希皮洛娃因重症肺炎住院后，于10月2日死亡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T04:38:32.626630+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/irkutsk-antiplague-institute-worker-death-f5f4c2",
+      "reference": [
+        "世界日报",
+        "加拿大国际广播电台",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 25,
+      "sources": []
+    },
+    {
+      "id": "anta-completes-puma-stake-acquisition-largest-shareholder-560228",
+      "title": "安踏完成收购彪马29.06%股权成为最大股东",
+      "description": "安踏集团10月7日宣布，已从Pinault家族投资公司Artémis SAS手中买入PUMA SE 29.06%的股份，支付现金15.055亿欧元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T04:36:06+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-07",
+      "url": "https://kaopu.news/story/2026-10-07/anta-completes-puma-stake-acquisition-largest-shareholder-560228",
+      "reference": [
+        "第一财经",
+        "联合早报",
+        "日经",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "michael-bennet-visits-taiwan-leaders-cec220",
+      "title": "博伊尔率团访台 赖清德谈深化防务合作",
+      "description": "美国众议院预算委员会民主党首席议员布伦丹·博伊尔率众议员安德里亚·萨利纳斯、蒂姆·肯尼迪及幕僚于10月6日至9日访问台湾。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T04:34:04+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/michael-bennet-visits-taiwan-leaders-cec220",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "japan-probes-four-brewers-price-fixing-dde8f7",
+      "title": "日本公平交易委员会搜查四大啤酒厂商总部",
+      "description": "日本公平交易委员会10月7日以涉嫌违反《反垄断法》不当交易限制规定为由，对朝日、麒麟、札幌和三得利四家啤酒厂商启动强制调查，并搜查四家企业位于东京的总部。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T04:33:06+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-07",
+      "url": "https://kaopu.news/story/2026-10-07/japan-probes-four-brewers-price-fixing-dde8f7",
+      "reference": [
+        "法广",
+        "日经",
+        "日本放送协会"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "okinawa-police-arrest-marine-robbery-murder-suspect-0e0016",
+      "title": "日本警方逮捕涉抢劫杀人的驻冲绳美军士兵",
+      "description": "10月3日凌晨，冲绳县那霸市一家酒店发现39岁当地女性屋宜杏奈死亡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T04:33:03+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/okinawa-police-arrest-marine-robbery-murder-suspect-0e0016",
+      "reference": [
+        "联合早报",
+        "共同网",
+        "日本放送协会",
+        "澎湃新闻"
+      ],
+      "section": "asia",
+      "sourceCount": 37,
+      "sources": []
+    },
+    {
+      "id": "russia-strikes-ukraine-kill-at-least-19-8acd8a",
+      "title": "俄军袭击乌克兰多地造成至少19人死亡",
+      "description": "俄罗斯10月7日袭击乌克兰多地，乌方称至少19人死亡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T04:32:57+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-07",
+      "url": "https://kaopu.news/story/2026-10-07/russia-strikes-ukraine-kill-at-least-19-8acd8a",
+      "reference": [
+        "联合早报",
+        "日本放送协会"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "kagan-soai-win-2026-nobel-chemistry-757e35",
+      "title": "亨利·卡甘与硖合宪三获2026年诺贝尔化学奖",
+      "description": "瑞典皇家科学院10月7日宣布，将2026年诺贝尔化学奖授予法国巴黎-萨克雷大学名誉教授亨利·B·卡甘和东京理科大学名誉教授硖合宪三，表彰他们对不对称有机合成中的非线性效应与自催化现象的发现。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T04:32:49+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-07",
+      "url": "https://kaopu.news/story/2026-10-07/kagan-soai-win-2026-nobel-chemistry-757e35",
+      "reference": [
+        "第一财经",
+        "日经",
+        "共同网",
+        "财新"
+      ],
+      "section": "tech",
+      "sourceCount": 18,
+      "sources": []
+    },
+    {
+      "id": "ukraine-drones-strike-moscow-kill-two-7a80a5",
+      "title": "韩国政府称对俄燃料出口无记录并将加强查验",
+      "description": "韩国外交部、产业通商部和关税厅10月8日发布联合文件，回应乌克兰方面关于韩国石油产品流向俄罗斯的批评。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T04:29:21+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/ukraine-drones-strike-moscow-kill-two-7a80a5",
+      "reference": [
+        "联合早报",
+        "公视",
+        "韩国国际广播电台",
+        "朝鲜日报"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "tian-keyu-startup-raises-nearly-30-million-1ad054",
+      "title": "田柯宇创办的AI初创企业获近3000万美元融资",
+      "description": "田柯宇创立的一家尚未命名的人工智能初创企业获五源资本和IDG资本投资，融资近3000万美元，投后估值为2亿美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T04:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/tian-keyu-startup-raises-nearly-30-million-1ad054",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "dongchedi-claims-maextro-v800-brake-bracket-failure-5f7241",
+      "title": "懂车帝称尊界V800三车刹车踏板支架断裂",
+      "description": "懂车帝发布的尊界V800测试视频称，三辆测试车在紧急制动时发生刹车踏板支架断裂。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T04:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/dongchedi-claims-maextro-v800-brake-bracket-failure-5f7241",
+      "reference": [
         "澎湃新闻"
       ],
       "section": "business",
-      "sourceCount": 4,
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -62,82 +529,6 @@
       ],
       "section": "asia",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "irkutsk-antiplague-institute-worker-death-f5f4c2",
-      "title": "俄防鼠疫研究所员工死于病因未明肺炎",
-      "description": "俄罗斯伊尔库茨克州谢列霍夫市一家医院的一名28岁女性研究所员工达莉娅·希皮洛娃于10月2日死亡，俄方将其病情诊断为病因未明的肺炎。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T03:54:39+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/irkutsk-antiplague-institute-worker-death-f5f4c2",
-      "reference": [
-        "世界日报",
-        "加拿大国际广播电台",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 24,
-      "sources": []
-    },
-    {
-      "id": "japan-probes-four-brewers-price-fixing-dde8f7",
-      "title": "日本公平交易委员会强制调查四大啤酒商涉嫌串通提价",
-      "description": "日本公平交易委员会10月7日对朝日啤酒、麒麟啤酒、札幌啤酒和三得利展开强制调查，核查四家公司是否多年来协调啤酒、发泡酒等产品面向批发商的出货提价幅度和调价时间。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T03:50:46+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/japan-probes-four-brewers-price-fixing-dde8f7",
-      "reference": [
-        "法广",
-        "日经"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "chiang-wan-an-plans-songshan-airport-ai-park-707aa0",
-      "title": "蒋万安宣布规划迁移松山机场打造台北AI园区",
-      "description": "争取连任的中国国民党籍台北市长蒋万安10月8日在台北市政府记者会上宣布，市府正规划迁移松山机场，并将约300公顷用地用于AI产业园区、住宅及公园绿地。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T03:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/chiang-wan-an-plans-songshan-airport-ai-park-707aa0",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "cpc-approves-fan-bo-jiangsu-deputy-secretary-f1c12b",
-      "title": "中共中央批准范波出任江苏省委副书记",
-      "description": "中共中央批准了江苏省委的人事安排：范波出任江苏省委副书记，边学文获任江苏省委委员、常委，并担任江苏省纪委书记。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T03:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/cpc-approves-fan-bo-jiangsu-deputy-secretary-f1c12b",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -215,27 +606,6 @@
       "sources": []
     },
     {
-      "id": "dhs-proposes-opt-fees-international-students-3d5464",
-      "title": "美国拟要求高校为国际学生OPT申请缴纳高额费用",
-      "description": "美国国土安全部10月7日公布拟议规则，要求高校为国际学生申请OPT缴纳高额费用。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T03:12:34+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/dhs-proposes-opt-fees-international-students-3d5464",
-      "reference": [
-        "世界日报",
-        "澎湃新闻",
-        "联合早报",
-        "财新"
-      ],
-      "section": "us",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "us-treasury-long-yields-hit-2002-high-278f16",
       "title": "比特币面对利率走高仍维持坚挺",
       "description": "在美国长期利率上升、加密资产交易所Bitget发生资产非法流出后，比特币价格仍保持坚挺，10月7日主要在每枚8.4万美元区间交易。",
@@ -270,6 +640,24 @@
         "联合早报"
       ],
       "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-population-falls-33-months-negative-growth-841e24",
+      "title": "台湾总人口降至2321万余人并连续33个月负增长",
+      "description": "台湾内政部8日公布2026年9月户口统计。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T03:00:15+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/taiwan-population-falls-33-months-negative-growth-841e24",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -310,24 +698,6 @@
       ],
       "section": "world",
       "sourceCount": 27,
-      "sources": []
-    },
-    {
-      "id": "openai-gpt6-intelligent-ui-launch-0e7c32",
-      "title": "OpenAI推出GPT-6智能交互层",
-      "description": "当地时间10月7日，OpenAI在GPT-6中加入Intelligent UI，Anthropic则发布Claude Haiku 5.5。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T02:41:38.321891+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/openai-gpt6-intelligent-ui-launch-0e7c32",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -463,27 +833,6 @@
       "sources": []
     },
     {
-      "id": "kagan-soai-win-2026-nobel-chemistry-757e35",
-      "title": "卡根与硖合宪三获2026年诺贝尔化学奖",
-      "description": "瑞典皇家科学院北京时间10月7日17时45分宣布，将2026年诺贝尔化学奖授予法国科学家亨利·B·卡根和日本科学家硖合宪三，表彰他们在不对称有机合成中的非线性效应与自催化研究。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T02:02:33+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/kagan-soai-win-2026-nobel-chemistry-757e35",
-      "reference": [
-        "第一财经",
-        "日经",
-        "共同网",
-        "财新"
-      ],
-      "section": "tech",
-      "sourceCount": 16,
-      "sources": []
-    },
-    {
       "id": "french-students-protests-spread-warning-fdc4ef",
       "title": "法国政府暂停高中生示威现场使用爆震弹",
       "description": "法国高中生从9月中旬起在巴黎地区发起抗议，随后扩展至全国。",
@@ -543,24 +892,6 @@
       "sources": []
     },
     {
-      "id": "michael-bennet-visits-taiwan-leaders-cec220",
-      "title": "鲍以尔率美国众议员团访台表达支持",
-      "description": "美国联邦众议院预算委员会民主党首席议员鲍以尔率众议员萨立纳斯、甘迺迪及幕僚于10月6日至9日访问台湾。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T01:46:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/michael-bennet-visits-taiwan-leaders-cec220",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "jpx-cuts-topix-constituents-986-c97af1",
       "title": "日本交易所集团将TOPIX成分股缩至986只",
       "description": "日本交易所集团（JPX）10月7日宣布，TOPIX在10月底调整后，符合纳入基准的成分股将从9月底的1636只减至986只，减少约四成。",
@@ -597,26 +928,6 @@
       "sources": []
     },
     {
-      "id": "anta-completes-puma-stake-acquisition-largest-shareholder-560228",
-      "title": "安踏完成彪马29.06%股权收购，成为最大股东",
-      "description": "安踏集团10月7日宣布，已向Pinault家族投资公司Artémis SAS支付15.055亿欧元现金，收购PUMA SE 29.06%的股权。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T01:32:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/anta-completes-puma-stake-acquisition-largest-shareholder-560228",
-      "reference": [
-        "第一财经",
-        "联合早报",
-        "日经"
-      ],
-      "section": "business",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "hong-kong-police-arrest-17-crash-claim-suspects-ddfcc9",
       "title": "香港警方拘捕17名涉交通事故索赔者",
       "description": "香港警方近日开展新一轮执法，拘捕17名在交通事故后提出民事索赔、涉嫌诈骗的人。",
@@ -631,24 +942,6 @@
         "中央通訊社"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "chinese-online-ends-h-share-listing-9da382",
-      "title": "中文在线董事会决定终止H股发行及港股上市",
-      "description": "中文在线集团股份有限公司于2026年10月7日召开第六届董事会第十四次会议，审议通过终止发行H股并在香港联交所上市的议案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T01:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/chinese-online-ends-h-share-listing-9da382",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -671,27 +964,6 @@
       ],
       "section": "world",
       "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "wanying-zhang-arrested-spying-taiwan-president-son-818df0",
-      "title": "张婉莹被控监视赖清德之子后遭拒保",
-      "description": "美国联邦法官10月7日以潜逃风险高为由，拒绝为张婉莹保释。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T01:15:46+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/wanying-zhang-arrested-spying-taiwan-president-son-818df0",
-      "reference": [
-        "世界日报",
-        "中央通訊社",
-        "联合早报",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 47,
       "sources": []
     },
     {
@@ -1276,24 +1548,6 @@
       "sources": []
     },
     {
-      "id": "guojun-xuan-silvia-zhang-arrested-child-abuse-07e661",
-      "title": "洛杉矶法官裁定宣国军夫妇各以2000万美元保释",
-      "description": "洛杉矶县法官裁定，宣国军与妻子Silvia Zhang各以2000万美元保释。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T19:18:12+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/guojun-xuan-silvia-zhang-arrested-child-abuse-07e661",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "china-embassy-kenya-warns-ebola-risk-827524",
       "title": "中国驻肯尼亚使馆提醒公民防范埃博拉输入疫情",
       "description": "中国驻肯尼亚大使馆近日发布健康提示，提醒在肯中国公民防范输入性本迪布焦型埃博拉疫情。",
@@ -1626,27 +1880,6 @@
       "sources": []
     },
     {
-      "id": "okinawa-police-arrest-marine-robbery-murder-suspect-0e0016",
-      "title": "冲绳警方逮捕涉抢劫杀人美军士兵",
-      "description": "冲绳县警方4日逮捕了20岁的美国海军陆战队士兵德文·雅各布·巴拉德，怀疑他于3日在那霸市一家酒店杀害39岁的屋宜杏奈，并拿走她的钱包等物品。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T14:37:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-04",
-      "url": "https://kaopu.news/story/2026-10-04/okinawa-police-arrest-marine-robbery-murder-suspect-0e0016",
-      "reference": [
-        "联合早报",
-        "共同网",
-        "日本放送协会",
-        "澎湃新闻"
-      ],
-      "section": "asia",
-      "sourceCount": 36,
-      "sources": []
-    },
-    {
       "id": "germany-france-push-eu-china-trade-tool-20a12a",
       "title": "法德提议扩大欧盟权限以加快贸易反制",
       "description": "法国总统马克龙和德国总理默茨10月5日致信欧盟委员会主席冯德莱恩，建议扩大欧盟委员会应对贸易冲突的权限，使其能更快采取反制措施，必要时限制甚至切断相关国家进入欧盟单一市场的渠道。",
@@ -1816,45 +2049,6 @@
       "sources": []
     },
     {
-      "id": "iran-plans-extend-missile-range-3e9f09",
-      "title": "伊朗军方决定进一步提升导弹射程",
-      "description": "伊朗军方发言人阿克拉米尼亚称，军方已决定着手提升导弹射程。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T13:52:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/iran-plans-extend-missile-range-3e9f09",
-      "reference": [
-        "公视",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "msf-coordinator-describes-gaza-war-hardships-91b816",
-      "title": "内塔尼亚胡在突袭三周年誓言根除哈马斯",
-      "description": "10月7日是哈马斯突袭以色列三周年。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T13:49:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/msf-coordinator-describes-gaza-war-hardships-91b816",
-      "reference": [
-        "澎湃新闻",
-        "日本放送协会",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "ueda-says-price-stability-matters-more-e076ce",
       "title": "植田和男称稳定物价目标愈发重要",
       "description": "日本央行行长植田和男10月6日在全国证券大会发言，称为避免物价涨势过强损害经济，将通胀率维持在2%左右的目标如今比过去更为重要。",
@@ -1887,24 +2081,6 @@
         "联合早报"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "gaza-woman-seeks-17-relatives-remains-de5642",
-      "title": "加沙女子苦寻17名亲人遗骸三年未果",
-      "description": "加沙地带民防部门近日重新开展遇害者遗体搜寻。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T13:45:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/gaza-woman-seeks-17-relatives-remains-de5642",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -2263,83 +2439,6 @@
       "sources": []
     },
     {
-      "id": "iwaya-says-japan-caused-china-relations-crisis-107574",
-      "title": "岩屋毅称中日关系严峻由日方造成",
-      "description": "日本前外长岩屋毅10月2日在大分县别府市举行记者会，谈及中日关系时称，造成当前严峻局面的责任在日方，并呼吁日本政府继续努力改善关系。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T11:37:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/iwaya-says-japan-caused-china-relations-crisis-107574",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "febrie-adriansyah-faces-money-laundering-trial-3f3dd5",
-      "title": "印尼前最高反贪检察官涉洗钱出庭受审",
-      "description": "印尼前最高反贪检察官费布里·阿德里安西亚10月7日因涉嫌洗钱出庭受审，并否认指控。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T11:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/febrie-adriansyah-faces-money-laundering-trial-3f3dd5",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-approves-hasan-firing-squad-execution-357269",
-      "title": "美军定于12月3日在胡德堡以行刑队处决哈桑",
-      "description": "美国陆军代理部长亚当·特尔10月6日宣布，尼达尔·马利克·哈桑定于2026年12月3日美国中部时间下午1时，在德克萨斯州胡德堡由美国陆军行刑队执行死刑。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T11:30:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/trump-approves-hasan-firing-squad-execution-357269",
-      "reference": [
-        "世界日报",
-        "英国广播公司",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "japan-sets-october-5-extraordinary-diet-session-d86bdd",
-      "title": "高市称将以对话推动稳定日中关系",
-      "description": "日本众议院10月7日开始就首相高市早苗的施政演说举行各党代表质询。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T11:16:42+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-29",
-      "url": "https://kaopu.news/story/2026-09-29/japan-sets-october-5-extraordinary-diet-session-d86bdd",
-      "reference": [
-        "共同网",
-        "韩民族日报",
-        "联合早报",
-        "法广"
-      ],
-      "section": "asia",
-      "sourceCount": 18,
-      "sources": []
-    },
-    {
       "id": "india-reserve-bank-hikes-rate-550-734d2f",
       "title": "印度央行自2023年以来首次加息至5.50%",
       "description": "印度储备银行六人决策小组一致通过将基准附买回利率上调25个基点至5.50%，这是该行自2023年以来首次加息。",
@@ -2395,24 +2494,6 @@
       "sources": []
     },
     {
-      "id": "porsche-shifts-china-strategy-premium-models-548b99",
-      "title": "保时捷转向高端车型不再追逐中国销量",
-      "description": "保时捷首席执行官莱特斯星期三向投资者表示，公司不会为重回中国市场以往的销量而不惜代价，将优先经营顶级高端车型，中国市场尤其如此。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T10:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/porsche-shifts-china-strategy-premium-models-548b99",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "singapore-unifies-government-caller-id-55ecff",
       "title": "新加坡今年内将统一政府来电标识防冒充诈骗",
       "description": "新加坡人力部代部长兼数码发展及新闻部高级政务部长刘洁敏10月7日在国会答复议员口头询问时说，政府正制定帮助公众识别政府机构来电的方案，预计年内落实。",
@@ -2427,24 +2508,6 @@
         "联合早报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "imf-warns-food-energy-spikes-more-frequent-b09ad8",
-      "title": "IMF警告粮食和能源价格飙升可能更频繁",
-      "description": "国际货币基金组织（IMF）10月6日在博文中警告，粮食和能源价格急升可能更频繁发生，并使通胀预期在较长时间内保持高位，加剧贫困、威胁经济稳定。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T10:14:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/imf-warns-food-energy-spikes-more-frequent-b09ad8",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -2949,24 +3012,6 @@
       "sources": []
     },
     {
-      "id": "investors-use-california-affordable-housing-tax-breaks-007a9a",
-      "title": "投资者借加州可负担住房政策减免房产税",
-      "description": "据《世界日报》转述，《旧金山纪事报》调查发现，加州一项面向可负担住房的福利豁免，正被大型房产投资者用于减少房产税；部分项目即使没有降低租金，也能符合条件，地方政府因此面临税收减少、租户受益有限的情况。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T06:05:53+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/investors-use-california-affordable-housing-tax-breaks-007a9a",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "li-runxin-cares-91-terminal-patients-01afee",
       "title": "李润馨四年为91名临终者提供护理",
       "description": "李润馨加入HCA慈怀护理的“呵护天使”计划，过去四年为91名临终者提供个人护理、芳香沐浴和按摩。",
@@ -3112,25 +3157,6 @@
       ],
       "section": "tech",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "china-consulate-pressures-munich-yang-shuangzi-talk-0b04c7",
-      "title": "慕尼黑讲座口译员承认疏漏否认刻意回避",
-      "description": "慕尼黑文学馆为杨双子《台湾漫游录》德译本举办讲座。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T03:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/china-consulate-pressures-munich-yang-shuangzi-talk-0b04c7",
-      "reference": [
-        "中央通訊社",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3737,43 +3763,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "bloomberg-china-us-ai-gap-three-percent-baa317",
-      "title": "彭博称中美顶尖AI模型差距缩至约3%",
-      "description": "彭博行业研究分析师罗伯特·利在10月5日发布的报告中说，中美顶尖人工智能模型的基准测试得分差距已缩小至约3%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T06:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/bloomberg-china-us-ai-gap-three-percent-baa317",
-      "reference": [
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "ai",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "california-state-university-funds-ai-education-80bbf6",
-      "title": "加州州大投入逾300万元推动AI教育",
-      "description": "加州州立大学系统（CSU）投入超过300万元推进人工智能教育，希望帮助系统内47万名学生为AI改变就业市场做好准备。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T06:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/california-state-university-funds-ai-education-80bbf6",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
       "sources": []
     },
     {
