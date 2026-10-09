@@ -3,9 +3,111 @@
     "date": "2026-10-09",
     "timestamp": 1791567066,
     "totalPages": 1,
-    "total": 276
+    "total": 277
   },
   "stories": [
+    {
+      "id": "ice-agents-shoot-man-new-york-city-61a997",
+      "title": "ICE探员纽约大理石山开枪致男子受伤",
+      "description": "10月8日，美国移民与海关执法局（ICE）探员在纽约市布朗克斯区大理石山向一名车内男子开枪，男子受伤，车内一名五岁男童没有受伤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-09T18:08:52+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-09",
+      "url": "https://kaopu.news/story/2026-10-09/ice-agents-shoot-man-new-york-city-61a997",
+      "reference": [
+        "联合早报",
+        "法广",
+        "公视",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "us-diesel-prices-rise-seventy-percent-9d6a9d",
+      "title": "伊朗战事爆发后美国柴油价格上涨约七成",
+      "description": "据澎湃新闻援引央视记者当地时间10月9日消息，美国和以色列对伊朗开战后，美国柴油价格上涨约70%；10月8日全美均价为6.28美元/加仑。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-09T17:52:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-09",
+      "url": "https://kaopu.news/story/2026-10-09/us-diesel-prices-rise-seventy-percent-9d6a9d",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "norway-nobel-committee-awards-navanethem-pillay-peace-prize-8c72a5",
+      "title": "南非法学家皮莱获2026年诺贝尔和平奖",
+      "description": "挪威诺贝尔委员会10月9日宣布，将2026年诺贝尔和平奖授予南非法学家纳瓦内瑟姆·皮莱，以表彰她推动国际法落实、追究严重罪行责任的工作。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-09T17:27:08.633000+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-09",
+      "url": "https://kaopu.news/story/2026-10-09/norway-nobel-committee-awards-navanethem-pillay-peace-prize-8c72a5",
+      "reference": [
+        "财新",
+        "公视",
+        "德国之声",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "eu-trade-chief-beijing-talks-a85d92",
+      "title": "中欧经贸磋商就混动车贸易达成谅解",
+      "description": "中国商务部部长王文涛与欧盟委员会贸易和经济安全委员马罗什·谢夫乔维奇于2026年10月8日至9日在北京共同主持中欧贸易投资磋商机制第二次例会。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-09T16:47:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/eu-trade-chief-beijing-talks-a85d92",
+      "reference": [
+        "联合早报",
+        "法广",
+        "中央通訊社",
+        "纽约时报"
+      ],
+      "section": "world",
+      "sourceCount": 26,
+      "sources": []
+    },
+    {
+      "id": "irkutsk-antiplague-institute-worker-death-f5f4c2",
+      "title": "俄方完成鼠疫接触者监测并解除伊尔库茨克防疫措施",
+      "description": "俄罗斯联邦消费者权益保护和公益监督局10月8日通报，伊尔库茨克西伯利亚与远东防鼠疫研究所一名工作人员死亡后，所有接触者的医学观察已结束，未发现第二例病例；俄方称当地防疫形势平稳，伊尔库茨克市已解除相关预防措施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-09T16:39:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/irkutsk-antiplague-institute-worker-death-f5f4c2",
+      "reference": [
+        "世界日报",
+        "加拿大国际广播电台",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 37,
+      "sources": []
+    },
     {
       "id": "singapore-orders-recall-raw-milk-cheese-d4e4bb",
       "title": "新加坡食品局要求召回疑受污染法国生乳奶酪",
@@ -155,27 +257,6 @@
       "sources": []
     },
     {
-      "id": "eu-trade-chief-beijing-talks-a85d92",
-      "title": "中欧贸易投资磋商形成16项成果共识",
-      "description": "中国商务部长王文涛与欧盟委员会贸易和经济安全委员马罗什·谢夫乔维奇于10月8日至9日在北京举行中欧贸易投资磋商机制第二次例会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T14:44:43+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/eu-trade-chief-beijing-talks-a85d92",
-      "reference": [
-        "联合早报",
-        "法广",
-        "中央通訊社",
-        "纽约时报"
-      ],
-      "section": "world",
-      "sourceCount": 24,
-      "sources": []
-    },
-    {
       "id": "us-eu-sign-industrial-overcapacity-declaration-14c244",
       "title": "美欧等15个经济体计划建立产能过剩协商机制",
       "description": "美国、欧盟及其他签署方10月7日在巴黎经合组织总部发布应对结构性产能过剩的部长级联合声明；中国商务部10月9日回应称，若有关经济体借此损害中国利益，中方将作必要回应。",
@@ -320,27 +401,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "norway-nobel-committee-awards-navanethem-pillay-peace-prize-8c72a5",
-      "title": "南非律师皮莱获2026年诺贝尔和平奖",
-      "description": "挪威诺贝尔委员会10月9日宣布，将2026年诺贝尔和平奖授予南非律师纳维·皮莱，表彰她推动国际法发展、追究战争罪、危害人类罪和种族灭绝罪的努力。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T14:03:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/norway-nobel-committee-awards-navanethem-pillay-peace-prize-8c72a5",
-      "reference": [
-        "财新",
-        "公视",
-        "德国之声",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -526,26 +586,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ice-agents-shoot-man-new-york-city-61a997",
-      "title": "ICE在纽约布朗克斯开枪致多明尼加男子受伤",
-      "description": "纽约当地时间10月8日下午4时许，美国移民与海关执法局（ICE）特工在纽约市布朗克斯区大理石山向一辆车内的多明尼加籍男子开枪，男子受伤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T12:40:14+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/ice-agents-shoot-man-new-york-city-61a997",
-      "reference": [
-        "联合早报",
-        "法广",
-        "公视"
-      ],
-      "section": "us",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -736,27 +776,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "irkutsk-antiplague-institute-worker-death-f5f4c2",
-      "title": "伊尔库茨克州解除研究员死亡事件防疫措施",
-      "description": "俄罗斯伊尔库茨克州10月8日解除围绕一名鼠疫防治研究所工作人员死亡事件采取的防疫措施，接触者医学监测已经结束。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T11:44:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/irkutsk-antiplague-institute-worker-death-f5f4c2",
-      "reference": [
-        "世界日报",
-        "加拿大国际广播电台",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 36,
       "sources": []
     },
     {
