@@ -2,9 +2,25 @@
   "details": {
     "date": "2026-10-08",
     "totalPages": 0,
-    "total": 166
+    "total": 168
   },
   "stories": [
+    {
+      "id": "us-suspends-tech-firms-green-card-process-a31870",
+      "title": "美国政府暂停科技企业永久劳工认证申请",
+      "description": "据澎湃新闻、联合早报和世界日报报道，美国联邦政府10月8日宣布暂停微软等科技企业参与永久劳工认证计划；同日，劳工部对9所美国大学涉嫌滥用J-1签证展开调查并发出传票。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T23:56:45+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/us-suspends-tech-firms-green-card-process-a31870",
+      "reference": [],
+      "section": "us",
+      "sourceCount": "",
+      "sources": []
+    },
     {
       "id": "malaysia-off-budget-guaranteed-debt-74ba08",
       "title": "马来西亚联邦政府担保约2300亿令吉企业债务",
@@ -66,22 +82,6 @@
       "url": "https://kaopu.news/story/2026-10-09/lutnick-conveys-us-distrust-korean-intelligence-26eaa7",
       "reference": [],
       "section": "world",
-      "sourceCount": "",
-      "sources": []
-    },
-    {
-      "id": "china-coast-guard-allows-philippines-injured-transfer-f3c71f",
-      "title": "中国海警称准许菲方转运坐滩船伤员",
-      "description": "据澎湃新闻和联合早报报道，10月8日，菲律宾海警4409号船赴仁爱礁附近转运坐滩船只上的一名伤员。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T23:41:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/china-coast-guard-allows-philippines-injured-transfer-f3c71f",
-      "reference": [],
-      "section": "china",
       "sourceCount": "",
       "sources": []
     },
@@ -310,22 +310,6 @@
       "sources": []
     },
     {
-      "id": "us-rule-restricts-immigrant-aca-subsidies-e54b11",
-      "title": "美国新规将收紧非公民ACA补助资格",
-      "description": "据世界日报报道，美国联邦政府将从2027年1月1日起收紧非公民领取《平价医疗法案》（ACA）联邦保费补助的资格。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T15:56:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/us-rule-restricts-immigrant-aca-subsidies-e54b11",
-      "reference": [],
-      "section": "us",
-      "sourceCount": "",
-      "sources": []
-    },
-    {
       "id": "singapore-coe-car-category-consultation-325f12",
       "title": "新加坡陆交局就合并汽车拥车证组别征询意见",
       "description": "据《联合早报》报道，新加坡陆路交通管理局10月8日启动公众咨询，征求对合并汽车拥车证A组与B组、按车型收取附加费或给予回扣，以及调整公开组E组安排的意见。",
@@ -386,6 +370,38 @@
       "url": "https://kaopu.news/story/2026-10-08/guolian-minsheng-hong-kong-capital-increase-b13b1c",
       "reference": [],
       "section": "business",
+      "sourceCount": "",
+      "sources": []
+    },
+    {
+      "id": "former-trump-officials-join-venezuela-oil-lobbying-5eb8c3",
+      "title": "多名前特朗普政府官员转入委内瑞拉能源与游说行业",
+      "description": "据《世界日报》援引《华盛顿邮报》的报道，多名前特朗普政府官员离职后进入委内瑞拉相关能源企业或游说公司，相关任职从去年延续至马杜洛被美军活捉两周后。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T15:12:25+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/former-trump-officials-join-venezuela-oil-lobbying-5eb8c3",
+      "reference": [],
+      "section": "world",
+      "sourceCount": "",
+      "sources": []
+    },
+    {
+      "id": "russian-strike-donetsk-buses-kills-30-691128",
+      "title": "俄军袭击克拉马托尔斯克致33人死亡",
+      "description": "据澎湃新闻报道，乌克兰国家紧急情况局称，俄军8日上午袭击乌克兰顿涅茨克州克拉马托尔斯克，造成33人死亡、18人受伤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T15:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/russian-strike-donetsk-buses-kills-30-691128",
+      "reference": [],
+      "section": "world",
       "sourceCount": "",
       "sources": []
     },
@@ -482,6 +498,22 @@
       "url": "https://kaopu.news/story/2026-10-08/israel-closes-uk-jerusalem-consulate-39274f",
       "reference": [],
       "section": "world",
+      "sourceCount": "",
+      "sources": []
+    },
+    {
+      "id": "chinese-trucker-detained-ice-3ada0b",
+      "title": "持工卡华人卡车司机跨州送货遭ICE拘留",
+      "description": "据《世界日报》报道，一名居住在芝加哥、正在等待庇护申请审理结果的华人卡车司机，上周从伊利诺伊州运货前往印第安纳州，在当地一处高速公路称重站接受检查时被美国移民与海关执法局（ICE）拘留。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T14:12:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/chinese-trucker-detained-ice-3ada0b",
+      "reference": [],
+      "section": "us",
       "sourceCount": "",
       "sources": []
     },
@@ -742,6 +774,22 @@
       "sources": []
     },
     {
+      "id": "msf-coordinator-describes-gaza-war-hardships-91b816",
+      "title": "以色列举行哈马斯袭击三周年悼念活动",
+      "description": "据联合早报、BBC、公视、日本放送协会和澎湃新闻报道，以色列于2026年10月7日举行哈马斯袭击三周年悼念活动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T12:58:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-07",
+      "url": "https://kaopu.news/story/2026-10-07/msf-coordinator-describes-gaza-war-hardships-91b816",
+      "reference": [],
+      "section": "world",
+      "sourceCount": "",
+      "sources": []
+    },
+    {
       "id": "houthis-claim-strikes-saudi-targets-9f88db",
       "title": "胡塞武装袭击沙特两机场致3死36人受伤",
       "description": "据公视、法广和《联合早报》报道，也门胡塞武装在当地6日至7日袭击沙特两座民用机场，并攻击也门政府控制区的亚丁国际机场。",
@@ -950,6 +998,22 @@
       "sources": []
     },
     {
+      "id": "chiang-wan-an-plans-songshan-airport-ai-park-707aa0",
+      "title": "蒋万安提出迁建松山机场并规划台北AI园区",
+      "description": "据中央社、公视和联合早报报道，10月8日，台北市长蒋万安提出迁移松山机场的构想，计划将机场及周边约300公顷土地改造为台北AI园区。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-08T12:26:17+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/chiang-wan-an-plans-songshan-airport-ai-park-707aa0",
+      "reference": [],
+      "section": "asia",
+      "sourceCount": "",
+      "sources": []
+    },
+    {
       "id": "xian-heating-companies-charge-vacant-homes-basic-fee-a6c545",
       "title": "西安多家热力公司继续向停暖空置房收取三成热费",
       "description": "据第一财经报道，西安多家热力公司9月发布2026年采暖季收费公告，停暖用户仍须按总热费的30%缴纳基本热费，且不接受阶段性报停。",
@@ -994,22 +1058,6 @@
       "url": "https://kaopu.news/story/2026-10-08/malaysia-parliament-passes-food-amendment-bill-6e3495",
       "reference": [],
       "section": "asia",
-      "sourceCount": "",
-      "sources": []
-    },
-    {
-      "id": "furmonertinib-global-phase-three-trial-misses-endpoint-6147a1",
-      "title": "艾力斯伏美替尼全球三期试验未达主要终点",
-      "description": "据澎湃新闻和第一财经报道，艾力斯与ArriVent共同开展的伏美替尼全球III期FURVENT试验未达到主要终点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T11:51:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/furmonertinib-global-phase-three-trial-misses-endpoint-6147a1",
-      "reference": [],
-      "section": "tech",
       "sourceCount": "",
       "sources": []
     },
@@ -2322,22 +2370,6 @@
       "url": "https://kaopu.news/story/2026-10-08/microsoft-announces-local-ai-laptop-19b03b",
       "reference": [],
       "section": "ai",
-      "sourceCount": "",
-      "sources": []
-    },
-    {
-      "id": "zhenxiong-daying-mine-report-accountability-02c591",
-      "title": "镇雄大营煤矿事故报告建议追责40人",
-      "description": "据澎湃新闻报道，国家矿山安全监察局云南局近日公布镇雄县大营煤矿煤与瓦斯突出事故调查报告。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T03:21:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/zhenxiong-daying-mine-report-accountability-02c591",
-      "reference": [],
-      "section": "china",
       "sourceCount": "",
       "sources": []
     },
