@@ -1,38 +1,179 @@
 {
   "details": {
-    "date": "2026-10-09",
+    "date": "2026-10-10",
     "timestamp": 1791587863,
     "totalPages": 1,
-    "total": 277
+    "total": 278
   },
   "stories": [
     {
-      "id": "trump-forms-panel-probe-cook-mortgage-claims-9fd4e8",
-      "title": "特朗普成立委员会调查美联储理事库克",
-      "description": "白宫10月9日公布，特朗普于10月7日签署备忘录成立调查委员会；联合早报援引路透社报道，委员会将调查美联储理事莉萨·库克涉嫌在房贷文件中提供虚假资料，并向总统建议是否有罢免她的理由。",
+      "id": "trump-approves-hasan-firing-squad-execution-357269",
+      "title": "美国国防部计划直播枪决胡德堡枪手哈桑",
+      "description": "美国国防部计划于2026年12月3日下午1时（美国中部时间）在得克萨斯州胡德堡基地，以行刑队枪决尼达尔·马利克·哈桑，并通过网络直播执行过程。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-09T19:58:00+00:00",
+      "updatedAt": "2026-10-09T23:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/trump-approves-hasan-firing-squad-execution-357269",
+      "reference": [
+        "世界日报",
+        "英国广播公司",
+        "法广",
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "trump-russia-diesel-sanctions-waiver-a71d22",
+      "title": "特朗普称俄将供柴油美国临时豁免制裁",
+      "description": "特朗普在10月9日与普京通话后称，俄罗斯同意向美国及全球市场供应柴油。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-09T23:19:38.343610+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-10",
+      "url": "https://kaopu.news/story/2026-10-10/trump-russia-diesel-sanctions-waiver-a71d22",
+      "reference": [
+        "英国广播公司",
+        "澎湃新闻",
+        "联合早报",
+        "第一财经"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "lian-ji-expelled-from-communist-party-f79678",
+      "title": "中国艺术研究院原院长连辑被开除党籍",
+      "description": "中央纪委国家监委网站发布通报称，经中共中央批准，中央纪委国家监委已对中国艺术研究院原院长连辑给予开除党籍处分，并将其涉嫌犯罪事项交由检察机关审查起诉，相关财物一并移送。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-09T23:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-09",
+      "url": "https://kaopu.news/story/2026-10-09/lian-ji-expelled-from-communist-party-f79678",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-forms-panel-probe-cook-mortgage-claims-9fd4e8",
+      "title": "特朗普成立委员会调查库克并评估罢免理由",
+      "description": "美国白宫10月9日公布，特朗普已于10月7日签署备忘录，成立委员会调查美联储理事莉萨·库克涉嫌在房贷文件中作虚假陈述的指控，并要求委员会向总统报告是否有理由将她免职。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-09T23:14:38.344571+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-09",
       "url": "https://kaopu.news/story/2026-10-09/trump-forms-panel-probe-cook-mortgage-claims-9fd4e8",
       "reference": [
         "联合早报",
-        "澎湃新闻"
+        "澎湃新闻",
+        "第一财经"
       ],
       "section": "us",
-      "sourceCount": 2,
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "fu-cifu-explains-seawater-inundation-alerts-2eb5cf",
+      "title": "傅赐福介绍海水倒灌风险预警进展",
+      "description": "国家海洋环境预报中心风暴潮首席预报员傅赐福近日接受专访，介绍海水倒灌的成因、风险区域划定和预警工作。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-09T23:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-10",
+      "url": "https://kaopu.news/story/2026-10-10/fu-cifu-explains-seawater-inundation-alerts-2eb5cf",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-rules-out-iran-attack-before-midterms-474979",
+      "title": "特朗普排除中期选举前攻击伊朗",
+      "description": "特朗普10月8日在社交媒体表示，美伊正进行富有成效的磋商，并排除在11月3日美国中期选举前攻击伊朗。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-09T22:21:28+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/trump-rules-out-iran-attack-before-midterms-474979",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "日经",
+        "中央通訊社"
+      ],
+      "section": "world",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "norway-nobel-committee-awards-navanethem-pillay-peace-prize-8c72a5",
+      "title": "南非法学家皮莱获2026年诺贝尔和平奖",
+      "description": "挪威诺贝尔委员会10月9日宣布，将2026年诺贝尔和平奖授予南非法学家纳瓦内瑟姆·皮莱，以表彰她为促进和平与国际法所作的努力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-09T22:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-09",
+      "url": "https://kaopu.news/story/2026-10-09/norway-nobel-committee-awards-navanethem-pillay-peace-prize-8c72a5",
+      "reference": [
+        "财新",
+        "公视",
+        "德国之声",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "panama-earthquake-prompts-tsunami-warning-c12039",
+      "title": "巴拿马7.7级地震触发东太平洋海啸警告",
+      "description": "巴拿马中南部10月9日发生强震。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-09T22:03:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-09",
+      "url": "https://kaopu.news/story/2026-10-09/panama-earthquake-prompts-tsunami-warning-c12039",
+      "reference": [
+        "澎湃新闻",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 3,
       "sources": []
     },
     {
       "id": "katie-zakaria-white-house-press-secretary-candidate-62ad7c",
-      "title": "知情人士称扎卡里亚成白宫新闻秘书接任人选",
-      "description": "央视记者于当地时间10月9日获悉，知情人士称，凯蒂·扎卡里亚已成为白宫新闻秘书接任人选；她是否接受该职务尚不清楚。",
+      "title": "特朗普任命凯蒂·扎卡里亚为白宫新闻秘书",
+      "description": "特朗普10月9日在社交媒体宣布任命凯蒂·扎卡里亚为白宫新闻秘书，接替卡罗琳·莱维特；该职位自莱维特8月底离职后一直空缺。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-09T19:14:00+00:00",
+      "updatedAt": "2026-10-09T21:04:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-09",
       "url": "https://kaopu.news/story/2026-10-09/katie-zakaria-white-house-press-secretary-candidate-62ad7c",
@@ -40,6 +181,24 @@
         "澎湃新闻"
       ],
       "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "sumitomo-bakelite-expands-chip-packaging-427b62",
+      "title": "住友电木拟投约100亿日元扩产半导体封装材料",
+      "description": "住友电木计划投入约100亿日元，在中国苏州市和新加坡的工厂增设树脂封装材料生产线，产品用于保护人工智能数据中心等场景所需的先进半导体，目标在2030年度投产。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-09T21:02:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-10",
+      "url": "https://kaopu.news/story/2026-10-10/sumitomo-bakelite-expands-chip-packaging-427b62",
+      "reference": [
+        "日经"
+      ],
+      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -63,39 +222,22 @@
     },
     {
       "id": "us-sanctions-international-criminal-court-dc4690",
-      "title": "美国宣布制裁国际刑事法院并禁止与其交易",
-      "description": "美国国务卿鲁比奥10月9日宣布制裁国际刑事法院，并称将禁止与该院进行交易，以限制其运作。",
+      "title": "美国制裁国际刑事法院并禁止与其交易",
+      "description": "美国政府当地时间10月9日宣布制裁国际刑事法院，并禁止与该机构进行交易；美国财政部已将法院列入制裁名单。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-09T18:29:00+00:00",
+      "updatedAt": "2026-10-09T19:01:52+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-09",
       "url": "https://kaopu.news/story/2026-10-09/us-sanctions-international-criminal-court-dc4690",
       "reference": [
         "澎湃新闻",
-        "联合早报"
+        "联合早报",
+        "法广"
       ],
       "section": "us",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "panama-earthquake-prompts-tsunami-warning-c12039",
-      "title": "巴拿马中部发生7.7级地震美国发布海啸警告",
-      "description": "巴拿马中部马卡拉卡斯地区当地时间9日12时56分发生地震，欧洲-地中海地震中心测定震级为7.7级，震源深度为12公里。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T18:09:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/panama-earthquake-prompts-tsunami-warning-c12039",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
+      "sourceCount": 5,
       "sources": []
     },
     {
@@ -135,48 +277,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-rules-out-iran-attack-before-midterms-474979",
-      "title": "特朗普排除中期选举前对伊朗发动攻击",
-      "description": "美国总统特朗普10月8日在社交媒体表示，美国正与伊朗进行“富有成效的讨论”，不会在11月3日中期选举前攻击伊朗。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T17:43:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/trump-rules-out-iran-attack-before-midterms-474979",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "日经",
-        "中央通訊社"
-      ],
-      "section": "world",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "norway-nobel-committee-awards-navanethem-pillay-peace-prize-8c72a5",
-      "title": "南非法学家皮莱获2026年诺贝尔和平奖",
-      "description": "挪威诺贝尔委员会10月9日宣布，将2026年诺贝尔和平奖授予南非法学家纳瓦内瑟姆·皮莱，以表彰她推动国际法落实、追究严重罪行责任的工作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T17:27:08.633000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/norway-nobel-committee-awards-navanethem-pillay-peace-prize-8c72a5",
-      "reference": [
-        "财新",
-        "公视",
-        "德国之声",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -1351,27 +1451,6 @@
       "sources": []
     },
     {
-      "id": "trump-approves-hasan-firing-squad-execution-357269",
-      "title": "美国国防部将直播哈桑行刑队处决过程",
-      "description": "美国国防部10月8日发表声明称，前陆军精神科医生尼达尔·哈桑的死刑执行过程将通过网络直播，供公众观看。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T09:38:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/trump-approves-hasan-firing-squad-execution-357269",
-      "reference": [
-        "世界日报",
-        "英国广播公司",
-        "法广",
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 12,
-      "sources": []
-    },
-    {
       "id": "unctad-forecasts-global-growth-slowdown-c69e08",
       "title": "贸发会议预计2026年全球经济增速放缓至2.6%",
       "description": "贸发会议9日公布2026年版《贸易与发展报告》。",
@@ -1554,24 +1633,6 @@
         "第一财经"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "lian-ji-expelled-from-communist-party-f79678",
-      "title": "中国艺术研究院原院长连辑被开除党籍",
-      "description": "中央纪委国家监委经中共中央批准，决定开除中国艺术研究院原院长连辑党籍，并将其涉嫌犯罪事项交由检察机关依法审查起诉。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T09:02:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/lian-ji-expelled-from-communist-party-f79678",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
@@ -2876,26 +2937,6 @@
       "sources": []
     },
     {
-      "id": "south-korea-seeks-un-medical-sanctions-waiver-f5f03a",
-      "title": "金与正斥韩国医疗援助是挑衅称将无视韩国",
-      "description": "朝鲜劳动党中央委员会部长金与正10月8日发表谈话；韩国国际广播电台另报道，她在9日的书面表态中继续批评韩国向平壤市江东郡医院提供医疗设备的计划。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T05:12:23+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/south-korea-seeks-un-medical-sanctions-waiver-f5f03a",
-      "reference": [
-        "韩国国际广播电台",
-        "朝鲜日报",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "supreme-court-orders-retrial-zhou-guian-case-68d084",
       "title": "最高法提审周贵安等五人强拆赔偿案",
       "description": "最高人民法院已裁定提审陕西勉县周贵安等五人与勉县政府、新铺镇政府之间的行政赔偿案。",
@@ -3095,24 +3136,6 @@
       "url": "https://kaopu.news/story/2026-10-09/china-laos-railway-passenger-trips-surpass-80-million-e89e6e",
       "reference": [
         "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "new-huanggang-port-opens-3bf1dd",
-      "title": "新皇岗口岸将于10月12日正式开通",
-      "description": "香港保安局和深圳市政府口岸办公室10月9日发布联合公告称，粤港两地政府商定，新皇岗口岸将于10月12日上午6时30分正式开通。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T03:41:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/new-huanggang-port-opens-3bf1dd",
-      "reference": [
-        "联合早报"
       ],
       "section": "china",
       "sourceCount": 1,
