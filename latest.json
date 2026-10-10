@@ -8,12 +8,12 @@
   "stories": [
     {
       "id": "houthis-claim-strikes-saudi-targets-9f88db",
-      "title": "沙特利雅得机场遇袭后暂停运营多人受伤",
-      "description": "沙特阿拉伯民航总局称，10月10日下午，利雅得哈立德国王国际机场再次遇袭，多人受伤；有关部门暂停机场运营，以检查设施安全并评估损失，伤亡人数仍在核实。",
+      "title": "利雅得机场遭袭后暂停运营 多人受伤",
+      "description": "沙特民航总局称，10月10日下午，利雅得哈立德国王国际机场再次遭到袭击，多人受伤，伤亡情况仍在统计。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-10T17:17:00+00:00",
+      "updatedAt": "2026-10-10T17:34:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-06",
       "url": "https://kaopu.news/story/2026-10-06/houthis-claim-strikes-saudi-targets-9f88db",
@@ -24,7 +24,46 @@
         "澎湃新闻"
       ],
       "section": "world",
-      "sourceCount": 15,
+      "sourceCount": 16,
+      "sources": []
+    },
+    {
+      "id": "trump-suggests-ukraine-leadership-change-for-deal-415c04",
+      "title": "特朗普建议乌克兰更换总统以促成协议",
+      "description": "特朗普当地时间10月10日称，泽连斯基可自行决定行动，但不能攻击炼油厂，并应立即停止；他建议乌克兰更换总统以促成协议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-10T17:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-10",
+      "url": "https://kaopu.news/story/2026-10-10/trump-suggests-ukraine-leadership-change-for-deal-415c04",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "lai-ching-te-national-day-benefit-speech-a7bbad",
+      "title": "美国国务院欢迎赖清德维护台海和平承诺",
+      "description": "赖清德10月10日在台北总统府前发表国庆演说，题为“台湾：山巅之城，地上的盐，世上的光”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-10T16:23:51+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-09",
+      "url": "https://kaopu.news/story/2026-10-09/lai-ching-te-national-day-benefit-speech-a7bbad",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "公视",
+        "英国广播公司"
+      ],
+      "section": "asia",
+      "sourceCount": 42,
       "sources": []
     },
     {
@@ -128,6 +167,27 @@
       "sources": []
     },
     {
+      "id": "zhou-xianwang-bribery-sentenced-fourteen-years-3b1d6a",
+      "title": "周先旺受贿案一审被判有期徒刑十四年",
+      "description": "河南省商丘市中级人民法院10月10日对周先旺受贿案作出一审判决，判处周先旺有期徒刑14年，并处罚金人民币500万元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-10T14:41:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-10",
+      "url": "https://kaopu.news/story/2026-10-10/zhou-xianwang-bribery-sentenced-fourteen-years-3b1d6a",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "联合早报",
+        "德国之声"
+      ],
+      "section": "china",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
       "id": "trump-russia-diesel-sanctions-waiver-a71d22",
       "title": "特朗普放宽对俄柴油制裁允许俄方供货",
       "description": "美国总统特朗普10月9日与俄罗斯总统普京通话后宣布，双方达成俄罗斯向美国及全球市场供应柴油的安排。",
@@ -167,27 +227,6 @@
       "sources": []
     },
     {
-      "id": "lai-ching-te-national-day-benefit-speech-a7bbad",
-      "title": "赖清德双十演说称乐见美中对话管理竞争",
-      "description": "台湾总统赖清德10月10日在台北双十国庆大会发表演说，题为“台湾：山巅之城，地上的盐，世上的光”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-10T14:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/lai-ching-te-national-day-benefit-speech-a7bbad",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "公视",
-        "英国广播公司"
-      ],
-      "section": "asia",
-      "sourceCount": 41,
-      "sources": []
-    },
-    {
       "id": "us-sanctions-international-criminal-court-dc4690",
       "title": "特朗普政府将国际刑事法院整体列入制裁名单",
       "description": "美国特朗普政府10月9日首次对国际刑事法院整体实施制裁。",
@@ -206,6 +245,26 @@
       ],
       "section": "us",
       "sourceCount": 16,
+      "sources": []
+    },
+    {
+      "id": "delhi-readies-police-voter-roll-protest-6e9a0f",
+      "title": "印度警方拘留新德里数百名选民名册抗议者",
+      "description": "印度青年10月10日在新德里抗议选民名册修订，警方拘留数百名示威者。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-10T14:03:56+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-09",
+      "url": "https://kaopu.news/story/2026-10-09/delhi-readies-police-voter-roll-protest-6e9a0f",
+      "reference": [
+        "联合早报",
+        "日经",
+        "法广"
+      ],
+      "section": "asia",
+      "sourceCount": 5,
       "sources": []
     },
     {
@@ -245,27 +304,6 @@
       ],
       "section": "world",
       "sourceCount": 37,
-      "sources": []
-    },
-    {
-      "id": "zhou-xianwang-bribery-sentenced-fourteen-years-3b1d6a",
-      "title": "周先旺受贿案一审获刑14年并处罚金500万元",
-      "description": "河南省商丘市中级人民法院2026年10月10日对湖北省政协原党组成员、副主席周先旺受贿案作出一审判决。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-10T13:49:24+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/zhou-xianwang-bribery-sentenced-fourteen-years-3b1d6a",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "联合早报",
-        "德国之声"
-      ],
-      "section": "china",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -591,26 +629,6 @@
       ],
       "section": "asia",
       "sourceCount": 42,
-      "sources": []
-    },
-    {
-      "id": "delhi-readies-police-voter-roll-protest-6e9a0f",
-      "title": "蟑螂人民党称警方拘留三名领袖",
-      "description": "印度青年组织“蟑螂人民党”反对选民名册修订的示威计划于10日在新德里举行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-10T11:03:52+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/delhi-readies-police-voter-roll-protest-6e9a0f",
-      "reference": [
-        "联合早报",
-        "日经",
-        "法广"
-      ],
-      "section": "asia",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -2304,25 +2322,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "iran-guard-close-hormuz-illegal-routes-5b82e1",
-      "title": "伊朗革命卫队称击中非法航线液化气船",
-      "description": "伊朗伊斯兰革命卫队海军10月9日称，数小时前击中一艘载有液化石油气的大型船只；该船试图沿非法航线穿越霍尔木兹海峡。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T15:53:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/iran-guard-close-hormuz-illegal-routes-5b82e1",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
