@@ -1,29 +1,179 @@
 {
   "details": {
     "date": "2026-10-11",
-    "timestamp": 1791682575,
+    "timestamp": 1791689435,
     "totalPages": 1,
-    "total": 278
+    "total": 277
   },
   "stories": [
     {
-      "id": "isaias-hurricane-strengthens-nears-gulf-coast-175adb",
-      "title": "飓风以赛亚登陆佛州造成至少4人死亡",
-      "description": "飓风以赛亚于10月10日凌晨以二级飓风强度在佛罗里达州德斯汀附近登陆，随后迅速减弱为热带气旋。",
+      "id": "zhejiang-platforms-abuse-traffic-power-d7a900",
+      "title": "浙江宣传批评平台滥用流量权影响舆论",
+      "description": "中共浙江省委宣传部旗下账号“浙江宣传”于2026年10月8日发布《“流量权力”不得任性》，批评部分大型互联网平台为商业利益操纵流量分配，并呼吁加强监管。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-11T01:14:08+00:00",
+      "updatedAt": "2026-10-11T01:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-11",
+      "url": "https://kaopu.news/story/2026-10-11/zhejiang-platforms-abuse-traffic-power-d7a900",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-medicaid-rule-cuts-immigrant-coverage-d68ca5",
+      "title": "特朗普政府新规取消部分合法移民医疗补助资格",
+      "description": "特朗普政府推动的美国联邦与州合作医疗补助计划（Medicaid）新限制于10月1日生效，部分合法移民从此不再符合参保条件。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T01:45:58+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-11",
+      "url": "https://kaopu.news/story/2026-10-11/trump-medicaid-rule-cuts-immigrant-coverage-d68ca5",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "panama-earthquake-prompts-tsunami-warning-c12039",
+      "title": "巴拿马政府宣布进入紧急状态应对强震",
+      "description": "巴拿马当地时间10月9日12时56分，埃雷拉省皮塔洛萨阿里巴附近发生7.7级地震，震源深度约12.6公里。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T01:39:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-09",
+      "url": "https://kaopu.news/story/2026-10-09/panama-earthquake-prompts-tsunami-warning-c12039",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 16,
+      "sources": []
+    },
+    {
+      "id": "china-coast-guard-enters-kinmen-restricted-waters-730728",
+      "title": "台湾国防部称五架次中国人民解放军军机侵扰西南空域",
+      "description": "台湾国防部通报，10月10日上午6时至11日上午6时，台湾周边侦获中国人民解放军军机12架次，其中5架次进入台湾西南空域；同一时段还侦获中国人民解放军军舰6艘和中国大陆公务船3艘。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T01:33:51+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-09",
+      "url": "https://kaopu.news/story/2026-10-09/china-coast-guard-enters-kinmen-restricted-waters-730728",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "china-pakistan-armies-joint-training-xinjiang-1f05e9",
+      "title": "中巴将于新疆举行首次陆军联合训练",
+      "description": "中国和巴基斯坦计划在10月中下旬于新疆库尔勒举行代号“喀喇昆仑—2026”的首次陆军联合训练，课题为高海拔地区联合反恐清剿。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T01:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-11",
+      "url": "https://kaopu.news/story/2026-10-11/china-pakistan-armies-joint-training-xinjiang-1f05e9",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "latino-voters-shift-democrats-trump-republicans-5d73b8",
+      "title": "民主党期中选举民调领先幅度受到质疑",
+      "description": "随着美国11月3日中期选举临近，多项民调显示民主党在国会政党倾向调查中领先，选举预测也显示该党有机会争取两院控制权。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T01:23:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/latino-voters-shift-democrats-trump-republicans-5d73b8",
+      "reference": [
+        "世界日报",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "glacier-outreach-addresses-collapse-risks-953fdd",
+      "title": "高坛光呼吁冰川科普关注崩塌风险",
+      "description": "2026年8月26日，尼泊尔一侧海拔约5200米的冰川末端发生大规模冰岩崩。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T01:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-11",
+      "url": "https://kaopu.news/story/2026-10-11/glacier-outreach-addresses-collapse-risks-953fdd",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "isaias-hurricane-strengthens-nears-gulf-coast-175adb",
+      "title": "美国批准释出最多400万桶战略石油储备",
+      "description": "美国能源部10月10日批准以紧急交换方式从战略石油储备中提供最多400万桶原油，以应对飓风“伊塞亚斯”造成的美国东南部石油供应中断。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T01:21:49+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-09",
       "url": "https://kaopu.news/story/2026-10-09/isaias-hurricane-strengthens-nears-gulf-coast-175adb",
       "reference": [
         "世界日报",
         "法广",
-        "联合早报"
+        "联合早报",
+        "中央通訊社"
       ],
       "section": "us",
-      "sourceCount": 7,
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "us-military-disables-ship-iran-blockade-9bb6df",
+      "title": "美军称在阿曼湾击停试图突破封锁货船",
+      "description": "美国中央司令部称，一艘商船离开伊朗港口后试图穿越阿曼湾、突破美国对伊朗海上封锁，遭美军击中推进系统后失去航行能力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T01:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-11",
+      "url": "https://kaopu.news/story/2026-10-11/us-military-disables-ship-iran-blockade-9bb6df",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -258,8 +408,8 @@
     },
     {
       "id": "lai-ching-te-national-day-benefit-speech-a7bbad",
-      "title": "赖清德国庆演说提出民生与防卫施政主张",
-      "description": "台湾总统赖清德10月10日在台北总统府前广场举行的中华民国国庆大会发表演说，以“台湾：山巅之城，地上的盐，世上的光”为题，谈及经济民生、社会福利、国防自卫及台海和平。",
+      "title": "赖清德国庆演说称强化防卫意在威慑战争",
+      "description": "台湾总统赖清德10日在台北总统府前的“双十”国庆大会发表演说，题为“台湾：山巅之城，地上的盐，世上的光”。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -274,7 +424,7 @@
         "英国广播公司"
       ],
       "section": "asia",
-      "sourceCount": 43,
+      "sourceCount": 44,
       "sources": []
     },
     {
@@ -448,27 +598,6 @@
       ],
       "section": "china",
       "sourceCount": 10,
-      "sources": []
-    },
-    {
-      "id": "panama-earthquake-prompts-tsunami-warning-c12039",
-      "title": "巴拿马7.7级强震造成27人轻伤",
-      "description": "巴拿马当地时间10月9日12时56分发生7.7级地震，震中位于埃雷拉省皮塔洛萨阿里巴附近，震源深度约12.6公里。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-10T14:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/panama-earthquake-prompts-tsunami-warning-c12039",
-      "reference": [
-        "澎湃新闻",
-        "法广",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 15,
       "sources": []
     },
     {
@@ -2134,25 +2263,6 @@
       "sources": []
     },
     {
-      "id": "china-coast-guard-enters-kinmen-restricted-waters-730728",
-      "title": "中国军机舰船及公务船双十节前在台湾周边活动共30架（艘）次",
-      "description": "台湾国防部通报，双十节前的一个24小时统计时段内，中国人民解放军军机、军舰及公务船在台湾周边活动，台湾军方称已监控并处置。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-10T01:47:18+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/china-coast-guard-enters-kinmen-restricted-waters-730728",
-      "reference": [
-        "中央通訊社",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "peking-university-professor-lou-yulie-dies-e7f6ea",
       "title": "北京大学哲学系教授楼宇烈因病逝世，享年92岁",
       "description": "北京大学哲学系（宗教学系）10月9日发布讣告称，该系教授楼宇烈于2026年10月9日凌晨2时18分在北京因病去世，享年92岁。",
@@ -2418,27 +2528,6 @@
       "sources": []
     },
     {
-      "id": "trump-rules-out-iran-attack-before-midterms-474979",
-      "title": "特朗普排除中期选举前攻击伊朗",
-      "description": "特朗普10月8日在社交媒体表示，美伊正进行富有成效的磋商，并排除在11月3日美国中期选举前攻击伊朗。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T22:21:28+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/trump-rules-out-iran-attack-before-midterms-474979",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "日经",
-        "中央通訊社"
-      ],
-      "section": "world",
-      "sourceCount": 8,
-      "sources": []
-    },
-    {
       "id": "sumitomo-bakelite-expands-chip-packaging-427b62",
       "title": "住友电木拟投约100亿日元扩产半导体封装材料",
       "description": "住友电木计划投入约100亿日元，在中国苏州市和新加坡的工厂增设树脂封装材料生产线，产品用于保护人工智能数据中心等场景所需的先进半导体，目标在2030年度投产。",
@@ -2453,24 +2542,6 @@
         "日经"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "avianca-flight-turbulence-diverted-miami-nine-hospitalized-63ad51",
-      "title": "哥伦比亚航空客机遇乱流改降迈阿密致9人送医",
-      "description": "哥伦比亚航空一架从麦德林飞往纽约肯尼迪国际机场的客机，周四晚间起飞后遭遇严重乱流，随后改降迈阿密。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T19:05:29+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/avianca-flight-turbulence-diverted-miami-nine-hospitalized-63ad51",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -3050,25 +3121,6 @@
       "sources": []
     },
     {
-      "id": "latino-voters-shift-democrats-trump-republicans-5d73b8",
-      "title": "民调显示美国西语裔选民明显倾向民主党",
-      "description": "路透社与益普索于10月5日完成的一项全美民调显示，特朗普的总统表现认可率为32%，与9月持平，仍处于其政治生涯最低水平。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T10:46:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/latino-voters-shift-democrats-trump-republicans-5d73b8",
-      "reference": [
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "meta-companies-develop-personal-agent-protocol-e37b0e",
       "title": "Meta等企业共同开发个人智能体交互协议",
       "description": "Meta和Sierra于10月6日宣布，与Genesys、Shopify、Stripe、沃尔玛等共同开发个人智能体协议，为智能体与企业交互制定开放标准。",
@@ -3182,25 +3234,6 @@
       "sources": []
     },
     {
-      "id": "yuanping-court-sentences-41-jingcheng-defendants-a23547",
-      "title": "原平法院判精诚矿业事故案41人获刑",
-      "description": "山西省原平市人民法院10月9日对代县精诚矿业相关重大责任事故、不报安全事故及行贿案作出一审公开宣判，41名被告人被判处一年至16年不等有期徒刑。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T09:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/yuanping-court-sentences-41-jingcheng-defendants-a23547",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "ai-singapore-drive-johor-malaysia-data-center-hub-d41deb",
       "title": "AI需求与新加坡推动柔佛稳居马来西亚数据中心枢纽",
       "description": "援引《南洋商报》消息，惠誉解决方案旗下研究机构BMI的最新报告称，人工智能需求和新加坡市场带动柔佛州继续成为马来西亚数据中心的重要集聚地，但供电限制等因素增加了项目落地风险。",
@@ -3216,25 +3249,6 @@
       ],
       "section": "ai",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-coast-guard-allows-philippines-injured-transfer-f3c71f",
-      "title": "中国海警称允许菲方转运仁爱礁伤员",
-      "description": "菲律宾海警4409号船10月8日赴仁爱礁附近海域，转运坐滩船只上的一名伤员。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T08:41:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/china-coast-guard-allows-philippines-injured-transfer-f3c71f",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -3603,24 +3617,6 @@
         "世界日报"
       ],
       "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "us-doj-sues-uni-tile-over-tariff-fraud-de06ee",
-      "title": "美国司法部起诉友利公司追讨近2.9亿美元",
-      "description": "美国司法部10月8日对北加州湾区建材进口商友利磁砖云石公司（Uni-Tile & Marble Inc.）及其首席执行官潘新棉提起民事欺诈诉讼，要求两被告承担连带责任，追缴被指欠缴的6790万美元关税，并支付2亿2250万美元欺诈罚款，合计约2.9亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T06:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/us-doj-sues-uni-tile-over-tariff-fraud-de06ee",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 2,
       "sources": []
     },
@@ -4447,24 +4443,6 @@
         "中央通訊社"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-data-centers-shift-northwest-107156",
-      "title": "中国数据中心新增容量预计将转向北部和西北部",
-      "description": "彭博新能源财经（BNEF）预测，中国数据中心投运IT容量将从2025年的20.6GW增至2030年的45.5GW，年复合增长率为17%；同期数据中心用电需求将增至329TWh，较2025年增长151%，相当于2030年全国全社会用电量的2.4%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-06T14:33:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/china-data-centers-shift-northwest-107156",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "tech",
       "sourceCount": 1,
       "sources": []
     },
