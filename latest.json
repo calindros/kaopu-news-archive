@@ -1,11 +1,71 @@
 {
   "details": {
     "date": "2026-10-11",
-    "timestamp": 1791732838,
+    "timestamp": 1791740502,
     "totalPages": 1,
     "total": 281
   },
   "stories": [
+    {
+      "id": "houthis-claim-strikes-saudi-targets-9f88db",
+      "title": "沙特利雅得机场遭袭造成12死309伤",
+      "description": "沙特首都利雅得的哈立德国王国际机场10月10日遭到袭击。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T16:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/houthis-claim-strikes-saudi-targets-9f88db",
+      "reference": [
+        "法广",
+        "联合早报",
+        "公视",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 37,
+      "sources": []
+    },
+    {
+      "id": "eu-trade-chief-beijing-talks-a85d92",
+      "title": "欧盟据报计划将中国混动车进口量减半",
+      "description": "欧盟拟采取保障措施，将中国混合动力汽车年进口量从2026年预计约80万辆降至约40万辆。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T16:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/eu-trade-chief-beijing-talks-a85d92",
+      "reference": [
+        "联合早报",
+        "法广",
+        "中央通訊社",
+        "纽约时报"
+      ],
+      "section": "world",
+      "sourceCount": 39,
+      "sources": []
+    },
+    {
+      "id": "sudan-uqaydat-gold-mine-airstrikes-37c032",
+      "title": "苏丹乌韦纳特山金矿空袭 当地媒体称数十死数百伤",
+      "description": "10月10日上午，苏丹东北部靠近红海的乌韦纳特山非正规金矿区遭战机多轮空袭。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T15:39:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-11",
+      "url": "https://kaopu.news/story/2026-10-11/sudan-uqaydat-gold-mine-airstrikes-37c032",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "trump-announces-russia-ukraine-energy-ceasefire-9b52c3",
       "title": "特朗普宣布俄乌即刻停止打击能源设施",
@@ -48,24 +108,21 @@
       "sources": []
     },
     {
-      "id": "houthis-claim-strikes-saudi-targets-9f88db",
-      "title": "利雅得机场遇袭致12人死亡309人受伤",
-      "description": "沙特民航总局公布，利雅得哈立德国王国际机场10月10日遭袭，造成12人死亡、309人受伤，部分伤者伤势严重。",
+      "id": "yixin-group-apologizes-insolvency-risk-ad7d94",
+      "title": "宜信集团向类固收客户致歉称可能已资不抵债",
+      "description": "10月11日晚，宜信集团通过瑞承APP、宜人优选APP向类固收产品客户定向发送致歉信，称相关产品已实质违约。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-11T15:07:00+00:00",
+      "updatedAt": "2026-10-11T15:13:34.819652+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/houthis-claim-strikes-saudi-targets-9f88db",
+      "publishedAt": "2026-10-11",
+      "url": "https://kaopu.news/story/2026-10-11/yixin-group-apologizes-insolvency-risk-ad7d94",
       "reference": [
-        "法广",
-        "联合早报",
-        "公视",
-        "澎湃新闻"
+        "第一财经"
       ],
-      "section": "world",
-      "sourceCount": 36,
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -124,6 +181,25 @@
       ],
       "section": "china",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "harbin-pharma-president-lu-chuanyou-detained-cb9547",
+      "title": "哈药股份董事总裁芦传有被立案并留置",
+      "description": "哈药股份称近日收到相关监察委员会关于公司董事、总裁芦传有的立案通知书和留置通知书。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T14:11:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-11",
+      "url": "https://kaopu.news/story/2026-10-11/harbin-pharma-president-lu-chuanyou-detained-cb9547",
+      "reference": [
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -866,24 +942,6 @@
       ],
       "section": "us",
       "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "harbin-pharma-president-lu-chuanyou-detained-cb9547",
-      "title": "哈药股份总裁芦传有被立案并留置",
-      "description": "哈药股份10月11日公告称，公司近日收到相关监察委员会关于董事、总裁芦传有的《立案通知书》和《留置通知书》。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-11T09:07:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-11",
-      "url": "https://kaopu.news/story/2026-10-11/harbin-pharma-president-lu-chuanyou-detained-cb9547",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1935,27 +1993,6 @@
       "sources": []
     },
     {
-      "id": "eu-trade-chief-beijing-talks-a85d92",
-      "title": "欧盟拟将中国混动车年进口量减半",
-      "description": "中国商务部长王文涛与欧盟委员会贸易和经济安全委员马罗什·谢夫乔维奇于10月8日至9日在北京举行中欧贸易投资磋商机制第二次例会，双方形成涵盖贸易投资、出口管制、知识产权和世贸组织改革等领域的16项成果共识。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-11T00:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/eu-trade-chief-beijing-talks-a85d92",
-      "reference": [
-        "联合早报",
-        "法广",
-        "中央通訊社",
-        "纽约时报"
-      ],
-      "section": "world",
-      "sourceCount": 38,
-      "sources": []
-    },
-    {
       "id": "hongtai-tightens-control-guohua-life-leadership-88d786",
       "title": "宏泰集团加强管控国华人寿核心管理层将调整",
       "description": "湖北地方国资宏泰集团作为国华人寿第五大股东，近期逐步加强对公司的管控；国华人寿董事长、总经理等核心管理人员近日将调整。",
@@ -2123,25 +2160,6 @@
       ],
       "section": "life",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "russian-airstrike-zaporizhzhia-kills-11-41ce55",
-      "title": "俄军空袭扎波罗热住宅区致11人死亡含3名儿童",
-      "description": "俄罗斯军方10月10日清晨空袭乌克兰东南部扎波罗热市住宅区。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-10T13:33:54+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/russian-airstrike-zaporizhzhia-kills-11-41ce55",
-      "reference": [
-        "联合早报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -3111,24 +3129,6 @@
         "澎湃新闻"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-urges-higher-rd-tax-deduction-tech-smes-19df67",
-      "title": "中央要求提高科技型中小企业研发费用加计扣除比例",
-      "description": "中共中央、国务院10月9日公开《中共中央 国务院关于发展新质生产力的意见》。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-10T03:02:38.311953+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/china-urges-higher-rd-tax-deduction-tech-smes-19df67",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
