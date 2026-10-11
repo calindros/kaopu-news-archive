@@ -1,11 +1,71 @@
 {
   "details": {
     "date": "2026-10-11",
-    "timestamp": 1791707287,
+    "timestamp": 1791711256,
     "totalPages": 1,
     "total": 280
   },
   "stories": [
+    {
+      "id": "china-plans-live-fire-military-drills-five-seas-b61cb6",
+      "title": "中国将在五处海域开展实弹射击等军事活动",
+      "description": "中国多地海事部门已发布航行警告，安排自10月12日起至17日在渤海、黄海、东海和南中国海至少五处海域开展实装作业、实弹射击及军事训练。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T08:03:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-11",
+      "url": "https://kaopu.news/story/2026-10-11/china-plans-live-fire-military-drills-five-seas-b61cb6",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "houthis-claim-strikes-saudi-targets-9f88db",
+      "title": "利雅得机场遭袭致12人死亡309人受伤",
+      "description": "沙特阿拉伯首都利雅得的哈立德国王国际机场客运航站楼10月10日遭袭。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T07:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/houthis-claim-strikes-saudi-targets-9f88db",
+      "reference": [
+        "法广",
+        "联合早报",
+        "公视",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 27,
+      "sources": []
+    },
+    {
+      "id": "china-proposes-ban-fully-hidden-car-handles-9e2120",
+      "title": "四部门拟禁止全隐藏式门把手及折叠、柔性显示屏",
+      "description": "工业和信息化部、公安部、生态环境部、市场监管总局10月10日发布征求意见稿，拟加强汽车创新设计及研发测试验证管理，并禁止汽车采用全隐藏式车门把手、折叠显示屏和柔性显示屏。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T07:42:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-10",
+      "url": "https://kaopu.news/story/2026-10-10/china-proposes-ban-fully-hidden-car-handles-9e2120",
+      "reference": [
+        "第一财经",
+        "澎湃新闻",
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 9,
+      "sources": []
+    },
     {
       "id": "trump-suggests-ukraine-leadership-change-for-deal-415c04",
       "title": "特朗普要求乌克兰更换总统以推动对俄协议",
@@ -64,6 +124,26 @@
       "sources": []
     },
     {
+      "id": "china-supreme-court-relic-crime-cases-e3954b",
+      "title": "最高法发布六起文物犯罪案例余某才获刑12年",
+      "description": "中国最高人民法院与国家文物局10月10日联合发布六起依法惩治文物犯罪典型案例。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T06:56:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-10",
+      "url": "https://kaopu.news/story/2026-10-10/china-supreme-court-relic-crime-cases-e3954b",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
       "id": "central-huijin-names-21-impostor-firms-fed215",
       "title": "中央汇金公司公布21家仿冒企业名单",
       "description": "中央汇金投资有限责任公司10月9日在官网发布防范冒名诈骗的声明，并公布21家仿冒企业名单。",
@@ -83,8 +163,8 @@
     },
     {
       "id": "macron-approval-hits-lowest-since-2017-2ee75b",
-      "title": "马克龙正面评价跌至2017年上任以来最低水平",
-      "description": "法新社称，益普索与BVA-Cesi于10月10日公布的联合民调显示，15%的受访者对法国总统马克龙持正面看法，较上月减少1个百分点，创他2017年就任以来最低值。",
+      "title": "马克龙正面评价降至上任以来最低点",
+      "description": "益普索与BVA-Cesi于10月10日公布联合民调；法广也报道了这项调查。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -93,10 +173,11 @@
       "publishedAt": "2026-10-11",
       "url": "https://kaopu.news/story/2026-10-11/macron-approval-hits-lowest-since-2017-2ee75b",
       "reference": [
+        "法广",
         "联合早报"
       ],
       "section": "world",
-      "sourceCount": 1,
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -169,6 +250,45 @@
       ],
       "section": "world",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "cheng-li-wun-urges-taiwan-peace-d07f6a",
+      "title": "郑丽文称应主动争取和平降低台海风险",
+      "description": "日本新潮社旗下数字媒体“新潮QUE”于9日刊出中国国民党主席郑丽文的专访，内容涉及两岸关系、台日及台美交流，以及台湾如何在国际局势变化中争取主动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T06:38:04+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-11",
+      "url": "https://kaopu.news/story/2026-10-11/cheng-li-wun-urges-taiwan-peace-d07f6a",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "isaias-hurricane-strengthens-nears-gulf-coast-175adb",
+      "title": "飓风伊塞亚斯登陆佛州造成至少四人死亡",
+      "description": "飓风伊塞亚斯于10月9日晚在佛罗里达州德斯坦附近登陆，登陆时持续风速约每小时165公里，属于二级飓风，之后迅速减弱为热带气旋。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T06:31:47+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-09",
+      "url": "https://kaopu.news/story/2026-10-09/isaias-hurricane-strengthens-nears-gulf-coast-175adb",
+      "reference": [
+        "世界日报",
+        "法广",
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "us",
+      "sourceCount": 12,
       "sources": []
     },
     {
@@ -423,27 +543,6 @@
       "sources": []
     },
     {
-      "id": "isaias-hurricane-strengthens-nears-gulf-coast-175adb",
-      "title": "飓风以赛亚登陆佛州后致东南部至少4人死亡",
-      "description": "飓风“以赛亚”在佛罗里达州德斯廷附近以二级飓风强度登陆，随后迅速减弱为热带气旋。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-11T06:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/isaias-hurricane-strengthens-nears-gulf-coast-175adb",
-      "reference": [
-        "世界日报",
-        "法广",
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "us",
-      "sourceCount": 11,
-      "sources": []
-    },
-    {
       "id": "state-farm-raises-illinois-home-insurance-rates-9dd206",
       "title": "State Farm上调伊州房屋险费率7.9%",
       "description": "State Farm今年秋季上调伊利诺伊州房屋保险费率，整体平均涨幅约7.9%，约148万份保单将受影响。",
@@ -520,8 +619,8 @@
     },
     {
       "id": "lai-ching-te-national-day-benefit-speech-a7bbad",
-      "title": "赖清德国庆演说主张以防卫吓阻战争",
-      "description": "台湾总统赖清德10月10日在台北总统府前发表题为“台湾：山巅之城，地上的盐，世上的光”的国庆演说，谈及经济、社会福利、国防及两岸关系。",
+      "title": "中国国台办和国防部批评赖清德双十演说",
+      "description": "台湾总统赖清德10月10日在台北总统府前举行的双十庆祝活动上发表演说，以“山巅之城”为题，谈及经济民生、国防和两岸关系。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -536,7 +635,7 @@
         "英国广播公司"
       ],
       "section": "asia",
-      "sourceCount": 48,
+      "sourceCount": 49,
       "sources": []
     },
     {
@@ -594,48 +693,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "houthis-claim-strikes-saudi-targets-9f88db",
-      "title": "胡塞武装袭击利雅得机场致12死309伤",
-      "description": "沙特民航总局11日通报，利雅得哈立德国王国际机场于10月10日下午遭袭，造成12人死亡、309人受伤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-11T05:35:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/houthis-claim-strikes-saudi-targets-9f88db",
-      "reference": [
-        "法广",
-        "联合早报",
-        "公视",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 24,
-      "sources": []
-    },
-    {
-      "id": "china-proposes-ban-fully-hidden-car-handles-9e2120",
-      "title": "四部门拟收紧汽车创新设计准入管理",
-      "description": "中国工业和信息化部会同公安部、生态环境部、国家市场监督管理总局于10月10日发布征求意见稿，拟把汽车创新设计的安全环保评估和研发测试验证纳入产品准入管理。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-11T05:16:14+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/china-proposes-ban-fully-hidden-car-handles-9e2120",
-      "reference": [
-        "第一财经",
-        "澎湃新闻",
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -749,6 +806,27 @@
       ],
       "section": "culture",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tsai-ing-wen-stanford-speeches-d906eb",
+      "title": "蔡英文卸任后首次访美阐述台湾安全与科技角色",
+      "description": "台湾前总统蔡英文于10月7日在斯坦福大学出席Stanford DEFCON科技与国家安全会议并发表开幕演讲，次日参加胡佛研究所论坛。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T04:10:41+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-02",
+      "url": "https://kaopu.news/story/2026-10-02/tsai-ing-wen-stanford-speeches-d906eb",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "世界日报",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 32,
       "sources": []
     },
     {
@@ -917,25 +995,6 @@
         "中央通訊社"
       ],
       "section": "ai",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "china-supreme-court-relic-crime-cases-e3954b",
-      "title": "两部门公布六起文物犯罪典型案例",
-      "description": "中国最高人民法院、国家文物局10月10日联合公布六起文物犯罪典型案例，涉及损毁遗址、盗掘古墓、倒卖文物及加工涉案文物等行为。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-11T02:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/china-supreme-court-relic-crime-cases-e3954b",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "china",
       "sourceCount": 2,
       "sources": []
     },
@@ -3200,27 +3259,6 @@
       "sources": []
     },
     {
-      "id": "china-plans-song-li-who-chief-bid-8f3740",
-      "title": "中国提名宋莉竞选世卫组织总干事",
-      "description": "中国外交部发言人毛宁10月8日在例行记者会上确认，中国已提名宋莉竞选世界卫生组织总干事。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T13:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/china-plans-song-li-who-chief-bid-8f3740",
-      "reference": [
-        "联合早报",
-        "世界日报",
-        "中央通訊社",
-        "财新"
-      ],
-      "section": "china",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "japan-plans-bodyguard-satellite-defense-4a935d",
       "title": "日本防卫省拟引入六颗保镖卫星组建防御体系",
       "description": "参考消息网日前援引日本媒体报道称，日本政府相关人士透露，日本防卫省已开始探讨引入“保镖卫星”，目标是在2035年度前建成由6颗卫星组成的防护体系。",
@@ -3367,24 +3405,6 @@
       "sources": []
     },
     {
-      "id": "indonesia-fires-injured-orangutans-rescued-f30ce0",
-      "title": "印尼救援人员从林火中救出受伤红毛猩猩",
-      "description": "印尼苏门答腊和加里曼丹近月发生林火，威胁红毛猩猩生存。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T11:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/indonesia-fires-injured-orangutans-rescued-f30ce0",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "apple-cuts-iphone-18-pro-orders-810ac0",
       "title": "苹果据报下调iPhone 18 Pro系列零部件订单",
       "description": "苹果要求供应商减少iPhone 18 Pro和iPhone 18 Pro Max部分零部件订单，10月订单量较最初计划至少下调15%。",
@@ -3401,25 +3421,6 @@
       ],
       "section": "tech",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "prudential-confirms-five-point-two-billion-yen-losses-8f8096",
-      "title": "日本金融厅令保德信生命保险部分业务停业",
-      "description": "日本金融厅依据《保险业法》对保德信生命保险下达部分业务停业命令。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T10:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/prudential-confirms-five-point-two-billion-yen-losses-8f8096",
-      "reference": [
-        "中央通訊社",
-        "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
       "sources": []
     },
     {
