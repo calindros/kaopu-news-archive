@@ -7,13 +7,54 @@
   },
   "stories": [
     {
-      "id": "houthis-claim-strikes-saudi-targets-9f88db",
-      "title": "沙特利雅得机场遭袭致12死309人受伤",
-      "description": "沙特首都利雅得的哈立德国王国际机场10月10日遭袭。",
+      "id": "trump-announces-russia-ukraine-energy-ceasefire-9b52c3",
+      "title": "特朗普宣布俄乌即刻停止打击能源设施",
+      "description": "澎湃新闻援引新华社华盛顿10月11日消息报道，美国总统特朗普当天在社交媒体宣布，俄罗斯与乌克兰即刻停止相互打击能源设施，并称双方均已同意；法广和联合早报也报道了这一声明。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-11T14:20:00+00:00",
+      "updatedAt": "2026-10-11T15:34:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-11",
+      "url": "https://kaopu.news/story/2026-10-11/trump-announces-russia-ukraine-energy-ceasefire-9b52c3",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "trump-suggests-ukraine-leadership-change-for-deal-415c04",
+      "title": "泽连斯基称乌领导人应由乌克兰人民决定",
+      "description": "乌克兰总统弗拉基米尔·泽连斯基11日接受美国广播公司（ABC）采访时，回应美国总统唐纳德·特朗普要求乌克兰更换总统、举行选举的言论。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T15:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-10",
+      "url": "https://kaopu.news/story/2026-10-10/trump-suggests-ukraine-leadership-change-for-deal-415c04",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "联合早报",
+        "英国广播公司"
+      ],
+      "section": "world",
+      "sourceCount": 13,
+      "sources": []
+    },
+    {
+      "id": "houthis-claim-strikes-saudi-targets-9f88db",
+      "title": "利雅得机场遇袭致12人死亡309人受伤",
+      "description": "沙特民航总局公布，利雅得哈立德国王国际机场10月10日遭袭，造成12人死亡、309人受伤，部分伤者伤势严重。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T15:07:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-06",
       "url": "https://kaopu.news/story/2026-10-06/houthis-claim-strikes-saudi-targets-9f88db",
@@ -24,7 +65,65 @@
         "澎湃新闻"
       ],
       "section": "world",
-      "sourceCount": 34,
+      "sourceCount": 36,
+      "sources": []
+    },
+    {
+      "id": "indonesia-deploys-forces-fight-forest-fires-8fb748",
+      "title": "印尼外长向马来西亚说明林火处置措施",
+      "description": "印尼外长阿曼纳塔向马来西亚外长莫哈末哈山介绍苏门答腊岛和加里曼丹岛林火扑救情况。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T14:37:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-10",
+      "url": "https://kaopu.news/story/2026-10-10/indonesia-deploys-forces-fight-forest-fires-8fb748",
+      "reference": [
+        "当今大马",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "dongchedi-claims-maextro-v800-brake-bracket-failure-5f7241",
+      "title": "懂车帝测试显示三辆尊界V800制动踏板支架均断裂",
+      "description": "懂车帝10月8日发布的测试视频显示，三辆全新尊界V800在时速100公里紧急制动时，均发生制动踏板支架断裂。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T14:33:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/dongchedi-claims-maextro-v800-brake-bracket-failure-5f7241",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "财新",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
+      "id": "mongolia-grassland-fire-nears-inner-mongolia-border-53c8f4",
+      "title": "蒙古国草原火逼近内蒙古边境暂未入境",
+      "description": "蒙古国境内草原火自10月9日起向内蒙古边境蔓延，内蒙古调集2000余人开展堵截。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T14:12:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-11",
+      "url": "https://kaopu.news/story/2026-10-11/mongolia-grassland-fire-nears-inner-mongolia-border-53c8f4",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -174,27 +273,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "trump-suggests-ukraine-leadership-change-for-deal-415c04",
-      "title": "泽连斯基以对等停火条件回应特朗普施压",
-      "description": "美国总统特朗普10月10日要求乌克兰停止袭击俄罗斯炼油厂，并呼吁乌克兰举行大选、更换总统，选择愿与俄罗斯达成协议的新领导人。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-11T13:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/trump-suggests-ukraine-leadership-change-for-deal-415c04",
-      "reference": [
-        "澎湃新闻",
-        "法广",
-        "联合早报",
-        "英国广播公司"
-      ],
-      "section": "world",
-      "sourceCount": 11,
       "sources": []
     },
     {
@@ -556,27 +634,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "dongchedi-claims-maextro-v800-brake-bracket-failure-5f7241",
-      "title": "尊界承诺为已交付V800免费升级制动踏板",
-      "description": "懂车帝10月8日发布的实测视频显示，三辆全新、未改装的尊界V800在每小时100公里的连续紧急制动测试中，制动踏板支架均出现断裂。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-11T10:35:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/dongchedi-claims-maextro-v800-brake-bracket-failure-5f7241",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "财新",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 14,
       "sources": []
     },
     {
@@ -2125,24 +2182,6 @@
       "sources": []
     },
     {
-      "id": "abbas-postpones-palestinian-parliament-election-327b9c",
-      "title": "阿巴斯将巴勒斯坦立法会选举改至2027年9月11日",
-      "description": "法新社引述巴勒斯坦官方媒体称，阿巴斯于2026年10月10日签署总统令，将原定于2026年11月28日举行的立法会选举改至2027年9月11日；总统选举也定于同日举行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-10T13:09:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/abbas-postpones-palestinian-parliament-election-327b9c",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "trump-mandates-immediate-ai-incident-reporting-d08dba",
       "title": "美国要求AI公司立即上报安全事故",
       "description": "美国政府10月9日要求所有人工智能公司立即报告涉及其模型的安全事故，并采取补救措施。",
@@ -3040,24 +3079,6 @@
       "sources": []
     },
     {
-      "id": "indonesia-deploys-forces-fight-forest-fires-8fb748",
-      "title": "印尼调派数万人员扑救森林和土地火灾",
-      "description": "印尼驻吉隆坡大使馆在报道前一天发布文告称，印尼政府正调集数以万计人员，并派出飞机和直升机扑救境内森林及土地火灾。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-10T04:09:57+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/indonesia-deploys-forces-fight-forest-fires-8fb748",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "hertha-metals-builds-high-purity-iron-plant-779298",
       "title": "Hertha Metals开建年产万吨高纯度铁厂",
       "description": "美国初创企业Hertha Metals于10月8日在得克萨斯州康罗市举行年产能1万吨的高纯度铁商业化工厂开工仪式。",
@@ -3476,24 +3497,6 @@
       "url": "https://kaopu.news/story/2026-10-09/china-emergency-ministry-proposes-tighter-fireworks-f05a0b",
       "reference": [
         "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-tax-agencies-pursue-overseas-tax-debts-dcbe7f",
-      "title": "中国地方税务部门追缴富豪境外投资欠税",
-      "description": "中国多省税务部门近几个月开始追缴中国富豪拖欠的境外投资收益税款，并要求相关人士在十月底前补缴过去三至五年的税款。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T14:14:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/china-tax-agencies-pursue-overseas-tax-debts-dcbe7f",
-      "reference": [
-        "德国之声"
       ],
       "section": "china",
       "sourceCount": 1,
