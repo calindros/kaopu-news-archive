@@ -8,12 +8,12 @@
   "stories": [
     {
       "id": "houthis-claim-strikes-saudi-targets-9f88db",
-      "title": "沙特利雅得机场遭袭造成12死309伤",
-      "description": "沙特首都利雅得的哈立德国王国际机场10月10日遭到袭击。",
+      "title": "利雅得机场遇袭致12死309伤",
+      "description": "沙特首都利雅得的哈立德国王国际机场10月10日遭袭。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-11T16:11:00+00:00",
+      "updatedAt": "2026-10-11T18:50:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-06",
       "url": "https://kaopu.news/story/2026-10-06/houthis-claim-strikes-saudi-targets-9f88db",
@@ -24,7 +24,7 @@
         "澎湃新闻"
       ],
       "section": "world",
-      "sourceCount": 37,
+      "sourceCount": 39,
       "sources": []
     },
     {
@@ -49,8 +49,28 @@
       "sources": []
     },
     {
+      "id": "trump-announces-russia-ukraine-energy-ceasefire-9b52c3",
+      "title": "特朗普称俄乌同意即刻停止攻击能源设施",
+      "description": "10月11日，美国总统特朗普在Truth Social发文称，俄乌冲突即刻进入“能源停火”，双方同意停止打击彼此的能源基础设施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-11T16:01:46+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-11",
+      "url": "https://kaopu.news/story/2026-10-11/trump-announces-russia-ukraine-energy-ceasefire-9b52c3",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
       "id": "sudan-uqaydat-gold-mine-airstrikes-37c032",
-      "title": "苏丹乌韦纳特山金矿空袭 当地媒体称数十死数百伤",
+      "title": "据报苏丹乌韦纳特山金矿遭战机多轮空袭",
       "description": "10月10日上午，苏丹东北部靠近红海的乌韦纳特山非正规金矿区遭战机多轮空袭。",
       "context": "",
       "keyFacts": [],
@@ -64,26 +84,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-announces-russia-ukraine-energy-ceasefire-9b52c3",
-      "title": "特朗普宣布俄乌即刻停止打击能源设施",
-      "description": "澎湃新闻援引新华社华盛顿10月11日消息报道，美国总统特朗普当天在社交媒体宣布，俄罗斯与乌克兰即刻停止相互打击能源设施，并称双方均已同意；法广和联合早报也报道了这一声明。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-11T15:34:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-11",
-      "url": "https://kaopu.news/story/2026-10-11/trump-announces-russia-ukraine-energy-ceasefire-9b52c3",
-      "reference": [
-        "澎湃新闻",
-        "法广",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -109,8 +109,8 @@
     },
     {
       "id": "yixin-group-apologizes-insolvency-risk-ad7d94",
-      "title": "宜信集团向类固收客户致歉称可能已资不抵债",
-      "description": "10月11日晚，宜信集团通过瑞承APP、宜人优选APP向类固收产品客户定向发送致歉信，称相关产品已实质违约。",
+      "title": "第一财经报道宜信致歉称集团可能资不抵债",
+      "description": "宜信集团10月11日晚通过瑞承、宜人优选两款APP向类固收产品投资者定向推送致歉信，称相关产品已构成实质违约。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -167,8 +167,8 @@
     },
     {
       "id": "mongolia-grassland-fire-nears-inner-mongolia-border-53c8f4",
-      "title": "蒙古国草原火逼近内蒙古边境暂未入境",
-      "description": "蒙古国境内草原火自10月9日起向内蒙古边境蔓延，内蒙古调集2000余人开展堵截。",
+      "title": "澎湃新闻称内蒙古调集两千余人堵截蒙古国草原火",
+      "description": "澎湃新闻援引相关部门消息称，10月9日13时许，蒙古国境内东乌珠穆沁旗边境一带发生草原火情，随后向内蒙古边界推进。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -185,8 +185,8 @@
     },
     {
       "id": "harbin-pharma-president-lu-chuanyou-detained-cb9547",
-      "title": "哈药股份董事总裁芦传有被立案并留置",
-      "description": "哈药股份称近日收到相关监察委员会关于公司董事、总裁芦传有的立案通知书和留置通知书。",
+      "title": "哈药股份总裁芦传有被立案并留置",
+      "description": "哈药股份称，近日收到相关监察委员会就公司董事、总裁芦传有发出的立案通知书和留置通知书。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -223,7 +223,7 @@
     {
       "id": "zheng-qinwen-wins-china-open-title-95e8ff",
       "title": "郑钦文击败安德烈耶娃首夺中网女单冠军",
-      "description": "郑钦文在北京时间10月11日晚举行的中国网球公开赛女单决赛中，以7比5、6比4战胜俄罗斯选手安德烈耶娃，夺得冠军。",
+      "description": "郑钦文在中国网球公开赛女单决赛中以7比5、6比4战胜俄罗斯选手安德烈耶娃，捧起冠军奖杯，成为中网历史上首位夺得女单冠军的中国选手。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -241,8 +241,8 @@
     },
     {
       "id": "fsb-rates-china-backstop-financing-noncompliant-6a9d92",
-      "title": "金融稳定理事会将中国大陆后备融资机制评为重大不合规",
-      "description": "金融稳定理事会当地时间10月9日发布《公共部门后备融资机制专题评估报告》，审视银行危机中的公共部门后备融资安排，并将中国大陆相关制度总体评为“重大不合规”。",
+      "title": "金融稳定理事会评中国大陆后备融资机制重大不合规",
+      "description": "金融稳定理事会10月9日发布《公共部门后备融资机制专题评估报告》，评估银行危机处置中的公共部门后备融资安排。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -259,8 +259,8 @@
     },
     {
       "id": "imf-urges-china-new-growth-model-391184",
-      "title": "IMF建议中国转向消费与生产率驱动的新增长模式",
-      "description": "国际货币基金组织（IMF）近日发布专项报告，建议中国调整投资和出口主导的增长结构，转向由消费、服务业和生产率提升共同带动的新模式。",
+      "title": "IMF建议中国经济转向新增长模式",
+      "description": "国际货币基金组织（IMF）近日发布238页专项报告，建议中国从投资和出口主导的增长路径，转向由消费、服务业和生产率提升带动的新模式。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -298,8 +298,8 @@
     },
     {
       "id": "mortgage-subsidy-policy-benefits-homebuyers-05c9d6",
-      "title": "全国房贷贴息政策落地十天购房者开始受益",
-      "description": "居民购房贷款贴息措施自10月1日起在全国实施。",
+      "title": "多家银行推动房贷贴息落地购房者开始受益",
+      "description": "居民购房贷款贴息政策自10月1日起在全国实施。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -316,8 +316,8 @@
     },
     {
       "id": "china-idle-greenhouse-subsidy-construction-fraud-dd9cec",
-      "title": "多地设施农业大棚荒废引出补贴与垫资问题",
-      "description": "央视《财经调查》调查发现，吉林、内蒙古等地多个设施农业大棚项目长期闲置，部分仍领取补贴；内蒙古通辽一处农业园项目的施工人员则称，施工队垫资进场后工程款迟迟未结，项目停工，负责人失联。",
+      "title": "央视调查发现吉林荒废大棚仍领补贴",
+      "description": "央视《财经调查》调查发现，吉林一处近千亩设施农业园区的大部分大棚长期闲置，仍有棚体获得补助；内蒙古通辽一项农业园工程进展迟缓，施工方称垫资后未拿到工程款。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -334,8 +334,8 @@
     },
     {
       "id": "china-plans-live-fire-military-drills-five-seas-b61cb6",
-      "title": "中国军方将在至少五处海域开展军事活动",
-      "description": "中国人民解放军将于10月12日至17日在渤海、黄海、东海和南海至少五处海域开展实装作业、实弹射击及军事训练。",
+      "title": "中国军方将于至少五处海域开展军事活动",
+      "description": "中国军方将于10月12日至17日在渤海、黄海、东海和南海至少五处海域开展实装作业、实弹射击及军事训练，涉及河北、辽宁、江苏、浙江和广东附近海域，指定时段禁止船舶驶入。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -374,8 +374,8 @@
     },
     {
       "id": "pope-leo-xiv-lung-nodule-surgery-b05e3e",
-      "title": "教宗良十四世将接受肺部结节切除手术",
-      "description": "教宗良十四世10月11日在梵蒂冈圣伯多禄广场的每周例行活动中披露，近期检查发现其肺部有一处小结节，发现较早且范围局限。",
+      "title": "教宗良十四世将手术切除肺部早期结节",
+      "description": "教宗良十四世10月11日在梵蒂冈圣伯多禄广场主持每周祈祷活动时，公布医生在其肺部发现小结节。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -394,7 +394,7 @@
     {
       "id": "seres-huawei-harmonyos-five-year-deal-243777",
       "title": "赛力斯与华为鸿蒙智行签署五年合作协议",
-      "description": "赛力斯与华为鸿蒙智行10月1日签署新的五年合作协议，并将组建问界业务专属团队，进一步升级相关业务。",
+      "description": "赛力斯与华为鸿蒙智行10月1日宣布签订新的五年协议，并将成立问界业务专属团队，推动问界业务升级。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -411,8 +411,8 @@
     },
     {
       "id": "lai-speech-us-southeast-asia-positions-03256c",
-      "title": "澎湃评论称赖清德“双十”讲话与外部立场脱节",
-      "description": "台湾总统赖清德10月10日发表“双十”讲话。",
+      "title": "澎湃评论称赖清德讲话与美东南亚对台立场不符",
+      "description": "台湾总统赖清德10月10日发表“双十”讲话后，澎湃新闻刊发评论称，他仍坚持“台独”立场，并试图营造国际社会及亚太国家会与台湾共同应对台海问题的印象。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -450,8 +450,8 @@
     },
     {
       "id": "electric-bike-certificates-suspended-sales-disrupted-74c69a",
-      "title": "工厂未通过监督检查致大量电动自行车3C证书暂停",
-      "description": "近期大量电动自行车因工厂监督检查未通过，3C证书被暂停。",
+      "title": "财新报道中国大陆大量电动自行车3C证书被暂停",
+      "description": "财新报道，中国大陆大量电动自行车产品的3C证书近期因工厂未通过监督检查而暂停，多名经销商称店内车辆无法上牌，销售受影响。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -468,8 +468,8 @@
     },
     {
       "id": "savings-bonds-sell-out-bank-branches-ff926d",
-      "title": "储蓄国债首发日多地网点额度迅速售罄",
-      "description": "财政部发行的2026年第七期和第八期储蓄国债于10月10日开售后，北京多家银行网点的额度很快售完。",
+      "title": "储蓄国债首日开售多家北京网点额度售罄",
+      "description": "财政部发行的2026年第七期和第八期储蓄国债10月10日开售后，北京多家银行网点额度很快售完。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -524,8 +524,8 @@
     },
     {
       "id": "olson-says-technical-standards-rival-tariffs-7463c2",
-      "title": "奥尔森称技术标准隐性保护可比关税更有效",
-      "description": "美国前贸易谈判官员、现任新加坡尤索夫伊萨东南亚研究院客座资深研究员斯蒂芬·奥尔森，在近期举行的2026年慧眼中国环球论坛期间接受专访，讨论边境后政策、贸易限制和特朗普政府的政策工具。",
+      "title": "奥尔森称技术标准正成为强效隐性贸易壁垒",
+      "description": "美国前贸易谈判官员、现任新加坡尤索夫伊萨东南亚研究院客座资深研究员斯蒂芬·奥尔森，在近期举行的2026年慧眼中国环球论坛期间接受第一财经专访时表示，贸易限制正更多出现在关税之外。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -542,8 +542,8 @@
     },
     {
       "id": "thailand-voluntary-civil-servant-early-retirement-plan-527262",
-      "title": "泰国拟推公务员自愿提前退休计划削减公共开支",
-      "description": "泰国政府计划从2027财政年度起推出公务员自愿提前退休计划，目标是每年减少约5%的公务员，以精简编制、降低公共支出。",
+      "title": "彭博社称泰国拟推公务员自愿退休计划削减开支",
+      "description": "联合早报援引彭博社报道，泰国副首相兼公务员制度委员会主席巴功说，政府拟从2027财政年起实施公务员自愿提前退休计划，目标是每年减少约5%的公务员，以精简编制、削减公共开支。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -620,8 +620,8 @@
     },
     {
       "id": "lee-reports-yoon-couple-prison-funds-6ae421",
-      "title": "李成宪称尹锡悦夫妇羁押首年收21.9亿韩元代管金",
-      "description": "韩国共同民主党议员李成宪11日依据韩国法务部数据称，尹锡悦与妻子金建希被羁押第一年合计收到约21.9亿韩元狱中代管金，约合人民币1100万元。",
+      "title": "李成宪公布尹锡悦夫妇首年狱中收款21.9亿韩元",
+      "description": "韩国共同民主党议员李成宪11日依据韩国法务部数据公布，前总统尹锡悦与妻子金建希被羁押首年共收到约21.9亿韩元狱中代管金，折合人民币约1100万元。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -678,8 +678,8 @@
     },
     {
       "id": "german-panel-urges-eu-china-trade-response-tools-2d5cae",
-      "title": "德国议会专家委员会促欧盟备妥对华反制工具",
-      "description": "德国联邦议院委托成立的专家委员会在首份半年度报告中建议，欧盟应准备更有力的贸易应对手段，以便在中国于贸易争端中采取升级行动时能够反制。",
+      "title": "德国议会专家委员会建议欧盟备好对华反制工具",
+      "description": "德国联邦议院委托设立的专家委员会在首份半年度报告中主张，欧盟应预先准备更有力的贸易政策手段，以便在中国于贸易争端中升级行动时能够反制。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -696,8 +696,8 @@
     },
     {
       "id": "global-survey-finds-science-trust-decline-8c00af",
-      "title": "全球调查发现公众对科学信任度下降",
-      "description": "维康信托联合盖洛普和益普索发布一项覆盖全球逾14万名成年人的调查。",
+      "title": "全球调查显示公众对科学信任度回落",
+      "description": "维康信托联合盖洛普和益普索发布的全球调查显示，公众对科学的信任度已从新冠疫情期间的高位回落。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -734,8 +734,8 @@
     },
     {
       "id": "djibouti-migrant-boat-capsize-deaths-7df424",
-      "title": "吉布提北部海域移民船翻覆致至少109人死亡",
-      "description": "一艘载有约350名移民的船只在吉布提北部奥博克镇以北海域翻覆，事发于10月8日至9日夜间，船只当时正从吉布提前往也门。",
+      "title": "吉布提北部海域移民船翻覆至少139人死亡",
+      "description": "一艘载有约350名移民的船只在吉布提北部奥博克镇以北海域翻覆，事故发生于10月8日至9日夜间。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -753,8 +753,8 @@
     },
     {
       "id": "malaysia-suspends-chery-omoda-5-certification-registration-4eb2bf",
-      "title": "马来西亚暂停奇瑞Omoda 5新车注册",
-      "description": "马来西亚陆路交通局暂停奇瑞Omoda 5的车辆类型认证及新车注册，调查完成并确认安全前，该车型不得继续销售。",
+      "title": "马来西亚陆交局暂停奇瑞Omoda 5认证及新车注册",
+      "description": "马来西亚陆路交通局10月11日暂停奇瑞Omoda 5车辆类型认证和新车注册，直至技术调查完成并确认安全；暂停期间该车型不得销售。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -791,8 +791,8 @@
     },
     {
       "id": "trump-tariffs-iran-war-us-manufacturing-costs-8dc988",
-      "title": "特朗普关税推高美国制造商经营成本",
-      "description": "俄亥俄州铝制品企业Shapes Unlimited首席执行官道格·伦德接受法新社采访时表示，特朗普关税及美以对伊朗作战推高的油价增加了企业成本。",
+      "title": "特朗普关税与伊朗战事推高美国制造商成本",
+      "description": "俄亥俄州北杰克逊的铝制品企业Shapes Unlimited首席执行官道格·伦德称，特朗普关税和美国、以色列对伊朗作战导致的油价上涨，增加了公司的经营和运输成本。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -810,8 +810,8 @@
     },
     {
       "id": "gold-rebounds-recovers-most-weekly-losses-cfa8b5",
-      "title": "黄金跌至4066美元后反弹收复周内多数失地",
-      "description": "国际金价上周先跌后弹：伦敦现货黄金上周三最低至每盎司4066美元，周五盘中回到4200美元上方，收盘报4194美元。",
+      "title": "金价反弹收复周内失地收报每盎司4194美元",
+      "description": "国际金价上周三下探至每盎司4066美元，随后回升，周五盘中重新越过4200美元，最终收于4194美元，收复当周大部分跌幅。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -828,8 +828,8 @@
     },
     {
       "id": "us-colleges-limit-ai-detection-cheating-0262ea",
-      "title": "美国高校限制教师依赖AI检测判定作弊",
-      "description": "耶鲁大学、康奈尔大学等美国高校已禁止或不建议教师把AI检测结果作为认定学生作弊的主要凭据。",
+      "title": "美国高校限制依赖AI检测判定学生作弊",
+      "description": "美国越来越多高校限制教师将AI文本检测工具作为认定学生作弊的主要依据，耶鲁大学、康奈尔大学等已禁止或不鼓励这种做法。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -907,8 +907,8 @@
     },
     {
       "id": "nvidia-reflection-ai-investment-acquisition-f249dc",
-      "title": "辉达商谈加码投资或收购Reflection AI",
-      "description": "英国《金融时报》引述知情人士称，辉达正与美国开源人工智能初创公司Reflection AI商谈加大投资或收购事宜。",
+      "title": "金融时报称辉达探讨Reflection AI交易方案",
+      "description": "英国《金融时报》援引知情人士称，辉达正与美国开源人工智能初创公司Reflection AI商谈多种交易方案，包括加强投资或收购。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -986,8 +986,8 @@
     },
     {
       "id": "malaysia-education-ministry-delegates-school-decisions-3c49ae",
-      "title": "马来西亚教育部授权各州决定学校运作安排",
-      "description": "马来西亚教育部10月10日发布公告，授权各州教育局根据每日空气污染指数，决定州内学校照常上课、停课或改为居家教学。",
+      "title": "马来西亚教育部授权各州教育局决定烟霾期间学校安排",
+      "description": "马来西亚教育部10月10日宣布，授权各州教育局根据每日空气污染指数，决定辖区学校照常上课或改为居家教学。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -1026,7 +1026,7 @@
     {
       "id": "us-justice-department-probes-tv-networks-boycott-5ac164",
       "title": "美国司法部调查五大电视网联合抵制白宫采访",
-      "description": "美国司法部反垄断局10月10日证实，正在调查ABC、CBS、CNN、NBC和福克斯新闻此前暂停参与白宫电视记者团联合采访的做法，核查其是否违反联邦反垄断法。",
+      "description": "美国司法部反垄断局10月10日确认，正在审查ABC、CBS、CNN、NBC和福克斯新闻暂停参与白宫电视记者团联合采访的行为，判断其是否违反联邦反垄断法。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -1063,8 +1063,8 @@
     },
     {
       "id": "venezuela-approves-starlink-nationwide-service-f99bf3",
-      "title": "委内瑞拉批准星链在全国提供服务",
-      "description": "委内瑞拉国家通讯委员会10月9日宣布已向SpaceX在委内瑞拉的子公司发放7张许可证，准许星链在全国运营。",
+      "title": "委内瑞拉批准星链在全国提供网络服务",
+      "description": "委内瑞拉国家通讯委员会（Conatel）10月9日向SpaceX在委内瑞拉的子公司发放7张许可证，批准星链在全国提供服务。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -1081,8 +1081,8 @@
     },
     {
       "id": "world-bank-talks-crisis-aid-countries-c15ff5",
-      "title": "世界银行与三四十国磋商危机援助",
-      "description": "世界银行正与30至40个国家磋商危机援助，帮助它们应对中东战事带来的能源涨价和经济冲击。",
+      "title": "世行与30至40国磋商危机援助",
+      "description": "世界银行正与30至40个国家讨论危机援助，帮助它们应对中东战事带来的能源价格上涨和经济冲击。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
