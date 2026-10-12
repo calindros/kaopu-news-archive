@@ -1,11 +1,126 @@
 {
   "details": {
     "date": "2026-10-12",
-    "timestamp": 1791818275,
+    "timestamp": 1791827079,
     "totalPages": 1,
     "total": 275
   },
   "stories": [
+    {
+      "id": "houthis-claim-strikes-saudi-targets-9f88db",
+      "title": "胡塞武装连续袭击利雅得机场 两次袭击造成多人死伤",
+      "description": "也门胡塞武装10月10日至11日连续袭击沙特首都利雅得哈立德国王国际机场等目标。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T16:38:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/houthis-claim-strikes-saudi-targets-9f88db",
+      "reference": [
+        "法广",
+        "联合早报",
+        "公视",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 58,
+      "sources": []
+    },
+    {
+      "id": "smith-urges-global-ai-safety-rules-b98f4b",
+      "title": "微软总裁呼吁各国制定全球人工智能安全规范",
+      "description": "微软总裁布拉德·史密斯呼吁各国合作制定全球人工智能安全规范，要求企业建立事故通报和紧急处置机制，并由独立机构审查新技术。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T16:04:01+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/smith-urges-global-ai-safety-rules-b98f4b",
+      "reference": [
+        "中央通訊社",
+        "世界日报"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "vinny-mauri-treadmill-chicago-marathon-tenth-6a02cd",
+      "title": "毛里靠跑步机训练获芝加哥马拉松第十名",
+      "description": "25岁的维尼·毛里10月11日在芝加哥马拉松以2小时06分45秒完赛，获得第十名。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T15:59:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/vinny-mauri-treadmill-chicago-marathon-tenth-6a02cd",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "sports",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "yixin-group-apologizes-insolvency-risk-ad7d94",
+      "title": "北京警方立案侦查宜信相关公司并对多人采取强制措施",
+      "description": "10月12日，北京市公安局朝阳分局对宜信相关公司涉嫌违法犯罪立案侦查。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T15:36:37.782559+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-11",
+      "url": "https://kaopu.news/story/2026-10-11/yixin-group-apologizes-insolvency-risk-ad7d94",
+      "reference": [
+        "第一财经",
+        "联合早报",
+        "财新",
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "singapore-unveil-2026-cybersecurity-strategy-5378ab",
+      "title": "新加坡将公布2026年版网络安全策略",
+      "description": "新加坡数码发展及新闻部长杨莉明10月12日在新加坡国际网络周欢迎晚宴上宣布，2026年版《新加坡网络安全策略》将于10月13日公布，为应对网络威胁和建设安全网络空间提供指引。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T15:34:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/singapore-unveil-2026-cybersecurity-strategy-5378ab",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "microsoft-launches-maia-300-ai-chip-a31fc0",
+      "title": "微软发布第三代自研AI芯片Maia 300",
+      "description": "微软宣布推出第三代自研AI芯片Maia 300，计划从2027年起大规模部署，规模达数个吉瓦。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T15:01:18+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/microsoft-launches-maia-300-ai-chip-a31fc0",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "china-plans-live-fire-military-drills-five-seas-b61cb6",
       "title": "中国军方在六处海域展开实弹射击等训练",
@@ -154,6 +269,24 @@
         "世界日报"
       ],
       "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "macron-urges-restraint-amid-french-student-protests-1e0268",
+      "title": "马克龙呼吁法国高中生示威者保持克制",
+      "description": "法国多地高中生近几周用垃圾桶和路障封堵数百所学校的校门，抗议师资不足、课表负担过重、班级人数过多及校舍老旧。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T14:35:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/macron-urges-restraint-amid-french-student-protests-1e0268",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -604,27 +737,6 @@
       "sources": []
     },
     {
-      "id": "houthis-claim-strikes-saudi-targets-9f88db",
-      "title": "利雅得机场两日遇袭造成13死320伤",
-      "description": "沙特首都利雅得的哈立德国王国际机场10月10日至11日连续两天遭袭。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T12:57:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/houthis-claim-strikes-saudi-targets-9f88db",
-      "reference": [
-        "法广",
-        "联合早报",
-        "公视",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 56,
-      "sources": []
-    },
-    {
       "id": "malacca-court-challenge-appointed-assembly-seats-09b2a5",
       "title": "邱培栋与阿德里诉请法院裁定马六甲修宪是否违宪",
       "description": "马来西亚民主行动党甲州主席邱培栋与国家诚信党阿德里已向法院提起诉讼，要求裁定马六甲州政府修宪、授权委任官委州议员的做法是否违反州宪法和联邦宪法。",
@@ -958,24 +1070,6 @@
       ],
       "section": "business",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "smith-urges-global-ai-safety-rules-b98f4b",
-      "title": "微软总裁史密斯呼吁制定全球人工智能安全规范",
-      "description": "微软总裁布拉德·史密斯在英国广播公司刊出的专访中呼吁为人工智能制定全球安全规范，并设立独立机构审查技术进展。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T10:42:56+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/smith-urges-global-ai-safety-rules-b98f4b",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2202,24 +2296,6 @@
       "sources": []
     },
     {
-      "id": "tsmc-kumamoto-five-year-industry-growth-56d927",
-      "title": "台积电进驻熊本五年带动产业集聚",
-      "description": "台积电2021年决定在日本熊本县设厂，至2026年满五年。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T05:24:57+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/tsmc-kumamoto-five-year-industry-growth-56d927",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "nadella-urges-ai-emergency-shutdown-controls-e94953",
       "title": "纳德拉呼吁企业为先进AI建立紧急制动机制",
       "description": "微软首席执行官萨提亚·纳德拉10月10日在社交平台X发文，呼吁部署先进人工智能模型的企业将模型视为潜在内部风险，并从系统部署之初建立人类能够独立掌握的控制机制。",
@@ -2237,27 +2313,6 @@
       ],
       "section": "ai",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "yixin-group-apologizes-insolvency-risk-ad7d94",
-      "title": "北京警方对宜信相关公司立案侦查",
-      "description": "10月12日，北京市公安局朝阳分局通报，近期已对宜信相关公司涉嫌违法犯罪立案侦查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T05:23:44.699594+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-11",
-      "url": "https://kaopu.news/story/2026-10-11/yixin-group-apologizes-insolvency-risk-ad7d94",
-      "reference": [
-        "第一财经",
-        "联合早报",
-        "财新",
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -2470,27 +2525,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "gaza-ceasefire-pledges-remain-unfulfilled-98b227",
-      "title": "加沙停火一周年后以军袭击仍致人员伤亡",
-      "description": "加沙停火协议生效一周年之际，以军袭击仍造成人员伤亡，和平计划后续安排和停火承诺尚未落实。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T04:17:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/gaza-ceasefire-pledges-remain-unfulfilled-98b227",
-      "reference": [
-        "法广",
-        "澎湃新闻",
-        "联合早报",
-        "日本放送协会"
-      ],
-      "section": "world",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -4227,25 +4261,6 @@
       "sources": []
     },
     {
-      "id": "meta-rejects-bytedance-platform-ads-2b4d0e",
-      "title": "Meta禁止字节跳动在旗下平台投放广告",
-      "description": "Meta宣布禁止字节跳动在其旗下平台投放广告，并将限制延伸至第三方广告商：在美国、加拿大、埃及、印度尼西亚、日本、泰国和越南，广告若链接至TikTok或字节跳动其他平台，也不得投放。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T04:49:53+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/meta-rejects-bytedance-platform-ads-2b4d0e",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "spacex-acquires-spectrum-starlink-mobile-service-41fb29",
       "title": "SpaceX达成收购全美800MHz频谱协议拓展星链服务",
       "description": "SpaceX周四宣布，已达成协议，收购一组覆盖全美的800MHz低频段频谱牌照，用于拓展星链移动服务，并建设融合卫星与地面网络的通信系统。",
@@ -5125,24 +5140,6 @@
       ],
       "section": "sports",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-relay-team-wins-silver-asian-games-25abab",
-      "title": "台湾男子4×100米接力破全国纪录摘得亚运银牌",
-      "description": "台湾男子4×100米接力队在名古屋亚运决赛中跑出38秒32，打破全国纪录并获得银牌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-09-28T14:58:58+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-28",
-      "url": "https://kaopu.news/story/2026-09-28/taiwan-relay-team-wins-silver-asian-games-25abab",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "sports",
-      "sourceCount": 4,
       "sources": []
     }
   ]
