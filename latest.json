@@ -1,56 +1,195 @@
 {
   "details": {
     "date": "2026-10-12",
-    "timestamp": 1791782624,
+    "timestamp": 1791786424,
     "totalPages": 1,
     "total": 280
   },
   "stories": [
     {
-      "id": "china-commission-orders-food-safety-crackdown-e67c8f",
-      "title": "中共中央政法委要求从严查处食品安全违法犯罪",
-      "description": "中共中央政法委近日印发《关于依法从严查处危害食品安全违法犯罪的意见》，要求政法机关依法加大对相关违法犯罪的查处力度，并加强同市场监管、农业农村等部门的衔接。",
+      "id": "south-korea-says-north-korea-planted-dmz-mine-3e9e0a",
+      "title": "韩国认定朝鲜地雷致三名韩军受伤",
+      "description": "韩国军方认定，9月21日西部战线非军事区发生的地雷爆炸由朝鲜埋设在军事分界线南侧的反步兵地雷引起，造成3名韩国军官及士官受伤。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-12T04:05:00+00:00",
+      "updatedAt": "2026-10-12T05:16:51+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/south-korea-says-north-korea-planted-dmz-mine-3e9e0a",
+      "reference": [
+        "澎湃新闻",
+        "韩国国际广播电台",
+        "韩民族日报",
+        "法广"
+      ],
+      "section": "asia",
+      "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "taiwan-extends-pilots-service-to-58-5abb88",
+      "title": "台湾允许服役满14年飞行员延役至58岁",
+      "description": "台湾国防部提出《空军专责飞行军官运用办法》，允许服役满14年的资深中校、上校飞行员保留原军衔，延长服役至58岁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T05:00:12+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/china-commission-orders-food-safety-crackdown-e67c8f",
+      "url": "https://kaopu.news/story/2026-10-12/taiwan-extends-pilots-service-to-58-5abb88",
       "reference": [
-        "澎湃新闻"
+        "公视"
       ],
-      "section": "china",
-      "sourceCount": 2,
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
       "id": "yixin-group-apologizes-insolvency-risk-ad7d94",
-      "title": "宜信致歉称类固收产品已实质违约",
-      "description": "宜信集团10月11日晚通过瑞承APP和宜人优选APP，向类固收产品投资者定向推送致歉信，称相关产品已实质违约；集团委托第三方开展清产核资后，初步发现自身可能资不抵债、偿债缺口较大。",
+      "title": "朝阳警方对宜信相关公司涉嫌违法犯罪立案侦查",
+      "description": "北京市公安局朝阳分局已对宜信相关公司涉嫌违法犯罪立案侦查，并对实际控制人唐某、赵某等多名嫌疑人采取刑事强制措施。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-12T03:58:00+00:00",
+      "updatedAt": "2026-10-12T04:58:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-11",
       "url": "https://kaopu.news/story/2026-10-11/yixin-group-apologizes-insolvency-risk-ad7d94",
       "reference": [
         "第一财经",
-        "联合早报"
+        "联合早报",
+        "财新",
+        "澎湃新闻"
       ],
       "section": "business",
-      "sourceCount": 2,
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "singapore-health-sciences-authority-streamlines-innovation-247f11",
+      "title": "新加坡卫生科学局将精简医疗创新审批流程",
+      "description": "新加坡卫生科学局将进一步简化医疗创新项目和临床研究的监管审批。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T04:52:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/singapore-health-sciences-authority-streamlines-innovation-247f11",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "uk-freezes-thet-li-london-assets-d11800",
+      "title": "财新称英国冻结李添伦敦豪宅及逾千万英镑名表资产",
+      "description": "据财新报道，英国冻结了太子集团核心人物李添名下的伦敦豪宅及价值逾千万英镑的奢侈名表资产。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T04:52:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/uk-freezes-thet-li-london-assets-d11800",
+      "reference": [
+        "财新"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-approves-hasan-firing-squad-execution-357269",
+      "title": "澳大利亚考虑屏蔽美军哈桑处决直播",
+      "description": "澳大利亚正考虑是否阻止美国计划中的尼达尔·哈桑处决直播画面在当地播出。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T04:50:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/trump-approves-hasan-firing-squad-execution-357269",
+      "reference": [
+        "世界日报",
+        "英国广播公司",
+        "法广",
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 28,
+      "sources": []
+    },
+    {
+      "id": "delivery-groups-urge-taiwan-regulator-block-grab-deal-c41613",
+      "title": "外送团体请愿要求公平会否决Grab并购案",
+      "description": "全国外送产业工会、台湾外送产业权益协进联盟等团体于2026年10月12日向台湾公平会递交陈情书，要求否决Grab收购foodpanda台湾业务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T04:47:27+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/delivery-groups-urge-taiwan-regulator-block-grab-deal-c41613",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-commission-orders-food-safety-crackdown-e67c8f",
+      "title": "中央政法委部署从严打击食品安全犯罪",
+      "description": "中央政法委近日印发《关于依法从严查处危害食品安全违法犯罪的意见》，要求政法机关加大对食品安全违法犯罪的查处力度。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T04:47:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/china-commission-orders-food-safety-crackdown-e67c8f",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "north-korea-launches-unidentified-object-22f942",
+      "title": "朝鲜从平壤附近发射多枚弹道导弹",
+      "description": "朝鲜12日上午从平壤附近向日本海发射多枚弹道导弹。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T04:45:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/north-korea-launches-unidentified-object-22f942",
+      "reference": [
+        "联合早报",
+        "法广",
+        "韩国国际广播电台",
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 6,
       "sources": []
     },
     {
       "id": "trump-announces-russia-ukraine-energy-ceasefire-9b52c3",
-      "title": "特朗普宣布俄乌同意立即停止袭击能源设施",
-      "description": "美国总统特朗普10月11日在Truth Social发文称，俄罗斯和乌克兰已同意立即停止相互攻击能源基础设施，安排即刻生效。",
+      "title": "特朗普称俄乌即刻停止攻击能源设施",
+      "description": "美国总统特朗普10月11日在社交媒体Truth Social发文称，俄罗斯和乌克兰已同意立即停止攻击对方能源设施，并警告双方不要破坏停火安排。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-12T03:52:37+00:00",
+      "updatedAt": "2026-10-12T04:44:57+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-11",
       "url": "https://kaopu.news/story/2026-10-11/trump-announces-russia-ukraine-energy-ceasefire-9b52c3",
@@ -61,7 +200,142 @@
         "朝鲜日报"
       ],
       "section": "world",
-      "sourceCount": 9,
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "ukrainian-drone-hits-yandex-data-center-a30bcf",
+      "title": "乌克兰无人机袭击央捷科斯数据中心致其停运",
+      "description": "央捷科斯公司10月11日宣布，乌克兰无人机袭击了其位于莫斯科附近弗拉基米尔州的数据中心，设施受损并停止运行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T04:44:47+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/ukrainian-drone-hits-yandex-data-center-a30bcf",
+      "reference": [
+        "日本放送协会"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "houthis-claim-strikes-saudi-targets-9f88db",
+      "title": "利雅得机场遭袭致多人死伤 胡塞武装称发动袭击",
+      "description": "沙特首都利雅得的哈立德国王国际机场10月10日遭袭，造成12人死亡、309人受伤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T04:44:40+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/houthis-claim-strikes-saudi-targets-9f88db",
+      "reference": [
+        "法广",
+        "联合早报",
+        "公视",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 48,
+      "sources": []
+    },
+    {
+      "id": "nepal-landslide-blocks-river-causes-flooding-5d3a4c",
+      "title": "尼泊尔山体滑坡堵河致洪灾五人失踪",
+      "description": "尼泊尔中部廓尔喀县楚姆努布里村10月11日清晨发生山体滑坡，土石堵住布迪甘达基河上游支流，形成的堰塞湖不久后溃决，洪水和泥石流涌向下游，造成5人失踪。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T04:44:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-11",
+      "url": "https://kaopu.news/story/2026-10-11/nepal-landslide-blocks-river-causes-flooding-5d3a4c",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "公视",
+        "日本放送协会"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "beijing-bans-drone-ownership-transfer-6020bb",
+      "title": "北京将禁止持有无人机并要求机主限期转移",
+      "description": "北京市政府9月宣布，北京将禁止持有或存放无人机。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T04:29:04+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/beijing-bans-drone-ownership-transfer-6020bb",
+      "reference": [
+        "澳大利亚广播公司"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "delhi-readies-police-voter-roll-protest-6e9a0f",
+      "title": "印度蟑螂人民党示威要求最高选举官员辞职",
+      "description": "印度青年团体“蟑螂人民党”（CJP）10月10日至11日在新德里举行示威，要求印度首席选举专员库马尔辞职。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T04:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-09",
+      "url": "https://kaopu.news/story/2026-10-09/delhi-readies-police-voter-roll-protest-6e9a0f",
+      "reference": [
+        "联合早报",
+        "日经",
+        "法广",
+        "英国广播公司"
+      ],
+      "section": "asia",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "ememory-security-ip-arm-meta-datacenter-processor-da5fce",
+      "title": "力旺子公司安全IP进入安谋与Meta下一代处理器",
+      "description": "力旺10月12日宣布，旗下熵码科技的核心安全IP已用于安谋（Arm）与Meta共同开发的下一代数据中心处理器。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T04:08:55+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/ememory-security-ip-arm-meta-datacenter-processor-da5fce",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "amazon-decart-acquisition-talks-7-billion-d1896c",
+      "title": "华尔街日报称亚马逊洽购Decart估值约70亿美元",
+      "description": "亚马逊正洽谈收购人工智能初创公司Decart，交易估值约70亿美元；《华尔街日报》援引知情人士披露了这一消息。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T03:56:44+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/amazon-decart-acquisition-talks-7-billion-d1896c",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -80,25 +354,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "north-korea-launches-unidentified-object-22f942",
-      "title": "朝鲜从平壤发射数枚弹道导弹飞行逾900公里",
-      "description": "朝鲜从平壤地区向东海（日本海）方向发射数枚弹道导弹。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T03:43:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/north-korea-launches-unidentified-object-22f942",
-      "reference": [
-        "联合早报",
-        "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -153,27 +408,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "houthis-claim-strikes-saudi-targets-9f88db",
-      "title": "利雅得机场连续两日遇袭 11日再造成1死11伤",
-      "description": "沙特首都利雅得哈立德国王国际机场在10月10日和11日连续遭袭。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T03:33:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/houthis-claim-strikes-saudi-targets-9f88db",
-      "reference": [
-        "法广",
-        "联合早报",
-        "公视",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 46,
       "sources": []
     },
     {
@@ -810,26 +1044,6 @@
       "sources": []
     },
     {
-      "id": "nepal-landslide-blocks-river-causes-flooding-5d3a4c",
-      "title": "尼泊尔山崩堵塞河道后洪水冲毁约40栋房屋",
-      "description": "尼泊尔中北部廓尔喀县楚姆努布里村发生山崩，土石堵塞布迪甘达基河上游支流，形成的堰塞湖随后溃决，洪水夹带泥沙、巨石和碎屑冲向下游。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T00:24:18+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-11",
-      "url": "https://kaopu.news/story/2026-10-11/nepal-landslide-blocks-river-causes-flooding-5d3a4c",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "hu-drone-hacking-sales-prison-37fb9f",
       "title": "胡某某非法破解无人机飞控加价销售获刑八个月",
       "description": "深圳公安网安部门调查发现，有人明知改动无人机系统数据、解除飞行区域和高度限制属于违法行为，仍破解飞控系统，并通过网络平台加价出售相关无人机。",
@@ -998,27 +1212,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "trump-approves-hasan-firing-squad-execution-357269",
-      "title": "美军拟12月3日枪决哈桑 直播尚待特朗普决定",
-      "description": "美国军方计划于2026年12月3日在德克萨斯州胡德堡，以行刑队处决2009年胡德堡枪击案凶手尼达尔·马利克·哈桑。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-11T23:03:47+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/trump-approves-hasan-firing-squad-execution-357269",
-      "reference": [
-        "世界日报",
-        "英国广播公司",
-        "法广",
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 27,
       "sources": []
     },
     {
@@ -1699,8 +1892,8 @@
     },
     {
       "id": "wanying-zhang-arrested-spying-taiwan-president-son-818df0",
-      "title": "美国法官裁定继续羁押涉监视赖清德儿子的女子",
-      "description": "据中央社、纽约时报和联合早报等报道，美国联邦法院法官史蒂夫·金于10月7日裁定，继续羁押涉嫌受中国政府官员指示、在美国监视台湾总统赖清德儿子及其家人的张婉莹。",
+      "title": "美国法院裁定继续羁押涉监视赖清德之子女子",
+      "description": "美国联邦法院10月7日裁定继续羁押加州房地产经纪人张婉莹。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -1895,26 +2088,6 @@
       "sources": []
     },
     {
-      "id": "delhi-readies-police-voter-roll-protest-6e9a0f",
-      "title": "印度警方拘留蟑螂人民党三名领袖后准其获释",
-      "description": "印度警方在新德里拘留反对选民名册修订的蟑螂人民党创办人迪普克及另外两名领袖，三人随后获准释放。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-11T08:31:46+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/delhi-readies-police-voter-roll-protest-6e9a0f",
-      "reference": [
-        "联合早报",
-        "日经",
-        "法广"
-      ],
-      "section": "asia",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "venezuela-approves-starlink-nationwide-service-f99bf3",
       "title": "委内瑞拉批准星链在全国提供网络服务",
       "description": "委内瑞拉国家通讯委员会（Conatel）10月9日向SpaceX在委内瑞拉的子公司发放7张许可证，批准星链在全国提供服务。",
@@ -1948,27 +2121,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "panama-earthquake-prompts-tsunami-warning-c12039",
-      "title": "巴拿马7.7级强震造成多地设施受损",
-      "description": "巴拿马当地时间10月9日12时56分发生7.7级强震，震中位于埃雷拉省皮塔洛萨阿里巴附近，震源深度约12.6公里。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-11T08:03:51+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/panama-earthquake-prompts-tsunami-warning-c12039",
-      "reference": [
-        "澎湃新闻",
-        "法广",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 17,
       "sources": []
     },
     {
@@ -2025,25 +2177,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "macron-approval-hits-lowest-since-2017-2ee75b",
-      "title": "民调显示马克龙正面评价降至上任以来最低",
-      "description": "益普索与BVA-Cesi公布的联合民调显示，15%的受访者对法国总统埃马纽埃尔·马克龙持正面看法，比上月减少1个百分点，降至他2017年就任以来的最低水平。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-11T06:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-11",
-      "url": "https://kaopu.news/story/2026-10-11/macron-approval-hits-lowest-since-2017-2ee75b",
-      "reference": [
-        "法广",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2979,7 +3112,7 @@
     {
       "id": "okinawa-police-arrest-marine-robbery-murder-suspect-0e0016",
       "title": "冲绳县议会通过决议要求根本修改日美地位协定",
-      "description": "据共同社、日经报道，冲绳县议会10月9日就一名驻冲绳美军海军陆战队员涉嫌抢劫杀害当地女性一案，通过抗议决议和意见书，要求采取有效措施防止类似事件重演，并从根本上修改《日美地位协定》。",
+      "description": "冲绳县议会10月9日以45票赞成、2票反对通过抗议决议和意见书，要求采取有效措施防止美军人员犯罪再次发生，并从根本上修改《日美地位协定》。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -3218,24 +3351,6 @@
       "sources": []
     },
     {
-      "id": "beijing-high-court-tender-rigging-cases-f23039",
-      "title": "北京市高级人民法院公布五起串通投标犯罪典型案例",
-      "description": "北京市高级人民法院10日公布5起依法惩治串通投标犯罪典型案例，涉及医疗器械和建设工程项目。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-10T08:23:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/beijing-high-court-tender-rigging-cases-f23039",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-adds-over-10-million-urban-jobs-4f6fc9",
       "title": "人社部公布前三季度城镇新增就业1052万人",
       "description": "中国人力资源和社会保障部在国务院新闻办公室举行的“开局起步‘十五五’”主题新闻发布会上，介绍未来就业和社会保障工作安排。",
@@ -3270,27 +3385,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-sets-october-5-extraordinary-diet-session-d86bdd",
-      "title": "中国国防部批日本加快再军事化威胁地区稳定",
-      "description": "据澎湃新闻和联合早报报道，中国国防部发言人陈曦10月10日在记者会上回应日本拟年内修订安保三文件、并考虑纳入核动力潜艇研究议题的消息，批评日本加快“再军事化”，并警告其所称的“新型军国主义”威胁地区和平稳定。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-10T07:36:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-29",
-      "url": "https://kaopu.news/story/2026-09-29/japan-sets-october-5-extraordinary-diet-session-d86bdd",
-      "reference": [
-        "共同网",
-        "韩民族日报",
-        "联合早报",
-        "法广"
-      ],
-      "section": "asia",
-      "sourceCount": 20,
       "sources": []
     },
     {
@@ -3442,25 +3536,6 @@
       "sources": []
     },
     {
-      "id": "trump-urges-china-lift-japan-export-curbs-e95930",
-      "title": "共同社称王毅要求日方撤回高市涉台答辩",
-      "description": "共同社引述多名日中关系消息人士报道，中国外长王毅9月28日在北京会见日本前外相岩屋毅时，要求日方撤回或更正日本首相高市早苗去年11月在国会发表的涉台答辩。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-10T06:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/trump-urges-china-lift-japan-export-curbs-e95930",
-      "reference": [
-        "联合早报",
-        "共同网"
-      ],
-      "section": "china",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "ciclavia-hosts-heart-la-car-free-streets-5bfa5d",
       "title": "洛杉矶将举行第68届无车街道活动",
       "description": "洛杉矶第68届“洛杉矶之心”无车街道活动将于10月11日上午9时至下午4时举行。",
@@ -3551,24 +3626,6 @@
       ],
       "section": "tech",
       "sourceCount": 19,
-      "sources": []
-    },
-    {
-      "id": "china-scholars-claim-batanes-philippines-rejects-9b4a6b",
-      "title": "华尔街日报称中国学者主张巴丹群岛属于中国",
-      "description": "世界日报转述《华尔街日报》报道说，与中国政府有关联的学者今年6月在广州一场研讨会上提出巴丹群岛属于中国。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-10T04:40:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/china-scholars-claim-batanes-philippines-rejects-9b4a6b",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3679,24 +3736,6 @@
       ],
       "section": "tech",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "singapore-orders-recall-raw-milk-cheese-d4e4bb",
-      "title": "新加坡食品局要求召回两款疑受污染法国生乳奶酪",
-      "description": "新加坡食品局要求Cold Storage和Little Farms召回法国Fromagerie Gillot生产的两款生乳奶酪。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T16:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/singapore-orders-recall-raw-milk-cheese-d4e4bb",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -4199,24 +4238,6 @@
       "sources": []
     },
     {
-      "id": "marcos-philippines-asean-ai-cooperation-1fc0b6",
-      "title": "小马可斯推动东盟加强人工智能合作",
-      "description": "菲律宾总统小马可斯8日在新加坡表示，菲律宾正推动东盟加强人工智能和数字经济合作，并将继续努力推进亚细安与中国就《南中国海行为准则》进行的磋商。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T14:48:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/marcos-philippines-asean-ai-cooperation-1fc0b6",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "globalfoundries-tsmc-silicon-interposer-deal-88feef",
       "title": "格芯签下20亿美元协议为台积电生产硅中介层",
       "description": "格芯与台积电达成一项为期五年、金额20亿美元的协议。",
@@ -4489,27 +4510,6 @@
       "sources": []
     },
     {
-      "id": "francis-halzen-wins-2026-nobel-physics-prize-149741",
-      "title": "哈尔岑独得2026年诺贝尔物理学奖",
-      "description": "瑞典皇家科学院10月6日宣布，将2026年诺贝尔物理学奖授予82岁的弗朗西斯·哈尔岑，表彰他对冰立方中微子天文台的关键贡献，以及发现具有天体物理起源的高能中微子。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T06:35:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/francis-halzen-wins-2026-nobel-physics-prize-149741",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "联合早报",
-        "财新"
-      ],
-      "section": "tech",
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
       "id": "artificial-premieres-new-york-film-festival-c0f196",
       "title": "瓜达尼诺执导《人工智慧》在纽约举行全球首映",
       "description": "卢卡·瓜达尼诺执导的电影《人工智慧》（Artificial，暂译）10月5日在纽约电影节举行全球首映，计划于12月25日上映。",
@@ -4700,8 +4700,8 @@
     },
     {
       "id": "oca-names-asian-games-mvps-9769d2",
-      "title": "亚奥理事会公布第20届亚运会MVP人选",
-      "description": "据澎湃新闻报道，亚奥理事会4日举行新闻发布会，宣布中国游泳运动员于子迪当选第20届亚运会女子最有价值运动员，泰国短跑运动员汶颂当选男子最有价值运动员。",
+      "title": "亚奥理事会公布亚运会男女最有价值运动员",
+      "description": "亚奥理事会4日举行新闻发布会，宣布第20届亚运会男子、女子最有价值运动员分别由泰国短跑选手汶颂和中国游泳运动员于子迪获得。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
