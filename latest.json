@@ -3,17 +3,37 @@
     "date": "2026-10-12",
     "timestamp": 1791775613,
     "totalPages": 1,
-    "total": 278
+    "total": 279
   },
   "stories": [
     {
-      "id": "irkutsk-antiplague-institute-worker-death-f5f4c2",
-      "title": "世卫称俄鼠疫研究所女职员死因仍未明",
-      "description": "俄罗斯伊尔库茨克西伯利亚与远东防鼠疫研究所一名20多岁女性技术人员因重症肺炎住院后死亡，时间为10月2日。",
+      "id": "iran-guard-close-hormuz-illegal-routes-5b82e1",
+      "title": "霍尔木兹封锁推高北海布伦特现货至历史新高",
+      "description": "霍尔木兹海峡封锁阻碍中东原油运输，北海布伦特现货价格升至历史高位，并远高于期货价格。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-12T02:22:34+00:00",
+      "updatedAt": "2026-10-12T03:28:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-07",
+      "url": "https://kaopu.news/story/2026-10-07/iran-guard-close-hormuz-illegal-routes-5b82e1",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "日经"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "irkutsk-antiplague-institute-worker-death-f5f4c2",
+      "title": "俄防鼠疫研究所员工死亡原因仍未查明",
+      "description": "俄罗斯伊尔库茨克西伯利亚与远东防鼠疫研究所一名28岁女性工作人员于10月2日因不明原因肺炎死亡，导致其病情的病原体尚未确认。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T03:27:57+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-05",
       "url": "https://kaopu.news/story/2026-10-05/irkutsk-antiplague-institute-worker-death-f5f4c2",
@@ -24,7 +44,196 @@
         "公视"
       ],
       "section": "world",
-      "sourceCount": 41,
+      "sourceCount": 43,
+      "sources": []
+    },
+    {
+      "id": "dongchedi-claims-maextro-v800-brake-bracket-failure-5f7241",
+      "title": "浙江宣传要求公布尊界V800制动权威调查结论",
+      "description": "浙江宣传12日发文，指出相关监管部门不宜对尊界V800制动踏板支架断裂争议保持沉默，并呼吁给出客观权威的答案。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T03:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/dongchedi-claims-maextro-v800-brake-bracket-failure-5f7241",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "财新",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 17,
+      "sources": []
+    },
+    {
+      "id": "pan-liang-indicted-bribery-influence-90d88e",
+      "title": "国资委原副部长级干部潘良被提起公诉",
+      "description": "安徽省淮北市人民检察院近日就国资委原副部长级干部潘良涉嫌受贿、利用影响力受贿案，向淮北市中级人民法院提起公诉。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T03:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/pan-liang-indicted-bribery-influence-90d88e",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "gates-warns-ai-abuse-cyberattack-risk-684250",
+      "title": "盖茨警告人工智能网络攻击未来一年将加剧",
+      "description": "微软联合创始人比尔·盖茨10月11日接受美国广播公司新闻网（ABC News）专访时警告，未来一年人工智能网络攻击可能明显加剧。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T03:03:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/gates-warns-ai-abuse-cyberattack-risk-684250",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "zhejiang-chouzhou-commercial-bank-russia-sanctions-dollar-78ec10",
+      "title": "纽约时报调查称稠州银行助俄企绕过制裁",
+      "description": "《纽约时报》分析数千份金融文件及银行交易记录后称，浙江稠州商业银行其客户包括俄罗斯相关空壳公司；该行还通过代理行网络为数十家银行提供美元通道。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T02:56:47+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/zhejiang-chouzhou-commercial-bank-russia-sanctions-dollar-78ec10",
+      "reference": [
+        "纽约时报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "zheng-qinwen-wins-china-open-title-95e8ff",
+      "title": "郑钦文直落两盘夺得中网女单冠军",
+      "description": "郑钦文10月11日晚在中国网球公开赛女单决赛中，以7比5、6比4击败俄罗斯选手安德烈耶娃，赢得冠军。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T02:51:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-11",
+      "url": "https://kaopu.news/story/2026-10-11/zheng-qinwen-wins-china-open-title-95e8ff",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "sports",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "taiwan-stocks-trim-losses-after-500-point-drop-660c51",
+      "title": "台湾加权指数早盘一度跌逾500点后收窄跌幅",
+      "description": "台湾加权指数12日开盘报49272.08点，早盘一度跌至48768.82点，跌逾500点并失守49000点，随后跌幅缩小。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T02:50:40+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/taiwan-stocks-trim-losses-after-500-point-drop-660c51",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-plans-song-li-who-chief-bid-8f3740",
+      "title": "中国外交部确认提名宋莉竞选世卫组织总干事",
+      "description": "中国外交部发言人毛宁10月8日在例行记者会上确认，中国提名宋莉参加世界卫生组织（WHO）总干事选举。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T02:43:36.120378+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-07",
+      "url": "https://kaopu.news/story/2026-10-07/china-plans-song-li-who-chief-bid-8f3740",
+      "reference": [
+        "联合早报",
+        "世界日报",
+        "中央通訊社",
+        "财新"
+      ],
+      "section": "china",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "china-sanctions-paraguay-belize-officials-234fde",
+      "title": "中国大陆制裁巴拉圭和伯利兹两名官员",
+      "description": "中国大陆外交部宣布，自10月12日起对巴拉圭通信和技术部长古斯塔沃·埃米迪奥·比利亚特、伯利兹外交、外贸、教育、文化、科学和技术部长弗朗西斯·丰塞卡采取反制措施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T02:38:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/china-sanctions-paraguay-belize-officials-234fde",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "southern-california-woman-charged-company-registration-7ddd07",
+      "title": "世界日报称南加华女助注册上百家公司遭起诉",
+      "description": "《世界日报》近日报道，南加州马小姐协助海外客户在美国注册大量公司，遭美国联邦调查局（FBI）调查并被起诉。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T02:35:37+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/southern-california-woman-charged-company-registration-7ddd07",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "australia-parent-visa-waits-strain-families-f78b55",
+      "title": "澳大利亚父母移民签证等待令华人家庭陷入两难",
+      "description": "澳大利亚父母移民签证申请费用接近5万澳元，申请者面临十几年等待，团聚与照护难题让一些华人家庭陷入两难。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T02:31:32+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/australia-parent-visa-waits-strain-families-f78b55",
+      "reference": [
+        "SBS"
+      ],
+      "section": "life",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -44,6 +253,44 @@
       ],
       "section": "china",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "new-huanggang-port-opens-3bf1dd",
+      "title": "重建后的深港皇岗口岸正式开通运行",
+      "description": "连接香港与深圳的重建后皇岗口岸于10月12日上午6时30分正式启用，实行“一地两检”和“合作查验、一次放行”通关模式，并为旅客及客运车辆提供24小时通关服务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T02:11:16+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-09",
+      "url": "https://kaopu.news/story/2026-10-09/new-huanggang-port-opens-3bf1dd",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "bloomberg-nato-official-russia-september-casualties-f7bec3",
+      "title": "彭博援引北约官员称俄军9月伤亡逾五万",
+      "description": "彭博社援引一名未具名北约高级军事官员称，俄军2026年9月在乌克兰战场上的伤亡超过5万人，其中阵亡人数最多达2.8万人；乌军同期伤亡约5000人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T02:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/bloomberg-nato-official-russia-september-casualties-f7bec3",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -82,24 +329,6 @@
         "澎湃新闻"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "pan-liang-indicted-bribery-influence-90d88e",
-      "title": "潘良涉嫌受贿及利用影响力受贿案被提起公诉",
-      "description": "国务院国有资产监督管理委员会原副部长级干部潘良涉嫌受贿罪、利用影响力受贿罪，淮北市人民检察院近日已向淮北市中级人民法院提起公诉。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T02:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/pan-liang-indicted-bribery-influence-90d88e",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
@@ -295,6 +524,27 @@
       "sources": []
     },
     {
+      "id": "zelenskyy-accuses-putin-47-nations-fighters-5677a0",
+      "title": "韩国召回驻乌大使抗议乌方公开朝鲜战俘移交",
+      "description": "韩国驻乌克兰大使朴基昌已回国，首尔以此抗议乌方公开两名朝鲜战俘移交韩国的消息，韩乌外交争端进一步升级。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T01:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-24",
+      "url": "https://kaopu.news/story/2026-09-24/zelenskyy-accuses-putin-47-nations-fighters-5677a0",
+      "reference": [
+        "法广",
+        "联合早报",
+        "韩国国际广播电台",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 39,
+      "sources": []
+    },
+    {
       "id": "chinese-automakers-low-price-korea-concerns-ceb193",
       "title": "朝鲜日报称中国车企低价竞争令韩国车业担忧",
       "description": "朝鲜日报称，韩国汽车业担心中国车企以低价扩大在韩国的销售，混合动力车型也已进入价格竞争担忧范围。",
@@ -370,25 +620,6 @@
       ],
       "section": "china",
       "sourceCount": 12,
-      "sources": []
-    },
-    {
-      "id": "new-huanggang-port-opens-3bf1dd",
-      "title": "新皇岗口岸正式开通并提供24小时通关服务",
-      "description": "历时7年重建的皇岗口岸于10月12日早上6时30分正式开通，为旅客和客运车辆提供24小时通关服务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T00:42:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/new-huanggang-port-opens-3bf1dd",
-      "reference": [
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -605,25 +836,6 @@
       "sources": []
     },
     {
-      "id": "zheng-qinwen-wins-china-open-title-95e8ff",
-      "title": "郑钦文夺得中网首个中国选手女单冠军",
-      "description": "10月11日，郑钦文在中国网球公开赛女单决赛中以7比5、6比4击败俄罗斯选手安德烈耶娃，夺得冠军。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-11T23:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-11",
-      "url": "https://kaopu.news/story/2026-10-11/zheng-qinwen-wins-china-open-title-95e8ff",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "sports",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "hurricane-simon-strengthens-mexico-coast-18b0f1",
       "title": "飓风西蒙减速逼近哈利斯科州沿岸将带来强风暴雨",
       "description": "飓风西蒙正缓慢向墨西哥哈利斯科州海岸移动。",
@@ -812,27 +1024,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "dongchedi-claims-maextro-v800-brake-bracket-failure-5f7241",
-      "title": "三辆尊界V800制动测试均现踏板支架断裂",
-      "description": "10月8日，汽车平台懂车帝发布尊界V800实测视频，称三辆全新、未经改装的车辆在时速100公里紧急制动时均出现制动踏板支架断裂，断裂位置和失效形态相近。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-11T14:33:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/dongchedi-claims-maextro-v800-brake-bracket-failure-5f7241",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "财新",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 15,
       "sources": []
     },
     {
@@ -1728,24 +1919,6 @@
       "sources": []
     },
     {
-      "id": "germany-conscientious-objection-applications-surge-0bbbdf",
-      "title": "德国良心拒服兵役申请今年升至12102份",
-      "description": "德国基于良心原因申请拒服兵役的人数近年逐步增加。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-11T06:43:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-11",
-      "url": "https://kaopu.news/story/2026-10-11/germany-conscientious-objection-applications-surge-0bbbdf",
-      "reference": [
-        "德国之声"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "south-africa-murder-rate-remains-high-b0b6ca",
       "title": "南非暴力高发根源指向历史与制度困境",
       "description": "南非最新官方数据显示，谋杀率下降5.9%，但日均仍约有60人遭谋杀。",
@@ -1856,24 +2029,6 @@
         "世界日报"
       ],
       "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "bingming-zhang-arrested-queens-fraud-4769d3",
-      "title": "皇后区男子涉35万美元诈骗款被捕",
-      "description": "检方称，皇后区一名女子遭人冒充中国警察和检察官，以保险欺诈调查及可能被引渡到中国受审相威胁，先后向张炳明的账户汇入35万美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-11T06:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/bingming-zhang-arrested-queens-fraud-4769d3",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "world",
       "sourceCount": 2,
       "sources": []
     },
@@ -2788,25 +2943,6 @@
       "sources": []
     },
     {
-      "id": "avolon-orders-250-boeing-airbus-jets-7241b8",
-      "title": "Avolon宣布向波音空客订购250架飞机",
-      "description": "飞机租赁公司Avolon与波音、空客签署采购协议，确定订购250架新一代飞机，并获得另外100架空客飞机的购买选择权。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-10T09:58:37.395115+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/avolon-orders-250-boeing-airbus-jets-7241b8",
-      "reference": [
-        "联合早报",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "shuanghui-executives-fined-lincomycin-residue-0b0c8d",
       "title": "双汇发展及子公司被罚款6914.72万元",
       "description": "10月9日晚，双汇发展公告称，公司、望奎双汇北大荒食品有限公司及相关董事和高管收到三份行政处罚决定书。",
@@ -3364,24 +3500,6 @@
       "sources": []
     },
     {
-      "id": "gezhouba-shipping-expansion-cofferdam-work-6a2a6a",
-      "title": "葛洲坝航运扩能上下游围堰启动施工",
-      "description": "三峡水运新通道工程葛洲坝航运扩能项目的上下游围堰于10月10日开工，工程由此转入主体施工阶段。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-10T03:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/gezhouba-shipping-expansion-cofferdam-work-6a2a6a",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "singapore-youth-mental-health-consent-consultation-c3624e",
       "title": "新加坡将就青少年心理辅导家长同意规则征询公众",
       "description": "新加坡保健卫生部将制定青少年接受心理健康辅导时家长同意问题的指导原则，并在未来几周征询公众意见。",
@@ -3473,42 +3591,6 @@
       "sources": []
     },
     {
-      "id": "indonesia-exports-first-ev-batteries-25a7a4",
-      "title": "印尼纬达贝工业园实现首批新能源汽车电池出口",
-      "description": "印尼总统普拉博沃·苏比安托10月8日赴纬达贝工业园考察，并宣布印尼首批由该园区生产的新能源汽车电池已实现出口。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-10T01:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/indonesia-exports-first-ev-batteries-25a7a4",
-      "reference": [
-        "财新"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "hengzhou-reservoirs-collapse-107-dead-584663",
-      "title": "横州六蓝、云表水库溃决造成107人遇难",
-      "description": "2026年7月6日，广西横州市六蓝、云表等水库接连溃决。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-10T00:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/hengzhou-reservoirs-collapse-107-dead-584663",
-      "reference": [
-        "财新"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "kim-hyo-bin-gifts-asian-games-gold-medals-e1c31c",
       "title": "金孝彬将亚运两枚金牌挂在保育院夫妇颈上",
       "description": "韩国皮划艇选手金孝彬在仁川国际机场第二航站楼入境大厅与李公宪、崔贤淑夫妇团聚，并把亚运会获得的两枚金牌分别挂在两人脖子上。",
@@ -3560,24 +3642,6 @@
         "联合早报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "shenghan-jin-jailed-gold-scam-d2c69e",
-      "title": "中国籍男子金胜汉参与诈骗收金条被判27个月",
-      "description": "中国籍男子金胜汉因参与投资诈骗、按指示上门收取金条，被美国联邦法院判处27个月监禁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T15:37:40+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/shenghan-jin-jailed-gold-scam-d2c69e",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -3651,25 +3715,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "lawson-id-breach-exposes-user-data-dfbaf3",
-      "title": "日本企业遭攻击 数千万条个人信息或外泄",
-      "description": "日本多家企业近日接连发生网络非法访问或恶意软件事件，客户、学生和教师的个人信息已被确认或被认为可能外泄，涉及多家企业及至少8所大学。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T12:30:12+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/lawson-id-breach-exposes-user-data-dfbaf3",
-      "reference": [
-        "共同网",
-        "公视"
-      ],
-      "section": "life",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -4208,24 +4253,6 @@
       "sources": []
     },
     {
-      "id": "common-sense-rates-teen-chatgpt-unacceptable-risk-df0cdf",
-      "title": "研究所称青少年版ChatGPT风险不可接受",
-      "description": "Common Sense Media旗下青少年人工智能安全研究所10月7日发布评估报告，称OpenAI面向13至17岁用户的ChatGPT默认模式未能可靠保障青少年安全，将其评为“风险不可接受”，并呼吁暂停推广。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T11:48:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/common-sense-rates-teen-chatgpt-unacceptable-risk-df0cdf",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-issues-first-battery-industry-plan-449323",
       "title": "七部门发布新型电池规划提出全固态电池规模应用目标",
       "description": "中国工业和信息化部等七部门9月底印发《新型电池产业发展“十五五”规划》，提出新型电池产业发展目标。",
@@ -4522,8 +4549,8 @@
     },
     {
       "id": "ang-lee-yuen-woo-ping-revisit-crouching-tiger-aea076",
-      "title": "李安与袁和平在纽约回顾《卧虎藏龙》动作设计",
-      "description": "据世界日报报道，导演李安与武术指导袁和平近日在纽约现代艺术博物馆参加《卧虎藏龙》映后交流，回顾两人如何让动作呈现人物关系与情绪。",
+      "title": "李安袁和平在纽约回顾卧虎藏龙动作设计",
+      "description": "导演李安与武术指导袁和平近日在纽约现代艺术博物馆参加《卧虎藏龙》放映后的对谈，回顾如何把人物的情绪和关系融入动作。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -4540,8 +4567,8 @@
     },
     {
       "id": "korean-essay-questions-narrator-position-0c6e6c",
-      "title": "端传媒文章追问叙述者在韩国政治分歧中的位置",
-      "description": "据端传媒报道，题为《南韩民主家政课：父亲在体制，母亲在街头，“我”在哪里？",
+      "title": "韩国导演借纪录片追问自己在政治分歧中的位置",
+      "description": "韩国纪录片导演南雅琅在《南韩民主家政课》中，以家庭经历追问自己在韩国政治与社会分歧中的位置。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
