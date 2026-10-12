@@ -1,11 +1,68 @@
 {
   "details": {
     "date": "2026-10-12",
-    "timestamp": 1791841166,
+    "timestamp": 1791848053,
     "totalPages": 1,
     "total": 274
   },
   "stories": [
+    {
+      "id": "saudi-aramco-refinery-fire-smoke-8149d8",
+      "title": "也门政府军称24小时打死约950名胡塞武装人员",
+      "description": "也门政府军称，在针对胡塞武装的“也门黎明”行动中，过去24小时约有950名胡塞武装人员被打死，双方在塔伊兹省等地的战斗仍在进行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T21:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-03",
+      "url": "https://kaopu.news/story/2026-10-03/saudi-aramco-refinery-fire-smoke-8149d8",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "法广",
+        "日本放送协会"
+      ],
+      "section": "world",
+      "sourceCount": 24,
+      "sources": []
+    },
+    {
+      "id": "african-countries-curb-mineral-exports-price-volatility-99e80a",
+      "title": "非洲多国限制矿产出口加剧价格波动",
+      "description": "肯尼亚、刚果民主共和国、莫桑比克和津巴布韦相继收紧矿产出口。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T21:10:51+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/african-countries-curb-mineral-exports-price-volatility-99e80a",
+      "reference": [
+        "日经"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nikkei-counts-320-million-data-breach-victims-e0afda",
+      "title": "日经统计全球一个月约3.2亿人信息泄露",
+      "description": "日经统计9月1日至10月6日公开披露、涉及10万人以上的个人信息泄露事件，估算受影响人数约3.2亿。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T21:10:51+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/nikkei-counts-320-million-data-breach-victims-e0afda",
+      "reference": [
+        "日经"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "campbell-says-trump-xi-discuss-taiwan-310de7",
       "title": "坎贝尔称特朗普与习近平正积极讨论台湾问题",
@@ -23,6 +80,27 @@
       ],
       "section": "world",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-suggests-ukraine-leadership-change-for-deal-415c04",
+      "title": "特朗普称俄乌同意即刻实施能源停火",
+      "description": "10月11日，美国总统特朗普宣布，俄乌即刻停止袭击对方能源设施，称双方都已同意，并要求不要破坏停火。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T20:46:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-10",
+      "url": "https://kaopu.news/story/2026-10-10/trump-suggests-ukraine-leadership-change-for-deal-415c04",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "联合早报",
+        "英国广播公司"
+      ],
+      "section": "world",
+      "sourceCount": 38,
       "sources": []
     },
     {
@@ -65,6 +143,25 @@
       ],
       "section": "world",
       "sourceCount": 25,
+      "sources": []
+    },
+    {
+      "id": "musk-spends-276-million-help-republicans-hold-congress-362e25",
+      "title": "马斯克投入3.66亿美元支持共和党守住国会",
+      "description": "埃隆·马斯克迄今已为2026年美国期中选举投入约3.66亿美元，其中约2.76亿美元自7月以来捐出，主要流向共和党候选人及相关组织，旨在帮助共和党维持国会控制权。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T19:23:42+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/musk-spends-276-million-help-republicans-hold-congress-362e25",
+      "reference": [
+        "世界日报",
+        "中央通訊社"
+      ],
+      "section": "us",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -287,27 +384,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-suggests-ukraine-leadership-change-for-deal-415c04",
-      "title": "特朗普宣布俄乌能源停火协议尚未获双方确认",
-      "description": "10月11日，特朗普在社交平台发文称，俄乌即刻进入“能源停火”，双方同意停止攻击彼此的能源设施，并警告不要破坏停火。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T14:49:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/trump-suggests-ukraine-leadership-change-for-deal-415c04",
-      "reference": [
-        "澎湃新闻",
-        "法广",
-        "联合早报",
-        "英国广播公司"
-      ],
-      "section": "world",
-      "sourceCount": 37,
       "sources": []
     },
     {
@@ -694,27 +770,6 @@
       "sources": []
     },
     {
-      "id": "saudi-aramco-refinery-fire-smoke-8149d8",
-      "title": "胡塞称沙特联军空袭也门致至少8人死亡",
-      "description": "胡塞武装方面称，沙特主导的多国联军10月12日白天空袭焦夫省哈布和沙夫地区，造成至少8人死亡。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T13:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-03",
-      "url": "https://kaopu.news/story/2026-10-03/saudi-aramco-refinery-fire-smoke-8149d8",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "法广",
-        "日本放送协会"
-      ],
-      "section": "world",
-      "sourceCount": 23,
-      "sources": []
-    },
-    {
       "id": "thailand-bangkok-floods-hit-21-provinces-370e31",
       "title": "泰国曼谷等21个府级地区仍受洪水影响",
       "description": "泰国曼谷及另外20个府仍受洪水影响，全国近246万人受灾。",
@@ -976,24 +1031,6 @@
       ],
       "section": "asia",
       "sourceCount": 11,
-      "sources": []
-    },
-    {
-      "id": "musk-spends-276-million-help-republicans-hold-congress-362e25",
-      "title": "马斯克投入2.76亿美元助共和党守住参议院席次",
-      "description": "《世界日报》援引《纽约时报》报道称，埃隆·马斯克自2026年7月初以来已向共和党及保守派团体投入2.76亿美元，并通过美国政治行动委员会开展选民动员，目标是帮助共和党守住国会参议院席位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T11:57:45+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/musk-spends-276-million-help-republicans-hold-congress-362e25",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2403,24 +2440,6 @@
         "联合早报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "uk-freezes-thet-li-london-assets-d11800",
-      "title": "财新称英国冻结李添伦敦豪宅及逾千万英镑名表资产",
-      "description": "据财新报道，英国冻结了太子集团核心人物李添名下的伦敦豪宅及价值逾千万英镑的奢侈名表资产。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T04:52:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/uk-freezes-thet-li-london-assets-d11800",
-      "reference": [
-        "财新"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -4490,24 +4509,6 @@
       "url": "https://kaopu.news/story/2026-10-08/tsinghua-team-stabilizes-nuclear-clock-03128b",
       "reference": [
         "联合早报"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-plans-developing-next-generation-ips-cells-ac074c",
-      "title": "日本文科省将开发低成本新一代iPS细胞",
-      "description": "日本文部科学省计划开发更适合临床使用、制造成本更低的新一代iPS细胞，目标用于脑梗塞、慢性肾功能衰竭等疾病治疗。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-07T21:03:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/japan-plans-developing-next-generation-ips-cells-ac074c",
-      "reference": [
-        "日经"
       ],
       "section": "tech",
       "sourceCount": 1,
