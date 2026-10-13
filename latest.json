@@ -1,19 +1,120 @@
 {
   "details": {
     "date": "2026-10-13",
-    "timestamp": 1791884204,
+    "timestamp": 1791887340,
     "totalPages": 1,
     "total": 274
   },
   "stories": [
     {
-      "id": "imf-raises-2026-global-growth-forecast-5f54eb",
-      "title": "IMF下调中国今明两年经济增长预测",
-      "description": "国际货币基金组织（IMF）于10月13日发布最新《世界经济展望》，将2026年全球经济增长预测上调至3.1%，比7月预测高0.1个百分点；中国2026年和2027年增速预测分别下调至4.5%和4.0%，各低于此前预测0.1个百分点。",
+      "id": "perseverance-rover-breaks-offworld-driving-record-8592a0",
+      "title": "毅力号火星车累计行驶45.2公里刷新地外纪录",
+      "description": "美国国家航空航天局宣布，毅力号火星车累计行驶45.2公里，刷新地球以外天体表面行驶距离纪录。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-13T08:19:00+00:00",
+      "updatedAt": "2026-10-13T09:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/perseverance-rover-breaks-offworld-driving-record-8592a0",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "tech",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-passenger-car-retail-falls-28-percent-585950",
+      "title": "中国乘用车9月零售同比下跌28%",
+      "description": "2026年9月，中国乘用车零售161.8万辆，同比下降28%，为年内最大降幅；同比下滑已连续12个月。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T09:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/china-passenger-car-retail-falls-28-percent-585950",
+      "reference": [
+        "联合早报",
+        "第一财经",
+        "中央通訊社",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "dongchedi-claims-maextro-v800-brake-bracket-failure-5f7241",
+      "title": "尊界公布V800制动踏板检测结果称符合标准",
+      "description": "懂车帝10月8日发布测试视频称，三辆全新尊界V800在时速100公里紧急制动测试中，制动踏板支架底座均发生断裂，断裂位置和形态相似。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T09:04:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/dongchedi-claims-maextro-v800-brake-bracket-failure-5f7241",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "财新",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 24,
+      "sources": []
+    },
+    {
+      "id": "huawei-details-kirin-9050-logic-folding-production-a422e6",
+      "title": "华为麒麟9050系列实现逻辑折叠量产",
+      "description": "麒麟芯片技术交流活动于10月13日在上海练秋湖研发中心举行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T08:49:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/huawei-details-kirin-9050-logic-folding-production-a422e6",
+      "reference": [
+        "第一财经",
+        "澎湃新闻"
+      ],
+      "section": "tech",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "imf-warns-rising-global-financial-risks-c335fc",
+      "title": "IMF警告全球金融稳定风险正在上升",
+      "description": "国际货币基金组织（IMF）10月13日在泰国曼谷举行的2026年IMF与世界银行年会期间发布《全球金融稳定报告》，指出全球金融环境整体仍较宽松，但金融稳定风险较此前上升。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T08:48:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/imf-warns-rising-global-financial-risks-c335fc",
+      "reference": [
+        "第一财经",
+        "联合早报",
+        "中央通訊社",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "imf-raises-2026-global-growth-forecast-5f54eb",
+      "title": "IMF上调2026年全球增长预期至3.1%",
+      "description": "国际货币基金组织（IMF）13日发布最新《世界经济展望报告》，将2026年全球经济增长率预测上调至3.1%，比7月预测高0.1个百分点；2027年预测为3.4%，与7月持平。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T08:46:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-13",
       "url": "https://kaopu.news/story/2026-10-13/imf-raises-2026-global-growth-forecast-5f54eb",
@@ -24,7 +125,122 @@
         "中央通訊社"
       ],
       "section": "business",
-      "sourceCount": 8,
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "visa-approved-to-prepare-card-clearing-institution-96670d",
+      "title": "央行批准威士公司筹备银行卡清算机构",
+      "description": "中国人民银行10月13日向威士信息技术（北京）有限公司下发准予行政许可决定，批准其筹备银行卡清算机构。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T08:42:49.566286+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/visa-approved-to-prepare-card-clearing-institution-96670d",
+      "reference": [
+        "澎湃新闻",
+        "财新",
+        "联合早报",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "changxin-storage-plans-4f2-ddr5-rdimm-a7b394",
+      "title": "长鑫存储称突破4F2架构并计划推出服务器内存",
+      "description": "长鑫存储称已在DRAM领域实现4F2架构技术突破，并计划于2026年底前推出首款采用该架构、面向数据中心服务器的DDR5 RDIMM产品。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T08:40:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-10",
+      "url": "https://kaopu.news/story/2026-10-10/changxin-storage-plans-4f2-ddr5-rdimm-a7b394",
+      "reference": [
+        "第一财经",
+        "联合早报"
+      ],
+      "section": "tech",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "hong-kong-exchange-suspends-chabaidao-trading-a432d2",
+      "title": "香港证监会指令港交所暂停茶百道交易",
+      "description": "香港证监会对两个涉嫌操纵首次公开募股（IPO）认购需求的集团采取行动，并指示港交所自10月13日上午9时起暂停茶百道股份交易。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T08:36:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/hong-kong-exchange-suspends-chabaidao-trading-a432d2",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "okinawa-police-arrest-marine-robbery-murder-suspect-0e0016",
+      "title": "日美启动磋商检讨驻日美军基地外行为规定",
+      "description": "日本首相高市早苗10月13日在众议院预算委员会表示，日美已于上周启动高层及工作层磋商，讨论防止驻冲绳美军人员涉嫌杀害当地女性一案重演的措施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T08:36:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-04",
+      "url": "https://kaopu.news/story/2026-10-04/okinawa-police-arrest-marine-robbery-murder-suspect-0e0016",
+      "reference": [
+        "联合早报",
+        "共同网",
+        "日本放送协会",
+        "澎湃新闻"
+      ],
+      "section": "asia",
+      "sourceCount": 45,
+      "sources": []
+    },
+    {
+      "id": "malaysia-schools-close-haze-johor-236222",
+      "title": "马来西亚多州学校将因烟霾停课",
+      "description": "马来西亚教育部长法丽娜宣布，受烟霾影响，柔佛、马六甲和森美兰州所有学校将于10月14日停课。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T08:35:35+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/malaysia-schools-close-haze-johor-236222",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "imf-raises-taiwan-gdp-growth-forecast-ce6953",
+      "title": "IMF将台湾2026年经济增长预测上调至10.7%",
+      "description": "国际货币基金组织将台湾2026年实际国内生产总值增长预测从4月的5.2%大幅上调至10.7%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T08:14:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/imf-raises-taiwan-gdp-growth-forecast-ce6953",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 4,
       "sources": []
     },
     {
@@ -48,6 +264,27 @@
       "sources": []
     },
     {
+      "id": "houthis-claim-strikes-saudi-targets-9f88db",
+      "title": "胡塞连袭沙特机场致航班大面积取消",
+      "description": "也门胡塞武装自10月10日起连续袭击沙特利雅得哈立德国王国际机场，并声称打击沙特境内其他机场和能源设施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T08:00:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/houthis-claim-strikes-saudi-targets-9f88db",
+      "reference": [
+        "法广",
+        "联合早报",
+        "公视",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 66,
+      "sources": []
+    },
+    {
       "id": "mongolia-grassland-fire-nears-inner-mongolia-border-53c8f4",
       "title": "内蒙古增派力量严防蒙古草原火势入境",
       "description": "蒙古国境内草原火灾10月9日发生后向中蒙边境推进，内蒙古调集消防救援机动力量和地方扑火队伍沿边境设防，阻止火势进入中国。",
@@ -65,6 +302,25 @@
       ],
       "section": "china",
       "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "malaysia-wind-shift-eases-haze-6c5198",
+      "title": "马来西亚气象局预测风向转变将缓解跨境烟霾",
+      "description": "气象局预测，未来两周风向将转向印度洋和南中国海。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T07:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/malaysia-wind-shift-eases-haze-6c5198",
+      "reference": [
+        "当今大马",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -105,45 +361,207 @@
       "sources": []
     },
     {
-      "id": "okinawa-police-arrest-marine-robbery-murder-suspect-0e0016",
-      "title": "日美启动磋商防止冲绳美军案件重演",
-      "description": "日本首相高市早苗10月13日在众议院预算委员会表示，日本和美国已就一名驻冲绳美海军陆战队员涉嫌抢劫杀害女性一案启动磋商，目标是采取有效措施防止类似事件再次发生。",
+      "id": "omron-plans-onlogic-acquisition-4cc0c8",
+      "title": "欧姆龙拟斥6.75亿美元收购Interlogic",
+      "description": "日本欧姆龙宣布，计划于2027年1月收购美国工业电脑制造商OnLogic的母公司Interlogic。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-13T07:46:00+00:00",
+      "updatedAt": "2026-10-13T07:48:33+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-04",
-      "url": "https://kaopu.news/story/2026-10-04/okinawa-police-arrest-marine-robbery-murder-suspect-0e0016",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/omron-plans-onlogic-acquisition-4cc0c8",
       "reference": [
-        "联合早报",
-        "共同网",
-        "日本放送协会",
-        "澎湃新闻"
+        "日经",
+        "中央通訊社"
       ],
-      "section": "asia",
-      "sourceCount": 44,
+      "section": "business",
+      "sourceCount": 2,
       "sources": []
     },
     {
-      "id": "dongchedi-claims-maextro-v800-brake-bracket-failure-5f7241",
-      "title": "尊界公布检测结果称V800制动踏板符合标准",
-      "description": "尊界汽车10月13日公布尊界V800制动踏板第三方检测结果，称踏板符合行业标准，并在3000牛纵向力的加严检验中未见裂纹或损坏。",
+      "id": "philippines-court-drops-sara-three-impeachment-charges-cf1fe4",
+      "title": "菲律宾弹劾法庭批准撤销莎拉三项指控",
+      "description": "法新社报道，菲律宾参议院弹劾法庭星期一（10月12日）批准撤销受贿指控；检方星期二再要求法庭撤销涉及滥用资金及威胁杀害总统小马可斯的两项指控。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-13T07:17:00+00:00",
+      "updatedAt": "2026-10-13T07:48:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/dongchedi-claims-maextro-v800-brake-bracket-failure-5f7241",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/philippines-court-drops-sara-three-impeachment-charges-cf1fe4",
       "reference": [
-        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "kyec-nvidia-prepayment-us-testing-capacity-f0e1a6",
+      "title": "京元电与辉达签预付款协议扩充美国测试产能",
+      "description": "晶圆测试厂京元电公告称，董事会已决议与辉达（NVIDIA）签订客户预付款协议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T07:36:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/kyec-nvidia-prepayment-us-testing-capacity-f0e1a6",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-stocks-slide-below-49000-f8b6ef",
+      "title": "科技股卖压拖累台股收跌960点",
+      "description": "科技股卖压叠加日本、韩国股市走弱，台湾股市当天低开后持续下行，盘中最低跌至48066.36点，最大跌幅超过1200点；收盘下跌960.65点，报48341.31点，跌幅1.95%，成交额为新台币1兆1250.06亿元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T07:33:24+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/taiwan-stocks-slide-below-49000-f8b6ef",
+      "reference": [
+        "公视",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "trump-korea-alaska-gas-investment-dispute-e9e03f",
+      "title": "特朗普称韩国决定投资阿拉斯加天然气项目遭韩方反驳",
+      "description": "美国总统特朗普于2026年9月30日宣称，韩国已决定向阿拉斯加天然气开发项目投资500亿美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T07:31:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/trump-korea-alaska-gas-investment-dispute-e9e03f",
+      "reference": [
+        "韩民族日报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "valcambi-shiu-wing-steel-hong-kong-refinery-87bcde",
+      "title": "瓦尔坎比与绍荣钢铁签约拟在香港设贵金属精炼厂",
+      "description": "瑞士贵金属精炼商瓦尔坎比已与香港绍荣钢铁签署意向书，计划在香港共同设立贵金属精炼企业，并为贵金属库存提供存储和保管服务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T07:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/valcambi-shiu-wing-steel-hong-kong-refinery-87bcde",
+      "reference": [
+        "瑞士新闻简讯"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "cho-jung-tai-amends-anti-infiltration-law-00fb3a",
+      "title": "卓荣泰拟修反渗透法追究跨境镇压责任",
+      "description": "台湾立法院10月13日继续举行施政总质询。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T07:27:22+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/cho-jung-tai-amends-anti-infiltration-law-00fb3a",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "xi-jinping-urges-public-hospital-reform-022ad7",
+      "title": "习近平提出以公益性为导向深化公立医院改革",
+      "description": "习近平在全国卫生与健康大会上提出，公立医院改革应以公益性为导向，并构建多层次医疗保障体系。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T07:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/xi-jinping-urges-public-hospital-reform-022ad7",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "man-wah-holdings-warns-interim-profit-drop-0aa842",
+      "title": "敏华控股预警中期利润同比下降七至九成",
+      "description": "敏华控股发布中期盈利预警，预计3月至9月期间归属于公司权益持有人的利润较上年同期下降约70%至90%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T07:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/man-wah-holdings-warns-interim-profit-drop-0aa842",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "anthropic-warns-small-ai-self-replication-25ef77",
+      "title": "Anthropic警告小型AI年底或能自主复制",
+      "description": "Anthropic于10月12日公布实验结果称，参数量不足300亿的小型AI模型已能完成自主复制所需的多个环节，但仍难以独立走完全过程。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T07:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/anthropic-warns-small-ai-self-replication-25ef77",
+      "reference": [
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "malaysia-suspends-chery-omoda-5-certification-registration-4eb2bf",
+      "title": "马来西亚暂停奇瑞Omoda 5新车注册",
+      "description": "马来西亚陆路交通局暂停奇瑞 Omoda 5 的车辆类型认证和新车注册。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T07:07:56+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-11",
+      "url": "https://kaopu.news/story/2026-10-11/malaysia-suspends-chery-omoda-5-certification-registration-4eb2bf",
+      "reference": [
+        "当今大马",
         "联合早报",
         "财新",
         "中央通訊社"
       ],
-      "section": "business",
-      "sourceCount": 23,
+      "section": "life",
+      "sourceCount": 4,
       "sources": []
     },
     {
@@ -168,6 +586,60 @@
       "sources": []
     },
     {
+      "id": "india-renames-ladakh-sites-china-rejects-a9a546",
+      "title": "印度更名拉达克28处地点遭中国斥非法无效",
+      "description": "印度对北部拉达克地区28处地点及地理特征进行了更名；彭博社报道指出，部分地点位于印度声称拥有主权、但由中国控制的区域。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T07:02:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/india-renames-ladakh-sites-china-rejects-a9a546",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "johari-says-lynas-exports-hard-to-trace-abdd68",
+      "title": "佐哈里称难厘清莱纳斯稀土最终去向",
+      "description": "马来西亚贸工部长佐哈里在国会书面答复中表示，受技术条件限制，政府难以查明莱纳斯从马来西亚运出的稀土最终流向和实际用途。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T06:59:01+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/johari-says-lynas-exports-hard-to-trace-abdd68",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "batam-power-failure-causes-blackout-f143fe",
+      "title": "印尼峇淡岛电力故障致周边大范围停电",
+      "description": "印尼峇淡岛及周边地区发生大范围停电，机场运营、道路交通和清洁水供应受到影响。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T06:57:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/batam-power-failure-causes-blackout-f143fe",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "hall-woodford-win-2026-nobel-economics-prize-bf2ea7",
       "title": "霍尔与伍德福德获2026年诺贝尔经济学奖",
       "description": "瑞典皇家科学院10月12日宣布，将2026年诺贝尔经济学奖授予斯坦福大学教授罗伯特·霍尔和哥伦比亚大学教授迈克尔·伍德福德，表彰他们为宏观经济稳定政策奠定微观经济学基础。",
@@ -189,23 +661,21 @@
       "sources": []
     },
     {
-      "id": "visa-approved-to-prepare-card-clearing-institution-96670d",
-      "title": "Visa获准在中国筹建银行卡清算机构",
-      "description": "中国人民银行公布行政许可决定，批准威士信息技术（北京）有限公司筹备银行卡清算机构。",
+      "id": "hong-kong-sfc-plans-ongoing-ipo-oversight-588c4c",
+      "title": "香港证监会拟修规加强新股上市后监管",
+      "description": "香港证监会10月12日公布修订《证券市场上市规则》（SMLR）的市场咨询总结，拟允许证监会对港股上市申请人设定上市后仍须遵守的条件，以打击新股上市相关失当行为，并将监管延伸至上市完成之后。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-13T06:52:00+00:00",
+      "updatedAt": "2026-10-13T06:54:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/visa-approved-to-prepare-card-clearing-institution-96670d",
+      "url": "https://kaopu.news/story/2026-10-13/hong-kong-sfc-plans-ongoing-ipo-oversight-588c4c",
       "reference": [
-        "澎湃新闻",
-        "财新",
-        "联合早报"
+        "财新"
       ],
       "section": "business",
-      "sourceCount": 4,
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -435,25 +905,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-stocks-slide-below-49000-f8b6ef",
-      "title": "台股重挫960.65点收于48341.31点",
-      "description": "台湾股市周二开低走低，加权指数收盘下跌960.65点至48341.31点，跌幅1.95%；盘中最低报48066.36点，跌幅一度超过1200点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T06:19:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/taiwan-stocks-slide-below-49000-f8b6ef",
-      "reference": [
-        "公视",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "connie-chan-scott-wiener-court-chinese-voters-385c76",
       "title": "陈诗敏与威善高争取华裔选民支持",
       "description": "旧金山将于11月3日举行国会议员选举，陈诗敏与威善高正在争取华裔选民支持，以赢得裴洛西的联邦众议员席位。",
@@ -634,27 +1085,6 @@
       ],
       "section": "world",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "imf-warns-rising-global-financial-risks-c335fc",
-      "title": "IMF警告多重风险可能引发市场动荡",
-      "description": "国际货币基金组织（IMF）10月13日发布《全球金融稳定报告》，警告人工智能投资前景转弱、网络安全事件及政府债券收益率上升等风险，可能在短期内收紧金融环境并扰动市场。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T06:01:49+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/imf-warns-rising-global-financial-risks-c335fc",
-      "reference": [
-        "第一财经",
-        "联合早报",
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -936,42 +1366,6 @@
       "sources": []
     },
     {
-      "id": "anthropic-warns-small-ai-self-replication-25ef77",
-      "title": "Anthropic警告小型AI年底或能自主复制",
-      "description": "Anthropic于10月12日谈及实验并警告，小型人工智能模型若按当前速度改进，可能在2026年底前获得自主复制能力。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T05:43:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/anthropic-warns-small-ai-self-replication-25ef77",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "huawei-details-kirin-9050-logic-folding-production-a422e6",
-      "title": "华为披露麒麟9050逻辑折叠技术量产进展",
-      "description": "华为在上海练秋湖研发中心举行麒麟芯片技术交流会，介绍麒麟9050系列逻辑折叠技术的量产进展。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T05:40:37.795796+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/huawei-details-kirin-9050-logic-folding-production-a422e6",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "taiwan-labor-groups-demand-higher-pension-contributions-780289",
       "title": "台湾劳工团体抗议要求提高劳退提缴率",
       "description": "多个劳工团体13日先后在台湾行政院和立法院外抗议，要求提高劳退新制雇主强制提缴率，并推动相关修法优先审议。",
@@ -1138,27 +1532,6 @@
       ],
       "section": "asia",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "houthis-claim-strikes-saudi-targets-9f88db",
-      "title": "胡塞袭击沙特机场致利雅得枢纽停摆",
-      "description": "也门胡塞武装自10月5日起连续袭击沙特机场及能源设施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T05:06:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/houthis-claim-strikes-saudi-targets-9f88db",
-      "reference": [
-        "法广",
-        "联合早报",
-        "公视",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 65,
       "sources": []
     },
     {
@@ -1559,24 +1932,6 @@
       "sources": []
     },
     {
-      "id": "imf-raises-taiwan-gdp-growth-forecast-ce6953",
-      "title": "IMF上调台湾2026年经济增长预测至10.7%",
-      "description": "国际货币基金组织10月12日发布新版《世界经济展望》，将台湾2026年实际国内生产总值（GDP）增长预测从4月的5.2%上调至10.7%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T03:37:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/imf-raises-taiwan-gdp-growth-forecast-ce6953",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "aubagne-teen-shooting-principal-teacher-injured-5ad880",
       "title": "法国奥巴涅少年校园开枪致校长教师受伤",
       "description": "法国南部奥巴涅的约瑟夫·拉卡那尔中学10月12日发生枪击，一名14岁少年开枪，校长和一名教师受伤，之后被一名校方职员制伏。",
@@ -1955,24 +2310,6 @@
       "sources": []
     },
     {
-      "id": "hong-kong-exchange-suspends-chabaidao-trading-a432d2",
-      "title": "港交所应香港证监会指令停止茶百道股份买卖",
-      "description": "茶百道10月13日发布公告称，港交所根据香港证券及期货事务监察委员会的指令，已于当日上午9时起暂停四川百茶百道实业股份有限公司股份买卖。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T01:45:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/hong-kong-exchange-suspends-chabaidao-trading-a432d2",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "edwards-australia-prosperity-us-china-relations-a07f6c",
       "title": "爱德华兹称澳大利亚繁荣取决于应对美中关系变化",
       "description": "据彭博社报道，澳大利亚储备银行前董事会成员约翰·爱德华兹在洛伊研究所报告中称，澳大利亚未来能否保持繁荣，关键在于应对国际局势变化，尤其是美中关系，而非国内改革。",
@@ -2027,24 +2364,6 @@
       "sources": []
     },
     {
-      "id": "omron-plans-onlogic-acquisition-4cc0c8",
-      "title": "欧姆龙拟以6.75亿美元收购美国电脑厂商OnLogic",
-      "description": "欧姆龙宣布，拟以6.75亿美元收购美国电脑厂商OnLogic，最早于2027年1月完成。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T01:01:37+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/omron-plans-onlogic-acquisition-4cc0c8",
-      "reference": [
-        "日经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "wto-ai-trade-growth-accelerates-28410c",
       "title": "WTO报告显示人工智能相关贸易增速加快",
       "description": "世界贸易组织（WTO）最新《全球贸易展望与统计》报告显示，支持人工智能发展的相关货物贸易增长明显提速。",
@@ -2060,26 +2379,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "south-korea-kospi-falls-three-percent-ac8020",
-      "title": "韩国综指四连跌收于6384点",
-      "description": "韩国股市10月12日继续下跌，KOSPI连续第四个交易日收低，报6384.24点，跌241.69点，跌幅3.65%，创一个多月来最大单日跌幅；盘中最低跌至6368.49点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T00:59:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/south-korea-kospi-falls-three-percent-ac8020",
-      "reference": [
-        "韩国国际广播电台",
-        "第一财经",
-        "朝鲜日报"
-      ],
-      "section": "business",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -2160,42 +2459,6 @@
       "sources": []
     },
     {
-      "id": "futures-exchanges-propose-algorithmic-trading-penalties-b15bb2",
-      "title": "五家期货交易所拟修规明确程序化交易罚则",
-      "description": "上海期货交易所、中国金融期货交易所、郑州商品交易所、大连商品交易所和广州期货交易所于10月12日分别发布公告，拟修订各自的违规处理办法，增列针对程序化交易违规行为的处理条款，并向社会征求意见。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T00:44:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/futures-exchanges-propose-algorithmic-trading-penalties-b15bb2",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "he-xiaopeng-targets-europe-sales-500000-3bf74e",
-      "title": "何小鹏提出2030年前欧洲年销50万辆目标",
-      "description": "小鹏汽车董事长何小鹏10月12日在巴黎车展期间接受彭博社采访时提出，到2030年前将欧洲年销量提升至50万辆。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T00:37:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/he-xiaopeng-targets-europe-sales-500000-3bf74e",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "us-solar-makers-test-tandem-panels-38adb6",
       "title": "美国厂商测试叠层电池板挑战中国市场主导地位",
       "description": "据《纽约时报》报道，Tandem PV、First Solar和韩华Qcells表示，已成功测试叠层太阳能电池板并取得技术机构认证，正准备很快开始销售。",
@@ -2232,24 +2495,6 @@
       ],
       "section": "world",
       "sourceCount": 18,
-      "sources": []
-    },
-    {
-      "id": "shanghai-stock-exchange-dongxing-cinda-delisting-e17e5f",
-      "title": "上交所决定东兴、信达证券10月19日终止上市",
-      "description": "上海证券交易所决定，东兴证券和信达证券的A股将于2026年10月19日终止上市。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T00:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/shanghai-stock-exchange-dongxing-cinda-delisting-e17e5f",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2342,24 +2587,6 @@
         "澎湃新闻"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "new-quality-productivity-hype-lifts-stocks-09c112",
-      "title": "新质生产力概念炒作推高相关企业股价",
-      "description": "国家发展改革委有关负责同志近日表示，新质生产力发展要防止偏离方向、盲目冒进和泡沫化。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T23:49:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/new-quality-productivity-hype-lifts-stocks-09c112",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -2568,24 +2795,6 @@
       "sources": []
     },
     {
-      "id": "singapore-brunei-sign-supply-chain-pact-e887a4",
-      "title": "新加坡与文莱签署备忘录增强关键供应链韧性",
-      "description": "新加坡与文莱在第二届新加坡与文莱联合委员会部长级会议期间签署《供应链韧性谅解备忘录》。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T15:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/singapore-brunei-sign-supply-chain-pact-e887a4",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-railway-administration-innovation-plan-d8e408",
       "title": "铁路科技创新“十五五”规划近日发布",
       "description": "《铁路科技创新“十五五”规划》近日发布，提出到2030年基本建成引领铁路现代化发展的科技创新体系。",
@@ -2601,44 +2810,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "jag-urges-overseas-child-citizenship-7e518a",
-      "title": "性平盟促海外子女公民权修法尽快生效",
-      "description": "性别平等联合行动联盟（JAG）10月12日质疑，赋予马来西亚籍母亲与外籍父亲在海外所生子女自动取得公民权的修宪条文仍未生效，并呼吁尽快实施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T14:35:50+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/jag-urges-overseas-child-citizenship-7e518a",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "malaysia-suspends-chery-omoda-5-certification-registration-4eb2bf",
-      "title": "马来西亚暂停奇瑞OMODA 5型式批准和新车注册",
-      "description": "一辆2023款奇瑞OMODA 5于10月6日在马来西亚柔佛州新山行驶时，后桥纵臂撕裂，后桥及后轮脱离车身，事故未造成人员受伤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T14:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-11",
-      "url": "https://kaopu.news/story/2026-10-11/malaysia-suspends-chery-omoda-5-certification-registration-4eb2bf",
-      "reference": [
-        "当今大马",
-        "联合早报",
-        "财新"
-      ],
-      "section": "life",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -2681,60 +2852,6 @@
       "sources": []
     },
     {
-      "id": "indonesia-minister-orders-emergency-peat-burning-ban-aeceea",
-      "title": "印尼内政部长要求灾害紧急状态期间全面禁烧芭",
-      "description": "印尼政府加紧开展陆空灭火，并测试巴西提供的新型灭火剂。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T13:56:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/indonesia-minister-orders-emergency-peat-burning-ban-aeceea",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "thailand-sends-engineers-taiwan-training-e5e06a",
-      "title": "泰国安排工程师和学生赴台培训应对半导体人才缺口",
-      "description": "泰国国家经济和社会发展委员会秘书长达努查10月12日在国际货币基金组织与世界银行年会期间接受中央社专访时表示，泰国正安排部分工程师和工程相关专业学生赴台湾接受技能培训，以缓解半导体产业的人才缺口。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T13:25:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/thailand-sends-engineers-taiwan-training-e5e06a",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "thailand-bangkok-floods-hit-21-provinces-370e31",
-      "title": "泰国曼谷等21个府级地区仍受洪水影响",
-      "description": "泰国曼谷及另外20个府仍受洪水影响，全国近246万人受灾。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T13:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/thailand-bangkok-floods-hit-21-provinces-370e31",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "singapore-expands-disability-job-training-9d8c74",
       "title": "新协立将入职培训扩至六行业2030年惠及800人",
       "description": "新加坡协助残障者自立局将逐步把“入职培训计划”从酒店业扩展至六个行业，目标到2030年惠及800名残障者。",
@@ -2749,24 +2866,6 @@
         "联合早报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "malacca-court-challenge-appointed-assembly-seats-09b2a5",
-      "title": "邱培栋与阿德里诉请法院裁定马六甲修宪是否违宪",
-      "description": "马来西亚民主行动党甲州主席邱培栋与国家诚信党阿德里已向法院提起诉讼，要求裁定马六甲州政府修宪、授权委任官委州议员的做法是否违反州宪法和联邦宪法。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T12:56:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/malacca-court-challenge-appointed-assembly-seats-09b2a5",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -3415,24 +3514,6 @@
       "sources": []
     },
     {
-      "id": "beijing-bans-drone-ownership-transfer-6020bb",
-      "title": "北京将禁止持有无人机并要求机主限期转移",
-      "description": "北京市政府9月宣布，北京将禁止持有或存放无人机。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T04:29:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/beijing-bans-drone-ownership-transfer-6020bb",
-      "reference": [
-        "澳大利亚广播公司"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "ememory-security-ip-arm-meta-datacenter-processor-da5fce",
       "title": "力旺子公司安全IP进入安谋与Meta下一代处理器",
       "description": "力旺10月12日宣布，旗下熵码科技的核心安全IP已用于安谋（Arm）与Meta共同开发的下一代数据中心处理器。",
@@ -3465,24 +3546,6 @@
         "中央通訊社"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "hongkong-shoppers-china-ecommerce-retail-impact-f89128",
-      "title": "港人网购中国电商商品冲击香港本土零售业",
-      "description": "港人通过中国电商平台网购增加，相关商品出口香港的货值上升，香港本土零售业受到冲击。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T03:40:33+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/hongkong-shoppers-china-ecommerce-retail-impact-f89128",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
@@ -3983,24 +4046,6 @@
       "sources": []
     },
     {
-      "id": "changxin-storage-plans-4f2-ddr5-rdimm-a7b394",
-      "title": "长鑫存储预计年底推出4F2架构DDR5 RDIMM产品",
-      "description": "长鑫存储总裁曹堪宇在10月10日举行的第四届集成芯片和芯粒大会上介绍了公司的4F2 DRAM架构，并表示长鑫存储预计年底推出采用该技术的新一代DDR5 RDIMM产品，作为这一架构的首代产品。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-10T12:54:37.665851+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/changxin-storage-plans-4f2-ddr5-rdimm-a7b394",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "zheng-qinwen-reaches-china-open-final-600035",
       "title": "郑钦文首度闯入中网女单决赛创中国纪录",
       "description": "郑钦文10月10日晚以7比5、6比2击败13号种子梅尔滕斯，首次打入中网女单决赛，成为首位做到这一点的中国选手；此前本土选手最佳战绩为四强。",
@@ -4218,25 +4263,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "supermicro-contractor-pleads-guilty-china-chip-export-d25529",
-      "title": "美超微关联承包商认罪涉向中国非法转运服务器",
-      "description": "与美国超微电脑有关联的承包商孙廷玮（Willy Sun）10月8日在曼哈顿美国联邦地区法院认罪，承认参与将搭载英伟达先进人工智能芯片的服务器非法转运至中国的密谋。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-10T01:20:38+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/supermicro-contractor-pleads-guilty-china-chip-export-d25529",
-      "reference": [
-        "联合早报",
-        "世界日报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -4493,24 +4519,6 @@
         "澎湃新闻"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "globalfoundries-tsmc-silicon-interposer-deal-88feef",
-      "title": "格芯签下20亿美元协议为台积电生产硅中介层",
-      "description": "格芯与台积电达成一项为期五年、金额20亿美元的协议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T13:53:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/globalfoundries-tsmc-silicon-interposer-deal-88feef",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
