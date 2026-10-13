@@ -1,11 +1,74 @@
 {
   "details": {
     "date": "2026-10-13",
-    "timestamp": 1791848053,
+    "timestamp": 1791854764,
     "totalPages": 1,
-    "total": 275
+    "total": 278
   },
   "stories": [
+    {
+      "id": "china-announces-ev-export-vat-rebate-cut-96fa56",
+      "title": "中国下调新能源汽车出口增值税退税率至9%",
+      "description": "中国财政部和国家税务总局10月12日公布出口退税政策调整：自2027年4月1日起，新能源汽车出口环节的增值税退税率将从13%降至9%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T00:18:39.879919+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/china-announces-ev-export-vat-rebate-cut-96fa56",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "第一财经",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "china-sanctions-paraguay-belize-officials-234fde",
+      "title": "中国制裁巴拉圭和伯利兹两名部长",
+      "description": "中国外交部10月12日依据《中华人民共和国反外国制裁法》，对巴拉圭信息通信技术部长古斯塔沃·比利亚特（Gustavo Emigdio Villate Samaniego）和伯利兹外交和外贸部长弗朗西斯·丰塞卡（Francis Fonseca）实施反制措施，措施当天生效。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T00:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/china-sanctions-paraguay-belize-officials-234fde",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "澎湃新闻",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "trump-russia-diesel-sanctions-waiver-a71d22",
+      "title": "美国暂时放宽俄罗斯柴油贸易制裁",
+      "description": "美国财政部外国资产控制办公室10月9日签发临时许可，放宽俄罗斯柴油贸易相关制裁，许可有效期至2027年4月7日。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T00:12:19+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-10",
+      "url": "https://kaopu.news/story/2026-10-10/trump-russia-diesel-sanctions-waiver-a71d22",
+      "reference": [
+        "英国广播公司",
+        "澎湃新闻",
+        "联合早报",
+        "第一财经"
+      ],
+      "section": "world",
+      "sourceCount": 27,
+      "sources": []
+    },
     {
       "id": "shanghai-industrial-expo-opens-integrated-circuit-exhibition-129aff",
       "title": "上海工博会开幕展示工业智能成果",
@@ -23,6 +86,79 @@
       ],
       "section": "tech",
       "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "us-publishers-undisclosed-ai-use-4e5440",
+      "title": "美国三家出版集团被曝未披露AI参与出版",
+      "description": "《连线》采访二十余名匿名出版业员工后披露，美国五大出版集团中，哈珀柯林斯、西蒙与舒斯特、阿歇特三家在部分出版工作中使用人工智能，但未向作者和公众说明。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T23:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/us-publishers-undisclosed-ai-use-4e5440",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "french-supermarkets-refrigeration-hack-food-loss-790a16",
+      "title": "法国多家超市冷藏设备遭黑客攻击致食品报废",
+      "description": "法国多家大型食品零售商的联网冰箱和冷冻柜遭网络攻击，设备温度被调高，造成食品报废，部分设备起火。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T23:55:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/french-supermarkets-refrigeration-hack-food-loss-790a16",
+      "reference": [
+        "加拿大国际广播电台",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-security-agency-exposes-fraud-cases-5e07c6",
+      "title": "中国国家安全机关披露两起冒名诈骗案件",
+      "description": "中国国家安全机关披露两起冒充工作人员或假称与机关有关联的诈骗案件，并提醒公众辨别骗局、通过官方渠道举报线索。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T23:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/china-security-agency-exposes-fraud-cases-5e07c6",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "north-korea-drone-missile-tests-73a59a",
+      "title": "韩方消息称朝鲜已将新星-9无人机转场试射",
+      "description": "据《东亚日报》援引韩国政府高级消息人士等消息，朝鲜近期已将于平安北道方岘机场研发的“新星-9”型无人机转往其他机场等地点，携带导弹进行试射。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T23:46:20+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/north-korea-drone-missile-tests-73a59a",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -68,6 +204,24 @@
       "sources": []
     },
     {
+      "id": "wang-yi-meets-patrushev-arctic-cooperation-9591b2",
+      "title": "王毅会见帕特鲁舍夫讨论中俄北极航道合作",
+      "description": "中共中央政治局委员、中央外办主任王毅10月12日在北京会见俄罗斯总统助理兼海事委员会主席帕特鲁舍夫，讨论中俄海洋事务合作及“冰上丝绸之路”与俄罗斯北极航道建设的衔接。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-12T23:33:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/wang-yi-meets-patrushev-arctic-cooperation-9591b2",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "north-korea-launches-unidentified-object-22f942",
       "title": "朝鲜从平壤附近向日本海发射多枚弹道导弹",
       "description": "朝鲜从平壤附近向日本海方向发射数枚不同类型的弹道导弹。",
@@ -110,27 +264,6 @@
       "sources": []
     },
     {
-      "id": "trump-russia-diesel-sanctions-waiver-a71d22",
-      "title": "特朗普与普京达成俄柴油协议美国暂放宽制裁",
-      "description": "美国总统特朗普与俄罗斯总统普京达成柴油供应安排后，美国财政部暂时放宽相关制裁，俄罗斯部分恢复柴油出口，俄美企业已开始商谈交易。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T23:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/trump-russia-diesel-sanctions-waiver-a71d22",
-      "reference": [
-        "英国广播公司",
-        "澎湃新闻",
-        "联合早报",
-        "第一财经"
-      ],
-      "section": "world",
-      "sourceCount": 26,
-      "sources": []
-    },
-    {
       "id": "jenny-erpenbeck-writing-vanished-east-germany-43d115",
       "title": "艾彭碧以写作描绘消失的东德日常",
       "description": "作家珍妮·艾彭碧在端传媒专访中谈到，柏林墙倒塌后东德人的身份与日常生活如何淡去，以及她如何用文字描绘那个不复存在的国家。",
@@ -146,27 +279,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-announces-ev-export-vat-rebate-cut-96fa56",
-      "title": "中国宣布将新能源汽车增值税出口退税率降至9%",
-      "description": "中国财政部、国家税务总局10月12日发布公告，宣布自2027年4月1日起，将新能源汽车增值税出口退税率从13%调至9%；电子烟设备装置等产品的增值税出口退税也将从同日起取消。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T22:59:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/china-announces-ev-export-vat-rebate-cut-96fa56",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "第一财经",
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -710,27 +822,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-sanctions-paraguay-belize-officials-234fde",
-      "title": "中国将巴拉圭和伯利兹两名部长列入反制清单",
-      "description": "中国外交部10月12日依据《中华人民共和国反外国制裁法》，对巴拉圭通信与技术部长古斯塔沃·比利亚特（Gustavo Emigdio Villate Samaniego）和伯利兹外交与外贸部长弗朗西斯·丰塞卡（Francis Fonseca）实施反制措施，措施自当天起生效。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T13:34:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/china-sanctions-paraguay-belize-officials-234fde",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "澎湃新闻",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 7,
       "sources": []
     },
     {
@@ -2349,25 +2440,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "global-poverty-index-rises-first-time-def57a",
-      "title": "全球贫困指数自2010年设立以来首次上升",
-      "description": "联合国开发计划署10月12日发布2026年度报告称，全球贫困指数自2010年设立以来首次上升。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T06:03:47+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/global-poverty-index-rises-first-time-def57a",
-      "reference": [
-        "联合早报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -4274,26 +4346,6 @@
       ],
       "section": "ai",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "chiang-wan-an-plans-songshan-airport-ai-park-707aa0",
-      "title": "蒋万安提出迁移松山机场打造台北AI园区",
-      "description": "台北市长蒋万安10月8日提出迁移松山机场的规划，拟将机场及周边约300公顷土地改建为台北AI园区、住宅和公园。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T05:58:22+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/chiang-wan-an-plans-songshan-airport-ai-park-707aa0",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 13,
       "sources": []
     },
     {
