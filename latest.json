@@ -1,11 +1,361 @@
 {
   "details": {
     "date": "2026-10-13",
-    "timestamp": 1791868725,
+    "timestamp": 1791873240,
     "totalPages": 1,
-    "total": 280
+    "total": 278
   },
   "stories": [
+    {
+      "id": "chinese-maritime-militia-spotted-taiwan-east-coast-1d1b0f",
+      "title": "路透称中国海上民兵渔船首现台湾东部外海",
+      "description": "路透社称，一艘被台湾官员辨认为中国海上民兵船的渔船，8月中旬与中国海警船、科研船一同出现在台湾花莲外海。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T05:14:53+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/chinese-maritime-militia-spotted-taiwan-east-coast-1d1b0f",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "德国之声",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "taiwan-extends-pilots-service-to-58-5abb88",
+      "title": "台湾国防部拟增编72个飞官员额延役至58岁",
+      "description": "台湾国防部拟增编72个空军专责飞行军官员额，留用服役满14年、资历和经验符合要求的中校及上校飞行军官。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T05:10:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/taiwan-extends-pilots-service-to-58-5abb88",
+      "reference": [
+        "中央通訊社",
+        "公视",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "beijing-guides-ai-digital-human-registration-29a223",
+      "title": "北京发布指南鼓励机构登记AI数字人",
+      "description": "北京有关部门上个月发布面向广播电视和网络视听服务机构的实践指南，鼓励企业为AI数字人登记。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T05:02:03+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/beijing-guides-ai-digital-human-registration-29a223",
+      "reference": [
+        "澳大利亚广播公司"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nvidia-china-ai-accelerator-share-falls-a21055",
+      "title": "英伟达上半年在华数据中心AI晶片市场份额降至34%",
+      "description": "国际数据公司（IDC）数据显示，2026年上半年英伟达在中国数据中心人工智能晶片市场的份额降至34%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T05:02:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/nvidia-china-ai-accelerator-share-falls-a21055",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-sanctions-paraguay-belize-officials-234fde",
+      "title": "中国首次制裁台湾邦交国现任部长",
+      "description": "中国外交部10月12日依据《反外国制裁法》发布两份外交部令，对巴拉圭信息通信技术部长古斯塔沃·比亚德（Gustavo Emigdio Villate Samaniego）和伯利兹外交暨外贸部长弗朗西斯·丰塞卡（Francis Fonseca）实施制裁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T05:00:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/china-sanctions-paraguay-belize-officials-234fde",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "澎湃新闻",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "dongchedi-claims-maextro-v800-brake-bracket-failure-5f7241",
+      "title": "中国汽研确认尊界V800检测报告存在 江淮人士确认系说明所引报告",
+      "description": "中国汽车工程研究院股份有限公司检测中心档案室人员确认，相关检测报告存在。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T04:57:36.827096+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/dongchedi-claims-maextro-v800-brake-bracket-failure-5f7241",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "财新",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 21,
+      "sources": []
+    },
+    {
+      "id": "wei-crime-group-case-three-death-sentences-5b20ef",
+      "title": "魏家犯罪集团系列案一审宣判三人被判死刑",
+      "description": "福建省泉州市中级人民法院和南安市人民法院10月13日对魏家犯罪集团系列案作出一审判决。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T04:46:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/wei-crime-group-case-three-death-sentences-5b20ef",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "shanghai-industrial-expo-opens-integrated-circuit-exhibition-129aff",
+      "title": "第二十六届中国工博会在上海开幕",
+      "description": "第二十六届中国国际工业博览会10月12日在国家会展中心（上海）开幕，展览总面积31万平方米，吸引来自24个国家和地区的3200余家参展商。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T04:41:03.439574+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/shanghai-industrial-expo-opens-integrated-circuit-exhibition-129aff",
+      "reference": [
+        "第一财经",
+        "澎湃新闻"
+      ],
+      "section": "tech",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "agibot-chimelong-deploys-300-embodied-robots-592f23",
+      "title": "智元与长隆在横琴部署超300台具身智能机器人",
+      "description": "智元与长隆集团在珠海横琴长隆飞船乐园启动具身智能机器人常态化运营合作，园区已部署超过300台机器人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T04:41:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/agibot-chimelong-deploys-300-embodied-robots-592f23",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "visa-approved-to-prepare-card-clearing-institution-96670d",
+      "title": "央行批准维萨在华法人筹备银行卡清算机构",
+      "description": "中国人民银行10月13日公布行政许可决定，批准维萨在中国设立的威士信息技术（北京）有限公司筹建银行卡清算机构。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T04:36:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/visa-approved-to-prepare-card-clearing-institution-96670d",
+      "reference": [
+        "澎湃新闻",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "hall-woodford-win-2026-nobel-economics-prize-bf2ea7",
+      "title": "霍尔与伍德福德获2026年诺贝尔经济学奖",
+      "description": "10月12日，瑞典皇家科学院宣布，斯坦福大学教授罗伯特·E·霍尔与哥伦比亚大学教授迈克尔·伍德福德共同获得2026年诺贝尔经济学奖，以表彰他们为宏观经济稳定政策奠定微观经济学基础。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T04:34:16+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/hall-woodford-win-2026-nobel-economics-prize-bf2ea7",
+      "reference": [
+        "澎湃新闻",
+        "公视",
+        "法广",
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 16,
+      "sources": []
+    },
+    {
+      "id": "djibouti-migrant-boat-capsize-deaths-7df424",
+      "title": "吉布提移民船倾覆致139人死亡84人失踪",
+      "description": "一艘载有300多名移民、从吉布提驶往也门的船只，10月8日晚至9日凌晨在吉布提北部奥博克附近海域倾覆后沉没。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T04:34:12+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-11",
+      "url": "https://kaopu.news/story/2026-10-11/djibouti-migrant-boat-capsize-deaths-7df424",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "公视",
+        "日本放送协会"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "houthis-claim-strikes-saudi-targets-9f88db",
+      "title": "胡塞武装连袭利雅得机场造成多人死伤",
+      "description": "也门胡塞武装10日至12日连续袭击沙特利雅得哈立德国王国际机场等目标，机场暂停运营。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T04:34:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/houthis-claim-strikes-saudi-targets-9f88db",
+      "reference": [
+        "法广",
+        "联合早报",
+        "公视",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 64,
+      "sources": []
+    },
+    {
+      "id": "trump-suggests-ukraine-leadership-change-for-deal-415c04",
+      "title": "泽连斯基称俄军能源停火宣布后袭击乌六处设施",
+      "description": "乌克兰总统泽连斯基说，俄罗斯军队在美国总统唐纳德·特朗普宣布俄乌已同意停止攻击对方能源设施后，仍于10月12日袭击乌克兰境内6处能源设施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T04:34:05+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-10",
+      "url": "https://kaopu.news/story/2026-10-10/trump-suggests-ukraine-leadership-change-for-deal-415c04",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "联合早报",
+        "英国广播公司"
+      ],
+      "section": "world",
+      "sourceCount": 42,
+      "sources": []
+    },
+    {
+      "id": "imf-warns-low-income-countries-debt-restructuring-560f95",
+      "title": "IMF警告低收入国家面临削支或债务重组",
+      "description": "国际货币基金组织警告，伊朗战争引发的能源冲击对低收入发展中国家的影响不成比例，许多国家为帮助民众渡过危机，只能削减支出，否则将面临债务重组。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T04:32:32+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/imf-warns-low-income-countries-debt-restructuring-560f95",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ntt-data-anthropic-osaka-data-center-646b84",
+      "title": "日经称NTT DATA拟在大阪建Anthropic数据中心",
+      "description": "日本经济新闻援引多名相关人士称，NTT DATA集团正与美国人工智能公司Anthropic协商，在大阪府南部湾岸地区新建数据中心，计划于2026年度内签约。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T04:23:23+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/ntt-data-anthropic-osaka-data-center-646b84",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-imposes-china-polyamide-antidumping-duty-acd208",
+      "title": "台湾将对中国大陆特定聚酰胺薄膜征临时反倾销税",
+      "description": "台湾财政部将自2026年10月19日起，对从中国大陆进口的特定聚酰胺薄膜临时征收反倾销税，期限为4个月。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T04:17:17+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/taiwan-imposes-china-polyamide-antidumping-duty-acd208",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "anqing-prosecutors-indict-zhang-yaoxue-35a6fd",
+      "title": "安庆市检察院对张尧学涉嫌受贿案提起公诉",
+      "description": "安庆市人民检察院近日对中南大学原党委常委、校长张尧学涉嫌受贿案提起公诉，案件诉至安庆市中级人民法院。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T04:11:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/anqing-prosecutors-indict-zhang-yaoxue-35a6fd",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
     {
       "id": "saifuddin-blames-unhcr-online-registration-0c3501",
       "title": "赛夫丁称难民署线上登记是马来西亚难民管理难题根源",
@@ -158,21 +508,21 @@
       "sources": []
     },
     {
-      "id": "visa-approved-to-prepare-card-clearing-institution-96670d",
-      "title": "央行批准威士公司筹备银行卡清算机构",
-      "description": "中国人民银行10月13日公布行政许可决定，准许威士信息技术（北京）有限公司筹建银行卡清算机构。",
+      "id": "imf-raises-taiwan-gdp-growth-forecast-ce6953",
+      "title": "IMF上调台湾2026年经济增长预测至10.7%",
+      "description": "国际货币基金组织10月12日发布新版《世界经济展望》，将台湾2026年实际国内生产总值（GDP）增长预测从4月的5.2%上调至10.7%。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-13T03:38:00+00:00",
+      "updatedAt": "2026-10-13T03:37:25+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/visa-approved-to-prepare-card-clearing-institution-96670d",
+      "url": "https://kaopu.news/story/2026-10-13/imf-raises-taiwan-gdp-growth-forecast-ce6953",
       "reference": [
-        "澎湃新闻"
+        "中央通訊社"
       ],
       "section": "business",
-      "sourceCount": 1,
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -308,68 +658,6 @@
       ],
       "section": "us",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "dongchedi-claims-maextro-v800-brake-bracket-failure-5f7241",
-      "title": "尊界称V800踏板检测达标且加压未损坏",
-      "description": "尊界汽车公布的检测情况说明称，国家认可的第三方检测机构于10月11日检验了V800制动踏板。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T03:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/dongchedi-claims-maextro-v800-brake-bracket-failure-5f7241",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "财新",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 20,
-      "sources": []
-    },
-    {
-      "id": "taiwan-extends-pilots-service-to-58-5abb88",
-      "title": "台湾国防部拟增编72个员额留用资深飞官",
-      "description": "台湾国防部长顾立雄表示，国防部拟增编72个空军专责飞行员员额，留用资历成熟的中校、上校飞行军官。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T03:03:41+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/taiwan-extends-pilots-service-to-58-5abb88",
-      "reference": [
-        "中央通訊社",
-        "公视",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "china-sanctions-paraguay-belize-officials-234fde",
-      "title": "中国制裁巴拉圭和伯利兹两名部长",
-      "description": "中国外交部10月12日依据《反外国制裁法》发布两份外交部令，对巴拉圭信息技术部长比亚德（Gustavo Emigdio Villate Samaniego）和伯利兹外交暨外贸部长冯赛卡（Francis Fonseca）实施反制，措施当天生效。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T02:59:39+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/china-sanctions-paraguay-belize-officials-234fde",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "澎湃新闻",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 12,
       "sources": []
     },
     {
@@ -642,24 +930,6 @@
       "sources": []
     },
     {
-      "id": "imf-raises-taiwan-gdp-growth-forecast-ce6953",
-      "title": "IMF上调台湾2026年经济增长预测至10.7%",
-      "description": "国际货币基金组织10月12日发布新版《世界经济展望》，将台湾2026年实际国内生产总值增长预测从4月的5.2%上调至10.7%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T02:10:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/imf-raises-taiwan-gdp-growth-forecast-ce6953",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "china-commission-orders-food-safety-crackdown-e67c8f",
       "title": "中央政法委印发意见要求严查食安犯罪",
       "description": "中国中央政法委近日印发《关于依法从严查处危害食品安全违法犯罪的意见》，对政法机关查办相关违法犯罪作出部署。",
@@ -752,24 +1022,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "anqing-prosecutors-indict-zhang-yaoxue-35a6fd",
-      "title": "中南大学原校长张尧学被安庆检方提起公诉",
-      "description": "安庆市人民检察院近日将中南大学原党委常委、校长张尧学涉嫌受贿案提交安庆市中级人民法院，提起公诉。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T02:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/anqing-prosecutors-indict-zhang-yaoxue-35a6fd",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -867,27 +1119,6 @@
       "sources": []
     },
     {
-      "id": "trump-suggests-ukraine-leadership-change-for-deal-415c04",
-      "title": "特朗普宣布俄乌能源停火生效俄方仍未确认",
-      "description": "美国总统特朗普单方面宣布，俄罗斯与乌克兰即刻停止攻击彼此能源设施，并称双方已经同意；截至10月12日，俄方仍未确认达成协议，乌克兰总统泽连斯基则表示事先不知情，乌境内能源设施仍遭袭击，停火安排没有得到实际落实。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T01:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/trump-suggests-ukraine-leadership-change-for-deal-415c04",
-      "reference": [
-        "澎湃新闻",
-        "法广",
-        "联合早报",
-        "英国广播公司"
-      ],
-      "section": "world",
-      "sourceCount": 41,
-      "sources": []
-    },
-    {
       "id": "wall-street-journal-says-china-debt-slows-growth-ffbf89",
       "title": "华尔街日报称中国债务负担拖累经济增长",
       "description": "中国债务负担加重正拖累经济增长，并经由出口和贸易顺差影响全球贸易伙伴；《华尔街日报》报道将这一局面与非金融部门信贷扩张联系起来。",
@@ -939,27 +1170,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "houthis-claim-strikes-saudi-targets-9f88db",
-      "title": "胡塞武装接连袭击利雅得机场致其停运",
-      "description": "也门胡塞武装10月10日至12日接连袭击沙特境内目标，并声称打击利雅得哈立德国王国际机场。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T01:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/houthis-claim-strikes-saudi-targets-9f88db",
-      "reference": [
-        "法广",
-        "联合早报",
-        "公视",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 63,
       "sources": []
     },
     {
@@ -1150,27 +1360,6 @@
       "sources": []
     },
     {
-      "id": "hall-woodford-win-2026-nobel-economics-prize-bf2ea7",
-      "title": "霍尔与伍德福德获2026年诺贝尔经济学奖",
-      "description": "瑞典皇家科学院于10月12日将2026年诺贝尔经济学奖授予斯坦福大学教授罗伯特·E·霍尔和哥伦比亚大学教授迈克尔·伍德福德，表彰他们为宏观经济稳定政策奠定微观经济学基础。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T00:30:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/hall-woodford-win-2026-nobel-economics-prize-bf2ea7",
-      "reference": [
-        "澎湃新闻",
-        "公视",
-        "法广",
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 15,
-      "sources": []
-    },
-    {
       "id": "panama-earthquake-prompts-tsunami-warning-c12039",
       "title": "巴拿马7.7级强震造成近900栋房屋受损",
       "description": "巴拿马10月9日发生7.7级强震，震中位于埃雷拉省附近，震源深度约12.6公里。",
@@ -1264,25 +1453,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "shanghai-industrial-expo-opens-integrated-circuit-exhibition-129aff",
-      "title": "上海工博会开幕展示工业智能成果",
-      "description": "第26届中国国际工业博览会10月12日在上海国家会展中心开幕，展览总面积31万平方米，吸引来自24个国家和地区的3200余家参展商。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T23:59:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/shanghai-industrial-expo-opens-integrated-circuit-exhibition-129aff",
-      "reference": [
-        "第一财经",
-        "澎湃新闻"
-      ],
-      "section": "tech",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -1973,26 +2143,6 @@
       "sources": []
     },
     {
-      "id": "djibouti-migrant-boat-capsize-deaths-7df424",
-      "title": "吉布提移民船翻覆沉没致139人死亡",
-      "description": "一艘从吉布提前往也门的移民船于10月8日晚至9日凌晨在吉布提北部奥博克附近海域翻覆沉没，已造成139人死亡、84人失踪，80多人获救。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T13:00:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-11",
-      "url": "https://kaopu.news/story/2026-10-11/djibouti-migrant-boat-capsize-deaths-7df424",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "malacca-court-challenge-appointed-assembly-seats-09b2a5",
       "title": "邱培栋与阿德里诉请法院裁定马六甲修宪是否违宪",
       "description": "马来西亚民主行动党甲州主席邱培栋与国家诚信党阿德里已向法院提起诉讼，要求裁定马六甲州政府修宪、授权委任官委州议员的做法是否违反州宪法和联邦宪法。",
@@ -2085,24 +2235,6 @@
       "sources": []
     },
     {
-      "id": "1mdb-deutsche-bank-settle-lawsuit-2e5d99",
-      "title": "一马公司与德意志银行就11亿美元诉讼达成和解",
-      "description": "一个马来西亚发展有限公司与德意志银行就涉资11亿美元（约14亿新元）的诉讼达成和解，双方未公布条款。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T12:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/1mdb-deutsche-bank-settle-lawsuit-2e5d99",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "lithium-futures-close-below-110000-yuan-ea73ec",
       "title": "碳酸锂期货主力合约收盘跌破11万元",
       "description": "碳酸锂期货主力合约LC2701在10月12日大幅下跌，收于每吨104740元，跌幅为11.79%，这是去年年底以来首次收盘价低于11万元。",
@@ -2157,24 +2289,6 @@
       "sources": []
     },
     {
-      "id": "uk-court-rules-china-law-bitcoin-claims-a11074",
-      "title": "英高院裁定钱志敏案比特币追索适用中国法",
-      "description": "英国高等法院裁定，钱志敏案中中国投资者对涉案比特币的所有权争议，应按中国法律处理，不适用英国法律。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T11:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/uk-court-rules-china-law-bitcoin-claims-a11074",
-      "reference": [
-        "财新"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "anwar-tables-malaysia-2027-budget-ecbe74",
       "title": "安华提呈4598亿令吉创纪录预算案",
       "description": "马来西亚首相兼财政部长安华10月9日在国会下议院提呈2027年财政预算案，推出多项援助、税务、薪资和发展措施。",
@@ -2192,26 +2306,6 @@
       ],
       "section": "asia",
       "sourceCount": 34,
-      "sources": []
-    },
-    {
-      "id": "china-passenger-car-retail-falls-28-percent-585950",
-      "title": "中国乘用车9月零售同比下滑28%",
-      "description": "中国乘用车市场9月零售量同比下降28%，降幅为年内最大。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T10:54:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/china-passenger-car-retail-falls-28-percent-585950",
-      "reference": [
-        "联合早报",
-        "第一财经",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -2397,27 +2491,6 @@
       "sources": []
     },
     {
-      "id": "chinese-maritime-militia-spotted-taiwan-east-coast-1d1b0f",
-      "title": "据报中国民兵渔船首现台湾东部海域",
-      "description": "路透社查阅的一份安捷航空监控报告显示，8月中旬，中国海上民兵渔船“闽福鼎渔07902”与中国海警船2502、科研船“向阳红03号”一同出现在台湾花莲以东30多海里处。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T08:59:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/chinese-maritime-militia-spotted-taiwan-east-coast-1d1b0f",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "德国之声",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 11,
-      "sources": []
-    },
-    {
       "id": "indonesia-serdang-wildfire-destroys-homes-4d2825",
       "title": "印尼南邦加野火烧毁305间房屋",
       "description": "印尼邦加—勿里洞省南邦加地区塞尔当村的森林和土地火灾蔓延至居民区，305间房屋被完全烧毁，至少1800人受影响。",
@@ -2452,27 +2525,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "lai-ching-te-national-day-benefit-speech-a7bbad",
-      "title": "毛宁回应赖清德国庆演说称台独注定败亡",
-      "description": "台湾总统赖清德10月10日在总统府前的国庆大会发表演说，谈及经济民生、国防和两岸关系。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T08:33:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/lai-ching-te-national-day-benefit-speech-a7bbad",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "公视",
-        "英国广播公司"
-      ],
-      "section": "asia",
-      "sourceCount": 52,
       "sources": []
     },
     {
@@ -3133,27 +3185,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-plans-song-li-who-chief-bid-8f3740",
-      "title": "中国外交部确认提名宋莉竞选世卫组织总干事",
-      "description": "中国外交部发言人毛宁10月8日在例行记者会上确认，中国提名宋莉参加世界卫生组织（WHO）总干事选举。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T02:43:36.120378+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-07",
-      "url": "https://kaopu.news/story/2026-10-07/china-plans-song-li-who-chief-bid-8f3740",
-      "reference": [
-        "联合早报",
-        "世界日报",
-        "中央通訊社",
-        "财新"
-      ],
-      "section": "china",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -4308,45 +4339,6 @@
       "sources": []
     },
     {
-      "id": "white-house-ai-science-summit-research-support-123857",
-      "title": "科技企业承诺24亿美元支持美国联邦科研",
-      "description": "特朗普政府10月8日在华盛顿举行的“科学：新黄金时代”峰会上宣布，科技企业承诺提供总额约24亿美元的人工智能算力和科学工具，支持联邦“创世纪任务”开展科研与人工智能工作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T10:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/white-house-ai-science-summit-research-support-123857",
-      "reference": [
-        "世界日报",
-        "法广",
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "ai",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "ai-singapore-drive-johor-malaysia-data-center-hub-d41deb",
-      "title": "BMI报告称柔佛稳居马来西亚数据中心核心枢纽",
-      "description": "柔佛仍是马来西亚数据中心核心枢纽，但电力供应限制增加项目执行风险。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T08:56:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/ai-singapore-drive-johor-malaysia-data-center-hub-d41deb",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "yu-chengdong-china-develops-euv-lithography-tools-de0bab",
       "title": "余承东称中国正研发先进芯片EUV设备",
       "description": "华为10月6日发布的会议摘要显示，华为常务董事、终端业务集团董事长余承东在9月29日举行的国际媒体圆桌会上表示，中国正在研发制造先进芯片所需的极紫外（EUV）光刻设备。",
@@ -4563,43 +4555,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-issues-first-battery-industry-plan-449323",
-      "title": "七部门发布新型电池规划提出全固态电池规模应用目标",
-      "description": "中国工业和信息化部等七部门9月底印发《新型电池产业发展“十五五”规划》，提出新型电池产业发展目标。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T08:26:39.750279+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/china-issues-first-battery-industry-plan-449323",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "margaret-hamilton-dies-apollo-software-pioneer-bd61b1",
-      "title": "阿波罗登月软件先驱玛格丽特·汉密尔顿逝世",
-      "description": "参与开发美国国家航空航天局阿波罗登月计划电脑系统的玛格丽特·汉密尔顿逝世，享年90岁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-08T06:32:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-08",
-      "url": "https://kaopu.news/story/2026-10-08/margaret-hamilton-dies-apollo-software-pioneer-bd61b1",
-      "reference": [
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "tech",
-      "sourceCount": 2,
       "sources": []
     },
     {
