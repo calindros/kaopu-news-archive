@@ -1,11 +1,53 @@
 {
   "details": {
     "date": "2026-10-13",
-    "timestamp": 1791926856,
+    "timestamp": 1791933503,
     "totalPages": 1,
     "total": 271
   },
   "stories": [
+    {
+      "id": "pope-leo-xiv-lung-nodule-surgery-b05e3e",
+      "title": "教宗良十四世手术切除右肺下叶时确诊肺癌",
+      "description": "教宗良十四世在罗马杰梅利医院接受右肺下叶切除手术，医生在手术过程中确认其肺部肿瘤为癌症。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T21:45:28.673000+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-11",
+      "url": "https://kaopu.news/story/2026-10-11/pope-leo-xiv-lung-nodule-surgery-b05e3e",
+      "reference": [
+        "联合早报",
+        "德国之声",
+        "法广",
+        "加拿大国际广播电台"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "houthis-claim-strikes-saudi-targets-9f88db",
+      "title": "胡塞袭击利雅得机场致13死309伤",
+      "description": "也门胡塞武装连续袭击沙特机场等目标。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T21:37:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/houthis-claim-strikes-saudi-targets-9f88db",
+      "reference": [
+        "法广",
+        "联合早报",
+        "公视",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 71,
+      "sources": []
+    },
     {
       "id": "france-bond-selloff-yield-spread-widens-3ce66c",
       "title": "法国国债遭抛售，法德利差一度扩大至1.5%",
@@ -61,6 +103,24 @@
       ],
       "section": "business",
       "sourceCount": 27,
+      "sources": []
+    },
+    {
+      "id": "oil-prices-mixed-amid-us-iran-war-uncertainty-d8344f",
+      "title": "美伊战争结束时间未明国际油价涨跌不一",
+      "description": "市场对美伊战争何时结束、全球能源产业何时恢复正常仍缺乏确定判断，国际油价波动明显，两个主要原油期货合约收盘涨跌不一。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T20:46:19+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/oil-prices-mixed-amid-us-iran-war-uncertainty-d8344f",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -133,27 +193,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "houthis-claim-strikes-saudi-targets-9f88db",
-      "title": "胡塞武装袭击利雅得机场致13死逾300人伤",
-      "description": "也门胡塞武装近日袭击沙特阿拉伯境内机场及能源设施，利雅得哈立德国王国际机场10月10日遭袭。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T19:03:50+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/houthis-claim-strikes-saudi-targets-9f88db",
-      "reference": [
-        "法广",
-        "联合早报",
-        "公视",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 70,
       "sources": []
     },
     {
@@ -2361,25 +2400,6 @@
       "sources": []
     },
     {
-      "id": "omron-plans-onlogic-acquisition-4cc0c8",
-      "title": "欧姆龙拟斥6.75亿美元收购Interlogic",
-      "description": "日本欧姆龙宣布，计划于2027年1月收购美国工业电脑制造商OnLogic的母公司Interlogic。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T07:48:33+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/omron-plans-onlogic-acquisition-4cc0c8",
-      "reference": [
-        "日经",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "kyec-nvidia-prepayment-us-testing-capacity-f0e1a6",
       "title": "京元电与辉达签预付款协议扩充美国测试产能",
       "description": "晶圆测试厂京元电公告称，董事会已决议与辉达（NVIDIA）签订客户预付款协议。",
@@ -2821,24 +2841,6 @@
         "世界日报"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "data-center-dispute-fuels-us-threats-97bbfc",
-      "title": "数据中心开发争议引发全美数十起威胁事件",
-      "description": "维吉尼亚州马纳萨斯一处亚马逊数据中心工地遭遇炸弹恐吓，工人撤离，警方搜查后未发现爆炸物。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/data-center-dispute-fuels-us-threats-97bbfc",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
