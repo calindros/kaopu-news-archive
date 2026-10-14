@@ -1,11 +1,131 @@
 {
   "details": {
     "date": "2026-10-14",
-    "timestamp": 1791966524,
+    "timestamp": 1791970871,
     "totalPages": 1,
-    "total": 269
+    "total": 270
   },
   "stories": [
+    {
+      "id": "zelenskyy-says-kyiv-lacked-ally-warning-71fe2a",
+      "title": "俄军弹道导弹袭击基辅能源设施致一人死亡",
+      "description": "10月13日，俄罗斯对乌克兰首都基辅发动弹道导弹袭击，能源设施遭到打击，至少1人死亡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-14T07:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/zelenskyy-says-kyiv-lacked-ally-warning-71fe2a",
+      "reference": [
+        "联合早报",
+        "法广",
+        "公视",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "heilongjiang-business-delegation-iturup-visit-f2de53",
+      "title": "黑龙江代表团赴择捉岛考察合作项目",
+      "description": "黑龙江省政府相关人士和企业界人士组成的代表团近日前往俄罗斯实际控制的择捉岛，考察旅游和水产养殖等合作机会。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-14T07:53:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/heilongjiang-business-delegation-iturup-visit-f2de53",
+      "reference": [
+        "共同网",
+        "日经",
+        "日本放送协会",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "china-north-korea-open-new-yalu-river-bridge-b42863",
+      "title": "中朝新鸭绿江大桥将于15日正式开通",
+      "description": "连接中国辽宁省丹东市与朝鲜平安北道新义州市的新鸭绿江大桥定于10月15日正式开通，中朝双方将共同举行开通仪式。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-14T07:47:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/china-north-korea-open-new-yalu-river-bridge-b42863",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "韩民族日报",
+        "韩国国际广播电台"
+      ],
+      "section": "china",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "china-taiwan-affairs-office-bans-vway-trade-d9bccd",
+      "title": "国台办宣布惩戒沈伯洋父亲名下VWAY公司",
+      "description": "中国大陆国务院台湾事务办公室10月14日宣布，禁止VWAY公司与中国大陆的组织、企业和个人进行任何交易或合作。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-14T07:45:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/china-taiwan-affairs-office-bans-vway-trade-d9bccd",
+      "reference": [
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "china-environment-ministry-creates-nuclear-safety-bureaus-ca4614",
+      "title": "中国生态环境部新设两个核电安全监管司",
+      "description": "中国生态环境部2027年度公务员招考职位信息显示，该部已设立核电建造安全监管司和核电运行安全监管司。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-14T07:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/china-environment-ministry-creates-nuclear-safety-bureaus-ca4614",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-urges-china-lift-japan-export-curbs-e95930",
+      "title": "中方据报扩大经团联访华考察团接待名额",
+      "description": "中方据报已通知日本经济团体联合会（经团联），扩大其11月中旬访华考察团的接待名额。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-14T07:18:43+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-08",
+      "url": "https://kaopu.news/story/2026-10-08/trump-urges-china-lift-japan-export-curbs-e95930",
+      "reference": [
+        "联合早报",
+        "共同网"
+      ],
+      "section": "china",
+      "sourceCount": 8,
+      "sources": []
+    },
     {
       "id": "taiwan-affairs-office-responds-kevin-tsai-campaign-0dd5fb",
       "title": "国台办回应蔡康永现身沈伯洋竞选活动",
@@ -23,6 +143,46 @@
       ],
       "section": "china",
       "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "trump-taiwan-alaska-lng-30-percent-00806d",
+      "title": "台湾中油计划年购600万吨阿拉斯加天然气",
+      "description": "台湾经济部10月14日表示，台湾中油与阿拉斯加天然气管线开发公司就阿拉斯加液化天然气项目取得进展。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-14T07:09:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/trump-taiwan-alaska-lng-30-percent-00806d",
+      "reference": [
+        "联合早报",
+        "世界日报",
+        "中央通訊社",
+        "韩国国际广播电台"
+      ],
+      "section": "world",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "chiang-wan-an-rethinks-songshan-airport-relocation-f34c77",
+      "title": "顾立雄称松山机场迁建须保障防卫能力",
+      "description": "台湾立法院外交及国防委员会10月14日就松山机场迁建与台中机场扩建举行专题报告和质询。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-14T06:59:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/chiang-wan-an-rethinks-songshan-airport-relocation-f34c77",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 8,
       "sources": []
     },
     {
@@ -44,6 +204,24 @@
       ],
       "section": "world",
       "sourceCount": 57,
+      "sources": []
+    },
+    {
+      "id": "asml-raises-annual-revenue-outlook-ai-demand-5a2742",
+      "title": "艾司摩尔因AI需求上调全年营收预测",
+      "description": "荷兰芯片设备制造商艾司摩尔（ASML）公布第三季度营收创纪录，并上调全年营收预测下限。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-14T06:57:07+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/asml-raises-annual-revenue-outlook-ai-demand-5a2742",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -84,24 +262,21 @@
       "sources": []
     },
     {
-      "id": "china-north-korea-open-new-yalu-river-bridge-b42863",
-      "title": "中朝新鸭绿江大桥将于15日正式开通",
-      "description": "连接中国辽宁省丹东市与朝鲜平安北道新义州市的新鸭绿江大桥定于10月15日正式开通，中朝双方将共同举行开通仪式。",
+      "id": "harris-county-ice-agent-crash-investigation-charges-0bfdcf",
+      "title": "哈里斯郡检方调查ICE探员撞人案称可能提刑事指控",
+      "description": "哈里斯郡检察长肖恩·提尔称，检方正调查美国移民与海关执法局（ICE）一名探员于10月10日驾车撞倒逃跑男子一事，并可能提出刑事指控。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-14T06:47:00+00:00",
+      "updatedAt": "2026-10-14T06:40:25+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/china-north-korea-open-new-yalu-river-bridge-b42863",
+      "url": "https://kaopu.news/story/2026-10-14/harris-county-ice-agent-crash-investigation-charges-0bfdcf",
       "reference": [
-        "联合早报",
-        "中央通訊社",
-        "韩民族日报",
-        "韩国国际广播电台"
+        "世界日报"
       ],
-      "section": "china",
-      "sourceCount": 6,
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -123,6 +298,24 @@
       ],
       "section": "us",
       "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "bank-of-america-exits-moonshot-hong-kong-ipo-3239c7",
+      "title": "据报美国银行退出月之暗面香港IPO潜在银行名单",
+      "description": "美国银行据报已退出月之暗面香港IPO的潜在银行名单。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-14T06:35:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/bank-of-america-exits-moonshot-hong-kong-ipo-3239c7",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -162,6 +355,24 @@
       "sources": []
     },
     {
+      "id": "dhs-says-new-york-rejects-ice-detainers-a727a7",
+      "title": "美国国土安全部称纽约未执行1.6万项ICE拘留请求",
+      "description": "美国国土安全部10月12日公布统计，称特朗普再次就任总统以来，纽约州及地方机构未落实逾1.6万项移民及海关执法局（ICE）的拘留请求。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-14T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/dhs-says-new-york-rejects-ice-detainers-a727a7",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "georgia-ice-detainees-hunger-strike-release-6d608e",
       "title": "乔州拘留中心约500人绝食要求审理期间获释",
       "description": "律师、家属及倡议团体估计，乔治亚州福克斯顿D. Ray James移民拘留中心约500名被拘留者参与绝食抗议，要求在移民案件审理期间获释，并反对长期羁押和恶劣生活条件。",
@@ -177,6 +388,24 @@
       ],
       "section": "us",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "huajin-aramco-petrochemical-complex-receives-first-crude-8151ab",
+      "title": "华锦阿美石化综合体接收首船原油",
+      "description": "华锦阿美石化综合体已接收首船阿拉伯原油。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-14T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/huajin-aramco-petrochemical-complex-receives-first-crude-8151ab",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -220,6 +449,24 @@
       "sources": []
     },
     {
+      "id": "eom-ji-sung-racial-abuse-police-probe-e01439",
+      "title": "严智星疑遭种族歧视辱骂 英国警方展开调查",
+      "description": "韩国国脚严智星在英格兰足球冠军联赛比赛期间疑遭种族歧视辱骂。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-14T06:27:45+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/eom-ji-sung-racial-abuse-police-probe-e01439",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "sports",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "white-house-zacharia-lawyer-credentials-questioned-948361",
       "title": "白宫新发言人扎卡里亚律师资格遭质疑",
       "description": "白宫新任发言人凯蒂·扎卡里亚在上任后的首场新闻简报会上，被问及在哪个州通过律师资格考试时，称自己是在旅居中国期间取得资格。",
@@ -235,27 +482,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "heilongjiang-business-delegation-iturup-visit-f2de53",
-      "title": "黑龙江代表团赴择捉岛考察合作项目",
-      "description": "黑龙江省行政部门及企业界人士组成的代表团近日赴俄罗斯实际控制的择捉岛，考察旅游和水产养殖合作项目。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T06:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/heilongjiang-business-delegation-iturup-visit-f2de53",
-      "reference": [
-        "共同网",
-        "日经",
-        "日本放送协会",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -808,24 +1034,24 @@
       "sources": []
     },
     {
-      "id": "trump-taiwan-alaska-lng-30-percent-00806d",
-      "title": "台湾中油拟年购600万吨阿拉斯加液化天然气",
-      "description": "台湾经济部10月14日公布，台湾中油正与美国阿拉斯加天然气管线开发公司推进合作。",
+      "id": "houthis-claim-strikes-saudi-targets-9f88db",
+      "title": "胡塞连袭沙特机场造成14死、300多人受伤",
+      "description": "也门胡塞武装连续袭击沙特机场及其他目标，10月10日至11日，利雅得哈立德国王国际机场两度遇袭，两起机场袭击共造成14人死亡、300多人受伤。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-14T05:45:00+00:00",
+      "updatedAt": "2026-10-14T05:46:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/trump-taiwan-alaska-lng-30-percent-00806d",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/houthis-claim-strikes-saudi-targets-9f88db",
       "reference": [
+        "法广",
         "联合早报",
-        "世界日报",
-        "中央通訊社",
-        "韩国国际广播电台"
+        "公视",
+        "澎湃新闻"
       ],
       "section": "world",
-      "sourceCount": 7,
+      "sourceCount": 75,
       "sources": []
     },
     {
@@ -863,26 +1089,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "zelenskyy-says-kyiv-lacked-ally-warning-71fe2a",
-      "title": "俄军弹道导弹袭击基辅能源设施 一栋住宅楼遭击中致一人死亡",
-      "description": "俄罗斯10月13日向乌克兰首都基辅发射弹道导弹，袭击主要针对能源设施；另有一栋高层住宅楼遭导弹击中，造成至少一人死亡。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T05:40:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/zelenskyy-says-kyiv-lacked-ally-warning-71fe2a",
-      "reference": [
-        "联合早报",
-        "法广",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -1098,44 +1304,6 @@
       "sources": []
     },
     {
-      "id": "china-taiwan-affairs-office-bans-vway-trade-d9bccd",
-      "title": "国台办宣布惩戒沈伯洋父亲名下VWAY公司",
-      "description": "中国大陆国台办10月14日宣布，对沈伯洋父亲沈土城名下的VWAY CO., LTD.实施惩戒，禁止该公司与中国大陆组织、企业和个人进行交易、合作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T05:02:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/china-taiwan-affairs-office-bans-vway-trade-d9bccd",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "chiang-wan-an-rethinks-songshan-airport-relocation-f34c77",
-      "title": "台湾立法院听取松山机场迁建报告各部门强调审慎评估",
-      "description": "台湾立法院外交及国防委员会10月14日就松山机场迁建、台中机场扩建及机场军民航功能调整举行专案报告，国防部和交通部说明相关评估意见。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T05:00:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/chiang-wan-an-rethinks-songshan-airport-relocation-f34c77",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
       "id": "cao-hsing-cheng-brother-denied-entry-china-d24fb1",
       "title": "国台办称曹兴诚弟弟近日在上海遭拒入境",
       "description": "中国大陆国台办发言人陈斌华10月14日在例行记者会上披露，联华电子前董事长曹兴诚的弟弟近期尝试入境中国大陆时，在上海机场未获放行。",
@@ -1287,27 +1455,6 @@
       "sources": []
     },
     {
-      "id": "houthis-claim-strikes-saudi-targets-9f88db",
-      "title": "特朗普称可能要求土耳其加入沙特打击胡塞行动",
-      "description": "也门胡塞武装10月10日至11日连续袭击沙特首都利雅得哈立德国王国际机场等目标，造成人员死伤并严重扰乱机场运营。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T04:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/houthis-claim-strikes-saudi-targets-9f88db",
-      "reference": [
-        "法广",
-        "联合早报",
-        "公视",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 72,
-      "sources": []
-    },
-    {
       "id": "bytedance-seed-reportedly-forms-safety-alignment-unit-e35fc5",
       "title": "字节跳动Seed设立独立模型安全与对齐部门",
       "description": "字节跳动旗下人工智能研发团队Seed近日宣布设立独立的模型安全与对齐部门，旨在提升模型安全能力并防范前沿风险。",
@@ -1340,24 +1487,6 @@
       "url": "https://kaopu.news/story/2026-10-14/malaysia-china-satellite-flood-warning-ae8e0f",
       "reference": [
         "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-environment-ministry-creates-nuclear-safety-bureaus-ca4614",
-      "title": "生态环境部招考信息显示已新设两个核电监管司",
-      "description": "国家公务员局近日发布的2027年度公务员招考简章显示，生态环境部职位信息中列有核电建造安全监管司和核电运行安全监管司。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T04:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/china-environment-ministry-creates-nuclear-safety-bureaus-ca4614",
-      "reference": [
-        "澎湃新闻"
       ],
       "section": "china",
       "sourceCount": 1,
@@ -2913,24 +3042,6 @@
       "sources": []
     },
     {
-      "id": "thailand-tourist-entry-exit-fees-293e05",
-      "title": "泰国拟向外国游客征收1450泰铢出入境费用",
-      "description": "泰国政府拟对离境旅客征收1000泰铢费用，泰国旅客和外国旅客均适用；政府还计划向乘飞机抵达的外国游客收取450泰铢入境费。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T13:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/thailand-tourist-entry-exit-fees-293e05",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "wanying-zhang-arrested-spying-taiwan-president-son-818df0",
       "title": "美联邦法官裁定张婉莹继续羁押",
       "description": "美国洛杉矶联邦法官史蒂夫·金10月7日裁定，继续羁押涉嫌受中国官员指示监视台湾总统赖清德之子及其家人的加州房地产经纪人张婉莹，不准保释。",
@@ -3295,25 +3406,6 @@
       "sources": []
     },
     {
-      "id": "wang-yi-meets-patrushev-arctic-cooperation-9591b2",
-      "title": "王毅与帕特鲁舍夫确认加强北极航道合作",
-      "description": "王毅10月12日在北京会见俄罗斯总统助理帕特鲁舍夫，并转达中国国家主席习近平对俄罗斯总统普京的问候。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T09:49:53+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/wang-yi-meets-patrushev-arctic-cooperation-9591b2",
-      "reference": [
-        "联合早报",
-        "日本放送协会"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "goldman-china-ai-stocks-add-five-trillion-market-cap-58fe4c",
       "title": "高盛称中国AI公司创造近5万亿美元市值",
       "description": "高盛首席中国股票策略师刘劲津及其团队近日发布报告称，自2025年初的“DeepSeek时刻”以来，中国人工智能相关上市公司通过股价上涨和首次公开募股，累计创造近5万亿美元市值。",
@@ -3365,24 +3457,6 @@
         "第一财经"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-coast-guard-ships-enter-kinmen-waters-140ceb",
-      "title": "四艘中国海警船驶入金门限制水域后驶出",
-      "description": "10月13日，4艘中国海警船驶入金门限制水域，台湾海巡署调派巡防艇伴航监控。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T08:54:39+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/china-coast-guard-ships-enter-kinmen-waters-140ceb",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
@@ -3496,42 +3570,6 @@
       ],
       "section": "life",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "fcc-vote-foreign-lab-accreditation-rules-3cf1b8",
-      "title": "FCC拟于10月29日表决更新外国实验室认可程序",
-      "description": "美国联邦通信委员会（FCC）计划于10月29日投票，审议更新外国电子设备测试实验室及电信认证机构（TCBs）的认可程序。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T06:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/fcc-vote-foreign-lab-accreditation-rules-3cf1b8",
-      "reference": [
-        "财新"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "mamdani-launches-nypd-force-policy-review-3d80e4",
-      "title": "曼达尼启动纽约市警十年来首次武力政策检讨",
-      "description": "纽约市长曼达尼于2026年10月12日宣布，纽约市警将开展十年来首次武力使用政策检讨。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T06:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/mamdani-launches-nypd-force-policy-review-3d80e4",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -4547,24 +4585,6 @@
       "url": "https://kaopu.news/story/2026-10-09/yu-chengdong-china-develops-euv-lithography-tools-de0bab",
       "reference": [
         "联合早报"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "meta-business-grows-amid-trust-scrutiny-212736",
-      "title": "Meta业务面对青少年安全诉讼仍保持增长",
-      "description": "Meta旗下Instagram和WhatsApp用户数量及人工智能助手Muse的使用量仍在增长，公司第二季度营收同比上升28%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T08:04:54+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/meta-business-grows-amid-trust-scrutiny-212736",
-      "reference": [
-        "英国广播公司"
       ],
       "section": "tech",
       "sourceCount": 1,
