@@ -1,19 +1,19 @@
 {
   "details": {
-    "date": "2026-10-13",
+    "date": "2026-10-14",
     "timestamp": 1791933503,
     "totalPages": 1,
-    "total": 271
+    "total": 272
   },
   "stories": [
     {
       "id": "pope-leo-xiv-lung-nodule-surgery-b05e3e",
-      "title": "教宗良十四世手术切除右肺下叶时确诊肺癌",
-      "description": "教宗良十四世在罗马杰梅利医院接受右肺下叶切除手术，医生在手术过程中确认其肺部肿瘤为癌症。",
+      "title": "教宗良十四世手术切除右肺癌性肿瘤",
+      "description": "教宗良十四世10月13日在罗马杰梅利医院接受手术，切除右肺下叶的癌性肿瘤。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-13T21:45:28.673000+00:00",
+      "updatedAt": "2026-10-13T23:15:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-11",
       "url": "https://kaopu.news/story/2026-10-11/pope-leo-xiv-lung-nodule-surgery-b05e3e",
@@ -24,7 +24,83 @@
         "加拿大国际广播电台"
       ],
       "section": "world",
-      "sourceCount": 4,
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "aramco-dhahran-office-missile-damage-dca57a",
+      "title": "消息人士称导弹击中沙特阿美办公楼致顶部三层受损",
+      "description": "沙特阿美位于东部宰赫兰总部园区的一栋行政办公楼遭袭起火，顶部三层受损。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T23:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/aramco-dhahran-office-missile-damage-dca57a",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "stepx-launches-neo-agentic-phone-7c82d5",
+      "title": "阶跃终端发布首款智能体手机STEPX Neo",
+      "description": "阶跃终端10月13日在上海发布首款智能体手机STEPX Neo先行版，售价3999元，搭载Step AOS 1.0及阶跃Amoo。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T23:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/stepx-launches-neo-agentic-phone-7c82d5",
+      "reference": [
+        "澎湃新闻",
+        "财新"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "musk-spends-276-million-help-republicans-hold-congress-362e25",
+      "title": "马斯克本轮选举捐款3.66亿美元 自7月以来2.76亿美元助共和党",
+      "description": "埃隆·马斯克在2025至2026年美国选举周期内向联邦级政治委员会捐款约3.66亿美元，其中自2026年7月以来约2.76亿美元流向共和党团体及相关超级政治行动委员会，支持共和党备战中期选举。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T22:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/musk-spends-276-million-help-republicans-hold-congress-362e25",
+      "reference": [
+        "世界日报",
+        "中央通訊社",
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "australia-parties-back-migration-cuts-student-curbs-bfea57",
+      "title": "澳大利亚两大党支持削减移民人数并限制国际学生",
+      "description": "澳大利亚围绕移民的政策辩论出现明显变化：该国两大主要政党都支持减少移民人数，并赞成限制国际学生。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-13T22:07:32+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/australia-parties-back-migration-cuts-student-curbs-bfea57",
+      "reference": [
+        "SBS"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -865,24 +941,6 @@
       ],
       "section": "us",
       "sourceCount": 25,
-      "sources": []
-    },
-    {
-      "id": "stepx-launches-neo-agentic-phone-7c82d5",
-      "title": "阶跃终端发布首款智能体手机STEPX Neo",
-      "description": "大模型原生AI终端品牌STEPX（阶跃终端）在上海举行发布会，推出旗下首款智能体手机STEPX Neo。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T13:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/stepx-launches-neo-agentic-phone-7c82d5",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1914,27 +1972,6 @@
       "sources": []
     },
     {
-      "id": "musk-spends-276-million-help-republicans-hold-congress-362e25",
-      "title": "马斯克投入3.66亿美元助共和党维持国会控制权",
-      "description": "埃隆·马斯克在2025至2026年美国选举周期向联邦层级政治委员会捐款约3.66亿美元，超过他在2024年总统选举期间约2.9亿美元的政治投入。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T09:47:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/musk-spends-276-million-help-republicans-hold-congress-362e25",
-      "reference": [
-        "世界日报",
-        "中央通訊社",
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "goldman-china-ai-stocks-add-five-trillion-market-cap-58fe4c",
       "title": "高盛称中国AI公司创造近5万亿美元市值",
       "description": "高盛首席中国股票策略师刘劲津及其团队近日发布报告称，自2025年初的“DeepSeek时刻”以来，中国人工智能相关上市公司通过股价上涨和首次公开募股，累计创造近5万亿美元市值。",
@@ -2640,25 +2677,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "hackers-hijack-civilian-cameras-track-military-targets-29986a",
-      "title": "黑客入侵民用摄像头搜集战时情报",
-      "description": "据《华尔街日报》报道，各方黑客已入侵民用网络摄像头，将影像用于战时情报搜集、追踪军事动向、寻找打击目标和评估攻击效果。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T06:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/hackers-hijack-civilian-cameras-track-military-targets-29986a",
-      "reference": [
-        "朝鲜日报",
-        "世界日报"
-      ],
-      "section": "world",
-      "sourceCount": 3,
       "sources": []
     },
     {
