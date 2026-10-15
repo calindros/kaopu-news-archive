@@ -1,11 +1,102 @@
 {
   "details": {
     "date": "2026-10-15",
-    "timestamp": 1792085983,
+    "timestamp": 1792100636,
     "totalPages": 1,
     "total": 255
   },
   "stories": [
+    {
+      "id": "humanoid-robots-enter-manufacturing-63334f",
+      "title": "人形机器人开始进入制造业生产一线",
+      "description": "物理AI和人形机器人正进入制造业生产一线。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T21:02:32+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/humanoid-robots-enter-manufacturing-63334f",
+      "reference": [
+        "日经"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-mmx-phobos-sample-return-mission-942d05",
+      "title": "日本将发射MMX探测器采集火卫一样本",
+      "description": "日本宇宙航空研究开发机构（JAXA）计划于10月20日凌晨4时41分左右，从鹿儿岛县种子岛宇宙中心用“H3”大型火箭发射火星卫星探测器“MMX”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T21:02:32+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/japan-mmx-phobos-sample-return-mission-942d05",
+      "reference": [
+        "日经"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "porsche-plans-cuts-fuel-model-expansion-b28cd8",
+      "title": "保时捷拟缩减员工并扩充燃油车型改善盈利",
+      "description": "保时捷公布面向2035年的经营战略，计划最多削减30%的员工，并增加中大型车和跑车等燃油车型，以改善盈利。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T21:02:32+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/porsche-plans-cuts-fuel-model-expansion-b28cd8",
+      "reference": [
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "netanyahu-trump-discuss-joint-strike-iran-985018",
+      "title": "内塔尼亚胡被曝与卢比奥磋商打击伊朗计划",
+      "description": "内塔尼亚胡当地时间10月15日与美国国务卿卢比奥通电话，讨论对伊朗实施军事打击的计划。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T21:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/netanyahu-trump-discuss-joint-strike-iran-985018",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "white-house-zacharia-lawyer-credentials-questioned-948361",
+      "title": "问责组织要求调查扎卡里亚律师资格",
+      "description": "非营利监督组织问责运动已向加州律师协会投诉，要求调查白宫新闻秘书凯蒂·扎卡里亚是否在没有美国律师执照的情况下，向公众表示自己具备执业资格。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T20:27:48+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/white-house-zacharia-lawyer-credentials-questioned-948361",
+      "reference": [
+        "世界日报",
+        "纽约时报"
+      ],
+      "section": "us",
+      "sourceCount": 4,
+      "sources": []
+    },
     {
       "id": "yemen-aden-presidential-palace-hit-five-missiles-17129e",
       "title": "也门政府卫生部长称胡塞武装袭击亚丁总统府致5死16伤",
@@ -39,6 +130,24 @@
         "加拿大国际广播电台"
       ],
       "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "germany-nvidia-industrial-ai-agreement-f76412",
+      "title": "《商务日报》称德国拟与英伟达签署工业人工智能协议",
+      "description": "《商务日报》援引知情人士称，德国计划与美国芯片企业英伟达开展广泛合作，推动人工智能在德国工业领域的应用。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T19:30:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/germany-nvidia-industrial-ai-agreement-f76412",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "ai",
       "sourceCount": 1,
       "sources": []
     },
@@ -1916,24 +2025,6 @@
       "sources": []
     },
     {
-      "id": "eu-coordinates-blocking-statute-counter-us-sanctions-cbb7c9",
-      "title": "NHK称欧盟协调启动阻断法令反制美国制裁",
-      "description": "据NHK报道，欧盟正协调启动“阻断法令”，回应特朗普政府对国际刑事法院（ICC）的制裁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T10:22:08+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/eu-coordinates-blocking-statute-counter-us-sanctions-cbb7c9",
-      "reference": [
-        "日本放送协会"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "hong-kong-banks-offer-deposit-deals-9b72c3",
       "title": "香港银行推高息定存吸引访客赴港开户",
       "description": "香港多家银行推出面向新开户客户的港元定期存款优惠，利率最高达到年化20%。",
@@ -2040,25 +2131,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "imf-warns-low-income-countries-debt-restructuring-560f95",
-      "title": "IMF预计波斯湾经济中期难回战前轨迹",
-      "description": "国际货币基金组织（IMF）警告，伊朗战争冲击中东和中亚经济，波斯湾国家中期内难以回到战前发展轨迹。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T10:01:35+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/imf-warns-low-income-countries-debt-restructuring-560f95",
-      "reference": [
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -2864,25 +2936,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "white-house-zacharia-lawyer-credentials-questioned-948361",
-      "title": "问责组织投诉白宫发言人扎卡里亚律师资格",
-      "description": "非营利监督组织“问责运动”已向加州律师协会递交投诉，要求调查白宫新任发言人凯蒂·扎卡里亚是否在没有律师执业执照的情况下，向公众声称自己具备相关资格。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T06:23:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/white-house-zacharia-lawyer-credentials-questioned-948361",
-      "reference": [
-        "世界日报",
-        "纽约时报"
-      ],
-      "section": "us",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -3906,24 +3959,6 @@
       "sources": []
     },
     {
-      "id": "singapore-launches-quantum-safe-grant-dacb42",
-      "title": "新加坡网安局推出量子安全升级津贴",
-      "description": "新加坡网络安全局推出量子安全启动津贴，帮助非政府机构测试抗量子加密技术，为升级现有系统做准备。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T09:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/singapore-launches-quantum-safe-grant-dacb42",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "us-cracks-north-korean-remote-worker-scheme-b2d5c9",
       "title": "美国联邦调查局捣毁朝鲜远程求职诈骗网络",
       "description": "美国联邦调查局（FBI）与得克萨斯州北区联邦检察官办公室公布，执法人员已破获一个协助朝鲜信息技术人员冒充美国远程雇员的网络。",
@@ -4014,44 +4049,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-colleges-limit-ai-detection-cheating-0262ea",
-      "title": "美国高校重构作业考核应对AI作弊",
-      "description": "美国高校正调整学生作业考核方式，并限制将AI检测结果作为认定作弊的主要依据。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-11",
-      "url": "https://kaopu.news/story/2026-10-11/us-colleges-limit-ai-detection-cheating-0262ea",
-      "reference": [
-        "联合早报",
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "google-opens-gemini-4-argon-0e2eac",
-      "title": "谷歌发布Gemini 4 Argon并开放付费调用",
-      "description": "谷歌发布前沿模型Gemini 4 Argon，面向复杂、多步骤任务，并开放给开发者和符合条件的订阅用户。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T05:34:36.321976+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/google-opens-gemini-4-argon-0e2eac",
-      "reference": [
-        "中央通訊社",
-        "第一财经"
-      ],
-      "section": "ai",
-      "sourceCount": 2,
       "sources": []
     },
     {
