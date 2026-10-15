@@ -1,11 +1,321 @@
 {
   "details": {
     "date": "2026-10-15",
-    "timestamp": 1792028039,
+    "timestamp": 1792035254,
     "totalPages": 1,
-    "total": 264
+    "total": 263
   },
   "stories": [
+    {
+      "id": "french-supermarkets-refrigeration-hack-food-loss-790a16",
+      "title": "法国数百家超市制冷系统遭黑客攻击食品损毁",
+      "description": "法国数百家超市的联网制冷系统遭大规模网络攻击，冷藏柜和冷冻柜被远程调高温度，导致食品损毁，检方称部分门店还发生火灾。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T02:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/french-supermarkets-refrigeration-hack-food-loss-790a16",
+      "reference": [
+        "加拿大国际广播电台",
+        "联合早报",
+        "澎湃新闻",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "changxin-storage-plans-4f2-ddr5-rdimm-a7b394",
+      "title": "长鑫存储计划年底前推出4F2服务器DDR5",
+      "description": "长鑫存储计划在2026年底前推出采用4F2架构的服务器用DDR5内存产品。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T02:21:51+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-10",
+      "url": "https://kaopu.news/story/2026-10-10/changxin-storage-plans-4f2-ddr5-rdimm-a7b394",
+      "reference": [
+        "第一财经",
+        "联合早报",
+        "韩民族日报"
+      ],
+      "section": "tech",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "asml-raises-annual-revenue-outlook-ai-demand-5a2742",
+      "title": "阿斯麦上调全年营收预测至440亿至450亿欧元",
+      "description": "10月14日，阿斯麦公布2026年第三季度业绩，净销售额达117亿欧元，同比增长55%，创单季新高；净利润为50亿欧元，同比增长133.4%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T02:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/asml-raises-annual-revenue-outlook-ai-demand-5a2742",
+      "reference": [
+        "中央通訊社",
+        "法广",
+        "财新"
+      ],
+      "section": "tech",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "republicans-reportedly-near-losing-house-control-3da351",
+      "title": "共和党被曝几乎失去众议院控制权",
+      "description": "共和党内部人士几乎已认定该党难以守住众议院控制权，党内策略正转向尽量减少席位损失并保住参议院多数。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T02:15:06+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/republicans-reportedly-near-losing-house-control-3da351",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "takaichi-us-nuclear-entry-exception-debate-ba2f3f",
+      "title": "高市称无核三原则在安保文件中的表述仍可讨论",
+      "description": "日本首相高市早苗10月14日在众议院预算委员会说，日本拟于2026年底修订《国家安全保障战略》等三份安保文件，文件内容及无核三原则的写法仍可讨论。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T02:12:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/takaichi-us-nuclear-entry-exception-debate-ba2f3f",
+      "reference": [
+        "共同网",
+        "日经"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "takaichi-weighs-yanagi-minister-fitness-0390a3",
+      "title": "日本农林水产相簗和生辞职获高市接受",
+      "description": "日本首相高市早苗10月14日晚接受农林水产相簗和生递交的辞呈。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T02:12:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/takaichi-weighs-yanagi-minister-fitness-0390a3",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "日经"
+      ],
+      "section": "asia",
+      "sourceCount": 13,
+      "sources": []
+    },
+    {
+      "id": "hong-kong-exchange-suspends-chabaidao-trading-a432d2",
+      "title": "香港证监会因疑似IPO操纵令茶百道停牌",
+      "description": "香港证监会因怀疑茶百道首次公开发行期间股份需求遭人为操纵，10月13日指令香港联交所自当日上午9时起暂停其H股交易，停牌将持续至另行通知。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T02:12:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/hong-kong-exchange-suspends-chabaidao-trading-a432d2",
+      "reference": [
+        "澎湃新闻",
+        "财新",
+        "联合早报",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "houthis-claim-strikes-saudi-targets-9f88db",
+      "title": "胡塞袭击沙特机场和能源设施 利雅得机场遇袭致13人死亡",
+      "description": "也门胡塞武装此前已袭击沙特机场和能源设施，沙特主导的联军则空袭也门目标，双方冲突升级。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T02:02:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-06",
+      "url": "https://kaopu.news/story/2026-10-06/houthis-claim-strikes-saudi-targets-9f88db",
+      "reference": [
+        "法广",
+        "联合早报",
+        "公视",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 80,
+      "sources": []
+    },
+    {
+      "id": "wang-fengchao-changsha-bribery-prosecution-b74f26",
+      "title": "长沙检方对成都原市长王凤朝提起公诉",
+      "description": "长沙市人民检察院近日将成都市委原副书记、市政府原市长王凤朝涉嫌受贿案诉至长沙市中级人民法院。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T02:02:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/wang-fengchao-changsha-bribery-prosecution-b74f26",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nikkei-drops-3000-points-seventh-largest-f2e1f5",
+      "title": "日经指数盘中跌逾3000点创史上第七大盘中跌幅",
+      "description": "东京股市日经225指数10月15日盘中一度下跌逾3000点，按下跌点数计为史上第七大盘中跌幅；韩国综合股价指数（KOSPI）早盘跌幅超过7%，触发交易所熔断机制。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T01:59:06+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/nikkei-drops-3000-points-seventh-largest-f2e1f5",
+      "reference": [
+        "共同网",
+        "中央通訊社",
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "imf-forecasts-japan-gdp-rank-sixth-2027-3f92ea",
+      "title": "IMF预测日本名义GDP排名2027年降至全球第六",
+      "description": "国际货币基金组织10月最新估算显示，日本名义GDP在2027年将被印度和英国超过，排名降至全球第六。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T01:58:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/imf-forecasts-japan-gdp-rank-sixth-2027-3f92ea",
+      "reference": [
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tsinghua-team-builds-continuous-mouse-embryo-model-65fa40",
+      "title": "清华团队构建连续发育的小鼠胚胎模型",
+      "description": "清华大学丁胜团队从化学诱导的全能性干细胞出发，构建出连续发育的小鼠胚胎模型。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T01:51:32.963834+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/tsinghua-team-builds-continuous-mouse-embryo-model-65fa40",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-taiwan-alaska-lng-30-percent-00806d",
+      "title": "台湾中油拟年购600万吨阿拉斯加天然气",
+      "description": "台湾经济部10月14日证实，台湾中油与阿拉斯加液化天然气项目的美国开发方协商取得重大进展。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T01:26:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/trump-taiwan-alaska-lng-30-percent-00806d",
+      "reference": [
+        "联合早报",
+        "世界日报",
+        "中央通訊社",
+        "韩国国际广播电台"
+      ],
+      "section": "world",
+      "sourceCount": 13,
+      "sources": []
+    },
+    {
+      "id": "anthropic-third-quarter-revenue-growth-slows-29ed3d",
+      "title": "Anthropic三季度营收增速回落至约46%",
+      "description": "当地时间10月14日，Anthropic在闭门投资者日披露，第三季度营收为168亿美元，较第二季度增长约46%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T01:24:57.778682+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/anthropic-third-quarter-revenue-growth-slows-29ed3d",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "fed-beige-book-flags-price-pressure-2b0909",
+      "title": "美联储褐皮书显示半数辖区物价压力强劲或加剧",
+      "description": "美国联邦储备局10月14日公布最新褐皮书。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T01:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/fed-beige-book-flags-price-pressure-2b0909",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "ryohin-keikaku-profit-hits-record-china-growth-a901ff",
+      "title": "良品计划净利润创新高中国业务成主要动力",
+      "description": "良品计划10月14日公布截至2026年8月的财年业绩，合并净利润同比增长50%至764亿日元，连续第三年刷新历史纪录。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T01:22:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/ryohin-keikaku-profit-hits-record-china-growth-a901ff",
+      "reference": [
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "north-korea-tests-two-submarine-launched-cruise-missiles-97785e",
       "title": "朝鲜在东部海域试射两种潜射战略巡航导弹",
@@ -46,6 +356,24 @@
       "sources": []
     },
     {
+      "id": "apple-plans-intelligence-china-launch-december-8ebb7b",
+      "title": "彭博称苹果计划12月在中国大陆推出Apple智能",
+      "description": "据联合早报转述，彭博社援引知情人士称，苹果计划于12月在中国大陆推出Apple智能，并将其纳入iOS 27.3更新。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T01:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/apple-plans-intelligence-china-launch-december-8ebb7b",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "san-francisco-district-plans-neighborhood-school-assignment-d967fb",
       "title": "旧金山学区教委通过决议推动小学就近分配取代抽签制",
       "description": "旧金山联合学区教育委员会10月13日晚以5票赞成、2票反对通过决议，推动小学入学分配从现行抽签模式转向以社区为基础、优先就近的制度。",
@@ -61,6 +389,42 @@
       ],
       "section": "life",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "australian-coal-prices-rise-forty-percent-a3f337",
+      "title": "澳大利亚高品质动力煤价年内上涨约四成",
+      "description": "澳大利亚高品质动力煤价格年初以来上涨约四成，目前仍在每吨150美元左右。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T01:08:01+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/australian-coal-prices-rise-forty-percent-a3f337",
+      "reference": [
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "brunson-says-wartime-command-transfer-standards-change-1e0a67",
+      "title": "布伦森称韩美战时指挥权移交条件出现新标准",
+      "description": "驻韩美军司令泽维尔·布伦森当地时间10月14日在华盛顿表示，韩美战时作战指挥权移交条件因计划调整而改变，美方由此形成须遵守的新标准。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T01:05:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/brunson-says-wartime-command-transfer-standards-change-1e0a67",
+      "reference": [
+        "韩国国际广播电台"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -173,27 +537,6 @@
       ],
       "section": "china",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "trump-taiwan-alaska-lng-30-percent-00806d",
-      "title": "台湾中油拟年购600万吨阿拉斯加液化天然气",
-      "description": "台湾经济部10月14日表示，台湾中油与美国阿拉斯加天然气管线开发商就采购液化天然气及参与项目开发已取得重大进展。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T00:42:29+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/trump-taiwan-alaska-lng-30-percent-00806d",
-      "reference": [
-        "联合早报",
-        "世界日报",
-        "中央通訊社",
-        "韩国国际广播电台"
-      ],
-      "section": "world",
-      "sourceCount": 12,
       "sources": []
     },
     {
@@ -532,27 +875,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "hong-kong-exchange-suspends-chabaidao-trading-a432d2",
-      "title": "香港证监会因IPO疑遭操纵令茶百道停牌",
-      "description": "香港证监会指令港交所自10月13日上午9时起暂停四川百茶百道实业股份有限公司（茶百道）H股交易。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T23:23:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/hong-kong-exchange-suspends-chabaidao-trading-a432d2",
-      "reference": [
-        "澎湃新闻",
-        "财新",
-        "联合早报",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -1472,25 +1794,6 @@
       "sources": []
     },
     {
-      "id": "takaichi-weighs-yanagi-minister-fitness-0390a3",
-      "title": "日本农相簗和生辞职，高市接受辞呈",
-      "description": "日本农林水产大臣簗和生10月14日在首相官邸向首相高市早苗提交辞呈，高市予以接受。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T13:37:47+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/takaichi-weighs-yanagi-minister-fitness-0390a3",
-      "reference": [
-        "共同网",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
       "id": "bali-fuel-shortage-prompts-supply-measures-9c7f2b",
       "title": "印尼巴厘岛燃油短缺促当局采取保供措施",
       "description": "印尼巴厘岛出现燃油短缺和加油站排队。",
@@ -1601,27 +1904,6 @@
       ],
       "section": "china",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "houthis-claim-strikes-saudi-targets-9f88db",
-      "title": "特朗普称可能要求土耳其加入沙特打击胡塞行动",
-      "description": "也门胡塞武装10月10日至11日接连袭击沙特利雅得哈立德国王国际机场，两轮袭击共造成14人死亡、300多人受伤，机场暂停运营并出现大批航班取消。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T13:02:39+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/houthis-claim-strikes-saudi-targets-9f88db",
-      "reference": [
-        "法广",
-        "联合早报",
-        "公视",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 79,
       "sources": []
     },
     {
@@ -1751,24 +2033,6 @@
       ],
       "section": "world",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "turkey-police-raid-halk-tv-halts-broadcasts-d64dd9",
-      "title": "土耳其警方突袭亲反对派电视台后节目停播",
-      "description": "亲反对派电视台人民电视台（Halk TV）在社交媒体X称，警方清晨突袭其总部，当局指派委托管理人后，节目已暂停。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T12:33:52+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/turkey-police-raid-halk-tv-halts-broadcasts-d64dd9",
-      "reference": [
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2474,24 +2738,6 @@
       "sources": []
     },
     {
-      "id": "takaichi-us-nuclear-entry-exception-debate-ba2f3f",
-      "title": "高市称美军携核入日例外安排有探讨空间",
-      "description": "日本首相高市早苗在众议院预算委员会讨论年底修订安保相关三份文件时表示，冈田克也过去的国会答辩可被理解为允许美军在例外情况下携核武器进入日本；她称这一问题“有探讨的空间”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T08:50:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/takaichi-us-nuclear-entry-exception-debate-ba2f3f",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-employers-social-insurance-fines-triple-54bc7e",
       "title": "中国新规11月起对欠缴社保用人单位最高罚三倍",
       "description": "中国国家税务总局发布《全国税务行政处罚裁量基准（2026年版）》，将于2026年11月1日起施行。",
@@ -2547,63 +2793,6 @@
       "sources": []
     },
     {
-      "id": "germany-push-eu-china-import-curbs-b676e9",
-      "title": "德国据报拟推动欧盟扩大对华进口限制",
-      "description": "彭博社引述知情人士报道，德国政府拟要求欧盟扩大对中国商品的进口保障措施，涉及化工、机械工程，制药业也可能纳入。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T08:37:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/germany-push-eu-china-import-curbs-b676e9",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "cngr-reportedly-negotiates-80-percent-pt-gni-stake-1fdda6",
-      "title": "中伟新材料据报洽谈收购印尼德龙三期八成股权",
-      "description": "联合早报援引彭博社报道称，中伟新材料正与相关方面洽谈收购印度尼西亚德龙三期（PT GNI）80%的股权。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T08:33:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/cngr-reportedly-negotiates-80-percent-pt-gni-stake-1fdda6",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "lai-ching-te-national-day-benefit-speech-a7bbad",
-      "title": "赖清德促立法院审议预算争取春节前启动新台币1万元发放作业",
-      "description": "台湾总统赖清德10月14日呼吁立法院各党团在本会期尽快审议今年追加预算和2027年度中央政府总预算。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T08:26:58+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/lai-ching-te-national-day-benefit-speech-a7bbad",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "公视",
-        "英国广播公司"
-      ],
-      "section": "asia",
-      "sourceCount": 57,
-      "sources": []
-    },
-    {
       "id": "kevin-rudd-warns-us-rare-earth-tariff-risk-c4def5",
       "title": "陆克文警告稀土供应问题仍存美国大幅加税风险",
       "description": "澳大利亚前总理、亚洲协会主席陆克文10月14日在新德里彭博新经济论坛期间受访时说，中美元首上月在华盛顿会晤后，两国关系进入“相对稳定模式”。",
@@ -2622,61 +2811,6 @@
       "sources": []
     },
     {
-      "id": "wall-street-banks-quarterly-profit-growth-f19a08",
-      "title": "华尔街四大行三季度利润同比增长14%",
-      "description": "10月13日，摩根大通、高盛、花旗集团和富国银行公布第三季度业绩。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T08:00:38.885609+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/wall-street-banks-quarterly-profit-growth-f19a08",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "asml-raises-annual-revenue-outlook-ai-demand-5a2742",
-      "title": "艾司摩尔因人工智能需求上调全年营收预测",
-      "description": "荷兰芯片设备制造商艾司摩尔公布了第三季度业绩，并因人工智能相关设备需求强劲，上调全年营收预测。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T07:31:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/asml-raises-annual-revenue-outlook-ai-demand-5a2742",
-      "reference": [
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "tech",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "mercari-cross-border-commerce-grows-19-fold-34edf1",
-      "title": "Mercari跨境电商流通额四年增至约19倍",
-      "description": "Mercari于10月13日公布数据显示，截至2026年6月，面向海外销售商品的跨境电商流通额在四年间增至约19倍。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T07:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/mercari-cross-border-commerce-grows-19-fold-34edf1",
-      "reference": [
-        "共同网"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "basel-optogenetic-therapy-improves-vision-2f0c89",
       "title": "巴塞尔眼科研究所报告光遗传疗法改善多数患者视力",
       "description": "巴塞尔分子与临床眼科研究所研究人员报告称，一项扩大规模的光遗传学疗法研究纳入10名视网膜色素变性患者，多数受试者的视力有所改善。",
@@ -2691,24 +2825,6 @@
         "瑞士新闻简讯"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "eu-considers-vietnam-critical-minerals-cooperation-0e6011",
-      "title": "路透称欧盟考虑加强与越南关键矿产合作",
-      "description": "路透社查阅的一份欧盟驻河内代表团内部文件显示，欧盟正考虑加强与越南的关键矿产合作，以拓宽中国以外的供应渠道。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T07:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/eu-considers-vietnam-critical-minerals-cooperation-0e6011",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -3447,25 +3563,6 @@
       "sources": []
     },
     {
-      "id": "hong-kong-tv-licenses-renewed-12-years-e2f31a",
-      "title": "香港批准三家免费电视台牌照续期12年",
-      "description": "香港特区行政长官李家超会同行政会议于10月13日批准香港电视娱乐、无线集团及有线宽频开电视的免费电视牌照续期12年。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T03:17:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/hong-kong-tv-licenses-renewed-12-years-e2f31a",
-      "reference": [
-        "中央通訊社",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "nba-restarts-china-ties-macau-games-cdf63c",
       "title": "NBA借澳门季前赛重启对华交流",
       "description": "NBA在澳门举行休斯顿火箭队与达拉斯独行侠队的季前赛，借赛事恢复与中国的交流。",
@@ -3559,24 +3656,6 @@
       ],
       "section": "us",
       "sourceCount": 29,
-      "sources": []
-    },
-    {
-      "id": "fed-officials-signal-year-end-rate-hike-e69170",
-      "title": "多名美联储官员称年底前仍可能加息",
-      "description": "当地时间10月13日，多名美联储官员表示，2026年年底前再加息仍是可能选项。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T01:52:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/fed-officials-signal-year-end-rate-hike-e69170",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3896,24 +3975,6 @@
       "sources": []
     },
     {
-      "id": "imda-tech-firms-launch-sme-ai-programs-8287cb",
-      "title": "新加坡资媒局联手三家科技企业推出中小企AI计划",
-      "description": "新加坡资讯通信媒体发展局（资媒局）与新电信、Salesforce及博彦科技推出三项计划，为中小企业提供人工智能工具免费试用、培训和技术指导。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T12:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/imda-tech-firms-launch-sme-ai-programs-8287cb",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "shanghai-industrial-expo-opens-integrated-circuit-exhibition-129aff",
       "title": "报告称中国企业工业电气化率2030年加速达34.5%",
       "description": "施耐德电气商业价值研究院和中电联电力发展研究院在2026中国国际工业博览会期间发布《中国企业新型工业电气化之路》。",
@@ -3952,24 +4013,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-fsc-agentic-ai-security-consultation-ca820b",
-      "title": "台湾金管会发布代理AI安全咨询文件征求意见",
-      "description": "台湾金管会发布《金融業運用代理AI安全諮詢文件》，并启动为期30天的公开意见征集。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T12:21:44+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/taiwan-fsc-agentic-ai-security-consultation-ca820b",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "perseverance-rover-breaks-offworld-driving-record-8592a0",
       "title": "毅力号火星车累计行驶45.2公里刷新地外纪录",
       "description": "美国国家航空航天局宣布，毅力号火星车累计行驶45.2公里，刷新地球以外天体表面行驶距离纪录。",
@@ -4004,25 +4047,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "changxin-storage-plans-4f2-ddr5-rdimm-a7b394",
-      "title": "长鑫存储称突破4F2架构并计划推出服务器内存",
-      "description": "长鑫存储称已在DRAM领域实现4F2架构技术突破，并计划于2026年底前推出首款采用该架构、面向数据中心服务器的DDR5 RDIMM产品。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T08:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/changxin-storage-plans-4f2-ddr5-rdimm-a7b394",
-      "reference": [
-        "第一财经",
-        "联合早报"
-      ],
-      "section": "tech",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -4242,24 +4266,6 @@
       "sources": []
     },
     {
-      "id": "spacex-us-low-band-spectrum-telecom-stocks-dc0ce9",
-      "title": "SpaceX同意收购美国低频段频谱后纽澳电信股下跌",
-      "description": "SpaceX上周同意收购一组美国全国性低频段频谱资产。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T09:15:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/spacex-us-low-band-spectrum-telecom-stocks-dc0ce9",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "che-hongcai-pashto-scholar-dies-aged-90-c3fd4b",
       "title": "普什图语专家车洪才逝世，享年90岁",
       "description": "中国传媒大学国际传播学院退休教授、普什图语专家车洪才于2026年10月11日下午在北京逝世，享年90岁。",
@@ -4292,24 +4298,6 @@
         "世界日报"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ememory-security-ip-arm-meta-datacenter-processor-da5fce",
-      "title": "力旺子公司安全IP进入安谋与Meta下一代处理器",
-      "description": "力旺10月12日宣布，旗下熵码科技的核心安全IP已用于安谋（Arm）与Meta共同开发的下一代数据中心处理器。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T04:08:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/ememory-security-ip-arm-meta-datacenter-processor-da5fce",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "tech",
       "sourceCount": 1,
       "sources": []
     },
