@@ -3,9 +3,48 @@
     "date": "2026-10-15",
     "timestamp": 1792085983,
     "totalPages": 1,
-    "total": 256
+    "total": 255
   },
   "stories": [
+    {
+      "id": "santa-ana-winds-southern-california-wildfire-risk-4c4f2a",
+      "title": "圣塔安那焚风加剧南加州野火风险",
+      "description": "圣塔安那焚风正在加大南加州野火风险。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T17:56:44+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/santa-ana-winds-southern-california-wildfire-risk-4c4f2a",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "character-ai-files-bankruptcy-sale-process-ba6bac",
+      "title": "Character.AI申请破产启动法院监督资产出售",
+      "description": "人工智能陪伴聊天平台Character.AI于10月12日晚向美国特拉华州破产法院申请第11章保护，并启动法院监督的资产出售程序。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T17:56:18+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/character-ai-files-bankruptcy-sale-process-ba6bac",
+      "reference": [
+        "财新",
+        "第一财经",
+        "中央通訊社",
+        "世界日报"
+      ],
+      "section": "ai",
+      "sourceCount": 4,
+      "sources": []
+    },
     {
       "id": "trump-approves-hasan-firing-squad-execution-357269",
       "title": "特朗普叫停哈桑枪决直播保留死刑安排",
@@ -2027,24 +2066,6 @@
       "sources": []
     },
     {
-      "id": "china-tax-authorities-probe-500-tax-intermediaries-7bd95e",
-      "title": "税务部门通报五起涉税中介协助偷逃税案件",
-      "description": "税务部门近日集中通报年内第三批涉税中介协助企业偷逃税案件，共5起，涉及安徽、贵州、广西、浙江、山东等地。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T09:37:36.895061+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/china-tax-authorities-probe-500-tax-intermediaries-7bd95e",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "us-adds-moab-to-iran-strike-plan-1343f3",
       "title": "美军据报考虑用“炸弹之母”打击伊朗设施",
       "description": "美国军方正规划针对伊朗能源设施和核设施的追加打击，并考虑使用GBU-43/B大型空爆炸弹。",
@@ -3237,26 +3258,6 @@
       "sources": []
     },
     {
-      "id": "character-ai-files-bankruptcy-sale-process-ba6bac",
-      "title": "Character.AI申请破产保护启动资产出售",
-      "description": "人工智能陪伴聊天平台Character.AI于10月12日晚向美国特拉华州破产法院申请《破产法》第11章保护，并启动法院监督下的资产出售程序。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T04:45:40+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/character-ai-files-bankruptcy-sale-process-ba6bac",
-      "reference": [
-        "财新",
-        "第一财经",
-        "中央通訊社"
-      ],
-      "section": "ai",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "imf-official-links-china-stimulus-yuan-undervaluation-7c41e1",
       "title": "IMF官员称中国刺激不足致人民币实际汇率低估",
       "description": "国际货币基金组织（IMF）亚太部主任克里希纳·斯里尼瓦桑表示，中国提振需求的措施力度不足，人民币实际汇率被低估，国内深层失衡仍需解决。",
@@ -3343,24 +3344,6 @@
         "纽约时报"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "santa-ana-winds-southern-california-wildfire-risk-4c4f2a",
-      "title": "圣塔安那焚风将袭南加州野火风险上升",
-      "description": "南加州将迎来强劲圣塔安那焚风，国家气象局已对洛杉矶县和文图拉县大部分地区发布红旗警报，警报将持续至10月17日晚。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T03:11:51+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/santa-ana-winds-southern-california-wildfire-risk-4c4f2a",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
