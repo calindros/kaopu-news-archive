@@ -1,15 +1,359 @@
 {
   "details": {
     "date": "2026-10-15",
-    "timestamp": 1792045038,
+    "timestamp": 1792049893,
     "totalPages": 1,
-    "total": 264
+    "total": 263
   },
   "stories": [
     {
+      "id": "federal-agents-search-omar-home-6d7d9e",
+      "title": "联邦调查人员搜查欧玛华盛顿住所",
+      "description": "美国联邦调查人员10月12日持法院批准的搜查令，进入民主党众议员伊尔汗·欧玛位于华盛顿特区东北部的住所，带走多箱文件。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T06:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/federal-agents-search-omar-home-6d7d9e",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "SBS",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "vinny-mauri-treadmill-chicago-marathon-tenth-6a02cd",
+      "title": "25岁毛里靠跑步机训练获芝加哥马拉松第十名",
+      "description": "25岁的维尼·毛里主要依靠自主训练备战芝加哥马拉松，约七成训练在跑步机上完成。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T06:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/vinny-mauri-treadmill-chicago-marathon-tenth-6a02cd",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "sports",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "iea-warns-global-diesel-tightness-through-2027-bca2f8",
+      "title": "国际能源署预计柴油供需紧张延续至2027年",
+      "description": "国际能源署（IEA）10月14日发布月度能源市场报告称，全球柴油供需紧张预计将持续至2027年，缓解程度取决于中东成品油供应恢复情况。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T06:12:53+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/iea-warns-global-diesel-tightness-through-2027-bca2f8",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "法广",
+        "日经"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "us-adds-moab-to-iran-strike-plan-1343f3",
+      "title": "据报美军已将炸弹之母纳入对伊打击方案",
+      "description": "美军据报已制定针对伊朗能源与核设施的追加打击方案，选项包括GBU-43/B大型空爆炸弹（MOAB，俗称“炸弹之母”）。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T06:09:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/us-adds-moab-to-iran-strike-plan-1343f3",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "california-hope-trust-opens-applications-908915",
+      "title": "加州HOPE计划开放申请符合条件者可获3000美元",
+      "description": "加州HOPE儿童信托账户计划已开放申请，符合条件的寄养青少年及在新冠疫情期间失去父母或照护者的儿童，获批后可获得3000美元并存入信托账户。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/california-hope-trust-opens-applications-908915",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "california-housing-groups-say-proposition-1-falls-short-77698f",
+      "title": "住房倡议团体称加州1号提案难解危机",
+      "description": "美国社群媒体10月13日举办线上简报会，Housing Now!",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/california-housing-groups-say-proposition-1-falls-short-77698f",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "harris-county-ice-agent-crash-investigation-charges-0bfdcf",
+      "title": "ICE探员追捕男子致其腿骨折检方调查",
+      "description": "美国德州哈里斯郡检方正在调查一名美国移民及海关执法局（ICE）探员是否在追捕过程中故意驾车撞击48岁的米格尔·帕拉·埃尔南德斯，并评估是否提出刑事指控。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/harris-county-ice-agent-crash-investigation-charges-0bfdcf",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "occ-finds-nine-banks-nonfinancial-influence-3ae92f",
+      "title": "美国监管机构指出九家大银行服务决策受非金融因素影响",
+      "description": "美国货币监理署（OCC）10月14日公布调查报告，称其监管的九家全国性银行在决定是否向客户提供服务时，曾受到政治考量、公众压力和社会顾虑等非金融因素影响。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/occ-finds-nine-banks-nonfinancial-influence-3ae92f",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "mongolia-grassland-fire-nears-inner-mongolia-border-53c8f4",
+      "title": "蒙古国东方省草原火灾被中方堵截在边境",
+      "description": "蒙古国东方省境内的草原火灾已被中国扑火力量拦阻在中蒙边境一线，没有蔓延进入中国。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T05:57:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-11",
+      "url": "https://kaopu.news/story/2026-10-11/mongolia-grassland-fire-nears-inner-mongolia-border-53c8f4",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "联合早报",
+        "财新"
+      ],
+      "section": "china",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "trump-suggests-ukraine-leadership-change-for-deal-415c04",
+      "title": "泽连斯基称乌克兰将恢复打击俄罗斯炼油厂",
+      "description": "乌克兰总统泽连斯基表示，乌方应美国请求暂停攻击俄罗斯能源基础设施三天后，将恢复打击俄罗斯炼油厂。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T05:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-10",
+      "url": "https://kaopu.news/story/2026-10-10/trump-suggests-ukraine-leadership-change-for-deal-415c04",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "联合早报",
+        "英国广播公司"
+      ],
+      "section": "world",
+      "sourceCount": 52,
+      "sources": []
+    },
+    {
+      "id": "nepal-pm-proposes-himalayan-climate-resilience-mechanism-b61c95",
+      "title": "尼泊尔总理倡议中印共建喜马拉雅气候韧性机制",
+      "description": "尼泊尔总理巴伦德拉·沙阿近日在联合国大会提出建立“喜马拉雅气候韧性机制”，推动尼泊尔、印度和中国共同应对山区气候灾害。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T05:50:29+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/nepal-pm-proposes-himalayan-climate-resilience-mechanism-b61c95",
+      "reference": [
+        "英国广播公司"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-finance-ministry-budgets-cash-payout-ba22b0",
+      "title": "台湾国民党中常会要求选前通过普发2万元特别条例",
+      "description": "台湾国民党中常会10月14日决定，要求该党立法院党团争取在11月28日九合一选举投票前，推动普发每人新台币2万元的特别条例完成三读。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T05:50:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/taiwan-finance-ministry-budgets-cash-payout-ba22b0",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "chiang-wan-an-rethinks-songshan-airport-relocation-f34c77",
+      "title": "蒋万安赴行政院说明松山机场迁建构想",
+      "description": "台北市长蒋万安10月15日列席台湾行政院会议，表示将说明迁建松山机场、规划台北AI园区的构想，并希望与行政院长卓荣泰交换评估意见、共同推动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T05:50:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/chiang-wan-an-rethinks-songshan-airport-relocation-f34c77",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 13,
+      "sources": []
+    },
+    {
+      "id": "nikkei-drops-3000-points-seventh-largest-f2e1f5",
+      "title": "美国通胀超预期引发亚洲股市大幅下跌",
+      "description": "美国劳工部公布的9月核心消费者价格指数（CPI）月增0.3%，高于市场预期的0.2%，加重市场对美联储加息的担忧。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T05:50:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/nikkei-drops-3000-points-seventh-largest-f2e1f5",
+      "reference": [
+        "共同网",
+        "中央通訊社",
+        "法广",
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 16,
+      "sources": []
+    },
+    {
+      "id": "malaysia-live-births-fall-2025-75f8fe",
+      "title": "马来西亚2025年活产婴儿人数减少4.5%",
+      "description": "10月15日，马来西亚统计局发布《2026年大马人口统计报告》。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T05:47:49+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/malaysia-live-births-fall-2025-75f8fe",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "batam-power-failure-causes-blackout-f143fe",
+      "title": "印尼政府因峇淡岛停电撤换PLN首席执行官",
+      "description": "印尼政府在峇淡岛发生长达16小时的大停电后，撤换国家电力公司（PLN）首席执行官达尔马万·普拉索佐（Darmawan Prasodjo），由该公司项目管理及新能源总监苏罗索·伊斯南达（Suroso Isnandar）接任。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T05:45:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/batam-power-failure-causes-blackout-f143fe",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "hong-kong-approves-five-mainland-yachts-689b3d",
+      "title": "香港海事处批准五艘大陆游艇首航赴港",
+      "description": "香港海事处已批准五艘中国大陆游艇参加“粤艇南下”首航，游艇计划于10月16日赴港；完成中国大陆通关手续后即可出发。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T05:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/hong-kong-approves-five-mainland-yachts-689b3d",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-greenland-oil-gas-mineral-exploration-30f8d8",
+      "title": "特朗普称格陵兰即将大规模勘探油气和矿产",
+      "description": "美国总统特朗普10月14日在社交媒体称，格陵兰即将开展大规模石油、天然气和矿产勘探，但没有说明具体计划。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T05:40:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/trump-greenland-oil-gas-mineral-exploration-30f8d8",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
       "id": "houthis-claim-strikes-saudi-targets-9f88db",
-      "title": "胡塞武装连袭沙特机场致14死逾300伤",
-      "description": "也门胡塞武装与沙特之间的袭击和报复行动在10月10日至15日间持续。",
+      "title": "胡塞武装袭击沙特机场油设施中使馆提醒避险",
+      "description": "也门胡塞武装近日接连袭击沙特机场和石油设施，造成伤亡并严重扰乱航空运行。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -25,6 +369,102 @@
       ],
       "section": "world",
       "sourceCount": 82,
+      "sources": []
+    },
+    {
+      "id": "thepaper-finds-fake-appliance-repair-hotlines-943f29",
+      "title": "澎湃实测十个家电品牌六个搜出假400电话",
+      "description": "澎湃新闻实测十个家电品牌的售后信息后发现，六个品牌的搜索结果中出现冒充官方的400开头电话；其中五个品牌的相关网页进入搜索首页，部分排在页面上方。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T05:36:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/thepaper-finds-fake-appliance-repair-hotlines-943f29",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-taiwan-alaska-lng-30-percent-00806d",
+      "title": "台湾中油拟年购600万吨阿拉斯加液化天然气",
+      "description": "台湾经济部10月14日表示，台湾中油与美国阿拉斯加液化天然气项目开发方的磋商取得重大进展。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T05:35:48+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/trump-taiwan-alaska-lng-30-percent-00806d",
+      "reference": [
+        "联合早报",
+        "世界日报",
+        "中央通訊社",
+        "韩国国际广播电台"
+      ],
+      "section": "world",
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
+      "id": "hsu-chia-ching-resigns-over-vehicle-probe-99703c",
+      "title": "侨委会成立专案组调查徐佳青资源滥用指控",
+      "description": "台湾侨务委员会10月13日成立专案调查小组，核查前委员长徐佳青被指使用驻外机构车辆及公务资源的问题。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T05:33:19+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/hsu-chia-ching-resigns-over-vehicle-probe-99703c",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "hong-kong-exchange-suspends-chabaidao-trading-a432d2",
+      "title": "香港证监会冻结涉嫌操纵IPO相关资金46.6亿港元",
+      "description": "香港证监会对两个涉嫌操纵港股首次公开招股（IPO）认购的团伙采取行动，向31家经纪行发出限制通知，保存约46.6亿港元相关资产；并指示香港交易所自2026年10月13日上午9时起暂停茶百道股份交易。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T05:33:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/hong-kong-exchange-suspends-chabaidao-trading-a432d2",
+      "reference": [
+        "澎湃新闻",
+        "财新",
+        "联合早报",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "singapore-launches-n95-mask-distribution-706f81",
+      "title": "新加坡当局向符合条件居民派发N95口罩",
+      "description": "新加坡烟霾加重后，当局从10月14日起向符合条件的居民派发N95口罩，每人可领两片，也可请亲友代领。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T05:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/singapore-launches-n95-mask-distribution-706f81",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -85,9 +525,30 @@
       "sources": []
     },
     {
+      "id": "liaoning-carrier-group-western-pacific-training-c7e43b",
+      "title": "辽宁舰编队进入西太平洋开展训练",
+      "description": "中国海军于10月14日组织辽宁号航母编队赴西太平洋相关海域开展训练。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T05:10:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/liaoning-carrier-group-western-pacific-training-c7e43b",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "中央通訊社",
+        "日本放送协会"
+      ],
+      "section": "china",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
       "id": "french-students-protest-school-conditions-11bf14",
-      "title": "法国学生教育抗议扩展至欧洲多国",
-      "description": "法国高中生等自9月以来抗议师资短缺、校舍老旧等问题，示威已扩展至欧洲多国。",
+      "title": "阿尔巴尼亚学生抗议升级为暴力冲突",
+      "description": "法国及欧洲多国学生要求改善教育条件之际，阿尔巴尼亚首都地拉那自10月13日起持续的学生抗议，已演变为暴力冲突。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -97,29 +558,68 @@
       "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
       "reference": [
         "公视",
+        "法广",
         "日本放送协会"
       ],
       "section": "world",
-      "sourceCount": 2,
+      "sourceCount": 3,
       "sources": []
     },
     {
-      "id": "trump-greenland-oil-gas-mineral-exploration-30f8d8",
-      "title": "格陵兰官员称大规模勘探仍为时尚早",
-      "description": "特朗普称格陵兰岛准备开展大规模油气及矿产勘探，但未披露计划细节。",
+      "id": "australia-trust-tax-small-business-opposition-2d96f8",
+      "title": "澳大利亚拟对84万个信托征税遭小企业反对",
+      "description": "澳大利亚政府拟于2028年启动信托税制调整，涉及约84万个信托安排，并拟以其净所得作为计税基础，设定至少30%的税率。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-15T05:07:00+00:00",
+      "updatedAt": "2026-10-15T05:07:56+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/trump-greenland-oil-gas-mineral-exploration-30f8d8",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/australia-trust-tax-small-business-opposition-2d96f8",
       "reference": [
-        "联合早报",
-        "澎湃新闻"
+        "SBS"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "russian-fsb-confirms-japanese-reporter-arrest-8bd024",
+      "title": "俄罗斯以间谍嫌疑拘押日本记者并押往莫斯科",
+      "description": "俄罗斯联邦安全局10月13日称，已在远东萨哈林州拘留《北海道新闻》南萨哈林斯克支局一名记者，随后将他押送至莫斯科。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T05:03:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/russian-fsb-confirms-japanese-reporter-arrest-8bd024",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "共同网",
+        "日经"
       ],
       "section": "world",
-      "sourceCount": 2,
+      "sourceCount": 21,
+      "sources": []
+    },
+    {
+      "id": "brazil-senate-passes-40-hour-workweek-amendment-5da854",
+      "title": "巴西参议院通过每周工时缩至40小时修宪案",
+      "description": "巴西参议院通过一项缩短工时的宪法修正案，表决结果为75票赞成、1票反对。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T05:01:38+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/brazil-senate-passes-40-hour-workweek-amendment-5da854",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -238,6 +738,26 @@
       "sources": []
     },
     {
+      "id": "character-ai-files-bankruptcy-sale-process-ba6bac",
+      "title": "Character.AI申请破产保护启动资产出售",
+      "description": "人工智能陪伴聊天平台Character.AI于10月12日晚向美国特拉华州破产法院申请《破产法》第11章保护，并启动法院监督下的资产出售程序。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T04:45:40+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/character-ai-files-bankruptcy-sale-process-ba6bac",
+      "reference": [
+        "财新",
+        "第一财经",
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
       "id": "us-states-sue-openai-change-chatgpt-ade4ba",
       "title": "美国八州起诉OpenAI要求限制自我改进模型",
       "description": "美国爱荷华州、堪萨斯州、内布拉斯加州、西弗吉尼亚州、阿肯色州、亚利桑那州、爱达荷州和蒙大拿州的总检察长10月14日分别在各自州法院起诉OpenAI，指控其聊天机器人ChatGPT伤害用户，并违反消费者保护等法律。",
@@ -318,48 +838,6 @@
       "sources": []
     },
     {
-      "id": "liaoning-carrier-group-western-pacific-training-c7e43b",
-      "title": "辽宁舰编队经冲绳宫古间海域驶入太平洋",
-      "description": "中国海军组织辽宁舰航母编队前往西太平洋相关海域训练。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T04:30:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/liaoning-carrier-group-western-pacific-training-c7e43b",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "中央通訊社",
-        "日本放送协会"
-      ],
-      "section": "china",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "russian-fsb-confirms-japanese-reporter-arrest-8bd024",
-      "title": "俄方以间谍嫌疑拘押日本记者并押往莫斯科",
-      "description": "俄罗斯联邦安全局宣布，已在远东萨哈林州拘押《北海道新闻》驻南萨哈林斯克支局一名记者，并将他移送莫斯科；俄外交部发言人扎哈罗娃称该记者名为今井裕纪。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T04:30:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/russian-fsb-confirms-japanese-reporter-arrest-8bd024",
-      "reference": [
-        "澎湃新闻",
-        "法广",
-        "共同网",
-        "日经"
-      ],
-      "section": "world",
-      "sourceCount": 20,
-      "sources": []
-    },
-    {
       "id": "takaichi-weighs-yanagi-minister-fitness-0390a3",
       "title": "高市决定由武部新接任日本农林水产相",
       "description": "日本首相高市早苗接受农林水产大臣簗和生的辞呈，并决定由自民党籍武部新接任。",
@@ -396,27 +874,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nikkei-drops-3000-points-seventh-largest-f2e1f5",
-      "title": "韩股暴跌触发两大指数第一阶段熔断",
-      "description": "韩国股市15日急跌，KOSDAQ先于KOSPI触发第一阶段熔断；日本和台湾市场也大幅下挫。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T04:21:21+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/nikkei-drops-3000-points-seventh-largest-f2e1f5",
-      "reference": [
-        "共同网",
-        "中央通訊社",
-        "法广",
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 15,
       "sources": []
     },
     {
@@ -681,6 +1138,48 @@
       "sources": []
     },
     {
+      "id": "pope-leo-xiv-lung-nodule-surgery-b05e3e",
+      "title": "教宗良十四世切除右肺下叶后确诊肺腺癌",
+      "description": "教宗良十四世10月13日在罗马杰梅利医院接受右肺下叶切除手术，手术约90分钟。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T03:33:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-11",
+      "url": "https://kaopu.news/story/2026-10-11/pope-leo-xiv-lung-nodule-surgery-b05e3e",
+      "reference": [
+        "联合早报",
+        "德国之声",
+        "法广",
+        "加拿大国际广播电台"
+      ],
+      "section": "world",
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "north-korea-tests-two-submarine-launched-cruise-missiles-97785e",
+      "title": "朝鲜试射两种潜射战略巡航导弹检验水下系统",
+      "description": "朝鲜导弹总局于10月14日在朝鲜东海（日本称日本海）试射两种潜射战略巡航导弹，相关消息由朝中社公布。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-15T03:33:30+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/north-korea-tests-two-submarine-launched-cruise-missiles-97785e",
+      "reference": [
+        "澎湃新闻",
+        "朝鲜日报",
+        "韩国国际广播电台",
+        "法广"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
       "id": "hangzhou-housing-fund-renovation-withdrawal-cap-f49b44",
       "title": "杭州新规允许自住房装修提取公积金最高25万元",
       "description": "杭州市城乡建设管理高质量推进领导小组办公室发布房地产发展新规，调整住房公积金对自住住房装修、购房贷款及城市危旧房自主更新的支持。",
@@ -882,27 +1381,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-taiwan-alaska-lng-30-percent-00806d",
-      "title": "台湾中油拟年购600万吨阿拉斯加液化天然气",
-      "description": "台湾经济部10月14日表示，台湾中油与美国阿拉斯加液化天然气项目开发方的协商已有重大进展。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T02:45:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/trump-taiwan-alaska-lng-30-percent-00806d",
-      "reference": [
-        "联合早报",
-        "世界日报",
-        "中央通訊社",
-        "韩国国际广播电台"
-      ],
-      "section": "world",
-      "sourceCount": 14,
       "sources": []
     },
     {
@@ -1172,45 +1650,6 @@
       "sources": []
     },
     {
-      "id": "hsu-chia-ching-resigns-over-vehicle-probe-99703c",
-      "title": "徐佳青被指让家人用外馆车辆后请辞配合调查",
-      "description": "据中央社报道，台湾侨务委员会前委员长徐佳青因被指让家人使用外馆车辆及其他公务资源，已请辞并配合调查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T02:12:22+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/hsu-chia-ching-resigns-over-vehicle-probe-99703c",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "hong-kong-exchange-suspends-chabaidao-trading-a432d2",
-      "title": "香港证监会因疑似IPO操纵令茶百道停牌",
-      "description": "香港证监会因怀疑茶百道首次公开发行期间股份需求遭人为操纵，10月13日指令香港联交所自当日上午9时起暂停其H股交易，停牌将持续至另行通知。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T02:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/hong-kong-exchange-suspends-chabaidao-trading-a432d2",
-      "reference": [
-        "澎湃新闻",
-        "财新",
-        "联合早报",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
       "id": "imf-forecasts-japan-gdp-rank-sixth-2027-3f92ea",
       "title": "IMF预测日本名义GDP排名2027年降至全球第六",
       "description": "国际货币基金组织10月最新估算显示，日本名义GDP在2027年将被印度和英国超过，排名降至全球第六。",
@@ -1281,26 +1720,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "north-korea-tests-two-submarine-launched-cruise-missiles-97785e",
-      "title": "朝鲜在东部海域试射两种潜射战略巡航导弹",
-      "description": "据朝中社报道，导弹总局，10月14日在朝鲜东部海域试射了两种潜射战略巡航导弹，朝中社次日发布消息。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T01:21:22+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/north-korea-tests-two-submarine-launched-cruise-missiles-97785e",
-      "reference": [
-        "澎湃新闻",
-        "朝鲜日报",
-        "韩国国际广播电台"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1545,27 +1964,6 @@
       "sources": []
     },
     {
-      "id": "pope-leo-xiv-lung-nodule-surgery-b05e3e",
-      "title": "教宗良十四世确诊肺腺癌并完成右肺下叶切除手术",
-      "description": "天主教教宗良十四世10月13日在罗马杰梅里医院接受右肺下叶切除手术，术后病理检查确认他患有肺腺癌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T00:20:17+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-11",
-      "url": "https://kaopu.news/story/2026-10-11/pope-leo-xiv-lung-nodule-surgery-b05e3e",
-      "reference": [
-        "联合早报",
-        "德国之声",
-        "法广",
-        "加拿大国际广播电台"
-      ],
-      "section": "world",
-      "sourceCount": 9,
-      "sources": []
-    },
-    {
       "id": "lufthansa-wins-tap-operating-rights-f45d51",
       "title": "汉莎航空集团击败法荷航赢得葡航经营权",
       "description": "葡萄牙政府完成评估和竞标后选定德国汉莎航空集团，击败法荷航集团，赢得葡萄牙航空经营权。",
@@ -1600,24 +1998,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "thepaper-finds-fake-appliance-repair-hotlines-943f29",
-      "title": "澎湃实测发现家电售后搜索出现假冒400电话",
-      "description": "澎湃新闻实测发现，通过微软必应查询十个家电品牌的售后信息时，有六个品牌出现冒用品牌名义的400开头维修号码。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T00:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/thepaper-finds-fake-appliance-repair-hotlines-943f29",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1752,24 +2132,6 @@
       "sources": []
     },
     {
-      "id": "eu-china-trade-restrictions-swap-ec01de",
-      "title": "彭博称欧盟拟撤中企限制换取中国解禁辛德豪瑟材料",
-      "description": "据彭博社援引知情人士报道，欧盟正与中国商谈相互解除贸易限制：欧盟拟撤销对一家身份未公开的中国企业所施限制，以换取中国解除对德国辛德豪瑟材料公司的制裁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T23:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/eu-china-trade-restrictions-swap-ec01de",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "russia-iran-china-ai-election-influence-9811ff",
       "title": "彭博称中俄伊利用生成式AI开展虚假信息宣传，美方忧其影响美国中期选举",
       "description": "据彭博社报道，知情人士和独立研究人员称，俄罗斯、伊朗和中国正借助人工智能工具强化虚假信息宣传。",
@@ -1785,25 +2147,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "wall-street-journal-says-china-debt-slows-growth-ffbf89",
-      "title": "中国债务扩张循环持续抑制经济增长",
-      "description": "中国非金融部门信贷规模持续扩大，去年已超过国内生产总值（GDP）的300%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T22:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/wall-street-journal-says-china-debt-slows-growth-ffbf89",
-      "reference": [
-        "中央通訊社",
-        "端传媒"
-      ],
-      "section": "business",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1859,63 +2202,6 @@
         "中央通訊社"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-approves-first-coal-power-reits-e6830c",
-      "title": "中国监管部门首次批准两只煤电REIT上市",
-      "description": "中国证券监管部门9月下旬首次批准两只以燃煤电站为投资标的的房地产投资信托基金（REIT）上市。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T21:09:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/china-approves-first-coal-power-reits-e6830c",
-      "reference": [
-        "日经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "eu-trade-chief-beijing-talks-a85d92",
-      "title": "中欧就混合动力汽车贸易达成谅解",
-      "description": "中国与欧盟10月8日至9日在北京举行贸易投资磋商机制第二次例会，形成16项成果共识。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T21:00:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-05",
-      "url": "https://kaopu.news/story/2026-10-05/eu-trade-chief-beijing-talks-a85d92",
-      "reference": [
-        "联合早报",
-        "法广",
-        "中央通訊社",
-        "纽约时报"
-      ],
-      "section": "world",
-      "sourceCount": 59,
-      "sources": []
-    },
-    {
-      "id": "nikkei-germany-automakers-adjust-ev-tariff-position-8d16c7",
-      "title": "日经刊文称德国政府和车企调整对华电动车税立场",
-      "description": "日经刊文称，中国汽车在欧洲市场迅速扩张之际，德国政府和汽车业对欧盟针对中国纯电动汽车征收的反补贴税，立场已出现调整。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T21:00:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/nikkei-germany-automakers-adjust-ev-tariff-position-8d16c7",
-      "reference": [
-        "日经"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -1993,24 +2279,6 @@
       "sources": []
     },
     {
-      "id": "sami-karabi-un-yemen-staff-released-cbc6b0",
-      "title": "联合国也门问题特使办公室员工卡拉比获释",
-      "description": "萨米·卡拉比已获释并回家与家人团聚。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T18:21:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/sami-karabi-un-yemen-staff-released-cbc6b0",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "ssa-announces-2027-benefits-cola-increase-e33e2b",
       "title": "美国社安局宣布2027年福利上调3.6%",
       "description": "美国社会安全局宣布，2027年社会安全福利生活成本调整幅度为3.6%，受益人平均每月将多领约75美元。",
@@ -2047,24 +2315,6 @@
       "sources": []
     },
     {
-      "id": "richmond-council-one-east-asian-member-8449b0",
-      "title": "列治文市议会八席中仅一人具有东亚背景",
-      "description": "列治文市议会八个席位中，目前只有卢仙泳（Alexa Loo）一人具有东亚背景。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T17:23:50.868000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/richmond-council-one-east-asian-member-8449b0",
-      "reference": [
-        "加拿大国际广播电台"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "heilongjiang-business-delegation-iturup-visit-f2de53",
       "title": "黑龙江代表团赴择捉岛考察引发日本交涉",
       "description": "中国黑龙江省官员和企业人士组成的代表团近日赴俄罗斯实际控制、日本主张拥有主权的择捉岛考察投资项目。",
@@ -2083,24 +2333,6 @@
       ],
       "section": "china",
       "sourceCount": 11,
-      "sources": []
-    },
-    {
-      "id": "singapore-launches-n95-mask-distribution-706f81",
-      "title": "新加坡烟霾加剧致N95口罩部分缺货",
-      "description": "10月14日，新加坡烟霾加重，N95口罩需求激增，部分零售店暂时缺货。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T16:07:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/singapore-launches-n95-mask-distribution-706f81",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2177,27 +2409,6 @@
       ],
       "section": "sports",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "federal-agents-search-omar-home-6d7d9e",
-      "title": "联邦调查人员搜查欧玛华盛顿住所",
-      "description": "美国国土安全调查局及其他联邦调查人员于10月12日上午持法院核准的搜索令，进入民主党众议员伊尔汗·欧玛位于华盛顿东北区的住所，并带走多箱材料。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T14:44:49+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/federal-agents-search-omar-home-6d7d9e",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "SBS",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 7,
       "sources": []
     },
     {
@@ -2761,25 +2972,6 @@
       "sources": []
     },
     {
-      "id": "chiang-wan-an-rethinks-songshan-airport-relocation-f34c77",
-      "title": "台湾立法院外交及国防委员会听取松山机场迁建专题报告",
-      "description": "台湾立法院外交及国防委员会10月14日就松山机场迁建举行专项报告。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T10:54:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/chiang-wan-an-rethinks-songshan-airport-relocation-f34c77",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 9,
-      "sources": []
-    },
-    {
       "id": "china-taiwan-affairs-office-bans-vway-trade-d9bccd",
       "title": "国台办宣布惩戒沈伯洋父亲关联公司VWAY",
       "description": "中国大陆国务院台湾事务办公室10月14日宣布对VWAY公司实施惩戒，禁止该公司与中国大陆组织、企业和个人进行任何交易、合作。",
@@ -2893,24 +3085,6 @@
       "sources": []
     },
     {
-      "id": "najib-receives-home-detention-sop-d276f9",
-      "title": "沙菲宜证实纳吉收到居家服刑SOP且不得披露详情",
-      "description": "据当今大马报道，前首相纳吉的代表律师沙菲宜确认，纳吉已收到监狱局关于居家服刑的标准作业程序。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T10:07:15+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/najib-receives-home-detention-sop-d276f9",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "singapore-launches-free-cyber-incident-helpline-f8410a",
       "title": "新加坡推出两小时响应的免费企业网安专线",
       "description": "新加坡为企业设立免费网络安全事件应急专线。",
@@ -2947,24 +3121,6 @@
       "sources": []
     },
     {
-      "id": "taipower-expand-43-substations-grid-f6bb28",
-      "title": "台电未来15年将扩建43座变电所",
-      "description": "台电董事长曾文生10月14日公布电网扩建计划，以应对人工智能和半导体产业用电增长。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T09:59:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/taipower-expand-43-substations-grid-f6bb28",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "xi-jinping-boko-china-botswana-partnership-upgrade-9473a2",
       "title": "习近平与博科宣布中博关系升为全面战略合作伙伴关系",
       "description": "中国国家主席习近平10月13日在北京人民大会堂会见赴华进行国事访问的博茨瓦纳总统博科。",
@@ -2998,24 +3154,6 @@
         "联合早报"
       ],
       "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-plans-land-controls-near-key-sites-6f3334",
-      "title": "日本拟修法限制重要设施周边土地交易",
-      "description": "共同社报道，日本政府拟修订《土地利用规制法》，要求转让重要设施周边土地所有权前取得国家许可，并处罚未经许可交易者。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T09:30:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/japan-plans-land-controls-near-key-sites-6f3334",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -3223,24 +3361,6 @@
       "sources": []
     },
     {
-      "id": "harris-county-ice-agent-crash-investigation-charges-0bfdcf",
-      "title": "哈里斯郡检方调查ICE探员撞人案称可能提刑事指控",
-      "description": "哈里斯郡检察长肖恩·提尔称，检方正调查美国移民与海关执法局（ICE）一名探员于10月10日驾车撞倒逃跑男子一事，并可能提出刑事指控。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T06:40:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/harris-county-ice-agent-crash-investigation-charges-0bfdcf",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "us-cracks-north-korean-remote-worker-scheme-b2d5c9",
       "title": "美国联邦调查局捣毁朝鲜远程求职诈骗网络",
       "description": "美国联邦调查局（FBI）与得克萨斯州北区联邦检察官办公室公布，执法人员已破获一个协助朝鲜信息技术人员冒充美国远程雇员的网络。",
@@ -3334,24 +3454,6 @@
       "sources": []
     },
     {
-      "id": "huajin-aramco-petrochemical-complex-receives-first-crude-8151ab",
-      "title": "华锦阿美石化综合体接收首船原油",
-      "description": "华锦阿美石化综合体已接收首船阿拉伯原油。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T06:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/huajin-aramco-petrochemical-complex-receives-first-crude-8151ab",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "eom-ji-sung-racial-abuse-police-probe-e01439",
       "title": "严智星疑遭种族歧视辱骂 英国警方展开调查",
       "description": "韩国国脚严智星在英格兰足球冠军联赛比赛期间疑遭种族歧视辱骂。",
@@ -3421,24 +3523,6 @@
       ],
       "section": "us",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "he-lifeng-meets-emmanuel-bonne-eu-trade-dialogue-939cd1",
-      "title": "何立峰会见博纳称愿与欧盟持续开展经贸对话",
-      "description": "中国副总理何立峰10月13日在北京人民大会堂会见法国总统外事顾问博纳。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T06:21:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/he-lifeng-meets-emmanuel-bonne-eu-trade-dialogue-939cd1",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3732,25 +3816,6 @@
       "sources": []
     },
     {
-      "id": "us-justice-department-probes-tv-networks-boycott-5ac164",
-      "title": "美国司法部调查五大电视网暂停白宫联访",
-      "description": "美国司法部反垄断部门10月10日证实，正调查ABC、CBS、CNN、NBC和福克斯新闻短暂停止参与白宫活动联合采访的做法是否违反联邦反垄断法。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T04:45:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-11",
-      "url": "https://kaopu.news/story/2026-10-11/us-justice-department-probes-tv-networks-boycott-5ac164",
-      "reference": [
-        "联合早报",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "korea-charges-three-semiconductor-tech-leak-suspects-3a8ca8",
       "title": "韩国起诉涉嫌泄露半导体核心技术的三人团伙",
       "description": "韩国知识产权处技术泄露特别司法警察和大田地方公诉厅已将涉嫌向海外泄露半导体检测设备核心技术的3人团伙移交审判。",
@@ -3861,24 +3926,6 @@
       "sources": []
     },
     {
-      "id": "singapore-electric-harbour-craft-subsidy-a10257",
-      "title": "新加坡海事局将推出电动港务船舶先行补贴计划",
-      "description": "新加坡海事及港务管理局将推出电动港务船舶率先采用补贴计划。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T01:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/singapore-electric-harbour-craft-subsidy-a10257",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "singapore-govtech-google-deepmind-scam-detection-173aa4",
       "title": "新加坡政府科技局携谷歌DeepMind开发实时防诈技术",
       "description": "新加坡数码发展及新闻部长杨莉明10月14日在新加坡国际网络周一场反诈骗高级别专题讨论会上宣布，新加坡政府科技局将与谷歌旗下人工智能实验室DeepMind合作，开发实时侦测人工智能诈骗的技术。",
@@ -3929,24 +3976,6 @@
         "共同网"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "healthyard-fernmark-certification-claims-951594",
-      "title": "澎湃调查指健雅德产品涉超范围使用银蕨认证",
-      "description": "澎湃新闻调查称，健雅德在麦角硫因胶囊和骨胶原蛋白复合胶囊的宣传中使用新西兰银蕨认证标识，但许可产品清单未列入这两款产品；该媒体还发现，健雅德宣传的麦角硫因原料纯度为99.999%，供应商提供的检测结果为99.99%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T23:59:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/healthyard-fernmark-certification-claims-951594",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -4008,24 +4037,6 @@
       ],
       "section": "business",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "hinton-warns-ai-threatens-human-survival-90ec86",
-      "title": "辛顿警告人工智能失控威胁人类存续",
-      "description": "电脑科学家辛顿近日再次警告，人工智能失控可能威胁人类存续，并批评美国总统特朗普对人工智能缺乏了解、反对由科技企业自行监管。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T16:23:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/hinton-warns-ai-threatens-human-survival-90ec86",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -4299,24 +4310,6 @@
         "端传媒"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "vinny-mauri-treadmill-chicago-marathon-tenth-6a02cd",
-      "title": "毛里靠跑步机训练获芝加哥马拉松第十名",
-      "description": "25岁的维尼·毛里10月11日在芝加哥马拉松以2小时06分45秒完赛，获得第十名。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-12T15:59:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/vinny-mauri-treadmill-chicago-marathon-tenth-6a02cd",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "sports",
       "sourceCount": 1,
       "sources": []
     },
