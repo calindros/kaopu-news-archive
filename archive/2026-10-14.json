@@ -2,7 +2,7 @@
   "details": {
     "date": "2026-10-14",
     "totalPages": 0,
-    "total": 167
+    "total": 168
   },
   "stories": [
     {
@@ -470,22 +470,6 @@
       "sources": []
     },
     {
-      "id": "china-announces-2027-civil-service-recruitment-636720",
-      "title": "中国2027年度国考启动招录35691人",
-      "description": "中央机关及其直属机构2027年度公务员招录报名于10月14日启动，计划招录35691人，设19426个职位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T13:54:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/china-announces-2027-civil-service-recruitment-636720",
-      "reference": [],
-      "section": "china",
-      "sourceCount": "",
-      "sources": []
-    },
-    {
       "id": "anthropic-warns-small-ai-self-replication-25ef77",
       "title": "Anthropic警告小型模型数月内或可自主复制",
       "description": "Anthropic于10月12日警告称，小型人工智能模型可能在数月内获得自主复制并在联网设备间传播的能力。",
@@ -674,6 +658,38 @@
       "url": "https://kaopu.news/story/2026-10-14/artificial-intelligence-drives-enterprise-innovation-c7c5ab",
       "reference": [],
       "section": "ai",
+      "sourceCount": "",
+      "sources": []
+    },
+    {
+      "id": "siemens-opens-factories-to-test-embodied-ai-acd23f",
+      "title": "西门子开放工厂场景验证具身智能落地",
+      "description": "本周举行的中国工博会上，西门子、ABB机器人和施耐德电气分别谈及工业AI与具身智能进入生产环节面临的门槛。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-14T12:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/siemens-opens-factories-to-test-embodied-ai-acd23f",
+      "reference": [],
+      "section": "tech",
+      "sourceCount": "",
+      "sources": []
+    },
+    {
+      "id": "musk-spends-276-million-help-republicans-hold-congress-362e25",
+      "title": "马斯克投2.76亿美元挺共和党成中期选举最大金主",
+      "description": "美国联邦选举申报数据显示，埃隆·马斯克自2026年7月以来至少投入2.76亿美元，支持共和党相关政治组织和候选人，成为本轮中期选举目前已知的最大个人政治捐款人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-14T11:58:39.576678+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/musk-spends-276-million-help-republicans-hold-congress-362e25",
+      "reference": [],
+      "section": "us",
       "sourceCount": "",
       "sources": []
     },
