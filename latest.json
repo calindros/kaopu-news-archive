@@ -1,11 +1,420 @@
 {
   "details": {
     "date": "2026-10-16",
-    "timestamp": 1792131472,
+    "timestamp": 1792135734,
     "totalPages": 1,
-    "total": 260
+    "total": 261
   },
   "stories": [
+    {
+      "id": "siemens-opens-factories-to-test-embodied-ai-acd23f",
+      "title": "工博会显示机器人产业转向配套落地",
+      "description": "2026年中国国际工业博览会于10月12日至16日在上海举行，工业人形机器人和具身智能成为关注焦点。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-16T06:10:37.410028+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/siemens-opens-factories-to-test-embodied-ai-acd23f",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "tech",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "burger-king-japan-app-member-data-leak-8a719d",
+      "title": "日本汉堡王运营方确认1118万条会员信息泄露",
+      "description": "日本汉堡王运营方BK Japan确认，官方APP约1118万条会员信息泄露。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-16T06:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/burger-king-japan-app-member-data-leak-8a719d",
+      "reference": [
+        "共同网",
+        "澎湃新闻"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "russia-kamchatka-earthquake-magnitude-69-9654e0",
+      "title": "日本气象厅将堪察加地震误报为M9.9后撤销速报",
+      "description": "日本气象厅10月16日将堪察加半岛附近M6.9地震误判为千岛群岛地区M9.9地震，发布北海道至东海最大震度7的紧急速报，随后撤销。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-16T06:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/russia-kamchatka-earthquake-magnitude-69-9654e0",
+      "reference": [
+        "澎湃新闻",
+        "共同网"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "brunson-says-wartime-command-transfer-standards-change-1e0a67",
+      "title": "布伦森提出新标准韩美战时指挥权移交现分歧",
+      "description": "驻韩美军司令泽维尔·布伦森称，朝鲜军事威胁和作战计划已有变化，移交战时作战指挥权须具备符合新标准的能力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-16T06:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/brunson-says-wartime-command-transfer-standards-change-1e0a67",
+      "reference": [
+        "韩国国际广播电台",
+        "韩民族日报",
+        "东亚日报",
+        "朝鲜日报"
+      ],
+      "section": "asia",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "imf-forecasts-japan-gdp-rank-sixth-2027-3f92ea",
+      "title": "IMF预测日本2027年名义GDP排名降至第六",
+      "description": "国际货币基金组织（IMF）最新预测显示，日本名义GDP排名将在2027年降至全球第六，印度和英国届时都将超过日本。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-16T06:03:37.410536+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/imf-forecasts-japan-gdp-rank-sixth-2027-3f92ea",
+      "reference": [
+        "日经",
+        "联合早报",
+        "日本放送协会",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "china-issues-final-ultra-long-special-bond-1bef16",
+      "title": "财政部发行最后一只超长期特别国债完成全年任务",
+      "description": "财政部于10月16日上午发行今年最后一只超长期特别国债，金额为200亿元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-16T06:00:37.587484+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/china-issues-final-ultra-long-special-bond-1bef16",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "gudeng-opens-first-us-factory-arizona-2bc13f",
+      "title": "家登精密启用亚利桑那州首座美国制造厂",
+      "description": "家登精密近日在美国亚利桑那州格兰岱启用首座制造厂，推进美国本地制造。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-16T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/gudeng-opens-first-us-factory-arizona-2bc13f",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "hammack-supports-further-monetary-policy-tightening-4c6113",
+      "title": "美联储官员称年底前仍需小幅加息",
+      "description": "克利夫兰联邦储备银行行长贝丝·哈马克在10月13日的讲话中表示，仍需进一步收紧货币政策；波士顿联邦储备银行行长苏珊·柯林斯则表示，按她目前的判断，年底前还需小幅加息，以确保通胀持续回到2%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-16T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/hammack-supports-further-monetary-policy-tightening-4c6113",
+      "reference": [
+        "澎湃新闻",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "newsom-signs-ab179-streamlines-housing-grants-323adc",
+      "title": "纽森签署AB179简化可负担住房拨款流程",
+      "description": "加州州长纽森签署AB 179法案，简化可负担住房项目的州政府拨款流程，并鼓励城市降低发展影响费。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-16T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/newsom-signs-ab179-streamlines-housing-grants-323adc",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "stanford-study-drop-brokers-transparency-compliance-63d444",
+      "title": "斯坦福研究称DROP经纪商透明合规不足一成",
+      "description": "斯坦福大学研究人员的一项研究发现，已登记加州DROP平台的资料经纪商中，完全符合《加州消费者隐私法案》（CCPA）透明度要求的不到十分之一。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-16T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/stanford-study-drop-brokers-transparency-compliance-63d444",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "texas-property-tax-relief-means-test-c66c3d",
+      "title": "德州拟扩大房产税减免引来年轻屋主排富诉求",
+      "description": "美国多州为年长屋主提供房产税优惠，年轻屋主认为自己承担的税负更重。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-16T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/texas-property-tax-relief-means-test-c66c3d",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-mortgage-rates-hit-three-year-high-80bcd1",
+      "title": "美国房贷利率升至7.28%创三年新高",
+      "description": "美国30年期固定房贷平均利率已升至7%以上，房地美最新每周调查显示利率达到7.28%，创三年来新高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-16T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/us-mortgage-rates-hit-three-year-high-80bcd1",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "zhang-2027-premiums-rise-12-percent-96feb6",
+      "title": "张国兴称部分投保人2027年保费或增约12%",
+      "description": "保险业者提醒民众提前核查2027年度医保补助、续保资格和保障内容。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-16T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/zhang-2027-premiums-rise-12-percent-96feb6",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "malaysia-economy-growth-slows-53-percent-4dc031",
+      "title": "马来西亚第三季经济增速放缓至5.3%",
+      "description": "马来西亚统计局公布的2026年第三季国内生产总值（GDP）初步估算显示，经济增幅为5.3%，低于上一季度的6%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-16T05:49:55+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/malaysia-economy-growth-slows-53-percent-4dc031",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "fox-poll-trump-approval-hits-record-low-f57a45",
+      "title": "福克斯民调显示特朗普支持率降至两任期新低",
+      "description": "福克斯新闻10月14日发布的民调显示，特朗普执政支持率从5月的39%降至36%，下降3个百分点，创其两个总统任期以来最低。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-16T05:44:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/fox-poll-trump-approval-hits-record-low-f57a45",
+      "reference": [
+        "财新"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-agencies-issue-work-safety-insurance-notice-7623ea",
+      "title": "三部门联合发文部署安责险事故预防服务",
+      "description": "应急管理部、金融监管总局和国家矿山安监局近日联合印发安责险事故预防服务通知。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-16T05:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/china-agencies-issue-work-safety-insurance-notice-7623ea",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "yibin-green-power-industry-competitiveness-1d8de1",
+      "title": "宜宾探索以绿电融合提升产业竞争力",
+      "description": "四川宜宾三江新区东部产业园正把绿电本地利用与动力电池产业链发展结合，推进国家级零碳园区试点。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-16T05:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/yibin-green-power-industry-competitiveness-1d8de1",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "reuters-us-myanmar-tokyo-secret-talks-2a9b07",
+      "title": "路透称美国与缅甸军政府上周在东京举行秘密会谈",
+      "description": "联合早报援引路透社报道，三名知情人士向路透社透露，美国与缅甸军政府上周在东京举行秘密会谈。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-16T05:33:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/reuters-us-myanmar-tokyo-secret-talks-2a9b07",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "kfc-switches-us-drink-supplier-coca-cola-b232ce",
+      "title": "美国肯德基宣布改由可口可乐供应饮料",
+      "description": "美国肯德基宣布与可口可乐达成饮料供应协议，约3500家美国门店将从2027年1月起逐步改由可口可乐供货，切换计划在2027年春季前完成。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-16T05:30:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/kfc-switches-us-drink-supplier-coca-cola-b232ce",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-treasury-cambodia-cooperate-fight-online-scams-c2f37d",
+      "title": "美国财政部与柬埔寨协作打击网络诈骗",
+      "description": "美国财政部副部长布朗（Erin Browne）10月16日在曼谷出席国际货币基金组织与世界银行联合年会时说，美方此前已对柬埔寨诈骗园区采取行动，目前正与柬政府合作打击当地园区、跨境犯罪网络及电信网络诈骗。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-16T05:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/us-treasury-cambodia-cooperate-fight-online-scams-c2f37d",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tao-ling-expands-foreign-investor-access-2ce940",
+      "title": "陶玲：支持更多类型境外投资者参与中国金融市场",
+      "description": "10月16日，中国人民银行副行长陶玲在全球财富管理论坛·2026上海苏河湾大会上提出，拓展境外投资者参与中国金融市场的渠道，涵盖股票、股权、债券、黄金、衍生品及大宗商品期货。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-16T05:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/tao-ling-expands-foreign-investor-access-2ce940",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "zelenskyy-accuses-putin-47-nations-fighters-5677a0",
+      "title": "乌克兰外长称战俘移交争议已经结束",
+      "description": "乌克兰外长安德烈·西比加10月12日称，乌方认为两名朝鲜战俘移交韩国一事引发的争议已经结束。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-16T05:20:43+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-24",
+      "url": "https://kaopu.news/story/2026-09-24/zelenskyy-accuses-putin-47-nations-fighters-5677a0",
+      "reference": [
+        "法广",
+        "联合早报",
+        "韩国国际广播电台",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 43,
+      "sources": []
+    },
     {
       "id": "oregon-silver-rail-shooting-four-victims-dead-ccd340",
       "title": "俄勒冈州本德银轨小学枪击致四人死亡",
@@ -82,6 +491,42 @@
       ],
       "section": "asia",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-claims-zelenskyy-unwilling-resolve-ukraine-crisis-a1d9de",
+      "title": "特朗普称泽连斯基不想解决乌克兰危机",
+      "description": "美国总统唐纳德·特朗普当地时间10月15日谈及乌克兰危机时称，乌克兰总统弗拉基米尔·泽连斯基“不想解决”这场危机，并表示泽连斯基不值得美国与之打交道。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-16T05:07:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/trump-claims-zelenskyy-unwilling-resolve-ukraine-crisis-a1d9de",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "warsh-says-fed-must-weigh-stability-risks-132f6f",
+      "title": "沃什称美联储需评估金融稳定风险",
+      "description": "美联储主席凯文·沃什当地时间10月16日表示，全球经济韧性强于他五六个月前的判断；在地缘政治紧张和多地遭遇冲击之际，仍有许多二十国集团成员经济体保持韧性。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-16T05:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/warsh-says-fed-must-weigh-stability-risks-132f6f",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -243,25 +688,6 @@
       "sources": []
     },
     {
-      "id": "siemens-opens-factories-to-test-embodied-ai-acd23f",
-      "title": "中外企业借工博会推进具身智能工业应用",
-      "description": "上海举行的中国国际工业博览会期间，中外企业展示具身智能工业方案，西门子宣布开放中国5家工厂的6类应用场景，供机器人企业开展测试验证。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T04:41:38.361391+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/siemens-opens-factories-to-test-embodied-ai-acd23f",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "section": "tech",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "shenzhen-advances-completed-home-sales-d2e5dc",
       "title": "深圳提高商品住房预售门槛并推进现房销售",
       "description": "深圳市住房和建设局、深圳市规划和自然资源局、国家金融监督管理总局深圳监管局于10月15日联合印发商品住房销售制度改革实施意见，文件自发布之日起施行。",
@@ -340,24 +766,6 @@
       ],
       "section": "asia",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "burger-king-japan-app-member-data-leak-8a719d",
-      "title": "日本多家企业遭非法访问 客户资料泄露或存风险",
-      "description": "日本多家企业及医疗IT服务商接连遭非法访问，客户资料出现泄露或外泄风险，医疗预约服务也受到影响。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T04:30:38+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/burger-king-japan-app-member-data-leak-8a719d",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -471,24 +879,6 @@
         "韩国国际广播电台"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "russia-kamchatka-earthquake-magnitude-69-9654e0",
-      "title": "俄罗斯堪察加半岛发生6.9级地震",
-      "description": "俄罗斯堪察加半岛发生6.9级地震，震源深度为150千米。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T03:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/russia-kamchatka-earthquake-magnitude-69-9654e0",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -1059,27 +1449,6 @@
       "sources": []
     },
     {
-      "id": "brunson-says-wartime-command-transfer-standards-change-1e0a67",
-      "title": "布伦森主张按新标准评估战时指挥权移交",
-      "description": "驻韩美军司令兼韩美联合司令部司令泽维尔·布伦森10月14日在华盛顿一场研讨会上表示，战时作战指挥权移交评估应考虑作战计划和安全环境的变化，并按新标准检验相关能力。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T02:14:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/brunson-says-wartime-command-transfer-standards-change-1e0a67",
-      "reference": [
-        "韩国国际广播电台",
-        "韩民族日报",
-        "东亚日报",
-        "朝鲜日报"
-      ],
-      "section": "asia",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "lee-appoints-kim-major-crimes-investigation-chief-c41158",
       "title": "李在明任命金志容为首任重大犯罪调查厅厅长",
       "description": "韩国总统李在明于10月15日批准任命金志容为新成立的重大犯罪调查厅首任厅长。",
@@ -1396,24 +1765,6 @@
       ],
       "section": "business",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "gudeng-opens-first-us-factory-arizona-2bc13f",
-      "title": "家登精密在亚利桑那州启用美国首座制造厂",
-      "description": "家登精密近日在美国亚利桑那州格兰岱启用首座制造厂，开始推进美国本地化生产。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T01:28:31+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/gudeng-opens-first-us-factory-arizona-2bc13f",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1903,24 +2254,6 @@
       "sources": []
     },
     {
-      "id": "minibus-crash-near-channel-tunnel-injures-19-42baec",
-      "title": "英法海底隧道附近小巴车祸致至少19人受伤",
-      "description": "英法海底隧道附近一辆载有多名卡车司机的小巴发生车祸，至少19人受伤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T22:01:31+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/minibus-crash-near-channel-tunnel-injures-19-42baec",
-      "reference": [
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-september-cpi-ppi-growth-widens-284332",
       "title": "中国9月PPI同比涨幅扩大至5%",
       "description": "中国国家统计局10月14日公布，9月居民消费价格指数（CPI）同比上涨0.9%，涨幅较8月扩大0.1个百分点；环比上涨0.2%，涨幅收窄0.2个百分点。",
@@ -2014,24 +2347,6 @@
       "sources": []
     },
     {
-      "id": "porsche-plans-cuts-fuel-model-expansion-b28cd8",
-      "title": "保时捷拟缩减员工并扩充燃油车型改善盈利",
-      "description": "保时捷公布面向2035年的经营战略，计划最多削减30%的员工，并增加中大型车和跑车等燃油车型，以改善盈利。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T21:02:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/porsche-plans-cuts-fuel-model-expansion-b28cd8",
-      "reference": [
-        "日经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "li-zhong-social-security-data-outreach-row-8f82e4",
       "title": "李忠谈社保数据找人引发舆论争议",
       "description": "人社部副部长李忠在经济社会规划新闻发布会上谈及用数据寻找未参保者并动员参保，相关表态引起舆论争议。",
@@ -2047,43 +2362,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "netanyahu-trump-discuss-joint-strike-iran-985018",
-      "title": "内塔尼亚胡被曝与卢比奥磋商打击伊朗计划",
-      "description": "内塔尼亚胡当地时间10月15日与美国国务卿卢比奥通电话，讨论对伊朗实施军事打击的计划。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T21:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/netanyahu-trump-discuss-joint-strike-iran-985018",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "trump-weighs-shadow-fleet-sanctions-4b6d5d",
-      "title": "特朗普政府据报考虑放宽影子船队制裁",
-      "description": "路透社援引美国官员报道，特朗普政府正考虑放宽对影子船队部分船只的制裁，允许其运输未受美国制裁的合法石油，以增加波斯湾原油和成品油外运能力、缓解高企的运费；相关方案仍在讨论中。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T20:37:41+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/trump-weighs-shadow-fleet-sanctions-4b6d5d",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2157,26 +2435,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "singapore-ships-hit-hormuz-strait-f6b062",
-      "title": "美军中央司令部否认伊朗控制霍尔木兹海峡",
-      "description": "美军中央司令部10月15日在社交平台X发文，否认伊朗伊斯兰革命卫队有关霍尔木兹海峡控制权、GFS PRIDE触雷以及美军在约旦遭大规模杀伤的说法。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T18:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/singapore-ships-hit-hormuz-strait-f6b062",
-      "reference": [
-        "联合早报",
-        "公视",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -2443,25 +2701,6 @@
       "sources": []
     },
     {
-      "id": "us-producer-prices-hit-highest-since-2022-121201",
-      "title": "美国9月PPI同比涨6.3%创近四年最大增幅",
-      "description": "美国劳工统计局公布，9月PPI同比上涨6.3%，为2022年12月以来最大涨幅，高于法广所引MarketWatch的5.5%预测。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T14:01:42+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/us-producer-prices-hit-highest-since-2022-121201",
-      "reference": [
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "lin-simei-kidney-donation-husband-transplant-bba1a6",
       "title": "妻子林思美捐肾助丈夫完成肾移植手术",
       "description": "林思美将一颗肾脏捐给丈夫林泽伟，两人于2025年10月在新加坡中央医院完成肾移植手术。",
@@ -2517,24 +2756,6 @@
       "sources": []
     },
     {
-      "id": "naura-subsidiary-acquires-nuohe-jianwei-685c73",
-      "title": "北方华创子公司拟4.05亿元收购诺合键维",
-      "description": "北方华创全资子公司北京北方华创微电子装备有限公司10月15日与北京集成电路装备产业投资并购二期基金签署股权转让协议，拟以现金约4.05亿元收购基金持有的北京诺合键维设备有限公司全部股权。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T13:31:40.867454+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/naura-subsidiary-acquires-nuohe-jianwei-685c73",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "foxconn-invests-537-million-q-edge-shares-0a93d6",
       "title": "鸿海子公司投资5.37亿美元取得Q-Edge股份",
       "description": "鸿海10月15日公告披露，其子公司Foxconn Assembly Holding Corporation已获得Q-Edge Corporation股份，相关投资金额为5.37亿美元，约合新台币173.2亿元。",
@@ -2568,24 +2789,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "merz-macron-propose-eu-market-exclusion-c6b368",
-      "title": "默茨与马克龙提议欧盟设贸易排除机制",
-      "description": "德国总理弗里德里希·默茨与法国总统埃马纽埃尔·马克龙上周联名致信欧盟委员会主席乌尔苏拉·冯德莱恩，建议建立一项机制：对持续采取不公平贸易行为的贸易伙伴，欧盟可将其排除出欧盟市场。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T13:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/merz-macron-propose-eu-market-exclusion-c6b368",
-      "reference": [
-        "德国之声"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2676,42 +2879,6 @@
         "中央通訊社"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "lai-meets-canadian-lawmakers-seeks-cooperation-14d216",
-      "title": "韩国瑜会见加拿大跨党派议员团讨论深化合作",
-      "description": "台湾立法院院长韩国瑜15日下午在立法院会见加拿大台湾国会议员友好协会会长史葛洛率领的跨党派议员团。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T12:41:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/lai-meets-canadian-lawmakers-seeks-cooperation-14d216",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "ana-jal-raise-international-fuel-surcharges-e2edf0",
-      "title": "全日空日航上调国际航线燃油附加费",
-      "description": "全日本空输（全日空）和日本航空公司宣布，11月、12月出票的国际机票燃油附加费将上调，调整覆盖两家公司的全部国际航线。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T12:35:29+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/ana-jal-raise-international-fuel-surcharges-e2edf0",
-      "reference": [
-        "共同网"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -3441,25 +3608,6 @@
       "sources": []
     },
     {
-      "id": "new-york-central-park-carriage-ban-vote-13f9ba",
-      "title": "纽约市议会将表决中央公园马车退场法案",
-      "description": "纽约市议会定于10月22日表决《罗曼奇法案》，提案拟在2028年6月前逐步终止中央公园观光马车服务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T06:50:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/new-york-central-park-carriage-ban-vote-13f9ba",
-      "reference": [
-        "世界日报",
-        "公视"
-      ],
-      "section": "life",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "hassabis-warns-ai-may-cause-major-accident-c34453",
       "title": "哈萨比斯警告AI智能体事件预示重大安全风险",
       "description": "当地时间10月14日，Google DeepMind董事长兼谷歌首席科学家德米斯·哈萨比斯在都柏林一场人工智能峰会上表示，近期AI智能体事件显示，能力尚有限的系统也可能带来安全风险。",
@@ -3536,24 +3684,6 @@
       "sources": []
     },
     {
-      "id": "ssa-announces-2027-benefits-cola-increase-e33e2b",
-      "title": "美国社会安全局宣布2027年社安福利上调3.6%",
-      "description": "美国社会安全局10月14日公布，2027年度社会安全福利生活成本调整幅度为3.6%，受益人平均每月将多领约75美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T06:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/ssa-announces-2027-benefits-cola-increase-e33e2b",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "cornell-fraternity-accused-of-drug-sexual-assault-a48306",
       "title": "康奈尔校长承认早知性侵指控数月未跟进",
       "description": "康奈尔大学校长迈克尔·柯特里科夫承认，他在2024年11月已获知一名学生提出性侵指控，但此后数月没有跟进。",
@@ -3591,42 +3721,6 @@
       ],
       "section": "us",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "new-york-trafficking-assessment-b03e1f",
-      "title": "纽约励馨称按摩店女性是否遭人口贩运难以一次判定",
-      "description": "纽约励馨表示，判断按摩店女性是否曾遭强迫、欺骗或控制，不能只凭一次接触。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T06:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/new-york-trafficking-assessment-b03e1f",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "new-york-trafficking-director-warns-labor-exploitation-aede55",
-      "title": "纽约州人口贩运主任提醒华人警惕劳工贩运",
-      "description": "纽约州刑事司法服务署（DCJS）人口贩运预防主任郭Julina近日首次接受中文媒体专访，提醒华人社群留意餐馆、建筑、小型零售和家政服务等行业中的强迫劳动风险。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T06:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/new-york-trafficking-director-warns-labor-exploitation-aede55",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3753,24 +3847,6 @@
       ],
       "section": "us",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "occ-finds-nine-banks-nonfinancial-influence-3ae92f",
-      "title": "美国监管机构指出九家大银行服务决策受非金融因素影响",
-      "description": "美国货币监理署（OCC）10月14日公布调查报告，称其监管的九家全国性银行在决定是否向客户提供服务时，曾受到政治考量、公众压力和社会顾虑等非金融因素影响。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/occ-finds-nine-banks-nonfinancial-influence-3ae92f",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -4055,24 +4131,6 @@
       "sources": []
     },
     {
-      "id": "tencent-launches-wechat-short-drama-mini-program-5d8291",
-      "title": "澎湃新闻称腾讯上线微信短剧小程序",
-      "description": "据澎湃新闻报道，腾讯近期在微信生态内上线“绿泡泡短剧”小程序，以免费收看、单集广告变现的方式进入短剧市场。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T23:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/tencent-launches-wechat-short-drama-mini-program-5d8291",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "russia-iran-china-ai-election-influence-9811ff",
       "title": "彭博称中俄伊利用生成式AI开展虚假信息宣传，美方忧其影响美国中期选举",
       "description": "据彭博社报道，知情人士和独立研究人员称，俄罗斯、伊朗和中国正借助人工智能工具强化虚假信息宣传。",
@@ -4123,24 +4181,6 @@
         "联合早报"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "tupac-murder-davis-gets-40-years-to-life-c8a922",
-      "title": "吐派克命案被告戴维斯被判40年至无期徒刑",
-      "description": "内华达州法官基尔尼判处戴维斯一级谋杀罪20年至无期徒刑，并因使用致命武器另判20年至无期徒刑，合并执行后总刑期为40年至无期徒刑。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T13:12:44+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/tupac-murder-davis-gets-40-years-to-life-c8a922",
-      "reference": [
-        "公视"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -4844,24 +4884,6 @@
       ],
       "section": "sports",
       "sourceCount": 11,
-      "sources": []
-    },
-    {
-      "id": "tang-jing-bites-rin-maeda-foul-loss-361da0",
-      "title": "亚运柔道唐婧咬伤前田凛被判犯规落败",
-      "description": "10月1日举行的名古屋亚运会女子柔道70公斤级八强赛中，中国选手唐婧咬住日本选手前田凛的左臂，裁判确认伤处有齿痕并经录像回放判唐婧犯规落败。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-02T05:32:45+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-02",
-      "url": "https://kaopu.news/story/2026-10-02/tang-jing-bites-rin-maeda-foul-loss-361da0",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "sports",
-      "sourceCount": 1,
       "sources": []
     }
   ]
