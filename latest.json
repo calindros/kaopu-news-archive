@@ -1,11 +1,130 @@
 {
   "details": {
     "date": "2026-10-17",
-    "timestamp": 1792230009,
+    "timestamp": 1792232831,
     "totalPages": 1,
-    "total": 263
+    "total": 265
   },
   "stories": [
+    {
+      "id": "huang-urges-europe-speed-ai-development-9d4842",
+      "title": "黄仁勋称市场波动不改AI产业基本面",
+      "description": "英伟达首席执行官黄仁勋回应科技股与人工智能（AI）板块近期下跌时表示，市场波动不会改变AI产业的基本面；他认为AI仍处于发展初期，将深刻影响各行业和国家，相关趋势会继续。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T09:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/huang-urges-europe-speed-ai-development-9d4842",
+      "reference": [
+        "中央通訊社",
+        "第一财经",
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "politico-anthropic-pitches-ai-safety-bill-4b5005",
+      "title": "Politico称Anthropic推介AI安全草案",
+      "description": "Anthropic代表近日私下向美国国会议员推介一份前沿人工智能安全法案草案。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T09:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/politico-anthropic-pitches-ai-safety-bill-4b5005",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "lawrence-wong-qatar-uae-visit-fff902",
+      "title": "黄循财将正式访问卡塔尔和阿联酋",
+      "description": "新加坡总理黄循财将于10月18日起先后正式访问卡塔尔和阿联酋。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T09:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/lawrence-wong-qatar-uae-visit-fff902",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "iran-tanker-strikes-mine-hormuz-fire-8d86fb",
+      "title": "国际海事组织警告霍尔木兹海峡通行风险仍高",
+      "description": "国际海事组织秘书长阿塞尼奥·多明格斯10月16日在伦敦国际海事组织总部接受新华社专访时说，霍尔木兹海峡及周边海域安全形势继续恶化，船舶通行风险没有降低。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T08:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/iran-tanker-strikes-mine-hormuz-fire-8d86fb",
+      "reference": [
+        "联合早报",
+        "第一财经",
+        "英国广播公司",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "trump-suggests-ukraine-leadership-change-for-deal-415c04",
+      "title": "泽连斯基宣布结束能源停火并恢复打击俄能源设施",
+      "description": "乌克兰总统弗拉基米尔·泽连斯基在接受《金融时报》采访时表示，乌方暂停打击俄罗斯石油设施的限制已经结束，将恢复相关行动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T08:49:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-10",
+      "url": "https://kaopu.news/story/2026-10-10/trump-suggests-ukraine-leadership-change-for-deal-415c04",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "联合早报",
+        "英国广播公司"
+      ],
+      "section": "world",
+      "sourceCount": 62,
+      "sources": []
+    },
+    {
+      "id": "trump-waives-russia-sanctions-a8e26a",
+      "title": "特朗普签令豁免对俄多项制裁和关税",
+      "description": "美国总统特朗普10月16日签署行政命令，豁免适用《2026年林赛·格雷厄姆制裁俄罗斯与伊朗法案》中的多项制裁、限制和关税措施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T08:48:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/trump-waives-russia-sanctions-a8e26a",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 4,
+      "sources": []
+    },
     {
       "id": "russia-kamchatka-earthquake-magnitude-69-9654e0",
       "title": "日本气象厅误发M9.9地震警报后八分钟撤销",
@@ -70,6 +189,24 @@
       "sources": []
     },
     {
+      "id": "brazil-judge-bars-meta-election-content-interference-773d03",
+      "title": "巴西法官下令Meta决选前不得干预候选人内容",
+      "description": "巴西最高选举法院法官贝利齐10月15日要求Meta在10月25日总统决选前，不得干预任何候选人的政治或选举相关内容传播，并对卢拉和弗拉维奥·博索纳罗适用相同标准。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T08:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/brazil-judge-bars-meta-election-content-interference-773d03",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "white-house-zacharia-lawyer-credentials-questioned-948361",
       "title": "白宫确认扎卡里亚任职五天后离开新闻秘书职位",
       "description": "美国白宫确认，凯蒂·扎卡里亚将离开新闻秘书职位。",
@@ -88,6 +225,24 @@
       ],
       "section": "us",
       "sourceCount": 19,
+      "sources": []
+    },
+    {
+      "id": "yu-yiting-breaks-asian-record-wins-silver-b8f34a",
+      "title": "余依婷刷新亚洲纪录获蝶泳世界杯银牌",
+      "description": "北京时间10月16日，短池游泳世界杯阿斯塔纳站女子100米蝶泳决赛中，余依婷以55秒17完赛，将亚洲纪录提升至这一成绩并获银牌。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T08:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/yu-yiting-breaks-asian-record-wins-silver-b8f34a",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "sports",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -244,26 +399,6 @@
       ],
       "section": "business",
       "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "trump-waives-russia-sanctions-a8e26a",
-      "title": "特朗普签令豁免多项对俄制裁与关税",
-      "description": "美国总统唐纳德·特朗普10月16日签署行政令，豁免《2026年林赛·格雷厄姆制裁俄罗斯与伊朗法案》中的大部分相关制裁、限制和关税条款。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T07:01:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-17",
-      "url": "https://kaopu.news/story/2026-10-17/trump-waives-russia-sanctions-a8e26a",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1038,25 +1173,6 @@
       "sources": []
     },
     {
-      "id": "huang-urges-europe-speed-ai-development-9d4842",
-      "title": "黄仁勋称AI市场震荡会过去发展尚处起步阶段",
-      "description": "英伟达首席执行官黄仁勋10月17日在柏林表示，AI相关市场波动终会过去，人工智能仍在发展早期，未来将对各行业和国家产生积极影响。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T04:06:43.523305+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/huang-urges-europe-speed-ai-development-9d4842",
-      "reference": [
-        "中央通訊社",
-        "第一财经"
-      ],
-      "section": "ai",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "japan-minister-kiuchi-visits-yasukuni-shrine-0478ca",
       "title": "日本经济财政担当相城内实参拜靖国神社",
       "description": "日本经济财政担当相城内实于10月17日上午参拜了位于东京九段北的靖国神社。",
@@ -1167,24 +1283,6 @@
       ],
       "section": "tech",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "politico-anthropic-pitches-ai-safety-bill-4b5005",
-      "title": "Politico称Anthropic推介AI安全法案",
-      "description": "据Politico援引三名消息人士报道，Anthropic代表近日私下向美国国会议员推介一份前沿人工智能安全法案草案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T02:02:53+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-17",
-      "url": "https://kaopu.news/story/2026-10-17/politico-anthropic-pitches-ai-safety-bill-4b5005",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1991,27 +2089,6 @@
       "sources": []
     },
     {
-      "id": "norway-nobel-committee-awards-navanethem-pillay-peace-prize-8c72a5",
-      "title": "南非人权律师皮莱获2026年诺贝尔和平奖",
-      "description": "挪威诺贝尔委员会10月9日宣布，将2026年诺贝尔和平奖授予南非人权律师纳瓦内特姆·“纳维”·皮莱，奖金为1200万瑞典克朗。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T14:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-09",
-      "url": "https://kaopu.news/story/2026-10-09/norway-nobel-committee-awards-navanethem-pillay-peace-prize-8c72a5",
-      "reference": [
-        "财新",
-        "公视",
-        "德国之声",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 17,
-      "sources": []
-    },
-    {
       "id": "nvidia-rtx-spark-pcs-launch-taiwan-4896c6",
       "title": "辉达RTX Spark个人电脑开卖 台湾举行实体庆祝活动",
       "description": "搭载辉达（NVIDIA）RTX Spark AI超级芯片的个人电脑10月16日开卖，辉达在台北举行线下庆祝活动。",
@@ -2064,27 +2141,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-adds-moab-to-iran-strike-plan-1343f3",
-      "title": "美军据报拟定对伊打击方案考虑使用炸弹之母",
-      "description": "美国军方据报已制定新的对伊打击方案，目标包括伊朗能源和核设施；CNN援引多名美国官员称，方案将GBU-43/B大型空爆弹（MOAB，俗称“炸弹之母”）列为可选手段。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T13:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/us-adds-moab-to-iran-strike-plan-1343f3",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "法广",
-        "朝鲜日报"
-      ],
-      "section": "world",
-      "sourceCount": 9,
       "sources": []
     },
     {
@@ -2772,24 +2828,6 @@
       ],
       "section": "business",
       "sourceCount": 29,
-      "sources": []
-    },
-    {
-      "id": "malaysia-customs-busts-four-drug-smuggling-cases-a5fc93",
-      "title": "马来西亚关税局破获四起跨州毒品走私案",
-      "description": "马来西亚关税局在9月至10月侦破四起跨州毒品走私案，查获近1.2公吨毒品，估值约1亿6100万令吉（约5100万新元）。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T10:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/malaysia-customs-busts-four-drug-smuggling-cases-a5fc93",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
