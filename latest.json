@@ -3,9 +3,123 @@
     "date": "2026-10-17",
     "timestamp": 1792206987,
     "totalPages": 1,
-    "total": 266
+    "total": 265
   },
   "stories": [
+    {
+      "id": "leibo-nominates-yang-kaijin-county-chief-91a511",
+      "title": "四川雷波县提名杨开金出任县长一职",
+      "description": "10月17日，四川凉山州雷波县干部大会宣布省委组织部、凉山州委的调整决定：杨开金任县委副书记并获提名任县长；郑洪波被免去县委职务，获提名免去县长职务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T03:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/leibo-nominates-yang-kaijin-county-chief-91a511",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "singapore-launches-voluntary-tcm-accreditation-e282a7",
+      "title": "新加坡正式启动自愿中医认证计划",
+      "description": "新加坡正式启动自愿性质的中医认证计划，10月17日起接受申请。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T03:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/singapore-launches-voluntary-tcm-accreditation-e282a7",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ai-agents-jailbreak-attempt-amap-access-c48424",
+      "title": "腾讯云上的AI代理多次尝试获取高德数据",
+      "description": "研究团队Swarmchasers称，9月28日至10月8日，十多个疑似使用中国模型、运行于腾讯云相关环境的AI代理，多次向阿里巴巴旗下高德地图查询地点信息。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T02:48:06+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/ai-agents-jailbreak-attempt-amap-access-c48424",
+      "reference": [
+        "联合早报",
+        "纽约时报",
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "japan-minister-kiuchi-visits-yasukuni-shrine-0478ca",
+      "title": "据报日本成长战略担当大臣城内实参拜靖国神社",
+      "description": "澎湃新闻援引总台记者消息称，日本成长战略担当大臣城内实于10月17日参拜靖国神社。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T02:45:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/japan-minister-kiuchi-visits-yasukuni-shrine-0478ca",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "li-qiang-chairs-cabinet-meeting-ai-review-848575",
+      "title": "李强主持国常会部署深化“人工智能+”行动",
+      "description": "中国国务院总理李强10月16日主持召开国务院常务会议，听取“人工智能+”行动进展汇报，并要求进一步推动行动落地。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T02:41:37.695375+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/li-qiang-chairs-cabinet-meeting-ai-review-848575",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "第一财经"
+      ],
+      "section": "ai",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "trump-waives-russia-sanctions-a8e26a",
+      "title": "特朗普签令豁免并暂缓多项对俄制裁",
+      "description": "特朗普10月16日签署行政令，暂缓执行《2026年林赛·格雷厄姆制裁俄罗斯与伊朗法案》的多项对俄制裁、限制和关税。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T02:41:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/trump-waives-russia-sanctions-a8e26a",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
     {
       "id": "xu-disheng-team-reported-3d-ghys-proof-62613b",
       "title": "许地生团队借助书生S2证明三维Ghys猜想",
@@ -26,22 +140,39 @@
       "sources": []
     },
     {
-      "id": "li-qiang-chairs-cabinet-meeting-ai-review-848575",
-      "title": "李强主持国常会要求深化人工智能应用",
-      "description": "中国国务院总理李强10月16日主持召开国务院常务会议，听取“人工智能+”行动进展汇报。",
+      "id": "cbs-traces-zhang-wanying-prince-group-links-c52ae4",
+      "title": "CBS调查张婉莹人脉发现太子集团关联",
+      "description": "据CBS新闻调查，张婉莹及与她一同监视赖清德长子赖廷一家的苗发太，都与柬埔寨太子集团相关人士存在商业或社交联系。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-17T02:12:00+00:00",
+      "updatedAt": "2026-10-17T02:17:22+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/li-qiang-chairs-cabinet-meeting-ai-review-848575",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/cbs-traces-zhang-wanying-prince-group-links-c52ae4",
       "reference": [
-        "澎湃新闻",
-        "联合早报"
+        "世界日报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "politico-anthropic-pitches-ai-safety-bill-4b5005",
+      "title": "Politico称Anthropic推介AI安全法案",
+      "description": "据Politico援引三名消息人士报道，Anthropic代表近日私下向美国国会议员推介一份前沿人工智能安全法案草案。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T02:02:53+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/politico-anthropic-pitches-ai-safety-bill-4b5005",
+      "reference": [
+        "中央通訊社"
       ],
       "section": "ai",
-      "sourceCount": 2,
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -61,6 +192,27 @@
       ],
       "section": "china",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "lai-ching-te-national-day-benefit-speech-a7bbad",
+      "title": "赖清德国庆演说承诺维护台海和平稳定",
+      "description": "10月10日，台湾总统赖清德在台北总统府前举行的国庆大会发表演说，以“台湾：山巅之城，地上的盐，世上的光”为题，谈及经济民生、防务和两岸关系，并表示台湾将以坚定、负责任的行动维护台海及印太地区和平稳定。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T01:46:44+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-09",
+      "url": "https://kaopu.news/story/2026-10-09/lai-ching-te-national-day-benefit-speech-a7bbad",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "公视",
+        "英国广播公司"
+      ],
+      "section": "asia",
+      "sourceCount": 58,
       "sources": []
     },
     {
@@ -2116,24 +2268,6 @@
       "sources": []
     },
     {
-      "id": "pope-warns-climate-change-threatens-south-asia-migration-57ea22",
-      "title": "波普警告气候变化威胁南亚生计并迫使居民迁徙",
-      "description": "国际移民组织总干事波普10月16日在新德里接受法新社采访时警告，气候变化正危及南亚居民生计，并使部分人不得不离开家园。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T10:36:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/pope-warns-climate-change-threatens-south-asia-migration-57ea22",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-statistics-bureau-revises-enterprise-credit-rules-0abd28",
       "title": "国家统计局公布修订版统计严重失信企业信用管理办法",
       "description": "中国国家统计局10月16日发布修订后的《统计严重失信企业信用管理办法》。",
@@ -2432,24 +2566,6 @@
       "sources": []
     },
     {
-      "id": "indonesia-prabowo-approval-rating-falls-819851",
-      "title": "印尼总统普拉博沃支持率降至44.5%",
-      "description": "印度尼西亚总统普拉博沃支持率降至44.5%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T09:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/indonesia-prabowo-approval-rating-falls-819851",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "xu-yongkun-anhui-discipline-inspection-chief-67be60",
       "title": "许永锞出任安徽省委常委、省纪委书记",
       "description": "许永锞已出任安徽省委常委、省纪委书记，并于10月15日在合肥举行的安徽省纪委十一届七次全会上讲话。",
@@ -2525,25 +2641,6 @@
       "sources": []
     },
     {
-      "id": "ai-agents-jailbreak-attempt-amap-access-c48424",
-      "title": "腾讯称评估代理出现未预期网页浏览行为",
-      "description": "腾讯10月16日表示，用于评估第三方模型的人工智能代理出现了公司未曾预料的网页浏览行为，并称将加强网络访问控制和代理监控。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T08:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/ai-agents-jailbreak-attempt-amap-access-c48424",
-      "reference": [
-        "联合早报",
-        "纽约时报"
-      ],
-      "section": "ai",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "yi-fuxian-estimates-china-population-127-billion-aa64a1",
       "title": "易富贤报告估算中国实际人口约为12.7亿",
       "description": "中国人口问题专家、美国威斯康星大学麦迪逊分校高级研究员易富贤发表人口研究报告，估算中国实际人口可能约为12.7亿，较官方公布的14亿少约1.3亿。",
@@ -2595,24 +2692,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "taiwan-election-commission-bars-10-candidates-326755",
-      "title": "台湾中选会确认10名议员候选人资格不符",
-      "description": "台湾中央选举委员会于2026年10月16日审查九合一选举候选人资格，确认10名直辖市及县市议员候选人不符合规定。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T08:03:52+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/taiwan-election-commission-bars-10-candidates-326755",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3040,25 +3119,6 @@
       "sources": []
     },
     {
-      "id": "ding-zuyao-consecrated-chinas-youngest-bishop-b27d09",
-      "title": "丁祖耀祝圣为海门主教成中国大陆最年轻主教",
-      "description": "天主教神父丁祖耀10月15日在江苏省南通市青年东路天主堂祝圣为海门教区主教。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T06:17:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/ding-zuyao-consecrated-chinas-youngest-bishop-b27d09",
-      "reference": [
-        "中央通訊社",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "sunnyvale-affordable-housing-opening-6ae985",
       "title": "桑尼维尔176套平价住房项目举行开幕典礼",
       "description": "圣塔克拉拉县政府与合作伙伴近日为桑尼维尔平价住房项目Ira D. Hall Square举行开幕典礼。",
@@ -3184,27 +3244,6 @@
       ],
       "section": "asia",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "china-north-korea-open-new-yalu-river-bridge-b42863",
-      "title": "中朝新鸭绿江大桥建成十二年后正式开通",
-      "description": "中国与朝鲜10月15日举行仪式，正式开通连接辽宁省丹东市与朝鲜平安北道新义州市的新鸭绿江大桥。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T06:05:34+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/china-north-korea-open-new-yalu-river-bridge-b42863",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "韩民族日报",
-        "韩国国际广播电台"
-      ],
-      "section": "china",
-      "sourceCount": 25,
       "sources": []
     },
     {
@@ -3614,24 +3653,6 @@
       "sources": []
     },
     {
-      "id": "home-services-worker-protections-ba27bb",
-      "title": "上门服务兴起后权益保障制度加快完善",
-      "description": "代扔垃圾、上门助浴、上门做饭等服务近年在多地兴起，成为灵活就业的新选择。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T23:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/home-services-worker-protections-ba27bb",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "us-states-sue-openai-change-chatgpt-ade4ba",
       "title": "美国八州总检察长起诉OpenAI指控其危害用户",
       "description": "美国艾奥瓦等8州总检察长于10月14日分别向本州法院起诉OpenAI，指控其聊天机器人ChatGPT伤害用户，尤其未成年人，并要求法院责令公司修改产品运行方式、加强安全保护。",
@@ -3984,25 +4005,6 @@
       "sources": []
     },
     {
-      "id": "california-billionaire-tax-proposition-vote-d73d68",
-      "title": "加州选民下月将表决亿万富翁5%净资产税",
-      "description": "加州选民将在2026年11月期中选举中决定是否通过第40号提案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T12:10:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/california-billionaire-tax-proposition-vote-d73d68",
-      "reference": [
-        "法广",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "wang-ruidong-wears-guangxi-polka-dot-jersey-3cde06",
       "title": "王瑞东首次为中国车手穿上环广西圆点衫",
       "description": "10月15日，2026库迪咖啡环广西公路自行车世界巡回赛第三赛段结束。",
@@ -4276,24 +4278,6 @@
       ],
       "section": "ai",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "ai-demand-delays-large-gas-turbine-delivery-ce2b8d",
-      "title": "AI用电需求拉长大型燃气机组交货期",
-      "description": "台湾电力公司（台电）副总经理郑庆鸿10月15日表示，人工智能（AI）用电需求增长使全球大型燃气机组供不应求，交货期从过去约两年延长至四年以上，价格升至此前的三至四倍。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T04:14:08+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/ai-demand-delays-large-gas-turbine-delivery-ce2b8d",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
       "sources": []
     },
     {
