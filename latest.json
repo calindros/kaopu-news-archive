@@ -1,11 +1,193 @@
 {
   "details": {
     "date": "2026-10-17",
-    "timestamp": 1792226541,
+    "timestamp": 1792230009,
     "totalPages": 1,
     "total": 263
   },
   "stories": [
+    {
+      "id": "russia-kamchatka-earthquake-magnitude-69-9654e0",
+      "title": "日本气象厅误发M9.9地震警报后八分钟撤销",
+      "description": "日本气象厅10月16日中午12时40分左右向北海道至东海等地发布紧急地震警报，称当地可能出现最大震度7的强烈摇晃。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T08:46:16+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/russia-kamchatka-earthquake-magnitude-69-9654e0",
+      "reference": [
+        "澎湃新闻",
+        "共同网",
+        "韩民族日报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "japan-foreign-residents-hit-record-high-3a0fc6",
+      "title": "日本在留外国居民增至428万创新高",
+      "description": "日本出入国在留管理厅10月16日公布，截至2026年6月底，在日外国居民为4,281,026人，创历史新高，较2025年底增加约15.6万人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T08:38:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/japan-foreign-residents-hit-record-high-3a0fc6",
+      "reference": [
+        "共同网",
+        "日本放送协会",
+        "法广",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "trump-russia-diesel-sanctions-waiver-a71d22",
+      "title": "特朗普放宽对俄制裁换取柴油供应引发美欧反弹",
+      "description": "美国总统唐纳德·特朗普10月9日宣布，美俄就俄罗斯向美国及全球市场供应柴油达成安排。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T08:37:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-10",
+      "url": "https://kaopu.news/story/2026-10-10/trump-russia-diesel-sanctions-waiver-a71d22",
+      "reference": [
+        "英国广播公司",
+        "澎湃新闻",
+        "联合早报",
+        "第一财经"
+      ],
+      "section": "world",
+      "sourceCount": 39,
+      "sources": []
+    },
+    {
+      "id": "white-house-zacharia-lawyer-credentials-questioned-948361",
+      "title": "白宫确认扎卡里亚任职五天后离开新闻秘书职位",
+      "description": "美国白宫确认，凯蒂·扎卡里亚将离开新闻秘书职位。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T08:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/white-house-zacharia-lawyer-credentials-questioned-948361",
+      "reference": [
+        "世界日报",
+        "纽约时报",
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 19,
+      "sources": []
+    },
+    {
+      "id": "zhang-wacheng-neurosurgery-professor-dies-aged-97-9e6a29",
+      "title": "神经外科教授张瓦城逝世享年97岁",
+      "description": "首都医科大学宣武医院神经外科教授张瓦城于2026年10月15日在北京去世，享年97岁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T08:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/zhang-wacheng-neurosurgery-professor-dies-aged-97-9e6a29",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "chinese-volunteer-army-veteran-pang-xinghai-dies-9427c9",
+      "title": "志愿军老兵庞兴海病逝享年96岁",
+      "description": "中国人民志愿军老兵庞兴海因病医治无效，于10月17日清晨5时46分在牡丹江逝世，享年96岁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T08:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/chinese-volunteer-army-veteran-pang-xinghai-dies-9427c9",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "fed-beige-book-flags-price-pressure-2b0909",
+      "title": "美联储褐皮书显示多地物价压力加重",
+      "description": "美国联邦储备局10月14日公布最新褐皮书，显示能源等投入成本推动部分地区物价压力增强。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T07:54:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/fed-beige-book-flags-price-pressure-2b0909",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "ukraine-claims-spacex-starlink-throttling-air-defense-4c1c82",
+      "title": "特朗普否认下令限制乌克兰星盾服务",
+      "description": "乌克兰军方使用的“星盾”卫星通信服务在10月13日晚至14日遭限速。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T07:46:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/ukraine-claims-spacex-starlink-throttling-air-defense-4c1c82",
+      "reference": [
+        "联合早报",
+        "公视",
+        "朝鲜日报",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "apple-foldable-iphone-preorders-pickup-sold-out-715c9a",
+      "title": "苹果首款折叠屏手机预售首批货源迅速售罄",
+      "description": "苹果首款折叠屏手机iPhone Duo于10月16日20时在中国开启预售，首批货源迅速售罄，首发定于10月23日。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T07:41:35+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/apple-foldable-iphone-preorders-pickup-sold-out-715c9a",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 4,
+      "sources": []
+    },
     {
       "id": "imf-forecasts-japan-gdp-rank-sixth-2027-3f92ea",
       "title": "IMF预计日本GDP排名2027年降至全球第六",
@@ -100,48 +282,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ukraine-claims-spacex-starlink-throttling-air-defense-4c1c82",
-      "title": "乌克兰军用星盾服务受限后逐步恢复",
-      "description": "乌克兰军方使用的SpaceX“星盾”卫星通信服务在10月13日晚至14日一度受到限速。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T06:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/ukraine-claims-spacex-starlink-throttling-air-defense-4c1c82",
-      "reference": [
-        "联合早报",
-        "公视",
-        "朝鲜日报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
-      "id": "white-house-zacharia-lawyer-credentials-questioned-948361",
-      "title": "扎卡里亚上任仅五天便遭白宫解职",
-      "description": "美国白宫发言人凯蒂·扎卡里亚任职仅5天，便于10月16日离开这一职位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T06:40:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/white-house-zacharia-lawyer-credentials-questioned-948361",
-      "reference": [
-        "世界日报",
-        "纽约时报",
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 18,
       "sources": []
     },
     {
@@ -666,26 +806,6 @@
       "sources": []
     },
     {
-      "id": "japan-foreign-residents-hit-record-high-3a0fc6",
-      "title": "日本在留外国人增至428万创历史新高",
-      "description": "日本出入国在留管理厅公布，截至2026年6月底，在日本居留的外国人为4,281,026人，刷新历史纪录。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T05:31:30+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/japan-foreign-residents-hit-record-high-3a0fc6",
-      "reference": [
-        "共同网",
-        "日本放送协会",
-        "法广"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "tesla-unveils-roadster-production-2028-efd753",
       "title": "特斯拉发布新一代Roadster计划2028年量产",
       "description": "美国当地时间10月15日，特斯拉在得克萨斯州麦格雷戈的SpaceX测试场发布新一代Roadster。",
@@ -804,27 +924,6 @@
       ],
       "section": "asia",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "russia-kamchatka-earthquake-magnitude-69-9654e0",
-      "title": "日本气象厅误报9.9级地震八分钟后撤销警报",
-      "description": "日本气象厅10月16日中午12时40分左右发布紧急地震速报，称北海道至东海地区将出现强烈摇晃，预测最大震度将达日本标准的7。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T05:03:15+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/russia-kamchatka-earthquake-magnitude-69-9654e0",
-      "reference": [
-        "澎湃新闻",
-        "共同网",
-        "韩民族日报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -1126,26 +1225,6 @@
       ],
       "section": "asia",
       "sourceCount": 58,
-      "sources": []
-    },
-    {
-      "id": "apple-foldable-iphone-preorders-pickup-sold-out-715c9a",
-      "title": "苹果首款折叠屏手机预售首批货源迅速售罄",
-      "description": "苹果首款折叠屏手机iPhone Duo开启预售后，首发取货名额迅速被抢完，天猫苹果官方旗舰店的订单预计发货时间已排至2027年1月23日，苹果官网预计发货时间延后。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T01:43:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/apple-foldable-iphone-preorders-pickup-sold-out-715c9a",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1696,27 +1775,6 @@
       ],
       "section": "world",
       "sourceCount": 12,
-      "sources": []
-    },
-    {
-      "id": "trump-russia-diesel-sanctions-waiver-a71d22",
-      "title": "美俄达成柴油供应协议美国财政部暂缓相关制裁",
-      "description": "美国与俄罗斯10月9日宣布达成柴油供应安排后，美国财政部外国资产控制办公室发布临时许可，允许相关俄罗斯柴油贸易在许可期限内暂不受美国相关制裁限制。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T15:43:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/trump-russia-diesel-sanctions-waiver-a71d22",
-      "reference": [
-        "英国广播公司",
-        "澎湃新闻",
-        "联合早报",
-        "第一财经"
-      ],
-      "section": "world",
-      "sourceCount": 38,
       "sources": []
     },
     {
@@ -2476,25 +2534,6 @@
       "sources": []
     },
     {
-      "id": "kfc-switches-us-drink-supplier-coca-cola-b232ce",
-      "title": "美国肯德基将饮料供应商改为可口可乐",
-      "description": "美国肯德基于10月15日宣布，将从2027年1月起在全美约3500家门店把饮料供应商由百事改为可口可乐，并预计在2027年第一季度结束前让全美门店都开始供应可口可乐。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T11:09:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/kfc-switches-us-drink-supplier-coca-cola-b232ce",
-      "reference": [
-        "世界日报",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "indonesia-wildfire-haze-firms-permits-suspended-103874",
       "title": "印尼多地民众抗议要求政府加强林火应对",
       "description": "印度尼西亚多个地区的居民、学生和社区组织近日举行抗议，要求政府加强森林和土地火灾扑救、援助受灾社区，并追究涉事企业责任。",
@@ -2973,24 +3012,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "beijing-internet-court-reports-elderly-online-infringement-12c8ee",
-      "title": "北京互联网法院通报四千余件老年人网络侵权案",
-      "description": "北京互联网法院10月16日通报涉60岁以上老年人网络侵权案件审理情况，并公布十起典型案例。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T08:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/beijing-internet-court-reports-elderly-online-infringement-12c8ee",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -4773,24 +4794,6 @@
       "occurredAt": "",
       "publishedAt": "2026-10-10",
       "url": "https://kaopu.news/story/2026-10-10/ming-na-wen-publishes-family-recipes-738f1f",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "wen-muye-film-releases-north-america-196ac9",
-      "title": "文牧野新片《欢迎来龙餐馆》登陆北美",
-      "description": "文牧野执导的战争剧情片《欢迎来龙餐馆》（Once Upon a Time in the Middle East）将于即日起在美国和加拿大上映。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-10T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/wen-muye-film-releases-north-america-196ac9",
       "reference": [
         "世界日报"
       ],
