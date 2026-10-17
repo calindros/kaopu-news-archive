@@ -3,9 +3,120 @@
     "date": "2026-10-17",
     "timestamp": 1792250808,
     "totalPages": 1,
-    "total": 265
+    "total": 266
   },
   "stories": [
+    {
+      "id": "sri-lanka-grid-failure-causes-blackout-195b30",
+      "title": "斯里兰卡全国电网故障致停电约六小时",
+      "description": "斯里兰卡全国电网10月17日中午发生故障，全国停电约六小时。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T14:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/sri-lanka-grid-failure-causes-blackout-195b30",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "huang-qifan-faces-disciplinary-investigation-87e664",
+      "title": "中纪委发文强调涉腐官员没有“平安着陆”",
+      "description": "中国中央纪委国家监委10月13日通报，重庆市原市长黄奇帆涉嫌严重违纪违法，正接受纪律审查和监察调查。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T14:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/huang-qifan-faces-disciplinary-investigation-87e664",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "联合早报",
+        "英国广播公司"
+      ],
+      "section": "china",
+      "sourceCount": 20,
+      "sources": []
+    },
+    {
+      "id": "sanjiangyuan-park-issues-illegal-entry-notice-481c10",
+      "title": "三江源国家公园管理局发布非法穿越管控通告",
+      "description": "青海省政府新闻办10月16日举行打击非法穿越三江源国家公园新闻发布会。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T14:55:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/sanjiangyuan-park-issues-illegal-entry-notice-481c10",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "weidel-calls-end-ukraine-war-139e9c",
+      "title": "魏德尔称继续援乌并延长冲突是错误的",
+      "description": "德国选择党主席魏德尔在英国《经济学人》10月15日播出的采访中表示，不应继续为她所称已经失败的战争提供资金，并主张结束俄乌冲突。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T14:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/weidel-calls-end-ukraine-war-139e9c",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "le-pen-says-france-cannot-fund-ukraine-ca0bed",
+      "title": "勒庞称法国无力继续为乌克兰提供资金",
+      "description": "法国极右翼政党“国民联盟”领导人、总统候选人玛丽娜·勒庞当地时间10月14日在电视节目中表示，法国此前已尽其所能帮助乌克兰，目前没有能力继续提供资金。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T14:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/le-pen-says-france-cannot-fund-ukraine-ca0bed",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-suppliers-win-german-industrial-orders-9c7bb6",
+      "title": "中国供应商赢得德国工业企业订单和客户",
+      "description": "FTI-Andersch委托福尔萨开展的调查显示，中国供应商已从部分德国工业企业手中赢得订单，并吸引一些企业的现有客户转投。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T14:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/china-suppliers-win-german-industrial-orders-9c7bb6",
+      "reference": [
+        "德国之声"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "eu-trade-chief-beijing-talks-a85d92",
       "title": "欧盟拟用新工具快速限制单一市场准入",
@@ -25,6 +136,24 @@
       ],
       "section": "world",
       "sourceCount": 73,
+      "sources": []
+    },
+    {
+      "id": "norway-drill-chinese-cars-record-gate-codes-669cd1",
+      "title": "挪威军演租用中国汽车被曝录下门禁密码",
+      "description": "挪威《每日商业报》披露，9月14日至18日在奥斯陆机场举行的安全演习中，挪威国民警卫队租用的中国制造汽车保存了车载摄像头拍摄的敏感画面。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T14:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/norway-drill-chinese-cars-record-gate-codes-669cd1",
+      "reference": [
+        "德国之声"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1547,27 +1676,6 @@
       "sources": []
     },
     {
-      "id": "huang-qifan-faces-disciplinary-investigation-87e664",
-      "title": "中纪委通报重庆原市长黄奇帆接受审查调查",
-      "description": "中央纪委国家监委10月13日通报，重庆市原市长黄奇帆涉嫌严重违纪违法，正接受纪律审查和监察调查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T05:28:31+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/huang-qifan-faces-disciplinary-investigation-87e664",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "联合早报",
-        "英国广播公司"
-      ],
-      "section": "china",
-      "sourceCount": 19,
-      "sources": []
-    },
-    {
       "id": "french-students-protest-school-conditions-11bf14",
       "title": "法国学生将联合工会举行全国性抗议活动",
       "description": "法国学生、工会和黄背心运动成员定于当地时间10月17日在全国举行示威，抗议物价上涨、不平等以及公共服务和生活水平问题。",
@@ -2115,27 +2223,6 @@
       "sources": []
     },
     {
-      "id": "houthis-claim-strikes-saudi-targets-9f88db",
-      "title": "沙特主导联军称胡塞武装袭击利雅得机场致17死333伤",
-      "description": "也门胡塞武装10月以来持续攻击沙特境内目标。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T23:34:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-06",
-      "url": "https://kaopu.news/story/2026-10-06/houthis-claim-strikes-saudi-targets-9f88db",
-      "reference": [
-        "法广",
-        "联合早报",
-        "公视",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 87,
-      "sources": []
-    },
-    {
       "id": "bloomberg-taiwan-texas-industrial-park-plan-dfe86f",
       "title": "台湾计划在美国设立多座产业园区",
       "description": "台湾经济部长龚明鑫在10月12日接受彭博社采访时表示，台湾计划从美国得州的一座产业园区起步，并在美国设立不止一座园区，帮助中小型供应商赴美设厂，为台积电等主要生产伙伴及鸿海等人工智能服务器组装企业提供供应链支持。",
@@ -2156,25 +2243,6 @@
       "sources": []
     },
     {
-      "id": "alberta-voters-answer-ten-referendum-questions-f5ef8c",
-      "title": "艾伯塔省选民将表决是否启动独立公投程序",
-      "description": "艾伯塔省选民将于10月19日参加一场包含十项议题的公投。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T23:21:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/alberta-voters-answer-ten-referendum-questions-f5ef8c",
-      "reference": [
-        "加拿大国际广播电台",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "counterfeit-museum-fridge-magnets-ringleader-jailed-59bd28",
       "title": "钱某制售假冒文博冰箱贴获刑三年六个月",
       "description": "法院于2026年4月27日以侵犯著作权罪判处钱某有期徒刑三年六个月，并处罚金80万元，追缴违法所得79.5万元。",
@@ -2190,25 +2258,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "eu-keeps-russia-sanctions-until-war-ends-9b427b",
-      "title": "泽连斯基要求欧盟2027年追加700亿欧元援助",
-      "description": "乌克兰总统泽连斯基在布鲁塞尔欧盟领导人峰会上要求欧盟为乌克兰2027年追加至少700亿欧元援助。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T23:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/eu-keeps-russia-sanctions-until-war-ends-9b427b",
-      "reference": [
-        "联合早报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -2551,24 +2600,6 @@
       ],
       "section": "us",
       "sourceCount": 40,
-      "sources": []
-    },
-    {
-      "id": "us-hiring-slowdown-shrinks-job-switcher-pay-edge-2217d6",
-      "title": "美国招聘放缓令跳槽者加薪优势收窄",
-      "description": "美国招聘市场放缓，跳槽者的薪资涨幅优势缩小，更多劳动者倾向留在原职。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T13:05:12+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/us-hiring-slowdown-shrinks-job-switcher-pay-edge-2217d6",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2993,25 +3024,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-regulators-fuel-pump-fraud-399-cases-eafee3",
-      "title": "市场监管总局通报加油机作弊治理查处399件",
-      "description": "中国市场监管总局10月16日上午召开专题新闻发布会，通报加油机作弊治理进展。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T09:51:37.464051+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/china-regulators-fuel-pump-fraud-399-cases-eafee3",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "section": "china",
-      "sourceCount": 2,
       "sources": []
     },
     {
