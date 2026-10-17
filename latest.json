@@ -1,11 +1,104 @@
 {
   "details": {
     "date": "2026-10-17",
-    "timestamp": 1792219310,
+    "timestamp": 1792222195,
     "totalPages": 1,
     "total": 263
   },
   "stories": [
+    {
+      "id": "suspected-migrant-boat-sinks-11-missing-5f4cd1",
+      "title": "恩森那达以西疑似偷渡船沉没 16人获救11人失踪",
+      "description": "墨西哥下加利福尼亚州恩森那达以西约140英里的太平洋海域16日发生疑似偷渡船沉没事故。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T06:12:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/suspected-migrant-boat-sinks-11-missing-5f4cd1",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "california-voters-vote-tax-extension-525d96",
+      "title": "加州选民将表决永久延续高收入者加税",
+      "description": "加州选民定于11月3日就3号提案投票，决定是否取消针对最高收入群体的现行所得税附加税到期限制，使其永久延续。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/california-voters-vote-tax-extension-525d96",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "new-huanggang-port-daily-crossings-exceed-80000-f523ba",
+      "title": "新皇岗口岸开通后日均出入境逾8万人次",
+      "description": "连接香港与深圳的新皇岗口岸于10月12日早上6时30分启用，实行“一地两检”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/new-huanggang-port-daily-crossings-exceed-80000-f523ba",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "russian-fsb-confirms-japanese-reporter-arrest-8bd024",
+      "title": "日本使馆探视被拘北海道新闻记者未果",
+      "description": "日本驻俄罗斯大使馆人员10月16日前往莫斯科列福尔托沃看守所，未能会见因涉嫌间谍活动被拘的《北海道新闻》南萨哈林斯克支局记者今井裕纪。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T05:47:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/russian-fsb-confirms-japanese-reporter-arrest-8bd024",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "共同网",
+        "日经"
+      ],
+      "section": "world",
+      "sourceCount": 31,
+      "sources": []
+    },
+    {
+      "id": "pakistan-earthquake-magnitude-5-9-81e618",
+      "title": "巴基斯坦发生5.9级地震震源深度达10千米",
+      "description": "10月17日13时06分，巴基斯坦发生5.9级地震。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T05:44:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/pakistan-earthquake-magnitude-5-9-81e618",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "white-house-zacharia-lawyer-credentials-questioned-948361",
       "title": "白宫新闻秘书扎卡里亚任职五天后离职",
@@ -88,6 +181,24 @@
       "sources": []
     },
     {
+      "id": "guangdong-shantou-fire-incense-report-c2bcdb",
+      "title": "广东省政府公布报告认定汕头火灾由蚊香引发",
+      "description": "广东省政府公布汕头“12·9”重大火灾事故调查报告，认定火灾由使用蚊香不慎引发，造成12人死亡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-17T05:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/guangdong-shantou-fire-incense-report-c2bcdb",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "china-employers-social-insurance-fines-triple-54bc7e",
       "title": "国家税务总局新规将统一社保欠缴处罚尺度",
       "description": "国家税务总局发布的《全国税务行政处罚裁量基准（2026年版）》将于2026年11月1日施行，社保缴费违法行为届时纳入全国统一的税务行政处罚裁量体系。",
@@ -125,27 +236,6 @@
       ],
       "section": "asia",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "russian-fsb-confirms-japanese-reporter-arrest-8bd024",
-      "title": "俄拘押北海道新闻记者后日方探视未果",
-      "description": "俄罗斯联邦安全局10月13日公布拘押《北海道新闻》驻南萨哈林斯克支局一名记者的消息；俄外交部发言人随后确认，该记者名为今井裕纪。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T05:03:37+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/russian-fsb-confirms-japanese-reporter-arrest-8bd024",
-      "reference": [
-        "澎湃新闻",
-        "法广",
-        "共同网",
-        "日经"
-      ],
-      "section": "world",
-      "sourceCount": 30,
       "sources": []
     },
     {
@@ -773,24 +863,6 @@
       ],
       "section": "world",
       "sourceCount": 9,
-      "sources": []
-    },
-    {
-      "id": "suspected-migrant-boat-sinks-11-missing-5f4cd1",
-      "title": "疑似偷渡船在恩森那达以西沉没 11人失踪",
-      "description": "据世界日报援引美联社报道，墨西哥恩森那达以西约140英里的太平洋海域发生疑似偷渡船沉没事故。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T00:14:27+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-17",
-      "url": "https://kaopu.news/story/2026-10-17/suspected-migrant-boat-sinks-11-missing-5f4cd1",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1829,24 +1901,6 @@
       "sources": []
     },
     {
-      "id": "el-nino-warm-current-brings-tropical-species-california-2c1c42",
-      "title": "厄尔尼诺暖流推动热带海洋生物北上加州",
-      "description": "近三个月，强烈厄尔尼诺现象带来的暖流将原本生活在赤道及墨西哥热带海域的生物带至加州海域，当地出现双髻鲨、褐背蝠鲼等罕见踪迹。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T12:32:08+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/el-nino-warm-current-brings-tropical-species-california-2c1c42",
-      "reference": [
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-taiwan-affairs-office-bans-vway-trade-d9bccd",
       "title": "国台办宣布惩戒沈伯洋父亲关联VWAY公司",
       "description": "中国大陆国台办10月14日宣布对VWAY公司实施惩戒，措施包括禁止该公司与中国大陆的组织、企业和个人进行交易或合作。",
@@ -2869,24 +2923,6 @@
       "sources": []
     },
     {
-      "id": "china-tycoons-end-offshore-trusts-tax-2eef59",
-      "title": "中国富豪据报终止离岸信托应对追税",
-      "description": "中国税务机关正加紧收集富裕人士信息并追查离岸信托收入税款；据路透社引述财富顾问、律师及其他知情人士报道，部分富豪正终止离岸信托、出售股票，或调整身份和财富架构。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T07:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/china-tycoons-end-offshore-trusts-tax-2eef59",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "chengmai-hilton-doubletree-hotel-auction-23917b",
       "title": "澄迈富力红树湾希尔顿逸林酒店将公开拍卖",
       "description": "海南澄迈富力红树湾希尔顿逸林酒店及其分摊土地使用权定于2026年10月29日10时在阿里资产平台开拍。",
@@ -2901,24 +2937,6 @@
         "澎湃新闻"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "qu-jiawen-faces-disciplinary-review-probe-82dcba",
-      "title": "邮储银行原副行长曲家文正接受审查调查",
-      "description": "中国邮政储蓄银行原党委委员、副行长曲家文涉嫌严重违纪违法，正接受纪律审查和监察调查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T06:44:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/qu-jiawen-faces-disciplinary-review-probe-82dcba",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
@@ -3918,24 +3936,6 @@
         "澎湃新闻"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "cms-rule-limits-noncitizen-aca-subsidies-dd73ef",
-      "title": "CMS新规将缩限非公民健保补助资格",
-      "description": "美国联邦医疗保险与医疗补助服务中心（CMS）新规将从2027年1月1日起收紧非公民获得《平价医疗法案》（ACA）联邦保费补助和自付费用减免的资格。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T14:20:29+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/cms-rule-limits-noncitizen-aca-subsidies-dd73ef",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
