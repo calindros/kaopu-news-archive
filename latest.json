@@ -3,9 +3,65 @@
     "date": "2026-10-18",
     "timestamp": 1792338235,
     "totalPages": 1,
-    "total": 264
+    "total": 266
   },
   "stories": [
+    {
+      "id": "lawrence-wong-qatar-uae-visit-fff902",
+      "title": "黄循财抵达卡塔尔开启中东正式访问",
+      "description": "新加坡总理兼财政部长黄循财10月18日抵达卡塔尔，开启对卡塔尔和阿联酋的正式访问。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-18T15:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/lawrence-wong-qatar-uae-visit-fff902",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "yin-ruoning-wins-buick-lpga-championship-895acc",
+      "title": "殷若宁逆转夺得别克LPGA锦标赛冠军",
+      "description": "中国球员殷若宁在2026别克LPGA锦标赛中完成逆转并夺冠。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-18T14:52:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-18",
+      "url": "https://kaopu.news/story/2026-10-18/yin-ruoning-wins-buick-lpga-championship-895acc",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "sports",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "leibo-nominates-yang-kaijin-county-chief-91a511",
+      "title": "郑洪波因耻辱合影事件被提名免去县长职务",
+      "description": "四川凉山州雷波县公布“耻辱合影”事件处理及人事安排，郑洪波受到党内警告处分，县委职务被免，并被提名免去县长职务；杨开金获任县委副书记、常委、委员，并获提名为县长。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-18T14:41:34.876666+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/leibo-nominates-yang-kaijin-county-chief-91a511",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "第一财经"
+      ],
+      "section": "china",
+      "sourceCount": 3,
+      "sources": []
+    },
     {
       "id": "singapore-launches-n95-mask-distribution-706f81",
       "title": "烟霾推高防霾口罩需求商家陆续补货",
@@ -43,6 +99,60 @@
       ],
       "section": "world",
       "sourceCount": 20,
+      "sources": []
+    },
+    {
+      "id": "zelensky-us-resumes-ukraine-intelligence-sharing-e97a7c",
+      "title": "泽连斯基称美国恢复对乌关键情报共享",
+      "description": "泽连斯基在10月18日播出的美国全国广播公司节目中说，美乌情报共享短暂中断后已恢复。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-18T14:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-18",
+      "url": "https://kaopu.news/story/2026-10-18/zelensky-us-resumes-ukraine-intelligence-sharing-e97a7c",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "russian-black-sea-tankers-spoof-ais-signals-508868",
+      "title": "俄黑海受制裁油轮被指伪造定位隐匿航程",
+      "description": "据《联合早报》转引《金融时报》报道，俄罗斯黑海受制裁油轮被指以虚假自动识别系统（AIS）信号掩盖航程。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-18T14:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-18",
+      "url": "https://kaopu.news/story/2026-10-18/russian-black-sea-tankers-spoof-ais-signals-508868",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "fokina-wins-shanghai-masters-title-9a1a94",
+      "title": "福基纳逆转霍达尔夺得上海大师赛冠军",
+      "description": "西班牙选手福基纳10月18日晚在上海劳力士大师赛决赛中逆转战胜同胞霍达尔，拿下个人首个ATP大师赛冠军。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-18T14:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-18",
+      "url": "https://kaopu.news/story/2026-10-18/fokina-wins-shanghai-masters-title-9a1a94",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "sports",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2023,24 +2133,6 @@
       "sources": []
     },
     {
-      "id": "sri-lanka-grid-failure-causes-blackout-195b30",
-      "title": "斯里兰卡全国电网故障致停电约六小时",
-      "description": "斯里兰卡全国电网10月17日中午发生故障，全国停电约六小时。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T14:59:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-17",
-      "url": "https://kaopu.news/story/2026-10-17/sri-lanka-grid-failure-causes-blackout-195b30",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "sanjiangyuan-park-issues-illegal-entry-notice-481c10",
       "title": "三江源国家公园管理局发布非法穿越管控通告",
       "description": "青海省政府新闻办10月16日举行打击非法穿越三江源国家公园新闻发布会。",
@@ -2055,24 +2147,6 @@
         "澎湃新闻"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "weidel-calls-end-ukraine-war-139e9c",
-      "title": "魏德尔称继续援乌并延长冲突是错误的",
-      "description": "德国选择党主席魏德尔在英国《经济学人》10月15日播出的采访中表示，不应继续为她所称已经失败的战争提供资金，并主张结束俄乌冲突。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T14:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-17",
-      "url": "https://kaopu.news/story/2026-10-17/weidel-calls-end-ukraine-war-139e9c",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -2528,24 +2602,6 @@
       ],
       "section": "ai",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "lawrence-wong-qatar-uae-visit-fff902",
-      "title": "黄循财将正式访问卡塔尔和阿联酋",
-      "description": "新加坡总理黄循财将于10月18日起先后正式访问卡塔尔和阿联酋。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T09:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-17",
-      "url": "https://kaopu.news/story/2026-10-17/lawrence-wong-qatar-uae-visit-fff902",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3160,25 +3216,6 @@
         "共同网"
       ],
       "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "leibo-nominates-yang-kaijin-county-chief-91a511",
-      "title": "四川雷波县提名杨开金出任县长一职",
-      "description": "10月17日，四川凉山州雷波县干部大会宣布省委组织部、凉山州委的调整决定：杨开金任县委副书记并获提名任县长；郑洪波被免去县委职务，获提名免去县长职务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T03:14:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-17",
-      "url": "https://kaopu.news/story/2026-10-17/leibo-nominates-yang-kaijin-county-chief-91a511",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "china",
       "sourceCount": 2,
       "sources": []
     },
