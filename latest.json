@@ -1,11 +1,332 @@
 {
   "details": {
     "date": "2026-10-19",
-    "timestamp": 1792372809,
+    "timestamp": 1792381062,
     "totalPages": 1,
-    "total": 267
+    "total": 268
   },
   "stories": [
+    {
+      "id": "toyota-plans-software-defined-cars-9b2619",
+      "title": "丰田计划到2030年让约50款车型全部实现SDV化",
+      "description": "丰田汽车在10月上旬举行的投资者技术说明会上宣布，计划到2030年将全球约50款车型全部转型为软件定义汽车（SDV），并搭载自研Arene平台。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T02:18:30+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/toyota-plans-software-defined-cars-9b2619",
+      "reference": [
+        "中央通訊社",
+        "日经"
+      ],
+      "section": "tech",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "eu-trade-chief-beijing-talks-a85d92",
+      "title": "欧盟领导人要求制定应对进口激增新工具",
+      "description": "欧盟领导人10月15日至16日在布鲁塞尔举行峰会，同意研究应对进口激增、减轻欧洲产业所受冲击的新贸易工具，并要求欧盟委员会尽快提出方案。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T02:11:14+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-05",
+      "url": "https://kaopu.news/story/2026-10-05/eu-trade-chief-beijing-talks-a85d92",
+      "reference": [
+        "联合早报",
+        "法广",
+        "中央通訊社",
+        "纽约时报"
+      ],
+      "section": "world",
+      "sourceCount": 74,
+      "sources": []
+    },
+    {
+      "id": "french-students-protest-school-conditions-11bf14",
+      "title": "法国大规模示威演变为骚乱逾两千人被捕",
+      "description": "法国多地于10月17日举行大规模示威，最初围绕教育资源不足展开的学生抗议，扩大为反对生活成本上涨、公共服务退化及财政紧缩的社会动员。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T02:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
+      "reference": [
+        "公视",
+        "法广",
+        "日本放送协会",
+        "英国广播公司"
+      ],
+      "section": "world",
+      "sourceCount": 30,
+      "sources": []
+    },
+    {
+      "id": "china-retail-sales-grow-1point1-percent-77721f",
+      "title": "国家统计局公布前三季度社零总额同比增长1.1%",
+      "description": "中国国家统计局10月19日公布的数据显示，2026年前三季度社会消费品零售总额达到370001亿元，较上年同期增加1.1%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T01:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/china-retail-sales-grow-1point1-percent-77721f",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "st-dynamics-fined-concealing-related-deals-eac9e4",
+      "title": "*ST动力隐瞒关联交易被罚2580万元",
+      "description": "*ST动力因未披露与诺安基金的关联关系及关联交易，被河北证监局责令改正、给予警告并罚款500万元；公司及相关责任人罚款合计2580万元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T01:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/st-dynamics-fined-concealing-related-deals-eac9e4",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-keeps-ukraine-sudan-tps-protections-ff50d5",
+      "title": "美国暂保乌克兰和苏丹TPS持有人居留工作权",
+      "description": "美国国土安全部表示，乌克兰和苏丹现有临时保护身份（TPS）持有人，在最终决定公布前仍可在美国居住和工作。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T01:55:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/us-keeps-ukraine-sudan-tps-protections-ff50d5",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-tier-one-home-prices-rise-september-0c748c",
+      "title": "一线城市9月新房和二手房价格环比上涨",
+      "description": "国家统计局10月19日公布的2026年9月70个大中城市商品住宅销售价格数据显示，一线城市新建商品住宅和二手住宅价格环比均上涨；各线城市商品住宅价格同比降幅均有所收窄。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T01:53:08.771720+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/china-tier-one-home-prices-rise-september-0c748c",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "2027-budget-raises-income-tax-relief-c5f093",
+      "title": "2027年财政预算案提高个人所得税减免额",
+      "description": "2027年财政预算案将个人所得税可享减免的金额从9000令吉调高至1万2000令吉，并将孩子补习支出以及照顾年迈父母、祖父母的费用纳入可申请税务减免的项目。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T01:52:21+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/2027-budget-raises-income-tax-relief-c5f093",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-allows-taiwan-birthplace-entry-3538fa",
+      "title": "日本政府允许国家资格出生地栏填写台湾等名称",
+      "description": "据日经报道，日本政府已调整医生、保育士等国家资格的相关制度，允许申请人在出生地栏填写“台湾”等地区名称。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T01:50:05+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/japan-allows-taiwan-birthplace-entry-3538fa",
+      "reference": [
+        "日经"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-waives-russia-sanctions-a8e26a",
+      "title": "特朗普签署行政令暂缓多项对俄制裁与关税",
+      "description": "美国总统唐纳德·特朗普10月16日签署行政令，豁免《林赛·格雷厄姆俄罗斯与伊朗制裁法案》中的多项对俄制裁、限制和关税措施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T01:50:05+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-17",
+      "url": "https://kaopu.news/story/2026-10-17/trump-waives-russia-sanctions-a8e26a",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "法广",
+        "德国之声"
+      ],
+      "section": "us",
+      "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "kapuas-drought-disrupts-palm-oil-shipping-87b77f",
+      "title": "干旱致卡普阿斯河航运受阻小农鲜果滞销",
+      "description": "厄尔尼诺相关干旱使印尼西加里曼丹卡普阿斯河水位大幅下降，棕榈油外运受阻，压榨厂减少鲜果收购，数千名小农难以卖出收成。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T01:47:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/kapuas-drought-disrupts-palm-oil-shipping-87b77f",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "wtw-workers-financial-security-hits-seven-year-low-200c23",
+      "title": "WTW调查显示劳工财务安全感降至七年最低",
+      "description": "保险咨询机构韦莱韬悦（Willis Towers Watson，WTW）近期对6000名受薪员工进行调查，发现受访者中认为自己财务状况安全的比例从今年以来的46%降至36%，为七年来最低。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T01:45:08+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/wtw-workers-financial-security-hits-seven-year-low-200c23",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "zhang-jingping-appointed-guizhou-united-front-chief-e098c8",
+      "title": "张敬平履新贵州省委常委、统战部部长",
+      "description": "张敬平已进入贵州省委常委班子，出任统战部部长，同时担任贵州省副省长、兼任省政协党组副书记。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T01:38:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/zhang-jingping-appointed-guizhou-united-front-chief-e098c8",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "sanae-takaichi-offers-masakaki-yasukuni-shrine-c4e65d",
+      "title": "高市早苗自费委托梶山向靖国神社代献玉串料",
+      "description": "日本首相高市早苗在靖国神社秋季例行大祭期间，以首相名义供奉“真榊”，并于10月19日自费献上“玉串料”；她没有亲自前往神社参拜。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T01:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/sanae-takaichi-offers-masakaki-yasukuni-shrine-c4e65d",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "共同网",
+        "日本放送协会"
+      ],
+      "section": "asia",
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
+      "id": "hyundai-transys-expands-georgia-plant-0e2d5c",
+      "title": "肯普公布现代坦迪斯5.6亿美元扩建佐治亚工厂计划",
+      "description": "现代汽车集团旗下零部件企业现代坦迪斯计划投资5.6亿美元（约7486亿韩元），扩建其位于佐治亚州西点市的工厂。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T01:27:29+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/hyundai-transys-expands-georgia-plant-0e2d5c",
+      "reference": [
+        "韩国国际广播电台"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "beijing-huiyuan-cuts-huiyuan-brand-ties-997045",
+      "title": "北京汇源宣布与“汇源”商标切割",
+      "description": "北京汇源饮料食品集团有限公司10月19日早间通过微信公众号“汇源集团”发布声明，宣布不再生产带有“汇源”商标的果汁，结束相关代工合同及商标合作，并全面推出“咱家果源”品牌。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T01:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/beijing-huiyuan-cuts-huiyuan-brand-ties-997045",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "israel-election-netanyahu-leadership-e2a640",
+      "title": "以色列议会选举将聚焦内塔尼亚胡能否留任",
+      "description": "以色列定于10月27日举行议会选举，核心问题是总理内塔尼亚胡能否继续执政。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T01:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/israel-election-netanyahu-leadership-e2a640",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "swisse-supplement-batches-exceed-lead-limit-4abdc7",
       "title": "斯维诗澳洲公司召回两批铅含量超标抗糖丸",
@@ -64,6 +385,63 @@
       "sources": []
     },
     {
+      "id": "changxin-forecasts-131-billion-yuan-profit-47aea1",
+      "title": "长鑫科技预计前三季度净利达1310亿至1325亿元",
+      "description": "长鑫科技10月16日晚发布2026年前三季度业绩预告，预计营业收入为2650亿至2700亿元，归属于上市公司股东的净利润为1310亿至1325亿元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T01:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/changxin-forecasts-131-billion-yuan-profit-47aea1",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "联合早报",
+        "朝鲜日报"
+      ],
+      "section": "business",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "korea-chip-boom-household-income-share-record-low-8191e0",
+      "title": "韩国半导体繁荣下家庭可支配收入占比创新低",
+      "description": "韩国银行数据显示，第二季度家庭可支配总收入占国民总收入的比例降至47.7%，在2010年开始季度统计后首次跌破50%，也是统计以来最低值。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T00:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/korea-chip-boom-household-income-share-record-low-8191e0",
+      "reference": [
+        "朝鲜日报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nikkei-falls-over-1300-points-below-64000-7e96b2",
+      "title": "日经指数盘中跌逾1300点失守64000点",
+      "description": "东京股市19日周一盘中，日经指数跌幅超过1300点，滑落至64000点下方。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T00:57:02+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/nikkei-falls-over-1300-points-below-64000-7e96b2",
+      "reference": [
+        "共同网"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "putin-proposes-trump-xi-ukraine-war-talks-c341cb",
       "title": "普京据报提议与特朗普、习近平深圳会晤商讨俄乌战争",
       "description": "《华尔街日报》引述一名前俄罗斯情报官员称，俄罗斯总统弗拉基米尔·普京在10月9日与美国总统唐纳德·特朗普通话时，提出与特朗普、中国国家主席习近平举行三方会晤，讨论俄乌战争。",
@@ -83,9 +461,29 @@
       "sources": []
     },
     {
+      "id": "russian-drones-strike-ukraine-kill-three-b55d1a",
+      "title": "俄乌双方大规模互袭无人机造成伤亡",
+      "description": "10月18日，俄罗斯和乌克兰发动大规模无人机袭击。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T00:51:53+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/russian-drones-strike-ukraine-kill-three-b55d1a",
+      "reference": [
+        "联合早报",
+        "德国之声",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
       "id": "austrian-airlines-flight-bomb-threat-sofia-diversion-3b3326",
-      "title": "奥地利航空客机受炸弹威胁紧急备降索非亚",
-      "description": "10月18日，一架奥地利航空空客A320客机从特拉维夫飞往维也纳途中接获炸弹威胁，随后改降保加利亚首都索非亚。",
+      "title": "奥地利航空客机因炸弹威胁紧急转降索非亚",
+      "description": "一架由特拉维夫飞往维也纳的奥地利航空客机在接近罗马尼亚领空时收到炸弹威胁，随后改降保加利亚首都索非亚。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -94,31 +492,11 @@
       "publishedAt": "2026-10-19",
       "url": "https://kaopu.news/story/2026-10-19/austrian-airlines-flight-bomb-threat-sofia-diversion-3b3326",
       "reference": [
+        "法广",
         "联合早报"
       ],
       "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "sanae-takaichi-offers-masakaki-yasukuni-shrine-c4e65d",
-      "title": "高市早苗向靖国神社自费献上祭祀费",
-      "description": "日本首相高市早苗在靖国神社秋季例行大祭期间，先于10月17日以首相名义供奉“真榊”，再于10月19日以私人名义自费献上“玉串料”（祭祀费）。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T00:40:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/sanae-takaichi-offers-masakaki-yasukuni-shrine-c4e65d",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "共同网",
-        "日本放送协会"
-      ],
-      "section": "asia",
-      "sourceCount": 13,
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -291,27 +669,6 @@
       "sources": []
     },
     {
-      "id": "french-students-protest-school-conditions-11bf14",
-      "title": "法国大规模示威演变为多地暴力骚乱",
-      "description": "法国10月17日爆发大规模示威，抗议者反对油价和生活成本上涨、公共服务削弱及财政紧缩，部分城市随后发生警民冲突、抢劫和纵火。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-18T23:46:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
-      "reference": [
-        "公视",
-        "法广",
-        "日本放送协会",
-        "英国广播公司"
-      ],
-      "section": "world",
-      "sourceCount": 26,
-      "sources": []
-    },
-    {
       "id": "ai-song-ranks-third-korean-chart-614f49",
       "title": "默穆尔AI歌曲升至韩国Melon榜第三",
       "description": "音乐创作者默穆尔的歌曲《你成为梦想中的大人了吗？",
@@ -327,6 +684,44 @@
       ],
       "section": "ai",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-backs-netanyahu-reelection-d6e4fe",
+      "title": "特朗普公开支持内坦亚胡竞选连任",
+      "description": "10月18日，美国总统特朗普在社交平台Truth Social发文，明确支持以色列总理内坦亚胡在即将举行的选举中争取连任。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-18T23:33:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-18",
+      "url": "https://kaopu.news/story/2026-10-18/trump-backs-netanyahu-reelection-d6e4fe",
+      "reference": [
+        "联合早报",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "zelensky-witkoff-kushner-discuss-diplomacy-c0e7c1",
+      "title": "泽连斯基与美方特使通话商讨外交安排",
+      "description": "乌克兰总统泽连斯基表示，他于10月18日与美国总统特朗普的特使史蒂夫·威特科夫及贾里德·库什纳通话，讨论此前在佛罗里达州的会晤和下一步外交行动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-18T23:33:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-18",
+      "url": "https://kaopu.news/story/2026-10-18/zelensky-witkoff-kushner-discuss-diplomacy-c0e7c1",
+      "reference": [
+        "澎湃新闻",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -405,24 +800,6 @@
       ],
       "section": "us",
       "sourceCount": 23,
-      "sources": []
-    },
-    {
-      "id": "zelensky-witkoff-kushner-discuss-diplomacy-c0e7c1",
-      "title": "泽连斯基与美方特使通话商讨外交解决危机",
-      "description": "泽连斯基称，他10月18日与美国总统特使威特科夫及特朗普女婿库什纳通话，讨论外交解决乌克兰危机。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-18T21:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/zelensky-witkoff-kushner-discuss-diplomacy-c0e7c1",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -582,24 +959,6 @@
       "url": "https://kaopu.news/story/2026-10-18/rubio-leads-200-us-firms-uzbekistan-9747de",
       "reference": [
         "法广"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-backs-netanyahu-reelection-d6e4fe",
-      "title": "特朗普支持内坦亚胡竞选连任以色列总理",
-      "description": "美国总统特朗普10月18日在社交媒体发文，支持以色列总理内坦亚胡在即将举行的国会选举中争取连任。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-18T15:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/trump-backs-netanyahu-reelection-d6e4fe",
-      "reference": [
-        "联合早报"
       ],
       "section": "world",
       "sourceCount": 1,
@@ -1068,26 +1427,6 @@
       "sources": []
     },
     {
-      "id": "changxin-forecasts-131-billion-yuan-profit-47aea1",
-      "title": "长鑫科技预计前三季度净利超1300亿元并扭亏",
-      "description": "长鑫科技于10月16日晚发布2026年前三季度业绩预告，预计营业收入为2650亿至2700亿元，同比增长约726%至742%；归属于上市公司股东的净利润预计为1310亿至1325亿元，上年同期净亏损52.8亿元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-18T12:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/changxin-forecasts-131-billion-yuan-profit-47aea1",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "china-september-ev-exports-fastest-growth-d4bd6f",
       "title": "中国9月电动汽车出口同比增速创年内新高",
       "description": "中国海关总署10月18日公布9月出口数据：“新三样”出口额同比增长近七成，达279.9亿美元。",
@@ -1406,25 +1745,6 @@
       "sources": []
     },
     {
-      "id": "russian-drones-strike-ukraine-kill-three-b55d1a",
-      "title": "俄乌能源停火未阻止双方继续空袭",
-      "description": "俄乌能源停火未能阻止双方继续发动空袭。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-18T10:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/russian-drones-strike-ukraine-kill-three-b55d1a",
-      "reference": [
-        "联合早报",
-        "德国之声"
-      ],
-      "section": "world",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "china-secondhand-luxury-sales-grow-96f1c2",
       "title": "中国二手奢侈品市场销售额快速增长",
       "description": "中国二手奢侈品市场去年扩大之际，转转集团旗下“超级转转”上海旗舰店于本月开业。",
@@ -1592,27 +1912,6 @@
       "sources": []
     },
     {
-      "id": "ukraine-claims-spacex-starlink-throttling-air-defense-4c1c82",
-      "title": "鲁比奥称乌克兰从未获准使用星盾",
-      "description": "美国国务卿鲁比奥10月17日否认美方下令降低乌克兰所用星链通信速度，并称乌克兰军方从未获准使用美国军用卫星通信系统星盾。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-18T07:42:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/ukraine-claims-spacex-starlink-throttling-air-defense-4c1c82",
-      "reference": [
-        "联合早报",
-        "公视",
-        "朝鲜日报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 12,
-      "sources": []
-    },
-    {
       "id": "china-gold-jewelry-demand-hits-low-14a689",
       "title": "中国上半年金饰消费量降至二十年同期最低",
       "description": "世界黄金协会数据显示，2026年上半年中国金饰消费量同比减少30%至136吨，为2006年以来同期最低；消费金额却增加5%至1440亿元，位列上半年历史第二高。",
@@ -1683,42 +1982,6 @@
         "德国之声"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "russia-reorganizes-captured-ukrainian-forces-brigade-017ed6",
-      "title": "俄罗斯将乌战俘及前乌军人员分队整编为所谓特种旅",
-      "description": "俄罗斯于2026年8月将由乌克兰战俘及前乌军人员组成的多支作战分队合并为所谓“乌克兰志愿特种部队旅”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-18T07:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/russia-reorganizes-captured-ukrainian-forces-brigade-017ed6",
-      "reference": [
-        "德国之声"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "rodriguez-venezuela-near-76-billion-oil-investment-9ebfed",
-      "title": "罗德里格斯称委内瑞拉五年料获近760亿美元石油投资",
-      "description": "委内瑞拉代总统罗德里格斯10月17日在全国电视讲话中说，按近期签署的协议，委方未来五年预计将获得近760亿美元石油投资。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-18T06:43:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/rodriguez-venezuela-near-76-billion-oil-investment-9ebfed",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -2055,27 +2318,6 @@
       ],
       "section": "business",
       "sourceCount": 13,
-      "sources": []
-    },
-    {
-      "id": "trump-waives-russia-sanctions-a8e26a",
-      "title": "特朗普签令豁免多项对俄制裁及关税",
-      "description": "美国总统特朗普10月16日签署行政令，豁免《2026年林赛·格雷厄姆制裁俄罗斯与伊朗法案》中的多项对俄制裁、限制和关税，并称此举符合美国国家利益。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-18T05:03:17+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-17",
-      "url": "https://kaopu.news/story/2026-10-17/trump-waives-russia-sanctions-a8e26a",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "法广",
-        "德国之声"
-      ],
-      "section": "us",
-      "sourceCount": 10,
       "sources": []
     },
     {
@@ -2549,24 +2791,6 @@
       "sources": []
     },
     {
-      "id": "tan-pichuang-liuzhou-debt-falls-18-percent-9b7c1a",
-      "title": "谭丕创称柳州两年债务总量缩减18%",
-      "description": "谭丕创近日在《学习与研究》杂志发文介绍柳州化债工作，并称柳州2025年债务总量比2023年末减少18%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T13:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-17",
-      "url": "https://kaopu.news/story/2026-10-17/tan-pichuang-liuzhou-debt-falls-18-percent-9b7c1a",
-      "reference": [
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "south-korea-police-warn-defectors-china-d1b349",
       "title": "韩国警方警告受保护脱北者避免赴华",
       "description": "韩国警方应外交部要求，向在韩受保护的脱北者发送赴华风险警告，建议避免前往中国或改选其他目的地。",
@@ -2618,27 +2842,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-2026-fiscal-deficit-nears-two-trillion-0f43a4",
-      "title": "美国2026财年预算赤字升至1.99万亿美元",
-      "description": "美国财政部10月16日公布，2026财年联邦预算赤字达到1.99万亿美元，较2025财年的1.78万亿美元增加12%，为2021财年以来最高。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T12:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/us-2026-fiscal-deficit-nears-two-trillion-0f43a4",
-      "reference": [
-        "中央通訊社",
-        "法广",
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -2832,43 +3035,6 @@
       "sources": []
     },
     {
-      "id": "guangdong-power-market-contract-adjustment-warning-a99ec2",
-      "title": "广东电力交易中心提醒售电双方协商调整合同价格",
-      "description": "广东电力现货价格走高，售电企业面临批发与零售合同价格倒挂。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T10:12:40.394249+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-17",
-      "url": "https://kaopu.news/story/2026-10-17/guangdong-power-market-contract-adjustment-warning-a99ec2",
-      "reference": [
-        "第一财经",
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "zhijie-independent-vehicle-production-license-4dfe9f",
-      "title": "智界据报公示结束获批后将取得独立造车资质",
-      "description": "10月17日，智界汽车一名内部人士向第一财经表示，工信部公示结束并批准后，安徽智界新能源汽车有限公司将取得独立造车资质；该人士还称，智界未来计划独立上市。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T09:42:37.244125+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-17",
-      "url": "https://kaopu.news/story/2026-10-17/zhijie-independent-vehicle-production-license-4dfe9f",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "rao-yi-urges-cancer-cell-boycott-9e6de7",
       "title": "饶毅指《癌细胞》主编涉索贿并吁抵制",
       "description": "北京大学教授、首都医科大学原校长饶毅10月13日在微信公众号“饶议科学”发文，称一些重要国际学术期刊的编辑乃至主编存在索贿受贿问题，并指称《癌细胞》主编毛云涛（Steve Mao）涉索贿。",
@@ -2926,27 +3092,6 @@
       "sources": []
     },
     {
-      "id": "japan-foreign-residents-hit-record-high-3a0fc6",
-      "title": "日本在留外国居民增至428万创新高",
-      "description": "日本出入国在留管理厅10月16日公布，截至2026年6月底，在日外国居民为4,281,026人，创历史新高，较2025年底增加约15.6万人。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T08:38:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/japan-foreign-residents-hit-record-high-3a0fc6",
-      "reference": [
-        "共同网",
-        "日本放送协会",
-        "法广",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "yu-yiting-breaks-asian-record-wins-silver-b8f34a",
       "title": "余依婷刷新亚洲纪录获蝶泳世界杯银牌",
       "description": "北京时间10月16日，短池游泳世界杯阿斯塔纳站女子100米蝶泳决赛中，余依婷以55秒17完赛，将亚洲纪录提升至这一成绩并获银牌。",
@@ -3001,47 +3146,6 @@
       "sources": []
     },
     {
-      "id": "fed-beige-book-flags-price-pressure-2b0909",
-      "title": "美联储褐皮书显示多地物价压力加重",
-      "description": "美国联邦储备局10月14日公布最新褐皮书，显示能源等投入成本推动部分地区物价压力增强。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T07:54:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/fed-beige-book-flags-price-pressure-2b0909",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "apple-foldable-iphone-preorders-pickup-sold-out-715c9a",
-      "title": "苹果首款折叠屏手机预售首批货源迅速售罄",
-      "description": "苹果首款折叠屏手机iPhone Duo于10月16日20时在中国开启预售，首批货源迅速售罄，首发定于10月23日。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T07:41:35+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/apple-foldable-iphone-preorders-pickup-sold-out-715c9a",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "biologists-join-westlake-university-f4dee2",
       "title": "两名知名生物学家加入西湖大学任教",
       "description": "吴军已于2026年9月全职加入西湖大学，出任生命科学学院干细胞生物学和再生医学讲席教授；澎湃新闻报道，生物学家钟声近期也加入该校，担任医学院讲席教授。",
@@ -3093,24 +3197,6 @@
       ],
       "section": "tech",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "adidas-china-team-exports-design-05ef64",
-      "title": "阿迪达斯中国团队开始向全球输出设计",
-      "description": "阿迪达斯全球首席执行官比约恩·古尔登访沪期间表示，产品设计不再由德国总部单方面决定，中国创意团队参与开发的产品正进入海外市场。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T06:30:18.014321+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-17",
-      "url": "https://kaopu.news/story/2026-10-17/adidas-china-team-exports-design-05ef64",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3326,24 +3412,6 @@
       "occurredAt": "",
       "publishedAt": "2026-10-17",
       "url": "https://kaopu.news/story/2026-10-17/new-huanggang-port-daily-crossings-exceed-80000-f523ba",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "guangdong-shantou-fire-incense-report-c2bcdb",
-      "title": "广东省政府公布报告认定汕头火灾由蚊香引发",
-      "description": "广东省政府公布汕头“12·9”重大火灾事故调查报告，认定火灾由使用蚊香不慎引发，造成12人死亡。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T05:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-17",
-      "url": "https://kaopu.news/story/2026-10-17/guangdong-shantou-fire-incense-report-c2bcdb",
       "reference": [
         "联合早报"
       ],
@@ -3683,24 +3751,6 @@
       "sources": []
     },
     {
-      "id": "toyota-plans-software-defined-cars-9b2619",
-      "title": "丰田计划2030年前将约50款车型转为软件定义汽车",
-      "description": "丰田汽车宣布，计划在2030年前将全球销售的约50款车型全部转为软件定义汽车（SDV），并让每年生产的约1000万辆新车搭载自研软件平台Arene。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T11:04:21+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/toyota-plans-software-defined-cars-9b2619",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "initium-podcast-examines-china-gene-therapy-deaths-3d340d",
       "title": "端传媒播出第二集解析三起基因治疗死亡事件",
       "description": "端传媒在《不端著》Podcast第二集中邀请遗传学博士周叶斌，围绕三起中国基因治疗试验受试者死亡事件，讨论研究者发起临床试验（IIT）的运作、风险及监管问题。",
@@ -3825,24 +3875,6 @@
         "联合早报"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "five-agencies-warn-state-owned-job-scams-bf192e",
-      "title": "五部门提醒求职者警惕央国企内推骗局",
-      "description": "人力资源社会保障部、中央网信办、教育部、公安部和国务院国资委发布风险提示，提醒求职者特别是高校毕业生，防范冒用央国企招聘名义收费的骗局。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T08:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/five-agencies-warn-state-owned-job-scams-bf192e",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -4012,24 +4044,6 @@
       ],
       "section": "us",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "washington-post-reveals-white-house-donor-list-f349b5",
-      "title": "华邮独家披露白宫宴会厅捐款名单",
-      "description": "《华盛顿邮报》独家披露的一份文件显示，白宫宴会厅项目涉及约3亿3300万元经费；截至2026年9月底，清单列出67笔金额超过1万元的捐款，其中至少7700万元来自要求匿名的捐款人。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T06:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/washington-post-reveals-white-house-donor-list-f349b5",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
