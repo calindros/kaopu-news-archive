@@ -1,11 +1,203 @@
 {
   "details": {
     "date": "2026-10-19",
-    "timestamp": 1792388262,
+    "timestamp": 1792391602,
     "totalPages": 1,
-    "total": 267
+    "total": 269
   },
   "stories": [
+    {
+      "id": "anthropic-plans-five-percent-stake-charity-fund-db247a",
+      "title": "Anthropic拟投入5%股份设立公益基金",
+      "description": "人工智能公司Anthropic于10月18日宣布，计划在获得股东批准后，将公司5%的股份投入新设立的公益基金。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T04:57:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/anthropic-plans-five-percent-stake-charity-fund-db247a",
+      "reference": [
+        "中央通訊社",
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "tesla-unveils-roadster-production-2028-efd753",
+      "title": "特斯拉发布新一代Roadster并计划2028年量产",
+      "description": "特斯拉10月15日在美国得克萨斯州麦格雷戈的SpaceX试验场发布重新设计的新一代Roadster，并展示车辆完成腾空、翻转和越障等动作。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T04:46:22+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/tesla-unveils-roadster-production-2028-efd753",
+      "reference": [
+        "澎湃新闻",
+        "日经",
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "tech",
+      "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "leapmotor-b10-rolls-off-spain-line-aebb69",
+      "title": "零跑首辆欧洲本地生产B10量产车在西班牙下线",
+      "description": "零跑首辆在欧洲本地制造的B10量产车近日在西班牙萨拉戈萨工厂下线；同日，马连电池厂也开始投产。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T04:45:37.725382+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/leapmotor-b10-rolls-off-spain-line-aebb69",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "french-students-protest-school-conditions-11bf14",
+      "title": "法国大规模示威演变为多地暴力骚乱",
+      "description": "法国多地10月17日举行的大规模示威演变为纵火、抢掠和警民冲突。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T04:42:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
+      "reference": [
+        "公视",
+        "法广",
+        "日本放送协会",
+        "英国广播公司"
+      ],
+      "section": "world",
+      "sourceCount": 33,
+      "sources": []
+    },
+    {
+      "id": "china-nine-departments-issue-tech-commerce-plan-8650e7",
+      "title": "商务部等九部门发布意见推进科技兴商",
+      "description": "中国商务部等九部门10月19日发布《关于加快推进科技兴商的意见》，提出以科技提升商品消费、扩展服务消费、提高流通效率并创新商业场景。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T04:35:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/china-nine-departments-issue-tech-commerce-plan-8650e7",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "yexian-housing-project-delivery-stalled-c4f29f",
+      "title": "叶县美好生活家园预售款遭挪用后仍未交付",
+      "description": "河南平顶山叶县“美好生活家园”因预售资金违规挪用、后续建设资金不足而长期受阻，购房者仍未收房，项目何时完成建设尚不明确。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T04:35:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/yexian-housing-project-delivery-stalled-c4f29f",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "metinvest-ceo-urges-eu-steel-import-exemption-b05fc5",
+      "title": "乌克兰钢企高管呼吁欧盟豁免钢铁进口限制",
+      "description": "美提投资集团首席执行官尤里·雷任科夫呼吁欧盟为乌克兰钢铁产品设置进口限制例外，称欧盟近期收紧钢铁进口措施没有顾及乌克兰在俄乌战争中的处境。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T04:33:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/metinvest-ceo-urges-eu-steel-import-exemption-b05fc5",
+      "reference": [
+        "英国广播公司"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "beijing-huiyuan-cuts-huiyuan-brand-ties-997045",
+      "title": "汇源集团停产汇源商标果汁改用咱家果源",
+      "description": "汇源集团10月19日宣布，集团及下属企业将停止生产标有“汇源”商标的果汁，结束相关代工合同和商标合作，转而以“咱家果源”品牌经营果汁业务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T04:27:37.581127+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/beijing-huiyuan-cuts-huiyuan-brand-ties-997045",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "huang-bin-dies-guangzhou-aged-84-550872",
+      "title": "澎湃新闻称国防大学原教研室主任黄彬逝世",
+      "description": "澎湃新闻从相关方面获悉，国防大学原教研室主任、少将黄彬于2026年10月15日在广州逝世，享年84岁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T04:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/huang-bin-dies-guangzhou-aged-84-550872",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "russian-fsb-confirms-japanese-reporter-arrest-8bd024",
+      "title": "俄罗斯以间谍嫌疑拘押《北海道新闻》记者",
+      "description": "俄罗斯联邦安全局以涉嫌间谍活动为由，于10月13日在远东萨哈林州拘押《北海道新闻》南萨哈林斯克支局一名日本男性记者，之后将他移送莫斯科。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T04:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/russian-fsb-confirms-japanese-reporter-arrest-8bd024",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "共同网",
+        "日经"
+      ],
+      "section": "world",
+      "sourceCount": 32,
+      "sources": []
+    },
     {
       "id": "china-tier-one-home-prices-rise-september-0c748c",
       "title": "上海二手房价同比转涨成为全国首个城市",
@@ -45,27 +237,6 @@
       ],
       "section": "tech",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "french-students-protest-school-conditions-11bf14",
-      "title": "法国多地示威演变骚乱约2400人被捕",
-      "description": "法国多地10月17日举行大规模示威，抗议生活成本上升以及教育等公共服务状况恶化。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T03:58:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
-      "reference": [
-        "公视",
-        "法广",
-        "日本放送协会",
-        "英国广播公司"
-      ],
-      "section": "world",
-      "sourceCount": 32,
       "sources": []
     },
     {
@@ -331,6 +502,24 @@
       "sources": []
     },
     {
+      "id": "shenzhen-apec-summit-flexible-work-guidance-9b9f8a",
+      "title": "深圳倡导企业峰会周实行灵活工作安排",
+      "description": "深圳市人力资源和社会保障局近日发布通知，倡导企业在APEC会议周采取居家办公、统筹带薪年休假以及错峰或弹性上下班等安排。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-19T02:55:23+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/shenzhen-apec-summit-flexible-work-guidance-9b9f8a",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "nikkei-falls-over-1300-points-below-64000-7e96b2",
       "title": "日经指数盘中一度跌逾1400点并失守64000点",
       "description": "东京股市日经指数周一早盘走低，盘中跌幅一度超过1400点，并在约一个月来首次跌破64000点。",
@@ -425,24 +614,6 @@
       "sources": []
     },
     {
-      "id": "anthropic-plans-five-percent-stake-charity-fund-db247a",
-      "title": "Anthropic拟拨5%股份设立公益基金",
-      "description": "Anthropic于10月18日宣布，拟将公司5%的股份拨入新设公益基金，以扩大公益捐赠规模并提升运用灵活性。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T02:40:06+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/anthropic-plans-five-percent-stake-charity-fund-db247a",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "nissan-honda-china-sales-decline-4128e1",
       "title": "日产9月在华销量同比下降61.6%",
       "description": "日产汽车10月16日公布，2026年9月在中国市场售出新车2万3658辆，同比减少61.6%；本田当月销量为2万5564辆，同比下降53.1%。",
@@ -461,24 +632,6 @@
       ],
       "section": "business",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "china-nine-departments-issue-tech-commerce-plan-8650e7",
-      "title": "商务部等九部门发布科技兴商意见提出18项举措",
-      "description": "商务部等9部门发布《关于加快推进科技兴商的意见》，列出18项举措，涉及商品消费升级、服务消费拓展、商贸流通、商业场景创新、发展环境和支撑保障。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T02:34:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/china-nine-departments-issue-tech-commerce-plan-8650e7",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -515,24 +668,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "beijing-huiyuan-cuts-huiyuan-brand-ties-997045",
-      "title": "北京汇源宣布停止生产汇源商标果汁",
-      "description": "北京汇源饮料食品集团有限公司宣布停止生产带有“汇源”商标的果汁，终止相关代工合同，并启用“咱家果源”品牌继续经营。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T02:23:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/beijing-huiyuan-cuts-huiyuan-brand-ties-997045",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1788,25 +1923,6 @@
       "sources": []
     },
     {
-      "id": "iran-parliament-approves-akhlaghi-defense-minister-359889",
-      "title": "伊朗议会批准阿克拉基出任国防部长",
-      "description": "伊朗议会10月18日通过信任投票，批准阿克拉基出任国防及武装部队后勤部长。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-18T12:33:34+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/iran-parliament-approves-akhlaghi-defense-minister-359889",
-      "reference": [
-        "联合早报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "china-agencies-clarify-inclusive-eldercare-pricing-e5b5f4",
       "title": "三部门明确普惠养老机构分类和收费规则",
       "description": "国家发展改革委、民政部、国家卫生健康委近日联合印发《关于进一步完善价格形成机制 推动普惠养老服务提质扩面的指导意见》，将机构类型分为兜底保障型、普惠支持型、完全市场型养老机构，以及医养结合服务和社区和居家养老服务，并为不同类别明确收费办法。",
@@ -2356,27 +2472,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "tesla-unveils-roadster-production-2028-efd753",
-      "title": "特斯拉发布可腾空翻转的新一代Roadster",
-      "description": "特斯拉10月15日在美国得克萨斯州麦格雷戈的SpaceX测试基地发布新一代Roadster，并展示原型车借助吸附系统和冷气推进器短暂腾空、翻转及越过车辆。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-18T06:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/tesla-unveils-roadster-production-2028-efd753",
-      "reference": [
-        "澎湃新闻",
-        "日经",
-        "中央通訊社",
-        "联合早报"
-      ],
-      "section": "tech",
-      "sourceCount": 13,
       "sources": []
     },
     {
@@ -3286,24 +3381,6 @@
       "sources": []
     },
     {
-      "id": "chinese-volunteer-army-veteran-pang-xinghai-dies-9427c9",
-      "title": "志愿军老兵庞兴海病逝享年96岁",
-      "description": "中国人民志愿军老兵庞兴海因病医治无效，于10月17日清晨5时46分在牡丹江逝世，享年96岁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T08:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-17",
-      "url": "https://kaopu.news/story/2026-10-17/chinese-volunteer-army-veteran-pang-xinghai-dies-9427c9",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "biologists-join-westlake-university-f4dee2",
       "title": "两名知名生物学家加入西湖大学任教",
       "description": "吴军已于2026年9月全职加入西湖大学，出任生命科学学院干细胞生物学和再生医学讲席教授；澎湃新闻报道，生物学家钟声近期也加入该校，担任医学院讲席教授。",
@@ -3855,24 +3932,6 @@
       "sources": []
     },
     {
-      "id": "hangzhou-shenzhen-issue-housing-sales-rules-328003",
-      "title": "杭州深圳发布商品住房销售改革细则",
-      "description": "杭州和深圳10月15日发布商品住房销售改革细则。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T11:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/hangzhou-shenzhen-issue-housing-sales-rules-328003",
-      "reference": [
-        "财新"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "initium-podcast-examines-china-gene-therapy-deaths-3d340d",
       "title": "端传媒播出第二集解析三起基因治疗死亡事件",
       "description": "端传媒在《不端著》Podcast第二集中邀请遗传学博士周叶斌，围绕三起中国基因治疗试验受试者死亡事件，讨论研究者发起临床试验（IIT）的运作、风险及监管问题。",
@@ -3887,24 +3946,6 @@
         "端传媒"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "cities-expand-high-school-seats-2029-peak-f2f4ae",
-      "title": "多地扩充高中学位应对学龄人口2029年达峰",
-      "description": "高中学龄人口将在2029年达到峰值，多地正通过增加普通高中学位、试行贯通式培养和调剂不同学段资源，应对升学需求变化。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T10:58:08.489881+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/cities-expand-high-school-seats-2029-peak-f2f4ae",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
