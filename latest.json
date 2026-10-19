@@ -1,19 +1,77 @@
 {
   "details": {
     "date": "2026-10-19",
-    "timestamp": 1792365771,
+    "timestamp": 1792372809,
     "totalPages": 1,
     "total": 266
   },
   "stories": [
     {
-      "id": "french-students-protest-school-conditions-11bf14",
-      "title": "法国示威演变为骚乱近2400人被捕",
-      "description": "法国多地的大规模示威在10月17日至18日演变为暴力骚乱。",
+      "id": "putin-proposes-trump-xi-ukraine-war-talks-c341cb",
+      "title": "普京据报提议与特朗普习近平三方讨论俄乌战争",
+      "description": "俄罗斯总统普京据报提议与美国总统特朗普、中国国家主席习近平举行三方会谈，讨论俄乌战争，乌克兰和欧洲不在参与安排之列。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-18T23:15:00+00:00",
+      "updatedAt": "2026-10-19T00:00:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/putin-proposes-trump-xi-ukraine-war-talks-c341cb",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "canada-wainwright-base-fire-casualties-bcfa07",
+      "title": "加拿大韦恩赖特基地火灾致至少4名士兵死亡",
+      "description": "加拿大艾伯塔省韦恩赖特军事基地在演习期间发生火灾，造成至少4名士兵死亡、39人受伤，其中19人伤势危重。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-18T23:49:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-18",
+      "url": "https://kaopu.news/story/2026-10-18/canada-wainwright-base-fire-casualties-bcfa07",
+      "reference": [
+        "联合早报",
+        "法广",
+        "德国之声",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "li-qiang-russia-premier-meeting-79243a",
+      "title": "李强访问中亚两国推动多领域合作",
+      "description": "中国国务院总理李强访问乌兹别克斯坦和塔吉克斯坦，与两国领导人会谈，推动拓展合作。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-18T23:48:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/li-qiang-russia-premier-meeting-79243a",
+      "reference": [
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "french-students-protest-school-conditions-11bf14",
+      "title": "法国大规模示威演变为多地暴力骚乱",
+      "description": "法国10月17日爆发大规模示威，抗议者反对油价和生活成本上涨、公共服务削弱及财政紧缩，部分城市随后发生警民冲突、抢劫和纵火。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-18T23:46:59+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-14",
       "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
@@ -24,7 +82,46 @@
         "英国广播公司"
       ],
       "section": "world",
-      "sourceCount": 25,
+      "sourceCount": 26,
+      "sources": []
+    },
+    {
+      "id": "ai-song-ranks-third-korean-chart-614f49",
+      "title": "默穆尔AI歌曲升至韩国Melon榜第三",
+      "description": "音乐创作者默穆尔的歌曲《你成为梦想中的大人了吗？",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-18T23:46:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/ai-song-ranks-third-korean-chart-614f49",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "sanae-takaichi-offers-masakaki-yasukuni-shrine-c4e65d",
+      "title": "高市早苗秋祭期间向靖国神社供奉真榊祭品",
+      "description": "日本首相高市早苗在靖国神社秋季例大祭期间，以“内阁总理大臣 高市早苗”的名义供奉盆栽祭品“真榊”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-18T23:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/sanae-takaichi-offers-masakaki-yasukuni-shrine-c4e65d",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "共同网",
+        "日本放送协会"
+      ],
+      "section": "asia",
+      "sourceCount": 11,
       "sources": []
     },
     {
@@ -247,27 +344,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "canada-wainwright-base-fire-casualties-bcfa07",
-      "title": "加拿大韦恩赖特基地火灾致4名军人死亡",
-      "description": "加拿大艾伯塔省韦恩赖特军事基地10月17日当地时间约16时发生火灾。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-18T17:34:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/canada-wainwright-base-fire-casualties-bcfa07",
-      "reference": [
-        "联合早报",
-        "法广",
-        "德国之声",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -1292,27 +1368,6 @@
       "sources": []
     },
     {
-      "id": "sanae-takaichi-offers-masakaki-yasukuni-shrine-c4e65d",
-      "title": "日本首相高市早苗向靖国神社供奉真榊",
-      "description": "日本首相高市早苗在10月17日开始的靖国神社秋季例大祭期间，以“内阁总理大臣高市早苗”的名义供奉名为“真榊”的盆栽祭品。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-18T08:06:21+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/sanae-takaichi-offers-masakaki-yasukuni-shrine-c4e65d",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "共同网",
-        "日本放送协会"
-      ],
-      "section": "asia",
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
       "id": "li-auto-chip-unit-secures-external-funding-0f6e88",
       "title": "理想汽车芯片子公司签署16.25亿元首轮融资协议",
       "description": "10月16日，理想汽车旗下上海马赫心科技签署首轮融资协议，认购额16.25亿元。",
@@ -1873,27 +1928,6 @@
       "sources": []
     },
     {
-      "id": "israeli-settlers-smash-belgian-consulate-window-088d77",
-      "title": "以色列定居者袭击欧洲外交团砸碎公务车车窗",
-      "description": "法国、比利时和波兰外交人员，以及法国奥努瓦-艾梅里市市长博杜，10月17日在约旦河西岸泰贝镇参加支持巴勒斯坦橄榄采收活动时遭以色列定居者袭击。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-18T05:02:53+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-17",
-      "url": "https://kaopu.news/story/2026-10-17/israeli-settlers-smash-belgian-consulate-window-088d77",
-      "reference": [
-        "澎湃新闻",
-        "法广",
-        "联合早报",
-        "日本放送协会"
-      ],
-      "section": "world",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "japan-mmx-phobos-sample-return-mission-942d05",
       "title": "日本计划发射MMX探测器采集火卫一样本",
       "description": "日本宇宙航空研究开发机构（JAXA）计划于10月20日凌晨从鹿儿岛县种子岛宇宙中心发射MMX探测器，任务是前往火星卫星火卫一采集样本并带回地球。",
@@ -2005,25 +2039,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "li-qiang-russia-premier-meeting-79243a",
-      "title": "李强访问乌兹别克斯坦推动深化双边合作",
-      "description": "中国国务院总理李强10月17日下午抵达乌兹别克斯坦首都塔什干，开启正式访问，并会见总统米尔济约耶夫。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-18T02:46:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/li-qiang-russia-premier-meeting-79243a",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -4402,24 +4417,6 @@
         "第一财经"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "global-economic-recovery-slows-c19dff",
-      "title": "国际机构报告指全球经济复苏放缓",
-      "description": "国际货币基金组织（IMF）、联合国贸发会议（UNCTAD）和世界贸易组织（WTO）近期发布的经济与贸易展望显示，全球复苏步伐放缓，增长分布更加不均；人工智能（AI）相关贸易支撑今年表现，但收益集中于少数经济体，风险也在累积。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-15T11:53:37.976428+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/global-economic-recovery-slows-c19dff",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
