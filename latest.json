@@ -1,11 +1,89 @@
 {
   "details": {
-    "date": "2026-10-18",
+    "date": "2026-10-19",
     "timestamp": 1792365771,
     "totalPages": 1,
     "total": 266
   },
   "stories": [
+    {
+      "id": "french-students-protest-school-conditions-11bf14",
+      "title": "法国示威演变为骚乱近2400人被捕",
+      "description": "法国多地的大规模示威在10月17日至18日演变为暴力骚乱。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-18T23:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
+      "reference": [
+        "公视",
+        "法广",
+        "日本放送协会",
+        "英国广播公司"
+      ],
+      "section": "world",
+      "sourceCount": 25,
+      "sources": []
+    },
+    {
+      "id": "li-qiang-chairs-cabinet-meeting-ai-review-848575",
+      "title": "李强主持国常会部署深化人工智能应用",
+      "description": "中国国务院总理李强10月16日主持召开国务院常务会议，听取“人工智能+”行动进展汇报。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-18T23:02:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/li-qiang-chairs-cabinet-meeting-ai-review-848575",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "第一财经",
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "french-student-protests-spread-nationwide-40cc21",
+      "title": "法国高中生抗议蔓延至全国四分之一高中",
+      "description": "法国高中生自9月中旬起因缺少教师发起抗议，三周内行动扩展至全国四分之一的高中，亨利四世中学和路易大帝中学等学校也卷入其中。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-18T23:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-18",
+      "url": "https://kaopu.news/story/2026-10-18/french-student-protests-spread-nationwide-40cc21",
+      "reference": [
+        "端传媒"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "hong-kong-youth-suicides-decade-high-bd71c7",
+      "title": "香港青少年自杀人数创近十年新高",
+      "description": "香港2025年19岁及以下青少年自杀人数升至近十年最高，全港总自杀率则降至五年低位。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-18T22:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-18",
+      "url": "https://kaopu.news/story/2026-10-18/hong-kong-youth-suicides-decade-high-bd71c7",
+      "reference": [
+        "端传媒"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "white-house-zacharia-lawyer-credentials-questioned-948361",
       "title": "扎卡里亚任白宫新闻秘书五天后离职创纪录",
@@ -133,27 +211,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "french-students-protest-school-conditions-11bf14",
-      "title": "法国全国示威演变为多地暴力冲突",
-      "description": "法国多地10月17日举行大规模示威，民众抗议生活成本上升及公共服务恶化。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-18T20:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
-      "reference": [
-        "公视",
-        "法广",
-        "日本放送协会",
-        "英国广播公司"
-      ],
-      "section": "world",
-      "sourceCount": 24,
       "sources": []
     },
     {
@@ -1837,25 +1894,6 @@
       "sources": []
     },
     {
-      "id": "putin-vatican-cooperate-deliver-supplies-olesky-31323e",
-      "title": "教皇利奥十四世与普京通话商讨奥列什基救援",
-      "description": "教皇利奥十四世近日与俄罗斯总统弗拉基米尔·普京通电话，讨论乌克兰赫尔松州奥列什基的人道主义危机。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-18T05:02:37+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-17",
-      "url": "https://kaopu.news/story/2026-10-17/putin-vatican-cooperate-deliver-supplies-olesky-31323e",
-      "reference": [
-        "联合早报",
-        "日本放送协会"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "japan-mmx-phobos-sample-return-mission-942d05",
       "title": "日本计划发射MMX探测器采集火卫一样本",
       "description": "日本宇宙航空研究开发机构（JAXA）计划于10月20日凌晨从鹿儿岛县种子岛宇宙中心发射MMX探测器，任务是前往火星卫星火卫一采集样本并带回地球。",
@@ -3204,27 +3242,6 @@
       "sources": []
     },
     {
-      "id": "li-qiang-chairs-cabinet-meeting-ai-review-848575",
-      "title": "李强主持国常会部署深化“人工智能+”行动",
-      "description": "中国国务院总理李强10月16日主持召开国务院常务会议，听取“人工智能+”行动进展汇报。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T05:32:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/li-qiang-chairs-cabinet-meeting-ai-review-848575",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "第一财经",
-        "中央通訊社"
-      ],
-      "section": "ai",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "guangdong-shantou-fire-incense-report-c2bcdb",
       "title": "广东省政府公布报告认定汕头火灾由蚊香引发",
       "description": "广东省政府公布汕头“12·9”重大火灾事故调查报告，认定火灾由使用蚊香不慎引发，造成12人死亡。",
@@ -3277,26 +3294,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "xi-jinping-urges-public-hospital-reform-022ad7",
-      "title": "习近平要求以公益性导向深化公立医院改革",
-      "description": "全国卫生与健康大会于10月12日至13日在北京召开。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T04:36:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/xi-jinping-urges-public-hospital-reform-022ad7",
-      "reference": [
-        "联合早报",
-        "第一财经",
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 5,
       "sources": []
     },
     {
