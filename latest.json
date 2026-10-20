@@ -1,11 +1,134 @@
 {
   "details": {
     "date": "2026-10-20",
-    "timestamp": 1792492344,
+    "timestamp": 1792495872,
     "totalPages": 1,
-    "total": 258
+    "total": 260
   },
   "stories": [
+    {
+      "id": "malaysia-denies-airasia-financial-aid-commitment-b8221e",
+      "title": "马来西亚政府称尚未承诺援助亚航",
+      "description": "马来西亚政府尚未同意或承诺向亚洲航空集团提供财务援助。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T10:03:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/malaysia-denies-airasia-financial-aid-commitment-b8221e",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "russia-kamchatka-earthquake-magnitude-69-9654e0",
+      "title": "日本气象厅误发M9.9级警报国交大臣称严重",
+      "description": "日本国土交通大臣井林辰宪10月20日表示，气象厅10月16日误发并撤销的M9.9级紧急地震警报，未能提供准确预警，是“非常严重的问题”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T09:56:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/russia-kamchatka-earthquake-magnitude-69-9654e0",
+      "reference": [
+        "澎湃新闻",
+        "共同网",
+        "韩民族日报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "russian-fsb-confirms-japanese-reporter-arrest-8bd024",
+      "title": "日本要求俄方安排被拘记者领事探视",
+      "description": "日本政府10月20日表示，仍未能与俄罗斯拘押的《北海道新闻》男性记者进行领事探视。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T09:56:46+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-13",
+      "url": "https://kaopu.news/story/2026-10-13/russian-fsb-confirms-japanese-reporter-arrest-8bd024",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "共同网",
+        "日经"
+      ],
+      "section": "world",
+      "sourceCount": 36,
+      "sources": []
+    },
+    {
+      "id": "putin-proposes-trump-xi-ukraine-war-talks-c341cb",
+      "title": "特朗普愿在深圳与习近平普京会谈但尚未敲定",
+      "description": "美国总统特朗普10月19日在白宫表示，如果习近平和普京都愿意，他准备在11月深圳亚太经合组织（APEC）峰会期间参加三方会谈。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T09:56:42+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/putin-proposes-trump-xi-ukraine-war-talks-c341cb",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "德国之声",
+        "财新"
+      ],
+      "section": "world",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "china-tier-one-home-prices-rise-september-0c748c",
+      "title": "上海二手房价格同比转涨领跑一线城市",
+      "description": "国家统计局10月19日公布的2026年9月70个大中城市商品住宅销售价格数据显示，一线城市二手住宅价格环比连续第七个月上涨。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T09:41:39.508450+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/china-tier-one-home-prices-rise-september-0c748c",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "pan-gongsheng-announces-financial-policy-measures-a55285",
+      "title": "潘功胜称央行将研究把公开市场操作期限切换为隔夜",
+      "description": "中国人民银行行长潘功胜10月19日在2026金融街论坛年会上表示，货币政策框架调整将循序推进，近中期将进一步发挥利率调控作用。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T09:34:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/pan-gongsheng-announces-financial-policy-measures-a55285",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "第一财经",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 15,
+      "sources": []
+    },
     {
       "id": "indonesia-wildfires-burn-nearly-two-million-hectares-6afcd8",
       "title": "印尼野火截至9月底烧毁近192万公顷土地",
@@ -148,24 +271,40 @@
       "sources": []
     },
     {
-      "id": "putin-proposes-trump-xi-ukraine-war-talks-c341cb",
-      "title": "普京据报提议深圳APEC期间举行中美俄会晤",
-      "description": "据《华尔街日报》援引一名前俄罗斯情报官员的说法，普京在10月9日与特朗普通话时提出，在深圳亚太经合组织（APEC）峰会期间安排中美俄元首会晤，讨论乌克兰问题。",
+      "id": "shen-po-yang-leads-chiang-wan-an-0d4c98",
+      "title": "信民协会民调显示沈伯洋领先蒋万安17个百分点",
+      "description": "信民两岸研究协会10月20日公布第二份台北市长选举民调，台湾民进党参选人沈伯洋支持度为50.3%，比台湾国民党参选人、寻求连任的蒋万安高17个百分点。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-20T08:40:09+00:00",
+      "updatedAt": "2026-10-20T08:32:21+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/putin-proposes-trump-xi-ukraine-war-talks-c341cb",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/shen-po-yang-leads-chiang-wan-an-0d4c98",
       "reference": [
-        "世界日报",
         "联合早报",
-        "德国之声",
-        "财新"
+        "中央通訊社"
       ],
-      "section": "world",
-      "sourceCount": 10,
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "daiwa-mizuho-approved-china-securities-481a46",
+      "title": "据报大和瑞穗获准在中国大陆开展全资证券业务",
+      "description": "大和证券集团与瑞穗金融集团据报获准在中国大陆开展全资证券业务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T08:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/daiwa-mizuho-approved-china-securities-481a46",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -248,6 +387,114 @@
       "sources": []
     },
     {
+      "id": "china-proposes-l2-ads-light-ban-abe716",
+      "title": "工信部拟禁止L2及以下车辆安装ADS标志灯",
+      "description": "工业和信息化部装备工业一司于2026年10月20日发布汽车及挂车外部照明和光信号装置安装要求征求意见稿。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T08:19:37.389270+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/china-proposes-l2-ads-light-ban-abe716",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "gcl-tech-plans-buy-lithium-stake-be4f90",
+      "title": "协鑫科技拟斥资25亿元收购协鑫锂电控股权",
+      "description": "协鑫科技拟以初步估值约25亿元，收购控股股东协鑫集团持有的四川协鑫锂电科技有限公司约81.91%股权。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T08:18:37.389686+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/gcl-tech-plans-buy-lithium-stake-be4f90",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-track-cycling-worlds-two-golds-bronze-74694e",
+      "title": "中国场地自行车队世锦赛夺得两金一铜创历史",
+      "description": "2026年场地自行车世锦赛上周末在上海崇明落幕，中国场地自行车队以2金1铜收官，创下队伍世锦赛历史最佳成绩。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T08:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/china-track-cycling-worlds-two-golds-bronze-74694e",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "sports",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "indonesia-probes-suspected-chinese-rocket-debris-b40a55",
+      "title": "印尼调查疑似中国火箭残骸坠入种植园",
+      "description": "印度尼西亚正调查一块坠落在中加里曼丹省棕榈油种植园的残骸。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T08:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/indonesia-probes-suspected-chinese-rocket-debris-b40a55",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "south-korea-plans-move-44-agencies-sejong-33e50a",
+      "title": "韩国政府公布44个中央机关迁往世宗方案",
+      "description": "韩国政府近日公布第二轮中央行政机关迁址方案，拟将外交部、国防部等44个机关分批迁往世宗市，涉及公务员近1万人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T08:02:49.220277+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/south-korea-plans-move-44-agencies-sejong-33e50a",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-shipyards-orders-extend-beyond-2030-e0d04a",
+      "title": "中国头部船厂订单已排至2030年后",
+      "description": "中国造船订单快速增长，多家头部船厂的交付安排已排至2030年以后。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T08:01:49.220632+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/china-shipyards-orders-extend-beyond-2030-e0d04a",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "france-northern-cities-impose-curfew-3c52ed",
       "title": "法国政府在多地实施宵禁应对骚乱",
       "description": "法国10月17日多地示威在部分地区演变为骚乱后，政府和地方当局从19日起在巴黎等城市的部分区域实施宵禁和集会限制。",
@@ -290,6 +537,27 @@
       "sources": []
     },
     {
+      "id": "french-students-protest-school-conditions-11bf14",
+      "title": "法国示威演变为骚乱近2400人被捕",
+      "description": "法国多地10月17日爆发大规模示威，抗议生活成本上涨、教育条件不佳及公共服务不足，随后出现警民冲突、纵火和抢劫。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T07:56:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
+      "reference": [
+        "公视",
+        "法广",
+        "日本放送协会",
+        "英国广播公司"
+      ],
+      "section": "world",
+      "sourceCount": 56,
+      "sources": []
+    },
+    {
       "id": "tokyo-condo-average-tops-100-million-yen-5fc19a",
       "title": "日本首都圈新建公寓上半年度均价首破1亿日元",
       "description": "日本不动产经济研究所10月20日公布，首都圈（1都3县）2026年4月至9月新建公寓均价为1.1494亿日元（约人民币485万元），同比上涨21.1%，半年度首次破亿，连续4年创新高。",
@@ -327,6 +595,24 @@
       "sources": []
     },
     {
+      "id": "world-gold-council-digital-gold-demand-0b9162",
+      "title": "世界黄金协会称数字黄金潜在需求可达7000亿美元",
+      "description": "世界黄金协会与波士顿咨询公司10月19日联合发布报告称，数字黄金市场目前约为450亿至550亿美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T07:47:48.828547+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/world-gold-council-digital-gold-demand-0b9162",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "japan-agency-record-strongest-el-nino-c279bf",
       "title": "国家气候中心确认东部型超强厄尔尼诺已形成",
       "description": "国家气候中心确认，2026年9月已形成一次东部型超强厄尔尼诺事件，并预计其强度将达到有系统性监测以来最高水平。",
@@ -361,27 +647,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "french-students-protest-school-conditions-11bf14",
-      "title": "法国多地示威演变为暴力骚乱造成广泛破坏",
-      "description": "法国多地围绕生活成本、公共服务和教育条件举行的示威在周末演变为暴力骚乱，商店、车辆及公共建筑遭到破坏或焚烧，警方与示威者发生冲突。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T07:33:37+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
-      "reference": [
-        "公视",
-        "法广",
-        "日本放送协会",
-        "英国广播公司"
-      ],
-      "section": "world",
-      "sourceCount": 55,
       "sources": []
     },
     {
@@ -587,27 +852,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "russian-fsb-confirms-japanese-reporter-arrest-8bd024",
-      "title": "日方仍未能探视遭俄拘押的北海道新闻记者",
-      "description": "俄罗斯联邦安全局10月13日在远东萨哈林州拘押《北海道新闻》南萨哈林斯克支局一名日本籍记者，随后将其移送莫斯科。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T07:03:31+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/russian-fsb-confirms-japanese-reporter-arrest-8bd024",
-      "reference": [
-        "澎湃新闻",
-        "法广",
-        "共同网",
-        "日经"
-      ],
-      "section": "world",
-      "sourceCount": 35,
       "sources": []
     },
     {
@@ -1569,24 +1813,6 @@
       "sources": []
     },
     {
-      "id": "shen-po-yang-leads-chiang-wan-an-0d4c98",
-      "title": "信民协会民调显示沈伯洋领先蒋万安17个百分点",
-      "description": "台湾台北市信民两岸研究协会（信民协会）公布第二份台北市长选举民调，民进党参选人沈伯洋支持度为50.3%，高于寻求连任的国民党参选人蒋万安的33.3%，领先17个百分点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T04:38:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/shen-po-yang-leads-chiang-wan-an-0d4c98",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-immigration-reports-smuggling-crackdown-986d3f",
       "title": "国家移民管理局公布打击偷渡犯罪进展",
       "description": "国家移民管理局近日公布多起妨害国（边）境管理犯罪案件的办理情况。",
@@ -1639,27 +1865,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "pan-gongsheng-announces-financial-policy-measures-a55285",
-      "title": "潘功胜称央行将研究择机切换隔夜操作",
-      "description": "中国人民银行行长潘功胜10月19日在2026金融街论坛年会开幕式上表示，央行将研究在适当时机把公开市场主要操作品种的期限由7天调整为隔夜；调整后，公开市场隔夜回购利率将相应成为主要政策利率。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T04:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/pan-gongsheng-announces-financial-policy-measures-a55285",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "第一财经",
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 14,
       "sources": []
     },
     {
@@ -2150,24 +2355,6 @@
       "sources": []
     },
     {
-      "id": "malaysia-denies-airasia-financial-aid-commitment-b8221e",
-      "title": "马来西亚财政部称未承诺援助亚航",
-      "description": "马来西亚财政部10月19日在国会书面答复柔佛州亚依淡区国会议员魏家祥时表示，政府没有与亚洲航空（亚航）就财务援助达成协议或作出承诺，援助形式包括担保、贷款或注入公共资金。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T02:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/malaysia-denies-airasia-financial-aid-commitment-b8221e",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "saudi-postpones-future-investment-forum-28e4b0",
       "title": "沙特将利雅得未来投资倡议大会延期至明年",
       "description": "沙特主办方已将原定10月26日起在利雅得举行的未来投资倡议大会改期至明年。",
@@ -2281,42 +2468,6 @@
       "sources": []
     },
     {
-      "id": "europe-ev-sales-rise-over-40-percent-eeb149",
-      "title": "欧洲电动汽车上半年销量同比增长逾四成",
-      "description": "欧洲电动汽车市场在2026年上半年明显回升，销量达122万辆，同比增逾四成；电动汽车占新车销量的20.7%，同比提高5.1个百分点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T01:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/europe-ev-sales-rise-over-40-percent-eeb149",
-      "reference": [
-        "朝鲜日报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "south-korea-intelligence-ships-repairs-9c2f85",
-      "title": "朝鲜日报称韩国两艘海洋情报船维修致侦察空白",
-      "description": "《朝鲜日报》称，韩国海军两艘海洋情报船因老化同时处于维修状态，已超过40天无法执行任务，造成海上侦察空白。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T01:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/south-korea-intelligence-ships-repairs-9c2f85",
-      "reference": [
-        "朝鲜日报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "zelensky-witkoff-kushner-discuss-diplomacy-c0e7c1",
       "title": "美方暂未批准爱国者导弹转交乌克兰",
       "description": "美国官员称，特朗普政府尚未批准向乌克兰转让“爱国者”拦截导弹。",
@@ -2350,42 +2501,6 @@
         "世界日报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-central-bank-keeps-october-lpr-rates-eb6004",
-      "title": "中国央行公布10月LPR两项利率维持不变",
-      "description": "经中国人民银行授权，全国银行间同业拆借中心发布10月20日LPR：一年期为3.00%，五年期以上为3.50%，均与上月相同。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T01:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/china-central-bank-keeps-october-lpr-rates-eb6004",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "i-trans-czech-semiconductor-logistics-center-c9021b",
-      "title": "爱丰通运计划在捷克建设半导体物流中心",
-      "description": "台积电在德国德累斯顿设厂，带动台湾半导体供应链向捷克延伸。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T00:54:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/i-trans-czech-semiconductor-logistics-center-c9021b",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -2448,24 +2563,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-stocks-drop-940-points-467ef4",
-      "title": "台股盘中重挫逾940点后收跌289点",
-      "description": "台湾股市10月19日开盘走低，盘中最低触及46170点，跌幅一度超过940点；低位买盘进场后，跌势收窄，收报46822.08点，下跌289.18点，跌幅0.61%，成交额为新台币8251亿元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T00:27:56+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/taiwan-stocks-drop-940-points-467ef4",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
       "id": "hong-kong-women-share-workplace-harassment-854911",
       "title": "钟雪莹袁澧林发声后四名女性讲述职场性骚扰",
       "description": "香港演员钟雪莹和袁澧林公开讲述遭遇的性别冒犯后，四名来自电影、新闻、舞台工作和公关行业的女性向BBC中文讲述了职场中遇到的性相关言语骚扰，以及她们当时和事后的应对方式。",
@@ -2499,43 +2596,6 @@
         "世界日报"
       ],
       "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "china-ndrc-seeks-comments-power-spot-market-rules-a2dfe7",
-      "title": "国家发展改革委发布电力现货市场规则征求意见稿",
-      "description": "国家发展改革委10月19日发布电力现货市场规则修订稿，意见征集从发布当日持续至11月18日。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T00:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/china-ndrc-seeks-comments-power-spot-market-rules-a2dfe7",
-      "reference": [
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "schools-receive-bomb-threats-uk-hungary-serbia-391753",
-      "title": "英国匈牙利塞尔维亚数百所学校收到炸弹威胁",
-      "description": "10月19日，英国北爱尔兰和苏格兰、匈牙利及塞尔维亚数百所学校收到炸弹威胁，部分学校疏散或停课。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T00:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/schools-receive-bomb-threats-uk-hungary-serbia-391753",
-      "reference": [
-        "法广",
-        "联合早报"
-      ],
-      "section": "world",
       "sourceCount": 2,
       "sources": []
     },
@@ -4248,24 +4308,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "amd-acquires-world-labs-feifei-li-e90f3e",
-      "title": "据报AMD拟82亿元收购World Labs",
-      "description": "《世界日报》报道称，AMD拟以82亿元全股票交易收购World Labs，交易预计于2026年底前完成。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T06:31:56+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-17",
-      "url": "https://kaopu.news/story/2026-10-17/amd-acquires-world-labs-feifei-li-e90f3e",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "tech",
-      "sourceCount": 2,
       "sources": []
     },
     {
