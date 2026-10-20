@@ -1,11 +1,249 @@
 {
   "details": {
     "date": "2026-10-20",
-    "timestamp": 1792485401,
+    "timestamp": 1792488491,
     "totalPages": 1,
-    "total": 260
+    "total": 258
   },
   "stories": [
+    {
+      "id": "putin-proposes-trump-xi-ukraine-war-talks-c341cb",
+      "title": "特朗普愿在深圳APEC期间与习近平普京会谈",
+      "description": "美国总统特朗普表示，愿在深圳亚太经合组织（APEC）峰会期间，与中国国家主席习近平和俄罗斯总统普京举行三方会谈。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T08:40:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/putin-proposes-trump-xi-ukraine-war-talks-c341cb",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "德国之声",
+        "财新"
+      ],
+      "section": "world",
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "dhs-orders-federal-agencies-remove-deepseek-512c11",
+      "title": "美国国土安全部下令联邦民用机构移除DeepSeek",
+      "description": "美国国土安全部要求联邦民用机构停止采购DeepSeek产品及采用其模型的第三方产品和服务，并从现有信息技术系统中移除相关内容。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T08:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/dhs-orders-federal-agencies-remove-deepseek-512c11",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "朝鲜日报",
+        "财新"
+      ],
+      "section": "us",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "wu-yue-demands-refund-ai-impersonation-5ff41c",
+      "title": "微信团队永久封禁AI冒用吴越带货账号",
+      "description": "10月18日凌晨，演员吴越在微博称，短视频账号“花姐美肤日记”未经授权，利用AI合成她的面容和仿冒声音推销护肤品。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T08:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-18",
+      "url": "https://kaopu.news/story/2026-10-18/wu-yue-demands-refund-ai-impersonation-5ff41c",
+      "reference": [
+        "第一财经",
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "france-northern-cities-impose-curfew-3c52ed",
+      "title": "法国政府在多地实施宵禁应对骚乱",
+      "description": "法国10月17日多地示威在部分地区演变为骚乱后，政府和地方当局从19日起在巴黎等城市的部分区域实施宵禁和集会限制。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T08:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/france-northern-cities-impose-curfew-3c52ed",
+      "reference": [
+        "法广",
+        "联合早报",
+        "澎湃新闻",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "zelenskyy-accuses-putin-47-nations-fighters-5677a0",
+      "title": "韩国决定撤回部分驻乌克兰使馆人员",
+      "description": "韩国外交部10月20日宣布，将撤回部分驻乌克兰使馆工作人员，但没有公布人数。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T07:59:32+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-09-24",
+      "url": "https://kaopu.news/story/2026-09-24/zelenskyy-accuses-putin-47-nations-fighters-5677a0",
+      "reference": [
+        "法广",
+        "联合早报",
+        "韩国国际广播电台",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 48,
+      "sources": []
+    },
+    {
+      "id": "taiwan-coast-guard-monitors-16-chinese-vessels-bbb409",
+      "title": "台湾海巡称大陆海警船驶入东沙限制水域",
+      "description": "台湾海巡署称，中国大陆海警船3102于10月20日驶入东沙岛附近台湾划设的限制水域，与台中舰对峙。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T07:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-18",
+      "url": "https://kaopu.news/story/2026-10-18/taiwan-coast-guard-monitors-16-chinese-vessels-bbb409",
+      "reference": [
+        "联合早报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "japan-agency-record-strongest-el-nino-c279bf",
+      "title": "国家气候中心确认东部型超强厄尔尼诺已形成",
+      "description": "国家气候中心确认，2026年9月已形成一次东部型超强厄尔尼诺事件，并预计其强度将达到有系统性监测以来最高水平。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T07:45:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-09",
+      "url": "https://kaopu.news/story/2026-10-09/japan-agency-record-strongest-el-nino-c279bf",
+      "reference": [
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "micron-taoyuan-union-strike-backs-taichung-8ce079",
+      "title": "美光桃园工会将罢工声援台中厂分红诉求",
+      "description": "美光桃园厂工会计划于10月22日举行一天声援式罢工，支持台中厂工会争取员工分红制度改革；当天美光与台中工会将举行第二次劳资调解。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T07:32:16+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/micron-taoyuan-union-strike-backs-taichung-8ce079",
+      "reference": [
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "kim-yo-jong-north-korea-border-tactical-weapons-072e7d",
+      "title": "韩国国防部警告朝鲜边境挑衅将遭坚决回应",
+      "description": "韩国国防部10月20日回应朝鲜劳动党总务部长金与正前一天的谈话，对她将边境紧张局势归咎于韩国表示严正关切。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T07:25:39+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/kim-yo-jong-north-korea-border-tactical-weapons-072e7d",
+      "reference": [
+        "联合早报",
+        "韩国国际广播电台",
+        "朝鲜日报",
+        "韩民族日报"
+      ],
+      "section": "asia",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "lavrov-plans-iran-visit-war-mediation-e5b827",
+      "title": "拉夫罗夫访伊朗与阿拉格齐商讨中东危机",
+      "description": "俄罗斯外长谢尔盖·拉夫罗夫10月19日访问伊朗，与伊朗外长阿巴斯·阿拉格齐会谈并举行联合记者会。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T07:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/lavrov-plans-iran-visit-war-mediation-e5b827",
+      "reference": [
+        "法广",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "taiwan-immigration-revokes-ntu-student-permit-deportation-eee68e",
+      "title": "台湾驱逐发布手捏赖清德视频的大陆交换生",
+      "description": "台湾移民署撤销一名台湾大学王姓中国大陆交换生的入境许可，将其驱逐出境，并禁止其五年内入境。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T07:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/taiwan-immigration-revokes-ntu-student-permit-deportation-eee68e",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "registrar-revokes-pn-registration-769ecb",
+      "title": "马来西亚社团注册局撤销国民联盟注册",
+      "description": "马来西亚社团注册局10月20日撤销国民联盟（国盟）注册，称其解释未能充分回应撤销理由。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T07:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/registrar-revokes-pn-registration-769ecb",
+      "reference": [
+        "当今大马",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
+      "sources": []
+    },
     {
       "id": "china-network-traffic-hijacked-gambling-sites-0725ac",
       "title": "中国多省用户访问请求遭劫持并跳转博彩网站",
@@ -26,27 +264,6 @@
       "sources": []
     },
     {
-      "id": "zelenskyy-accuses-putin-47-nations-fighters-5677a0",
-      "title": "韩国因战俘争端撤回部分驻乌使馆人员",
-      "description": "韩国外交部10月20日宣布，决定撤回部分驻乌克兰使馆人员。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T07:09:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-09-24",
-      "url": "https://kaopu.news/story/2026-09-24/zelenskyy-accuses-putin-47-nations-fighters-5677a0",
-      "reference": [
-        "法广",
-        "联合早报",
-        "韩国国际广播电台",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 47,
-      "sources": []
-    },
-    {
       "id": "taiwan-earthquake-center-unveils-ai-tools-c4a5ff",
       "title": "国研院国震中心公布三项AI防灾技术",
       "description": "台湾国研院国家地震工程研究中心10月20日公布三项人工智能防灾技术，涉及火灾消防供水调度、震后建筑损伤评估和居民自宅耐震检查。",
@@ -63,27 +280,6 @@
       ],
       "section": "tech",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "dhs-orders-federal-agencies-remove-deepseek-512c11",
-      "title": "美国国土安全部令联邦文职机构移除DeepSeek",
-      "description": "美国国土安全部10月19日公布针对DeepSeek的禁令，要求联邦文职行政机构停止采购DeepSeek产品和服务，并从现有信息技术系统中移除相关产品。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T06:47:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/dhs-orders-federal-agencies-remove-deepseek-512c11",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "朝鲜日报",
-        "财新"
-      ],
-      "section": "us",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -129,6 +325,24 @@
       "sources": []
     },
     {
+      "id": "aapi-voters-trump-economic-approval-poll-9777ac",
+      "title": "民调显示亚太裔仅两成认可特朗普经济表现",
+      "description": "美联社、NORC与AAPI Data近日公布的联合民调显示，约九成亚太裔受访选民将经济列为重要议题，但只有20%认可特朗普的经济表现；支持其整体执政表现的受访者占25%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T06:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/aapi-voters-trump-economic-approval-poll-9777ac",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "nyc-launches-hart-benefits-outreach-80ad50",
       "title": "纽约市启动HART团队协助居民保住福利",
       "description": "纽约市长曼达尼于10月19日宣布启动健康与生活负担资源团队（HART），帮助居民应对白卡和粮食券资格规定变化，保留或重新申请福利。",
@@ -165,24 +379,93 @@
       "sources": []
     },
     {
-      "id": "france-northern-cities-impose-curfew-3c52ed",
-      "title": "法国政府要求多地实施局部宵禁应对骚乱",
-      "description": "法国多地发生骚乱后，政府要求地方当局在巴黎及其他城市采取局部宵禁和集会限制。",
+      "id": "new-york-city-sues-asher-associates-rico-claims-4a282f",
+      "title": "纽约市府起诉律所涉虚构15宗道路索赔",
+      "description": "纽约市府本月初在曼哈顿联邦法院起诉人身伤害律所Asher & Associates。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-20T06:26:07+00:00",
+      "updatedAt": "2026-10-20T06:29:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/france-northern-cities-impose-curfew-3c52ed",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/new-york-city-sues-asher-associates-rico-claims-4a282f",
       "reference": [
-        "法广",
-        "联合早报",
-        "澎湃新闻",
-        "公视"
+        "世界日报"
       ],
-      "section": "world",
-      "sourceCount": 9,
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "new-york-attorney-general-updates-ai-election-guidance-d36659",
+      "title": "纽约州检察长更新选举AI指引提醒选民核实信息",
+      "description": "纽约州检察长詹乐霞近日更新人工智能选举虚假信息指引，提醒选民不要只凭聊天机器人的回答安排投票，也不要因视频、照片或音频显得真实就轻信其内容。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T06:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/new-york-attorney-general-updates-ai-election-guidance-d36659",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nyc-lithium-battery-fires-rise-41-percent-f26cdc",
+      "title": "纽约市前三季度锂电池火灾增加41%",
+      "description": "纽约市消防局数据显示，2026年前三季度锂电池火灾明显增多。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T06:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/nyc-lithium-battery-fires-rise-41-percent-f26cdc",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "state-department-revokes-700-chinese-visas-249d25",
+      "title": "美国国务院据报两月吊销逾700件中国公民持有的美国签证",
+      "description": "美国国务院在防范生育旅游特别工作组成立仅两个月时，已吊销700多件中国公民持有的美国签证。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T06:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/state-department-revokes-700-chinese-visas-249d25",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "gallup-poll-democrats-lead-trust-issues-a641e7",
+      "title": "盖洛普民调显示民主党重要议题信任度领先11个百分点",
+      "description": "盖洛普最新民调显示，44%的受访者更信任民主党处理自己最关心的议题，选择共和党的占33%，民主党领先11个百分点；另有23%认为两党差别不大、倾向其他政党或没有意见。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T06:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/gallup-poll-democrats-lead-trust-issues-a641e7",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -201,6 +484,24 @@
       ],
       "section": "us",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "south-korea-opposition-women-conscription-debate-5b24b5",
+      "title": "韩国在野党议员提议讨论女性服兵役",
+      "description": "韩国国会国防委员会近日举行国政监查时，在野党议员提出讨论女性服兵役和“性别平等征兵”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T06:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/south-korea-opposition-women-conscription-debate-5b24b5",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -223,6 +524,26 @@
       "sources": []
     },
     {
+      "id": "mitsubishi-hon-hai-ev-drive-joint-venture-ff5d81",
+      "title": "三菱电机与鸿海将组建平股合资公司",
+      "description": "三菱电机与鸿海精密工业10月19日宣布，将把三菱电机Mobility转为双方各持股50%的合资公司，重点推进纯电动汽车核心零部件和软件开发。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T06:20:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/mitsubishi-hon-hai-ev-drive-joint-venture-ff5d81",
+      "reference": [
+        "日经",
+        "日本放送协会",
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
       "id": "california-woman-irs-demands-missing-refund-8e04dc",
       "title": "IRS暂缓追讨华人女子未收的1400美元退税款",
       "description": "据世界日报采访报道，南加州华人史小姐称，美国国税局（IRS）在她多次反映未收到支票后，已暂缓追讨一笔1400美元的2021年度复苏退税抵免，并将案件交由相关部门调查，最终结果尚未确定。",
@@ -238,6 +559,24 @@
       ],
       "section": "us",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "chinese-migration-bayview-portola-enclave-789a85",
+      "title": "华人迁入推动旧金山湾景波托拉形成新聚居区",
+      "description": "据《世界日报》报道，旧金山东南部的湾景—猎人角和波托拉正形成新的华人聚居区，华人家庭迁入之际，部分长期居住的黑人居民选择离开。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T06:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/chinese-migration-bayview-portola-enclave-789a85",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -313,6 +652,42 @@
       ],
       "section": "life",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-crime-group-hacks-staples-gift-cards-6457fa",
+      "title": "据报中国团伙入侵Staples系统盗发礼卡",
+      "description": "据404 Media调查报道，中国有组织犯罪集团被指入侵Staples礼品卡系统，发出超过1.5万张、总面值逾500万美元的礼品卡，随后在美国多州零售商处消费，并将电子产品等商品运回中国。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T06:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/china-crime-group-hacks-staples-gift-cards-6457fa",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "kg-seeks-san-francisco-mall-data-center-permit-9d7070",
+      "title": "据报KG替买家询问旧金山商场数据中心许可",
+      "description": "《世界日报》援引《旧金山纪事报》取得的文件报道，KG Growth Partners今年6月向旧金山建筑检查局咨询数据中心许可，并称正协助一名有意购买市场街845号物业的买家，探讨将旧金山中心商场原Bloomingdale’s所在区域改造成AI数据中心及混合用途空间。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T06:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/kg-seeks-san-francisco-mall-data-center-permit-9d7070",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -625,24 +1000,6 @@
       "sources": []
     },
     {
-      "id": "registrar-revokes-pn-registration-769ecb",
-      "title": "马来西亚社团注册局撤销国民联盟注册",
-      "description": "马来西亚社团注册局10月20日撤销国民联盟（国盟）的注册。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T05:34:44+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/registrar-revokes-pn-registration-769ecb",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "taitung-wu-chun-li-airport-questioning-e6f767",
       "title": "前县长吴俊立搭机前遭检调带回约谈",
       "description": "台东检调10月20日在机场将前县长吴俊立带回约谈。",
@@ -695,27 +1052,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "kim-yo-jong-north-korea-border-tactical-weapons-072e7d",
-      "title": "金与正称朝鲜考虑重启对韩扩音器广播",
-      "description": "朝鲜劳动党官员金与正10月19日通过朝中社发表谈话，谴责韩国军方在军事分界线附近对朝方人员采取警告广播和警告射击。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T05:24:17+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/kim-yo-jong-north-korea-border-tactical-weapons-072e7d",
-      "reference": [
-        "联合早报",
-        "韩国国际广播电台",
-        "朝鲜日报",
-        "韩民族日报"
-      ],
-      "section": "asia",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -871,25 +1207,6 @@
       "sources": []
     },
     {
-      "id": "mitsubishi-hon-hai-ev-drive-joint-venture-ff5d81",
-      "title": "三菱电机与鸿海达成对半持股合资协议",
-      "description": "三菱电机与鸿海精密工业已于10月16日达成协议，将三菱电机移动出行改为双方各持股50%的合资公司，并共同开发电动汽车驱动装置。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T04:47:27+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/mitsubishi-hon-hai-ev-drive-joint-venture-ff5d81",
-      "reference": [
-        "日经",
-        "日本放送协会"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "japan-mmx-phobos-sample-return-mission-942d05",
       "title": "日本H3火箭成功送MMX探测器入轨",
       "description": "日本宇宙航空研究开发机构（JAXA）10月20日从鹿儿岛县种子岛宇宙中心发射H3火箭10号机，约1小时11分钟后，搭载的火星卫星探测器MMX与火箭分离，进入飞往火星的轨道。",
@@ -1040,27 +1357,6 @@
       ],
       "section": "business",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "putin-proposes-trump-xi-ukraine-war-talks-c341cb",
-      "title": "特朗普愿在深圳APEC期间与中俄领导人谈核控",
-      "description": "美国总统特朗普10月19日在白宫表示，如果中国国家主席习近平和俄罗斯总统普京愿意，他愿在11月18日至19日深圳举行的亚太经合组织（APEC）峰会期间参加三方会谈。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T04:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/putin-proposes-trump-xi-ukraine-war-talks-c341cb",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "德国之声",
-        "财新"
-      ],
-      "section": "world",
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -1252,24 +1548,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-immigration-revokes-ntu-student-permit-deportation-eee68e",
-      "title": "台湾移民署废止台大王姓陆生入境许可并驱逐出境",
-      "description": "台湾移民署10月16日决定废止台大一名王姓陆生的入境许可并将其驱逐出境；台湾陆委会表示认同这一处理。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T03:32:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/taiwan-immigration-revokes-ntu-student-permit-deportation-eee68e",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "cong-lin-warns-life-insurers-spread-loss-risk-e6cee2",
       "title": "丛林要求保险业警惕低利率寿险利差损风险",
       "description": "国家金融监督管理总局副局长丛林在2026金融街论坛保险大会上称，“十五五”是保险业高质量发展的夯基阶段。",
@@ -1363,24 +1641,6 @@
         "联合早报"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "micron-taoyuan-union-strike-backs-taichung-8ce079",
-      "title": "美光桃园工会将罢工声援台中工会",
-      "description": "美光科技桃园工会计划于10月22日举行声援式罢工，支持台中工会争取调整员工分红制度。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T03:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/micron-taoyuan-union-strike-backs-taichung-8ce079",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -2186,42 +2446,6 @@
       "sources": []
     },
     {
-      "id": "cuba-oil-gas-rules-expand-private-foreign-access-0cf0bf",
-      "title": "古巴油气新规生效扩大民企外资参与范围",
-      "description": "古巴油气行业新规于当地时间10月19日开始实施，符合条件的古巴本国和外国企业及个人可参与勘探、开采、炼制、运输、储存和销售等业务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T21:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/cuba-oil-gas-rules-expand-private-foreign-access-0cf0bf",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "iran-revolutionary-guards-seven-cables-cross-hormuz-68da48",
-      "title": "伊朗革命卫队称七条主要海底光缆经过霍尔木兹海峡",
-      "description": "伊朗伊斯兰革命卫队发言人穆赫比于当地时间2026年10月19日表示，霍尔木兹海峡有7条主要海底光缆经过。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T20:38:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/iran-revolutionary-guards-seven-cables-cross-hormuz-68da48",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "merz-nvidia-announce-ai-partnership-5c616c",
       "title": "德国政府与英伟达签约推动工业人工智能应用",
       "description": "德国联邦政府与英伟达10月19日在柏林签署工业人工智能合作协议。",
@@ -2292,24 +2516,6 @@
         "澎湃新闻"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "indonesia-probes-first-resources-orangutan-death-1a8272",
-      "title": "印尼调查益资源疑涉焚林及红毛猩猩死亡",
-      "description": "印尼当局10月8日在益资源（First Resources）旗下子公司Kayung Agro Lestari（KAL）位于西加里曼丹省的棕榈种植特许区内发现疑似婆罗洲红毛猩猩头骨。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T15:23:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/indonesia-probes-first-resources-orangutan-death-1a8272",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -2400,24 +2606,6 @@
         "澎湃新闻"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "wuqing-announces-fund-industry-monitoring-center-64cb3b",
-      "title": "吴清宣布筹建基金业运行监测中心",
-      "description": "中国证监会主席吴清10月19日在北京金融街论坛宣布，证监会近期将筹建基金业运行监测中心。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T14:54:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/wuqing-announces-fund-industry-monitoring-center-64cb3b",
-      "reference": [
-        "财新"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -3270,42 +3458,6 @@
       "sources": []
     },
     {
-      "id": "hoang-xuan-le-ninth-circuit-overturns-convictions-9b6b71",
-      "title": "第九巡回法院撤销李皇轩海上谋杀案三项定罪",
-      "description": "美国第九巡回上诉法院于2026年10月15日撤销李皇轩海上谋杀案中的一级谋杀、共谋谋杀及为促成谋杀而持有枪械三项定罪，并将案件发回原审法院进一步处理。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/hoang-xuan-le-ninth-circuit-overturns-convictions-9b6b71",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "xiangbo-sun-arrested-michigan-fraud-e80579",
-      "title": "孙祥波在密歇根州收取诈骗款时被捕",
-      "description": "中国公民孙祥波6月18日在美国密歇根州阿勒根县一处住所收取诈骗款时被警方逮捕。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/xiangbo-sun-arrested-michigan-fraud-e80579",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "beijing-forecast-severe-aging-by-2035-e1e258",
       "title": "北京预计2035年进入重度老龄化社会",
       "description": "北京市官方预计，到2035年，60岁及以上人口占比将超过33%，届时约每三人中就有一人年满60岁，北京将进入重度老龄化阶段。",
@@ -3454,24 +3606,6 @@
       "sources": []
     },
     {
-      "id": "taian-extortion-gang-indicted-700f0b",
-      "title": "泰安“仙人跳”团伙涉敲诈诈骗被检方起诉",
-      "description": "山东泰安市泰山区检察院已将陈某等人涉嫌敲诈勒索、诈骗、诬告陷害等案件起诉至法院。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T03:09:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/taian-extortion-gang-indicted-700f0b",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "singapore-offers-3000-tech-internships-c14acd",
       "title": "新加坡政府未来三年将提供3000个科技实习名额",
       "description": "新加坡政府将扩大“培训专才计划联盟”（TIP Alliance+），未来三年为符合条件的信息与数字科技学生提供3000个实习机会，并推出Bridge2Tech系列措施。",
@@ -3545,27 +3679,6 @@
       ],
       "section": "tech",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "trump-waives-russia-sanctions-a8e26a",
-      "title": "特朗普签署行政令暂缓多项对俄制裁与关税",
-      "description": "美国总统唐纳德·特朗普10月16日签署行政令，豁免《林赛·格雷厄姆俄罗斯与伊朗制裁法案》中的多项对俄制裁、限制和关税措施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T01:50:05+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-17",
-      "url": "https://kaopu.news/story/2026-10-17/trump-waives-russia-sanctions-a8e26a",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "法广",
-        "德国之声"
-      ],
-      "section": "us",
-      "sourceCount": 12,
       "sources": []
     },
     {
@@ -3659,27 +3772,6 @@
       ],
       "section": "ai",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "white-house-zacharia-lawyer-credentials-questioned-948361",
-      "title": "扎卡里亚任白宫新闻秘书五天后离职创纪录",
-      "description": "美国白宫新闻秘书凯蒂·扎卡里亚任职仅5天后，于10月16日离开职务，创下白宫新闻秘书任期最短纪录。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-18T21:21:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/white-house-zacharia-lawyer-credentials-questioned-948361",
-      "reference": [
-        "世界日报",
-        "纽约时报",
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 23,
       "sources": []
     },
     {
@@ -3827,25 +3919,6 @@
       "sources": []
     },
     {
-      "id": "wu-yue-demands-refund-ai-impersonation-5ff41c",
-      "title": "微信永久封禁AI仿冒吴越带货账号",
-      "description": "演员吴越在微博指称，带货账号“花姐美肤日记”利用AI仿冒她推销护肤品，并要求账号退还相关钱款。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-18T10:57:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/wu-yue-demands-refund-ai-impersonation-5ff41c",
-      "reference": [
-        "第一财经",
-        "澎湃新闻"
-      ],
-      "section": "ai",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "south-korea-universities-catch-ai-glasses-cheating-2cd153",
       "title": "韩国多所大学接连查获AI眼镜作弊考生",
       "description": "韩国延世大学和首尔市立大学在10月的招生考试中先后查获考生使用AI智能眼镜作弊，韩国教育部正部署防范措施。",
@@ -3860,24 +3933,6 @@
         "联合早报"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-secondhand-luxury-sales-grow-96f1c2",
-      "title": "中国二手奢侈品市场销售额快速增长",
-      "description": "中国二手奢侈品市场去年扩大之际，转转集团旗下“超级转转”上海旗舰店于本月开业。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-18T10:14:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/china-secondhand-luxury-sales-grow-96f1c2",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -3897,25 +3952,6 @@
         "联合早报"
       ],
       "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "pennsylvania-coroner-measles-death-case-70e95a",
-      "title": "美国麻疹病例升至4410例创1991年以来新高",
-      "description": "美国疾病控制与预防中心数据显示，截至10月15日，美国累计确诊4410例麻疹病例，创1991年以来年度新高；其中4392例由47个州和地区报告，另有18例涉及国际旅行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-18T07:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/pennsylvania-coroner-measles-death-case-70e95a",
-      "reference": [
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "us",
       "sourceCount": 2,
       "sources": []
     },
@@ -3988,42 +4024,6 @@
         "世界日报"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "michigan-senate-race-identity-dispute-8d586b",
-      "title": "密歇根参议员选战胶着引发身份争论",
-      "description": "密歇根州联邦参议员选战中，共和党候选人迈克·罗杰斯与民主党候选人阿卜杜勒·埃尔-萨耶德竞争胶着，争论也聚焦以色列议题及族裔、宗教身份。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-18T06:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/michigan-senate-race-identity-dispute-8d586b",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "arcadia-surrogacy-couple-child-abuse-charges-473a12",
-      "title": "洛县检方指控宣国军夫妇代孕生育多达26名儿童并虐待",
-      "description": "洛县检方指控宣国军和妻子Silvia Zhang通过代孕安排促成多达26名儿童出生，并在亚凯迪亚住宅内对孩子实施严密监控和虐待。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-18T06:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/arcadia-surrogacy-couple-child-abuse-charges-473a12",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -4134,26 +4134,6 @@
       ],
       "section": "ai",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ai-agents-jailbreak-attempt-amap-access-c48424",
-      "title": "疑似运行于腾讯云的AI代理多次尝试获取高德数据",
-      "description": "研究团队Swarmchasers称，9月28日至10月8日，十多个疑似运行在腾讯云上的第三方AI代理反复尝试访问阿里巴巴旗下高德地图数据。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T13:37:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/ai-agents-jailbreak-attempt-amap-access-c48424",
-      "reference": [
-        "联合早报",
-        "纽约时报",
-        "中央通訊社"
-      ],
-      "section": "ai",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -4283,25 +4263,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "xu-disheng-team-reported-3d-ghys-proof-62613b",
-      "title": "许地生团队借助书生S2证明三维Ghys猜想",
-      "description": "近日，许地生团队借助书生科学多模态大模型S2，以人机协作方式完成三维Ghys猜想证明。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-17T02:18:50.939890+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/xu-disheng-team-reported-3d-ghys-proof-62613b",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "section": "tech",
-      "sourceCount": 2,
       "sources": []
     },
     {
