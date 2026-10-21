@@ -3,9 +3,253 @@
     "date": "2026-10-21",
     "timestamp": 1792545529,
     "totalPages": 1,
-    "total": 259
+    "total": 257
   },
   "stories": [
+    {
+      "id": "deepseek-open-sources-deepinfer-framework-621bd0",
+      "title": "DeepSeek开源DeepInfer推理框架",
+      "description": "DeepSeek于10月20日宣布，将内部推理框架DeepInfer及配套Token编解码组件deepseek-recipe开源，供开发者和企业用于模型推理部署。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T01:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/deepseek-open-sources-deepinfer-framework-621bd0",
+      "reference": [
+        "第一财经",
+        "财新",
+        "联合早报"
+      ],
+      "section": "ai",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "catl-third-quarter-profit-growth-slows-1843e5",
+      "title": "宁德时代三季度净利增速降至14.54%",
+      "description": "宁德时代10月20日晚间公布2026年三季报。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T00:59:56.436392+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/catl-third-quarter-profit-growth-slows-1843e5",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "helen-haines-car-attack-critical-condition-15bfdb",
+      "title": "澳大利亚独立议员海恩斯遭蓄意驾车撞击后截肢",
+      "description": "澳大利亚独立议员海伦·海恩斯10月19日下午在维多利亚州旺加拉塔的选区办公室外遭汽车蓄意撞击。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T00:57:42+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/helen-haines-car-attack-critical-condition-15bfdb",
+      "reference": [
+        "联合早报",
+        "SBS",
+        "英国广播公司"
+      ],
+      "section": "world",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "south-korea-defense-minister-meets-chinese-ambassador-50e253",
+      "title": "韩国防长会见中国大使呼吁维护半岛和平",
+      "description": "韩国国防部长姜信哲20日下午在韩国国防部大楼会见中国驻韩国大使戴兵，围绕韩中防务合作和朝鲜半岛局势交换意见。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T00:53:20+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/south-korea-defense-minister-meets-chinese-ambassador-50e253",
+      "reference": [
+        "韩国国际广播电台"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "european-centrist-parties-lose-support-2681ba",
+      "title": "欧洲中间派政党在民众不满中失去支持",
+      "description": "欧洲多个主要国家的中左翼和中右翼政党正失去选民支持，极右翼与极左翼民粹政党势力上升。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T00:44:14+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/european-centrist-parties-lose-support-2681ba",
+      "reference": [
+        "纽约时报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-mmx-phobos-sample-return-mission-942d05",
+      "title": "日本H3火箭成功发射MMX探测器",
+      "description": "日本宇宙航空研究开发机构（JAXA）10月20日凌晨从鹿儿岛县种子岛宇宙中心发射H3火箭10号机，搭载的火星卫星探测器MMX约1小时11分钟后与火箭分离，进入预定轨道。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T00:43:51+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/japan-mmx-phobos-sample-return-mission-942d05",
+      "reference": [
+        "日经",
+        "中央通訊社",
+        "法广",
+        "日本放送协会"
+      ],
+      "section": "tech",
+      "sourceCount": 18,
+      "sources": []
+    },
+    {
+      "id": "china-limits-brazil-poultry-imports-santa-catarina-37e222",
+      "title": "中国将巴西禽产品进口限制范围限定在圣卡塔琳娜州",
+      "description": "中国对巴西禽产品的进口限制仅覆盖圣卡塔琳娜州。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T00:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/china-limits-brazil-poultry-imports-santa-catarina-37e222",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ice-pursuit-san-francisco-council-legal-aid-d17e66",
+      "title": "ICE持枪追捕男子后旧金山议员要求增加法律援助",
+      "description": "10月19日周一上午，ICE探员在旧金山南市场区（SoMa）追捕并拘留一名男子。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T00:41:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/ice-pursuit-san-francisco-council-legal-aid-d17e66",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "geng-shuang-meets-david-shambaugh-5d48c5",
+      "title": "耿爽会见美国学者沈大伟讨论中美关系",
+      "description": "中国人民外交学会副会长耿爽10月19日与美国学者沈大伟会面，谈及中美关系。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T00:36:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/geng-shuang-meets-david-shambaugh-5d48c5",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "uc-freshmen-basic-math-failure-rate-doubles-7811f1",
+      "title": "加州大学新生基础数学不及格率五年近翻倍",
+      "description": "加州大学系统数据显示，2025至2026学年有17.8%的新生未通过入门数学课程，较五年前的9.2%接近翻倍。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T00:27:51+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/uc-freshmen-basic-math-failure-rate-doubles-7811f1",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "witkoff-norway-peace-proposal-talks-6bf424",
+      "title": "美乌欧代表奥斯陆会谈推进和平磋商",
+      "description": "美国、乌克兰及欧洲代表20日在挪威奥斯陆举行乌克兰问题会谈，讨论和平框架和安全保障，并协调后续对俄接触。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T00:25:29+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
+      "reference": [
+        "法广",
+        "澎湃新闻",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "israel-army-claims-yassin-killed-gaza-2ea68a",
+      "title": "以军称空袭加沙城打死哈马斯安全机构高级成员亚辛",
+      "description": "以色列国防军与辛贝特当地时间20日晚发表联合声明，称以军当天早些时候空袭加沙城地区，打死哈马斯安全机构高级成员亚辛。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T00:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/israel-army-claims-yassin-killed-gaza-2ea68a",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "britain-never-smokers-start-vaping-2f7ef8",
+      "title": "英国逾百万从未吸烟者正在使用电子烟",
+      "description": "英国国家统计局近期调查显示，英国有逾100万名自称从未吸过烟的人正在使用电子烟。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T00:17:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/britain-never-smokers-start-vaping-2f7ef8",
+      "reference": [
+        "英国广播公司"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "china-medical-insurance-wallet-enables-cross-province-76f518",
       "title": "医保钱包2.0上线职工医保跨省共济全国落地",
@@ -47,6 +291,24 @@
       "sources": []
     },
     {
+      "id": "samruk-kazyna-raises-yuan-bonds-943981",
+      "title": "哈萨克斯坦主权财富基金发行人民币债券融资60亿元",
+      "description": "哈萨克斯坦主权财富基金Samruk-Kazyna于2026年两次发行人民币债券，通过熊猫债和点心债各募集30亿元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T00:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/samruk-kazyna-raises-yuan-bonds-943981",
+      "reference": [
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "iran-official-demands-us-meet-conditions-before-talks-4855b0",
       "title": "伊朗高层拒绝将浓缩核材料运出伊朗",
       "description": "10月20日，伊朗最高国家安全委员会秘书礼萨伊会见到访的巴基斯坦陆军参谋长穆尼尔时表示，伊朗不会让任何核材料离开本国。",
@@ -63,6 +325,24 @@
       ],
       "section": "world",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-revokes-300000-visas-record-719fac",
+      "title": "特朗普政府撤销逾30万份签证创历史纪录",
+      "description": "美国国务院10月20日表示，特朗普政府自2025年1月开启第二任期以来，已撤销超过30万份美国签证。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T00:08:41+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/trump-revokes-300000-visas-record-719fac",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -193,26 +473,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "witkoff-norway-peace-proposal-talks-6bf424",
-      "title": "威特科夫与泽连斯基奥斯陆会谈取得对俄协调进展",
-      "description": "美国总统特使威特科夫、乌克兰总统泽连斯基及欧洲方面人士10月20日在挪威奥斯陆举行乌克兰问题会谈，讨论可提交俄罗斯讨论的和平方案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T23:43:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
-      "reference": [
-        "法广",
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -1516,25 +1776,6 @@
       "sources": []
     },
     {
-      "id": "war-drought-global-food-inflation-forecast-339d9d",
-      "title": "印尼米价创历史新高，食品开支加重民众负担",
-      "description": "印尼米价近期升至历史新高。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T12:48:41+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/war-drought-global-food-inflation-forecast-339d9d",
-      "reference": [
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "tpk-completes-tgv-pilot-line-plans-mass-production-7cda69",
       "title": "宸鸿建成先进封装TGV试产线计划2028年量产",
       "description": "宸鸿（TPK）首次参加2026台湾电路板产业国际展览会，展示玻璃通孔（TGV）先进封装技术的产品开发、工艺整合和验证进展。",
@@ -1550,42 +1791,6 @@
       ],
       "section": "tech",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "dutch-group-backs-exiled-russian-independent-media-d7c482",
-      "title": "荷兰媒体集团支持流亡俄独立媒体在阿姆斯特丹运作",
-      "description": "俄罗斯全面入侵乌克兰后，遭到压制的《雨电视》《莫斯科时报》和《梅杜萨报》被迫迁往荷兰阿姆斯特丹。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T12:40:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/dutch-group-backs-exiled-russian-independent-media-d7c482",
-      "reference": [
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "kenya-court-convicts-paul-mackenzie-397368",
-      "title": "肯尼亚法院判玛肯西等29人191项谋杀罪成立",
-      "description": "肯尼亚蒙巴萨法院10月19日裁定，佳音国际教会教主保罗·玛肯西及其妻子等另外28人，涉及杀害190名儿童和1名成年人的191项谋杀罪名成立。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T12:39:24+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/kenya-court-convicts-paul-mackenzie-397368",
-      "reference": [
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1607,24 +1812,6 @@
       ],
       "section": "china",
       "sourceCount": 8,
-      "sources": []
-    },
-    {
-      "id": "deepseek-open-sources-deepinfer-framework-621bd0",
-      "title": "DeepSeek全面开源DeepInfer推理框架",
-      "description": "DeepSeek于10月20日宣布，将用于大规模云端推理的内部框架DeepInfer全面开源。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T12:37:38.522069+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/deepseek-open-sources-deepinfer-framework-621bd0",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "ai",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1701,27 +1888,6 @@
       ],
       "section": "us",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "japan-mmx-phobos-sample-return-mission-942d05",
-      "title": "日本H3十号机成功将MMX探测器送入预定轨道",
-      "description": "日本宇宙航空研究开发机构（JAXA）当地时间10月20日凌晨从鹿儿岛县种子岛宇宙中心发射H3火箭10号机，搭载的火星卫星探测器MMX在升空约1小时11分钟后与火箭分离，进入预定轨道，火卫一样本采集返回任务由此启动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T12:11:54+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/japan-mmx-phobos-sample-return-mission-942d05",
-      "reference": [
-        "日经",
-        "中央通訊社",
-        "法广",
-        "日本放送协会"
-      ],
-      "section": "tech",
-      "sourceCount": 17,
       "sources": []
     },
     {
@@ -2222,24 +2388,6 @@
       "sources": []
     },
     {
-      "id": "china-great-wall-assets-markets-wanda-debt-f83386",
-      "title": "长城资产公开招商万达约9.45亿元债权",
-      "description": "中国长城资产管理股份有限公司大连市分公司发布债权营销公告，拟公开招商一笔涉及大连万达集团股份有限公司的债权。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T10:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/china-great-wall-assets-markets-wanda-debt-f83386",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "blackstone-plans-40-billion-japan-investment-ee3a09",
       "title": "黑石集团计划三年内对日投资400亿美元",
       "description": "黑石集团董事长兼首席执行官史蒂芬·施瓦茨曼在接受日本放送协会采访时表示，集团计划未来三年向日本投资400亿美元，约合6万亿日元；这一目标为原计划的1.3倍。",
@@ -2273,27 +2421,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-tier-one-home-prices-rise-september-0c748c",
-      "title": "上海二手房价格同比转涨领跑一线城市",
-      "description": "国家统计局10月19日公布的2026年9月70个大中城市商品住宅销售价格数据显示，一线城市二手住宅价格环比连续第七个月上涨。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T09:41:39.508450+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/china-tier-one-home-prices-rise-september-0c748c",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 9,
       "sources": []
     },
     {
@@ -2439,43 +2566,6 @@
       "url": "https://kaopu.news/story/2026-10-20/thailand-cabinet-approves-flood-aid-07dda9",
       "reference": [
         "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "registrar-revokes-pn-registration-769ecb",
-      "title": "马来西亚社团注册局撤销国盟注册资格",
-      "description": "马来西亚社团注册局10月20日宣布撤销国民联盟（国盟）注册。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T08:45:23+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/registrar-revokes-pn-registration-769ecb",
-      "reference": [
-        "当今大马",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "nvidia-first-taiwan-government-affairs-director-16f241",
-      "title": "中央社称辉达首次在台湾招聘政府事务总监",
-      "description": "据中央社报道，辉达近期首次在台湾招聘政府事务总监，工作地点设在台北。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T08:38:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/nvidia-first-taiwan-government-affairs-director-16f241",
-      "reference": [
-        "中央通訊社"
       ],
       "section": "asia",
       "sourceCount": 1,
@@ -3030,24 +3120,6 @@
       "sources": []
     },
     {
-      "id": "fox-news-andrew-luster-released-after-20-years-083cd0",
-      "title": "莱斯特获准假释后入住格兰多拉引发官员担忧",
-      "description": "安德鲁·莱斯特因性侵三名女子被判刑，服刑约20年后于10月11日获准假释，目前居住在加州格兰多拉。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T06:09:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/fox-news-andrew-luster-released-after-20-years-083cd0",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "bemotrizinol-fda-approved-sunscreen-products-launch-eaead7",
       "title": "贝莫曲唑获FDA批准后首批防晒品在美上市",
       "description": "美国首批含贝莫曲唑（Bemotrizinol，BEMT）的防晒产品已在各大商店销售，其中包括露得清防晒乳。",
@@ -3062,24 +3134,6 @@
         "世界日报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "npr-mazal-group-forced-sales-consumer-abuse-58f652",
-      "title": "NPR调查称玛莎尔集团被指强迫推销侵害消费者",
-      "description": "NPR的一项调查称，玛莎尔集团旗下门店被指通过持续推销和不当收费，迫使消费者购买商品或服务，受影响者包括老年人和残障人士。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/npr-mazal-group-forced-sales-consumer-abuse-58f652",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -3557,43 +3611,6 @@
       "sources": []
     },
     {
-      "id": "wang-wenling-expelled-party-office-c2d9f7",
-      "title": "社保基金会原副理事长王文灵被开除党籍和公职",
-      "description": "中央纪委国家监委经中共中央批准，对全国社会保障基金理事会原党组成员、副理事长王文灵立案审查调查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T14:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/wang-wenling-expelled-party-office-c2d9f7",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "pla-drills-four-seas-live-fire-01ce2d",
-      "title": "中国人民解放军在六处海域展开军事演训",
-      "description": "中国人民解放军近日在多处海域开展训练；美日“利剑27”联合军演10月19日开幕，计划持续至29日。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T14:06:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/pla-drills-four-seas-live-fire-01ce2d",
-      "reference": [
-        "中央通訊社",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "russian-bears-enter-villages-food-shortage-84c685",
       "title": "俄罗斯棕熊因松子歉收进入村庄觅食",
       "description": "俄罗斯贝加尔湖周边棕熊因森林松子歉收、冬眠前食物不足而进入村庄觅食。",
@@ -3663,27 +3680,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ding-xiangqun-brings-all-financial-activities-under-ed0ebd",
-      "title": "丁向群提出深化监管改革强化五大监管",
-      "description": "国家金融监督管理总局局长丁向群10月19日在2026金融街论坛年会开幕式发表主题演讲，提出深化监管改革、全面强化“五大监管”，并推动金融机构优化发展定位，促进中小金融机构减量提质。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T12:36:39.055167+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/ding-xiangqun-brings-all-financial-activities-under-ed0ebd",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "财新",
-        "第一财经"
-      ],
-      "section": "china",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -3885,42 +3881,6 @@
         "澎湃新闻"
       ],
       "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "wtw-workers-financial-security-hits-seven-year-low-200c23",
-      "title": "WTW调查显示劳工财务安全感降至七年低点",
-      "description": "韦莱韬悦（WTW）对6000名薪资劳工开展的调查显示，认为自己财务状况安全的受访者比例从46%降至36%，为七年来最低。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T06:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/wtw-workers-financial-security-hits-seven-year-low-200c23",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "jack-weis-princeton-phd-2300-resumes-jobless-7b831b",
-      "title": "华尔街日报称普林斯顿博士投2300多份简历仍未就业",
-      "description": "据《华尔街日报》报道，居住在犹他州盐湖城的杰克·魏斯于2024年获得普林斯顿大学化学工程博士学位后，已递交2300多份求职简历，至今仍未找到工作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T06:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/jack-weis-princeton-phd-2300-resumes-jobless-7b831b",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
