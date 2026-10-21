@@ -3,13 +3,88 @@
     "date": "2026-10-21",
     "timestamp": 1792618334,
     "totalPages": 1,
-    "total": 266
+    "total": 268
   },
   "stories": [
     {
+      "id": "us-prosecutors-detail-huawei-skycom-iran-funds-b38e51",
+      "title": "美国检方详述华为经星通处理伊朗资金指控",
+      "description": "美国司法部针对华为的案件于2026年10月21日在布鲁克林联邦法院继续审理。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T21:54:56+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/us-prosecutors-detail-huawei-skycom-iran-funds-b38e51",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-womens-gymnastics-wins-world-team-gold-3ba6cf",
+      "title": "中国体操女队时隔20年再夺世锦赛团体金牌",
+      "description": "中国体操女队在荷兰鹿特丹举行的第54届世界体操锦标赛女子团体决赛中，以165.764分排名第一，夺得冠军。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T21:42:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/china-womens-gymnastics-wins-world-team-gold-3ba6cf",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "sports",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "witkoff-norway-peace-proposal-talks-6bf424",
+      "title": "普京称俄方准备11月中旬重启三方会谈",
+      "description": "俄罗斯总统普京10月21日在圣彼得堡会见美国总统特使威特科夫，会谈持续约三小时。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T21:03:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
+      "reference": [
+        "法广",
+        "澎湃新闻",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 20,
+      "sources": []
+    },
+    {
+      "id": "us-orders-saudi-staff-family-evacuation-126135",
+      "title": "美国下令驻沙特非紧急政府雇员及家属撤离",
+      "description": "美国国务院下令驻沙特阿拉伯的非紧急政府雇员及家属撤离。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T20:45:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/us-orders-saudi-staff-family-evacuation-126135",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "japan-agency-urges-php-security-patch-8c669e",
-      "title": "PHP重大漏洞促使多国政府网站暂时下线",
-      "description": "PHP开发者披露两项严重安全漏洞，统称为“PHP2Shell”，并发布修复版本，呼吁网站运营者尽快更新。",
+      "title": "PHP团队发布更新修复两项严重漏洞",
+      "description": "PHP安全团队已发布紧急更新，修复两项严重漏洞。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -23,7 +98,27 @@
         "加拿大国际广播电台"
       ],
       "section": "tech",
-      "sourceCount": 3,
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "zelensky-says-ukraine-lacked-allied-airstrike-warning-cc2937",
+      "title": "俄军空袭乌克兰造成10人死亡逾55万户断电",
+      "description": "俄罗斯10月19日对乌克兰多地发动大规模空袭，造成10人死亡，逾55万户家庭断电，十余处能源设施受损。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T19:38:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/zelensky-says-ukraine-lacked-allied-airstrike-warning-cc2937",
+      "reference": [
+        "联合早报",
+        "公视",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 4,
       "sources": []
     },
     {
@@ -96,27 +191,6 @@
       ],
       "section": "asia",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "witkoff-norway-peace-proposal-talks-6bf424",
-      "title": "普京称俄方愿于11月中旬重启俄美乌会谈",
-      "description": "俄罗斯总统普京10月21日在圣彼得堡会见美国总统特使史蒂夫·威特科夫，双方交谈约三小时。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T16:07:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
-      "reference": [
-        "法广",
-        "澎湃新闻",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 19,
       "sources": []
     },
     {
@@ -2367,27 +2441,6 @@
       "sources": []
     },
     {
-      "id": "alberta-voters-answer-ten-referendum-questions-f5ef8c",
-      "title": "阿尔伯塔选民否决启动独立公投程序",
-      "description": "阿尔伯塔省选民在10月19日的投票中否决启动独立公投程序。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T07:15:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/alberta-voters-answer-ten-referendum-questions-f5ef8c",
-      "reference": [
-        "加拿大国际广播电台",
-        "澎湃新闻",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 11,
-      "sources": []
-    },
-    {
       "id": "yunnan-firefighters-extinguish-muse-gas-station-fire-1b0ace",
       "title": "云南德宏消防跨境扑灭缅甸木姐加油站火灾",
       "description": "缅甸木姐地区一座储有大量汽油的加油站10月20日午间发生火灾。",
@@ -2421,27 +2474,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "france-student-protests-fuel-multicountry-clashes-0a77ba",
-      "title": "梅洛尼拟推新安全法令应对米兰暴力示威",
-      "description": "意大利总理乔治娅·梅洛尼10月20日宣布推出一项新安全法令方案，以应对米兰周末发生的暴力示威。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T06:37:58+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/france-student-protests-fuel-multicountry-clashes-0a77ba",
-      "reference": [
-        "公视",
-        "财新",
-        "纽约时报",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 6,
       "sources": []
     },
     {
