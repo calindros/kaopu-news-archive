@@ -3,17 +3,17 @@
     "date": "2026-10-21",
     "timestamp": 1792553669,
     "totalPages": 1,
-    "total": 259
+    "total": 261
   },
   "stories": [
     {
       "id": "dhs-orders-federal-agencies-remove-deepseek-512c11",
-      "title": "美国下令联邦民用机构移除DeepSeek产品",
-      "description": "美国国土安全部于10月19日公布命令，要求联邦行政部门民用机构停止采购深度求索（DeepSeek）及基于其模型开发的产品和服务，并从信息技术系统中移除相关产品。",
+      "title": "美国国土安全部要求联邦机构移除DeepSeek",
+      "description": "美国国土安全部10月19日公布命令，要求联邦民事行政机构停止采购DeepSeek开发的产品和服务，并从信息技术系统中移除已部署的相关工具。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-21T02:07:40+00:00",
+      "updatedAt": "2026-10-21T03:22:30+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-19",
       "url": "https://kaopu.news/story/2026-10-19/dhs-orders-federal-agencies-remove-deepseek-512c11",
@@ -24,7 +24,308 @@
         "财新"
       ],
       "section": "us",
-      "sourceCount": 13,
+      "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "wuqing-proposes-capital-market-policies-2807dc",
+      "title": "证监会与北交所细化一体化改革举措",
+      "description": "中国证监会与北京证券交易所提出一系列措施，推进北交所与新三板一体化发展，涉及新股发行定价、基金产品、市场分层和监管机制。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T03:17:53.003169+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/wuqing-proposes-capital-market-policies-2807dc",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-army-china-guide-first-day-combat-e9e740",
+      "title": "美国陆军新准则要求印太前沿部队首日投入作战",
+      "description": "美国陆军10月19日公开新作战准则《美国陆军作战方式》，提出将兵力、远程打击能力和补给前推至印太第一岛链，使前沿部队在冲突首日即可投入行动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T02:59:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/us-army-china-guide-first-day-combat-e9e740",
+      "reference": [
+        "朝鲜日报",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-sanctions-linwei-ding-chinese-entities-e46626",
+      "title": "美国以涉嫌窃取商业秘密制裁五家中国实体",
+      "description": "美国国务院10月19日依据《保护美国知识产权法》，以涉嫌窃取商业秘密为由，将上海智算科技公司、奇绩创坛及其三家关联公司列入制裁范围，共涉及五个实体。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T02:44:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/us-sanctions-linwei-ding-chinese-entities-e46626",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "taiwan-affairs-office-responds-travel-ban-ea3d94",
+      "title": "国台办回应陆委会称赴陆申请将不予许可",
+      "description": "中国国务院台湾事务办公室发言人张晗10月21日在例行记者会上，回应台湾陆委会限制人员赴大陆参加孙中山诞辰160周年纪念活动的表态。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T02:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/taiwan-affairs-office-responds-travel-ban-ea3d94",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "indonesia-haze-hits-malaysia-tourism-6f4c51",
+      "title": "印尼烟霾冲击马来西亚旅游业者估损数百万令吉",
+      "description": "印度尼西亚野火烟霾笼罩马来西亚，航班受扰、景点能见度下降。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T02:41:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/indonesia-haze-hits-malaysia-tourism-6f4c51",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "anthropic-settles-korean-books-copyright-case-06a2bd",
+      "title": "Anthropic和解赔偿涵盖21部韩国作品",
+      "description": "围绕Anthropic未经许可下载图书训练Claude引发的版权诉讼以和解告终，Anthropic支付赔偿金，赔偿书单列入21部韩国作家的英文作品。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T02:40:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/anthropic-settles-korean-books-copyright-case-06a2bd",
+      "reference": [
+        "韩国国际广播电台",
+        "韩民族日报"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-tech-finance-guidance-innovation-hubs-fad616",
+      "title": "央行等部门发布三大科创中心金融支持意见",
+      "description": "中国人民银行联合科技部、金融监管总局、中国证监会等十个部门，于2026年10月19日印发《关于金融支持建设北京（京津冀）、上海（长三角）、粤港澳大湾区国际科技创新中心的指导意见》，提出优化三大区域金融资源配置，完善科技金融服务体系，推动科技创新与产业发展相互促进。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T02:39:33.825145+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/china-tech-finance-guidance-innovation-hubs-fad616",
+      "reference": [
+        "澎湃新闻",
+        "财新",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "tokyo-condo-average-tops-100-million-yen-5fc19a",
+      "title": "日本首都圈新建公寓上半年度均价首破1亿日元",
+      "description": "日本不动产经济研究所10月20日公布的数据显示，2026年4月至9月，首都圈新建分售公寓每套均价同比上涨21.1%，达到1亿1494万日元，上半年度均价首次突破1亿日元，并连续4年刷新同期纪录。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T02:39:16+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/tokyo-condo-average-tops-100-million-yen-5fc19a",
+      "reference": [
+        "共同网",
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "alberta-voters-answer-ten-referendum-questions-f5ef8c",
+      "title": "阿尔伯塔选民否决启动独立公投程序",
+      "description": "阿尔伯塔省选民在10月19日的投票中选择留在加拿大，并否决启动独立公投程序。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T02:33:18+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-15",
+      "url": "https://kaopu.news/story/2026-10-15/alberta-voters-answer-ten-referendum-questions-f5ef8c",
+      "reference": [
+        "加拿大国际广播电台",
+        "澎湃新闻",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "china-railway-investment-6012-billion-yuan-53b843",
+      "title": "全国铁路前三季度投资达6012亿元",
+      "description": "澎湃新闻记者今天从国铁集团获悉，今年前三季度全国铁路固定资产投资达6012亿元，同比上升1.3%；新线投运里程累计1625公里。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T02:32:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/china-railway-investment-6012-billion-yuan-53b843",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "malaysia-restores-bumiputera-equity-threshold-1c7968",
+      "title": "马来西亚已将官联产业买家土著股权门槛降回30%",
+      "description": "马来西亚政府撤销了购买官联公司（GLC）或官联投资公司（GLIC）价值超过2000万令吉产业的企业须持有50%土著股权的规定，相关门槛调整回30%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T02:26:14+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/malaysia-restores-bumiputera-equity-threshold-1c7968",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-supreme-court-issues-judicial-accountability-rules-2865b3",
+      "title": "最高法发布条例明确司法人员责任追究标准",
+      "description": "最高人民法院10月21日公布《人民法院司法责任追究条例》。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T02:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/china-supreme-court-issues-judicial-accountability-rules-2865b3",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "songtao-meets-us-foreign-policy-delegation-c04533",
+      "title": "宋涛会见美国智库代表团希望美方支持中国统一",
+      "description": "中共中央台办、国务院台办主任宋涛10月20日在北京会见美国外交政策全国委员会会长兼首席执行官苏珊·M·艾略特率领的代表团，并阐述中方对两岸关系和台湾问题的立场。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T02:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/songtao-meets-us-foreign-policy-delegation-c04533",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-revokes-300000-visas-record-719fac",
+      "title": "特朗普政府第二任期已吊销逾30万份签证",
+      "description": "美国国务院表示，特朗普政府自2025年1月开启第二任期以来，已吊销超过30万份美国签证。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T02:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/trump-revokes-300000-visas-record-719fac",
+      "reference": [
+        "世界日报",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "dpp-rejects-zhang-linghe-taiwan-visit-2b81f2",
+      "title": "记者称张凌赫赴台交流申请遭拒，国台办回应",
+      "description": "记者在会上称，民进党当局近日拒绝大陆艺人张凌赫赴台举办观众见面会等交流活动的申请，国务院台办对此作出回应。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T02:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/dpp-rejects-zhang-linghe-taiwan-visit-2b81f2",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "creditease-former-advisers-told-return-commissions-180789",
+      "title": "宜信前理财顾问据报被要求退还百万级佣金",
+      "description": "第一财经报道，部分已离开宜信的理财顾问近日收到退还既往佣金的短信。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T02:15:36.680615+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/creditease-former-advisers-told-return-commissions-180789",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -135,6 +436,24 @@
       ],
       "section": "world",
       "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "qualcomm-plans-global-performance-layoffs-69c3e4",
+      "title": "高通拟实施全球绩效裁员计划通知预计11月起发出",
+      "description": "据中央社报道，路透社查阅的一份员工备忘录显示，高通首席执行官克里斯蒂亚诺·阿蒙告知员工，公司将在年度绩效评估后推进全球绩效导向裁员，通知预计从11月开始发出。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T01:55:55+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/qualcomm-plans-global-performance-layoffs-69c3e4",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -385,6 +704,27 @@
       "sources": []
     },
     {
+      "id": "france-northern-cities-impose-curfew-3c52ed",
+      "title": "法国政府部署军力支援警方应对新一轮示威",
+      "description": "法国政府在10月17日的大规模示威演变为骚乱后，宣布在巴黎及多座城市部分地区实施宵禁和集会限制，并将调派军力支援警方，应对定于10月24日举行的新一轮示威。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T01:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/france-northern-cities-impose-curfew-3c52ed",
+      "reference": [
+        "法广",
+        "联合早报",
+        "澎湃新闻",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 16,
+      "sources": []
+    },
+    {
       "id": "south-korea-envoy-monitors-new-yalu-bridge-sanctions-b31629",
       "title": "韩国驻华大使关注新鸭绿江桥通车后制裁漏洞",
       "description": "韩国驻华大使卢载宪表示，他正跟踪新鸭绿江大桥动向，并关注对朝制裁是否出现漏洞。",
@@ -403,18 +743,18 @@
       "sources": []
     },
     {
-      "id": "us-army-china-guide-first-day-combat-e9e740",
-      "title": "美陆军公布对华指南拟让前沿驻军首日参战",
-      "description": "美国陆军公布一份应对中国军事力量扩张的作战指南，提出把军事资源集中到印太第一岛链，并使当地美军在台海等地发生冲突时从首日投入作战。",
+      "id": "qi-li-sentenced-eight-months-jail-assault-threats-6ba6f8",
+      "title": "李琦因殴打并威胁保姆被判八个月县监禁",
+      "description": "圣马刁县检方撤销对徐洁的指控，不再寻求重审；其丈夫李琦因殴打并刑事威胁保姆，被判处8个月县监狱监禁。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-21T01:09:00+00:00",
+      "updatedAt": "2026-10-21T01:01:55+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/us-army-china-guide-first-day-combat-e9e740",
+      "url": "https://kaopu.news/story/2026-10-21/qi-li-sentenced-eight-months-jail-assault-threats-6ba6f8",
       "reference": [
-        "朝鲜日报"
+        "世界日报"
       ],
       "section": "us",
       "sourceCount": 1,
@@ -795,24 +1135,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "trump-revokes-300000-visas-record-719fac",
-      "title": "特朗普政府撤销逾30万份签证创历史纪录",
-      "description": "美国国务院10月20日表示，特朗普政府自2025年1月开启第二任期以来，已撤销超过30万份美国签证。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T00:08:41+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/trump-revokes-300000-visas-record-719fac",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1337,27 +1659,6 @@
       "sources": []
     },
     {
-      "id": "france-northern-cities-impose-curfew-3c52ed",
-      "title": "法国部署军队支援警方应对周末示威",
-      "description": "法国政府继续加强巴黎的安全管制，并将部署军队支援警方，以应对周末新一轮示威。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T18:33:35+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/france-northern-cities-impose-curfew-3c52ed",
-      "reference": [
-        "法广",
-        "联合早报",
-        "澎湃新闻",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 15,
-      "sources": []
-    },
-    {
       "id": "long-beach-former-city-worker-injured-arrested-fe25a8",
       "title": "长堤前市府员工遭ICE压制受伤被捕",
       "description": "据《世界日报》报道，10月17日，南加州长堤市前市府员工Ricardo Gonzalez骑电动自行车时遭移民暨海关执法局（ICE）探员拦截，随后被按倒、戴上手铐并受伤。",
@@ -1373,27 +1674,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "alberta-voters-answer-ten-referendum-questions-f5ef8c",
-      "title": "艾伯塔公投初步计票显示多数选民支持留加",
-      "description": "艾伯塔省10月19日举行公投，询问省政府是否应启动法律程序，以举行一场具有约束力的独立公投。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T17:37:08.074000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-15",
-      "url": "https://kaopu.news/story/2026-10-15/alberta-voters-answer-ten-referendum-questions-f5ef8c",
-      "reference": [
-        "加拿大国际广播电台",
-        "澎湃新闻",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 9,
       "sources": []
     },
     {
@@ -1548,26 +1828,6 @@
       "sources": []
     },
     {
-      "id": "us-sanctions-linwei-ding-chinese-entities-e46626",
-      "title": "美国制裁丁林葳关联的五家中国实体",
-      "description": "美国国务院10月19日依据《保护美国知识产权法》，对与中国公民、前谷歌工程师丁林葳有关的5家中国实体实施制裁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T14:59:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/us-sanctions-linwei-ding-chinese-entities-e46626",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "world",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "zhang-jianlong-expelled-party-referred-prosecution-5f59c0",
       "title": "自然资源部和国家林草局党组拥护张建龙处分决定",
       "description": "国家林业和草原局党组10月20日召开会议，自然资源部党组近日也召开会议，分别通报中央纪委国家监委对张建龙作出的处分决定。",
@@ -1600,24 +1860,6 @@
         "澎湃新闻"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "songtao-meets-us-foreign-policy-delegation-c04533",
-      "title": "宋涛在北京会见美国外交政策全国委员会代表团",
-      "description": "10月20日，宋涛在北京会见由美国外交政策全国委员会会长苏珊·艾略特带领的代表团。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T14:44:05+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/songtao-meets-us-foreign-policy-delegation-c04533",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
@@ -1901,44 +2143,6 @@
       "sources": []
     },
     {
-      "id": "iran-tanker-hormuz-mine-blast-fire-5d6a19",
-      "title": "伊朗称两艘油轮在霍尔木兹海峡触雷起火",
-      "description": "伊朗伊斯兰革命卫队称，两艘油轮在霍尔木兹海峡南侧航行时触碰该组织海军布设的水雷，爆炸起火后被迫停航。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T13:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-17",
-      "url": "https://kaopu.news/story/2026-10-17/iran-tanker-hormuz-mine-blast-fire-5d6a19",
-      "reference": [
-        "联合早报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "china-central-bank-keeps-october-lpr-rates-eb6004",
-      "title": "央行公布10月LPR，两个期限利率连续17个月不变",
-      "description": "中国人民银行公布10月贷款市场报价利率（LPR）：1年期为3.00%，5年期以上为3.50%，均与上月持平。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T13:16:36.634497+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/china-central-bank-keeps-october-lpr-rates-eb6004",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "google-london-data-center-outage-hits-britain-e2ecaf",
       "title": "谷歌云伦敦故障波及英国银行及公共服务",
       "description": "Google Cloud伦敦区域europe-west2于10月20日发生服务中断，英国多家银行、金融企业及公共服务机构的网站和应用受到影响。",
@@ -1955,24 +2159,6 @@
       ],
       "section": "tech",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "china-a-shares-margin-balance-falls-5941ed",
-      "title": "A股两融余额近一个月减少逾1700亿元",
-      "description": "A股近一个月震荡调整，两融余额截至10月19日降至2.4825万亿元，较9月23日减少1724.66亿元；同期融资资金净流出1729.82亿元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T13:08:32.793141+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/china-a-shares-margin-balance-falls-5941ed",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2444,42 +2630,6 @@
       "sources": []
     },
     {
-      "id": "japan-provides-malaysia-navy-counter-drone-system-1e4212",
-      "title": "日本决定向马来西亚海军提供无人机应对系统",
-      "description": "日本决定通过“政府安全保障能力强化支援”（OSA）框架，向马来西亚海军提供无人航空器应对系统。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T11:12:27+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/japan-provides-malaysia-navy-counter-drone-system-1e4212",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-crypto-transfer-rules-take-effect-5bff04",
-      "title": "台湾金管会实施虚拟资产转账新规",
-      "description": "台湾金管会修订虚拟资产服务商相关规定，即日起在台湾平台实施转账规则新制，要求业者收集转出方和接收方的基本信息，并对部分大额转账核验更多资料。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T11:09:39+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/taiwan-crypto-transfer-rules-take-effect-5bff04",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-hr-ministry-proposes-platform-worker-rules-f8dab6",
       "title": "人社部拟以义务清单保障平台劳动者权益",
       "description": "人力资源和社会保障部10月8日公布《新就业形态劳动者权益保障办法（征求意见稿）》，拟通过明确平台企业责任和具体操作要求，加强新就业形态劳动者权益保障。",
@@ -2552,24 +2702,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "taiwan-banks-designated-contact-service-ee9da9",
-      "title": "台湾24家银行指定联系人服务累计12580人申请",
-      "description": "台湾金管会公布，已有24家银行提供指定联系人服务，在客户解除定期存款或汇出大额款项时通知其预先指定的联系人，累计12580人申请。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T10:11:43+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/taiwan-banks-designated-contact-service-ee9da9",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3180,24 +3312,6 @@
       "sources": []
     },
     {
-      "id": "china-crime-group-hacks-staples-gift-cards-6457fa",
-      "title": "据报中国团伙入侵Staples系统盗发礼卡",
-      "description": "据404 Media调查报道，中国有组织犯罪集团被指入侵Staples礼品卡系统，发出超过1.5万张、总面值逾500万美元的礼品卡，随后在美国多州零售商处消费，并将电子产品等商品运回中国。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T06:13:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/china-crime-group-hacks-staples-gift-cards-6457fa",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "kg-seeks-san-francisco-mall-data-center-permit-9d7070",
       "title": "据报KG替买家询问旧金山商场数据中心许可",
       "description": "《世界日报》援引《旧金山纪事报》取得的文件报道，KG Growth Partners今年6月向旧金山建筑检查局咨询数据中心许可，并称正协助一名有意购买市场街845号物业的买家，探讨将旧金山中心商场原Bloomingdale’s所在区域改造成AI数据中心及混合用途空间。",
@@ -3469,45 +3583,6 @@
       "sources": []
     },
     {
-      "id": "china-envoy-says-china-could-win-d092c0",
-      "title": "井泉会见拉萨罗就菲方涉华言论提出严正交涉",
-      "description": "中国驻菲律宾大使井泉10月19日会见菲律宾外长拉萨罗，针对菲律宾官员和政界人士近期涉华言论、海上争议及涉台动向向菲方提出严正交涉。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T03:20:54+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/china-envoy-says-china-could-win-d092c0",
-      "reference": [
-        "联合早报",
-        "法广",
-        "德国之声",
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 8,
-      "sources": []
-    },
-    {
-      "id": "us-china-investment-board-apec-talks-095e5a",
-      "title": "美中据报力争APEC前敲定投资委员会安排",
-      "description": "据《南华早报》独家报道，美国与中国正争取在11月深圳亚太经合组织（APEC）峰会前敲定投资委员会安排，并谈判延长贸易休战。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T02:45:05+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/us-china-investment-board-apec-talks-095e5a",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "feng-yuanzheng-criticizes-acting-exams-beauty-bias-6d7805",
       "title": "冯远征指出表演艺考选材趋于颜值同质化",
       "description": "北京人民艺术剧院院长冯远征近日指出，表演专业招生中考生身高和外形趋同，剧院如今难以从艺术院校招到适合《茶馆》黄胖子一类角色的演员。",
@@ -3540,24 +3615,6 @@
         "世界日报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "st-hengxin-mengnan-criminal-measures-six-subsidiaries-b489a5",
-      "title": "ST恒信称孟楠遭刑事强制措施六家子公司受重大影响",
-      "description": "ST恒信10月19日晚发布公告称，公司在10月16日晚从公安司法机关获悉，前董事长孟楠已被采取刑事强制措施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T00:39:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/st-hengxin-mengnan-criminal-measures-six-subsidiaries-b489a5",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
@@ -3887,24 +3944,6 @@
         "中央通訊社"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "anthropic-settles-korean-books-copyright-case-06a2bd",
-      "title": "Anthropic未经授权使用韩国文学作品训练后支付赔偿",
-      "description": "韩国国际广播电台报道，Anthropic未经授权将韩国作家的英文版著作用于Claude训练，相关版权诉讼于今年7月以支付赔偿金结案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T07:37:21+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/anthropic-settles-korean-books-copyright-case-06a2bd",
-      "reference": [
-        "韩国国际广播电台"
-      ],
-      "section": "ai",
       "sourceCount": 1,
       "sources": []
     },
