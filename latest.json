@@ -1,11 +1,70 @@
 {
   "details": {
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "timestamp": 1792538850,
     "totalPages": 1,
     "total": 259
   },
   "stories": [
+    {
+      "id": "liu-xing-bytedance-video-generation-computing-share-35dd25",
+      "title": "刘星称中文在线披露的AI算力数据不实",
+      "description": "字节跳动豆包公关负责人刘星10月19日在微博否认中文在线披露的中国AI Token消耗数据，并称字节总算力中约10%用于视频生成模型训练和推理。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T22:58:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/liu-xing-bytedance-video-generation-computing-share-35dd25",
+      "reference": [
+        "联合早报",
+        "第一财经",
+        "端传媒"
+      ],
+      "section": "ai",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "dhs-orders-federal-agencies-remove-deepseek-512c11",
+      "title": "美国下令联邦文职机构移除DeepSeek产品",
+      "description": "美国国土安全部10月19日发布措施，要求联邦文职机构停止采购DeepSeek产品和服务，并从现有信息技术系统中移除相关工具。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T22:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/dhs-orders-federal-agencies-remove-deepseek-512c11",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "朝鲜日报",
+        "财新"
+      ],
+      "section": "us",
+      "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "canada-us-deal-unlikely-before-midterms-3a259b",
+      "title": "消息人士称加美难在美国中期选举前达成协议",
+      "description": "据加拿大广播公司新闻部报道，三名消息人士称，加拿大政府官员近几周一直向行业团体表示，加美在11月3日美国中期选举前无法达成贸易协议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-20T22:37:37.767000+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/canada-us-deal-unlikely-before-midterms-3a259b",
+      "reference": [
+        "加拿大国际广播电台"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "kansas-man-arrested-trump-assassination-threat-a71f02",
       "title": "堪萨斯男子因威胁刺杀特朗普被捕起诉",
@@ -702,27 +761,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "dhs-orders-federal-agencies-remove-deepseek-512c11",
-      "title": "美国要求联邦文职机构移除DeepSeek相关产品",
-      "description": "美国国土安全部要求联邦文职机构停止采购DeepSeek开发的产品，并清理现有信息技术系统中的相关产品；禁令也涵盖第三方依据DeepSeek模型开发的工具和服务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T14:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/dhs-orders-federal-agencies-remove-deepseek-512c11",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "朝鲜日报",
-        "财新"
-      ],
-      "section": "us",
-      "sourceCount": 11,
       "sources": []
     },
     {
@@ -2073,27 +2111,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "france-student-protests-fuel-multicountry-clashes-0a77ba",
-      "title": "意大利拟派500名军人应对米兰示威骚乱",
-      "description": "米兰围绕生活成本上涨和低工资举行的示威在10月17日至18日连续两天演变为警民冲突，部分示威者向警方投掷物品、纵火并破坏、洗劫商店。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T09:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/france-student-protests-fuel-multicountry-clashes-0a77ba",
-      "reference": [
-        "公视",
-        "财新",
-        "纽约时报",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -3579,25 +3596,6 @@
         "联合早报"
       ],
       "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "liu-xing-bytedance-video-generation-computing-share-35dd25",
-      "title": "豆包刘星称中文在线算力用途数据不实",
-      "description": "字节跳动豆包公关负责人刘星10月19日在微博称，中文在线披露的中国AI Token用途数据不实。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T12:53:40.902243+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/liu-xing-bytedance-video-generation-computing-share-35dd25",
-      "reference": [
-        "联合早报",
-        "第一财经"
-      ],
-      "section": "ai",
       "sourceCount": 2,
       "sources": []
     },
