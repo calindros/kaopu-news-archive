@@ -1,11 +1,31 @@
 {
   "details": {
     "date": "2026-10-21",
-    "timestamp": 1792603474,
+    "timestamp": 1792618334,
     "totalPages": 1,
     "total": 266
   },
   "stories": [
+    {
+      "id": "japan-agency-urges-php-security-patch-8c669e",
+      "title": "PHP重大漏洞促使多国政府网站暂时下线",
+      "description": "PHP开发者披露两项严重安全漏洞，统称为“PHP2Shell”，并发布修复版本，呼吁网站运营者尽快更新。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T20:01:19.162000+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/japan-agency-urges-php-security-patch-8c669e",
+      "reference": [
+        "共同网",
+        "中央通訊社",
+        "加拿大国际广播电台"
+      ],
+      "section": "tech",
+      "sourceCount": 3,
+      "sources": []
+    },
     {
       "id": "us-prosecutors-allege-fraud-at-three-startups-77b7dc",
       "title": "美国检方指控三家新创公司及相关负责人涉诈骗",
@@ -76,25 +96,6 @@
       ],
       "section": "asia",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "japan-agency-urges-php-security-patch-8c669e",
-      "title": "PHP开发者发布两项重大漏洞修复版本",
-      "description": "PHP开发者此前披露两个重大安全漏洞，并于10月21日推出修复版本。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T16:17:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/japan-agency-urges-php-security-patch-8c669e",
-      "reference": [
-        "共同网",
-        "中央通訊社"
-      ],
-      "section": "tech",
-      "sourceCount": 2,
       "sources": []
     },
     {
