@@ -1,15 +1,223 @@
 {
   "details": {
     "date": "2026-10-21",
-    "timestamp": 1792567718,
+    "timestamp": 1792572100,
     "totalPages": 1,
-    "total": 261
+    "total": 262
   },
   "stories": [
     {
+      "id": "china-youth-unemployment-falls-18-percent-f9674c",
+      "title": "中国16至24岁青年失业率9月降至18%",
+      "description": "国家统计局10月21日公布的9月分年龄组城镇调查失业率显示，16—24岁不含在校学生劳动力失业率为18%，较8月下降0.9个百分点，但仍比上年同期高0.3个百分点。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T07:18:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/china-youth-unemployment-falls-18-percent-f9674c",
+      "reference": [
+        "联合早报",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "yunnan-firefighters-extinguish-muse-gas-station-fire-1b0ace",
+      "title": "云南德宏消防跨境扑灭缅甸木姐加油站火灾",
+      "description": "缅甸木姐地区一座储有大量汽油的加油站10月20日午间发生火灾。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T07:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/yunnan-firefighters-extinguish-muse-gas-station-fire-1b0ace",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-demands-data-centers-community-benefits-f4dee3",
+      "title": "特朗普要求数据中心企业向社区提供经济回报",
+      "description": "美国总统特朗普星期三（10月21日）要求数据中心企业向当地社区提供经济“红利”，并要求新建大型数据中心自行发电，将多余电力回馈或出售给社区或电网。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T07:03:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/trump-demands-data-centers-community-benefits-f4dee3",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ishiba-accuses-takaichi-history-dishonesty-c626e2",
+      "title": "石破茂批高市在历史问题上不诚实",
+      "description": "日本前首相石破茂近日在电视节目中批评首相高市早苗对历史问题不诚实。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T07:02:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/ishiba-accuses-takaichi-history-dishonesty-c626e2",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "witkoff-norway-peace-proposal-talks-6bf424",
+      "title": "威特科夫奥斯陆会谈后将赴俄转达和平构想",
+      "description": "美国总统特使史蒂夫·威特科夫10月20日在挪威奥斯陆与乌克兰总统泽连斯基及欧洲方面举行乌克兰问题会谈，讨论和平方案和安全保障。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T06:57:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
+      "reference": [
+        "法广",
+        "澎湃新闻",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "micron-taoyuan-union-strike-backs-taichung-8ce079",
+      "title": "台湾美光与台中工会签署劳资协议",
+      "description": "台湾美光记忆体与台中工会10月21日宣布，双方就多项劳资议题达成共识并签署协议，并同意撤回原定10月22日进行的调解。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T06:50:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/micron-taoyuan-union-strike-backs-taichung-8ce079",
+      "reference": [
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "arata-takebe-branch-contractor-donation-aac70b",
+      "title": "武部新支部被曝选举期间收取政府承包商捐款",
+      "description": "共同社报道称，由日本农相武部新担任代表的自民党北海道第12选区支部，在众院选举公告日从北海道纹别市一家海运公司收取30万日元捐款；该公司当时承接中央政府业务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T06:48:16+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/arata-takebe-branch-contractor-donation-aac70b",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "france-student-protests-fuel-multicountry-clashes-0a77ba",
+      "title": "梅洛尼拟推新安全法令应对米兰暴力示威",
+      "description": "意大利总理乔治娅·梅洛尼10月20日宣布推出一项新安全法令方案，以应对米兰周末发生的暴力示威。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T06:37:58+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/france-student-protests-fuel-multicountry-clashes-0a77ba",
+      "reference": [
+        "公视",
+        "财新",
+        "纽约时报",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "trump-vance-federal-fraud-whistleblower-reward-59e914",
+      "title": "特朗普与范斯推出2500万美元欺诈举报奖励计划",
+      "description": "美国总统特朗普与副总统JD范斯20日在白宫椭圆形办公室宣布联邦欺诈举报奖励计划（WHIP），设立2500万美元奖金池，鼓励公众举报联邦政府涉嫌欺诈和腐败的行为。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T06:37:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/trump-vance-federal-fraud-whistleblower-reward-59e914",
+      "reference": [
+        "世界日报",
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "sudan-military-drone-strike-abyei-fuel-fire-da2691",
+      "title": "苏丹军方无人机袭击阿贝燃料设施引发大火",
+      "description": "苏丹军方10月19日上午约11时对阿贝特别行政区阿米特市场附近的燃料设施发动无人机袭击，现场起火。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T06:31:23+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/sudan-military-drone-strike-abyei-fuel-fire-da2691",
+      "reference": [
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-banks-designated-contact-service-ee9da9",
+      "title": "台湾金管会公布指定联络人服务逾1.2万人申请",
+      "description": "台湾金管会公布，截至2026年9月底，已有24家银行提供指定联络人通知服务，累计超过1.2万人申请。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T06:30:20+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/taiwan-banks-designated-contact-service-ee9da9",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "brooklyn-senior-centers-searched-cb2ea6",
-      "title": "纽约州联邦执法机构突查多家成人日托中心",
-      "description": "纽约州及联邦执法机构10月20日在纽约市多个地点联合搜查成人日间照护中心，行动涉及布鲁克林、皇后区和史泰登岛。",
+      "title": "纽约州调查逾百家涉嫌欺诈的成人日托机构",
+      "description": "纽约州州长凯西·霍楚10月20日宣布，州府正与联邦及地方执法机构联合调查逾100家涉嫌欺诈、浪费或滥用社交型成人日间照护计划的业者。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -22,6 +230,135 @@
       ],
       "section": "us",
       "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "defense-officials-help-states-counter-trump-election-b86c80",
+      "title": "华邮称约十名国防官员助各州防范特朗普政府介选",
+      "description": "约十名美国国防部现任和前任官员近几个月私下向多个州政府和国会议员提供应对建议，协助他们防范特朗普政府可能介入中期选举；《华盛顿邮报》援引知情人士披露了这一情况。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T06:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/defense-officials-help-states-counter-trump-election-b86c80",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-revokes-300000-visas-record-719fac",
+      "title": "特朗普政府第二任期撤销逾30万份签证",
+      "description": "美国国务院称，特朗普政府自2025年1月开启第二任期以来，撤销的美国签证总数已超过30万份。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T06:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/trump-revokes-300000-visas-record-719fac",
+      "reference": [
+        "世界日报",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "accenture-hong-kong-ai-three-percent-80ca72",
+      "title": "埃森哲报告显示仅3%香港企业将AI纳入运营战略",
+      "description": "埃森哲于10月21日发布《2026香港AI指数——成就企业AI优势》。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/accenture-hong-kong-ai-three-percent-80ca72",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "new-york-asylum-approval-rate-drops-033543",
+      "title": "纽约市移民法庭庇护批准率降至4.6%",
+      "description": "AsylumTracker汇总的美国移民法庭记录显示，截至2026财年9月1日，纽约市庇护批准率降至4.6%，低于2024财年的26%和2025财年的15.4%；同期纽约市共有32,528件获批或被拒的裁决。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T06:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/new-york-asylum-approval-rate-drops-033543",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "li-gao-outlines-china-climate-plans-71b03d",
+      "title": "李高呼吁COP31关注贸易保护主义冲击",
+      "description": "中国生态环境部副部长李高10月21日上午在国新办新闻发布会上介绍中国应对气候变化、参与全球气候治理的进展，并阐述中方对COP31的主张。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T06:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/li-gao-outlines-china-climate-plans-71b03d",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "hu-yuting-oversees-songyuan-greenhouse-revival-97ffa3",
+      "title": "胡玉亭赴松原督导闲置大棚盘活工作",
+      "description": "10月20日，吉林省委副书记、省长胡玉亭赴松原市宁江区和干安县督导低效闲置设施农业大棚盘活工作，要求逐户逐棚制定经营改造方案、恢复棚室功能，维护农民利益并避免土地闲置浪费。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T06:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/hu-yuting-oversees-songyuan-greenhouse-revival-97ffa3",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-immigration-revokes-ntu-student-permit-deportation-eee68e",
+      "title": "国台办批评台湾驱逐台大大陆交换生",
+      "description": "中国大陆国台办发言人张晗10月21日批评台湾撤销一名台湾大学王姓中国大陆交换生的入境许可并将其驱逐出境。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T06:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/taiwan-immigration-revokes-ntu-student-permit-deportation-eee68e",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
       "sources": []
     },
     {
@@ -42,6 +379,42 @@
       ],
       "section": "life",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "zhejiang-launches-typhoon-response-452b7a",
+      "title": "浙江启动三级防台响应应对超强台风蔷琵",
+      "description": "超强台风“蔷琵”逼近中国沿海，浙江海事局于10月21日8时启动三级防台应急响应。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T06:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/zhejiang-launches-typhoon-response-452b7a",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "kuomintang-releases-second-nuclear-referendum-video-3131e4",
+      "title": "国民党发布第三波废除非核家园公投宣传视频",
+      "description": "中国国民党公布第三波废除非核家园公投宣传视频，呼吁民众在11月28日投下同意票。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T06:17:28+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/kuomintang-releases-second-nuclear-referendum-video-3131e4",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -81,6 +454,24 @@
       "sources": []
     },
     {
+      "id": "japan-october-temperatures-exceed-30c-58f46a",
+      "title": "日本多地10月气温升至30度以上",
+      "description": "日本东部至西部多地受暖空气影响，10月21日气温升至30摄氏度以上，出现罕见高温。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T06:15:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/japan-october-temperatures-exceed-30c-58f46a",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "ice-pursuit-san-francisco-council-legal-aid-d17e66",
       "title": "旧金山市议员集会要求增加移民法律援助",
       "description": "美国移民暨海关执法局（ICE）探员10月19日在旧金山SoMa区拘留一名男子。",
@@ -96,6 +487,24 @@
       ],
       "section": "us",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "instacart-settles-hiring-discrimination-case-186ab1",
+      "title": "Instacart涉招聘歧视和解同意支付最高500万美元",
+      "description": "美国和加拿大食品配送平台Instacart于10月20日与美国司法部、美国平等就业机会委员会（EEOC）达成和解，处理其在招聘中被指歧视美国劳工一事。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T06:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/instacart-settles-hiring-discrimination-case-186ab1",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -119,6 +528,24 @@
       "sources": []
     },
     {
+      "id": "fernandez-proposes-ice-citizen-compensation-bill-e311c0",
+      "title": "费尔南德斯提案为ICE错拘公民设求偿机制",
+      "description": "新墨西哥州民主党联邦众议员特雷莎·莱格尔·费尔南德斯于10月15日提出《遭ICE错误拘留公民司法保障法案》，拟为遭移民执法人员错误逮捕或拘留的美国公民建立向联邦政府求偿的途径。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T06:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/fernandez-proposes-ice-citizen-compensation-bill-e311c0",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "qi-li-sentenced-eight-months-jail-assault-threats-6ba6f8",
       "title": "圣马刁县检方撤销徐洁指控并放弃重审李琦",
       "description": "据《世界日报》援引《旧金山纪事报》报道，圣马刁县检方本周撤销对徐洁的指控，并决定不再就李琦面临的其他重罪指控寻求重审。",
@@ -134,6 +561,24 @@
       ],
       "section": "us",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "stanford-transplants-human-brain-tissue-into-mice-c7b4b4",
+      "title": "斯坦福团队移植人脑组织并连通小鼠神经系统",
+      "description": "斯坦福大学研究团队把实验室培育的人类脑组织移植进经过特殊基因改造的小鼠体内。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T06:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/stanford-transplants-human-brain-tissue-into-mice-c7b4b4",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -173,6 +618,24 @@
       "sources": []
     },
     {
+      "id": "long-beach-former-city-worker-injured-arrested-fe25a8",
+      "title": "前长堤市员工骑自行车遭ICE探员压制受伤",
+      "description": "2026年10月17日，南加州长堤市一名前市府员工Ricardo Gonzalez在骑电动自行车时，与美国移民及海关执法局（ICE）探员发生冲突，被压制在地并戴上手铐，过程中手臂受伤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/long-beach-former-city-worker-injured-arrested-fe25a8",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "uc-freshmen-basic-math-failure-rate-doubles-7811f1",
       "title": "加州大学新生数学不及格率五年近翻倍",
       "description": "加州大学系统2025至2026学年新生入门数学课程未通过率升至17.8%，较五年前的9.2%接近翻倍。",
@@ -188,6 +651,24 @@
       ],
       "section": "life",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "north-korea-rice-imports-top-three-million-005452",
+      "title": "北韩9月大米进口额今年首次突破300万美元",
+      "description": "北韩9月从中国进口精米约7064吨，价值约362万美元，单月进口额今年首次超过300万美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T05:56:35+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/north-korea-rice-imports-top-three-million-005452",
+      "reference": [
+        "韩国国际广播电台"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -247,6 +728,26 @@
       "sources": []
     },
     {
+      "id": "us-army-china-guide-first-day-combat-e9e740",
+      "title": "美国陆军新指南提出台海冲突首日投入作战",
+      "description": "美国陆军公布《陆军如何作战》指南，提出台海冲突发生时，区域内美军应在首日投入作战。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T05:41:52+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/us-army-china-guide-first-day-combat-e9e740",
+      "reference": [
+        "朝鲜日报",
+        "世界日报",
+        "中央通訊社"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
       "id": "china-resident-income-growth-accelerates-cee561",
       "title": "前三季度全国居民收入实际增长4.4%",
       "description": "国家统计局公布的2026年前三季度数据显示，全国居民人均可支配收入为34230元，名义同比增长5.3%，扣除价格因素后实际增长4.4%。",
@@ -287,24 +788,39 @@
       "sources": []
     },
     {
-      "id": "france-student-protests-fuel-multicountry-clashes-0a77ba",
-      "title": "意大利多地示威升级米兰连续两日爆发冲突",
-      "description": "意大利多地因生活成本上涨发生示威，米兰10月17日至18日连续两天出现警民冲突，并发生商店遭洗劫等暴力事件。",
+      "id": "switzerland-sends-delegation-pyongyang-political-office-c822bf",
+      "title": "据报瑞士派团赴平壤筹设政治办事处",
+      "description": "据韩国国际广播电台援引专门报道北韩消息的美国媒体NK News报道，瑞士近日派代表团前往平壤，为设立首个负责政治事务的办事处做准备。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-21T05:37:00+00:00",
+      "updatedAt": "2026-10-21T05:32:54+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/france-student-protests-fuel-multicountry-clashes-0a77ba",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/switzerland-sends-delegation-pyongyang-political-office-c822bf",
       "reference": [
-        "公视",
-        "财新",
-        "纽约时报",
-        "联合早报"
+        "韩国国际广播电台"
       ],
       "section": "world",
-      "sourceCount": 5,
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "south-korea-nonregular-worker-share-record-685ea7",
+      "title": "韩国非正式员工占比创统计以来新高",
+      "description": "韩国国家数据处10月21日公布的2026年8月工作类型附加调查显示，韩国2252.6万名工薪劳动者中，867万人是非正式员工，占38.5%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T05:32:49+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/south-korea-nonregular-worker-share-record-685ea7",
+      "reference": [
+        "韩国国际广播电台"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -578,24 +1094,6 @@
       "sources": []
     },
     {
-      "id": "li-gao-outlines-china-climate-plans-71b03d",
-      "title": "中国规划形成3000万吨非二氧化碳减排能力",
-      "description": "中国生态环境部副部长李高10月21日上午在国务院新闻办公室举行的发布会上说，“十五五”规划纲要已将非二氧化碳温室气体减排列为重大工程，目标是通过工程实施形成3000万吨二氧化碳当量的减排能力。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T05:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/li-gao-outlines-china-climate-plans-71b03d",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "china-approves-auditory-brainstem-implant-0e24b5",
       "title": "中国首个听觉脑干植入体获批注册",
       "description": "中国国家药品监督管理局于10月20日批准首款“听觉脑干植入体”的创新产品注册申请。",
@@ -830,27 +1328,6 @@
       "sources": []
     },
     {
-      "id": "witkoff-norway-peace-proposal-talks-6bf424",
-      "title": "美官员称泽连斯基与美欧代表奥斯陆会谈取得实质进展",
-      "description": "乌克兰总统泽连斯基、美国总统特使史蒂夫·威特科夫及欧洲方面代表10月20日在挪威首都奥斯陆举行乌克兰问题会谈，讨论拟提交俄罗斯讨论的和平方案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T03:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
-      "reference": [
-        "法广",
-        "澎湃新闻",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "uk-high-court-allows-chinese-victims-appeal-8ddc81",
       "title": "英国高院准中国受害者就比特币适用中国法裁决上诉",
       "description": "英国高等法院10月16日举行听证，批准参与追索的中国受害者就钱志敏案逾6万枚比特币财产权争议提出上诉。",
@@ -866,25 +1343,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-immigration-revokes-ntu-student-permit-deportation-eee68e",
-      "title": "台湾驱逐发布赖清德捏头视频的大陆交换生",
-      "description": "台湾移民署10月16日撤销一名台湾大学王姓中国大陆交换生的入境许可并将其驱逐出境。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T03:42:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/taiwan-immigration-revokes-ntu-student-permit-deportation-eee68e",
-      "reference": [
-        "中央通訊社",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1090,25 +1548,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-army-china-guide-first-day-combat-e9e740",
-      "title": "美国陆军新准则要求印太前沿部队首日投入作战",
-      "description": "美国陆军10月19日公开新作战准则《美国陆军作战方式》，提出将兵力、远程打击能力和补给前推至印太第一岛链，使前沿部队在冲突首日即可投入行动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T02:59:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/us-army-china-guide-first-day-combat-e9e740",
-      "reference": [
-        "朝鲜日报",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1320,25 +1759,6 @@
       "sources": []
     },
     {
-      "id": "trump-revokes-300000-visas-record-719fac",
-      "title": "特朗普政府第二任期已吊销逾30万份签证",
-      "description": "美国国务院表示，特朗普政府自2025年1月开启第二任期以来，已吊销超过30万份美国签证。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T02:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/trump-revokes-300000-visas-record-719fac",
-      "reference": [
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "creditease-former-advisers-told-return-commissions-180789",
       "title": "宜信前理财顾问据报被要求退还百万级佣金",
       "description": "第一财经报道，部分已离开宜信的理财顾问近日收到退还既往佣金的短信。",
@@ -1351,24 +1771,6 @@
       "url": "https://kaopu.news/story/2026-10-21/creditease-former-advisers-told-return-commissions-180789",
       "reference": [
         "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-youth-unemployment-falls-18-percent-f9674c",
-      "title": "中国青年失业率9月回落至18%",
-      "description": "中国国家统计局10月21日公布，2026年9月城镇16至24岁、不含在校生的劳动力失业率为18%，比8月低0.9个百分点，但较上年同期高0.3个百分点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T02:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/china-youth-unemployment-falls-18-percent-f9674c",
-      "reference": [
-        "联合早报"
       ],
       "section": "business",
       "sourceCount": 1,
@@ -1555,25 +1957,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "micron-taoyuan-union-strike-backs-taichung-8ce079",
-      "title": "美光桃园工会将于10月22日举行一天警告性罢工",
-      "description": "台湾美光晶圆科技企业工会（桃园工会）定于10月22日举行一天警告性罢工，声援正与资方协商分红制度的台中工会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T01:42:49+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/micron-taoyuan-union-strike-backs-taichung-8ce079",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -2049,24 +2432,6 @@
       "sources": []
     },
     {
-      "id": "ilboc-manager-base-oil-tanks-sellout-8fe281",
-      "title": "iLBOC厂长称相当于16座储罐的基础油两周可售罄",
-      "description": "东亚日报在西班牙卡塔赫纳采访报道，SK Enmove旗下iLBOC工厂正成为欧洲润滑油基础油的重要供应商。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T23:54:37+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/ilboc-manager-base-oil-tanks-sellout-8fe281",
-      "reference": [
-        "东亚日报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "rosemead-woman-charged-fatal-crash-porn-site-0df516",
       "title": "罗斯密女子涉驾车浏览色情网站致乘客死亡",
       "description": "据《世界日报》援引KTVX盐湖城电视台报道，南加州罗斯密市44岁女子赵克莉丝汀（Christine Chao）被朱阿布县检方指控驾车时使用手机浏览色情网站，追撞前车并造成一名乘客死亡，面临使用手持电子装置导致车祸致死等二级重罪指控。",
@@ -2156,24 +2521,6 @@
         "联合早报"
       ],
       "section": "business",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "lawrence-wong-qatar-uae-visit-fff902",
-      "title": "黄循财访卡塔尔阿联酋推动深化双边合作",
-      "description": "新加坡总理黄循财10月18日至22日访问卡塔尔和阿联酋，这是他首次以总理身份访问中东，卡塔尔是首站，阿联酋是第二站。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T23:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-17",
-      "url": "https://kaopu.news/story/2026-10-17/lawrence-wong-qatar-uae-visit-fff902",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
       "sourceCount": 5,
       "sources": []
     },
@@ -2325,24 +2672,6 @@
       "sources": []
     },
     {
-      "id": "government-funds-care-worker-pay-rise-5bf179",
-      "title": "政府投入6.3亿澳元提高护理人员薪资",
-      "description": "政府决定投入6.3亿澳元，用于提高护理人员薪资。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T21:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/government-funds-care-worker-pay-rise-5bf179",
-      "reference": [
-        "SBS"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "new-york-insurance-fraud-arrests-6e86b3",
       "title": "纽约州逮捕16名涉嫌制造车祸骗保者",
       "description": "纽约州州警与州金融服务厅联合调查汽车保险欺诈，已在全州8个郡逮捕16人。",
@@ -2400,27 +2729,6 @@
       "sources": []
     },
     {
-      "id": "putin-proposes-trump-xi-ukraine-war-talks-c341cb",
-      "title": "特朗普表示愿在深圳与中俄领导人会谈",
-      "description": "据《华尔街日报》报道，俄罗斯总统普京提出在深圳亚太经合组织（APEC）会议期间，与美国总统特朗普、中国国家主席习近平举行三方会谈。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T21:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/putin-proposes-trump-xi-ukraine-war-talks-c341cb",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "德国之声",
-        "财新"
-      ],
-      "section": "world",
-      "sourceCount": 15,
-      "sources": []
-    },
-    {
       "id": "joy-luk-earns-ontario-lawyer-licence-470ce4",
       "title": "香港视障律师陆耀辉获安省执业资格",
       "description": "来自香港的视障律师陆耀辉于2026年10月19日正式取得加拿大安大略省律师资格，并与210多名新律师一同宣誓。",
@@ -2475,42 +2783,6 @@
       "sources": []
     },
     {
-      "id": "long-beach-former-city-worker-injured-arrested-fe25a8",
-      "title": "长堤前市府员工遭ICE压制受伤被捕",
-      "description": "据《世界日报》报道，10月17日，南加州长堤市前市府员工Ricardo Gonzalez骑电动自行车时遭移民暨海关执法局（ICE）探员拦截，随后被按倒、戴上手铐并受伤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T18:26:50+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/long-beach-former-city-worker-injured-arrested-fe25a8",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "new-york-asylum-approval-rate-drops-033543",
-      "title": "纽约移民法庭庇护批准率降至4.6%",
-      "description": "纽约市移民法庭庇护案件批准率从2024财年的26%降至2025财年的15.4%，到2026财年至9月1日进一步降为4.6%；全美移民法庭同期的批准率为3%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T17:02:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/new-york-asylum-approval-rate-drops-033543",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "us-warship-enters-sabina-shoal-waters-f9ac57",
       "title": "美军濒海战斗舰驶入仙宾礁附近海域",
       "description": "美国海军“查尔斯顿”号濒海战斗舰于10月20日凌晨驶入南沙群岛仙宾礁（菲律宾称萨比纳礁）附近海域。",
@@ -2548,24 +2820,6 @@
       "sources": []
     },
     {
-      "id": "indonesia-protests-fire-corruption-response-47526e",
-      "title": "印尼多地抗议批评政府应对林火和贪腐迟缓",
-      "description": "普拉博沃执政两周年之际，印尼多地出现学生团体和人权组织抗议，矛头指向政府应对林火与贪腐不力、行动迟缓。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T14:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/indonesia-protests-fire-corruption-response-47526e",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "singapore-launches-n95-mask-distribution-706f81",
       "title": "新加坡傅海燕称口罩供应充足呼吁按需购买",
       "description": "新加坡烟霾期间防护口罩需求上升，永续发展与环境部长傅海燕表示，零售商和政府的口罩储备充足，商家正在补货，并呼吁公众按实际需要购买。",
@@ -2584,25 +2838,6 @@
       "sources": []
     },
     {
-      "id": "malaysia-foreigners-commercial-crime-arrests-rise-0ea520",
-      "title": "马来西亚警方五个月逮捕1462名涉商业罪案外籍人士",
-      "description": "马来西亚警方在2026年前五个月逮捕1462名涉嫌商业罪案（包括网络诈骗）的外籍人士。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T14:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/malaysia-foreigners-commercial-crime-arrests-rise-0ea520",
-      "reference": [
-        "当今大马",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "singapore-air-purifier-shortage-china-shopping-1403ab",
       "title": "新加坡净化器涨价缺货促消费者转向中国网购",
       "description": "烟霾推高新加坡空气净化器需求，部分零售商出现缺货和涨价，消费者转向中国电商平台购买并直运新加坡。",
@@ -2618,45 +2853,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "penang-high-end-copper-foil-plant-83fb9f",
-      "title": "金居拟投百亿元在槟城建高阶铜箔厂",
-      "description": "铜箔企业金居董事长李思贤10月20日表示，公司计划在马来西亚槟城设立新厂，初步估算总投资为新台币80亿至100亿元，年产能规划为3万吨，主要生产HVLP4等高阶铜箔。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T13:45:34+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/penang-high-end-copper-foil-plant-83fb9f",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "kim-yo-jong-north-korea-border-tactical-weapons-072e7d",
-      "title": "韩国国防部警告朝鲜挑衅将遭坚决反制",
-      "description": "朝鲜劳动党总务部长金与正10月19日表示，朝方正在考虑加强韩朝边境的战术打击力量部署，并恢复对韩国的扩音器广播。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T13:39:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/kim-yo-jong-north-korea-border-tactical-weapons-072e7d",
-      "reference": [
-        "联合早报",
-        "韩国国际广播电台",
-        "朝鲜日报",
-        "韩民族日报"
-      ],
-      "section": "asia",
-      "sourceCount": 9,
       "sources": []
     },
     {
@@ -3437,79 +3633,6 @@
       "sources": []
     },
     {
-      "id": "nyc-lithium-battery-fires-rise-41-percent-f26cdc",
-      "title": "纽约市前三季度锂电池火灾增加41%",
-      "description": "纽约市消防局数据显示，2026年前三季度锂电池火灾明显增多。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T06:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/nyc-lithium-battery-fires-rise-41-percent-f26cdc",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "state-department-revokes-700-chinese-visas-249d25",
-      "title": "美国国务院据报两月吊销逾700件中国公民持有的美国签证",
-      "description": "美国国务院在防范生育旅游特别工作组成立仅两个月时，已吊销700多件中国公民持有的美国签证。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T06:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/state-department-revokes-700-chinese-visas-249d25",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "gallup-poll-democrats-lead-trust-issues-a641e7",
-      "title": "盖洛普民调显示民主党重要议题信任度领先11个百分点",
-      "description": "盖洛普最新民调显示，44%的受访者更信任民主党处理自己最关心的议题，选择共和党的占33%，民主党领先11个百分点；另有23%认为两党差别不大、倾向其他政党或没有意见。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T06:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/gallup-poll-democrats-lead-trust-issues-a641e7",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "white-house-turmoil-hurts-republican-midterms-3febbe",
-      "title": "Axios称格雷内尔被指以资金换取接近特朗普",
-      "description": "白宫法律顾问办公室正在调查特朗普顾问里克·格雷内尔是否以资金换取土耳其富商图尔汗·米尔登接近总统及政府高层的机会，并核查原拟捐给肯尼迪中心的数百万美元是否遭挪用。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T06:23:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/white-house-turmoil-hurts-republican-midterms-3febbe",
-      "reference": [
-        "纽约时报",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "chinese-migration-bayview-portola-enclave-789a85",
       "title": "华人迁入推动旧金山湾景波托拉形成新聚居区",
       "description": "据《世界日报》报道，旧金山东南部的湾景—猎人角和波托拉正形成新的华人聚居区，华人家庭迁入之际，部分长期居住的黑人居民选择离开。",
@@ -3637,24 +3760,6 @@
       "sources": []
     },
     {
-      "id": "singapore-china-embassy-demands-restaurant-clarification-b88a99",
-      "title": "中国驻新加坡使馆要求牛车水餐厅澄清花篮来源",
-      "description": "中国驻新加坡大使馆10月20日表示，牛车水一家餐厅开业时摆放了署有使馆名义的祝贺花篮。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T05:46:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/singapore-china-embassy-demands-restaurant-clarification-b88a99",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "south-korea-navy-advances-nuclear-powered-submarines-0c7228",
       "title": "韩国海军推进核动力潜艇建设项目",
       "description": "韩国海军在国会国防委员会对海军本部和海军陆战队司令部举行的国政监查中表示，将推进核动力潜艇和有人与无人协同航母项目，并发展以人工智能和先进技术为基础的海军力量。",
@@ -3669,42 +3774,6 @@
         "韩国国际广播电台"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-ministry-seeks-comments-auto-data-standard-ac992d",
-      "title": "工信部就汽车数据安全强制国标公开征求意见",
-      "description": "工业和信息化部公开征求《汽车数据安全要求》强制性国家标准意见。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T05:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/china-ministry-seeks-comments-auto-data-standard-ac992d",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "hainan-aircraft-repair-foreign-jets-top-100-19d5dc",
-      "title": "海南飞机维修基地国际送修量今年将超百架次",
-      "description": "海南自贸港一站式飞机维修产业基地的国际送修业务不断增加，基地方面预计，2026年进境飞机维修量将超过100架次。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T05:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/hainan-aircraft-repair-foreign-jets-top-100-19d5dc",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -3944,24 +4013,6 @@
       "sources": []
     },
     {
-      "id": "pan-gongsheng-outlines-ai-financial-policy-response-11d3e7",
-      "title": "潘功胜阐述人工智能影响及金融政策应对",
-      "description": "中国人民银行行长潘功胜10月19日在2026金融街论坛年会开幕式上发言，首次在公开场合系统说明他对人工智能影响及金融政策应对的思考。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T12:51:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/pan-gongsheng-outlines-ai-financial-policy-response-11d3e7",
-      "reference": [
-        "财新"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "south-africa-rare-earth-refining-production-69717b",
       "title": "南非稀土精炼技术在矿场进入量产",
       "description": "南非国家矿物研究机构Mintek研发的第一阶段稀土精炼技术，已在史丁坎普斯寇尔独居石矿场（SMM）的第一阶段冶炼厂投入量产。",
@@ -3977,26 +4028,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-nine-departments-issue-tech-commerce-plan-8650e7",
-      "title": "商务部等九部门发布意见推动科技融入商贸全链条",
-      "description": "商务部等9部门于10月19日联合发布《关于加快推进科技兴商的意见》，提出18项举措，推动科技创新融入商贸各环节，促进商品消费提质、服务消费扩容和流通效率提升。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T11:59:49.341044+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/china-nine-departments-issue-tech-commerce-plan-8650e7",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -4179,27 +4210,6 @@
       ],
       "section": "culture",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "changxin-forecasts-131-billion-yuan-profit-47aea1",
-      "title": "长鑫科技早盘跌逾6%市值退居A股第三",
-      "description": "长鑫科技股价10月19日早盘下跌，截至上午10时40分跌6.31%，总市值降至2.87万亿元，较前一交易日减少1927亿元，在A股市值排名由第一降至第三。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T03:01:37.928645+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/changxin-forecasts-131-billion-yuan-profit-47aea1",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "联合早报",
-        "朝鲜日报"
-      ],
-      "section": "business",
-      "sourceCount": 7,
       "sources": []
     },
     {
