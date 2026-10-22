@@ -8,12 +8,12 @@
   "stories": [
     {
       "id": "japan-agency-urges-php-security-patch-8c669e",
-      "title": "PHP严重漏洞致多国机构暂时关闭网站",
-      "description": "PHP开发团队发布两项严重安全漏洞的修复程序后，多国政府机构和企业升级系统或暂时关闭部分线上服务。",
+      "title": "PHP团队发布补丁修复两项严重漏洞",
+      "description": "PHP安全团队10月21日发布更新，修复两个严重安全漏洞，并敦促用户尽快升级。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-22T02:07:24+00:00",
+      "updatedAt": "2026-10-22T03:19:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-21",
       "url": "https://kaopu.news/story/2026-10-21/japan-agency-urges-php-security-patch-8c669e",
@@ -24,17 +24,56 @@
         "第一财经"
       ],
       "section": "tech",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "fox-poll-trump-approval-hits-record-low-f57a45",
+      "title": "纽约时报民调显示特朗普支持率创该项调查新低",
+      "description": "《纽约时报》与锡耶纳学院的全国民调显示，特朗普的执政表现认可度降至该项调查开展以来的最低水平。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T03:07:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/fox-poll-trump-approval-hits-record-low-f57a45",
+      "reference": [
+        "财新",
+        "世界日报",
+        "东亚日报",
+        "联合早报"
+      ],
+      "section": "us",
       "sourceCount": 8,
       "sources": []
     },
     {
-      "id": "kim-yo-jong-north-korea-border-tactical-weapons-072e7d",
-      "title": "金与正称朝鲜边境新应对手段将进入待命状态",
-      "description": "金与正表示，朝鲜新的边境应对手段将在全线进入任务待命状态，对韩扩音器广播将在数日内完成运行准备，朝方计划于10月底前启用。",
+      "id": "visitor-visa-changes-hinder-parent-reunions-3fd9c2",
+      "title": "SBS称访客签证变更恐令父母团聚更难",
+      "description": "目前，超过15万份父母签证申请仍在积压。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-22T02:02:49+00:00",
+      "updatedAt": "2026-10-22T03:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/visitor-visa-changes-hinder-parent-reunions-3fd9c2",
+      "reference": [
+        "SBS"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "kim-yo-jong-north-korea-border-tactical-weapons-072e7d",
+      "title": "金与正称朝鲜月底前启用对韩扩音器",
+      "description": "朝鲜劳动党中央委员会部长金与正表示，朝鲜计划在10月底前沿朝韩边境全线启动对韩扩音器广播。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T02:59:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-19",
       "url": "https://kaopu.news/story/2026-10-19/kim-yo-jong-north-korea-border-tactical-weapons-072e7d",
@@ -45,7 +84,212 @@
         "韩民族日报"
       ],
       "section": "asia",
-      "sourceCount": 16,
+      "sourceCount": 18,
+      "sources": []
+    },
+    {
+      "id": "registrar-revokes-pn-registration-769ecb",
+      "title": "马来西亚高庭聆审国盟注册撤销挑战案",
+      "description": "吉隆坡高庭于10月22日上午聆审国民联盟（国盟）对撤销注册决定提出的法律挑战。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T02:57:07+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/registrar-revokes-pn-registration-769ecb",
+      "reference": [
+        "当今大马",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "anwar-urges-switch-tuju-waze-data-risk-c1e0d1",
+      "title": "马来西亚政府禁止公务员使用Waze",
+      "description": "马来西亚联邦政府要求公务员停用导航应用Waze，并推荐由马来西亚大道局开发的TuJu作为替代。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T02:55:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/anwar-urges-switch-tuju-waze-data-risk-c1e0d1",
+      "reference": [
+        "当今大马",
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "chip-hiring-growth-talent-mismatch-072e32",
+      "title": "芯片行业招聘增长凸显人才供需错位",
+      "description": "芯片行业今年招聘岗位和薪酬均有所上升，但企业对有经验、能承担工程任务的人才需求突出，毕业生求职竞争也在加大。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T02:47:50.834191+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/chip-hiring-growth-talent-mismatch-072e32",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "anthropic-launches-claude-duet-agent-09e964",
+      "title": "Anthropic推出Claude Duet智能体",
+      "description": "当地时间10月21日，Anthropic推出个人智能体应用Claude Duet，并向美国Claude Pro和Claude Max订阅用户开放研究预览候补申请。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T02:46:45.598467+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/anthropic-launches-claude-duet-agent-09e964",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "witkoff-norway-peace-proposal-talks-6bf424",
+      "title": "俄方原则同意11月中旬重启俄美乌三方会谈",
+      "description": "俄罗斯总统普京10月21日在圣彼得堡会见美国总统特使史蒂夫·威特科夫，会谈持续近三小时。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T02:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
+      "reference": [
+        "法广",
+        "澎湃新闻",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 22,
+      "sources": []
+    },
+    {
+      "id": "hong-kong-media-receive-powder-threat-letters-3bb88e",
+      "title": "香港两家网媒收到英国寄来的白色粉末恐吓信",
+      "description": "香港网媒“01”和“点新闻”10月21日同时收到从英国寄来的可疑信件，信中有白色粉末。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T02:23:12+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/hong-kong-media-receive-powder-threat-letters-3bb88e",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "sap-q3-revenue-tops-10-billion-euros-b99938",
+      "title": "思爱普第三季度营收首破百亿欧元",
+      "description": "思爱普公布第三季度业绩，营收首次超过100亿欧元，并将2026年总营收展望上调至原预测区间高端，订阅营收则预计落在原预测区间高端。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T02:13:01+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/sap-q3-revenue-tops-10-billion-euros-b99938",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-eight-agencies-issue-industrial-base-plan-17fe90",
+      "title": "工信部等八部门印发产业基础能力提升“十五五”规划",
+      "description": "工业和信息化部等八部门近日印发《产业基础能力提升“十五五”规划》，提出到2030年改善产业基础薄弱状况，全面提升技术创新、自主可控及优质产品供给能力，并提高基础产品质量。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T02:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/china-eight-agencies-issue-industrial-base-plan-17fe90",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "samsung-uses-tsmc-3nm-nvidia-hbm-base-die-fcad46",
+      "title": "韩媒称三星接受英伟达定制HBM方案",
+      "description": "三星据报已接受英伟达为下一代定制高带宽内存（NVHBM）提出的统一制造方案：英伟达要求三星、SK海力士和美光采用第六代DRAM技术生产核心裸片，基底裸片则使用台积电3纳米制程。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T02:12:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-18",
+      "url": "https://kaopu.news/story/2026-10-18/samsung-uses-tsmc-3nm-nvidia-hbm-base-die-fcad46",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "第一财经"
+      ],
+      "section": "tech",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "ebay-announces-1000-job-cuts-ed2aa5",
+      "title": "eBay宣布再裁员约1000人占全球员工总数9%",
+      "description": "eBay已告知员工计划再裁减约1000人，约占全球员工总数的9%；法新社援引公司发言人声明称，相关通知于10月21日发出。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T02:11:55+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/ebay-announces-1000-job-cuts-ed2aa5",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "washington-post-pentagon-economic-intelligence-plan-8500cf",
+      "title": "华盛顿邮报称五角大楼拟建经济战卧底情报计划",
+      "description": "据《华盛顿邮报》独家报道，美国国防部正在筹划一项深度卧底情报计划，拟派非官方掩护官员以商人或其他民间人士身份活动，避免显露政府背景，为针对中国等对手的经济战搜集情报。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T02:10:30+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/washington-post-pentagon-economic-intelligence-plan-8500cf",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -245,6 +489,26 @@
       "sources": []
     },
     {
+      "id": "micron-taoyuan-union-strike-backs-taichung-8ce079",
+      "title": "美光桃园工会11名干部展开一天罢工",
+      "description": "美光桃园工会11名干部已于10月22日上午9时开始罢工，行动计划持续至23日上午9时。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T01:23:35+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/micron-taoyuan-union-strike-backs-taichung-8ce079",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
       "id": "stray-dogs-trained-as-support-dogs-063a9a",
       "title": "心辅犬团队训练流浪犬为学员提供情绪支持",
       "description": "心辅犬团队将收容所流浪犬训练成心理辅助犬，带入大学课程和心理咨询，为有情绪障碍者、残障人士及老年人提供支持。",
@@ -281,6 +545,25 @@
       "sources": []
     },
     {
+      "id": "meta-third-quarter-revenue-rises-26-percent-127637",
+      "title": "Meta三季度营收超预期增长26%",
+      "description": "Meta于当地时间10月21日公布2026财年第三财季业绩，营收为646.01亿美元，同比增长26%，高于市场预期的约634亿美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T01:14:28+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/meta-third-quarter-revenue-rises-26-percent-127637",
+      "reference": [
+        "中央通訊社",
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
       "id": "zheng-weishan-exits-galaxy-fund-roles-f6a62e",
       "title": "郑巍山卸任银河基金旗下三只基金经理职务",
       "description": "银河基金基金经理郑巍山卸任银河创新成长、银河和美生活、银河智联主题三只基金的基金经理职务，离任后不在公司转任其他岗位。",
@@ -296,6 +579,26 @@
       ],
       "section": "business",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "musk-spacex-tesla-merger-good-idea-89e5d0",
+      "title": "特斯拉与SpaceX各设委员会评估合并",
+      "description": "10月21日，特斯拉公布2026年第三季度业绩，净利润为7.87亿美元，同比下降42.7%，但高于分析师预期。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T01:09:22+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/musk-spacex-tesla-merger-good-idea-89e5d0",
+      "reference": [
+        "中央通訊社",
+        "德国之声",
+        "英国广播公司"
+      ],
+      "section": "business",
+      "sourceCount": 4,
       "sources": []
     },
     {
@@ -336,6 +639,43 @@
       "sources": []
     },
     {
+      "id": "eighth-army-ready-deploy-beyond-korean-peninsula-9e97da",
+      "title": "美八军司令称部队须准备赴韩半岛外执行任务",
+      "description": "驻韩美军第八集团军司令约瑟夫·希尔伯特表示，该部队不能只围绕韩半岛威胁行动，成员须做好奉命前往韩半岛以外地区执行任务的准备。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T01:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/eighth-army-ready-deploy-beyond-korean-peninsula-9e97da",
+      "reference": [
+        "韩国国际广播电台",
+        "朝鲜日报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "south-korea-court-suspends-sentences-deportation-case-340d72",
+      "title": "韩国法院在渔民遣返案判三名前官员缓刑",
+      "description": "韩国上诉法院在两名朝鲜渔民被强制遣返案中，判处前国家安全室长郑义溶、前国家情报院院长徐薰和前统一部长官金炼铁有期徒刑、缓期执行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T01:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/south-korea-court-suspends-sentences-deportation-case-340d72",
+      "reference": [
+        "朝鲜日报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "south-korea-overtakes-japan-export-rankings-8c83b1",
       "title": "韩国出口规模超过日本跻身全球第五",
       "description": "韩国上半年出口在人工智能半导体需求带动下升至全球第五，日本降至第九；台湾、墨西哥和新加坡等供应链经济体的排名也有所上升。",
@@ -354,21 +694,22 @@
       "sources": []
     },
     {
-      "id": "eighth-army-ready-deploy-beyond-korean-peninsula-9e97da",
-      "title": "第八集团军司令要求部队准备赴半岛外执行任务",
-      "description": "当地时间10月21日，驻韩美军第八集团军司令希尔伯特接受香港媒体《南华早报》采访时表示，部队成员须准备在接到命令后赴韩半岛以外地区执行任务。",
+      "id": "philippines-explores-taiwan-cable-cooperation-edc6e1",
+      "title": "菲律宾与台湾探讨深化合作保护海底电缆",
+      "description": "菲律宾与台湾正探讨加强海底电缆等基础设施保护、应对灰色地带行动的务实合作。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-22T01:02:40+00:00",
+      "updatedAt": "2026-10-22T01:02:16+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/eighth-army-ready-deploy-beyond-korean-peninsula-9e97da",
+      "url": "https://kaopu.news/story/2026-10-22/philippines-explores-taiwan-cable-cooperation-edc6e1",
       "reference": [
-        "韩国国际广播电台"
+        "联合早报",
+        "中央通訊社"
       ],
-      "section": "world",
-      "sourceCount": 1,
+      "section": "asia",
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -405,24 +746,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "philippines-explores-taiwan-cable-cooperation-edc6e1",
-      "title": "菲律宾探讨与台湾合作保护海底电缆",
-      "description": "菲律宾正与台湾讨论加强务实合作，保护台湾与菲律宾之间巴士海峡一带的海底电缆，并应对本区域灰色地带行动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T00:35:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/philippines-explores-taiwan-cable-cooperation-edc6e1",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -482,25 +805,6 @@
       "sources": []
     },
     {
-      "id": "meta-third-quarter-revenue-rises-26-percent-127637",
-      "title": "Meta第三季度营收同比增长26%",
-      "description": "Meta于10月21日公布截至9月30日的2026财年第三季度业绩，营收646.01亿美元，同比增长26%，超过市场预期的634亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T00:23:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/meta-third-quarter-revenue-rises-26-percent-127637",
-      "reference": [
-        "中央通訊社",
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "philippines-supplies-grounded-ship-second-thomas-shoal-d19b64",
       "title": "中国海警称菲方获准向仁爱礁军舰运送物资",
       "description": "中国海警局新闻发言人姜略称，菲律宾10月21日经中方许可，向仁爱礁坐滩军舰运送生活物资。",
@@ -517,26 +821,6 @@
         "联合早报"
       ],
       "section": "china",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "musk-spacex-tesla-merger-good-idea-89e5d0",
-      "title": "马斯克称特斯拉与SpaceX成立合并评估委员会",
-      "description": "埃隆·马斯克10月20日表示，特斯拉和SpaceX已成立特别委员会，评估两家公司合并的可能性。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T00:21:24+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/musk-spacex-tesla-merger-good-idea-89e5d0",
-      "reference": [
-        "中央通訊社",
-        "德国之声",
-        "英国广播公司"
-      ],
-      "section": "business",
       "sourceCount": 3,
       "sources": []
     },
@@ -986,27 +1270,6 @@
       ],
       "section": "sports",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "witkoff-norway-peace-proposal-talks-6bf424",
-      "title": "普京会见威特科夫后俄方愿11月重启三方会谈",
-      "description": "俄罗斯总统弗拉基米尔·普京10月21日在圣彼得堡会见美国总统特使史蒂夫·威特科夫。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T21:31:58+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
-      "reference": [
-        "法广",
-        "澎湃新闻",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 21,
       "sources": []
     },
     {
@@ -1554,25 +1817,6 @@
       "sources": []
     },
     {
-      "id": "registrar-revokes-pn-registration-769ecb",
-      "title": "马来西亚社团注册局撤销国盟注册",
-      "description": "马来西亚社团注册局10月20日撤销国民联盟（国盟）的注册。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T13:41:27+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/registrar-revokes-pn-registration-769ecb",
-      "reference": [
-        "当今大马",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
       "id": "us-dhs-snap-fraud-sweep-arrests-a17afb",
       "title": "福克斯称美国国土安全部扫荡SNAP诈领案逮捕多人",
       "description": "据福克斯新闻近日的一则独家报道，美国国土安全部已在全国开展行动，打击涉嫌诈领俗称“粮食券”的营养补充援助计划（SNAP）福利的行为。",
@@ -1908,26 +2152,6 @@
       "sources": []
     },
     {
-      "id": "micron-taoyuan-union-strike-backs-taichung-8ce079",
-      "title": "美光桃园工会将罢工一天要求分润方案",
-      "description": "台湾美光桃园工会计划于10月22日举行一天警告性罢工，要求公司就奖金和长期利润分享安排作出具体回应。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T12:24:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/micron-taoyuan-union-strike-backs-taichung-8ce079",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "taitung-wu-chun-li-airport-questioning-e6f767",
       "title": "吴俊立涉农路图利案获500万元保释",
       "description": "台湾台东县地方法院10月21日裁定，前台东县长吴俊立以新台币500万元保释，并限制出境、出海及接受科技监控。",
@@ -2228,25 +2452,6 @@
       ],
       "section": "business",
       "sourceCount": 16,
-      "sources": []
-    },
-    {
-      "id": "anwar-urges-switch-tuju-waze-data-risk-c1e0d1",
-      "title": "邹宇晖质疑马来西亚禁公务员用Waze依据",
-      "description": "马来西亚联邦政府要求公务员停用导航应用Waze，并建议民众考虑改用本土应用TuJu。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T10:52:35+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/anwar-urges-switch-tuju-waze-data-risk-c1e0d1",
-      "reference": [
-        "当今大马",
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -2551,25 +2756,6 @@
       "sources": []
     },
     {
-      "id": "jio-ipo-fully-subscribed-bf5d0d",
-      "title": "Jio平台IPO不到两小时获足额认购",
-      "description": "信实工业旗下Jio Platforms启动首次公开募股（IPO）后不到两小时即获足额认购。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T09:33:37+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/jio-ipo-fully-subscribed-bf5d0d",
-      "reference": [
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "kpmg-survey-software-reshapes-auto-competition-63a63f",
       "title": "毕马威调查预计软件技术重塑汽车竞争格局",
       "description": "毕马威10月21日公布一项汽车业调查，访问了775名高管。",
@@ -2600,24 +2786,6 @@
       "url": "https://kaopu.news/story/2026-10-21/boj-assess-two-percent-inflation-target-eaa926",
       "reference": [
         "共同网"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "zhonglu-sues-chen-rong-over-2-billion-buyback-b500dc",
-      "title": "中路实业起诉陈荣要求履行2亿元回购承诺",
-      "description": "ST中路10月20日公告称，全资子公司上海中路实业有限公司已起诉实际控制人陈荣，要求其以2亿元回购中路实业持有的上海路路由信息技术有限公司10%股权，并承担诉讼费用。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T09:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/zhonglu-sues-chen-rong-over-2-billion-buyback-b500dc",
-      "reference": [
-        "澎湃新闻"
       ],
       "section": "business",
       "sourceCount": 1,
@@ -2737,26 +2905,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-immigration-revokes-ntu-student-permit-deportation-eee68e",
-      "title": "台湾移民署驱逐大陆交换生并禁入五年",
-      "description": "台湾移民署10月16日废止一名台湾大学王姓大陆交换生的入境许可，要求其离境，并规定五年内不得再申请赴台。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T08:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/taiwan-immigration-revokes-ntu-student-permit-deportation-eee68e",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "端传媒"
-      ],
-      "section": "asia",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -3274,24 +3422,6 @@
       "sources": []
     },
     {
-      "id": "vance-says-ukraine-should-not-join-nato-b57c94",
-      "title": "美国副总统万斯称乌克兰不应加入北约",
-      "description": "美国副总统万斯日前在一段视频访谈中谈及美乌关系，称美国与乌克兰没有建立正式同盟关系。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T05:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/vance-says-ukraine-should-not-join-nato-b57c94",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "henry-lee-yangzhou-memorial-burial-1d5913",
       "title": "李昌钰追思安葬仪式定于扬州举行",
       "description": "李昌钰的夫人蒋霞萍已于重阳节抱着他的灵骨回到扬州，追思及安葬仪式定于10月23日在扬州举行。",
@@ -3349,43 +3479,6 @@
       "sources": []
     },
     {
-      "id": "liu-pengyu-named-china-foreign-ministry-deputy-cb3425",
-      "title": "刘鹏宇返京出任外交部新闻司副司长",
-      "description": "据明报新闻网报道，刘鹏宇已从华盛顿返京，出任中国外交部新闻司副司长；外交部官网“职务机构”栏目已更新其职务信息。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T04:45:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/liu-pengyu-named-china-foreign-ministry-deputy-cb3425",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-affairs-office-responds-travel-ban-ea3d94",
-      "title": "国台办回应台湾限制人员赴中国大陆参加孙中山纪念活动",
-      "description": "中国大陆国台办发言人张晗10月21日在例行记者会上回应台湾陆委会限制相关人员赴大陆参加孙中山诞辰纪念活动，称纪念活动旨在弘扬孙中山维护国家统一、致力民族振兴的精神，推动两岸交流融合。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T04:38:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/taiwan-affairs-office-responds-travel-ban-ea3d94",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "us-sanctions-linwei-ding-chinese-entities-e46626",
       "title": "美国以涉嫌窃取商业秘密制裁五家中国实体",
       "description": "美国国务院10月19日依据《保护美国知识产权法》，以涉嫌窃取商业秘密为由，将上海智算科技公司、奇绩创坛及其三家关联公司列入制裁范围，共涉及五个实体。",
@@ -3422,24 +3515,6 @@
       ],
       "section": "ai",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "china-supreme-court-issues-judicial-accountability-rules-2865b3",
-      "title": "最高法发布条例明确司法人员责任追究标准",
-      "description": "最高人民法院10月21日公布《人民法院司法责任追究条例》。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T02:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/china-supreme-court-issues-judicial-accountability-rules-2865b3",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3910,24 +3985,6 @@
       "sources": []
     },
     {
-      "id": "china-hr-ministry-proposes-platform-worker-rules-f8dab6",
-      "title": "人社部拟以义务清单保障平台劳动者权益",
-      "description": "人力资源和社会保障部10月8日公布《新就业形态劳动者权益保障办法（征求意见稿）》，拟通过明确平台企业责任和具体操作要求，加强新就业形态劳动者权益保障。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T11:04:47.212586+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/china-hr-ministry-proposes-platform-worker-rules-f8dab6",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "dream-labs-launches-dream-1-raises-90m-seed-ea63ee",
       "title": "Dream Labs发布Dream-1并获9000万美元种子融资",
       "description": "前英伟达GR00T相关研究团队创立的Dream Labs于当地时间10月19日结束隐身，发布首款机器人基础模型Dream-1，并宣布完成9000万美元种子轮融资。",
@@ -3979,27 +4036,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "anthropic-plans-five-percent-stake-charity-fund-db247a",
-      "title": "Anthropic拟投入5%股份设立公益基金",
-      "description": "人工智能公司Anthropic于2026年10月18日宣布设立公益基金，计划在获得相关批准后，将公司5%的股份投入基金。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T08:57:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/anthropic-plans-five-percent-stake-charity-fund-db247a",
-      "reference": [
-        "中央通訊社",
-        "澎湃新闻",
-        "财新",
-        "联合早报"
-      ],
-      "section": "ai",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -4257,26 +4293,6 @@
       "sources": []
     },
     {
-      "id": "samsung-uses-tsmc-3nm-nvidia-hbm-base-die-fcad46",
-      "title": "韩媒称三星决定接受英伟达要求采用台积电3纳米制程造基底裸片",
-      "description": "韩国《首尔经济日报》援引业内人士称，三星电子经内部评估后已决定接受英伟达要求，采用台积电3纳米制程为英伟达下一代定制高带宽内存NVHBM制造基底裸片。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T10:36:56.534921+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/samsung-uses-tsmc-3nm-nvidia-hbm-base-die-fcad46",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "第一财经"
-      ],
-      "section": "tech",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "miit-forecasts-humanoid-robot-output-100000-47a949",
       "title": "工信部预计人形机器人全年产量突破10万台",
       "description": "10月19日，国务院新闻办公室举行加快推进科技兴商有关情况新闻发布会。",
@@ -4289,24 +4305,6 @@
       "url": "https://kaopu.news/story/2026-10-19/miit-forecasts-humanoid-robot-output-100000-47a949",
       "reference": [
         "澎湃新闻"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trendforce-forecasts-fiber-price-surge-e8dc14",
-      "title": "集邦科技预计光纤现货价格年涨2.8至5倍以上",
-      "description": "集邦科技预计，人工智能数据中心、数据中心互联和高容量骨干网络建设将推高光纤需求，2026年全球供需缺口将达1.8亿芯公里，成品现货价格同比涨幅将达2.8倍至5倍以上。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T09:07:12+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/trendforce-forecasts-fiber-price-surge-e8dc14",
-      "reference": [
-        "中央通訊社"
       ],
       "section": "tech",
       "sourceCount": 1,
@@ -4912,16 +4910,16 @@
       "sources": []
     },
     {
-      "id": "new-york-four-seas-players-stage-madman-347fec",
-      "title": "纽约四海剧社将上演舞台剧《疯佬正传》",
-      "description": "纽约四海剧社第57剧季舞台剧《疯佬正传》定于2026年10月24日至11月1日在曼哈顿下城亨利街艺术中心（Abrons Arts Center）地下剧场演出七场。",
+      "id": "goodbye-south-goodbye-4k-new-york-festival-premiere-cb30dc",
+      "title": "《南国再见，南国》4K修复版在纽约电影节北美首映",
+      "description": "侯孝贤的《南国再见，南国》4K修复版入选第64届纽约电影节“经典重映”单元，并在影展举行北美首映。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
       "updatedAt": "2026-10-13T06:00:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/new-york-four-seas-players-stage-madman-347fec",
+      "url": "https://kaopu.news/story/2026-10-13/goodbye-south-goodbye-4k-new-york-festival-premiere-cb30dc",
       "reference": [
         "世界日报"
       ],
