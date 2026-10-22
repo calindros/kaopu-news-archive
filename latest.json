@@ -1,19 +1,19 @@
 {
   "details": {
     "date": "2026-10-22",
-    "timestamp": 1792682229,
+    "timestamp": 1792689470,
     "totalPages": 1,
     "total": 261
   },
   "stories": [
     {
       "id": "tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
-      "title": "西藏那曲市巴青县发生7.0级地震",
+      "title": "西藏那曲巴青县发生7.0级地震",
       "description": "西藏那曲市巴青县发生7.0级地震。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-22T15:31:00+00:00",
+      "updatedAt": "2026-10-22T16:20:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-22",
       "url": "https://kaopu.news/story/2026-10-22/tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
@@ -22,7 +22,173 @@
         "联合早报"
       ],
       "section": "china",
-      "sourceCount": 4,
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "china-launches-flood-typhoon-response-shanghai-zhejiang-55a806",
+      "title": "国家防总启动沪浙闽防汛防台风四级响应",
+      "description": "国家防总办公室、应急管理部于10月22日召集中国气象局、水利部、自然资源部及上海、江苏、浙江等地相关部门会商，研判台风“蔷琵”走势并部署防御。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T16:09:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/china-launches-flood-typhoon-response-shanghai-zhejiang-55a806",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "france-courts-jail-riot-defendants-b98387",
+      "title": "法国法院速裁判处217名骚乱涉案者监禁",
+      "description": "法国司法部长达尔马宁10月22日在巴黎郊区弗勒里-梅罗吉斯监狱外通报，法院已通过速裁程序判处217名涉骚乱人员监禁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T15:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/france-courts-jail-riot-defendants-b98387",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "harvard-poll-us-youth-confidence-hits-low-ea7b48",
+      "title": "哈佛民调显示美国青年对国家发展信心跌至新低",
+      "description": "哈佛大学肯尼迪学院政治研究所发布的一项民调显示，美国18至29岁青年对国家发展方向、特朗普处理经济的表现和未来经济前景普遍缺乏信心。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T15:52:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/harvard-poll-us-youth-confidence-hits-low-ea7b48",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "indonesia-weighs-halting-energy-exports-aafc41",
+      "title": "印尼拟停止向不尊重印尼的国家出口能源",
+      "description": "印度尼西亚下游产业与能源转型统筹部长巴赫里尔10月22日在雅加达表示，政府将重新审视与不尊重印尼的国家签订的能源出口协议，并考虑停止出口。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T15:45:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/indonesia-weighs-halting-energy-exports-aafc41",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "chicago-men-charged-29m-snap-fraud-6be3d9",
+      "title": "芝加哥两男子被控骗取近3000万美元粮食补助",
+      "description": "美国司法部指控，芝加哥男子亚辛（Jorag Yaseen）和卡南（Rami Kanaan）涉嫌通过旗下多家获准接受美国补充营养援助计划（SNAP）付款的零售店，利用被盗的电子福利转账（EBT）账户资料制造虚假消费记录，骗取约2970万美元联邦粮食补助。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T15:35:32+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/chicago-men-charged-29m-snap-fraud-6be3d9",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-agency-urges-php-security-patch-8c669e",
+      "title": "PHP团队发布紧急更新修复两项严重漏洞",
+      "description": "PHP开发团队10月21日发布紧急安全更新，修复两项可被未认证攻击者远程利用的严重漏洞。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T15:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/japan-agency-urges-php-security-patch-8c669e",
+      "reference": [
+        "共同网",
+        "中央通訊社",
+        "加拿大国际广播电台",
+        "第一财经"
+      ],
+      "section": "tech",
+      "sourceCount": 29,
+      "sources": []
+    },
+    {
+      "id": "google-voltus-virtual-power-plant-data-centers-2353d6",
+      "title": "谷歌与Voltus合作为数据中心腾出电力",
+      "description": "谷歌宣布与电力运营商Voltus达成协议，将在美国PJM电网建设虚拟发电厂，通过付费鼓励居民和企业在用电高峰减少用电，为数据中心腾出电力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T15:21:30+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/google-voltus-virtual-power-plant-data-centers-2353d6",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "govtech-singapore-second-phase-layoffs-d47980",
+      "title": "新加坡政府科技局转型计划第二阶段将裁退38人",
+      "description": "新加坡政府科技局工作队伍转型计划第二阶段评估后，将有38人离职；另有106人可参加学徒计划，接受培训后转岗，另有106人岗位不受影响。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T15:18:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/govtech-singapore-second-phase-layoffs-d47980",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "myanmar-allows-aung-san-suu-kyi-call-son-da2458",
+      "title": "翁山苏姬政变后首次获准与儿子通话",
+      "description": "翁山苏姬10月22日获准与在英国的儿子阿里斯通话，这是两人自2021年政变以来首次直接联系。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T15:05:32+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/myanmar-allows-aung-san-suu-kyi-call-son-da2458",
+      "reference": [
+        "联合早报",
+        "法广"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -197,6 +363,26 @@
       ],
       "section": "sports",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-residential-electricity-use-turns-negative-6ed921",
+      "title": "中国前三季度居民用电量累计增速首次转负",
+      "description": "中国国家能源局公布的数据显示，2026年1至9月，全国城乡居民生活用电量为12346亿千瓦时，同比下降0.3%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T14:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/china-residential-electricity-use-turns-negative-6ed921",
+      "reference": [
+        "第一财经",
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -423,6 +609,44 @@
       "sources": []
     },
     {
+      "id": "nakri-to-sweep-taiwan-northeast-coast-95b0b2",
+      "title": "台风蔷琵将于23日至24日掠过台湾东北部海岸",
+      "description": "台湾中央气象署预报，台风蔷琵将在10月23日至24日间掠过台湾东北部海岸，之后转向中国和日本方向。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T13:33:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/nakri-to-sweep-taiwan-northeast-coast-95b0b2",
+      "reference": [
+        "法广"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nigeria-confirms-first-ebola-case-9df60e",
+      "title": "尼日利亚确诊近期首例输入性邦迪布焦型埃博拉病例",
+      "description": "尼日利亚卫生部门10月20日确认，一名曾前往乌干达的女性感染邦迪布焦型埃博拉病毒，这是该国近期首例。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T13:33:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/nigeria-confirms-first-ebola-case-9df60e",
+      "reference": [
+        "法广",
+        "公视",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
       "id": "japan-ldp-discusses-short-term-resale-tax-7e9def",
       "title": "日本自民党讨论恢复短期转售房产重税",
       "description": "日本自民党住宅土地与城市政策调查会10月21日召开会议并发布住宅市场报告。",
@@ -608,27 +832,6 @@
       ],
       "section": "business",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "japan-agency-urges-php-security-patch-8c669e",
-      "title": "PHP修复两项严重漏洞多国机构紧急关闭网站",
-      "description": "PHP安全团队公布并修复两项严重安全漏洞，攻击者可能在无需身份验证的情况下远程执行代码并控制服务器。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T13:06:21+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/japan-agency-urges-php-security-patch-8c669e",
-      "reference": [
-        "共同网",
-        "中央通訊社",
-        "加拿大国际广播电台",
-        "第一财经"
-      ],
-      "section": "tech",
-      "sourceCount": 28,
       "sources": []
     },
     {
@@ -841,24 +1044,6 @@
       "sources": []
     },
     {
-      "id": "china-launches-flood-typhoon-response-shanghai-zhejiang-55a806",
-      "title": "水利部对沪苏浙闽启动洪水防御Ⅳ级响应",
-      "description": "中国水利部对上海、江苏、浙江、福建启动洪水防御Ⅳ级应急响应。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T12:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/china-launches-flood-typhoon-response-shanghai-zhejiang-55a806",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "witkoff-norway-peace-proposal-talks-6bf424",
       "title": "普京原则同意11月中旬重启俄美乌谈判",
       "description": "俄罗斯总统普京与美国总统特使史蒂夫·威特科夫10月21日在圣彼得堡会谈约3小时后，原则上同意于11月10日之后恢复俄罗斯、美国和乌克兰三方谈判。",
@@ -916,24 +1101,6 @@
       ],
       "section": "asia",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "myanmar-allows-aung-san-suu-kyi-call-son-da2458",
-      "title": "缅甸军方准许翁山淑枝与儿子通话",
-      "description": "缅甸军方准许被拘押的翁山淑枝与居住在英国的儿子阿里斯通话约20分钟，这是2021年2月政变以来两人首次直接联系。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T12:48:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/myanmar-allows-aung-san-suu-kyi-call-son-da2458",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2010,26 +2177,6 @@
       "sources": []
     },
     {
-      "id": "philippines-explores-taiwan-cable-cooperation-edc6e1",
-      "title": "毛宁敦促菲律宾恪守一个中国原则",
-      "description": "中国大陆外交部发言人毛宁10月22日在例行记者会上回应菲律宾寻求与台湾深化合作，称台湾问题上没有“灰色地带”，敦促菲方以实际行动恪守一个中国原则。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T08:45:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/philippines-explores-taiwan-cable-cooperation-edc6e1",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "澎湃新闻"
-      ],
-      "section": "asia",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "google-deepmind-staff-resign-military-ai-c4025b",
       "title": "BBC称谷歌DeepMind员工因军事合作离职",
       "description": "据BBC对多名前任和现任员工的采访，谷歌旗下Google DeepMind有员工因担忧公司扩大人工智能军事用途及监督不足而辞职，另有员工考虑离开。",
@@ -2120,24 +2267,6 @@
       "sources": []
     },
     {
-      "id": "taipei-poll-shen-poyang-leads-chiang-wan-an-66a340",
-      "title": "震传媒民调显示沈伯洋支持率领先蒋万安近四个百分点",
-      "description": "震传媒10月22日公布的台北市长选举民调显示，民进党参选人沈伯洋支持率为42.8%，高于现任市长、国民党参选人蒋万安的39.0%，相差3.8个百分点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T08:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/taipei-poll-shen-poyang-leads-chiang-wan-an-66a340",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "concert-ticket-bot-scalping-profits-fe9e2d",
       "title": "澎湃称陈某等人用外挂抢购演唱会票获利近600万",
       "description": "据澎湃新闻报道，警方调查后锁定经营“高价代抢、保证拿票”网店的陈某，并在其手机、电脑中发现大量含不同姓名、身份证号和手机号的购票记录。",
@@ -2188,64 +2317,6 @@
         "澎湃新闻"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-residential-electricity-use-turns-negative-6ed921",
-      "title": "中国居民前三季度用电十年来首次累计负增长",
-      "description": "中国国家能源局公布的数据显示，2026年1至9月全国城乡居民生活用电量为12346亿千瓦时，同比下降0.3%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T07:52:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/china-residential-electricity-use-turns-negative-6ed921",
-      "reference": [
-        "第一财经",
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "wmo-warns-el-nino-record-strength-2d3ac9",
-      "title": "联合国警告厄尔尼诺恐使5000万人粮食短缺加剧",
-      "description": "联合国世界气象组织（WMO）和联合国人道主义事务协调厅（OCHA）10月21日在日内瓦警告，本轮厄尔尼诺可能发展为异常强烈事件，并使全球最多约5000万人面临更严重的粮食短缺。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T07:48:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/wmo-warns-el-nino-record-strength-2d3ac9",
-      "reference": [
-        "英国广播公司",
-        "法广",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "terra-drone-ukraine-drone-delivery-russia-response-63353c",
-      "title": "日企在乌相关公司向乌交付拦截无人机俄方称将坚决回应",
-      "description": "日本无人机开发企业Terra Drone（总部位于东京）称，其在乌克兰的相关公司本月向乌克兰政府交付了该公司生产的小型拦截无人机。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T07:41:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/terra-drone-ukraine-drone-delivery-russia-response-63353c",
-      "reference": [
-        "共同网"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -3258,27 +3329,6 @@
       "sources": []
     },
     {
-      "id": "fox-poll-trump-approval-hits-record-low-f57a45",
-      "title": "纽约时报民调显示特朗普支持率创该项调查新低",
-      "description": "《纽约时报》与锡耶纳学院的全国民调显示，特朗普的执政表现认可度降至该项调查开展以来的最低水平。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T03:07:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/fox-poll-trump-approval-hits-record-low-f57a45",
-      "reference": [
-        "财新",
-        "世界日报",
-        "东亚日报",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 8,
-      "sources": []
-    },
-    {
       "id": "visitor-visa-changes-hinder-parent-reunions-3fd9c2",
       "title": "SBS称访客签证变更恐令父母团聚更难",
       "description": "目前，超过15万份父母签证申请仍在积压。",
@@ -3685,24 +3735,6 @@
       "sources": []
     },
     {
-      "id": "china-health-commission-nurse-prescribing-review-925f69",
-      "title": "国家卫健委将论证专科护士处方权可行性",
-      "description": "国家卫生健康委10月21日在官网公布对全国政协委员提案的答复，表示将适时开展专题研究，评估授予护士处方权的必要性和可行性。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T11:57:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/china-health-commission-nurse-prescribing-review-925f69",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "xing-an-league-green-methanol-busan-ship-bunkering-719fe5",
       "title": "兴安盟绿色甲醇在釜山完成船舶加注",
       "description": "海德氢能近日公布其600兆瓦绿氢旗舰工程的阶段性运行成果：首批制氢工厂已在金风科技兴安盟绿色甲醇项目稳定运行，项目生产的生物甲醇近日在韩国釜山完成船舶加注。",
@@ -3811,24 +3843,6 @@
       ],
       "section": "ai",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "afnan-hamimi-questions-child-online-protection-6d6f10",
-      "title": "伊青团长质疑执法措施能否保护儿童免受网络威胁",
-      "description": "马来西亚伊青团长阿南哈米米在国会下议院辩论2027年财政预算案时，警告儿童面临的数字威胁日益增多，并质疑现有执法措施是否足以保护儿童。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T08:43:40+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/afnan-hamimi-questions-child-online-protection-6d6f10",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -4103,24 +4117,6 @@
         "澎湃新闻"
       ],
       "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "roche-secures-hansoh-adc-portfolio-rights-25edbd",
-      "title": "罗氏以5.1亿美元取得翰森ADC组合权益",
-      "description": "罗氏与翰森制药达成交易，取得翰森开发的一组抗体偶联药物（ADC）产品组合相关权益，预付款合计5.1亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T07:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/roche-secures-hansoh-adc-portfolio-rights-25edbd",
-      "reference": [
-        "瑞士新闻简讯"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
