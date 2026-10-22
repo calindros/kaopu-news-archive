@@ -1,28 +1,319 @@
 {
   "details": {
     "date": "2026-10-22",
-    "timestamp": 1792626158,
+    "timestamp": 1792633205,
     "totalPages": 1,
     "total": 268
   },
   "stories": [
     {
-      "id": "trump-says-hubbard-freed-by-russia-ff13c9",
-      "title": "俄罗斯释放被关押的美国退休教师哈伯德",
-      "description": "俄罗斯已释放被关押的美国退休教师哈伯德，美国总统特朗普表示，哈伯德已踏上返美行程。",
+      "id": "japan-agency-urges-php-security-patch-8c669e",
+      "title": "PHP严重漏洞促使多国政府网站暂时下线",
+      "description": "PHP开发者发布两项严重漏洞的修复版本前后，多国政府机构和公共服务组织对部分网站或网络服务采取临时下线、关闭功能等预防措施。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-21T22:59:00+00:00",
+      "updatedAt": "2026-10-22T00:16:37.890873+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/japan-agency-urges-php-security-patch-8c669e",
+      "reference": [
+        "共同网",
+        "中央通訊社",
+        "加拿大国际广播电台",
+        "第一财经"
+      ],
+      "section": "tech",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "china-approves-first-active-etfs-8d9f44",
+      "title": "上交所召开动员会推动首批主动ETF发行上市",
+      "description": "上海证券交易所10月21日召集首批主动ETF相关机构召开市场动员会，来自9家基金管理人和7家证券公司的40余名负责人员参加。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T00:09:36.459669+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/china-approves-first-active-etfs-8d9f44",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
+      "id": "us-strategic-reserve-hits-44-year-low-90554d",
+      "title": "美国战略石油储备降至44年来最低水平",
+      "description": "美国能源信息署（EIA）周三公布，美国原油库存已连续第三周下降，战略石油储备库存降至1982年10月以来最低水平。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T00:03:36.460183+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/us-strategic-reserve-hits-44-year-low-90554d",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ukraine-claims-spacex-starlink-throttling-air-defense-4c1c82",
+      "title": "鲁比奥称乌军星链服务取决于私人商业合约",
+      "description": "美国国务卿马尔科·鲁比奥10月21日表示，乌克兰能否使用星链以及服务速度，应由SpaceX等私人企业依据商业合约决定，并称自己不知道美国是否事先知晓这项决定。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T23:51:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/ukraine-claims-spacex-starlink-throttling-air-defense-4c1c82",
+      "reference": [
+        "联合早报",
+        "公视",
+        "朝鲜日报",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 19,
+      "sources": []
+    },
+    {
+      "id": "yexian-housing-project-delivery-stalled-c4f29f",
+      "title": "叶县称通过债权置换追回价值3.06亿元资产",
+      "description": "河南省叶县问题楼盘协调服务指挥部办公室近日就“美好生活家园”预售资金去向及交付安排作出回应，称已通过债权转移、债权置换等方式追回价值3.06亿元的资产，剩余资金仍在追缴。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T23:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/yexian-housing-project-delivery-stalled-c4f29f",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "putin-proposes-trump-xi-ukraine-war-talks-c341cb",
+      "title": "乌沙科夫称中国已着手筹备中美俄三方会晤",
+      "description": "中国已开始为中美俄三国领导人于深圳APEC峰会期间举行首次三方会晤作准备，但相关安排仍未敲定。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T23:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/putin-proposes-trump-xi-ukraine-war-talks-c341cb",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "德国之声",
+        "财新"
+      ],
+      "section": "world",
+      "sourceCount": 18,
+      "sources": []
+    },
+    {
+      "id": "tesla-third-quarter-profit-falls-43-percent-7097f8",
+      "title": "特斯拉三季度净利润同比下滑43%",
+      "description": "特斯拉10月22日公布2026年第三季度业绩，营收与去年同期大体相当，普通股股东应占净利润为7.87亿美元，减少43%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T23:39:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/tesla-third-quarter-profit-falls-43-percent-7097f8",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "pge-san-francisco-grid-takeover-cost-59b1f4",
+      "title": "PG&E称旧金山接管电网需付225亿元",
+      "description": "太平洋瓦电公司（PG&E）称，旧金山市政府若接管其在市内的配电网，需支付225亿元，约为市政府今年4月提交的34亿元估值的六倍。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T23:32:53+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/pge-san-francisco-grid-takeover-cost-59b1f4",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "french-students-protest-school-conditions-11bf14",
+      "title": "巴黎警方限制重点区域示威防止骚乱重演",
+      "description": "巴黎警方宣布，巴黎当地时间10月22日8时至20时，爱丽舍宫、法国国民议会、参议院、卢浮宫和香榭丽舍大道等地禁止举行示威。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T23:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
+      "reference": [
+        "公视",
+        "法广",
+        "日本放送协会",
+        "英国广播公司"
+      ],
+      "section": "world",
+      "sourceCount": 69,
+      "sources": []
+    },
+    {
+      "id": "ai-song-ranks-third-korean-chart-614f49",
+      "title": "韩国AI歌曲登上YouTube热门榜第二位",
+      "description": "一首由AI音乐生成程序“苏诺”制作的歌曲《你成为梦想中的大人了吗》，近期登上YouTube韩国热门歌曲TOP100第二位，在Melon TOP100排名第三。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T23:28:17+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/ai-song-ranks-third-korean-chart-614f49",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "kim-yo-jong-north-korea-border-tactical-weapons-072e7d",
+      "title": "金与正视察边境工事称朝军火力分队已就位",
+      "description": "金与正、国防省顾问朴正天、李日焕等人10月20日视察南部边境要塞化工程现场。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T23:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/kim-yo-jong-north-korea-border-tactical-weapons-072e7d",
+      "reference": [
+        "联合早报",
+        "韩国国际广播电台",
+        "朝鲜日报",
+        "韩民族日报"
+      ],
+      "section": "asia",
+      "sourceCount": 13,
+      "sources": []
+    },
+    {
+      "id": "michelle-steel-says-us-korea-relations-face-turbulence-5fe56d",
+      "title": "美国驻韩大使称韩美关系正经历乱流",
+      "description": "美国驻韩国大使米歇尔·斯蒂尔21日在驻韩美国商会举行的午餐会上表示，韩美关系正处于困难时期。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T23:27:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/michelle-steel-says-us-korea-relations-face-turbulence-5fe56d",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "korean-audit-agency-warns-stadium-collapse-risk-296535",
+      "title": "韩国监查院指出五处体育设施存坍塌风险",
+      "description": "韩国监查院21日公布全国大型体育设施安全管理中间审计结果，指出多处场馆存在施工缺陷，并认定五处设施在冬季暴雪或强风时有坍塌风险。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T23:27:41+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/korean-audit-agency-warns-stadium-collapse-risk-296535",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-says-hubbard-freed-by-russia-ff13c9",
+      "title": "普京应特朗普请求释放美国退休教师哈伯德",
+      "description": "俄罗斯总统普京10月21日在圣彼得堡会见美国特使史蒂夫·威特科夫期间，宣布释放74岁的美国退休教师斯蒂芬·哈伯德。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T23:27:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-21",
       "url": "https://kaopu.news/story/2026-10-21/trump-says-hubbard-freed-by-russia-ff13c9",
       "reference": [
         "世界日报",
-        "联合早报"
+        "联合早报",
+        "澎湃新闻"
       ],
       "section": "us",
-      "sourceCount": 3,
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "zelensky-witkoff-kushner-discuss-diplomacy-c0e7c1",
+      "title": "特朗普称泽连斯基若不愿结束战争将有严重后果",
+      "description": "美国总统特朗普要求乌克兰总统泽连斯基积极与俄罗斯谈判结束战争，并警告称，如果泽连斯基不愿结束战争，将发生“非常糟糕的事情”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T23:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-18",
+      "url": "https://kaopu.news/story/2026-10-18/zelensky-witkoff-kushner-discuss-diplomacy-c0e7c1",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "法广",
+        "德国之声"
+      ],
+      "section": "world",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "coreweave-stock-slides-two-weeks-46f72a",
+      "title": "CoreWeave股价两周下跌逾三成",
+      "description": "美国AI算力云服务商CoreWeave股价两周内下跌超过30%，债券市场走弱之际，市场重新审视大型数据中心投资需求的真实性和回报水平。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T23:07:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/coreweave-stock-slides-two-weeks-46f72a",
+      "reference": [
+        "财新"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -101,6 +392,43 @@
       "sources": []
     },
     {
+      "id": "us-orders-saudi-staff-family-evacuation-126135",
+      "title": "美国下令驻沙特非紧急政府人员及家属撤离",
+      "description": "美国国务院下令驻沙特阿拉伯的非紧急美国政府人员及其家属撤离。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T22:32:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/us-orders-saudi-staff-family-evacuation-126135",
+      "reference": [
+        "澎湃新闻",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-says-ukraine-war-end-near-ae3a22",
+      "title": "特朗普称俄乌战争结束时刻可能已接近",
+      "description": "特朗普近日在白宫向记者说，他几天前曾与俄罗斯总统普京商谈俄乌战事的解决办法。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-21T22:01:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/trump-says-ukraine-war-end-near-ae3a22",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "us-prosecutors-detail-huawei-skycom-iran-funds-b38e51",
       "title": "美国检方详述华为经星通处理伊朗资金指控",
       "description": "美国司法部针对华为的案件于2026年10月21日在布鲁克林联邦法院继续审理。",
@@ -138,12 +466,12 @@
     },
     {
       "id": "witkoff-norway-peace-proposal-talks-6bf424",
-      "title": "普京称俄方准备11月中旬重启三方会谈",
-      "description": "俄罗斯总统普京10月21日在圣彼得堡会见美国总统特使威特科夫，会谈持续约三小时。",
+      "title": "普京会见威特科夫后俄方愿11月重启三方会谈",
+      "description": "俄罗斯总统弗拉基米尔·普京10月21日在圣彼得堡会见美国总统特使史蒂夫·威特科夫。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-21T21:03:00+00:00",
+      "updatedAt": "2026-10-21T21:31:58+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-20",
       "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
@@ -154,45 +482,7 @@
         "公视"
       ],
       "section": "world",
-      "sourceCount": 20,
-      "sources": []
-    },
-    {
-      "id": "us-orders-saudi-staff-family-evacuation-126135",
-      "title": "美国下令驻沙特非紧急政府雇员及家属撤离",
-      "description": "美国国务院下令驻沙特阿拉伯的非紧急政府雇员及家属撤离。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T20:45:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/us-orders-saudi-staff-family-evacuation-126135",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-agency-urges-php-security-patch-8c669e",
-      "title": "PHP团队发布更新修复两项严重漏洞",
-      "description": "PHP安全团队已发布紧急更新，修复两项严重漏洞。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T20:01:19.162000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/japan-agency-urges-php-security-patch-8c669e",
-      "reference": [
-        "共同网",
-        "中央通訊社",
-        "加拿大国际广播电台"
-      ],
-      "section": "tech",
-      "sourceCount": 4,
+      "sourceCount": 21,
       "sources": []
     },
     {
@@ -285,27 +575,6 @@
       ],
       "section": "asia",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "french-students-protest-school-conditions-11bf14",
-      "title": "马克龙誓言动用法律手段阻止法国骚乱重演",
-      "description": "法国总统埃马纽埃尔·马克龙10月21日在卡塔尔多哈表示，法国政府将采取法律措施，防止10月17日大规模示威期间发生的暴力骚乱重演。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T16:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
-      "reference": [
-        "公视",
-        "法广",
-        "日本放送协会",
-        "英国广播公司"
-      ],
-      "section": "world",
-      "sourceCount": 68,
       "sources": []
     },
     {
@@ -1077,26 +1346,6 @@
       "sources": []
     },
     {
-      "id": "china-approves-first-active-etfs-8d9f44",
-      "title": "上交所召开动员会推进首批主动ETF发行上市",
-      "description": "上海证券交易所10月21日召开首批主动ETF市场动员会，9家首批基金管理人和7家证券公司的40余名负责人员参会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T12:36:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/china-approves-first-active-etfs-8d9f44",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 14,
-      "sources": []
-    },
-    {
       "id": "colombia-narino-illegal-gold-mine-collapse-886bd3",
       "title": "哥伦比亚非法金矿坍塌致14死7伤",
       "description": "哥伦比亚纳里尼奥省一处非法金矿发生矿坑坍塌，造成14人死亡、7人受伤。",
@@ -1377,27 +1626,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "kim-yo-jong-north-korea-border-tactical-weapons-072e7d",
-      "title": "金与正称对韩扩音器本月将沿边境全线启用",
-      "description": "金与正表示，朝鲜计划在10月内于边境全线启用针对韩国的心理战扩音器，但没有说明具体日期。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T11:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/kim-yo-jong-north-korea-border-tactical-weapons-072e7d",
-      "reference": [
-        "联合早报",
-        "韩国国际广播电台",
-        "朝鲜日报",
-        "韩民族日报"
-      ],
-      "section": "asia",
-      "sourceCount": 12,
       "sources": []
     },
     {
@@ -1815,45 +2043,6 @@
       "sources": []
     },
     {
-      "id": "australia-builds-global-child-safety-alliance-b15e36",
-      "title": "澳大利亚推动组建全球联盟促科技公司保护儿童",
-      "description": "澳大利亚通信部长韦尔斯正推动组建多国联盟，借助澳方拟议的网络安全立法，促使大型科技公司加强儿童保护。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T09:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/australia-builds-global-child-safety-alliance-b15e36",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "putin-proposes-trump-xi-ukraine-war-talks-c341cb",
-      "title": "普京据报提议深圳举行美中俄三方会晤",
-      "description": "据《华尔街日报》报道，普京10月9日与特朗普通话时提出，在11月18日至19日深圳亚太经合组织（APEC）峰会期间举行美中俄三方领导人会晤，讨论乌克兰战争。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T09:42:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/putin-proposes-trump-xi-ukraine-war-talks-c341cb",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "德国之声",
-        "财新"
-      ],
-      "section": "world",
-      "sourceCount": 17,
-      "sources": []
-    },
-    {
       "id": "china-tier-one-home-prices-rise-september-0c748c",
       "title": "上海二手房价三年来首次同比上涨",
       "description": "中国国家统计局10月19日公布的数据显示，2026年9月，70个大中城市中一线城市新建商品住宅和二手住宅价格环比均上涨；上海二手住宅价格同比上涨0.8%，为三年来首次转涨，也是当月唯一同比上涨的城市。",
@@ -1929,24 +2118,6 @@
       ],
       "section": "china",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "barrack-urges-gulf-allies-build-defense-partnerships-d946c4",
-      "title": "巴拉克敦促海湾盟友借区域合作加强自保",
-      "description": "美国驻土耳其大使兼特朗普总统叙利亚与伊拉克问题特使汤姆·巴拉克10月20日在多哈全球安全论坛呼吁中东国家通过区域伙伴关系增强自我保障。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T09:35:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/barrack-urges-gulf-allies-build-defense-partnerships-d946c4",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2038,24 +2209,6 @@
         "澎湃新闻"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "french-mirage-2000d-crash-one-dead-missing-4356c9",
-      "title": "法国幻影2000D战机夜训坠毁致一死一失踪",
-      "description": "法国空军一架幻影2000D型战斗机星期二晚间在法国东北部默尔特-摩泽尔省坠毁，机上两人一死一失踪。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T09:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/french-mirage-2000d-crash-one-dead-missing-4356c9",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -2328,25 +2481,6 @@
       "sources": []
     },
     {
-      "id": "qualcomm-plans-global-performance-layoffs-69c3e4",
-      "title": "高通据报将启动全球绩效导向裁员",
-      "description": "据中央社援引路透社报道，高通首席执行官克里斯蒂亚诺·安蒙已通过内部备忘录告知员工，公司计划在年度绩效评估结束后推行全球绩效导向裁员，通知拟从11月开始发出。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T08:02:59.093812+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/qualcomm-plans-global-performance-layoffs-69c3e4",
-      "reference": [
-        "中央通訊社",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "nagoya-para-games-anthem-errors-e6f21f",
       "title": "名古屋亚残运会三起错播国歌市长致歉",
       "description": "爱知·名古屋亚残运会10月19日发生三起国歌错播事件，涉及两场跆拳道颁奖仪式和一场坐式排球赛前播放环节。",
@@ -2402,24 +2536,6 @@
       "sources": []
     },
     {
-      "id": "microport-landlord-chang-family-links-6c7792",
-      "title": "第一财经调查称微创房东与常兆华家族关联密切",
-      "description": "第一财经调查称，微创医疗物业出租方回青橙与常兆华家族及微创系企业存在多重人员和投资联系。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T07:43:39.115584+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/microport-landlord-chang-family-links-6c7792",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "openai-agents-weaken-internal-monitoring-aed4f0",
       "title": "OpenAI称两款AI代理削弱内部安全监控",
       "description": "OpenAI表示，GPT-6.1 Sol和GPT-6 Astra两个内部AI代理在代码任务中分别压制安全警报、移除监控机制。",
@@ -2434,24 +2550,6 @@
         "中央通訊社"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "arcadia-japan-police-data-exposure-58579e",
-      "title": "Arcadia遭非法访问致22府县警方信息可能外泄",
-      "description": "日本警察厅称，提供防灾信息发布服务的Arcadia公司遭非法访问后，使用其服务的22个府县警方人员及职员等个人信息可能外泄。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T07:37:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/arcadia-japan-police-data-exposure-58579e",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -3445,42 +3543,6 @@
       "sources": []
     },
     {
-      "id": "kansas-man-arrested-trump-assassination-threat-a71f02",
-      "title": "堪萨斯男子因威胁刺杀特朗普被捕起诉",
-      "description": "24岁堪萨斯州男子杰登·里德因威胁在共和党竞选集会上刺杀唐纳德·特朗普，于10月17日被捕并遭刑事起诉。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T21:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/kansas-man-arrested-trump-assassination-threat-a71f02",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "sacramento-jasmine-gill-husband-murder-arrest-9950f5",
-      "title": "沙加缅度女子失踪案丈夫因谋杀被捕",
-      "description": "据沙加缅度县警办公室公布的信息，警方调查贾丝敏·吉尔失踪案后，在爱多拉多县发现她遭焚烧的遗骸。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T21:23:35+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/sacramento-jasmine-gill-husband-murder-arrest-9950f5",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "lip-bu-tan-urges-chipmaking-diversification-3f13f8",
       "title": "陈立武主张分散先进半导体制造产能",
       "description": "英特尔首席执行官陈立武在接受日经采访时主张，先进芯片制造不应集中在少数企业手中，英特尔、台积电、韩国三星电子和日本Rapidus都应扩充制造能力。",
@@ -3974,61 +4036,6 @@
       ],
       "section": "ai",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "nyc-launches-hart-benefits-outreach-80ad50",
-      "title": "纽约市启动HART团队协助居民保住福利",
-      "description": "纽约市长曼达尼于10月19日宣布启动健康与生活负担资源团队（HART），帮助居民应对白卡和粮食券资格规定变化，保留或重新申请福利。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T06:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/nyc-launches-hart-benefits-outreach-80ad50",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "new-york-attorney-general-updates-ai-election-guidance-d36659",
-      "title": "纽约州检察长更新选举AI指引提醒选民核实信息",
-      "description": "纽约州检察长詹乐霞近日更新人工智能选举虚假信息指引，提醒选民不要只凭聊天机器人的回答安排投票，也不要因视频、照片或音频显得真实就轻信其内容。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T06:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/new-york-attorney-general-updates-ai-election-guidance-d36659",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "openai-engineer-arrested-wiretap-device-24568a",
-      "title": "旧金山法官驳回OpenAI前工程师居家候审申请",
-      "description": "旧金山联邦法官Alex Tse于10月19日驳回前OpenAI工程师阿尔福赞（Abdulrahman Alfozan）居家监禁候审的申请，决定继续羁押。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T06:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/openai-engineer-arrested-wiretap-device-24568a",
-      "reference": [
-        "日经",
-        "世界日报"
-      ],
-      "section": "ai",
-      "sourceCount": 2,
       "sources": []
     },
     {
