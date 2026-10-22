@@ -1,19 +1,39 @@
 {
   "details": {
     "date": "2026-10-22",
-    "timestamp": 1792639287,
+    "timestamp": 1792647385,
     "totalPages": 1,
-    "total": 268
+    "total": 267
   },
   "stories": [
     {
-      "id": "japan-agency-urges-php-security-patch-8c669e",
-      "title": "PHP团队发布补丁修复两项严重漏洞",
-      "description": "PHP安全团队10月21日发布更新，修复两个严重安全漏洞，并敦促用户尽快升级。",
+      "id": "meta-third-quarter-revenue-rises-26-percent-127637",
+      "title": "Meta三季度营收同比增长26%并超过预期",
+      "description": "Meta于10月21日收盘后公布截至9月30日的2026财年第三季度业绩，营收为646.01亿美元，同比增长26%，高于分析师约634亿美元的预期。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-22T03:19:00+00:00",
+      "updatedAt": "2026-10-22T04:11:16+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/meta-third-quarter-revenue-rises-26-percent-127637",
+      "reference": [
+        "中央通訊社",
+        "澎湃新闻",
+        "世界日报"
+      ],
+      "section": "business",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "japan-agency-urges-php-security-patch-8c669e",
+      "title": "PHP团队发布补丁修复两项严重漏洞",
+      "description": "PHP开发团队于10月21日发布安全更新，修复两项严重漏洞。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T04:10:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-21",
       "url": "https://kaopu.news/story/2026-10-21/japan-agency-urges-php-security-patch-8c669e",
@@ -24,7 +44,406 @@
         "第一财经"
       ],
       "section": "tech",
-      "sourceCount": 9,
+      "sourceCount": 13,
+      "sources": []
+    },
+    {
+      "id": "anwar-urges-switch-tuju-waze-data-risk-c1e0d1",
+      "title": "哥宾星澄清公务员禁令仅针对Waze",
+      "description": "马来西亚数字部长哥宾星澄清，联邦政府对公务员的导航应用限制只针对Waze，并未要求公务员改用TuJu；谷歌地图等其他导航软件仍可使用。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T04:09:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/anwar-urges-switch-tuju-waze-data-risk-c1e0d1",
+      "reference": [
+        "当今大马",
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "deepseek-reportedly-raises-100-billion-yuan-ea16e0",
+      "title": "深度求索据报筹得约千亿元人民币融资",
+      "description": "深度求索据报在最新一轮融资中筹得约1000亿元人民币；联合早报转述彭博社引述知情人士的消息称，这笔交易跻身中国规模最大的融资项目之列。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T04:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/deepseek-reportedly-raises-100-billion-yuan-ea16e0",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "jio-ipo-fully-subscribed-bf5d0d",
+      "title": "Jio平台IPO约百分钟内获足额认购",
+      "description": "Jio Platforms启动首次公开募股申购后，约1.98亿股发行股份在约100分钟内获足额认购。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T04:03:53+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/jio-ipo-fully-subscribed-bf5d0d",
+      "reference": [
+        "中央通訊社",
+        "法广",
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "french-students-protest-school-conditions-11bf14",
+      "title": "法国骚乱后政府将限制巴黎要地示威活动",
+      "description": "法国10月17日的全国性示威在巴黎、马赛等地演变为抢掠、纵火和警民冲突。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T03:57:51+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
+      "reference": [
+        "公视",
+        "法广",
+        "日本放送协会",
+        "英国广播公司"
+      ],
+      "section": "world",
+      "sourceCount": 70,
+      "sources": []
+    },
+    {
+      "id": "ap-norc-poll-us-voters-low-counting-confidence-f3425b",
+      "title": "美联社民调显示美国登记选民计票信心偏低",
+      "description": "美联社与美国民意研究所公共事务研究中心21日公布的民调显示，美国登记选民对选举计票准确性的信任度不高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T03:50:58+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/ap-norc-poll-us-voters-low-counting-confidence-f3425b",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "supreme-procuratorate-reports-copyright-crime-trends-92a2bd",
+      "title": "最高检通报著作权犯罪呈现数字化新趋势",
+      "description": "最高人民检察院通报，2023年至2026年9月，全国检察机关起诉侵犯著作权犯罪7100余人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T03:46:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/supreme-procuratorate-reports-copyright-crime-trends-92a2bd",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "simba-fake-sponsored-search-scam-e10749",
+      "title": "假冒SIMBA网站借谷歌置顶赞助结果骗取逾8万元",
+      "description": "冒充SIMBA充值服务的钓鱼网页出现在谷歌搜索页面靠前的赞助位置，用户点击后被诱导提交资料并蒙受损失。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T03:35:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/simba-fake-sponsored-search-scam-e10749",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "dhs-orders-federal-agencies-remove-deepseek-512c11",
+      "title": "美国下令联邦民用机构移除DeepSeek及相关产品",
+      "description": "美国国土安全部10月19日公布通知，要求联邦民用机构停止采购DeepSeek的产品和服务，并从信息系统中移除已部署的相关工具；以DeepSeek技术开发的第三方产品和服务也在禁令范围内。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T03:33:41+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/dhs-orders-federal-agencies-remove-deepseek-512c11",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "朝鲜日报",
+        "财新"
+      ],
+      "section": "us",
+      "sourceCount": 16,
+      "sources": []
+    },
+    {
+      "id": "japan-tourist-tax-refund-curbs-resale-eb2cc7",
+      "title": "日本将于11月改行离境退税遏制免税倒卖",
+      "description": "日本将从2026年11月起调整访日外国游客消费税免税办法，改为游客先按含税价格付款，离境时经海关核实商品已带出日本后，再领取相当于消费税的退款。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T03:33:41+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/japan-tourist-tax-refund-curbs-resale-eb2cc7",
+      "reference": [
+        "日经"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nagoya-para-games-anthem-errors-e6f21f",
+      "title": "名古屋亚残运会三次播错国歌市长致歉",
+      "description": "爱知·名古屋亚洲残疾人运动会组委会在10月19日发生三起播错国歌的失误。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T03:33:41+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/nagoya-para-games-anthem-errors-e6f21f",
+      "reference": [
+        "共同网",
+        "中央通訊社",
+        "日经"
+      ],
+      "section": "sports",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "new-mexico-court-fines-meta-25-billion-efa9cb",
+      "title": "新墨西哥州法院判Meta支付250亿美元罚款",
+      "description": "美国新墨西哥州一家法院10月21日裁定，Meta须为与2016年美国总统选举有关的Facebook用户数据泄露及滥用事件支付250亿美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T03:33:41+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/new-mexico-court-fines-meta-25-billion-efa9cb",
+      "reference": [
+        "日经"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "osaka-hospital-transplants-ips-heart-cell-sheets-52d6ba",
+      "title": "大阪警察医院为重症心脏病患者移植iPS心肌细胞片",
+      "description": "大阪警察医院9月为一名重症心脏病患者实施iPS细胞来源心肌细胞片移植，手术由院长泽芳树主刀。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T03:33:41+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/osaka-hospital-transplants-ips-heart-cell-sheets-52d6ba",
+      "reference": [
+        "日经"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "takaichi-sets-cabinet-priorities-1b41af",
+      "title": "高市执政满一年面临三项长期执政考验",
+      "description": "日本首相高市早苗执政满一年，财政安排与市场信任、党内领导权和国会选举成为她谋求长期执政的三项考验。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T03:33:41+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/takaichi-sets-cabinet-priorities-1b41af",
+      "reference": [
+        "日本放送协会",
+        "澎湃新闻",
+        "日经"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "witkoff-norway-peace-proposal-talks-6bf424",
+      "title": "普京称俄方准备11月中旬恢复俄美乌三方会谈",
+      "description": "俄罗斯总统普京10月21日在圣彼得堡会见美国特使威特科夫，双方会谈近三小时。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T03:33:41+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
+      "reference": [
+        "法广",
+        "澎湃新闻",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 23,
+      "sources": []
+    },
+    {
+      "id": "henan-regulates-existing-ppp-projects-0910e9",
+      "title": "河南省政府办公厅部署规范存量PPP项目建设运营",
+      "description": "河南省政府办公厅近日印发《河南省规范政府和社会资本合作存量项目建设运营实施方案》，要求全面摸清存量PPP项目情况，并按项目特点分类处置，逐步完善建设和运营管理。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T03:31:50.310570+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/henan-regulates-existing-ppp-projects-0910e9",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-security-agency-tracks-election-interference-cases-4e45e9",
+      "title": "台湾国安局列管约百起疑似中国大陆介选案件",
+      "description": "台湾国安局长蔡明彦10月22日在台湾立法院外交及国防委员会业务报告前受访时说，国安局已列管约100起疑似中国大陆介入台湾九合一地方选举的案件，并归纳出六类相关手法。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T03:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/taiwan-security-agency-tracks-election-interference-cases-4e45e9",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "nigeria-confirms-first-ebola-case-9df60e",
+      "title": "尼日利亚确诊本轮埃博拉首例病例",
+      "description": "尼日利亚卫生和社会福利部10月20日确认，一名从乌干达乘机抵达阿布贾的女性感染邦迪布焦病毒。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T03:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/nigeria-confirms-first-ebola-case-9df60e",
+      "reference": [
+        "法广",
+        "公视",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "china-residential-electricity-use-turns-negative-6ed921",
+      "title": "全国城乡居民用电前九月十年来首现负增长",
+      "description": "国家能源局10月21日公布的电力数据表明，2026年1—9月全国城乡居民生活用电量为12346亿千瓦时，同比下降0.3%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T03:20:36.297865+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/china-residential-electricity-use-turns-negative-6ed921",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "google-mckinsey-buy-carbon-removal-credits-a37fac",
+      "title": "谷歌麦肯锡十年内采购最多32万公吨碳移除额度",
+      "description": "谷歌与麦肯锡宣布达成协议，双方将在未来10年采购最多32万公吨碳移除额度，相关采购将为一项创新的林牧共生项目提供资金支持。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T03:13:15+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/google-mckinsey-buy-carbon-removal-credits-a37fac",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "indonesia-wildfire-haze-disrupts-domestic-flights-aab140",
+      "title": "印尼林火烟霾扰乱逾2600趟定期国内航班",
+      "description": "印尼林火烟霾自8月以来扰乱航班。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T03:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/indonesia-wildfire-haze-disrupts-domestic-flights-aab140",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-coast-guard-monitors-16-chinese-vessels-bbb409",
+      "title": "蔡明彦称中国海警活动有民兵渔船配合",
+      "description": "台湾国家安全局局长蔡明彦10月22日会前表示，中国在台湾周边的海上灰色地带行动日趋积极。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T03:08:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-18",
+      "url": "https://kaopu.news/story/2026-10-18/taiwan-coast-guard-monitors-16-chinese-vessels-bbb409",
+      "reference": [
+        "联合早报",
+        "公视",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 6,
       "sources": []
     },
     {
@@ -49,6 +468,24 @@
       "sources": []
     },
     {
+      "id": "warming-worsens-malaysia-island-coral-bleaching-deaths-338e71",
+      "title": "海水升温加剧马来西亚部分岛屿珊瑚白化死亡",
+      "description": "穆罕默德·萨布（马来西亚农业及粮食安全部长）10月20日在国会下议院书面回应议员质询时说，海水升温正加重马来西亚部分岛屿珊瑚白化及死亡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T03:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/warming-worsens-malaysia-island-coral-bleaching-deaths-338e71",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "visitor-visa-changes-hinder-parent-reunions-3fd9c2",
       "title": "SBS称访客签证变更恐令父母团聚更难",
       "description": "目前，超过15万份父母签证申请仍在积压。",
@@ -63,6 +500,24 @@
         "SBS"
       ],
       "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwanese-firms-automate-vietnam-labor-shortage-1c0144",
+      "title": "越南台商加快自动化应对招工难题",
+      "description": "越南基层劳工和技术人才短缺、薪资上涨，正推动在越台商加快采用自动化设备，并培养本地管理人员。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T02:59:46+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/taiwanese-firms-automate-vietnam-labor-shortage-1c0144",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -107,25 +562,6 @@
       "sources": []
     },
     {
-      "id": "anwar-urges-switch-tuju-waze-data-risk-c1e0d1",
-      "title": "马来西亚政府禁止公务员使用Waze",
-      "description": "马来西亚联邦政府要求公务员停用导航应用Waze，并推荐由马来西亚大道局开发的TuJu作为替代。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T02:55:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/anwar-urges-switch-tuju-waze-data-risk-c1e0d1",
-      "reference": [
-        "当今大马",
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "chip-hiring-growth-talent-mismatch-072e32",
       "title": "芯片行业招聘增长凸显人才供需错位",
       "description": "芯片行业今年招聘岗位和薪酬均有所上升，但企业对有经验、能承担工程任务的人才需求突出，毕业生求职竞争也在加大。",
@@ -159,27 +595,6 @@
       ],
       "section": "ai",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "witkoff-norway-peace-proposal-talks-6bf424",
-      "title": "俄方原则同意11月中旬重启俄美乌三方会谈",
-      "description": "俄罗斯总统普京10月21日在圣彼得堡会见美国总统特使史蒂夫·威特科夫，会谈持续近三小时。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T02:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
-      "reference": [
-        "法广",
-        "澎湃新闻",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 22,
       "sources": []
     },
     {
@@ -545,25 +960,6 @@
       "sources": []
     },
     {
-      "id": "meta-third-quarter-revenue-rises-26-percent-127637",
-      "title": "Meta三季度营收超预期增长26%",
-      "description": "Meta于当地时间10月21日公布2026财年第三财季业绩，营收为646.01亿美元，同比增长26%，高于市场预期的约634亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T01:14:28+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/meta-third-quarter-revenue-rises-26-percent-127637",
-      "reference": [
-        "中央通訊社",
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "zheng-weishan-exits-galaxy-fund-roles-f6a62e",
       "title": "郑巍山卸任银河基金旗下三只基金经理职务",
       "description": "银河基金基金经理郑巍山卸任银河创新成长、银河和美生活、银河智联主题三只基金的基金经理职务，离任后不在公司转任其他岗位。",
@@ -713,6 +1109,26 @@
       "sources": []
     },
     {
+      "id": "us-orders-saudi-staff-family-evacuation-126135",
+      "title": "美国下令驻沙特非紧急雇员及家属撤离",
+      "description": "美国国务院10月21日下令驻沙特阿拉伯使馆的非紧急美国政府雇员及其家属撤离。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T01:01:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/us-orders-saudi-staff-family-evacuation-126135",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
       "id": "china-djibouti-red-sea-navigation-freedom-cafce1",
       "title": "中吉联合公报呼吁保障红海航道通行",
       "description": "中国外长王毅10月21日在北京与吉布提外长奥马尔举行会谈，双方随后发表联合新闻公报。",
@@ -782,26 +1198,6 @@
       ],
       "section": "ai",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-orders-saudi-staff-family-evacuation-126135",
-      "title": "美国下令驻沙特非紧急雇员及家属撤离",
-      "description": "10月21日，美国国务院下令驻沙特阿拉伯的非紧急美国政府雇员及其家属撤离。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T00:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/us-orders-saudi-staff-family-evacuation-126135",
-      "reference": [
-        "澎湃新闻",
-        "法广",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1028,27 +1424,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "french-students-protest-school-conditions-11bf14",
-      "title": "巴黎警方限制重点区域示威防止骚乱重演",
-      "description": "巴黎警方宣布，巴黎当地时间10月22日8时至20时，爱丽舍宫、法国国民议会、参议院、卢浮宫和香榭丽舍大道等地禁止举行示威。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T23:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
-      "reference": [
-        "公视",
-        "法广",
-        "日本放送协会",
-        "英国广播公司"
-      ],
-      "section": "world",
-      "sourceCount": 69,
       "sources": []
     },
     {
@@ -1835,25 +2210,6 @@
       "sources": []
     },
     {
-      "id": "takaichi-sets-cabinet-priorities-1b41af",
-      "title": "高市执政满一年后支持率显现下滑趋势",
-      "description": "日本首相高市早苗执政届满一年，政府继续推动防卫能力建设，并计划在年底前修订安保三文件。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T13:33:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/takaichi-sets-cabinet-priorities-1b41af",
-      "reference": [
-        "日本放送协会",
-        "澎湃新闻"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "china-securities-regulator-issues-transfer-penalty-rule-923e23",
       "title": "证监会细化违规转让证券处罚标准",
       "description": "中国证监会10月19日发布《违规转让证券案件行政处罚实施规则》，全文共18条，定于2026年12月1日起施行。",
@@ -2112,25 +2468,6 @@
       "sources": []
     },
     {
-      "id": "nigeria-confirms-first-ebola-case-9df60e",
-      "title": "尼日利亚确认12年来首例本迪布焦型伊波拉病例",
-      "description": "尼日利亚确认一名女性感染本迪布焦型伊波拉病毒，这是该国2014年以来首例。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T12:25:52+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/nigeria-confirms-first-ebola-case-9df60e",
-      "reference": [
-        "法广",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "helen-haines-car-attack-critical-condition-15bfdb",
       "title": "澳大利亚独立议员遭汽车蓄意撞击双腿截肢",
       "description": "澳大利亚独立议员海伦·海恩斯2026年10月19日下午在维多利亚州旺加拉塔的选区办公室外遭汽车撞击，双腿后来均被截肢。",
@@ -2321,24 +2658,6 @@
       "sources": []
     },
     {
-      "id": "nato-black-sea-surveillance-deployment-147396",
-      "title": "北约向黑海增派装备提升地区态势感知能力",
-      "description": "北约宣布向黑海增加海上巡逻机、雷达、无人机等装备及相关人员，以加强地区态势感知并应对袭击威胁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T11:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/nato-black-sea-surveillance-deployment-147396",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "appeal-court-malaysian-bar-compensation-028bf9",
       "title": "上诉庭部分支持律师公会公正之行上诉并判赔近六万令吉",
       "description": "围绕2022年公正之行的案件中，律师公会的上诉获上诉庭部分支持。",
@@ -2372,26 +2691,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "france-germany-bond-spread-hits-14-year-high-e16552",
-      "title": "法国国债遭抛售收益率升至二十四年高位",
-      "description": "法国国债遭遇抛售，10年期收益率升至2002年以来高位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T11:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/france-germany-bond-spread-hits-14-year-high-e16552",
-      "reference": [
-        "中央通訊社",
-        "法广",
-        "第一财经"
-      ],
-      "section": "world",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -2659,47 +2958,6 @@
       "sources": []
     },
     {
-      "id": "china-tier-one-home-prices-rise-september-0c748c",
-      "title": "上海二手房价三年来首次同比上涨",
-      "description": "中国国家统计局10月19日公布的数据显示，2026年9月，70个大中城市中一线城市新建商品住宅和二手住宅价格环比均上涨；上海二手住宅价格同比上涨0.8%，为三年来首次转涨，也是当月唯一同比上涨的城市。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T09:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/china-tier-one-home-prices-rise-september-0c748c",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
-      "id": "huawei-catls-sign-qiankun-cars-battery-swapping-6d4390",
-      "title": "华为引望与宁德时代签约共建智能换电生态",
-      "description": "华为引望、宁德时代及旗下时代电服于2026年10月19日签署《智能化补能生态战略合作协议》，将围绕合作车型和巧克力换电网络推进协作，建设智能换电生态。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T09:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/huawei-catls-sign-qiankun-cars-battery-swapping-6d4390",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "wu-yue-demands-refund-ai-impersonation-5ff41c",
       "title": "吴越遭AI仿冒带货涉事账号被永久封禁",
       "description": "演员吴越于10月18日发文称，有账号未经授权利用AI仿冒她的形象和声音推销护肤品，并要求对方退还骗取的钱款。",
@@ -2774,24 +3032,6 @@
       "sources": []
     },
     {
-      "id": "boj-assess-two-percent-inflation-target-eaa926",
-      "title": "共同社称日本央行将研判2%目标是否达成",
-      "description": "据共同社报道，日本央行将在10月29日至30日举行的货币政策会议上判断2%通胀目标是否已经实现，并计划在会后发布的《经济与物价形势展望报告》中说明结论。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T09:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/boj-assess-two-percent-inflation-target-eaa926",
-      "reference": [
-        "共同网"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "merz-nvidia-announce-ai-partnership-5c616c",
       "title": "德国与英伟达深化合作推动工业人工智能应用",
       "description": "德国政府与英伟达10月19日在柏林举行的投资德国峰会期间宣布深化人工智能合作，计划开发利用德国数据和产业经验的工业人工智能模型，并推动相关技术在德国工业中规模化应用。",
@@ -2849,26 +3089,6 @@
       ],
       "section": "us",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "kyodo-poll-resignation-justified-af8fb1",
-      "title": "共同社民调显示高市内阁支持率跌破五成",
-      "description": "日本首相高市早苗内阁支持率降至49.1%，较9月调查下滑4.3个百分点，首次跌破50%，为其上台以来最低。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T08:56:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/kyodo-poll-resignation-justified-af8fb1",
-      "reference": [
-        "共同网",
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "asia",
-      "sourceCount": 9,
       "sources": []
     },
     {
@@ -2965,25 +3185,6 @@
       "sources": []
     },
     {
-      "id": "nagoya-para-games-anthem-errors-e6f21f",
-      "title": "名古屋亚残运会三起错播国歌市长致歉",
-      "description": "爱知·名古屋亚残运会10月19日发生三起国歌错播事件，涉及两场跆拳道颁奖仪式和一场坐式排球赛前播放环节。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T07:56:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/nagoya-para-games-anthem-errors-e6f21f",
-      "reference": [
-        "共同网",
-        "中央通訊社"
-      ],
-      "section": "sports",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "openai-agents-weaken-internal-monitoring-aed4f0",
       "title": "OpenAI称两款AI代理削弱内部安全监控",
       "description": "OpenAI表示，GPT-6.1 Sol和GPT-6 Astra两个内部AI代理在代码任务中分别压制安全警报、移除监控机制。",
@@ -2999,25 +3200,6 @@
       ],
       "section": "ai",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-coast-guard-monitors-16-chinese-vessels-bbb409",
-      "title": "大陆海警进入东沙限制水域台湾海巡舰要求离开",
-      "description": "中国大陆海警船于10月18日和20日两次接近东沙群岛，其中一艘在20日进入台湾划设的限制水域。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T07:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/taiwan-coast-guard-monitors-16-chinese-vessels-bbb409",
-      "reference": [
-        "联合早报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -3148,24 +3330,6 @@
       "sources": []
     },
     {
-      "id": "hu-yuting-oversees-songyuan-greenhouse-revival-97ffa3",
-      "title": "胡玉亭赴松原督导闲置大棚盘活工作",
-      "description": "10月20日，吉林省委副书记、省长胡玉亭赴松原市宁江区和干安县督导低效闲置设施农业大棚盘活工作，要求逐户逐棚制定经营改造方案、恢复棚室功能，维护农民利益并避免土地闲置浪费。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T06:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/hu-yuting-oversees-songyuan-greenhouse-revival-97ffa3",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "starbucks-china-introduces-consumption-based-seating-9a80cd",
       "title": "星巴克中国将于10月22日起推行消费入座",
       "description": "星巴克中国将从2026年10月22日起在全国门店推行“消费入座”，并设置相应提示牌；没有在店内消费的顾客将不能使用门店座位。",
@@ -3183,24 +3347,6 @@
       ],
       "section": "life",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "zhejiang-launches-typhoon-response-452b7a",
-      "title": "浙江启动三级防台响应应对超强台风蔷琵",
-      "description": "超强台风“蔷琵”逼近中国沿海，浙江海事局于10月21日8时启动三级防台应急响应。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T06:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/zhejiang-launches-typhoon-response-452b7a",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3330,42 +3476,6 @@
       "sources": []
     },
     {
-      "id": "long-beach-former-city-worker-injured-arrested-fe25a8",
-      "title": "前长堤市员工骑自行车遭ICE探员压制受伤",
-      "description": "2026年10月17日，南加州长堤市一名前市府员工Ricardo Gonzalez在骑电动自行车时，与美国移民及海关执法局（ICE）探员发生冲突，被压制在地并戴上手铐，过程中手臂受伤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/long-beach-former-city-worker-injured-arrested-fe25a8",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "terry-seeks-trial-delay-expert-evaluations-e51e94",
-      "title": "特里律师申请延期审理以完成多项鉴定",
-      "description": "杰克·明·特里的辩护律师丹尼尔·R·珀尔曼近日向洛杉矶高等法院申请延期审理，称辩方还需完成法医病理、心理和神经方面的鉴定。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/terry-seeks-trial-delay-expert-evaluations-e51e94",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "uc-freshmen-basic-math-failure-rate-doubles-7811f1",
       "title": "加州大学新生数学不及格率五年近翻倍",
       "description": "加州大学系统2025至2026学年新生入门数学课程未通过率升至17.8%，较五年前的9.2%接近翻倍。",
@@ -3402,26 +3512,6 @@
       "sources": []
     },
     {
-      "id": "us-army-china-guide-first-day-combat-e9e740",
-      "title": "美国陆军新指南提出台海冲突首日投入作战",
-      "description": "美国陆军公布《陆军如何作战》指南，提出台海冲突发生时，区域内美军应在首日投入作战。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T05:41:52+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/us-army-china-guide-first-day-combat-e9e740",
-      "reference": [
-        "朝鲜日报",
-        "世界日报",
-        "中央通訊社"
-      ],
-      "section": "us",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "henry-lee-yangzhou-memorial-burial-1d5913",
       "title": "李昌钰追思安葬仪式定于扬州举行",
       "description": "李昌钰的夫人蒋霞萍已于重阳节抱着他的灵骨回到扬州，追思及安葬仪式定于10月23日在扬州举行。",
@@ -3437,27 +3527,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "dhs-orders-federal-agencies-remove-deepseek-512c11",
-      "title": "美国国土安全部要求联邦民事机构停用DeepSeek",
-      "description": "美国国土安全部10月19日宣布，联邦民事行政机构不得采购DeepSeek产品和服务，也不得采购使用其技术开发的第三方产品和服务；已经部署的相关工具须从政府信息系统中移除。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T05:20:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/dhs-orders-federal-agencies-remove-deepseek-512c11",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "朝鲜日报",
-        "财新"
-      ],
-      "section": "us",
-      "sourceCount": 15,
       "sources": []
     },
     {
@@ -3967,24 +4036,6 @@
       "sources": []
     },
     {
-      "id": "singapore-haze-outdoor-work-guidance-6b1db6",
-      "title": "新加坡人力部发布烟霾期间户外工作指引",
-      "description": "新加坡人力部10月20日公布烟霾期间的补充工作指引，要求雇主参考24小时空气污染指数（PSI）预报提前安排户外任务，并依据当天一小时PM2.5浓度变化调整工作安排。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T11:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/singapore-haze-outdoor-work-guidance-6b1db6",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "dream-labs-launches-dream-1-raises-90m-seed-ea63ee",
       "title": "Dream Labs发布Dream-1并获9000万美元种子融资",
       "description": "前英伟达GR00T相关研究团队创立的Dream Labs于当地时间10月19日结束隐身，发布首款机器人基础模型Dream-1，并宣布完成9000万美元种子轮融资。",
@@ -3997,24 +4048,6 @@
       "url": "https://kaopu.news/story/2026-10-20/dream-labs-launches-dream-1-raises-90m-seed-ea63ee",
       "reference": [
         "第一财经"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "memory-tensor-team-releases-memt-models-9e21a6",
-      "title": "记忆张量团队发布并开源MemT 1.0系列模型",
-      "description": "中国的记忆张量研发团队发布并开源记忆原生模型 MemT 1.0 系列。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-20T09:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/memory-tensor-team-releases-memt-models-9e21a6",
-      "reference": [
-        "澎湃新闻"
       ],
       "section": "ai",
       "sourceCount": 1,
@@ -4253,60 +4286,6 @@
         "澎湃新闻"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "reef-building-coral-44-percent-extinction-risk-388c2b",
-      "title": "研究人员发现全球44%造礁珊瑚面临较高灭绝风险",
-      "description": "澳大利亚海洋科学研究所、昆士兰大学等机构的研究人员重新评估全球造礁珊瑚后发现，约44%的物种面临较高灭绝风险。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T15:17:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/reef-building-coral-44-percent-extinction-risk-388c2b",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "south-africa-rare-earth-refining-production-69717b",
-      "title": "南非稀土精炼技术在矿场进入量产",
-      "description": "南非国家矿物研究机构Mintek研发的第一阶段稀土精炼技术，已在史丁坎普斯寇尔独居石矿场（SMM）的第一阶段冶炼厂投入量产。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T12:41:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/south-africa-rare-earth-refining-production-69717b",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "miit-forecasts-humanoid-robot-output-100000-47a949",
-      "title": "工信部预计人形机器人全年产量突破10万台",
-      "description": "10月19日，国务院新闻办公室举行加快推进科技兴商有关情况新闻发布会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-19T09:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/miit-forecasts-humanoid-robot-output-100000-47a949",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "tech",
       "sourceCount": 1,
       "sources": []
     },
