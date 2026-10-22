@@ -1,15 +1,210 @@
 {
   "details": {
     "date": "2026-10-22",
-    "timestamp": 1792658262,
+    "timestamp": 1792661433,
     "totalPages": 1,
-    "total": 264
+    "total": 263
   },
   "stories": [
     {
+      "id": "registrar-revokes-pn-registration-769ecb",
+      "title": "马来西亚高庭暂缓执行撤销国盟注册决定",
+      "description": "马来西亚吉隆坡高庭10月22日批准国民联盟（国盟）申请，暂缓执行社团注册局撤销其注册的决定。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T08:11:54+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/registrar-revokes-pn-registration-769ecb",
+      "reference": [
+        "当今大马",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "china-residential-electricity-use-turns-negative-6ed921",
+      "title": "中国居民前三季度用电十年来首次累计负增长",
+      "description": "中国国家能源局公布的数据显示，2026年1至9月全国城乡居民生活用电量为12346亿千瓦时，同比下降0.3%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T07:52:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/china-residential-electricity-use-turns-negative-6ed921",
+      "reference": [
+        "第一财经",
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "philippines-explores-taiwan-cable-cooperation-edc6e1",
+      "title": "菲律宾探讨与台湾合作保护海底电缆",
+      "description": "菲律宾驻美使馆副馆长卡里诺三世10月21日在华盛顿新美国安全中心研讨会上表示，菲律宾正与台湾讨论务实合作，重点包括保护海底电缆和应对灰色地带行动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T07:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/philippines-explores-taiwan-cable-cooperation-edc6e1",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "澎湃新闻"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "wmo-warns-el-nino-record-strength-2d3ac9",
+      "title": "联合国警告厄尔尼诺恐使5000万人粮食短缺加剧",
+      "description": "联合国世界气象组织（WMO）和联合国人道主义事务协调厅（OCHA）10月21日在日内瓦警告，本轮厄尔尼诺可能发展为异常强烈事件，并使全球最多约5000万人面临更严重的粮食短缺。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T07:48:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/wmo-warns-el-nino-record-strength-2d3ac9",
+      "reference": [
+        "英国广播公司",
+        "法广",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "french-students-protest-school-conditions-11bf14",
+      "title": "巴黎在多个重要地点实施集会禁令",
+      "description": "法国因生活成本、教育条件和公共服务等问题爆发的大规模示威，部分于10月17日演变为暴力骚乱。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T07:45:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
+      "reference": [
+        "公视",
+        "法广",
+        "日本放送协会",
+        "英国广播公司"
+      ],
+      "section": "world",
+      "sourceCount": 89,
+      "sources": []
+    },
+    {
+      "id": "kddi-admits-mobicom-mongolia-grassland-fire-a75b5a",
+      "title": "KDDI承认子公司人员事发时在蒙古火灾保护区",
+      "description": "蒙古国东方省努姆鲁格自然保护区10月8日发生大规模草原火灾，明火于16日扑灭。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T07:41:57+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/kddi-admits-mobicom-mongolia-grassland-fire-a75b5a",
+      "reference": [
+        "澎湃新闻",
+        "日经"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "taiwan-cabinet-approves-agriculture-upgrade-plan-669848",
+      "title": "台湾行政院通过152亿元农业升级计划",
+      "description": "台湾行政院会通过农业部提出的“116—119年建置智能韧性设施农业及农机辅导体系”报告，两项计划合计编列新台币152亿元，旨在升级设施农业、调整农机辅导，以应对农业缺工和极端天气。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T07:31:49+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/taiwan-cabinet-approves-agriculture-upgrade-plan-669848",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "sally-rooney-books-withdrawn-uk-fae322",
+      "title": "萨莉·鲁尼作品在英国停售引发言论自由担忧",
+      "description": "作家萨莉·鲁尼的作品在英国停售。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T07:30:29+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/sally-rooney-books-withdrawn-uk-fae322",
+      "reference": [
+        "端传媒"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "anwar-urges-switch-tuju-waze-data-risk-c1e0d1",
+      "title": "马来西亚政府禁公务员使用Waze防信息风险",
+      "description": "马来西亚政府于10月20日要求公务员停止使用导航应用Waze。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T07:28:42+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/anwar-urges-switch-tuju-waze-data-risk-c1e0d1",
+      "reference": [
+        "当今大马",
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "witkoff-norway-peace-proposal-talks-6bf424",
+      "title": "普京同意11月中旬重启美俄乌三方谈判",
+      "description": "俄罗斯总统普京原则上同意重启俄罗斯、美国和乌克兰三方谈判。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T07:19:29+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
+      "reference": [
+        "法广",
+        "澎湃新闻",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 26,
+      "sources": []
+    },
+    {
       "id": "japan-agency-urges-php-security-patch-8c669e",
-      "title": "PHP两项高危漏洞促多国网站预防性下线",
-      "description": "PHP安全团队发布两项严重漏洞的修复更新后，荷兰、芬兰、法国、日本等地的政府机构和企业采取紧急防护措施，部分网站和线上服务一度关闭或进入维护。",
+      "title": "PHP官方发布补丁修复两项严重漏洞",
+      "description": "PHP安全团队10月21日发布安全更新，修复两项严重远程代码执行漏洞，编号为CVE-2026-109618和CVE-2026-109619，CVSS v4.0评分均为9.2分（满分10分）。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -47,6 +242,60 @@
       "sources": []
     },
     {
+      "id": "russia-claims-808-ukrainian-drones-shot-down-5d15a0",
+      "title": "俄罗斯国防部称俄军一夜击落808架乌克兰无人机",
+      "description": "联合早报援引法新社报道，俄罗斯国防部称，俄军防空系统一夜间在俄罗斯多个地区及被俄罗斯吞并的克里米亚上空击落808架乌克兰无人机。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T07:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/russia-claims-808-ukrainian-drones-shot-down-5d15a0",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "hankyoreh-warns-korea-debt-risks-stress-tests-543b8c",
+      "title": "韩民族日报警告韩国债务风险须提前压力测试",
+      "description": "韩民族日报刊发全南大学经济学部教授林贤俊的评论，指出不能因韩国政府债务率低于七国集团平均水平就判断风险有限，并呼吁检查监管盲点、对薄弱借款人和企业提前开展压力测试。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T07:08:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/hankyoreh-warns-korea-debt-risks-stress-tests-543b8c",
+      "reference": [
+        "韩民族日报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-natural-disasters-affect-56-million-eef9c2",
+      "title": "前三季度自然灾害致5646万人次受灾",
+      "description": "中国国家防灾减灾救灾委员会办公室、应急管理部近日会同有关成员单位，对2026年前三季度全国自然灾害情况进行了会商分析。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T07:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/china-natural-disasters-affect-56-million-eef9c2",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "japan-issues-akita-river-flood-emergency-warning-2ae140",
       "title": "秋田子吉川河滩发现老人送医后确认死亡",
       "description": "秋田县由利本庄市子吉川附近河滩发现一名老年男子，送医后确认死亡。",
@@ -62,6 +311,25 @@
       ],
       "section": "asia",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "chiang-wan-an-rethinks-songshan-airport-relocation-f34c77",
+      "title": "蒋万安表示愿与中央协商松山机场迁建",
+      "description": "台湾台北市长蒋万安10月22日表示，愿与台湾中央政府讨论松山机场迁建，但评估不应只依据现有条件，还应考虑未来6年、10年的需求。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T06:53:14+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/chiang-wan-an-rethinks-songshan-airport-relocation-f34c77",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 30,
       "sources": []
     },
     {
@@ -122,6 +390,24 @@
       ],
       "section": "asia",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "malaysia-searches-54-missing-citizens-nepal-ends-rescue-152abf",
+      "title": "马来西亚在尼泊尔终止搜救后续寻54名国民",
+      "description": "马来西亚外交部长莫哈末哈山表示，尼泊尔政府已结束拉苏瓦洪灾搜救行动，但马来西亚仍在寻找54名下落不明的国民。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T06:50:45+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/malaysia-searches-54-missing-citizens-nepal-ends-rescue-152abf",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -243,27 +529,6 @@
       "sources": []
     },
     {
-      "id": "french-students-protest-school-conditions-11bf14",
-      "title": "法国警方因骚乱限制巴黎地标区示威",
-      "description": "法国10月17日举行的全国性示威在部分地区演变为大规模骚乱，政府随后加强安保。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T06:34:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
-      "reference": [
-        "公视",
-        "法广",
-        "日本放送协会",
-        "英国广播公司"
-      ],
-      "section": "world",
-      "sourceCount": 88,
-      "sources": []
-    },
-    {
       "id": "musk-spacex-tesla-merger-good-idea-89e5d0",
       "title": "特斯拉与SpaceX设委员会评估合并",
       "description": "埃隆·马斯克10月20日表示，特斯拉与SpaceX已分别成立由独立董事组成的特别委员会，评估合并事宜。",
@@ -282,6 +547,24 @@
       ],
       "section": "business",
       "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "newsguard-x-community-notes-miss-midterm-misinformation-fe1e36",
+      "title": "新闻守门人称X社群笔记漏判九成美国期中选举假信息",
+      "description": "美国新闻监督机构新闻守门人发现，X上数十条与期中选举有关的帖子传播虚假信息，其中包括捏造的选举舞弊指控。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T06:34:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/newsguard-x-community-notes-miss-midterm-misinformation-fe1e36",
+      "reference": [
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -375,27 +658,6 @@
       ],
       "section": "us",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "witkoff-norway-peace-proposal-talks-6bf424",
-      "title": "普京原则同意11月中旬重启俄美乌三方谈判",
-      "description": "俄罗斯总统普京10月21日在圣彼得堡与美国总统特使史蒂夫·威特科夫会谈约3小时后，俄方表示原则上准备于11月中旬恢复俄罗斯、美国和乌克兰三方谈判。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T06:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
-      "reference": [
-        "法广",
-        "澎湃新闻",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 25,
       "sources": []
     },
     {
@@ -543,25 +805,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "anwar-urges-switch-tuju-waze-data-risk-c1e0d1",
-      "title": "马来西亚政府禁止公务员使用Waze",
-      "description": "马来西亚政府自10月20日起禁止公务员使用导航应用Waze。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T06:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/anwar-urges-switch-tuju-waze-data-risk-c1e0d1",
-      "reference": [
-        "当今大马",
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -1357,25 +1600,6 @@
       "sources": []
     },
     {
-      "id": "chiang-wan-an-rethinks-songshan-airport-relocation-f34c77",
-      "title": "金门县长陈福海坚决反对迁移松山机场",
-      "description": "金门县长陈福海10月22日在金门县议会表示，坚决反对台北市长蒋万安提出的迁移松山机场构想。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T04:24:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/chiang-wan-an-rethinks-songshan-airport-relocation-f34c77",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 29,
-      "sources": []
-    },
-    {
       "id": "seoul-high-court-rejects-lone-star-tax-refund-6e6295",
       "title": "首尔高院驳回孤星基金1682亿韩元退税诉求",
       "description": "首尔高等法院22日重审孤星基金等9家公司向韩国政府和首尔市政府追讨税款一案，驳回孤星方面的返还请求。",
@@ -1693,24 +1917,6 @@
       "sources": []
     },
     {
-      "id": "china-residential-electricity-use-turns-negative-6ed921",
-      "title": "全国城乡居民用电前九月十年来首现负增长",
-      "description": "国家能源局10月21日公布的电力数据表明，2026年1—9月全国城乡居民生活用电量为12346亿千瓦时，同比下降0.3%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T03:20:36.297865+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/china-residential-electricity-use-turns-negative-6ed921",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "google-mckinsey-buy-carbon-removal-credits-a37fac",
       "title": "谷歌麦肯锡十年内采购最多32万公吨碳移除额度",
       "description": "谷歌与麦肯锡宣布达成协议，双方将在未来10年采购最多32万公吨碳移除额度，相关采购将为一项创新的林牧共生项目提供资金支持。",
@@ -1860,25 +2066,6 @@
       ],
       "section": "asia",
       "sourceCount": 18,
-      "sources": []
-    },
-    {
-      "id": "registrar-revokes-pn-registration-769ecb",
-      "title": "马来西亚高庭聆审国盟注册撤销挑战案",
-      "description": "吉隆坡高庭于10月22日上午聆审国民联盟（国盟）对撤销注册决定提出的法律挑战。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T02:57:07+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/registrar-revokes-pn-registration-769ecb",
-      "reference": [
-        "当今大马",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -2086,27 +2273,6 @@
       "sources": []
     },
     {
-      "id": "wmo-warns-el-nino-record-strength-2d3ac9",
-      "title": "联合国预警超强厄尔尼诺加剧全球粮食风险",
-      "description": "联合国世界气象组织（WMO）和联合国人道事务协调厅（OCHA）10月21日警告，正在发展的厄尔尼诺强度可能前所未见，极端天气将影响多个地区并加重粮食短缺风险。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T01:56:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/wmo-warns-el-nino-record-strength-2d3ac9",
-      "reference": [
-        "英国广播公司",
-        "法广",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "china-proposes-l2-ads-light-ban-abe716",
       "title": "工信部拟规范L3及以上车辆自动驾驶标志灯",
       "description": "中国工业和信息化部装备工业一司10月20日发布汽车及挂车外部照明和光信号装置安装要求修订征求意见稿，拟规范L3及以上自动驾驶车辆ADS标志灯的配置和使用。",
@@ -2310,25 +2476,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "philippines-explores-taiwan-cable-cooperation-edc6e1",
-      "title": "菲律宾与台湾探讨深化合作保护海底电缆",
-      "description": "菲律宾与台湾正探讨加强海底电缆等基础设施保护、应对灰色地带行动的务实合作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T01:02:16+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/philippines-explores-taiwan-cable-cooperation-edc6e1",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -2815,27 +2962,6 @@
       "sources": []
     },
     {
-      "id": "indonesia-minister-orders-emergency-peat-burning-ban-aeceea",
-      "title": "普拉博沃下令调查林火涉事企业并依法追责",
-      "description": "印尼总统普拉博沃10月21日在内阁会议上要求警方、总检察署和林业部调查涉嫌引发林火的企业，印尼军方及情报机构将协助调查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T15:06:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/indonesia-minister-orders-emergency-peat-burning-ban-aeceea",
-      "reference": [
-        "联合早报",
-        "公视",
-        "财新",
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 13,
-      "sources": []
-    },
-    {
       "id": "zelenskyy-ukraine-retain-territory-freeze-frontline-bd0539",
       "title": "泽连斯基愿在保留至少75%国土控制权下达成和平协议",
       "description": "乌克兰总统泽连斯基当地时间10月21日表示，乌方愿在仍控制至少75%国土的情况下达成和平协议。",
@@ -2891,25 +3017,6 @@
         "财新"
       ],
       "section": "business",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "japan-october-temperatures-exceed-30c-58f46a",
-      "title": "日本多地高温刷新最晚真夏日纪录",
-      "description": "日本东部至西部多地受暖空气影响出现异常高温，东京、大阪等地刷新观测史上最晚“真夏日”纪录。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T14:32:08+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/japan-october-temperatures-exceed-30c-58f46a",
-      "reference": [
-        "共同网",
-        "法广"
-      ],
-      "section": "asia",
       "sourceCount": 3,
       "sources": []
     },
@@ -3065,44 +3172,6 @@
       "sources": []
     },
     {
-      "id": "tom-barrack-admits-23-regime-change-failures-1a3a0e",
-      "title": "美国大使承认中东及周边23次政权更迭均告失败",
-      "description": "美国驻土耳其大使、兼任美国叙利亚问题特使的汤姆·巴拉克在一次论坛发言时说，美国在中东及周边地区推动的23次政权更迭没有一次成功。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T13:57:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/tom-barrack-admits-23-regime-change-failures-1a3a0e",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-securities-regulator-issues-transfer-penalty-rule-923e23",
-      "title": "证监会细化违规转让证券处罚标准",
-      "description": "中国证监会10月19日发布《违规转让证券案件行政处罚实施规则》，全文共18条，定于2026年12月1日起施行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T13:28:34.417583+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/china-securities-regulator-issues-transfer-penalty-rule-923e23",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "wang-chuang-financial-crime-crackdown-46308e",
       "title": "王闯称法院将从严惩治金融市场违法行为",
       "description": "王闯（最高人民法院民事审判第二庭庭长）于2026年10月21日在2026金融街论坛年会金融法治论坛发言，称法院将风险防控纳入金融审判各环节，对金融市场违规行为保持零容忍，并依法惩治非法集资、操纵市场、内幕交易及财务造假等行为。",
@@ -3117,24 +3186,6 @@
         "财新"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "mcgrath-eu-japan-urge-us-lift-icc-sanctions-c2b3ac",
-      "title": "麦格拉斯称欧盟将与日本合作促美撤销国际刑事法院制裁",
-      "description": "欧盟委员会负责法治事务的委员麦格拉斯在接受共同社等日本媒体线上采访时表示，欧盟将继续与日本及志同道合国家合作，推动美国撤销对国际刑事法院（ICC）的制裁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T13:19:08+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/mcgrath-eu-japan-urge-us-lift-icc-sanctions-c2b3ac",
-      "reference": [
-        "共同网"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -3171,24 +3222,6 @@
         "第一财经"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "basf-hengshen-plan-europe-pa6-joint-venture-90e53e",
-      "title": "巴斯夫恒申拟整合欧洲PA6业务组建合资公司",
-      "description": "巴斯夫与恒申集团10月19日签署非约束性谅解备忘录，拟将双方欧洲聚酰胺6（PA6）价值链相关业务整合为一家各持股50%的合资企业；北美以外的全球挤出业务也纳入评估。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T13:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/basf-hengshen-plan-europe-pa6-joint-venture-90e53e",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -3322,26 +3355,6 @@
         "世界日报"
       ],
       "section": "us",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "china-says-japan-controls-curb-remilitarization-f470c4",
-      "title": "日本据报钇库存仅够数月并求助美国",
-      "description": "日本钇库存据报仅能维持数月，最快今年底可能出现供应短缺。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T10:17:40+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/china-says-japan-controls-curb-remilitarization-f470c4",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "中央通訊社"
-      ],
-      "section": "china",
       "sourceCount": 3,
       "sources": []
     },
@@ -3585,24 +3598,6 @@
         "中央通訊社"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-demands-data-centers-community-benefits-f4dee3",
-      "title": "特朗普要求数据中心企业向社区提供经济回报",
-      "description": "美国总统特朗普星期三（10月21日）要求数据中心企业向当地社区提供经济“红利”，并要求新建大型数据中心自行发电，将多余电力回馈或出售给社区或电网。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T07:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/trump-demands-data-centers-community-benefits-f4dee3",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -4840,24 +4835,6 @@
       "occurredAt": "",
       "publishedAt": "2026-10-13",
       "url": "https://kaopu.news/story/2026-10-13/min-jin-lee-examines-american-hagwon-49ecba",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "goodbye-south-goodbye-4k-new-york-festival-premiere-cb30dc",
-      "title": "《南国再见，南国》4K修复版在纽约电影节北美首映",
-      "description": "侯孝贤的《南国再见，南国》4K修复版入选第64届纽约电影节“经典重映”单元，并在影展举行北美首映。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-13",
-      "url": "https://kaopu.news/story/2026-10-13/goodbye-south-goodbye-4k-new-york-festival-premiere-cb30dc",
       "reference": [
         "世界日报"
       ],
