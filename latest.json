@@ -3,26 +3,27 @@
     "date": "2026-10-22",
     "timestamp": 1792689470,
     "totalPages": 1,
-    "total": 261
+    "total": 262
   },
   "stories": [
     {
       "id": "tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
-      "title": "西藏那曲巴青县发生7.0级地震",
-      "description": "西藏那曲市巴青县发生7.0级地震。",
+      "title": "西藏巴青县7.0级地震已确认有人员遇难",
+      "description": "西藏那曲市巴青县发生7.0级地震，灾区已确认有人员遇难。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-22T16:20:00+00:00",
+      "updatedAt": "2026-10-22T17:21:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-22",
       "url": "https://kaopu.news/story/2026-10-22/tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
       "reference": [
         "澎湃新闻",
-        "联合早报"
+        "联合早报",
+        "中央通訊社"
       ],
       "section": "china",
-      "sourceCount": 7,
+      "sourceCount": 13,
       "sources": []
     },
     {
@@ -170,6 +171,24 @@
       ],
       "section": "life",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "91app-commerce-cloud-unauthorized-access-f50734",
+      "title": "91APP承诺补偿事件诈骗受损消费者",
+      "description": "电商技术服务公司91APP公布阶段调查结果称，攻击者从10月3日11时起使用AI自动化渗透工具，非法访问Commerce Cloud的一座订单数据库，入侵于10月14日23时完全阻断。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T15:06:01+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/91app-commerce-cloud-unauthorized-access-f50734",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -552,6 +571,25 @@
       ],
       "section": "asia",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-prosecutors-search-wu-tzu-chia-office-1c6b8a",
+      "title": "新竹检方搜索吴子嘉台北办公室及住处",
+      "description": "新竹地检署10月22日指挥调查人员前往台北，搜索时政评论人、《美丽岛电子报》董事长吴子嘉的办公室和住处。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T13:40:17+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/taiwan-prosecutors-search-wu-tzu-chia-office-1c6b8a",
+      "reference": [
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1990,24 +2028,6 @@
       ],
       "section": "world",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "taiwan-prosecutors-search-wu-tzu-chia-office-1c6b8a",
-      "title": "台湾检方搜索吴子嘉台北办公室及住处",
-      "description": "台湾检方星期四（10月22日）调派调查局人员，对时政评论人、《美丽岛电子报》董事长吴子嘉在台北的办公室和住处实施搜索。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T09:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/taiwan-prosecutors-search-wu-tzu-chia-office-1c6b8a",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
