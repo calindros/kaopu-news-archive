@@ -1,11 +1,225 @@
 {
   "details": {
     "date": "2026-10-23",
-    "timestamp": 1792711390,
+    "timestamp": 1792718960,
     "totalPages": 1,
     "total": 262
   },
   "stories": [
+    {
+      "id": "tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
+      "title": "西藏巴青7.0级地震造成16人遇难",
+      "description": "西藏那曲市巴青县10月22日22时33分发生7.0级地震，震源深度10公里。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T00:15:16+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "中央通訊社",
+        "法广"
+      ],
+      "section": "china",
+      "sourceCount": 27,
+      "sources": []
+    },
+    {
+      "id": "carney-erdogan-canada-turkey-strategic-partnership-29f1b0",
+      "title": "加拿大与土耳其签署战略伙伴关系协议",
+      "description": "加拿大总理马克·卡尼10月22日访问安卡拉期间，与土耳其总统雷杰普·塔伊普·埃尔多安签署战略伙伴关系协议，宣布扩大双边合作，并定于11月在安卡拉举行首轮自由贸易谈判。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T00:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/carney-erdogan-canada-turkey-strategic-partnership-29f1b0",
+      "reference": [
+        "加拿大国际广播电台",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "solano-tesla-fsd-crash-kills-man-1cd7f6",
+      "title": "司机称启用FSD的特斯拉撞死横穿高速男子",
+      "description": "一名71岁男子在加州苏拉诺县横穿高速公路时被特斯拉撞击，随后伤重死亡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T00:04:52+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/solano-tesla-fsd-crash-kills-man-1cd7f6",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-shipbuilding-leads-global-market-1b3574",
+      "title": "中国造船业前三季度三项指标领跑全球",
+      "description": "工信部10月23日公布的统计显示，2026年1—9月，中国造船完工量为5805万载重吨，同比增长50.7%；新接订单17529万载重吨，增幅163.2%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T00:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/china-shipbuilding-leads-global-market-1b3574",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-agency-urges-php-security-patch-8c669e",
+      "title": "PHP修复两项严重漏洞后多国紧急更新系统",
+      "description": "PHP开发团队10月21日发布安全版本，修复两项严重远程代码执行漏洞CVE-2026-109618和CVE-2026-109619。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T23:59:49+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/japan-agency-urges-php-security-patch-8c669e",
+      "reference": [
+        "共同网",
+        "中央通訊社",
+        "加拿大国际广播电台",
+        "第一财经"
+      ],
+      "section": "tech",
+      "sourceCount": 32,
+      "sources": []
+    },
+    {
+      "id": "korea-law-limits-ai-security-testing-bc4ad4",
+      "title": "韩国法律缺少免责条款限制人工智能安全测试",
+      "description": "韩国企业和政府正推进人工智能网络安全防御，但现行法律没有为善意安全检查提供免责安排，限制防守方模拟攻击、查找漏洞。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T23:59:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/korea-law-limits-ai-security-testing-bc4ad4",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "putin-proposes-trump-xi-ukraine-war-talks-c341cb",
+      "title": "俄罗斯称正筹备深圳美中俄领导人会晤",
+      "description": "俄罗斯称，正筹备借定于11月18日至19日在深圳举行的亚太经合组织（APEC）领导人会议，安排美国、中国和俄罗斯领导人会晤，讨论结束乌克兰战争。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T23:58:45+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/putin-proposes-trump-xi-ukraine-war-talks-c341cb",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "德国之声",
+        "财新"
+      ],
+      "section": "world",
+      "sourceCount": 20,
+      "sources": []
+    },
+    {
+      "id": "kim-yo-jong-north-korea-border-tactical-weapons-072e7d",
+      "title": "金与正称10月底前沿边境全线重启对韩扩音器广播",
+      "description": "朝鲜劳动党中央委员会部长金与正于10月21日和22日连续发表谈话，称朝方计划在10月底前沿朝韩边境全线重启针对韩国的心理战扩音器广播。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T23:58:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/kim-yo-jong-north-korea-border-tactical-weapons-072e7d",
+      "reference": [
+        "联合早报",
+        "韩国国际广播电台",
+        "朝鲜日报",
+        "韩民族日报"
+      ],
+      "section": "asia",
+      "sourceCount": 23,
+      "sources": []
+    },
+    {
+      "id": "french-students-protest-school-conditions-11bf14",
+      "title": "法国政府宣布限制多个城市周末示威",
+      "description": "法国政府10月22日宣布收紧多个城市周末示威的安排，并计划在10月24日增加街面警力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T23:41:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
+      "reference": [
+        "公视",
+        "法广",
+        "日本放送协会",
+        "英国广播公司"
+      ],
+      "section": "world",
+      "sourceCount": 95,
+      "sources": []
+    },
+    {
+      "id": "wedgewood-admits-nearly-all-polls-fake-ecb13d",
+      "title": "楔木民调承认几乎所有民调结果系伪造",
+      "description": "楔木民调10月20日承认，其公开的民调数据几乎全属编造；相关结果曾被《纽约时报》等知名民调汇总平台收录。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T23:39:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/wedgewood-admits-nearly-all-polls-fake-ecb13d",
+      "reference": [
+        "财新"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "pelosi-office-receives-suspicious-powder-letter-db8970",
+      "title": "裴洛西办公室收到可疑信件",
+      "description": "前众议院议长南希·裴洛西的办公室于10月21日收到一封可疑信件，发言人称办公室人员均安全。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T23:31:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/pelosi-office-receives-suspicious-powder-letter-db8970",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "witkoff-norway-peace-proposal-talks-6bf424",
       "title": "普京表示俄方愿重启俄美乌三方会谈",
@@ -65,27 +279,6 @@
       ],
       "section": "world",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
-      "title": "西藏巴青县7.0级地震致16人遇难46人受伤",
-      "description": "西藏那曲市巴青县10月22日22时33分发生7.0级地震。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T23:02:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "china",
-      "sourceCount": 25,
       "sources": []
     },
     {
@@ -280,27 +473,6 @@
       "sources": []
     },
     {
-      "id": "japan-agency-urges-php-security-patch-8c669e",
-      "title": "PHP两项高危漏洞促使全球机构紧急修补系统",
-      "description": "PHP开发团队10月21日发布安全更新，修复两项严重远程代码执行漏洞。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T19:55:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/japan-agency-urges-php-security-patch-8c669e",
-      "reference": [
-        "共同网",
-        "中央通訊社",
-        "加拿大国际广播电台",
-        "第一财经"
-      ],
-      "section": "tech",
-      "sourceCount": 30,
-      "sources": []
-    },
-    {
       "id": "musk-spacex-tesla-merger-good-idea-89e5d0",
       "title": "马斯克披露特斯拉与SpaceX成立合并评估委员会",
       "description": "埃隆·马斯克10月20日披露，特斯拉与SpaceX已成立由独立董事组成的特别委员会，评估合并的可行性。",
@@ -427,45 +599,6 @@
         "世界日报"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "french-students-protest-school-conditions-11bf14",
-      "title": "法国三家博物馆将于巴黎示威当天闭馆",
-      "description": "法国政府10月22日宣布，卢浮宫、奥赛博物馆和毕加索博物馆将在10月24日巴黎示威当天闭馆。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T17:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
-      "reference": [
-        "公视",
-        "法广",
-        "日本放送协会",
-        "英国广播公司"
-      ],
-      "section": "world",
-      "sourceCount": 94,
-      "sources": []
-    },
-    {
-      "id": "carney-erdogan-canada-turkey-strategic-partnership-29f1b0",
-      "title": "卡尼与埃尔多安宣布建立加土战略伙伴关系",
-      "description": "加拿大总理马克·卡尼周四访问土耳其，与总统雷杰普·塔伊普·埃尔多安宣布建立战略伙伴关系，扩大两国贸易和国防合作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T17:22:03.773000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/carney-erdogan-canada-turkey-strategic-partnership-29f1b0",
-      "reference": [
-        "加拿大国际广播电台"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -648,48 +781,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "kim-yo-jong-north-korea-border-tactical-weapons-072e7d",
-      "title": "金与正宣布月底前重启对韩扩音器广播",
-      "description": "朝鲜劳动党中央委员会部长金与正于10月21日、22日连续发表谈话，宣布朝鲜计划在10月底前沿朝韩边境全线恢复对韩心理战扩音器广播。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T14:43:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/kim-yo-jong-north-korea-border-tactical-weapons-072e7d",
-      "reference": [
-        "联合早报",
-        "韩国国际广播电台",
-        "朝鲜日报",
-        "韩民族日报"
-      ],
-      "section": "asia",
-      "sourceCount": 22,
-      "sources": []
-    },
-    {
-      "id": "putin-proposes-trump-xi-ukraine-war-talks-c341cb",
-      "title": "普京据报提议深圳APEC期间举行美中俄峰会",
-      "description": "俄罗斯总统普京据报提议，在11月18日至19日于深圳举行的亚太经合组织（APEC）峰会期间，与美国总统特朗普和中国国家主席习近平举行三方会晤，讨论乌克兰战争。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T14:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/putin-proposes-trump-xi-ukraine-war-talks-c341cb",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "德国之声",
-        "财新"
-      ],
-      "section": "world",
-      "sourceCount": 19,
       "sources": []
     },
     {
@@ -2258,24 +2349,6 @@
       "sources": []
     },
     {
-      "id": "adb-urges-asia-pacific-coastal-flood-protection-90b372",
-      "title": "亚行报告呼吁加大亚太沿海防洪投入",
-      "description": "亚洲开发银行10月21日发布2026年亚太气候报告，评估30个沿海经济体的洪灾风险，并呼吁加强沿海韧性建设。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T09:42:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/adb-urges-asia-pacific-coastal-flood-protection-90b372",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "tsmc-seeks-rare-earth-component-alternatives-6d8395",
       "title": "路透独家称台积电寻求稀土零部件替代方案",
       "description": "据路透社独家报道，三名知情人士透露，台积电正为工厂设备中的稀土零部件寻找替代品，以降低中国出口管制造成供应中断、影响先进芯片生产的风险。",
@@ -2401,24 +2474,6 @@
         "公视"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "malaysia-approves-first-rare-earth-export-690f79",
-      "title": "马来西亚批准两年来首宗稀土原料出口申请",
-      "description": "马来西亚天然资源及环境永续部回应彭博社询问时证实，马来西亚矿物及地质科学局本月批准一宗未加工稀土原料出口申请，准许相关原料运往海外用于研发。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T08:56:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/malaysia-approves-first-rare-earth-export-690f79",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -2934,24 +2989,6 @@
       "sources": []
     },
     {
-      "id": "ea-cuts-jobs-closes-bioware-studio-ad34da",
-      "title": "艺电裁员约3%并关闭BioWare工作室",
-      "description": "艺电（EA）宣布重组工作室业务，全球约3%的员工将被裁减；公司同时决定停止与BioWare合作开发新《质量效应》游戏，并关闭其位于加拿大埃德蒙顿的工作室。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T06:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/ea-cuts-jobs-closes-bioware-studio-ad34da",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "california-state-workers-strike-pay-remote-work-2e9578",
       "title": "加州州府雇员罢工要求改善薪资与远程办公",
       "description": "加州州政府雇员于2026年10月21日举行一日全州罢工，要求州长纽森政府在新合约中提高薪资、增加医疗保险费用补贴，并为远程办公提供更大弹性。",
@@ -3075,42 +3112,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "massachusetts-prosecutors-charge-fake-marriage-ring-1120d3",
-      "title": "马萨诸塞州检方指控六人经营假结婚集团",
-      "description": "马萨诸塞州联邦检方宣布起诉六名涉嫌参与假结婚安排的人，指一个由詹妮弗·冈萨雷斯主导的团伙在该州组织数百桩虚假婚姻，帮助移民非法取得身份。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T06:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/massachusetts-prosecutors-charge-fake-marriage-ring-1120d3",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "pritzker-illinois-cancels-medical-debt-eb08d5",
-      "title": "伊利诺伊州为逾69万居民免除14亿美元医疗债务",
-      "description": "伊利诺伊州州长普立兹克宣布，州府两年前推出的医疗债务减免计划，已为全州102个郡超过69.4万名居民取消逾14亿美元欠款。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T06:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/pritzker-illinois-cancels-medical-debt-eb08d5",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
       "sources": []
     },
     {
