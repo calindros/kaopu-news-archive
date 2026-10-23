@@ -1,11 +1,372 @@
 {
   "details": {
     "date": "2026-10-23",
-    "timestamp": 1792761530,
+    "timestamp": 1792769494,
     "totalPages": 1,
-    "total": 267
+    "total": 266
   },
   "stories": [
+    {
+      "id": "japan-agency-urges-php-security-patch-8c669e",
+      "title": "PHP漏洞公开后攻击尝试激增至数百万次",
+      "description": "PHP开发团队于10月21日发布安全更新，修复两项严重漏洞。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T14:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/japan-agency-urges-php-security-patch-8c669e",
+      "reference": [
+        "共同网",
+        "中央通訊社",
+        "加拿大国际广播电台",
+        "第一财经"
+      ],
+      "section": "tech",
+      "sourceCount": 41,
+      "sources": []
+    },
+    {
+      "id": "russia-ukraine-oleshky-ceasefire-agreement-6fd59b",
+      "title": "俄乌达成奥列什基局部停火协议将于10月29日生效",
+      "description": "白宫10月23日宣布，俄乌达成奥列什基局部停火协议，定于10月29日生效。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T14:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/russia-ukraine-oleshky-ceasefire-agreement-6fd59b",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "evergrande-liquidators-recover-hk-3-4-billion-9c6a69",
+      "title": "中国恒大清盘人披露追回约34亿港元",
+      "description": "中国恒大集团清盘人黄咏诗、杜艾迪于2026年10月22日发布清盘进展报告，披露截至2026年9月30日累计追回约34亿港元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T13:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/evergrande-liquidators-recover-hk-3-4-billion-9c6a69",
+      "reference": [
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "french-students-protest-school-conditions-11bf14",
+      "title": "法国全国示威演变为暴力骚乱并波及多地",
+      "description": "法国由学生抗议扩大的全国示威，部分演变为纵火、抢劫和破坏公共建筑的暴力冲突，民众诉求也从教育条件延伸至生活成本上涨和公共服务问题。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T13:53:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
+      "reference": [
+        "公视",
+        "法广",
+        "日本放送协会",
+        "英国广播公司"
+      ],
+      "section": "world",
+      "sourceCount": 101,
+      "sources": []
+    },
+    {
+      "id": "us-forces-japan-ban-byd-cars-kadena-a01de5",
+      "title": "据报驻日美军将禁比亚迪车辆进入嘉手纳基地",
+      "description": "据韩联社报道，驻日美军将于10月26日起禁止比亚迪车辆进入冲绳嘉手纳空军基地，涵盖私家车、承包商车辆、出租车、送货卡车等商用车。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T13:49:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/us-forces-japan-ban-byd-cars-kadena-a01de5",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "henry-lee-yangzhou-memorial-burial-1d5913",
+      "title": "李昌钰追思暨安葬仪式在扬州举行",
+      "description": "李昌钰博士追思暨安葬仪式10月23日在江苏扬州举行，灵骨安葬于扬州墓园。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T13:48:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/henry-lee-yangzhou-memorial-burial-1d5913",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "culture",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-proposes-sanctions-swap-german-supplier-6fbd3a",
+      "title": "据报中国提议以撤制裁换取德企解禁",
+      "description": "据《南华早报》报道，中国与欧盟正磋商互相解除企业制裁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T13:43:02+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/china-proposes-sanctions-swap-german-supplier-6fbd3a",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "thailand-china-railway-cooperation-mou-18677a",
+      "title": "泰国据报拟与中国签署铁路合作备忘录",
+      "description": "泰国交通部计划于2026年第四季度与中国国家铁路局签署铁路合作谅解备忘录。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T13:42:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/thailand-china-railway-cooperation-mou-18677a",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "justice-department-arrests-california-green-card-holders-9bdb54",
+      "title": "美国司法部起诉加州28名居民涉非法投票",
+      "description": "美国司法部10月19日在加州对28名合法永久居民提起刑事指控，涉及涉嫌以非公民身份投票、违规登记选民，以及在选民登记或移民申请中作虚假陈述。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T13:41:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/justice-department-arrests-california-green-card-holders-9bdb54",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "china-rare-earth-subsidiary-mining-case-prosecution-f065d8",
+      "title": "中国稀土湖南子公司非法采矿案移送审查起诉",
+      "description": "中国稀土披露，控股子公司中稀（湖南）稀土开发有限公司已收到湖南省永州市江华瑶族自治县公安局出具的《案件移送起诉告知书》，其非法采矿案已移送江华瑶族自治县人民检察院审查起诉。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T13:40:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/china-rare-earth-subsidiary-mining-case-prosecution-f065d8",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "migrant-workers-center-aids-wage-claims-8f570b",
+      "title": "职总外籍劳工中心协助约240名客工追讨欠薪",
+      "description": "约240名外籍劳工近两个月未领到工资，职总外籍劳工中心已介入协助追讨欠薪，并为部分受影响者提供生活援助。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T13:33:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/migrant-workers-center-aids-wage-claims-8f570b",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-tax-agency-offshore-trust-tax-filing-299e9c",
+      "title": "离岸信托补税过渡期届满部分持有人仍观望",
+      "description": "中国离岸信托个人所得税申报的90天免滞纳金过渡期已于10月22日届满。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T13:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/china-tax-agency-offshore-trust-tax-filing-299e9c",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "财新",
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "european-parliament-awards-icc-sakharov-prize-3e1050",
+      "title": "欧洲议会将2026年萨哈罗夫奖授予国际刑事法院",
+      "description": "欧洲议会于2026年10月22日宣布，将2026年萨哈罗夫思想自由奖授予国际刑事法院（ICC）及其工作人员。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T13:29:42+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/european-parliament-awards-icc-sakharov-prize-3e1050",
+      "reference": [
+        "联合早报",
+        "法广",
+        "共同网",
+        "日本放送协会"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "europe-summer-heatwave-kills-over-50000-9ccdea",
+      "title": "欧洲今夏热浪估计造成逾五万人死亡创至少26年新高",
+      "description": "研究估算，2026年6月至8月，欧洲30国有5万零391人死于高温，是至少26年来死亡人数最多的夏季高温灾害。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T13:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/europe-summer-heatwave-kills-over-50000-9ccdea",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-orders-saudi-staff-family-evacuation-126135",
+      "title": "沙特法赫德国王机场遇袭致两死八伤",
+      "description": "沙特达曼法赫德国王国际机场遭袭，造成两人死亡、八人受伤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T13:27:53+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/us-orders-saudi-staff-family-evacuation-126135",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "联合早报",
+        "朝鲜日报"
+      ],
+      "section": "world",
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "australia-flood-reporter-citizen-rescues-driver-5535ff",
+      "title": "公视报道洪灾中澳洲记者与民众救出被困司机",
+      "description": "据公视报道，澳洲洪灾期间，澳洲广播公司记者莫瑞与民众海尼下水，将一名被困在泡水皮卡内的驾驶员救出。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T13:25:40+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/australia-flood-reporter-citizen-rescues-driver-5535ff",
+      "reference": [
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "sulawesi-wildfire-threatens-cave-art-6d41c7",
+      "title": "苏拉威西林火威胁史前洞穴壁画遗址",
+      "description": "苏拉威西岛林火蔓延至南苏拉威西省马洛斯—庞格普地质公园，威胁石灰岩洞穴中的史前壁画。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T13:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/sulawesi-wildfire-threatens-cave-art-6d41c7",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "singapore-orders-ten-firms-disclose-haze-data-be7c20",
+      "title": "新加坡要求十家涉印尼企业披露烟霾相关信息",
+      "description": "新加坡国家环境局星期五（10月23日）表示，已依据《跨境烟霾污染法》第10条，向10家在新加坡注册的企业发出法律通知，要求提交文件和资料。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T13:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/singapore-orders-ten-firms-disclose-haze-data-be7c20",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "steinmeier-china-state-visit-e81e2a",
+      "title": "德国总统施泰因迈尔将于下周国事访华",
+      "description": "德国联邦总统施泰因迈尔定于10月27日至31日对中国进行国事访问，这是施泰因迈尔自2018年以来首次对中国进行国事访问。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T13:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/steinmeier-china-state-visit-e81e2a",
+      "reference": [
+        "联合早报",
+        "德国之声"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
     {
       "id": "li-qiang-chairs-cabinet-meeting-population-services-afaf01",
       "title": "李强主持国常会研究统筹人口与经济社会发展",
@@ -27,13 +388,32 @@
       "sources": []
     },
     {
-      "id": "tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
-      "title": "西藏巴青7.0级地震已致16人遇难76人受伤",
-      "description": "西藏那曲市巴青县发生7.0级地震。",
+      "id": "japan-patrol-ships-shadowed-china-coast-guard-6e7339",
+      "title": "日本八艘巡视船避台风航经台湾海峡遭中国海警跟监",
+      "description": "日本海上保安厅8艘巡视船为躲避台风“蔷琵”，10月22日上午6时起从基隆沿台湾海峡中线向南航行，随后在澎湖七美西南方、台湾邻接区以外海域机动避风。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-23T13:07:00+00:00",
+      "updatedAt": "2026-10-23T13:10:29+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/japan-patrol-ships-shadowed-china-coast-guard-6e7339",
+      "reference": [
+        "联合早报",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
+      "title": "西藏巴青7.0级地震造成16死76伤",
+      "description": "西藏那曲市巴青县10月22日22时33分左右发生7.0级地震，震源深度10公里。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T13:10:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-22",
       "url": "https://kaopu.news/story/2026-10-22/tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
@@ -44,7 +424,43 @@
         "法广"
       ],
       "section": "china",
-      "sourceCount": 63,
+      "sourceCount": 64,
+      "sources": []
+    },
+    {
+      "id": "taichung-prosecutors-indict-gas-fraud-suspects-319b08",
+      "title": "台中检方起诉17人及4家公司涉工业气体造假",
+      "description": "台中地检署经三轮搜索后，近日侦查终结一起工业气体冒充食品级二氧化碳和医用氧气案件，依《食安法》《药事法》及诈骗取财等罪嫌起诉17人及4家公司。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T13:09:28+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/taichung-prosecutors-indict-gas-fraud-suspects-319b08",
+      "reference": [
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "typhoon-approaches-okinawa-sakishima-islands-fc622c",
+      "title": "超强台风“蔷琵”预计26日前后登陆九州",
+      "description": "超强台风“蔷琵”正逼近日本冲绳先岛诸岛，宫古岛和八重山地区已出现狂风暴雨。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T13:06:49+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/typhoon-approaches-okinawa-sakishima-islands-fc622c",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -101,6 +517,24 @@
         "财新"
       ],
       "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "krovanh-keelung-bus-suspension-301fae",
+      "title": "蔷琵台风逼近基隆沿岸浪高超过三米",
+      "description": "蔷琵台风逼近台湾基隆，沿岸风浪增强。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T12:58:46+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/krovanh-keelung-bus-suspension-301fae",
+      "reference": [
+        "公视"
+      ],
+      "section": "asia",
       "sourceCount": 2,
       "sources": []
     },
@@ -199,24 +633,21 @@
       "sources": []
     },
     {
-      "id": "french-students-protest-school-conditions-11bf14",
-      "title": "法国当局收紧周末示威管制防止暴力重演",
-      "description": "法国政府在上周末的全国性抗议演变为暴力骚乱后，收紧本周末的示威管制，并准备增加警力。",
+      "id": "houthi-attack-saudi-oil-prices-surge-6b7c11",
+      "title": "布伦特原油触及每桶115美元创5月初以来新高",
+      "description": "布伦特原油23日盘中触及每桶115美元，创5月初以来新高，中东战事令市场担忧能源供应。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-23T12:30:00+00:00",
+      "updatedAt": "2026-10-23T12:32:18+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/houthi-attack-saudi-oil-prices-surge-6b7c11",
       "reference": [
-        "公视",
-        "法广",
-        "日本放送协会",
-        "英国广播公司"
+        "中央通訊社"
       ],
       "section": "world",
-      "sourceCount": 100,
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -650,27 +1081,6 @@
       "sources": []
     },
     {
-      "id": "japan-agency-urges-php-security-patch-8c669e",
-      "title": "PHP漏洞公开后攻击尝试升至数百万次",
-      "description": "PHP开发团队10月21日发布紧急安全更新，修复两项可让攻击者绕过身份验证、远程执行代码的严重漏洞。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T11:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/japan-agency-urges-php-security-patch-8c669e",
-      "reference": [
-        "共同网",
-        "中央通訊社",
-        "加拿大国际广播电台",
-        "第一财经"
-      ],
-      "section": "tech",
-      "sourceCount": 40,
-      "sources": []
-    },
-    {
       "id": "china-issues-national-informatization-15th-five-year-plan-8b82b7",
       "title": "中央网信委印发国家信息化“十五五”规划",
       "description": "近日，中央网络安全和信息化委员会印发《国家信息化“十五五”规划》，为各地区、各有关部门推进信息化工作作出安排。",
@@ -955,27 +1365,6 @@
       "sources": []
     },
     {
-      "id": "european-parliament-awards-icc-sakharov-prize-3e1050",
-      "title": "欧洲议会将萨哈罗夫奖授予国际刑事法院及工作人员",
-      "description": "欧洲议会10月22日宣布，将2026年萨哈罗夫奖授予国际刑事法院（ICC）及其工作人员，以肯定其在人权和法治领域的工作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T10:04:56+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/european-parliament-awards-icc-sakharov-prize-3e1050",
-      "reference": [
-        "联合早报",
-        "法广",
-        "共同网",
-        "日本放送协会"
-      ],
-      "section": "world",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "japan-october-temperatures-exceed-30c-58f46a",
       "title": "东京等日本三地刷新一年中最晚真夏日纪录",
       "description": "日本东京、大阪和名古屋在10月21日均出现日最高气温达到30℃的“真夏日”，刷新各自一年中最晚出现真夏日的纪录。",
@@ -1180,24 +1569,6 @@
       "sources": []
     },
     {
-      "id": "japan-patrol-ships-shadowed-china-coast-guard-6e7339",
-      "title": "日本八艘巡视船避台风过台海遭中国大陆海警尾随",
-      "description": "台湾海巡署通报，日本海上保安厅8艘巡视船为躲避台风蔷琵，10月22日上午6时起从基隆沿台湾海峡中线向南航行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T09:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/japan-patrol-ships-shadowed-china-coast-guard-6e7339",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "boj-assess-two-percent-inflation-target-eaa926",
       "title": "日本央行将评估2%通胀目标是否达成",
       "description": "日本央行定于10月29日至30日召开货币政策会议，将评估2%通胀目标是否实现，并在会后发布的《经济与物价形势展望报告》中说明判断。",
@@ -1345,24 +1716,6 @@
         "中央通訊社"
       ],
       "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "steinmeier-china-state-visit-e81e2a",
-      "title": "德国总统施泰因迈尔将于10月27日至31日访华",
-      "description": "中国外交部发言人毛宁于10月23日在例行记者会上宣布，习近平邀请德国总统施泰因迈尔于10月27日至31日访问中国，访问将按国事访问安排进行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T08:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/steinmeier-china-state-visit-e81e2a",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
@@ -1811,46 +2164,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "takaichi-taiwan-remarks-stall-china-japan-talks-b4a44a",
-      "title": "共同社称东京可能做好与中国长期僵持准备",
-      "description": "共同社引述日本外务省一名未具名官员称，高市早苗在国会发表的涉台答辩无法撤回，日本不认为必须以低姿态与中国高层会面，这意味着东京可能已为长期僵持作准备。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T06:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/takaichi-taiwan-remarks-stall-china-japan-talks-b4a44a",
-      "reference": [
-        "共同网",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "china-tax-agency-offshore-trust-tax-filing-299e9c",
-      "title": "离岸信托补税过渡期届满仍有持有人观望",
-      "description": "中国存量离岸信托个人所得税申报的90天免滞纳金过渡期于2026年10月22日届满。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T06:38:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/china-tax-agency-offshore-trust-tax-filing-299e9c",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "财新",
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -2457,25 +2770,6 @@
       "sources": []
     },
     {
-      "id": "indonesia-weighs-halting-energy-exports-aafc41",
-      "title": "印尼警告考虑停止向不尊重印尼的国家出口能源",
-      "description": "印尼下游产业与能源转型统筹部长巴赫里尔10月22日在雅加达说，政府将重新评估能源出口协议，并考虑停止向他所称“不尊重”印尼的国家出口能源。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T05:56:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/indonesia-weighs-halting-energy-exports-aafc41",
-      "reference": [
-        "联合早报",
-        "财新"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "japan-finalizes-beneficial-owner-reporting-bill-218e99",
       "title": "日本政府敲定法人申报实际控制人信息新法案",
       "description": "日本政府在内阁会议上敲定一项法案，要求上市公司以外的法人向法务局等部门申报实际控制人的姓名和住址。",
@@ -2488,24 +2782,6 @@
       "url": "https://kaopu.news/story/2026-10-23/japan-finalizes-beneficial-owner-reporting-bill-218e99",
       "reference": [
         "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "krovanh-keelung-bus-suspension-301fae",
-      "title": "蔷琵逼近基隆市公车下午一点半起全面停驶",
-      "description": "蔷琵台风逼近基隆，基隆市公车已自23日下午1时30分起全面停驶。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T05:47:08+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/krovanh-keelung-bus-suspension-301fae",
-      "reference": [
-        "公视"
       ],
       "section": "asia",
       "sourceCount": 1,
@@ -2663,25 +2939,6 @@
       "sources": []
     },
     {
-      "id": "south-korea-estimates-north-korea-planted-960000-mines-4ae299",
-      "title": "韩军估朝鲜自2024年以来在非军事区埋雷96万枚",
-      "description": "韩国军方估计，朝鲜自2024年以来在非军事区一带埋设96万枚地雷。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T04:37:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/south-korea-estimates-north-korea-planted-960000-mines-4ae299",
-      "reference": [
-        "韩国国际广播电台",
-        "朝鲜日报"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "taiwan-affairs-office-vway-trade-claim-8e88dd",
       "title": "国台办称绝不姑息“台独”顽固分子及其关联企业",
       "description": "中国大陆国台办发言人张晗10月21日在例行记者会上重申，不会容忍其所称破坏两岸关系和平发展、阻碍交流合作的“台独顽固分子”及关联企业。",
@@ -2717,26 +2974,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-approves-first-active-etfs-8d9f44",
-      "title": "首批18只主动ETF在沪深交易所启动发售",
-      "description": "首批18只主动管理ETF于10月23日在沪深交易所发售，沪深两市各有9只，分别由18家公募基金管理人发行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T04:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/china-approves-first-active-etfs-8d9f44",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 16,
       "sources": []
     },
     {
@@ -2892,62 +3129,6 @@
       "sources": []
     },
     {
-      "id": "eighth-army-ready-deploy-beyond-korean-peninsula-9e97da",
-      "title": "驻韩美军第八集团军司令称部队须准备赴半岛外执行任务",
-      "description": "驻韩美军第八集团军司令约瑟夫·希尔伯特在接受香港《南华早报》电子邮件采访时表示，驻韩美军不应只着眼于朝鲜半岛威胁，还应按国家指挥当局需要，准备前往其他地区执行任务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T02:59:37+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/eighth-army-ready-deploy-beyond-korean-peninsula-9e97da",
-      "reference": [
-        "韩国国际广播电台",
-        "朝鲜日报",
-        "韩民族日报"
-      ],
-      "section": "world",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "australia-migration-cuts-labour-shortages-3a5bf8",
-      "title": "澳大利亚拟削减移民商界忧缺工加剧",
-      "description": "澳大利亚政府计划降低净移民规模，并收紧国际学生和打工度假签证。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T02:56:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/australia-migration-cuts-labour-shortages-3a5bf8",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "terra-drone-ukraine-drone-delivery-russia-response-63353c",
-      "title": "小泉进次郎为日企向乌交付拦截无人机辩护",
-      "description": "东京企业Terra Drone称，其乌克兰相关公司本月向乌克兰政府交付了该公司生产的小型拦截无人机。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T02:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/terra-drone-ukraine-drone-delivery-russia-response-63353c",
-      "reference": [
-        "共同网"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "regional-officials-confirm-appliance-subsidies-active-36847d",
       "title": "多地商务部门确认家电国补仍在实施",
       "description": "网传“家电国补10月15日全面下线”的说法与实际执行情况不符。",
@@ -3019,24 +3200,6 @@
       ],
       "section": "us",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "europe-summer-heatwave-kills-over-50000-9ccdea",
-      "title": "欧洲今夏热浪估计致死逾五万人创至少26年新高",
-      "description": "两项同行评审研究估算，2026年6月至8月，欧洲30个国家的854座城市共有50,391人死于高温；其中超过32,600例可归因于燃烧化石燃料造成的气候变化。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T02:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/europe-summer-heatwave-kills-over-50000-9ccdea",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3112,24 +3275,6 @@
       "sources": []
     },
     {
-      "id": "russia-sanctions-boost-china-trade-7ce8bd",
-      "title": "俄副财长称俄乌战争促俄向东转 中俄贸易关系上升",
-      "description": "俄罗斯财政部副部长切贝斯科夫称，俄乌战争成为俄罗斯加快“向东转”的契机，中俄贸易关系也因此上升。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T01:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/russia-sanctions-boost-china-trade-7ce8bd",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-nmpa-approves-batoclimab-myasthenia-gravis-adff38",
       "title": "国家药监局批准恩力达用于成人全身型重症肌无力",
       "description": "恩力达（巴托利单抗注射液）近日获国家药品监督管理局批准上市，申报方为佳曦控股有限公司。",
@@ -3185,24 +3330,6 @@
       "sources": []
     },
     {
-      "id": "hd-hyundai-kiewit-build-us-shipyard-41ccdb",
-      "title": "HD现代与基威特签约在美新建造船厂",
-      "description": "HD现代与美国工程建设企业基威特当地时间10月22日在休斯敦签署合同，成立合资公司“HD基威特造船”，并计划在美国新建造船厂。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T00:54:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/hd-hyundai-kiewit-build-us-shipyard-41ccdb",
-      "reference": [
-        "朝鲜日报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "us-pentagon-approves-dhs-heat-ray-trial-27062e",
       "title": "美国国防部批准国土安全部试用热射线武器",
       "description": "美国国防部已批准国土安全部试运行主动拒绝系统（ADS）。",
@@ -3236,46 +3363,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "carney-erdogan-canada-turkey-strategic-partnership-29f1b0",
-      "title": "加拿大与土耳其签署战略伙伴关系协议",
-      "description": "加拿大总理马克·卡尼10月22日访问安卡拉期间，与土耳其总统雷杰普·塔伊普·埃尔多安签署战略伙伴关系协议，宣布扩大双边合作，并定于11月在安卡拉举行首轮自由贸易谈判。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T00:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/carney-erdogan-canada-turkey-strategic-partnership-29f1b0",
-      "reference": [
-        "加拿大国际广播电台",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "putin-proposes-trump-xi-ukraine-war-talks-c341cb",
-      "title": "俄罗斯称正筹备深圳美中俄领导人会晤",
-      "description": "俄罗斯称，正筹备借定于11月18日至19日在深圳举行的亚太经合组织（APEC）领导人会议，安排美国、中国和俄罗斯领导人会晤，讨论结束乌克兰战争。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T23:58:45+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/putin-proposes-trump-xi-ukraine-war-talks-c341cb",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "德国之声",
-        "财新"
-      ],
-      "section": "world",
-      "sourceCount": 20,
       "sources": []
     },
     {
@@ -3408,25 +3495,6 @@
       "sources": []
     },
     {
-      "id": "anwar-urges-switch-tuju-waze-data-risk-c1e0d1",
-      "title": "马来西亚要求公务员执行公务禁用Waze",
-      "description": "马来西亚政府要求公务员执行公务时停止使用导航应用Waze。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T14:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/anwar-urges-switch-tuju-waze-data-risk-c1e0d1",
-      "reference": [
-        "当今大马",
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
       "id": "imf-oecd-warn-ai-widening-gaps-e0351d",
       "title": "IMF与OECD警告人工智能或扩大群体差距",
       "description": "国际货币基金组织（IMF）和经济合作与发展组织（OECD）官员警告，如果电力、数字基础设施和技能培训的覆盖面没有改善，较贫穷国家、小企业和年轻劳动者可能难以分享到人工智能带来的收益。",
@@ -3442,27 +3510,6 @@
       ],
       "section": "ai",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-envoy-says-china-could-win-d092c0",
-      "title": "菲律宾外交部批评中国使馆社媒言论损害关系",
-      "description": "菲律宾外交部10月22日表示，中国驻菲使馆近期在社交媒体上的发言带有加剧紧张局势的意味，削弱双方互信，也不利于稳定和改善两国关系。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T13:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/china-envoy-says-china-could-win-d092c0",
-      "reference": [
-        "联合早报",
-        "法广",
-        "德国之声",
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 9,
       "sources": []
     },
     {
@@ -3521,25 +3568,6 @@
       "sources": []
     },
     {
-      "id": "china-issues-tech-industry-integration-policy-ea602d",
-      "title": "中办国办发布意见推动科技产业深度融合",
-      "description": "中共中央办公厅、国务院办公厅10月21日发布《关于推动科技创新和产业创新深度融合的意见》，提出由企业发挥主导作用，推动高校、科研院所等创新主体协同，促进科技、产业、金融、教育和人才政策相互衔接。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T13:17:36.940835+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/china-issues-tech-industry-integration-policy-ea602d",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "section": "china",
-      "sourceCount": 13,
-      "sources": []
-    },
-    {
       "id": "new-mexico-court-fines-meta-25-billion-efa9cb",
       "title": "新墨西哥州法院判令Meta赔偿250亿美元",
       "description": "新墨西哥州法院10月21日裁定，Meta旗下脸书违反该州消费者保护法，判令公司支付250亿美元民事赔偿。",
@@ -3594,25 +3622,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-supreme-court-issues-judicial-accountability-rules-2865b3",
-      "title": "中国最高法发布司法责任追究条例明确追责标准",
-      "description": "中国最高人民法院10月21日发布《人民法院司法责任追究条例》及人民法院追究司法责任与保护依法履职典型案例。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T12:58:42.159849+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/china-supreme-court-issues-judicial-accountability-rules-2865b3",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "section": "china",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3691,27 +3700,6 @@
       ],
       "section": "ai",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-army-china-guide-first-day-combat-e9e740",
-      "title": "美国陆军新指南要求前线部队台海冲突首日作战",
-      "description": "美国陆军10月7日公布新版《美国陆军作战方式》，将印太第一岛链列为兵力投射重点，并要求前沿部队做好在台海等地区冲突爆发首日立即行动的准备。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T12:33:52+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/us-army-china-guide-first-day-combat-e9e740",
-      "reference": [
-        "朝鲜日报",
-        "世界日报",
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "us",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -4176,24 +4164,6 @@
         "联合早报"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "henry-lee-yangzhou-memorial-burial-1d5913",
-      "title": "李昌钰追思安葬仪式定于扬州举行",
-      "description": "李昌钰的夫人蒋霞萍已于重阳节抱着他的灵骨回到扬州，追思及安葬仪式定于10月23日在扬州举行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T05:21:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/henry-lee-yangzhou-memorial-burial-1d5913",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "culture",
       "sourceCount": 1,
       "sources": []
     },
