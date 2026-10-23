@@ -1,11 +1,89 @@
 {
   "details": {
     "date": "2026-10-23",
-    "timestamp": 1792775810,
+    "timestamp": 1792790271,
     "totalPages": 1,
-    "total": 266
+    "total": 267
   },
   "stories": [
+    {
+      "id": "doj-charges-youngs-rehab-insurance-fraud-b0ca64",
+      "title": "美国司法部起诉洛杉矶父子涉16亿元戒毒诈骗",
+      "description": "美国司法部10月22日起诉洛杉矶戒毒中心经营者David Young及其子Nathan Young，并起诉Honey Phipps、Cody Phipps，指控四人参与一项持续多年的保险诈骗计划。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T19:56:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/doj-charges-youngs-rehab-insurance-fraud-b0ca64",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-energy-department-designates-helium-critical-material-b75103",
+      "title": "美国能源部将氦气列为第20种关键材料",
+      "description": "美国能源部10月23日宣布，将氦气列为关键材料，这是该部门认定的第20种关键材料。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T19:47:32+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/us-energy-department-designates-helium-critical-material-b75103",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "houthi-attack-saudi-oil-prices-surge-6b7c11",
+      "title": "国际油价大涨布伦特创5月初以来新高",
+      "description": "10月23日国际油价上涨，布伦特原油期货盘中突破每桶115美元，创5月初以来新高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T19:32:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/houthi-attack-saudi-oil-prices-surge-6b7c11",
+      "reference": [
+        "中央通訊社",
+        "法广",
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "ukraine-claims-spacex-starlink-throttling-air-defense-4c1c82",
+      "title": "特朗普称若星盾限制未解除将与马斯克沟通",
+      "description": "美国总统特朗普10月23日说，他尚未就乌克兰使用“星盾”受限一事与SpaceX首席执行官埃隆·马斯克谈过。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T19:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/ukraine-claims-spacex-starlink-throttling-air-defense-4c1c82",
+      "reference": [
+        "联合早报",
+        "公视",
+        "朝鲜日报",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 24,
+      "sources": []
+    },
     {
       "id": "rfi-barrack-says-us-may-strike-iran-weekend-521694",
       "title": "法广报道巴瑞克称美国本周末可能攻击伊朗",
@@ -119,26 +197,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "houthi-attack-saudi-oil-prices-surge-6b7c11",
-      "title": "中东紧张局势推高布伦特油价至五个月新高",
-      "description": "中东冲突及供应中断忧虑推高油价，布伦特期货周五盘中触及每桶115.16美元，创5月初以来新高。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T15:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/houthi-attack-saudi-oil-prices-surge-6b7c11",
-      "reference": [
-        "中央通訊社",
-        "法广",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -707,27 +765,6 @@
       ],
       "section": "asia",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "ukraine-claims-spacex-starlink-throttling-air-defense-4c1c82",
-      "title": "乌克兰称星盾信号仍断续限制未确认解除",
-      "description": "乌克兰国防部一名消息人士称，10月23日上午乌方仍观测到星盾通信信号中断，尚无法确认相关限制已经解除。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T13:03:05+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/ukraine-claims-spacex-starlink-throttling-air-defense-4c1c82",
-      "reference": [
-        "联合早报",
-        "公视",
-        "朝鲜日报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 23,
       "sources": []
     },
     {
@@ -3395,24 +3432,6 @@
       "occurredAt": "",
       "publishedAt": "2026-10-23",
       "url": "https://kaopu.news/story/2026-10-23/nyt-reports-lewandowski-criminal-probe-b1df2e",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "pelosi-office-receives-suspicious-powder-letter-db8970",
-      "title": "裴洛西办公室收到可疑信件",
-      "description": "前众议院议长南希·裴洛西的办公室于10月21日收到一封可疑信件，发言人称办公室人员均安全。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T23:31:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/pelosi-office-receives-suspicious-powder-letter-db8970",
       "reference": [
         "世界日报"
       ],
