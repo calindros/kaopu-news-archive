@@ -1,19 +1,80 @@
 {
   "details": {
-    "date": "2026-10-22",
+    "date": "2026-10-23",
     "timestamp": 1792711390,
     "totalPages": 1,
     "total": 262
   },
   "stories": [
     {
-      "id": "tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
-      "title": "西藏巴青7级地震已致16人遇难",
-      "description": "西藏那曲市巴青县在10月22日22时33分发生7.0级地震，中国地震台网测得震源深度为10公里。",
+      "id": "witkoff-norway-peace-proposal-talks-6bf424",
+      "title": "普京表示俄方愿重启俄美乌三方会谈",
+      "description": "俄罗斯总统普京当地时间10月22日晚表示，俄方仍愿通过对话解决俄乌冲突，并愿意恢复俄罗斯、美国和乌克兰三方会谈。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-22T21:49:47+00:00",
+      "updatedAt": "2026-10-22T23:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
+      "reference": [
+        "法广",
+        "澎湃新闻",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 30,
+      "sources": []
+    },
+    {
+      "id": "ukraine-claims-spacex-starlink-throttling-air-defense-4c1c82",
+      "title": "特朗普据报致电马斯克要求解除乌克兰星链限速",
+      "description": "据《华尔街日报》引述美国官员报道，特朗普于10月22日致电SpaceX首席执行官埃隆·马斯克，要求解除乌克兰所用星链服务的移动限速。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T23:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/ukraine-claims-spacex-starlink-throttling-air-defense-4c1c82",
+      "reference": [
+        "联合早报",
+        "公视",
+        "朝鲜日报",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 20,
+      "sources": []
+    },
+    {
+      "id": "zelenskyy-ukraine-retain-territory-freeze-frontline-bd0539",
+      "title": "泽连斯基提议冻结战线启动停火谈判",
+      "description": "乌克兰总统弗拉基米尔·泽连斯基10月21日接受福克斯新闻采访时表示，乌方愿意冻结俄乌现有战线、停止交战，以此启动停火谈判并推动结束战争。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T23:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/zelenskyy-ukraine-retain-territory-freeze-frontline-bd0539",
+      "reference": [
+        "澎湃新闻",
+        "德国之声"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
+      "title": "西藏巴青县7.0级地震致16人遇难46人受伤",
+      "description": "西藏那曲市巴青县10月22日22时33分发生7.0级地震。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T23:02:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-22",
       "url": "https://kaopu.news/story/2026-10-22/tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
@@ -24,25 +85,68 @@
         "法广"
       ],
       "section": "china",
-      "sourceCount": 22,
+      "sourceCount": 25,
       "sources": []
     },
     {
       "id": "fcc-bans-hisilicon-chip-devices-us-market-0d8ea5",
-      "title": "美国联邦传播委员会首次依新规禁海思芯片设备入美",
-      "description": "美国联邦传播委员会（FCC）10月22日宣布，禁止两款搭载华为旗下海思半导体监控芯片的设备进入美国市场，涉及一款行车记录仪和一款无线视频发射器。",
+      "title": "美国FCC首次依新规禁止两款海思芯片设备入市",
+      "description": "美国联邦传播委员会（FCC）宣布，禁止两款搭载华为旗下海思半导体监控芯片的装置进入美国市场。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-22T21:40:44+00:00",
+      "updatedAt": "2026-10-22T23:01:08+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-22",
       "url": "https://kaopu.news/story/2026-10-22/fcc-bans-hisilicon-chip-devices-us-market-0d8ea5",
       "reference": [
-        "中央通訊社"
+        "中央通訊社",
+        "世界日报"
       ],
       "section": "us",
-      "sourceCount": 1,
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-proposes-technology-export-controls-275587",
+      "title": "中国两部门拟将40项技术列入出口管制",
+      "description": "中国商务部、科技部10月16日公布修订《中国禁止出口限制出口技术目录》的征求意见稿，拟将人工智能、生物医药和光伏领域的40项技术纳入出口禁限管理。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T22:59:40+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-16",
+      "url": "https://kaopu.news/story/2026-10-16/china-proposes-technology-export-controls-275587",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "第一财经",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
+      "id": "china-tax-agency-offshore-trust-tax-filing-299e9c",
+      "title": "中国离岸信托个税补缴过渡期届满",
+      "description": "中国税收居民离岸信托个人所得税申报补缴的90天过渡期于10月22日届满。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-22T22:55:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/china-tax-agency-offshore-trust-tax-filing-299e9c",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "财新",
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 7,
       "sources": []
     },
     {
@@ -269,27 +373,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "witkoff-norway-peace-proposal-talks-6bf424",
-      "title": "普京原则同意重启俄美乌工作层会谈",
-      "description": "10月21日，俄罗斯总统普京在圣彼得堡与美国总统特使史蒂夫·威特科夫会谈约三小时后，原则上同意恢复俄罗斯、美国和乌克兰三方谈判。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T18:46:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
-      "reference": [
-        "法广",
-        "澎湃新闻",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 29,
       "sources": []
     },
     {
@@ -723,25 +806,6 @@
       "sources": []
     },
     {
-      "id": "zelenskyy-ukraine-retain-territory-freeze-frontline-bd0539",
-      "title": "泽连斯基愿冻结战线谈判但拒绝顿巴斯撤军",
-      "description": "乌克兰总统弗拉基米尔·泽连斯基表示，乌方愿以冻结俄乌现有战线、停止战斗作为停火谈判的起点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T14:14:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/zelenskyy-ukraine-retain-territory-freeze-frontline-bd0539",
-      "reference": [
-        "澎湃新闻",
-        "德国之声"
-      ],
-      "section": "world",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "european-protests-living-costs-education-cuts-0129fb",
       "title": "欧洲多国民众因生活成本上涨和教育削减抗议",
       "description": "法国、比利时、意大利、葡萄牙、西班牙、希腊、奥地利和阿尔巴尼亚近期发生抗议，德国、荷兰和爱尔兰也出现规模较小的集会。",
@@ -1167,27 +1231,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-tax-agency-offshore-trust-tax-filing-299e9c",
-      "title": "离岸信托补税过渡期届满逾期申报将加收滞纳金",
-      "description": "中国离岸信托个人所得税申报的90天过渡期于10月22日届满。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T13:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/china-tax-agency-offshore-trust-tax-filing-299e9c",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "财新",
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -2248,24 +2291,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "russian-men-claim-helping-ukraine-drone-attacks-27883e",
-      "title": "BBC确认两名俄罗斯男子为乌克兰军事情报机构工作",
-      "description": "BBC罕见采访到两名俄罗斯男子，他们自称在俄罗斯境内为乌克兰提供情报支持。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T09:31:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/russian-men-claim-helping-ukraine-drone-attacks-27883e",
-      "reference": [
-        "英国广播公司"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3642,27 +3667,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-proposes-technology-export-controls-275587",
-      "title": "中国拟将40项关键技术纳入出口管制",
-      "description": "中国商务部、科技部提出修订《中国禁止出口限制出口技术目录》，拟将人工智能、生物医药和光伏领域的40项技术列入禁止或限制出口范围，并在修订正式实施前对相关技术实行出口登记。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T01:28:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/china-proposes-technology-export-controls-275587",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "第一财经",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 14,
       "sources": []
     },
     {
