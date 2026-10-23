@@ -1,11 +1,168 @@
 {
   "details": {
     "date": "2026-10-23",
-    "timestamp": 1792747499,
+    "timestamp": 1792750821,
     "totalPages": 1,
-    "total": 261
+    "total": 265
   },
   "stories": [
+    {
+      "id": "trump-russia-diesel-sanctions-waiver-a71d22",
+      "title": "俄罗斯首艘载柴油油轮正驶往纽约",
+      "description": "悬挂马耳他国旗的“Agioi Fanendes”号油轮装载俄罗斯柴油后正驶往纽约。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T08:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-10",
+      "url": "https://kaopu.news/story/2026-10-10/trump-russia-diesel-sanctions-waiver-a71d22",
+      "reference": [
+        "英国广播公司",
+        "澎湃新闻",
+        "联合早报",
+        "第一财经"
+      ],
+      "section": "world",
+      "sourceCount": 63,
+      "sources": []
+    },
+    {
+      "id": "japan-agency-urges-php-security-patch-8c669e",
+      "title": "PHP团队发布补丁修复两项严重远程代码执行漏洞",
+      "description": "PHP开发团队10月21日发布安全更新，修复两项严重远程代码执行漏洞。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T08:49:39+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/japan-agency-urges-php-security-patch-8c669e",
+      "reference": [
+        "共同网",
+        "中央通訊社",
+        "加拿大国际广播电台",
+        "第一财经"
+      ],
+      "section": "tech",
+      "sourceCount": 38,
+      "sources": []
+    },
+    {
+      "id": "tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
+      "title": "西藏巴青7.0级地震造成16人遇难76人受伤",
+      "description": "西藏那曲市巴青县10月22日22时33分发生7.0级地震。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T08:45:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "中央通訊社",
+        "法广"
+      ],
+      "section": "china",
+      "sourceCount": 59,
+      "sources": []
+    },
+    {
+      "id": "deepseek-open-sources-deepinfer-framework-621bd0",
+      "title": "DeepSeek开源DeepInfer推理框架",
+      "description": "DeepSeek于10月20日宣布，将内部使用的人工智能推理框架DeepInfer全面开源，并同步开放词元编解码组件deepseek-recipe。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T08:35:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/deepseek-open-sources-deepinfer-framework-621bd0",
+      "reference": [
+        "第一财经",
+        "财新",
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "democrats-edge-republicans-economic-issues-6d9a56",
+      "title": "民调显示民主党经济议题微弱领先共和党",
+      "description": "随着美国2026年中期选举临近，多项民调显示，民主党在经济议题上的支持度略高于共和党；得州参议院选战中，民主党候选人詹姆斯·塔拉里科与共和党候选人肯·帕克斯顿的竞争则十分胶着。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T08:25:37.250267+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/democrats-edge-republicans-economic-issues-6d9a56",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "registrar-revokes-pn-registration-769ecb",
+      "title": "社团注册局总监与内政部长上诉高庭暂缓令",
+      "description": "马来西亚社团注册局总监祖菲卡尔与内政部长赛夫丁纳苏丁10月23日向上诉庭提起上诉，挑战吉隆坡高庭前一天暂缓执行撤销国民联盟（国盟）注册及暂停其活动决定的裁决。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T08:20:16+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/registrar-revokes-pn-registration-769ecb",
+      "reference": [
+        "当今大马",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "netanyahu-orders-west-bank-blockade-ef8a27",
+      "title": "内塔尼亚胡下令全面封锁约旦河西岸",
+      "description": "以色列总理内塔尼亚胡当地时间23日通过社交媒体表示，已命令以军立即围困希伯伦，并从当天起全面封锁巴勒斯坦约旦河西岸。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T08:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/netanyahu-orders-west-bank-blockade-ef8a27",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "steinmeier-china-state-visit-e81e2a",
+      "title": "德国总统施泰因迈尔将于10月27日至31日访华",
+      "description": "中国外交部发言人毛宁于10月23日在例行记者会上宣布，习近平邀请德国总统施泰因迈尔于10月27日至31日访问中国，访问将按国事访问安排进行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T08:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/steinmeier-china-state-visit-e81e2a",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "hermes-q3-sales-growth-misses-expectations-96edd4",
       "title": "爱马仕三季度营收增速创2020年以来新低",
@@ -23,6 +180,24 @@
       ],
       "section": "business",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "changxin-tech-shares-rise-7-93-percent-2375c8",
+      "title": "长鑫科技收盘上涨7.93%市值升至2.91万亿元",
+      "description": "10月23日收盘，长鑫科技股价上涨7.93%，市值升至2.91万亿元，增加2138亿元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T08:00:39.774122+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/changxin-tech-shares-rise-7-93-percent-2375c8",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -45,6 +220,97 @@
       "sources": []
     },
     {
+      "id": "indonesia-funds-womens-football-league-restart-6cab8b",
+      "title": "印尼足协拨款重启停摆多年女子足球联赛",
+      "description": "印尼女子足球联赛于2026年在印尼足协拨款支持下重启，首阶段有6支球队参赛，赛事将展开为期5年的试办。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T07:50:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/indonesia-funds-womens-football-league-restart-6cab8b",
+      "reference": [
+        "公视"
+      ],
+      "section": "sports",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "greece-parliament-bans-under-15s-social-media-173de0",
+      "title": "希腊议会通过法案禁止15岁以下儿童使用社交媒体",
+      "description": "希腊议会星期五批准法案，规定15岁以下儿童不得使用Instagram等主要社交媒体平台，禁令将于2027年1月1日生效。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T07:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/greece-parliament-bans-under-15s-social-media-173de0",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "abang-johari-announces-sarawak-assembly-dissolution-d1174d",
+      "title": "阿邦佐哈里宣布砂拉越议会10月26日解散",
+      "description": "砂拉越总理阿邦佐哈里宣布，砂拉越议会定于10月26日解散，为举行第13届砂拉越选举创造条件。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T07:45:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/abang-johari-announces-sarawak-assembly-dissolution-d1174d",
+      "reference": [
+        "当今大马",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "french-firm-turns-jeans-into-insulation-dc26ce",
+      "title": "法国社会企业将旧牛仔裤制成隔热材料",
+      "description": "法国社会企业“勒赫莱”把旧牛仔裤加工成建筑隔热材料，产品用于住宅和历史建筑。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T07:44:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/french-firm-turns-jeans-into-insulation-dc26ce",
+      "reference": [
+        "公视"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "anwar-malaysia-considers-waze-ban-cc6617",
+      "title": "安华称马来西亚政府考虑全面封禁Waze",
+      "description": "马来西亚首相安华表示，政府正考虑全面封禁导航应用Waze，并称该应用存在安全隐患。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T07:43:01+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/anwar-malaysia-considers-waze-ban-cc6617",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "washington-post-pentagon-economic-intelligence-plan-8500cf",
       "title": "美国国防部据报筹划对华深层卧底情报网",
       "description": "美国国防部据报正在筹划一项针对中国及其他竞争对手的深层卧底情报计划。",
@@ -61,6 +327,42 @@
       ],
       "section": "us",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "us-treasury-yields-biggest-daily-drop-since-2023-d5fbea",
+      "title": "美债收益率下跌十年期创2023年以来最大单日跌幅",
+      "description": "美国国债收益率周四（10月22日）全线下行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T07:42:36.810418+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/us-treasury-yields-biggest-daily-drop-since-2023-d5fbea",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-expand-defense-spending-scope-34e947",
+      "title": "日经称日本政府研究扩大防卫费计入范围",
+      "description": "日经报道，日本政府正研究从2027财年（截至2028年3月）起，扩大可列入防卫费相关支出的项目。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T07:42:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/japan-expand-defense-spending-scope-34e947",
+      "reference": [
+        "日经"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -85,8 +387,8 @@
     },
     {
       "id": "south-korea-proposes-north-korea-talks-borderline-e37e4c",
-      "title": "韩国国防部提议与朝鲜会谈确认军事分界线",
-      "description": "韩国国防部国防政策室长金洪哲10月23日宣布，韩国国防部已正式邀请朝鲜举行军事磋商，议题包括厘清双方陆地军事分界线的具体位置、恢复军方通信，以及商讨避免边境地区发生意外冲突。",
+      "title": "韩国国防部正式提议与朝鲜举行军事会谈",
+      "description": "韩国国防部10月23日正式向朝鲜提议举行南北军事会谈，讨论共同确认陆上军事分界线位置、恢复军事通信线路，并防止边境意外冲突。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -95,10 +397,11 @@
       "publishedAt": "2026-10-23",
       "url": "https://kaopu.news/story/2026-10-23/south-korea-proposes-north-korea-talks-borderline-e37e4c",
       "reference": [
+        "法广",
         "韩国国际广播电台"
       ],
       "section": "asia",
-      "sourceCount": 1,
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -118,6 +421,24 @@
       ],
       "section": "ai",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "budapest-repair-cafe-fixes-appliances-dc02d8",
+      "title": "布达佩斯维修咖啡馆免费修家电延长产品寿命",
+      "description": "匈牙利首都布达佩斯一家社区维修咖啡馆由志愿者为居民免费维修电子产品和家电，希望延长物品使用寿命、减少电子垃圾。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T07:36:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/budapest-repair-cafe-fixes-appliances-dc02d8",
+      "reference": [
+        "公视"
+      ],
+      "section": "life",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -230,27 +551,6 @@
       "sources": []
     },
     {
-      "id": "japan-agency-urges-php-security-patch-8c669e",
-      "title": "PHP两项严重漏洞促使多国网站紧急停运",
-      "description": "部分多国政府和企业在修复程序发布前暂时关闭网站及线上服务，之后紧急更新系统。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T07:23:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/japan-agency-urges-php-security-patch-8c669e",
-      "reference": [
-        "共同网",
-        "中央通訊社",
-        "加拿大国际广播电台",
-        "第一财经"
-      ],
-      "section": "tech",
-      "sourceCount": 36,
-      "sources": []
-    },
-    {
       "id": "tokyo-police-arrest-pharmacy-operator-cce0d7",
       "title": "东京警方逮捕涉嫌无处方售药的药店经营者",
       "description": "东京警视厅10月22日逮捕Medix Japan实际经营者王沛（40岁）和代表董事羽鸟聪（54岁），两人涉嫌违反日本《医药品医疗器械法》，在未取得处方时向顾客售药。",
@@ -267,27 +567,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
-      "title": "西藏巴青7.0级地震已致16人遇难76人受伤",
-      "description": "西藏那曲市巴青县发生7.0级地震，截至10月23日13时已造成16人遇难、76人受伤，339户房屋倒塌或受损，另有20座牲畜棚圈受损。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T07:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "china",
-      "sourceCount": 58,
       "sources": []
     },
     {
@@ -425,8 +704,8 @@
     },
     {
       "id": "ryu-murakami-japanese-writer-dies-29ab49",
-      "title": "芥川奖作家村上龙逝世，享年74岁",
-      "description": "日本作家、芥川奖得主村上龙10月17日在家中去世，享年74岁。",
+      "title": "日本作家村上龙在家中逝世，享年74岁",
+      "description": "日本作家村上龙于10月17日在家中去世，享年74岁。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -438,10 +717,10 @@
         "共同网",
         "日经",
         "澎湃新闻",
-        "联合早报"
+        "法广"
       ],
       "section": "culture",
-      "sourceCount": 5,
+      "sourceCount": 6,
       "sources": []
     },
     {
@@ -482,6 +761,42 @@
       ],
       "section": "business",
       "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "canada-wainwright-base-fire-kills-four-injures-39-c85d2b",
+      "title": "加拿大榴弹发射器靶场火灾造成4死39伤",
+      "description": "加拿大自动榴弹发射器靶场10月17日例行训练期间起火，造成4名官兵死亡、39人受伤，其中27人需要住院治疗。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T06:33:30+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/canada-wainwright-base-fire-kills-four-injures-39-c85d2b",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "new-zealand-defence-chief-resigns-relationship-3b5096",
+      "title": "新西兰国防军司令因未披露不当关系辞职",
+      "description": "新西兰国防军司令戴维斯辞职。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T06:33:30+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/new-zealand-defence-chief-resigns-relationship-3b5096",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1369,27 +1684,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-russia-diesel-sanctions-waiver-a71d22",
-      "title": "特朗普放宽对俄制裁推动柴油输美",
-      "description": "特朗普10月9日宣布与俄罗斯达成柴油供应安排，俄罗斯将向美国及全球市场供应柴油。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T04:19:50+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/trump-russia-diesel-sanctions-waiver-a71d22",
-      "reference": [
-        "英国广播公司",
-        "澎湃新闻",
-        "联合早报",
-        "第一财经"
-      ],
-      "section": "world",
-      "sourceCount": 62,
       "sources": []
     },
     {
@@ -2611,24 +2905,6 @@
       "sources": []
     },
     {
-      "id": "philippines-central-bank-raises-rate-to-550-44074a",
-      "title": "菲律宾央行超预期加息至5.50%",
-      "description": "菲律宾中央银行星期四（10月22日）将目标逆回购利率上调50个基点至5.50%，这是该行今年连续第四次加息，旨在遏制通胀并支撑比索。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T14:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/philippines-central-bank-raises-rate-to-550-44074a",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-women-team-loses-to-japan-e43803",
       "title": "中国女乒决赛2比3负于日本队获亚军",
       "description": "中国队在2026年亚洲乒乓球锦标赛女子团体决赛中以2比3负于日本队，获得亚军。",
@@ -2644,26 +2920,6 @@
       ],
       "section": "sports",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-residential-electricity-use-turns-negative-6ed921",
-      "title": "中国前三季度居民用电量累计增速首次转负",
-      "description": "中国国家能源局公布的数据显示，2026年1至9月，全国城乡居民生活用电量为12346亿千瓦时，同比下降0.3%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T14:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/china-residential-electricity-use-turns-negative-6ed921",
-      "reference": [
-        "第一财经",
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -2740,26 +2996,6 @@
       "sources": []
     },
     {
-      "id": "european-parliament-awards-icc-sakharov-prize-3e1050",
-      "title": "欧洲议会将萨哈罗夫奖授予国际刑事法院",
-      "description": "欧洲议会宣布，将2026年萨哈罗夫奖授予国际刑事法院（ICC）及其工作人员，以表彰其在人权和法治领域的贡献。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T13:58:35+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/european-parliament-awards-icc-sakharov-prize-3e1050",
-      "reference": [
-        "联合早报",
-        "法广",
-        "共同网"
-      ],
-      "section": "world",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "china-envoy-says-china-could-win-d092c0",
       "title": "菲律宾外交部批评中国使馆社媒言论损害关系",
       "description": "菲律宾外交部10月22日表示，中国驻菲使馆近期在社交媒体上的发言带有加剧紧张局势的意味，削弱双方互信，也不利于稳定和改善两国关系。",
@@ -2799,25 +3035,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-prosecutors-search-wu-tzu-chia-office-1c6b8a",
-      "title": "新竹检方搜索吴子嘉台北办公室及住处",
-      "description": "新竹地检署10月22日指挥调查人员前往台北，搜索时政评论人、《美丽岛电子报》董事长吴子嘉的办公室和住处。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T13:40:17+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/taiwan-prosecutors-search-wu-tzu-chia-office-1c6b8a",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "nus-develops-wearable-textile-touchscreen-aff0fd",
       "title": "新加坡国立大学研发出可触控纺织显示屏",
       "description": "新加坡国立大学研究团队开发出可织入衣物的纺织触摸屏，研究由该校设计与工程学院材料科学与工程系助理教授胡迪耶夫（Tural Khudiyev）主导，成果于10月21日发表于《自然》。",
@@ -2833,26 +3050,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nigeria-confirms-first-ebola-case-9df60e",
-      "title": "尼日利亚确诊近期首例输入性邦迪布焦型埃博拉病例",
-      "description": "尼日利亚卫生部门10月20日确认，一名曾前往乌干达的女性感染邦迪布焦型埃博拉病毒，这是该国近期首例。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T13:33:34+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/nigeria-confirms-first-ebola-case-9df60e",
-      "reference": [
-        "法广",
-        "公视",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -2909,24 +3106,6 @@
       ],
       "section": "china",
       "sourceCount": 13,
-      "sources": []
-    },
-    {
-      "id": "indonesia-wildfire-haze-disrupts-domestic-flights-aab140",
-      "title": "印尼林火烟霾扰乱2604趟定期国内航班",
-      "description": "印尼林火烟霾自8月以来扰乱航空运行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T13:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/indonesia-wildfire-haze-disrupts-domestic-flights-aab140",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3446,60 +3625,6 @@
       "sources": []
     },
     {
-      "id": "ningxia-hunan-warn-rural-investment-fraud-d31058",
-      "title": "宁夏湖南发布警示揭露涉农集资骗局",
-      "description": "宁夏回族自治区金融工作局和湖南省委金融委员会办公室10月21日先后发布风险提示，列出六类涉农非法集资手法，提醒农村群众防范以农业经营为包装的资金骗局。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T08:30:34.146671+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/ningxia-hunan-warn-rural-investment-fraud-d31058",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "concert-ticket-bot-scalping-profits-fe9e2d",
-      "title": "澎湃称陈某等人用外挂抢购演唱会票获利近600万",
-      "description": "据澎湃新闻报道，警方调查后锁定经营“高价代抢、保证拿票”网店的陈某，并在其手机、电脑中发现大量含不同姓名、身份证号和手机号的购票记录。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T08:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/concert-ticket-bot-scalping-profits-fe9e2d",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-fda-raises-us-potato-inspection-rate-78fbd3",
-      "title": "台湾食药署提高美国马铃薯抽检比例至20%至50%",
-      "description": "台湾食药署日前在边境查获一批未发芽但龙葵碱超标的美国马铃薯，自2026年10月8日起，将所有美国进口马铃薯的抽检比例提高至20%至50%，并表示会根据检验结果调整加强抽检的期限和比例。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T08:03:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/taiwan-fda-raises-us-potato-inspection-rate-78fbd3",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "medical-offer-show-faces-doctor-criticism-885f9d",
       "title": "《令人心动的Offer 8》医学赛道首播后遭批评",
       "description": "《令人心动的Offer》第八季医学赛道首期节目于10月21日播出。",
@@ -3550,24 +3675,6 @@
         "端传媒"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "newsguard-x-community-notes-miss-midterm-misinformation-fe1e36",
-      "title": "新闻守门人称X社群笔记漏判九成美国期中选举假信息",
-      "description": "美国新闻监督机构新闻守门人发现，X上数十条与期中选举有关的帖子传播虚假信息，其中包括捏造的选举舞弊指控。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T06:34:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/newsguard-x-community-notes-miss-midterm-misinformation-fe1e36",
-      "reference": [
-        "法广"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -3679,24 +3786,6 @@
       ],
       "section": "tech",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "weaxor-ransomware-encrypts-chinese-user-files-df7980",
-      "title": "中国用户遭“Weaxor”勒索攻击重要文件被加密",
-      "description": "国家计算机病毒应急处理中心和计算机病毒防治技术国家工程实验室近日通过国家计算机病毒协同分析平台发现，中国境内有多起用户遭“Weaxor”勒索病毒攻击。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T04:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/weaxor-ransomware-encrypts-chinese-user-files-df7980",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3883,24 +3972,6 @@
       "url": "https://kaopu.news/story/2026-10-22/nvidia-bolt-europe-25000-robotaxis-5b0fed",
       "reference": [
         "中央通訊社"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "musk-optimus-external-deliveries-2027-40f899",
-      "title": "马斯克称Optimus明年底或开始对外交付",
-      "description": "特斯拉在美东时间10月21日盘后发布2026年第三季度财报，并在报告和业绩电话会上披露，Optimus已在弗里蒙特工厂的高产量生产线上启动生产。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T00:11:36.459122+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/musk-optimus-external-deliveries-2027-40f899",
-      "reference": [
-        "第一财经"
       ],
       "section": "ai",
       "sourceCount": 1,
