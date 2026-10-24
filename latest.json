@@ -1,19 +1,58 @@
 {
   "details": {
     "date": "2026-10-24",
-    "timestamp": 1792848377,
+    "timestamp": 1792855198,
     "totalPages": 1,
     "total": 265
   },
   "stories": [
     {
-      "id": "yonhap-kim-jong-un-arrives-dandong-china-visit-5e9627",
-      "title": "金正恩访丹东商议扩大中朝人员经贸往来",
-      "description": "朝鲜领导人金正恩10月24日到访中国辽宁省丹东，与中方就扩大人员往来和经贸合作交换意见，当天结束访问后经新鸭绿江大桥返回朝鲜。",
+      "id": "ukraine-claims-spacex-starlink-throttling-air-defense-4c1c82",
+      "title": "泽连斯基称乌方星链星盾恢复限速前水平",
+      "description": "乌克兰总统泽连斯基10月24日在社交媒体表示，乌方使用的“星链”和“星盾”卫星通信系统已恢复至限速前的运行水平，现有速度能够满足实战需求。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-24T13:09:00+00:00",
+      "updatedAt": "2026-10-24T14:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/ukraine-claims-spacex-starlink-throttling-air-defense-4c1c82",
+      "reference": [
+        "联合早报",
+        "公视",
+        "朝鲜日报",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 26,
+      "sources": []
+    },
+    {
+      "id": "trump-considers-moving-white-house-press-corps-724bd6",
+      "title": "特朗普称考虑迁走白宫记者团办公地点",
+      "description": "美国总统特朗普10月24日在Truth Social否认计划拆除白宫新闻简报室、恢复原址旧泳池，同时表示可能把白宫记者团迁出目前的办公区域，搬到他所说“没那么令人讨厌”的地方。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T13:53:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/trump-considers-moving-white-house-press-corps-724bd6",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "yonhap-kim-jong-un-arrives-dandong-china-visit-5e9627",
+      "title": "王沪宁陪同金正恩完成丹东访问行程",
+      "description": "朝鲜领导人金正恩10月24日经新鸭绿江大桥抵达中国辽宁省丹东，在王沪宁陪同下访问抗美援朝纪念馆和当地一家汽车工厂，并就中朝合作交流。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T13:50:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-24",
       "url": "https://kaopu.news/story/2026-10-24/yonhap-kim-jong-un-arrives-dandong-china-visit-5e9627",
@@ -24,7 +63,47 @@
         "澎湃新闻"
       ],
       "section": "china",
-      "sourceCount": 9,
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "indonesia-minister-orders-emergency-peat-burning-ban-aeceea",
+      "title": "印尼制裁32家涉林火企业并追查责任人",
+      "description": "印度尼西亚政府已对32家涉嫌引发林火的企业实施行政制裁，并调查涉火责任人；印尼同时接受新加坡和马来西亚提出的灭火援助，新加坡也向相关企业发出法律通知。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T13:47:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/indonesia-minister-orders-emergency-peat-burning-ban-aeceea",
+      "reference": [
+        "联合早报",
+        "公视",
+        "财新",
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "netanyahu-announces-west-bank-military-operation-ab46df",
+      "title": "以军在希伯伦行动致约1200名巴勒斯坦人流离失所",
+      "description": "以色列军方10月24日在被占领的约旦河西岸希伯伦展开军事行动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T13:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/netanyahu-announces-west-bank-military-operation-ab46df",
+      "reference": [
+        "SBS",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -197,6 +276,25 @@
       ],
       "section": "world",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "russia-claims-808-ukrainian-drones-shot-down-5d15a0",
+      "title": "俄称乌克兰无人机袭击致克里米亚水电受限",
+      "description": "俄罗斯方面称，乌克兰无人机袭击使克里米亚电力和供水受限，并造成哈尔科夫州平民伤亡及俄罗斯多地受损。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T12:03:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/russia-claims-808-ukrainian-drones-shot-down-5d15a0",
+      "reference": [
+        "联合早报",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -576,27 +674,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ukraine-claims-spacex-starlink-throttling-air-defense-4c1c82",
-      "title": "乌克兰称星链与星盾连接已恢复稳定",
-      "description": "乌克兰国防部长赫马拉表示，监测结果显示，星链和军用版星盾的速度已经恢复，连接状态稳定。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-24T10:03:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/ukraine-claims-spacex-starlink-throttling-air-defense-4c1c82",
-      "reference": [
-        "联合早报",
-        "公视",
-        "朝鲜日报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 25,
       "sources": []
     },
     {
@@ -2426,45 +2503,6 @@
       "sources": []
     },
     {
-      "id": "netanyahu-announces-west-bank-military-operation-ab46df",
-      "title": "内塔尼亚胡宣布约旦河西岸将展开大规模军事行动",
-      "description": "以色列总理内塔尼亚胡宣布，以色列将在被占领的约旦河西岸展开大规模军事行动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T23:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/netanyahu-announces-west-bank-military-operation-ab46df",
-      "reference": [
-        "SBS"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "houthi-attack-saudi-oil-prices-surge-6b7c11",
-      "title": "供应忧虑推高布伦特收盘价至四月以来最高",
-      "description": "国际油价周五明显走高，布伦特原油本周收盘价达到4月以来最高。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T21:03:22+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/houthi-attack-saudi-oil-prices-surge-6b7c11",
-      "reference": [
-        "中央通訊社",
-        "法广",
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "us-energy-department-designates-helium-critical-material-b75103",
       "title": "美国能源部将氦气列为第20种关键材料",
       "description": "美国能源部10月23日宣布，将氦气列为关键材料，这是该部门认定的第20种关键材料。",
@@ -2822,24 +2860,6 @@
       ],
       "section": "life",
       "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "anwar-says-malaysia-will-pursue-1mdb-assets-c83a18",
-      "title": "安华称特赦后政府仍将追讨一马公司资产",
-      "description": "马来西亚首相兼财政部长安华10月22日表示，涉案人士获特赦或刑事判决发生变化，不会自动叫停政府追索一马公司被挪用资金的行动；政府将继续依法进行民事索赔和资产追讨。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T12:48:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/anwar-says-malaysia-will-pursue-1mdb-assets-c83a18",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3340,25 +3360,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "washington-post-pentagon-economic-intelligence-plan-8500cf",
-      "title": "美国国防部据报筹划对华深层卧底情报网",
-      "description": "美国国防部据报正在筹划一项针对中国及其他竞争对手的深层卧底情报计划。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T07:42:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/washington-post-pentagon-economic-intelligence-plan-8500cf",
-      "reference": [
-        "世界日报",
-        "韩民族日报"
-      ],
-      "section": "us",
-      "sourceCount": 3,
       "sources": []
     },
     {
