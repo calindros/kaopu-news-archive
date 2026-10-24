@@ -3,27 +3,214 @@
     "date": "2026-10-24",
     "timestamp": 1792805014,
     "totalPages": 1,
-    "total": 266
+    "total": 264
   },
   "stories": [
     {
       "id": "trump-lifts-tariffs-canadian-goods-cc822a",
-      "title": "特朗普政府豁免部分加拿大商品50%关税",
-      "description": "美国特朗普政府10月23日宣布，将从10月30日起豁免部分加拿大商品的50%关税。",
+      "title": "特朗普调整对加拿大商品加征50%关税范围",
+      "description": "美国白宫10月23日公布，特朗普当天签署文件，调整依据《斯穆特-霍利关税法》第338条对加拿大商品加征50%关税的适用范围。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-24T00:00:04+00:00",
+      "updatedAt": "2026-10-24T01:18:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-23",
       "url": "https://kaopu.news/story/2026-10-23/trump-lifts-tariffs-canadian-goods-cc822a",
       "reference": [
         "加拿大国际广播电台",
         "联合早报",
-        "世界日报"
+        "世界日报",
+        "澎湃新闻"
       ],
       "section": "world",
-      "sourceCount": 3,
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "justice-department-arrests-california-green-card-holders-9bdb54",
+      "title": "美国司法部起诉加州28名绿卡持有者",
+      "description": "美国司法部10月19日在加州对28名合法永久居民提起刑事指控，称他们并非美国公民，涉嫌非法投票、虚假选民登记或在移民申请中作不实陈述。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T01:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/justice-department-arrests-california-green-card-holders-9bdb54",
+      "reference": [
+        "世界日报",
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "pentagon-designates-confucius-institute-groups-security-6a9155",
+      "title": "美国国防部将孔子学院相关组织列为国家安全威胁",
+      "description": "美国国防部长赫塞斯10月23日在社交媒体视频中宣布，国防部将美国大学校园内以不同名称或形式运作的孔子学院相关组织列为威胁美国国家安全的机构。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T01:10:46+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/pentagon-designates-confucius-institute-groups-security-6a9155",
+      "reference": [
+        "联合早报",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "global-central-bank-gold-reserves-surpass-us-treasuries-8d6d27",
+      "title": "全球央行黄金储备市值已超过美债",
+      "description": "多国央行近年增持黄金，按市值计算，黄金在全球央行储备中的规模已超过美债。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T01:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/global-central-bank-gold-reserves-surpass-us-treasuries-8d6d27",
+      "reference": [
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "witkoff-norway-peace-proposal-talks-6bf424",
+      "title": "泽连斯基强调安全保障是乌方谈判核心",
+      "description": "乌克兰总统泽连斯基10月23日在美国哈德逊研究所线上会议上表示，安全保障是乌方和平谈判的关键条件，必须能够落实。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T00:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
+      "reference": [
+        "法广",
+        "澎湃新闻",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 36,
+      "sources": []
+    },
+    {
+      "id": "george-mccarthy-returns-pizza-delivery-after-lung-surgery-83ec8f",
+      "title": "《世界日报》报道八旬老人肺癌术后返岗送披萨",
+      "description": "据《世界日报》报道，密歇根州罗斯维尔市80岁的乔治·麦卡锡在切除肺部肿瘤后不到一周，便回到Jet's Pizza继续做披萨外送员。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T00:50:51+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/george-mccarthy-returns-pizza-delivery-after-lung-surgery-83ec8f",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-plans-address-cuba-after-iran-war-767c43",
+      "title": "特朗普称伊朗战事结束后将着手解决古巴问题",
+      "description": "美国总统特朗普星期五（10月23日）在佛罗里达州迈尔斯堡的一场集会上称，伊朗战事结束后将着手处理古巴问题，路透社报道了这番讲话。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T00:49:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/trump-plans-address-cuba-after-iran-war-767c43",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "zhang-wanying-pleads-not-guilty-8444ef",
+      "title": "张婉莹涉监视赖廷一家在洛杉矶出庭不认罪",
+      "description": "美籍华裔房地产经纪人张婉莹于2026年10月23日在洛杉矶联邦法院对相关指控表示不认罪。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T00:40:21+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/zhang-wanying-pleads-not-guilty-8444ef",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ice-detains-two-chinese-travelers-at-lax-e4a412",
+      "title": "ICE在洛杉矶机场拘留两名赴夏威夷华人",
+      "description": "两名华人分别于10月21日和23日在洛杉矶国际机场准备乘机前往夏威夷时，被美国移民与海关执法局（ICE）拘留。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T00:22:27+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/ice-detains-two-chinese-travelers-at-lax-e4a412",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "four-corners-flooding-heavy-rain-e0ced3",
+      "title": "连续强降雨致美国四角地区发生严重洪灾",
+      "description": "美国科罗拉多州、新墨西哥州、亚利桑那州和犹他州交界的四角地区在连续强降雨后于23日发生严重洪灾，多条道路被淹，部分居民撤离，另有居民爬上屋顶等待直升机救援。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T00:20:32+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/four-corners-flooding-heavy-rain-e0ced3",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "anwar-urges-switch-tuju-waze-data-risk-c1e0d1",
+      "title": "马来西亚政府研究替代方案不排除全面禁用Waze",
+      "description": "马来西亚政府正在研究Waze的替代方案，并不排除在找到合适方案后全面禁止公众使用该应用。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T00:14:22+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/anwar-urges-switch-tuju-waze-data-risk-c1e0d1",
+      "reference": [
+        "当今大马",
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 13,
       "sources": []
     },
     {
@@ -118,6 +305,27 @@
       "sources": []
     },
     {
+      "id": "tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
+      "title": "西藏巴青7.0级地震造成16死76伤",
+      "description": "西藏那曲市巴青县10月22日22时33分发生7.0级地震，震源深度10公里，震中位于北纬32.40度、东经93.79度。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T23:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "中央通訊社",
+        "法广"
+      ],
+      "section": "china",
+      "sourceCount": 69,
+      "sources": []
+    },
+    {
       "id": "zelensky-says-no-personal-grudge-trump-229f07",
       "title": "泽连斯基称与特朗普没有私人恩怨",
       "description": "据澎湃新闻报道，乌克兰总统泽连斯基当地时间10月22日在接受CNN采访时表示，他与特朗普之间没有私人恩怨，并希望美国处理中东问题时不要忘记乌克兰。",
@@ -133,27 +341,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
-      "title": "西藏巴青7.0级地震造成16人遇难76人受伤",
-      "description": "西藏那曲市巴青县10月22日夜间发生7.0级地震。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T23:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "china",
-      "sourceCount": 68,
       "sources": []
     },
     {
@@ -352,6 +539,24 @@
       "sources": []
     },
     {
+      "id": "dian-zhao-lin-detained-ice-new-york-27b33b",
+      "title": "纽约中餐馆业者林典朝遭ICE拘留",
+      "description": "纽约州蒙特莫里斯村经营中餐馆逾20年的林典朝，10月20日与妻子步行前往餐馆时被两名美国移民与海关执法局（ICE）人员带走。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T21:43:52+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/dian-zhao-lin-detained-ice-new-york-27b33b",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "houthi-attack-saudi-oil-prices-surge-6b7c11",
       "title": "供应忧虑推高布伦特收盘价至四月以来最高",
       "description": "国际油价周五明显走高，布伦特原油本周收盘价达到4月以来最高。",
@@ -370,27 +575,6 @@
       ],
       "section": "world",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "witkoff-norway-peace-proposal-talks-6bf424",
-      "title": "俄美乌代表将于11月上旬在阿布扎比会谈",
-      "description": "俄罗斯、乌克兰和美国代表计划于2026年11月上旬在阿联酋阿布扎比举行会谈，讨论俄乌冲突结束后的安全安排。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T20:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
-      "reference": [
-        "法广",
-        "澎湃新闻",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 35,
       "sources": []
     },
     {
@@ -485,6 +669,24 @@
       ],
       "section": "world",
       "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "canadian-resident-fears-detention-dies-435080",
+      "title": "CBC报道加拿大永久居民怕被拘留拒医后去世",
+      "description": "据加拿大广播公司（CBC）报道，61岁的加拿大人、美国永久居民佩吉·亚当森在华盛顿州罗伯茨角生活了14年多。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T16:17:01.798000+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/canadian-resident-fears-detention-dies-435080",
+      "reference": [
+        "加拿大国际广播电台"
+      ],
+      "section": "life",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -746,24 +948,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "justice-department-arrests-california-green-card-holders-9bdb54",
-      "title": "美国司法部起诉加州28名居民涉非法投票",
-      "description": "美国司法部10月19日在加州对28名合法永久居民提起刑事指控，涉及涉嫌以非公民身份投票、违规登记选民，以及在选民登记或移民申请中作虚假陈述。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T13:41:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/justice-department-arrests-california-green-card-holders-9bdb54",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 7,
       "sources": []
     },
     {
@@ -2174,25 +2358,6 @@
       "sources": []
     },
     {
-      "id": "registrar-revokes-pn-registration-769ecb",
-      "title": "社团注册局总监与内政部长上诉高庭暂缓令",
-      "description": "马来西亚社团注册局总监祖菲卡尔与内政部长赛夫丁纳苏丁10月23日向上诉庭提起上诉，挑战吉隆坡高庭前一天暂缓执行撤销国民联盟（国盟）注册及暂停其活动决定的裁决。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T08:20:16+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/registrar-revokes-pn-registration-769ecb",
-      "reference": [
-        "当今大马",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 11,
-      "sources": []
-    },
-    {
       "id": "hungary-revokes-dongwha-soskut-permit-9a20c5",
       "title": "匈牙利撤销韩国电池材料厂环境许可",
       "description": "匈牙利环境主管机关近日撤销了韩国电池材料企业Dongwha Electrolyte索斯库特工厂的整合环境使用许可。",
@@ -2799,60 +2964,6 @@
       "sources": []
     },
     {
-      "id": "chicago-men-charged-29m-snap-fraud-6be3d9",
-      "title": "美国司法部起诉芝加哥两男子涉嫌诈领近3000万美元",
-      "description": "美国司法部10月21日宣布起诉芝加哥两名男子，指他们利用窃来的多州电子福利转账（EBT）账户信息，在自己经营的补充营养援助计划（SNAP）商店编造交易，涉嫌骗取约2970万美元联邦粮食补助。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T06:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/chicago-men-charged-29m-snap-fraud-6be3d9",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "kff-employer-health-premiums-rise-nine-percent-9da61e",
-      "title": "KFF调查显示美国雇主医保保费上涨9%",
-      "description": "凯撒家庭基金会（KFF）10月22日发布《2026年雇主健康福利调查》。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T06:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/kff-employer-health-premiums-rise-nine-percent-9da61e",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "qingfang-pang-ice-arrest-bail-release-32b1ee",
-      "title": "中国篮球留学生庞清方遭ICE逮捕后缴保释金获释",
-      "description": "中国留学生兼大学篮球运动员庞清方9月29日在密西西比州杰克逊市准备登机赴纽约时，被美国移民及海关执法局（ICE）逮捕。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T06:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/qingfang-pang-ice-arrest-bail-release-32b1ee",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "google-voltus-virtual-power-plant-data-centers-2353d6",
       "title": "谷歌付费请用户节电为数据中心腾出电力",
       "description": "谷歌已与电力运营商Voltus达成合作，计划在美国大西洋中部的PJM电网建设虚拟发电厂，付费邀请住户和企业在用电高峰或电网紧张时减少用电，为数据中心释放电力。",
@@ -2904,25 +3015,6 @@
       ],
       "section": "ai",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "miami-judge-orders-trump-deposition-c9a04f",
-      "title": "佛州法官限特朗普12月11日前就BBC案作证",
-      "description": "佛罗里达州联邦法官莱特10月22日裁定，美国总统唐纳德·特朗普须在12月11日前，就其起诉英国广播公司（BBC）的诽谤案接受宣誓取证。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T06:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/miami-judge-orders-trump-deposition-c9a04f",
-      "reference": [
-        "世界日报",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -2994,24 +3086,6 @@
         "澎湃新闻"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "musk-donates-445-million-gop-retain-control-0601fc",
-      "title": "马斯克捐款逾4.45亿美元助共和党保国会控制权",
-      "description": "马斯克在本届美国中期选举周期政治捐款累计超过4.45亿美元，支持共和党争取保住国会两院控制权。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T05:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/musk-donates-445-million-gop-retain-control-0601fc",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -3316,44 +3390,6 @@
       "sources": []
     },
     {
-      "id": "fcc-bans-hisilicon-chip-devices-us-market-0d8ea5",
-      "title": "美国FCC首次依新规禁售两款华为监控芯片设备",
-      "description": "美国联邦通信委员会（FCC）禁止一款行车记录仪和一款无线视频传送器在美国销售。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T02:17:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/fcc-bans-hisilicon-chip-devices-us-market-0d8ea5",
-      "reference": [
-        "中央通訊社",
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "coupang-raises-us-democratic-donations-2aa66e",
-      "title": "Coupang对美国民主党方面捐款增至10.7万美元",
-      "description": "美国联邦选举委员会公布的记录显示，Coupang政治行动委员会COUPAC在2026年前三季度向美国国会参众两院议员捐款18.5万美元，较上年同期增长18.2%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T01:59:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/coupang-raises-us-democratic-donations-2aa66e",
-      "reference": [
-        "韩国国际广播电台"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-coast-guard-ends-senkaku-zone-patrol-ca76db",
       "title": "中国海警船结束尖阁周边毗连区连续航行",
       "description": "日本第11管区海上保安总部称，10月22日未在尖阁诸岛（中国称钓鱼岛）周边日本领海外侧的毗连区发现中国海警船，此前的连续航行至此中断。",
@@ -3420,61 +3456,6 @@
       "url": "https://kaopu.news/story/2026-10-23/china-nmpa-approves-batoclimab-myasthenia-gravis-adff38",
       "reference": [
         "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "singapore-hdb-resale-prices-fall-third-quarter-a68898",
-      "title": "新加坡组屋转售价第三季度环比下跌0.1%",
-      "description": "新加坡建屋发展局10月23日公布，第三季度组屋转售价环比跌0.1%，连续三季下跌，低于月初预估的0.2%；第一、二季度分别跌0.1%和0.3%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T01:13:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/singapore-hdb-resale-prices-fall-third-quarter-a68898",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "tokyo-used-condo-prices-fall-four-months-51daf2",
-      "title": "东京23区二手公寓均价连续四个月下跌",
-      "description": "东京鉴定10月22日公布的9月调查显示，东京23区每70平方米二手公寓均价为1亿2629万日元，环比下跌0.4%，已连续四个月走低；东京都心6区均价为1亿7786万日元，环比下跌1.6%，连续第五个月下跌，同比仍上涨1.3%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T01:12:35+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/tokyo-used-condo-prices-fall-four-months-51daf2",
-      "reference": [
-        "共同网",
-        "日经"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "new-york-caregivers-protest-private-arbitration-dc8732",
-      "title": "纽约护理员集会抗议欠薪追讨改走私人仲裁",
-      "description": "纽约家庭护理员及反对24小时工作制的维权团体10月22日在纽约州劳工厅布鲁克林办公室外集会，抗议Royal Care等欠薪案的追讨路径发生变化。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T20:17:23+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/new-york-caregivers-protest-private-arbitration-dc8732",
-      "reference": [
-        "世界日报"
       ],
       "section": "life",
       "sourceCount": 1,
@@ -4933,24 +4914,6 @@
       "url": "https://kaopu.news/story/2026-10-10/zheng-qinwen-reaches-china-open-final-600035",
       "reference": [
         "澎湃新闻"
-      ],
-      "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "kim-hyo-bin-gifts-asian-games-gold-medals-e1c31c",
-      "title": "金孝彬将亚运两枚金牌挂在保育院夫妇颈上",
-      "description": "韩国皮划艇选手金孝彬在仁川国际机场第二航站楼入境大厅与李公宪、崔贤淑夫妇团聚，并把亚运会获得的两枚金牌分别挂在两人脖子上。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-09T23:45:33+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-10",
-      "url": "https://kaopu.news/story/2026-10-10/kim-hyo-bin-gifts-asian-games-gold-medals-e1c31c",
-      "reference": [
-        "东亚日报"
       ],
       "section": "sports",
       "sourceCount": 1,
