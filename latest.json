@@ -1,11 +1,604 @@
 {
   "details": {
     "date": "2026-10-24",
-    "timestamp": 1792827018,
+    "timestamp": 1792830552,
     "totalPages": 1,
-    "total": 267
+    "total": 265
   },
   "stories": [
+    {
+      "id": "southern-regional-power-market-opens-9046b4",
+      "title": "南方区域电力市场结束试运行正式运行",
+      "description": "南方区域电力市场已结束连续结算试运行，正式转入运行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:57:36.266229+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/southern-regional-power-market-opens-9046b4",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "zhang-wanying-pleads-not-guilty-8444ef",
+      "title": "张婉莹首次出庭否认监视赖清德长子指控",
+      "description": "张婉莹10月23日在洛杉矶联邦法院首次出庭，对美国检方指控她受中国政府指示、在美国监视台湾总统赖清德长子赖廷及其家人的说法表示不认罪。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:50:27+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/zhang-wanying-pleads-not-guilty-8444ef",
+      "reference": [
+        "世界日报",
+        "公视"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "france-germany-bond-spread-hits-14-year-high-e16552",
+      "title": "穆迪维持法国Aa3评级展望负面",
+      "description": "穆迪评级公司10月23日维持法国主权信用评级Aa3，负面展望不变。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:35:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/france-germany-bond-spread-hits-14-year-high-e16552",
+      "reference": [
+        "中央通訊社",
+        "法广",
+        "第一财经",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "asian-american-woman-phones-held-boston-967d48",
+      "title": "有东南亚裔背景的美国女子与丈夫返美手机遭扣数日后取回",
+      "description": "据《世界日报》援引旅游网站TheTravel报道，一名有东南亚裔背景的美国女子在Reddit发帖称，她与丈夫从罗马返美，抵达波士顿洛根国际机场后被美国海关与边境保护局（CBP）带到二次检查区；两人的手机随后被扣留，数日后才领回。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/asian-american-woman-phones-held-boston-967d48",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-lifts-tariffs-canadian-goods-cc822a",
+      "title": "特朗普调整对加拿大商品加征关税范围",
+      "description": "美国总统特朗普签署文件，调整对加拿大进口商品加征50%关税的范围。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/trump-lifts-tariffs-canadian-goods-cc822a",
+      "reference": [
+        "加拿大国际广播电台",
+        "联合早报",
+        "世界日报",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "justice-department-arrests-california-green-card-holders-9bdb54",
+      "title": "美国司法部起诉加州28名永久居民",
+      "description": "美国司法部于2026年10月19日在加州对28名合法永久居民提起刑事指控，称他们涉嫌非法登记为选民、以非公民身份投票，或在移民程序中作虚假陈述。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:29:20+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/justice-department-arrests-california-green-card-holders-9bdb54",
+      "reference": [
+        "世界日报",
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "nyc-launches-hart-benefits-outreach-80ad50",
+      "title": "纽约市成立HART团队协助居民保留福利",
+      "description": "纽约市长曼达尼10月19日宣布成立健康与生活负担资源团队（HART），帮助居民应对联邦粮食券（SNAP）和医疗补助（Medicaid）资格规则变化，办理福利保留或重新申请等事项。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-19",
+      "url": "https://kaopu.news/story/2026-10-19/nyc-launches-hart-benefits-outreach-80ad50",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "shein-reportedly-agrees-ftc-settlement-payment-fc8f0d",
+      "title": "希音据报同意支付1亿元与美国联邦贸易委员会和解",
+      "description": "据《世界日报》报道，知情人士于23日透露，希音已同意向美国联邦贸易委员会（FTC）支付1亿元，以结束该机构针对消费者投诉展开的调查。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/shein-reportedly-agrees-ftc-settlement-payment-fc8f0d",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-justice-department-sues-alaska-election-certification-489736",
+      "title": "美国司法部起诉阿拉斯加州要求暂缓参议员选举认证",
+      "description": "美国司法部10月22日晚起诉阿拉斯加州，要求在特定情况下延后该州联邦参议员选举结果认证。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/us-justice-department-sues-alaska-election-certification-489736",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "dian-zhao-lin-detained-ice-new-york-27b33b",
+      "title": "纽约中餐馆老板遭ICE拘留霍楚称尽力助其返家",
+      "description": "纽约州蒙特莫里斯村中餐馆老板林典朝，10月20日与妻子步行前往餐馆途中被美国移民与海关执法局（ICE）拘留。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/dian-zhao-lin-detained-ice-new-york-27b33b",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "unitedhealthcare-humana-cancel-medicare-advantage-plans-1a2a8b",
+      "title": "联合健保与Humana取消部分红蓝卡优势计划",
+      "description": "美国联合健保公司（UnitedHealthcare）和Humana正取消部分红蓝卡优势计划（Medicare Advantage，也称Medicare C部分），涉及会员近100万人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/unitedhealthcare-humana-cancel-medicare-advantage-plans-1a2a8b",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "moderna-merck-melanoma-vaccine-cuts-recurrence-risk-2df4ac",
+      "title": "莫德纳默克疫苗试验显示复发或死亡风险降42%",
+      "description": "莫德纳与默克研发的个体化mRNA黑色素瘤疫苗intismeran autogene，在第三期试验中与现有免疫疗法联合使用，相较标准治疗使患者复发或死亡风险降低42%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/moderna-merck-melanoma-vaccine-cuts-recurrence-risk-2df4ac",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "tech",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "wang-professor-pushed-off-nyc-subway-418dbe",
+      "title": "纽约邮报称90岁华裔天体物理学家遭推下地铁重伤",
+      "description": "据《纽约邮报》报道，90岁的华裔天体物理学家王教授（C.G. Wang）在纽约乘坐E线地铁时，因请一名乘客让路，在车门打开后被对方推下车厢，造成多处骨折，后来接受髋关节置换手术。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/wang-professor-pushed-off-nyc-subway-418dbe",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "koizumi-reorganizes-japan-defense-research-institutes-a8358b",
+      "title": "日本防卫相小泉拟按功能重组装备厅研究所",
+      "description": "日本防卫相小泉进次郎10月23日在东京演讲时表示，将把防卫装备厅下属研究所从按装备类别设置改为按功能划分。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:26:41+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/koizumi-reorganizes-japan-defense-research-institutes-a8358b",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "immigration-courts-add-26-judges-new-york-bdad55",
+      "title": "美国移民法庭新增26名法官，纽约获派4人",
+      "description": "美国移民法庭近日新增26名法官，其中4人派驻纽约。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/immigration-courts-add-26-judges-new-york-bdad55",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-justice-department-plans-1000-election-observers-084de3",
+      "title": "美国司法部拟派千名观察员监督中期选举",
+      "description": "美国司法部计划在11月3日中期选举期间向全美50州派出约1000名选举观察员，人数约为上届期中选举的三倍，规模被称为史上最大。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/us-justice-department-plans-1000-election-observers-084de3",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "new-york-early-voting-begins-85d659",
+      "title": "纽约州普选提前投票将于今日正式启动",
+      "description": "纽约州普选提前投票将于10月24日开始，至11月1日结束，正式投票日为11月3日。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/new-york-early-voting-begins-85d659",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "li-yiyun-new-york-library-novel-1fbd48",
+      "title": "李翊云与詹妮弗·伊根纽约对谈新作",
+      "description": "华裔作家李翊云10月21日晚在纽约公共图书馆与小说家詹妮弗·伊根对谈，分享新小说《Music Against the Night》的创作经历。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/li-yiyun-new-york-library-novel-1fbd48",
+      "reference": [
+        "世界日报",
+        "纽约时报"
+      ],
+      "section": "culture",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "shandong-promotes-personal-eldercare-responsibility-d9ad3d",
+      "title": "山东民政厅长倡个人担起养老首责引发社保讨论",
+      "description": "山东省民政厅厅长庄严10月16日在省政府新闻发布会上介绍老龄工作时，提出统筹政府、市场、社会和家庭的作用，并引导公众形成“个人是养老第一责任人”的观念。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:23:42+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/shandong-promotes-personal-eldercare-responsibility-d9ad3d",
+      "reference": [
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "life",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "xie-weijiang-hunan-government-party-secretary-da3e33",
+      "title": "湖南省委任命谢卫江为省政府党组书记",
+      "description": "湖南省委决定，省委副书记谢卫江出任湖南省政府党组书记。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/xie-weijiang-hunan-government-party-secretary-da3e33",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "yonhap-kim-jong-un-arrives-dandong-china-visit-5e9627",
+      "title": "韩联社称金正恩抵达丹东开启访华行程",
+      "description": "韩联社称，金正恩于星期六（10月24日）通过新鸭绿江大桥进入中国，抵达辽宁省丹东，开始访华行程。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/yonhap-kim-jong-un-arrives-dandong-china-visit-5e9627",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "safe-seeks-comment-cross-border-financing-measures-3de135",
+      "title": "外汇局拟扩大跨境融资便利企业范围",
+      "description": "国家外汇管理局10月23日公布跨境投融资便利化政策征求意见稿，提出11项措施，拟调整资本项目管理并扩大可借用外债的企业范围。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/safe-seeks-comment-cross-border-financing-measures-3de135",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "shen-po-yang-leads-chiang-wan-an-0d4c98",
+      "title": "多项民调显示沈伯洋与蒋万安竞争加剧",
+      "description": "台北市长选战近期多项民调显示，现任国民党籍市长蒋万安与民进党候选人沈伯洋的支持差距较此前收窄，但各家调查结果并不一致。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/shen-po-yang-leads-chiang-wan-an-0d4c98",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "端传媒",
+        "德国之声"
+      ],
+      "section": "asia",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "acom-briefing-warns-voters-election-misinformation-a43de4",
+      "title": "ACoM简报提醒选民防范选举虚假信息",
+      "description": "美国社区媒体（ACoM）10月23日举行线上简报会，围绕临近的美国11月期中选举，讨论微信、WhatsApp等社交平台和人工智能生成内容传播选举错误信息的方式，以及这类信息对移民和华人选民的影响。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/acom-briefing-warns-voters-election-misinformation-a43de4",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "meta-delays-terms-until-november-20-32882f",
+      "title": "Meta将争议条款生效日推迟至11月20日",
+      "description": "Meta将商业条款和自助广告条款的生效日期从原定的10月30日推迟至11月20日。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/meta-delays-terms-until-november-20-32882f",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "tech",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "doj-charges-youngs-rehab-insurance-fraud-b0ca64",
+      "title": "美国司法部起诉南加父子涉16亿元戒毒骗保案",
+      "description": "美国司法部于10月22日起诉洛杉矶戒毒中心经营者David Young、其子Nathan Young及人口掮客Honey Phipps、Cody Phipps，指控四人以虚假成瘾治疗为掩护，诱骗弱势群体赴加州，并涉案金额高达16亿元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/doj-charges-youngs-rehab-insurance-fraud-b0ca64",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "iran-expands-operations-against-us-diplomats-d9341a",
+      "title": "Axios称伊朗加大针对美国驻外外交官行动",
+      "description": "据Axios报道，美国情报部门警告，伊朗针对美国驻外外交官员的行动大幅增加，部分可能造成致命后果的袭击图谋已进入“高级阶段”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/iran-expands-operations-against-us-diplomats-d9341a",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ice-detains-two-chinese-travelers-at-lax-e4a412",
+      "title": "世界日报称两名华人赴夏威夷前遭ICE拘留",
+      "description": "据《世界日报》报道，律师郝琦称，两名华人于2026年10月21日和23日在洛杉矶国际机场准备乘机前往夏威夷时，先后被美国移民与海关执法局（ICE）拘留。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/ice-detains-two-chinese-travelers-at-lax-e4a412",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "wyden-proposes-extended-unemployment-benefits-fd9ca1",
+      "title": "魏登提案延长失业救济以应对人工智能冲击",
+      "description": "《纽约时报》报道，美国参议院财政委员会民主党资深成员罗恩·魏登本周牵头提出一项草案，拟扩大失业保险并强化联邦社会安全网。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/wyden-proposes-extended-unemployment-benefits-fd9ca1",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "judge-blocks-usda-reorganization-93d978",
+      "title": "联邦法官叫停美国农业部大规模重组",
+      "description": "美国加州北区联邦地方法院法官文斯·查布里亚近日裁定，在相关诉讼审理期间，暂时禁止美国农业部推进大规模组织重整。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/judge-blocks-usda-reorganization-93d978",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "fifth-circuit-rules-switchblade-ban-unconstitutional-ce95bb",
+      "title": "美国第五巡回法院判联邦弹簧刀禁令违宪",
+      "description": "美国第五巡回上诉法院三名法官组成的合议庭10月21日裁定，禁止跨州制造和销售弹簧刀的《联邦弹簧刀法》违反美国宪法第二修正案，并将案件发回下级法院继续处理。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/fifth-circuit-rules-switchblade-ban-unconstitutional-ce95bb",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "new-jersey-geico-refund-auto-premiums-3770bb",
+      "title": "新泽西州责令GEICO退还逾1050万元保费",
+      "description": "新泽西州银行和保险局要求GEICO向超过1.5万名保单持有人退还逾1050万元汽车保险费，并对GEICO及其关联公司处以120万元罚款。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/new-jersey-geico-refund-auto-premiums-3770bb",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "oregon-parent-shoots-school-intruder-9979c7",
       "title": "本德小学家长开枪击毙闯入校园的少年枪手",
@@ -43,6 +636,24 @@
       "sources": []
     },
     {
+      "id": "yukun-high-speed-rail-track-laying-complete-e2309d",
+      "title": "渝昆高铁全线铺轨作业已全部完成",
+      "description": "10月24日下午，最后一组500米钢轨在渝昆高铁筠连隧道口完成铺设，标志全线铺轨收尾。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T06:09:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/yukun-high-speed-rail-track-laying-complete-e2309d",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "anaheim-couple-wildlife-smuggling-probation-298d6e",
       "title": "安那罕夫妻协助走私野生动物制品获判缓刑",
       "description": "南加州安那罕市居民林露（Linh Luu）和凯文·黎（Kevin Le）在俄勒冈州尤金联邦法院承认违反美国《雷斯法》。",
@@ -61,21 +672,23 @@
       "sources": []
     },
     {
-      "id": "doj-charges-youngs-rehab-insurance-fraud-b0ca64",
-      "title": "美国司法部起诉15人指控医保诈骗超20亿元",
-      "description": "美国司法部于2026年10月22日起诉15名被告，指控他们通过虚假医疗申报、非法回扣及伪造手术记录，向政府和私人医疗保险计划骗取超过20亿元。",
+      "id": "ebay-announces-1000-job-cuts-ed2aa5",
+      "title": "eBay宣布裁减约1000名员工占全球约9%",
+      "description": "美国电商平台eBay于10月21日宣布，计划裁减约1000名员工，约占全球员工总数的9%。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
       "updatedAt": "2026-10-24T06:00:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/doj-charges-youngs-rehab-insurance-fraud-b0ca64",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/ebay-announces-1000-job-cuts-ed2aa5",
       "reference": [
+        "中央通訊社",
+        "法广",
         "世界日报"
       ],
-      "section": "us",
-      "sourceCount": 2,
+      "section": "business",
+      "sourceCount": 4,
       "sources": []
     },
     {
@@ -95,6 +708,26 @@
       ],
       "section": "ai",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "zhuge-yujie-qinghai-party-deputy-secretary-415dd1",
+      "title": "诸葛宇杰任青海省委副书记兼省政府党组书记",
+      "description": "诸葛宇杰获任青海省委副书记，并出任青海省政府党组书记。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T05:44:22+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/zhuge-yujie-qinghai-party-deputy-secretary-415dd1",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -230,6 +863,24 @@
       "sources": []
     },
     {
+      "id": "uk-boosts-ai-security-investment-453be7",
+      "title": "英国政府追加人工智能安全投资防范新型威胁",
+      "description": "英国政府宣布扩大人工智能安全投入，额外拨款1.2亿英镑支持英国人工智能安全研究院，并投入1亿英镑设立国家人工智能生物安全实验室。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T05:23:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/uk-boosts-ai-security-investment-453be7",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "krovanh-keelung-bus-suspension-301fae",
       "title": "蔷琵台风侵袭基隆造成逾300件灾情",
       "description": "蔷琵台风过境后，基隆市累计通报灾情超过300件，停电户数一度超过1万户；截至24日上午9时许，仍有1000多户尚未恢复供电，市政府正推进抢修复原。",
@@ -337,24 +988,6 @@
       ],
       "section": "china",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "xie-weijiang-hunan-government-party-secretary-da3e33",
-      "title": "湖南省委决定谢卫江出任湖南省政府党组书记",
-      "description": "湖南省委决定由谢卫江担任湖南省政府党组书记。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-24T04:51:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/xie-weijiang-hunan-government-party-secretary-da3e33",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -471,25 +1104,6 @@
       "sources": []
     },
     {
-      "id": "zhuge-yujie-qinghai-party-deputy-secretary-415dd1",
-      "title": "诸葛宇杰获任青海省委副书记兼省政府党组书记",
-      "description": "诸葛宇杰获任青海省委副书记，并出任青海省政府党组书记。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-24T04:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/zhuge-yujie-qinghai-party-deputy-secretary-415dd1",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "cpc-approves-lin-tao-fujian-deputy-party-secretary-40c96e",
       "title": "中共中央批准林涛出任福建省委副书记",
       "description": "林涛近日获中共中央批准出任福建省委副书记。",
@@ -542,24 +1156,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "southern-regional-power-market-opens-9046b4",
-      "title": "南方区域电力市场正式开市，覆盖五省区",
-      "description": "南方区域电力市场正式开市，广东、广西、云南、贵州、海南五省区的发电企业和用电企业开始按统一规则进行现货交易。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-24T03:33:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/southern-regional-power-market-opens-9046b4",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -674,45 +1270,6 @@
       "sources": []
     },
     {
-      "id": "shen-po-yang-leads-chiang-wan-an-0d4c98",
-      "title": "台北市长民调出现沈伯洋领先蒋万安结果",
-      "description": "台北市长选战近期多份民调显示，沈伯洋与蒋万安的支持度差距缩小，部分调查由沈伯洋领先。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-24T01:46:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/shen-po-yang-leads-chiang-wan-an-0d4c98",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "端传媒",
-        "德国之声"
-      ],
-      "section": "asia",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "meta-delays-terms-until-november-20-32882f",
-      "title": "Meta将争议条款生效日延至11月20日",
-      "description": "Meta将商业条款和自助广告条款的生效日期从原定的10月30日推迟至11月20日。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-24T01:44:46+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/meta-delays-terms-until-november-20-32882f",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "california-man-charged-poisoning-adoptive-mother-assets-09c323",
       "title": "加州男子被控毒杀养母并侵吞其财产",
       "description": "圣地亚哥县检方已起诉34岁的Cedric Von Ferdinand，指控他毒杀养母Nadine Jett，并通过虚假文件和房产交易侵吞她的财产。",
@@ -766,46 +1323,6 @@
       ],
       "section": "china",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "trump-lifts-tariffs-canadian-goods-cc822a",
-      "title": "特朗普调整对加拿大商品加征50%关税范围",
-      "description": "美国白宫10月23日公布，特朗普当天签署文件，调整依据《斯穆特-霍利关税法》第338条对加拿大商品加征50%关税的适用范围。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-24T01:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/trump-lifts-tariffs-canadian-goods-cc822a",
-      "reference": [
-        "加拿大国际广播电台",
-        "联合早报",
-        "世界日报",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "justice-department-arrests-california-green-card-holders-9bdb54",
-      "title": "美国司法部起诉加州28名绿卡持有者",
-      "description": "美国司法部10月19日在加州对28名合法永久居民提起刑事指控，称他们并非美国公民，涉嫌非法投票、虚假选民登记或在移民申请中作不实陈述。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-24T01:14:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/justice-department-arrests-california-green-card-holders-9bdb54",
-      "reference": [
-        "世界日报",
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -885,42 +1402,6 @@
       "sources": []
     },
     {
-      "id": "zhang-wanying-pleads-not-guilty-8444ef",
-      "title": "张婉莹涉监视赖廷一家在洛杉矶出庭不认罪",
-      "description": "美籍华裔房地产经纪人张婉莹于2026年10月23日在洛杉矶联邦法院对相关指控表示不认罪。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-24T00:40:21+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/zhang-wanying-pleads-not-guilty-8444ef",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ice-detains-two-chinese-travelers-at-lax-e4a412",
-      "title": "ICE在洛杉矶机场拘留两名赴夏威夷华人",
-      "description": "两名华人分别于10月21日和23日在洛杉矶国际机场准备乘机前往夏威夷时，被美国移民与海关执法局（ICE）拘留。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-24T00:22:27+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/ice-detains-two-chinese-travelers-at-lax-e4a412",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "anwar-urges-switch-tuju-waze-data-risk-c1e0d1",
       "title": "马来西亚政府研究替代方案不排除全面禁用Waze",
       "description": "马来西亚政府正在研究Waze的替代方案，并不排除在找到合适方案后全面禁止公众使用该应用。",
@@ -991,24 +1472,6 @@
         "联合早报"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "immigration-courts-add-26-judges-new-york-bdad55",
-      "title": "美国移民法庭新增26名法官纽约获派4人",
-      "description": "美国移民法庭新增26名法官，其中4人派往纽约的两处移民法庭。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T23:42:42+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/immigration-courts-add-26-judges-new-york-bdad55",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -1226,24 +1689,6 @@
       "sources": []
     },
     {
-      "id": "dian-zhao-lin-detained-ice-new-york-27b33b",
-      "title": "纽约中餐馆业者林典朝遭ICE拘留",
-      "description": "纽约州蒙特莫里斯村经营中餐馆逾20年的林典朝，10月20日与妻子步行前往餐馆时被两名美国移民与海关执法局（ICE）人员带走。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T21:43:52+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/dian-zhao-lin-detained-ice-new-york-27b33b",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "houthi-attack-saudi-oil-prices-surge-6b7c11",
       "title": "供应忧虑推高布伦特收盘价至四月以来最高",
       "description": "国际油价周五明显走高，布伦特原油本周收盘价达到4月以来最高。",
@@ -1318,24 +1763,6 @@
         "加拿大国际广播电台"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "asian-american-woman-phones-held-boston-967d48",
-      "title": "亚裔美国妇女返美两部手机遭扣数日",
-      "description": "据《世界日报》援引旅游网站TheTravel报道，一名具有东南亚裔背景的美国妇女在社交平台Reddit讲述，她和丈夫从意大利罗马抵达波士顿洛根国际机场后，被美国海关暨边境保护局（CBP）人员带往二次检查区；两人的手机被留作进一步检查，数日后才取回。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T15:18:15+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/asian-american-woman-phones-held-boston-967d48",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -1831,25 +2258,6 @@
       "sources": []
     },
     {
-      "id": "safe-seeks-comment-cross-border-financing-measures-3de135",
-      "title": "外汇局征求11项跨境投融资便利化措施意见",
-      "description": "10月23日，中国国家外汇管理局发布跨境投融资便利化政策通知征求意见稿，并向社会征求意见。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T12:56:01.168318+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/safe-seeks-comment-cross-border-financing-measures-3de135",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "starbucks-china-introduces-consumption-based-seating-9a80cd",
       "title": "星巴克中国在大陆门店推行消费入座",
       "description": "星巴克中国自10月22日起在中国大陆约8000家门店推行“消费入座”，并在店内摆放提示牌。",
@@ -1980,42 +2388,6 @@
       ],
       "section": "china",
       "sourceCount": 17,
-      "sources": []
-    },
-    {
-      "id": "uk-urges-households-stockpile-emergency-supplies-3297b9",
-      "title": "英国政府倡议民众在家储备三天应急物资",
-      "description": "英国政府10月23日发起“做好准备”（Be Ready）倡议，建议家庭在家备足三天所需的应急用品，包括瓶装水和耐储存食品。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T12:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/uk-urges-households-stockpile-emergency-supplies-3297b9",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "wyden-proposes-extended-unemployment-benefits-fd9ca1",
-      "title": "怀登提案延长失业救济应对人工智能冲击",
-      "description": "美国民主党参议员罗恩·怀登主导提出一项草案，拟延长失业保险并升级联邦社会安全网，以应对人工智能可能造成的就业冲击。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T12:25:07+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/wyden-proposes-extended-unemployment-benefits-fd9ca1",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2184,27 +2556,6 @@
       "sources": []
     },
     {
-      "id": "trump-backs-netanyahu-reelection-d6e4fe",
-      "title": "特朗普公开支持内塔尼亚胡竞选连任",
-      "description": "美国总统特朗普10月18日在Truth Social发文，公开支持以色列总理内塔尼亚胡竞选连任，称将给予他“全面且彻底的支持”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T11:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/trump-backs-netanyahu-reelection-d6e4fe",
-      "reference": [
-        "联合早报",
-        "法广",
-        "日本放送协会",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
       "id": "china-billionaires-move-offshore-funds-us-banks-2fd041",
       "title": "据报中国富豪将港新离岸资金转入美国银行",
       "description": "据中央社援引美国财经媒体CNBC报道，部分中国富豪正把存放在香港或新加坡的离岸资金转往美国银行。",
@@ -2237,24 +2588,6 @@
         "共同网"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "paris-suburb-shooting-kills-one-injures-four-5ccdba",
-      "title": "巴黎西郊驾车随机枪击致至少1死4伤",
-      "description": "当地时间10月23日上午10时30分左右，一名男子驾车经过巴黎以西约20公里的特拉普及邻近的拉韦里耶尔，沿途向路人开枪，造成至少1人死亡、4人受伤，其中包括一名12岁女童。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T11:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/paris-suburb-shooting-kills-one-injures-four-5ccdba",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -2458,24 +2791,6 @@
       ],
       "section": "business",
       "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "philippines-offers-bounty-dela-rosa-arrest-978b6b",
-      "title": "菲律宾政府悬赏5000万比索缉捕德拉罗萨",
-      "description": "菲律宾内政部长雷穆拉10月23日宣布，政府悬赏5000万比索（约合115万新元）缉捕前警察总长、现任参议员德拉罗萨。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T10:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/philippines-offers-bounty-dela-rosa-arrest-978b6b",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2870,26 +3185,6 @@
       "sources": []
     },
     {
-      "id": "pentagon-says-30-universities-ended-ties-3b4451",
-      "title": "美国战争部称30所大学终止80多项合作",
-      "description": "美国战争部10月19日宣布，已完成对30所大学的初步科研安全审查，并称这些学校采取了80多项终止合作的行动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T07:42:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/pentagon-says-30-universities-ended-ties-3b4451",
-      "reference": [
-        "世界日报",
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "meta-ai-commitments-reach-825-billion-5bd4de",
       "title": "Meta披露4545.2亿美元不可撤销合同承诺",
       "description": "Meta于10月22日向美国证券交易委员会提交季度报告，披露截至9月30日不可撤销合同承诺总额为4545.2亿美元，涉及第三方云算力、服务器和网络设施、数据中心能源服务及Reality Labs消费硬件。",
@@ -2943,42 +3238,6 @@
       ],
       "section": "china",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "swiss-regulator-approves-first-bitcoin-etf-943023",
-      "title": "瑞士金融市场监管局批准首只比特币ETF",
-      "description": "瑞士金融市场监管局批准瑞士首只比特币ETF。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T07:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/swiss-regulator-approves-first-bitcoin-etf-943023",
-      "reference": [
-        "瑞士新闻简讯"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "jason-wu-warns-sovereign-bond-yield-risks-70f3ca",
-      "title": "IMF助理主管称主权债收益率无序上升风险加剧",
-      "description": "国际货币基金组织（IMF）全球市场分析部助理主管Jason Wu近日接受第一财经专访时表示，相较去年，主权债券收益率无序上升的风险已经增加。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T07:09:36.990287+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/jason-wu-warns-sovereign-bond-yield-risks-70f3ca",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3036,60 +3295,6 @@
       "sources": []
     },
     {
-      "id": "brooklyn-senior-centers-searched-cb2ea6",
-      "title": "纽约调查百余成人日照机构涉嫌白卡欺诈",
-      "description": "10月20日，联邦、纽约州及地方执法机构在皇后区、布鲁克林、史泰登岛等地对成人日间照护中心展开联合调查，关注医疗补助（Medicaid，俗称白卡）欺诈、虚报服务及回扣招揽等问题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T06:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/brooklyn-senior-centers-searched-cb2ea6",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 13,
-      "sources": []
-    },
-    {
-      "id": "flushing-daycare-center-healthcare-fraud-7a973f",
-      "title": "法拉盛日照中心被控骗取1.2亿美元医保资金",
-      "description": "联邦检方指控，法拉盛皇家成人日照中心相关人员以现金回扣招揽老年人，虚报日间照护服务，并通过关联药房申报药品费用，案件涉及约1.2亿美元Medicare和Medicaid资金。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T06:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/flushing-daycare-center-healthcare-fraud-7a973f",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "meng-ju-liu-sues-trump-naturalization-delay-729e3b",
-      "title": "刘孟居起诉美国政府要求限期办理入籍",
-      "description": "俄亥俄州台裔永久居民刘孟居于10月15日向俄亥俄州南区联邦地区法院起诉美国联邦官员，要求法院推动其入籍申请完成审查和后续办理。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T06:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/meng-ju-liu-sues-trump-naturalization-delay-729e3b",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "new-york-chinese-pharmacies-rebates-overprescribing-3fc63f",
       "title": "纽约部分华人药房被曝以回扣诱导长者多配药",
       "description": "纽约部分华人社区药房被指用处方现金券和OTC福利折现吸引长者留方，并把优惠与配药数量挂钩。",
@@ -3104,60 +3309,6 @@
         "世界日报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "jeffries-first-black-house-speaker-ca8707",
-      "title": "民主党若夺回众院杰佛瑞斯将成首位非裔议长",
-      "description": "民主党若在2026年中期选举中净增三席并夺回美国众议院多数，现任少数党领袖哈基姆·杰佛瑞斯将成为美国首位非洲裔众议院议长。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T06:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/jeffries-first-black-house-speaker-ca8707",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "new-york-chinatown-sues-city-night-work-e09d59",
-      "title": "华埠团体起诉纽约市要求停止监狱夜间施工",
-      "description": "坚尼路以南邻里联盟（NUBC）、「欢迎来华埠」及多名华埠居民10月21日向纽约州高等法院起诉纽约市府，要求撤销曼哈顿华埠城区监狱工程的加班施工许可，并停止夜间和周末施工。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T06:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/new-york-chinatown-sues-city-night-work-e09d59",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "trump-deportations-miss-million-target-f06d20",
-      "title": "移民政策研究所称川普年遣返66万人未达百万目标",
-      "description": "美国非营利智库移民政策研究所10月22日发布报告称，川普政府在9月底结束的会计年度遣返约66万人，超过前一年度的约62万人，但没有达到每年遣返100万人的目标。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T06:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/trump-deportations-miss-million-target-f06d20",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -3177,27 +3328,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "meta-third-quarter-revenue-rises-26-percent-127637",
-      "title": "Meta发无投票权新股助扎克伯格缴税保控制权",
-      "description": "Meta于10月21日在监管文件中披露，将向现有股东配发无投票权C类普通股，并与首席执行官马克·扎克伯格达成协议，使他能够出售部分新股筹措资金，同时保有对公司的控制权。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T06:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/meta-third-quarter-revenue-rises-26-percent-127637",
-      "reference": [
-        "中央通訊社",
-        "澎湃新闻",
-        "世界日报",
-        "法广"
-      ],
-      "section": "business",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -3309,24 +3439,6 @@
       "sources": []
     },
     {
-      "id": "china-ev-charging-facilities-expand-5e4316",
-      "title": "全国充电设施总量增至2477.7万个",
-      "description": "中国国家能源局10月22日公布的数据显示，截至2026年9月底，全国电动汽车充电基础设施（枪）总量为2477.7万个，同比增加37.2%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T05:40:34.914494+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/china-ev-charging-facilities-expand-5e4316",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "supreme-court-orders-injury-benefits-f1df18",
       "title": "最高法撤销旧判责令社保局支付李某工伤待遇",
       "description": "最高人民法院于2026年4月29日采纳最高人民检察院的抗诉意见，撤销一审、二审及四川省高级人民法院再审判决，并撤销某县社会保险事业管理局此前作出的告知书，责令该局履行核定、支付李某工伤保险待遇的职责。",
@@ -3366,44 +3478,6 @@
       "sources": []
     },
     {
-      "id": "hong-kong-fire-inquiry-report-names-four-departments-c70a83",
-      "title": "据报宏福苑火灾报告点名四部门失职",
-      "description": "香港宏福苑火灾独立委员会10月22日向行政长官李家超提交调查报告。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T05:12:17+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/hong-kong-fire-inquiry-report-names-four-departments-c70a83",
-      "reference": [
-        "联合早报",
-        "日本放送协会"
-      ],
-      "section": "china",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "li-yiyun-new-york-library-novel-1fbd48",
-      "title": "《纽约时报》刊出李翊云新作书评",
-      "description": "《纽约时报》10月23日刊出对李翊云新小说《抗衡黑夜的音乐》的书评。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T04:55:43+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/li-yiyun-new-york-library-novel-1fbd48",
-      "reference": [
-        "世界日报",
-        "纽约时报"
-      ],
-      "section": "culture",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "microsoft-medical-ai-outperforms-doctors-diagnosis-eaeaa9",
       "title": "微软新型医疗AI复杂病例诊断准确率超过医生一倍",
       "description": "微软研究人员开发出一套模拟医生逐步问诊、安排检查并分析结果的医疗人工智能系统。",
@@ -3418,44 +3492,6 @@
         "联合早报"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-affairs-office-vway-trade-claim-8e88dd",
-      "title": "国台办称绝不姑息“台独”顽固分子及其关联企业",
-      "description": "中国大陆国台办发言人张晗10月21日在例行记者会上重申，不会容忍其所称破坏两岸关系和平发展、阻碍交流合作的“台独顽固分子”及关联企业。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T04:32:45+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/taiwan-affairs-office-vway-trade-claim-8e88dd",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "singapore-prison-quarterly-parent-video-calls-497775",
-      "title": "新加坡两部门安排季度视频通话助服刑父母联系子女",
-      "description": "新加坡监狱署与教育部通过Project HOPE，为服刑父母和学龄子女安排每季度一次的视频通话，帮助双方保持联系。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T04:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/singapore-prison-quarterly-parent-video-calls-497775",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -3494,26 +3530,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "france-reports-first-human-sandema-virus-case-4871bb",
-      "title": "法国确认全球首例沙门达病毒人类感染病例",
-      "description": "法国卫生部门10月22日确认全球首例已报告的人类沙门达病毒感染病例。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T03:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/france-reports-first-human-sandema-virus-case-4871bb",
-      "reference": [
-        "法广",
-        "日经",
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -3568,24 +3584,6 @@
         "日经"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "moderna-merck-melanoma-vaccine-cuts-recurrence-risk-2df4ac",
-      "title": "莫德纳默克疫苗降低黑色素瘤复发或死亡风险42%",
-      "description": "莫德纳与默克的个体化mRNA黑色素瘤疫苗intismeran autogene，在第三期临床试验中与现有免疫疗法联用后，患者复发或死亡风险较标准治疗低42%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T01:51:14+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/moderna-merck-melanoma-vaccine-cuts-recurrence-risk-2df4ac",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "tech",
       "sourceCount": 1,
       "sources": []
     },
@@ -4022,27 +4020,6 @@
       "sources": []
     },
     {
-      "id": "national-data-group-xiongan-launch-528945",
-      "title": "国家数据集团在雄安新区正式成立",
-      "description": "国家数据集团有限公司10月20日在河北雄安新区成立，成为以开发利用数据资源为核心职责的中央企业。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T04:44:31+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/national-data-group-xiongan-launch-528945",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "联合早报",
-        "财新"
-      ],
-      "section": "china",
-      "sourceCount": 12,
-      "sources": []
-    },
-    {
       "id": "micron-rejects-4f2-keeps-6f2-route-0c1c2e",
       "title": "美光科技拒用4F2架构坚持6F2路线",
       "description": "美光科技总裁兼首席技术与产品官斯科特·德波尔在当地时间10月21日举行的技术研讨会上表示，公司将沿用6F2架构，并推进3D DRAM研发，不采用4F2架构。",
@@ -4298,24 +4275,6 @@
         "联合早报"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-approves-auditory-brainstem-implant-0e24b5",
-      "title": "中国首个听觉脑干植入体获批注册",
-      "description": "中国国家药品监督管理局于10月20日批准首款“听觉脑干植入体”的创新产品注册申请。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T05:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/china-approves-auditory-brainstem-implant-0e24b5",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "tech",
       "sourceCount": 1,
       "sources": []
     },
