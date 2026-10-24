@@ -1,11 +1,140 @@
 {
   "details": {
     "date": "2026-10-24",
-    "timestamp": 1792797559,
+    "timestamp": 1792805014,
     "totalPages": 1,
     "total": 266
   },
   "stories": [
+    {
+      "id": "trump-lifts-tariffs-canadian-goods-cc822a",
+      "title": "特朗普政府豁免部分加拿大商品50%关税",
+      "description": "美国特朗普政府10月23日宣布，将从10月30日起豁免部分加拿大商品的50%关税。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T00:00:04+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/trump-lifts-tariffs-canadian-goods-cc822a",
+      "reference": [
+        "加拿大国际广播电台",
+        "联合早报",
+        "世界日报"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "uscis-naturalization-processing-drops-73-percent-a5363e",
+      "title": "美国前八个月入籍申请获批量同比下降72%",
+      "description": "美国公民及移民服务局数据显示，2026年前8个月，美国政府批准约17.3万份入籍申请，同比减少72%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T00:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/uscis-naturalization-processing-drops-73-percent-a5363e",
+      "reference": [
+        "世界日报",
+        "财新"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-issues-national-informatization-15th-five-year-plan-8b82b7",
+      "title": "中央网信委印发国家信息化“十五五”规划",
+      "description": "近日，中央网络安全和信息化委员会印发《国家信息化“十五五”规划》，为各地区和有关部门推进信息化工作作出安排。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T23:46:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/china-issues-national-informatization-15th-five-year-plan-8b82b7",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "sihasak-welcomes-us-myanmar-engagement-715aae",
+      "title": "泰国外长西哈萨欢迎美国同缅甸开展接触",
+      "description": "泰国外长西哈萨星期五（10月23日）接受路透社采访时表示，泰国欢迎美国同缅甸接触，并期待东盟在11月马尼拉峰会上讨论缅甸问题。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T23:44:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/sihasak-welcomes-us-myanmar-engagement-715aae",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "immigration-courts-add-26-judges-new-york-bdad55",
+      "title": "美国移民法庭新增26名法官纽约获派4人",
+      "description": "美国移民法庭新增26名法官，其中4人派往纽约的两处移民法庭。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T23:42:42+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/immigration-courts-add-26-judges-new-york-bdad55",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-embassy-korea-warns-tourists-forced-spending-2524ef",
+      "title": "中国驻韩使馆提醒赴韩团客防范低价游强制消费",
+      "description": "中国驻韩国大使馆于2026年10月23日提醒赴韩中国团体游客谨慎挑选旅行社和旅游产品，避开低价招揽且附带强制消费的旅游团。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T23:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/china-embassy-korea-warns-tourists-forced-spending-2524ef",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "zelensky-says-no-personal-grudge-trump-229f07",
+      "title": "泽连斯基称与特朗普没有私人恩怨",
+      "description": "据澎湃新闻报道，乌克兰总统泽连斯基当地时间10月22日在接受CNN采访时表示，他与特朗普之间没有私人恩怨，并希望美国处理中东问题时不要忘记乌克兰。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-23T23:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/zelensky-says-no-personal-grudge-trump-229f07",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
       "title": "西藏巴青7.0级地震造成16人遇难76人受伤",
@@ -145,25 +274,6 @@
       ],
       "section": "asia",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "trump-lifts-tariffs-canadian-goods-cc822a",
-      "title": "特朗普签令豁免加拿大部分产品关税",
-      "description": "美国总统唐纳德·特朗普签署行政令，豁免部分加拿大产品此前适用的50%关税，调整定于2026年10月30日生效。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T23:09:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/trump-lifts-tariffs-canadian-goods-cc822a",
-      "reference": [
-        "加拿大国际广播电台",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1519,24 +1629,6 @@
       "sources": []
     },
     {
-      "id": "china-issues-national-informatization-15th-five-year-plan-8b82b7",
-      "title": "中央网信委印发国家信息化“十五五”规划",
-      "description": "近日，中央网络安全和信息化委员会印发《国家信息化“十五五”规划》，为各地区、各有关部门推进信息化工作作出安排。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T11:02:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/china-issues-national-informatization-15th-five-year-plan-8b82b7",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "high-rates-test-wall-street-retail-banks-a25926",
       "title": "高利率考验华尔街零售银行存款定价能力",
       "description": "中美银行股近日走势分化：中国大型银行股走强，美国银行股表现落后于大盘；华尔街大行三季报显示，高利率仍在考验零售银行的存款成本和净息差。",
@@ -2211,25 +2303,6 @@
       "sources": []
     },
     {
-      "id": "abang-johari-announces-sarawak-assembly-dissolution-d1174d",
-      "title": "阿邦佐哈里宣布砂拉越议会10月26日解散",
-      "description": "砂拉越总理阿邦佐哈里宣布，砂拉越议会定于10月26日解散，为举行第13届砂拉越选举创造条件。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T07:45:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/abang-johari-announces-sarawak-assembly-dissolution-d1174d",
-      "reference": [
-        "当今大马",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "french-firm-turns-jeans-into-insulation-dc26ce",
       "title": "法国社会企业将旧牛仔裤制成隔热材料",
       "description": "法国社会企业“勒赫莱”把旧牛仔裤加工成建筑隔热材料，产品用于住宅和历史建筑。",
@@ -2358,24 +2431,6 @@
       ],
       "section": "china",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "us-treasury-proposes-broader-outbound-investment-rules-8386b6",
-      "title": "美国财政部公布拟扩大先进技术对外投资限制草案",
-      "description": "美国财政部10月22日公布《全面对外投资国家安全法》（COINS法）实施规则草案，拟将先进技术对外投资限制的对象国从中国扩大至俄罗斯、伊朗、古巴和朝鲜，并计划在12月7日前征求公众意见。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T07:31:15+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/us-treasury-proposes-broader-outbound-investment-rules-8386b6",
-      "reference": [
-        "日经"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2537,24 +2592,6 @@
         "世界日报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "uscis-naturalization-processing-drops-73-percent-a5363e",
-      "title": "美国移民局二季度入籍审理量同比下降73%",
-      "description": "美国公民及移民服务局（USCIS）数据显示，2026年4月至6月共处理约7.1万件入籍申请，较去年同期的26.5万件减少73%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T06:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/uscis-naturalization-processing-drops-73-percent-a5363e",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -3426,24 +3463,6 @@
       "sources": []
     },
     {
-      "id": "us-pentagon-approves-dhs-heat-ray-trial-27062e",
-      "title": "美国国防部批准国土安全部试用热射线武器",
-      "description": "美国国防部已批准国土安全部试运行主动拒绝系统（ADS）。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T00:53:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/us-pentagon-approves-dhs-heat-ray-trial-27062e",
-      "reference": [
-        "朝鲜日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "new-york-caregivers-protest-private-arbitration-dc8732",
       "title": "纽约护理员集会抗议欠薪追讨改走私人仲裁",
       "description": "纽约家庭护理员及反对24小时工作制的维权团体10月22日在纽约州劳工厅布鲁克林办公室外集会，抗议Royal Care等欠薪案的追讨路径发生变化。",
@@ -3480,24 +3499,6 @@
       ],
       "section": "business",
       "sourceCount": 8,
-      "sources": []
-    },
-    {
-      "id": "govtech-singapore-second-phase-layoffs-d47980",
-      "title": "新加坡政府科技局转型计划第二阶段将裁退38人",
-      "description": "新加坡政府科技局工作队伍转型计划第二阶段评估后，将有38人离职；另有106人可参加学徒计划，接受培训后转岗，另有106人岗位不受影响。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T15:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/govtech-singapore-second-phase-layoffs-d47980",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
       "sources": []
     },
     {
