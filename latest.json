@@ -1,11 +1,119 @@
 {
   "details": {
     "date": "2026-10-25",
-    "timestamp": 1792910107,
+    "timestamp": 1792912666,
     "totalPages": 1,
     "total": 269
   },
   "stories": [
+    {
+      "id": "nasa-artemis-iii-earth-orbit-test-mission-74e838",
+      "title": "NASA加快阿提米丝计划力争2028年载人登月",
+      "description": "NASA署长艾萨克曼10月23日在肯尼迪太空中心介绍后续登月安排，宣布加快阿提米丝计划，目标是在2028年让宇航员重返月球，并推进月球基地建设。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-25T06:12:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/nasa-artemis-iii-earth-orbit-test-mission-74e838",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "tech",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "west-java-surili-infant-reunited-mother-e41548",
+      "title": "西爪哇获救苏里利猴幼崽隔天与母猴团聚",
+      "description": "西爪哇省井里汶火山山区，一只爪哇苏里利猴幼崽从山火中获救，隔天与母猴团聚。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-25T06:01:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-25",
+      "url": "https://kaopu.news/story/2026-10-25/west-java-surili-infant-reunited-mother-e41548",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "new-jersey-importer-sues-trump-canada-tariffs-ca4d20",
+      "title": "新泽西进口商起诉特朗普对加拿大商品加税",
+      "description": "新泽西州食品进口商盖勒特全球集团近日向纽约联邦国际贸易法院提起诉讼，质疑特朗普对加拿大商品加征关税及实施进口禁令的权限。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-25T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-25",
+      "url": "https://kaopu.news/story/2026-10-25/new-jersey-importer-sues-trump-canada-tariffs-ca4d20",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "washington-post-democrats-cannot-reverse-inflation-7937fe",
+      "title": "华盛顿邮报称民主党即使赢国会也难降物价",
+      "description": "美国众议院民主党领袖哈基姆·杰弗里斯承诺，民主党的“可负担性议程”将降低民众生活成本。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-25T05:58:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-25",
+      "url": "https://kaopu.news/story/2026-10-25/washington-post-democrats-cannot-reverse-inflation-7937fe",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "jiangxi-announces-zhuang-zhaolin-deputy-party-chief-718664",
+      "title": "江西省委组织部宣布庄兆林任省委副书记",
+      "description": "10月24日，江西省委组织部召集机关干部开会，公布该部主要负责人调整安排。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-25T05:53:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-25",
+      "url": "https://kaopu.news/story/2026-10-25/jiangxi-announces-zhuang-zhaolin-deputy-party-chief-718664",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "western-sydney-airport-opens-passenger-service-685b0a",
+      "title": "西悉尼国际机场正式开放客运服务",
+      "description": "澳大利亚西悉尼国际机场于10月25日正式开放客运服务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-25T05:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-25",
+      "url": "https://kaopu.news/story/2026-10-25/western-sydney-airport-opens-passenger-service-685b0a",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "ukraine-claims-spacex-starlink-throttling-air-defense-4c1c82",
       "title": "泽连斯基称星链星盾运行回到受限前水平",
@@ -105,6 +213,27 @@
       ],
       "section": "world",
       "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "japan-agency-urges-php-security-patch-8c669e",
+      "title": "PHP团队修复两项严重漏洞多国机构紧急应对",
+      "description": "PHP开发团队10月21日发布安全更新，修复两项严重漏洞。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-25T04:30:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/japan-agency-urges-php-security-patch-8c669e",
+      "reference": [
+        "共同网",
+        "中央通訊社",
+        "加拿大国际广播电台",
+        "第一财经"
+      ],
+      "section": "tech",
+      "sourceCount": 44,
       "sources": []
     },
     {
@@ -576,24 +705,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nasa-artemis-iii-earth-orbit-test-mission-74e838",
-      "title": "NASA安排阿提米丝3号开展载人近地轨道测试",
-      "description": "美国国家航空航天局（NASA）10月23日公布阿提米丝计划新安排：阿提米丝3号仍定于2027年夏季发射，4名宇航员将乘猎户座飞船在近地轨道执行约14天的测试任务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-25T00:56:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/nasa-artemis-iii-earth-orbit-test-mission-74e838",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "tech",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1571,27 +1682,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-agency-urges-php-security-patch-8c669e",
-      "title": "AI发现PHP严重漏洞促使全球机构紧急修补",
-      "description": "PHP开发团队10月21日发布安全更新，修复两项严重漏洞。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-24T09:43:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/japan-agency-urges-php-security-patch-8c669e",
-      "reference": [
-        "共同网",
-        "中央通訊社",
-        "加拿大国际广播电台",
-        "第一财经"
-      ],
-      "section": "tech",
-      "sourceCount": 43,
       "sources": []
     },
     {
@@ -2792,42 +2882,6 @@
       "sources": []
     },
     {
-      "id": "poll-trump-mobilizes-democrats-vote-against-him-359db2",
-      "title": "民调显示特朗普更能催动选民投票反对自己",
-      "description": "一项由Politico报道的PF Global民调显示，特朗普在今年美国中期选举中带动民主党选民投票反对他的力量，超过他促使共和党选民投票表达支持的力量。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-24T02:50:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/poll-trump-mobilizes-democrats-vote-against-him-359db2",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "california-man-charged-poisoning-adoptive-mother-assets-09c323",
-      "title": "加州男子被控毒杀养母并侵吞其财产",
-      "description": "圣地亚哥县检方已起诉34岁的Cedric Von Ferdinand，指控他毒杀养母Nadine Jett，并通过虚假文件和房产交易侵吞她的财产。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-24T01:42:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/california-man-charged-poisoning-adoptive-mother-assets-09c323",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "li-qiang-chairs-cabinet-meeting-population-services-afaf01",
       "title": "国务院部署家庭支持政策稳定新出生人口规模",
       "description": "中国国务院常务会议提出完善婚嫁、生育、养育和教育政策，并优化家庭在财税、社保及住房方面的支持，以稳定新出生人口规模。",
@@ -3105,24 +3159,6 @@
         "财新"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "vietnam-pm-orders-four-years-no-outages-e5ea16",
-      "title": "越南总理签署指令要求未来四年不得停电",
-      "description": "越南总理黎明兴签署指令，要求2027年至2030年间任何情况下都不发生停电。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T14:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/vietnam-pm-orders-four-years-no-outages-e5ea16",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -3428,24 +3464,6 @@
         "联合早报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-billionaires-move-offshore-funds-us-banks-2fd041",
-      "title": "据报中国富豪将港新离岸资金转入美国银行",
-      "description": "据中央社援引美国财经媒体CNBC报道，部分中国富豪正把存放在香港或新加坡的离岸资金转往美国银行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T11:26:28+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/china-billionaires-move-offshore-funds-us-banks-2fd041",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -4998,24 +5016,6 @@
       ],
       "section": "sports",
       "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "russian-sports-minister-rejects-ukraine-interference-f26f0c",
-      "title": "俄体育部长称乌克兰无权干涉俄罗斯重返国际体坛",
-      "description": "俄罗斯体育部长米哈伊尔·捷格加廖夫称，乌克兰无权干涉国际奥委会允许俄罗斯以国家名义重返国际体坛的决定。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-11T05:09:07+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-11",
-      "url": "https://kaopu.news/story/2026-10-11/russian-sports-minister-rejects-ukraine-interference-f26f0c",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "sports",
-      "sourceCount": 1,
       "sources": []
     }
   ]
