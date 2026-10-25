@@ -1,11 +1,162 @@
 {
   "details": {
     "date": "2026-10-25",
-    "timestamp": 1792899372,
+    "timestamp": 1792906461,
     "totalPages": 1,
-    "total": 268
+    "total": 269
   },
   "stories": [
+    {
+      "id": "deepseek-open-sources-deepinfer-framework-621bd0",
+      "title": "DeepSeek开源推理框架DeepInfer",
+      "description": "DeepSeek于10月20日宣布开源内部大规模云服务推理框架DeepInfer，并发布配套词元编解码组件deepseek-recipe。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-25T03:48:35.606402+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/deepseek-open-sources-deepinfer-framework-621bd0",
+      "reference": [
+        "第一财经",
+        "财新",
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "vance-leads-rubio-2028-republican-poll-4f93ba",
+      "title": "范斯在共和党2028总统人选民调中领先鲁比欧",
+      "description": "纽约时报与锡耶纳学院公布的全美民调显示，共和党支持者对2028年总统人选的倾向中，副总统范斯支持度高于国务卿鲁比欧；民主党潜在人选则没有明显领先者，支持者对党应采取的路线也有分歧。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-25T03:38:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-25",
+      "url": "https://kaopu.news/story/2026-10-25/vance-leads-rubio-2028-republican-poll-4f93ba",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "october-council-israelis-protest-accountability-7a5b35",
+      "title": "特拉维夫数千人示威要求成立独立调查委员会",
+      "description": "以色列特拉维夫数千人于10月24日参加由“十月委员会”发起的反政府示威，要求追究政府未能阻止2023年10月7日哈马斯袭击的责任，并成立独立国家调查委员会。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-25T03:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-25",
+      "url": "https://kaopu.news/story/2026-10-25/october-council-israelis-protest-accountability-7a5b35",
+      "reference": [
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "french-students-protest-school-conditions-11bf14",
+      "title": "法国多地民众抗议生活成本近千人被捕",
+      "description": "法国民众10月24日在全国多地举行示威，抗议生活成本上升和学校环境恶化。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-25T03:23:53+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
+      "reference": [
+        "公视",
+        "法广",
+        "日本放送协会",
+        "英国广播公司"
+      ],
+      "section": "world",
+      "sourceCount": 110,
+      "sources": []
+    },
+    {
+      "id": "medical-device-leaders-reassess-china-innovation-186ce3",
+      "title": "跨国医疗器械高管赴华重估中国创新能力",
+      "description": "波士顿科学董事长兼首席执行官马鸿明近期访华，参访国内医疗和教育机构；直观医疗董事会执行主席古迦睿十月初访华。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-25T03:11:38.096141+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-25",
+      "url": "https://kaopu.news/story/2026-10-25/medical-device-leaders-reassess-china-innovation-186ce3",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-uses-smart-devices-elderly-safety-alerts-b8ac20",
+      "title": "中国多地用智能设备开展养老安全预警",
+      "description": "中国多地正将毫米波雷达、智能设备和水电数据分析用于养老安全预警，监测独居、高龄及失能老人的居家状况。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-25T03:10:38.134083+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-25",
+      "url": "https://kaopu.news/story/2026-10-25/china-uses-smart-devices-elderly-safety-alerts-b8ac20",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "fifth-circuit-rejects-bail-hearing-rights-2648cd",
+      "title": "美国第五巡回法院裁定宪法不保障无证移民保释听证",
+      "description": "美国第五巡回上诉法院全院裁定，美国宪法第五修正案的正当程序条款不要求政府为被拘留的无证移民提供保释听证。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-25T03:10:28+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-25",
+      "url": "https://kaopu.news/story/2026-10-25/fifth-circuit-rejects-bail-hearing-rights-2648cd",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "merz-first-japan-visit-takaichi-meeting-856d46",
+      "title": "德国总理默茨将首次访日并会晤高市",
+      "description": "德国总理默茨定于10月28日至29日访问日本，并在访日期间与日本首相高市早苗举行会谈。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-25T03:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-25",
+      "url": "https://kaopu.news/story/2026-10-25/merz-first-japan-visit-takaichi-meeting-856d46",
+      "reference": [
+        "共同网"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "finance-ministry-advance-2027-local-bond-quota-fecc96",
       "title": "财政部将提前下达2027年部分新增地方债额度",
@@ -193,24 +344,6 @@
         "联合早报"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "october-council-israelis-protest-accountability-7a5b35",
-      "title": "十月委员会组织数千人在特拉维夫示威要求追责",
-      "description": "“十月委员会”10月24日在特拉维夫组织数千人参加反政府集会，要求追究以色列政府未能阻止2023年10月7日哈马斯袭击的责任。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-25T01:51:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-25",
-      "url": "https://kaopu.news/story/2026-10-25/october-council-israelis-protest-accountability-7a5b35",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -433,27 +566,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "french-students-protest-school-conditions-11bf14",
-      "title": "法国全国性示威近千人被警方逮捕",
-      "description": "法国各地10月24日举行新一轮全国性示威，抗议生活成本上涨和公共服务退化。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-24T23:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
-      "reference": [
-        "公视",
-        "法广",
-        "日本放送协会",
-        "英国广播公司"
-      ],
-      "section": "world",
-      "sourceCount": 109,
       "sources": []
     },
     {
@@ -2734,25 +2846,6 @@
       "sources": []
     },
     {
-      "id": "uscis-naturalization-processing-drops-73-percent-a5363e",
-      "title": "美国前八个月入籍申请获批量同比下降72%",
-      "description": "美国公民及移民服务局数据显示，2026年前8个月，美国政府批准约17.3万份入籍申请，同比减少72%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-24T00:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/uscis-naturalization-processing-drops-73-percent-a5363e",
-      "reference": [
-        "世界日报",
-        "财新"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "china-issues-national-informatization-15th-five-year-plan-8b82b7",
       "title": "中央网信委印发国家信息化“十五五”规划",
       "description": "近日，中央网络安全和信息化委员会印发《国家信息化“十五五”规划》，为各地区和有关部门推进信息化工作作出安排。",
@@ -2901,24 +2994,6 @@
         "SBS"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-energy-department-designates-helium-critical-material-b75103",
-      "title": "美国能源部将氦气列为第20种关键材料",
-      "description": "美国能源部10月23日宣布，将氦气列为关键材料，这是该部门认定的第20种关键材料。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T19:47:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/us-energy-department-designates-helium-critical-material-b75103",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -3357,25 +3432,6 @@
       "sources": []
     },
     {
-      "id": "japan-expand-defense-spending-scope-34e947",
-      "title": "日本政府拟从2027财年扩大防卫费计算范围",
-      "description": "据日经报道，日本政府正研究从2027财年起扩大可计入防卫费的支出范围，以顾及美国特朗普政府提高军费的要求；中央社也报道了这一讨论。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T11:00:17+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/japan-expand-defense-spending-scope-34e947",
-      "reference": [
-        "日经",
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "shanghai-releases-shipping-service-innovations-5ffe1b",
       "title": "上海发布高端航运服务十大创新成果",
       "description": "2026年北外滩国际航运论坛发布高端航运服务十大创新成果。",
@@ -3467,27 +3523,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "deepseek-open-sources-deepinfer-framework-621bd0",
-      "title": "DeepSeek开源内部推理框架DeepInfer",
-      "description": "DeepSeek于10月20日宣布开源内部大规模云服务推理框架DeepInfer，并同步开放词元编解码组件deepseek-recipe。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T09:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/deepseek-open-sources-deepinfer-framework-621bd0",
-      "reference": [
-        "第一财经",
-        "财新",
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "ai",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -3597,24 +3632,6 @@
       ],
       "section": "life",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "us-november-visa-bulletin-family-dates-advance-b11165",
-      "title": "美国国务院公布11月移民排期亲属类别多项前进",
-      "description": "美国国务院10月22日公布2026年11月移民签证排期表。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T06:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/us-november-visa-bulletin-family-dates-advance-b11165",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 3,
       "sources": []
     },
     {
