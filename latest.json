@@ -1,11 +1,51 @@
 {
   "details": {
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "timestamp": 1792884719,
     "totalPages": 1,
     "total": 266
   },
   "stories": [
+    {
+      "id": "french-students-protest-school-conditions-11bf14",
+      "title": "法国全国性示威近千人被警方逮捕",
+      "description": "法国各地10月24日举行新一轮全国性示威，抗议生活成本上涨和公共服务退化。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T23:12:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
+      "reference": [
+        "公视",
+        "法广",
+        "日本放送协会",
+        "英国广播公司"
+      ],
+      "section": "world",
+      "sourceCount": 109,
+      "sources": []
+    },
+    {
+      "id": "netanyahu-announces-west-bank-military-operation-ab46df",
+      "title": "以军行动致希伯伦逾1200名巴勒斯坦人流离失所",
+      "description": "以色列军方10月24日在被占领的约旦河西岸希伯伦展开军事行动，超过1200名巴勒斯坦人被迫离开家园。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-24T22:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/netanyahu-announces-west-bank-military-operation-ab46df",
+      "reference": [
+        "SBS",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
     {
       "id": "new-york-early-voting-begins-85d659",
       "title": "纽约州提前投票启动法拉盛华人选民约占半数",
@@ -96,27 +136,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "french-students-protest-school-conditions-11bf14",
-      "title": "法国警方在全国示威中逮捕近千人",
-      "description": "法国警方在10月24日举行的全国性抗议示威中逮捕近千人。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-24T19:21:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
-      "reference": [
-        "公视",
-        "法广",
-        "日本放送协会",
-        "英国广播公司"
-      ],
-      "section": "world",
-      "sourceCount": 108,
       "sources": []
     },
     {
@@ -520,25 +539,6 @@
       ],
       "section": "asia",
       "sourceCount": 14,
-      "sources": []
-    },
-    {
-      "id": "netanyahu-announces-west-bank-military-operation-ab46df",
-      "title": "以军在希伯伦行动致约1200名巴勒斯坦人流离失所",
-      "description": "以色列军方10月24日在被占领的约旦河西岸希伯伦展开军事行动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-24T13:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/netanyahu-announces-west-bank-military-operation-ab46df",
-      "reference": [
-        "SBS",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
