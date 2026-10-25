@@ -1,11 +1,105 @@
 {
   "details": {
     "date": "2026-10-25",
-    "timestamp": 1792920953,
+    "timestamp": 1792923910,
     "totalPages": 1,
-    "total": 269
+    "total": 268
   },
   "stories": [
+    {
+      "id": "dongshan-precision-hong-kong-ipo-retail-demand-shortfall-b15d5d",
+      "title": "东山精密H股公开发售散户认购不足",
+      "description": "港股IPO市场近期降温。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-25T08:46:35.317235+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-25",
+      "url": "https://kaopu.news/story/2026-10-25/dongshan-precision-hong-kong-ipo-retail-demand-shortfall-b15d5d",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "zhang-wenbin-reportedly-detained-urumqi-wanzai-police-4f9659",
+      "title": "环保志工张文斌被押至江西万载并遭拘留",
+      "description": "中国环保志工张文斌于10月20日从乌鲁木齐被押往江西省宜春市万载县，家属证实他已被带到当地公安机关。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-25T08:27:23+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/zhang-wenbin-reportedly-detained-urumqi-wanzai-police-4f9659",
+      "reference": [
+        "德国之声",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
+      "title": "巴青7.0级地震已致16人遇难76人受伤",
+      "description": "西藏那曲市巴青县10月22日22时33分发生7.0级地震，震源深度10公里。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-25T08:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "中央通訊社",
+        "法广"
+      ],
+      "section": "china",
+      "sourceCount": 80,
+      "sources": []
+    },
+    {
+      "id": "icc-survey-china-ai-leadership-03f8ca",
+      "title": "国际商会调查显示半数商会认为中国AI领先",
+      "description": "国际商会公布的一项全球商会调查显示，认为中国在人工智能研发和应用竞争中领先的受访商会比例，高于认为美国领先的比例。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-25T08:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-25",
+      "url": "https://kaopu.news/story/2026-10-25/icc-survey-china-ai-leadership-03f8ca",
+      "reference": [
+        "德国之声"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "eu-counterfeit-seizures-hit-record-high-fe055c",
+      "title": "欧盟2025年查获假货数量创历史新高",
+      "description": "欧盟知识产权局年度报告显示，欧盟在2025年查获假冒商品超过1.96亿件，较上一年增加逾67%；查获数量和估算零售价值均创历史新高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-25T08:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-25",
+      "url": "https://kaopu.news/story/2026-10-25/eu-counterfeit-seizures-hit-record-high-fe055c",
+      "reference": [
+        "德国之声"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "taiwan-security-agency-tracks-election-interference-cases-4e45e9",
       "title": "台湾国安局列管近百起疑似介选案",
@@ -1334,27 +1428,6 @@
       "sources": []
     },
     {
-      "id": "tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
-      "title": "巴青7.0级地震造成16人遇难76人受伤",
-      "description": "西藏那曲市巴青县10月22日22时33分发生7.0级地震，震源深度10公里。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-24T15:46:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/tibet-naqu-baqing-7-magnitude-earthquake-5e9665",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "china",
-      "sourceCount": 79,
-      "sources": []
-    },
-    {
       "id": "rfi-barrack-says-us-may-strike-iran-weekend-521694",
       "title": "美国特使称美方本周末可能打击伊朗",
       "description": "美国驻土耳其大使兼叙利亚问题特使汤姆·巴拉克称，美方最早可能在本周末打击伊朗。",
@@ -1922,24 +1995,6 @@
       "sources": []
     },
     {
-      "id": "saudi-arabia-expands-duwadimi-missile-base-fb9416",
-      "title": "沙特正在扩建杜瓦迪米弹道导弹基地",
-      "description": "沙特阿拉伯正在扩建杜瓦迪米导弹基地。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-24T10:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/saudi-arabia-expands-duwadimi-missile-base-fb9416",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "li-gao-outlines-china-climate-plans-71b03d",
       "title": "生态环境部发布中国气候行动年度报告",
       "description": "中国生态环境部10月21日在国务院新闻办公室举行的新闻发布会上，正式发布《中国应对气候变化的政策与行动2026年度报告》。",
@@ -1992,24 +2047,6 @@
         "联合早报"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ukraine-strikes-oryol-electronics-plant-kills-three-96e28e",
-      "title": "乌军袭击奥廖尔电子厂 奥廖尔州报告三人死亡",
-      "description": "路透社报道，乌克兰武装部队总参谋部星期六（10月24日）通报称，乌军夜间袭击俄罗斯陶里亚蒂一家石油化工厂，现场发生爆炸并起火。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-24T09:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/ukraine-strikes-oryol-electronics-plant-kills-three-96e28e",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -3387,24 +3424,6 @@
       "sources": []
     },
     {
-      "id": "china-rare-earth-subsidiary-mining-case-prosecution-f065d8",
-      "title": "中国稀土湖南子公司非法采矿案移送审查起诉",
-      "description": "中国稀土披露，控股子公司中稀（湖南）稀土开发有限公司已收到湖南省永州市江华瑶族自治县公安局出具的《案件移送起诉告知书》，其非法采矿案已移送江华瑶族自治县人民检察院审查起诉。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T13:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/china-rare-earth-subsidiary-mining-case-prosecution-f065d8",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-tax-agency-offshore-trust-tax-filing-299e9c",
       "title": "离岸信托补税过渡期届满部分持有人仍观望",
       "description": "中国离岸信托个人所得税申报的90天免滞纳金过渡期已于10月22日届满。",
@@ -3521,24 +3540,6 @@
         "联合早报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "morowali-chinese-nickel-producers-plan-coordinated-cuts-1bb352",
-      "title": "据报中资镍企拟在莫罗瓦利协调减产",
-      "description": "据联合早报援引知情人士报道，印尼莫罗瓦利工业园区的中资镍生产商正讨论协调减产，以应对镍价下跌和生产成本上升。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T12:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/morowali-chinese-nickel-producers-plan-coordinated-cuts-1bb352",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -4214,25 +4215,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "walmart-allows-ai-agents-shopping-bdd72b",
-      "title": "沃尔玛将允许顾客授权AI代理代为购物",
-      "description": "沃尔玛宣布将在未来一个月内推出“代理设定档”，顾客可将使用的每个第三方AI助理分别登记在沃尔玛账户中，授权其代为购物。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T06:34:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/walmart-allows-ai-agents-shopping-bdd72b",
-      "reference": [
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "ai",
-      "sourceCount": 2,
       "sources": []
     },
     {
