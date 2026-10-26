@@ -7,6 +7,84 @@
   },
   "stories": [
     {
+      "id": "new-york-commuter-rail-crime-falls-a13979",
+      "title": "纽约三大通勤铁路2026年前八个月重罪下降两成",
+      "description": "大都会运输署公布的数据显示，长岛铁路、北线铁路和史泰登岛铁路在2026年1月至8月发生的重罪袭击、重大盗窃、抢劫及入室盗窃案件，较2025年同期减少20.1%，相关犯罪率降至四年来最低。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-26T18:50:55+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/new-york-commuter-rail-crime-falls-a13979",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "brazil-election-shapes-us-china-policy-cfa79a",
+      "title": "卢拉击败弗拉维奥赢得巴西总统选举",
+      "description": "巴西现任总统卢拉在2026年10月25日举行的总统选举第二轮投票中击败自由党候选人弗拉维奥·博索纳罗，赢得第四个总统任期。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-26T18:40:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/brazil-election-shapes-us-china-policy-cfa79a",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "朝鲜日报",
+        "日经"
+      ],
+      "section": "world",
+      "sourceCount": 26,
+      "sources": []
+    },
+    {
+      "id": "united-flight-1681-returns-las-vegas-b884ee",
+      "title": "联合航空1681号航班因劫机短信折返拉斯维加斯",
+      "description": "据《纽约邮报》报道，联合航空1681号航班在从拉斯维加斯飞往新泽西州纽瓦克途中，因一名乘客发送提及劫持飞机的讯息而折返。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-26T18:19:41+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/united-flight-1681-returns-las-vegas-b884ee",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "pentagon-designates-confucius-institute-groups-security-6a9155",
+      "title": "美国国防部将孔子学院列为国家安全威胁",
+      "description": "美国国防部将孔子学院列入威胁美国国家安全的机构名单。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-26T17:21:35.962000+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/pentagon-designates-confucius-institute-groups-security-6a9155",
+      "reference": [
+        "联合早报",
+        "世界日报",
+        "日本放送协会",
+        "日经"
+      ],
+      "section": "us",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
       "id": "steinmeier-china-state-visit-e81e2a",
       "title": "德国总统施泰因迈尔抵达合肥开启访华行程",
       "description": "德国总统施泰因迈尔于10月27日凌晨抵达合肥新桥国际机场，开始应中国国家主席习近平邀请进行的国事访问。",
@@ -85,24 +163,22 @@
       "sources": []
     },
     {
-      "id": "brazil-election-shapes-us-china-policy-cfa79a",
-      "title": "卢拉以51.79%得票率赢得巴西总统连任",
-      "description": "巴西高等选举法院10月25日晚公布总统选举第二轮投票最终结果，现任总统卢拉获得51.79%的有效选票，击败获得48.21%的右翼候选人弗拉维奥·博索纳罗，赢得连任。",
+      "id": "eu-accepts-temu-plan-curb-illegal-goods-2ef2a3",
+      "title": "欧盟初步接受TEMU整改方案并限四个月落实",
+      "description": "欧盟委员会10月26日初步接受TEMU提交的消费者保护整改方案，要求这家中国电商平台在四个月内落实措施，强化阻止违法商品在平台传播的机制。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-26T15:18:00+00:00",
+      "updatedAt": "2026-10-26T15:17:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/brazil-election-shapes-us-china-policy-cfa79a",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/eu-accepts-temu-plan-curb-illegal-goods-2ef2a3",
       "reference": [
         "联合早报",
-        "澎湃新闻",
-        "朝鲜日报",
-        "日经"
+        "德国之声"
       ],
       "section": "world",
-      "sourceCount": 24,
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -524,24 +600,6 @@
       "sources": []
     },
     {
-      "id": "eu-accepts-temu-plan-curb-illegal-goods-2ef2a3",
-      "title": "欧盟委员会接受Temu整改计划遏制非法商品销售",
-      "description": "欧盟委员会星期一（10月26日）表示，已接受Temu提交的整改方案，以纠正其违反欧盟数字法规的行为。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T13:13:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/eu-accepts-temu-plan-curb-illegal-goods-2ef2a3",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "japan-finland-defense-ministers-deepen-cooperation-9b8053",
       "title": "日本与芬兰防长会谈同意深化防务合作",
       "description": "日本防卫相小泉进次郎10月26日在防卫省会见芬兰国防部长哈卡宁，双方讨论各自的安全政策，并达成拓展防务合作与交流的共识。",
@@ -853,27 +911,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "pentagon-designates-confucius-institute-groups-security-6a9155",
-      "title": "美国国防部将孔子学院列为国家安全威胁",
-      "description": "美国国防部长皮特·赫格塞斯10月23日在社交平台X发布视频，称美国国防部已将孔子学院列为威胁美国国家安全的机构。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T12:17:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/pentagon-designates-confucius-institute-groups-security-6a9155",
-      "reference": [
-        "联合早报",
-        "世界日报",
-        "日本放送协会",
-        "日经"
-      ],
-      "section": "us",
-      "sourceCount": 7,
       "sources": []
     },
     {
@@ -3497,42 +3534,6 @@
       "occurredAt": "",
       "publishedAt": "2026-10-25",
       "url": "https://kaopu.news/story/2026-10-25/california-districts-cut-immigrant-student-courses-470dc5",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "new-jersey-importer-sues-trump-canada-tariffs-ca4d20",
-      "title": "新泽西进口商起诉特朗普对加拿大商品加税",
-      "description": "新泽西州食品进口商盖勒特全球集团近日向纽约联邦国际贸易法院提起诉讼，质疑特朗普对加拿大商品加征关税及实施进口禁令的权限。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-25T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-25",
-      "url": "https://kaopu.news/story/2026-10-25/new-jersey-importer-sues-trump-canada-tariffs-ca4d20",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "washington-post-democrats-cannot-reverse-inflation-7937fe",
-      "title": "华盛顿邮报称民主党即使赢国会也难降物价",
-      "description": "美国众议院民主党领袖哈基姆·杰弗里斯承诺，民主党的“可负担性议程”将降低民众生活成本。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-25T05:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-25",
-      "url": "https://kaopu.news/story/2026-10-25/washington-post-democrats-cannot-reverse-inflation-7937fe",
       "reference": [
         "世界日报"
       ],
