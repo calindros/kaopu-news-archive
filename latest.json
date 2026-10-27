@@ -1,19 +1,39 @@
 {
   "details": {
     "date": "2026-10-27",
-    "timestamp": 1793058165,
+    "timestamp": 1793064191,
     "totalPages": 1,
-    "total": 267
+    "total": 268
   },
   "stories": [
     {
-      "id": "brazil-election-shapes-us-china-policy-cfa79a",
-      "title": "卢拉逆转击败弗拉维奥赢得巴西第四个总统任期",
-      "description": "巴西总统卢拉在10月25日举行的决选中击败右翼候选人弗拉维奥·博索纳罗，赢得第四个总统任期。",
+      "id": "anthropic-files-ipo-nasdaq-listing-9704a2",
+      "title": "Anthropic递交IPO申请提振美股收高",
+      "description": "当地时间10月26日，人工智能公司Anthropic向美国证券交易委员会公开提交首次公开募股注册文件，计划发行A类普通股并在纳斯达克全球精选市场上市，股票代码为“ANT”。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-26T23:20:00+00:00",
+      "updatedAt": "2026-10-27T00:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/anthropic-files-ipo-nasdaq-listing-9704a2",
+      "reference": [
+        "中央通訊社",
+        "第一财经",
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "brazil-election-shapes-us-china-policy-cfa79a",
+      "title": "卢拉胜选后巴西股市大跌触发熔断",
+      "description": "巴西总统卢拉连任后，巴西金融市场在10月26日大幅下挫。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T00:15:35.938290+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-23",
       "url": "https://kaopu.news/story/2026-10-23/brazil-election-shapes-us-china-policy-cfa79a",
@@ -24,27 +44,170 @@
         "日经"
       ],
       "section": "world",
-      "sourceCount": 29,
+      "sourceCount": 32,
       "sources": []
     },
     {
-      "id": "anthropic-files-ipo-nasdaq-listing-9704a2",
-      "title": "Anthropic提交IPO申请拟赴纳斯达克上市",
-      "description": "Anthropic于10月26日向美国证券交易委员会提交S-1注册文件，申请发行A类普通股，并计划在纳斯达克全球精选市场以“ANT”为代码挂牌。",
+      "id": "microsoft-offers-voluntary-exit-plan-60000-workers-e58567",
+      "title": "微软向约6万名员工提出自愿离职方案",
+      "description": "微软于2026年10月26日推出自愿离职补偿方案，约6万名员工符合资格，约占全球员工总数的27%。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-26T23:16:00+00:00",
+      "updatedAt": "2026-10-27T00:12:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/anthropic-files-ipo-nasdaq-listing-9704a2",
+      "url": "https://kaopu.news/story/2026-10-26/microsoft-offers-voluntary-exit-plan-60000-workers-e58567",
       "reference": [
         "中央通訊社",
-        "第一财经",
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "chengdu-suzhou-hefei-housing-sales-rules-53c06d",
+      "title": "成都等三地出台商品住房销售制度改革细则",
+      "description": "成都市住房和城乡建设局、成都市规划和自然资源局及国家金融监督管理总局四川监管局10月26日发布商品住房销售制度实施意见；苏州、合肥于10月24日、25日相继出台配套细则。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T00:01:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/chengdu-suzhou-hefei-housing-sales-rules-53c06d",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-offers-million-dollar-election-fraud-reward-69e72f",
+      "title": "特朗普悬赏百万美元征集选举舞弊举报",
+      "description": "美国总统唐纳德·特朗普10月26日在社交媒体宣布，举报过去选举或定于11月3日举行的中期选举舞弊行为，且最终促成涉案人员被捕并定罪者，可获100万美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-26T23:49:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/trump-offers-million-dollar-election-fraud-reward-69e72f",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "people-daily-calls-ai-microdrama-rules-b4bbdd",
+      "title": "人民日报刊文呼吁加强AI微短剧治理",
+      "description": "中国网络视听协会会长在《人民日报》刊文，分析人工智能微短剧快速扩张带来的内容质量、价值导向和版权问题，并提出完善全链条治理、提升艺术水准。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-26T23:42:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/people-daily-calls-ai-microdrama-rules-b4bbdd",
+      "reference": [
         "澎湃新闻"
       ],
       "section": "ai",
-      "sourceCount": 6,
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "theori-nodejs-flaw-server-remote-control-e52178",
+      "title": "Theori披露Node.js漏洞可致服务器失控",
+      "description": "网络安全公司Theori于10月26日披露，Node.js存在名为“Node2Shell”的漏洞。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-26T23:35:53+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/theori-nodejs-flaw-server-remote-control-e52178",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "lee-chang-ho-reaches-2000-career-wins-ee175f",
+      "title": "李昌镐成为围棋史上首位2000胜棋手",
+      "description": "李昌镐九段在2026年Sopalcosanol传奇联赛第11轮执黑战胜崔明勋九段，成为世界围棋史上首位累计取得2000胜的棋手。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-26T23:35:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/lee-chang-ho-reaches-2000-career-wins-ee175f",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "sports",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "swing-voters-economic-concerns-shape-midterms-72af9f",
+      "title": "摇摆选区选民经济考量左右美国中期选举",
+      "description": "美国中期选举将于当地时间11月3日举行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-26T23:35:14+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/swing-voters-economic-concerns-shape-midterms-72af9f",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "harry-kane-wins-first-ballon-dor-ff54ec",
+      "title": "哈里·凯恩首次夺得男足金球奖",
+      "description": "北京时间10月27日凌晨，2026年男足金球奖颁奖礼在伦敦举行，英格兰队长、拜仁慕尼黑前锋哈里·凯恩获奖。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-26T23:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/harry-kane-wins-first-ballon-dor-ff54ec",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "sports",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "reuters-ipsos-poll-us-democrats-lead-midterms-8ef9d3",
+      "title": "路透益普索民调显示美国民主党国会选举支持率领先",
+      "description": "路透社与益普索10月26日完成的民调显示，民主党在美国国会选举中的支持率领先共和党；特朗普支持率较上周回升1个百分点，达到32%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-26T23:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/reuters-ipsos-poll-us-democrats-lead-midterms-8ef9d3",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -66,6 +229,24 @@
       ],
       "section": "business",
       "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "china-discipline-agencies-file-800000-cases-ef1dc5",
+      "title": "全国纪检监察机关前三季度立案80万件",
+      "description": "2026年1至9月，全国纪检监察机关立案80万件，涉及省部级及以上干部73人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-26T23:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/china-discipline-agencies-file-800000-cases-ef1dc5",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -319,24 +500,6 @@
         "世界日报"
       ],
       "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "microsoft-offers-voluntary-exit-plan-60000-workers-e58567",
-      "title": "微软向约6万名员工提供自愿离职方案",
-      "description": "微软宣布向员工提供自愿离职方案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T18:01:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/microsoft-offers-voluntary-exit-plan-60000-workers-e58567",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -3206,24 +3369,6 @@
       "sources": []
     },
     {
-      "id": "young-people-learn-lanzhou-noodle-skills-127d68",
-      "title": "年轻人到兰州拉面学校学技能寻找职业出路",
-      "description": "在就业压力增大的背景下，兰州一些年轻人到甘肃兴陇兰州牛肉拉面职业培训学校学习制作拉面，把掌握一门手艺作为职业选择之一。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-25T12:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-25",
-      "url": "https://kaopu.news/story/2026-10-25/young-people-learn-lanzhou-noodle-skills-127d68",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "ftc-probes-frontier-model-consumer-harms-f6d492",
       "title": "美国联邦贸易委员会调查前沿模型消费风险",
       "description": "美国联邦贸易委员会（FTC）正调查OpenAI、Anthropic等企业的前沿模型是否危害消费者，以及企业是否就产品风险作出误导性说明。",
@@ -3312,27 +3457,6 @@
       ],
       "section": "ai",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "china-tax-agency-offshore-trust-tax-filing-299e9c",
-      "title": "离岸信托申报期届满多地税务部门通知自然人自查",
-      "description": "中国离岸信托存量个人所得税申报的90天免滞纳金过渡期于10月22日结束。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-25T10:00:36.715111+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/china-tax-agency-offshore-trust-tax-filing-299e9c",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "财新",
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 10,
       "sources": []
     },
     {
@@ -3504,42 +3628,6 @@
       "sources": []
     },
     {
-      "id": "us-house-bipartisan-group-harassment-reform-4961e5",
-      "title": "美国众议院成立跨党派小组推动反性骚扰改革",
-      "description": "美国众议院成立由共和、民主两党议员共同领导的工作小组，检讨国会反性骚扰规范。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-25T06:14:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-25",
-      "url": "https://kaopu.news/story/2026-10-25/us-house-bipartisan-group-harassment-reform-4961e5",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "los-angeles-mayor-bass-utility-bill-relief-00c35d",
-      "title": "洛杉矶市长提出措施应对高额水电账单",
-      "description": "洛杉矶居民近期接连反映水电及垃圾处理账单大幅增加。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-25T06:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-25",
-      "url": "https://kaopu.news/story/2026-10-25/los-angeles-mayor-bass-utility-bill-relief-00c35d",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "nasa-artemis-iii-earth-orbit-test-mission-74e838",
       "title": "NASA加快阿提米丝计划力争2028年载人登月",
       "description": "NASA署长艾萨克曼10月23日在肯尼迪太空中心介绍后续登月安排，宣布加快阿提米丝计划，目标是在2028年让宇航员重返月球，并推进月球基地建设。",
@@ -3555,24 +3643,6 @@
       ],
       "section": "tech",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "california-districts-cut-immigrant-student-courses-470dc5",
-      "title": "加州新移民学生锐减学区缩减支持课程",
-      "description": "加州新移民学生入学人数明显减少，奥克兰学区因此缩减新生课程和支持服务，部分学区取消课程并重新分配教职工作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-25T06:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-25",
-      "url": "https://kaopu.news/story/2026-10-25/california-districts-cut-immigrant-student-courses-470dc5",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3873,24 +3943,6 @@
         "中央通訊社"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "beijing-uses-history-to-deter-japan-taiwan-role-b13297",
-      "title": "学者称北京借抗日叙事牵制日本介入台海",
-      "description": "学者李世晖接受中央社采访时表示，北京近年把抗日战争叙事与台湾问题联系起来，试图通过历史宣传削弱日本关注台海安全的正当性，并牵制日本介入台海。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-24T06:35:51+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/beijing-uses-history-to-deter-japan-taiwan-role-b13297",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
@@ -4471,25 +4523,6 @@
       "sources": []
     },
     {
-      "id": "doubao-assistant-restricts-financial-apps-e6e54c",
-      "title": "豆包手机助手拒绝操作应用清单增至166款",
-      "description": "字节跳动旗下豆包手机助手官网于10月21日更新拒绝操作应用清单，并表示主动限制对金融类应用的操作能力，涉及银行、信托服务、支付、互联网金融及信贷等领域。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-22T05:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/doubao-assistant-restricts-financial-apps-e6e54c",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "tech",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "dune-part-three-china-december-31-release-9a9662",
       "title": "《沙丘3》定于12月31日登陆中国大陆跨年档",
       "description": "《沙丘3》将于2026年12月31日在中国大陆上映，进入跨年档，较其北美12月18日档期晚约两周。",
@@ -4829,24 +4862,6 @@
       "url": "https://kaopu.news/story/2026-10-17/counterfeit-museum-fridge-magnets-ringleader-jailed-59bd28",
       "reference": [
         "澎湃新闻"
-      ],
-      "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "leh-wei-liao-german-book-prize-longlist-13914d",
-      "title": "台裔德国作家廖乐薇首部长篇入围德国图书奖长名单",
-      "description": "台裔德国作家廖乐薇的首部长篇小说《Glaszeit》（暂译《玻璃时代》）尚未出版，便进入2026年德国图书奖长名单。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-16T08:07:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-16",
-      "url": "https://kaopu.news/story/2026-10-16/leh-wei-liao-german-book-prize-longlist-13914d",
-      "reference": [
-        "德国之声"
       ],
       "section": "culture",
       "sourceCount": 1,
