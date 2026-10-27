@@ -1,11 +1,93 @@
 {
   "details": {
     "date": "2026-10-27",
-    "timestamp": 1793099783,
+    "timestamp": 1793108523,
     "totalPages": 1,
-    "total": 268
+    "total": 269
   },
   "stories": [
+    {
+      "id": "brazil-election-shapes-us-china-policy-cfa79a",
+      "title": "巴西选举法院公布结果卢拉赢得连任",
+      "description": "巴西高等选举法院当地时间10月25日晚公布总统选举第二轮最终计票结果。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T12:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/brazil-election-shapes-us-china-policy-cfa79a",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "朝鲜日报",
+        "日经"
+      ],
+      "section": "world",
+      "sourceCount": 43,
+      "sources": []
+    },
+    {
+      "id": "broadcom-secures-anthropic-chip-financing-835db2",
+      "title": "四家机构为Anthropic提供630亿美元融资",
+      "description": "美国银行、黑石、花旗和摩根士丹利当地时间10月26日宣布，为Anthropic采购博通AI芯片及网络设备提供630亿美元融资。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T11:55:17+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/broadcom-secures-anthropic-chip-financing-835db2",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "rfi-barrack-says-us-may-strike-iran-weekend-521694",
+      "title": "美媒称美军可在96小时内大规模打击伊朗",
+      "description": "据CNN报道，驻中东美军已做好准备，特朗普若下令，可在96小时内对伊朗发动大规模打击。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T11:41:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/rfi-barrack-says-us-may-strike-iran-weekend-521694",
+      "reference": [
+        "联合早报",
+        "法广",
+        "澎湃新闻",
+        "韩民族日报"
+      ],
+      "section": "world",
+      "sourceCount": 16,
+      "sources": []
+    },
+    {
+      "id": "indonesia-minister-orders-emergency-peat-burning-ban-aeceea",
+      "title": "新加坡与印尼探讨成立工作组追究林火企业责任",
+      "description": "新加坡外长维文10月27日访问印尼，与印尼外长阿曼纳塔会谈约一个半小时。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T11:34:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-12",
+      "url": "https://kaopu.news/story/2026-10-12/indonesia-minister-orders-emergency-peat-burning-ban-aeceea",
+      "reference": [
+        "联合早报",
+        "公视",
+        "财新",
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 16,
+      "sources": []
+    },
     {
       "id": "semporna-resort-guard-jailed-two-years-594a00",
       "title": "仙本那游客案涉事男子因非法侵入住宅获刑两年",
@@ -43,6 +125,26 @@
       "sources": []
     },
     {
+      "id": "egypt-parliament-authorizes-sisi-military-support-saudi-db8d26",
+      "title": "埃及国会批准授权塞西协助沙特防卫",
+      "description": "埃及国会10月26日批准授权总统塞西在沙特阿拉伯提出请求时采取必要措施，向沙特提供军事支持。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T11:03:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/egypt-parliament-authorizes-sisi-military-support-saudi-db8d26",
+      "reference": [
+        "联合早报",
+        "公视",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
       "id": "finland-norway-leaders-call-putin-zelensky-peace-4bdc73",
       "title": "芬兰挪威领导人与俄乌总统通话讨论和平前景",
       "description": "芬兰总统斯图布和挪威首相斯特勒10月27日先后与俄罗斯总统普京、乌克兰总统泽连斯基通话，讨论俄乌和平协议前景。",
@@ -62,8 +164,8 @@
     },
     {
       "id": "anthropic-files-ipo-nasdaq-listing-9704a2",
-      "title": "Anthropic递交IPO文件申请纳斯达克上市",
-      "description": "Anthropic于美国当地时间10月26日向美国证券交易委员会递交S-1注册文件，启动首次公开募股进程，计划在纳斯达克全球精选市场上市，股票代码为“ANT”。",
+      "title": "Anthropic递交IPO申请提振美股科技股",
+      "description": "人工智能公司Anthropic于当地时间10月26日向美国证券交易委员会递交S-1注册文件，启动首次公开募股程序，计划在纳斯达克全球精选市场以“ANT”为股票代码上市。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -78,7 +180,7 @@
         "财新"
       ],
       "section": "ai",
-      "sourceCount": 15,
+      "sourceCount": 16,
       "sources": []
     },
     {
@@ -97,6 +199,25 @@
       ],
       "section": "world",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "merz-first-japan-visit-takaichi-meeting-856d46",
+      "title": "默茨启程访问新日韩加强经济与安全关系",
+      "description": "德国总理弗里德里希·默茨10月26日从柏林出发，开始为期五天的新加坡、日本和韩国之行，旨在加强德国与亚洲国家的经济和安全关系。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T10:52:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-25",
+      "url": "https://kaopu.news/story/2026-10-25/merz-first-japan-visit-takaichi-meeting-856d46",
+      "reference": [
+        "共同网",
+        "德国之声"
+      ],
+      "section": "world",
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -136,6 +257,24 @@
       ],
       "section": "life",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "wmo-reports-record-greenhouse-gas-levels-2ed77f",
+      "title": "世界气象组织报告三大温室气体浓度创新高",
+      "description": "联合国世界气象组织发布第22份年度温室气体公报，称2025年大气中的二氧化碳、甲烷和一氧化二氮浓度均创历史新高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T10:35:06+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/wmo-reports-record-greenhouse-gas-levels-2ed77f",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -292,6 +431,25 @@
       "sources": []
     },
     {
+      "id": "taiwan-tainan-suspect-held-murder-insurance-fraud-c1dd70",
+      "title": "井姓女子日本遇害案丈夫涉共同杀人遭羁押禁见",
+      "description": "井姓女子10月19日在日本山梨县富士河口湖町一间饭店客房内被刺身亡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T10:10:23+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/taiwan-tainan-suspect-held-murder-insurance-fraud-c1dd70",
+      "reference": [
+        "公视",
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "yasuo-fukuda-dies-heart-failure-japan-76e651",
       "title": "日本前首相福田康夫因心脏功能衰竭去世",
       "description": "日本前首相福田康夫10月22日在东京一家医院因心脏功能衰竭去世，享年90岁。",
@@ -313,6 +471,24 @@
       "sources": []
     },
     {
+      "id": "nyala-market-drone-strike-kills-21-injures-40-3c0805",
+      "title": "法新社称无人机袭击尼亚拉市场致21死逾40伤",
+      "description": "据法新社援引当地居民和尼亚拉医院医护人员的消息，苏丹达尔富尔地区尼亚拉市北部一处市场昨晚约20时（格林威治时间18时）遭无人机袭击。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T10:03:05+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/nyala-market-drone-strike-kills-21-injures-40-3c0805",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "walhi-accuses-19-malaysia-linked-firms-fueling-fires-2698ac",
       "title": "柔佛机构否认被指卷入印尼林火事件",
       "description": "柔佛机构（JCorp）否认印尼环境论坛（WALHI）关于马来西亚关联企业卷入印尼林火的指控，并表示没有在马来西亚以外拥有或经营种植园。",
@@ -328,27 +504,6 @@
       ],
       "section": "asia",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "brazil-election-shapes-us-china-policy-cfa79a",
-      "title": "卢拉以51.79%得票率赢得巴西总统连任",
-      "description": "巴西高等选举法院10月25日晚公布总统决选最终计票结果，现任总统、劳工党候选人卢拉以51.79%的得票率击败自由党候选人弗拉维奥·博索纳罗，领先约440万票。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T09:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/brazil-election-shapes-us-china-policy-cfa79a",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "朝鲜日报",
-        "日经"
-      ],
-      "section": "world",
-      "sourceCount": 42,
       "sources": []
     },
     {
@@ -576,24 +731,6 @@
       "sources": []
     },
     {
-      "id": "broadcom-secures-anthropic-chip-financing-835db2",
-      "title": "博通敲定630亿美元融资支持Anthropic购芯",
-      "description": "博通当地时间10月26日宣布，与美国银行、黑石集团、花旗集团和摩根士丹利敲定一笔630亿美元融资，为Anthropic购置芯片及网络设备。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T09:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/broadcom-secures-anthropic-chip-financing-835db2",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "wee-ka-siong-leads-mca-walkout-0f6e71",
       "title": "魏家祥称马华与国阵会谈尚无正面成果",
       "description": "马华公会总会长魏家祥10月27日表示，他与国阵主席阿末扎希的会谈还没有取得正面成果，双方需要继续沟通。",
@@ -758,25 +895,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "egypt-parliament-authorizes-sisi-military-support-saudi-db8d26",
-      "title": "埃及议会批准授权塞西协助沙特防卫",
-      "description": "埃及议会10月26日批准授权总统塞西在沙特提出请求时采取必要措施，协助沙特抵御也门胡塞武装袭击。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T08:48:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/egypt-parliament-authorizes-sisi-military-support-saudi-db8d26",
-      "reference": [
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1635,24 +1753,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-tainan-suspect-held-murder-insurance-fraud-c1dd70",
-      "title": "台湾台南检方指李男涉杀人诈保遭羁押禁见",
-      "description": "公视报道，井姓女子赴日本旅游时，在河口湖一家酒店遭同团一名台湾籍女子杀害。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T05:43:22+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/taiwan-tainan-suspect-held-murder-insurance-fraud-c1dd70",
-      "reference": [
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "kevin-tsai-says-never-backed-taiwan-independence-apologizes-fdb1bf",
       "title": "国民党为蒋万安竞选大会借校辩护",
       "description": "台北市长蒋万安10月26日在台北市敦化国中举行竞选总部成立大会，争取连任。",
@@ -1836,24 +1936,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "merz-first-japan-visit-takaichi-meeting-856d46",
-      "title": "德国总理默茨启程访日商谈安防合作",
-      "description": "德国总理默茨10月26日从柏林出发，开启亚洲访问行程。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T04:09:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-25",
-      "url": "https://kaopu.news/story/2026-10-25/merz-first-japan-visit-takaichi-meeting-856d46",
-      "reference": [
-        "共同网"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2082,24 +2164,6 @@
       "sources": []
     },
     {
-      "id": "timor-leste-asean-entry-boosts-investor-confidence-dd909b",
-      "title": "东帝汶总统称加入东盟增强投资者信心",
-      "description": "东帝汶总统奥尔塔10月26日在首都帝力接受共同社专访时说，加入东盟提升了投资者信心，海外企业投资正在增加。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T02:58:54+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/timor-leste-asean-entry-boosts-investor-confidence-dd909b",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "hanoi-housing-prices-young-buyers-f16455",
       "title": "河内高房价令年轻人难以独立购房",
       "description": "河内房价所得比位居全球第五，受访青年小庄认为，仅靠工资很难在当地买房。",
@@ -2150,24 +2214,6 @@
         "中央通訊社"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
-      "title": "巴西最高法院禁止弗拉维奥·博索纳罗离境",
-      "description": "巴西最高法院法官亚历山大·德莫赖斯26日下令，禁止弗拉维奥·博索纳罗离境，并要求他在24小时内向警方交出护照。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T02:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -2224,27 +2270,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "rfi-barrack-says-us-may-strike-iran-weekend-521694",
-      "title": "内塔尼亚胡被曝推动选前空袭伊朗遭以军反对",
-      "description": "以色列总理内塔尼亚胡数周前曾推动在议会选举前对伊朗发动新一轮空袭，但遭以军高层反对。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T02:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/rfi-barrack-says-us-may-strike-iran-weekend-521694",
-      "reference": [
-        "联合早报",
-        "法广",
-        "澎湃新闻",
-        "韩民族日报"
-      ],
-      "section": "world",
-      "sourceCount": 15,
       "sources": []
     },
     {
