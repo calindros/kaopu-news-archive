@@ -1,11 +1,84 @@
 {
   "details": {
     "date": "2026-10-27",
-    "timestamp": 1793114317,
+    "timestamp": 1793122005,
     "totalPages": 1,
     "total": 267
   },
   "stories": [
+    {
+      "id": "drc-ebola-confirmed-cases-reach-10060-a7d84e",
+      "title": "刚果（金）埃博拉确诊病例突破一万例",
+      "description": "刚果（金）卫生当局10月27日通报，本轮埃博拉确诊已逾1万例。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T15:48:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/drc-ebola-confirmed-cases-reach-10060-a7d84e",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "indonesia-malaysia-cloud-seeding-fails-wildfire-haze-e6042d",
+      "title": "印马逾百次人工造雨及干冰作业难解林火烟霾危机",
+      "description": "印度尼西亚和马来西亚今年以来分别执行56次和65次人工造雨任务，但强厄尔尼诺带来的干燥少云天气限制了作业效果，印尼使用干冰后烟霾也未明显消散。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T15:40:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/indonesia-malaysia-cloud-seeding-fails-wildfire-haze-e6042d",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "netherlands-ai-cuts-government-jobs-5ecdcf",
+      "title": "荷兰政府拟借人工智能削减约2.5万个公务员岗位",
+      "description": "荷兰政府计划通过人工智能推动行政效率改革，在未来几年逐步削减约2.5万个公务员岗位。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T15:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/netherlands-ai-cuts-government-jobs-5ecdcf",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "st-lukes-launches-opal-palliative-care-c3f4f4",
+      "title": "圣路加医院启动OPAL计划四年支持逾1200名患者",
+      "description": "圣路加医院10月27日正式启动OPAL护理计划，与全科医生、家庭医生及医疗专科团队合作，及早识别重症患者的慈怀疗护需求，并为患者及家属提供支持。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T15:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/st-lukes-launches-opal-palliative-care-c3f4f4",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "japan-finalizes-secondary-capital-designation-standards-f14b79",
       "title": "日本内阁会议批准副首都指定条件政令",
@@ -1614,24 +1687,6 @@
       "sources": []
     },
     {
-      "id": "drc-ebola-confirmed-cases-reach-10060-a7d84e",
-      "title": "刚果（金）埃博拉确诊病例升至10060例",
-      "description": "刚果（金）卫生部在27日发布的最新通报中，将本轮埃博拉疫情的确诊总数列为10060例，死亡总数列为4887例。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T08:33:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/drc-ebola-confirmed-cases-reach-10060-a7d84e",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "french-students-protest-school-conditions-11bf14",
       "title": "法国数十万人上街抗议生活成本和公共服务削减",
       "description": "法国工会和学生团体号召民众于10月24日举行全国示威，抗议生活成本上涨、教育环境问题和公共服务削减。",
@@ -1856,24 +1911,6 @@
       ],
       "section": "asia",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "azalina-says-political-donors-should-not-face-retaliation-16119c",
-      "title": "阿莎丽娜称合法政治献金捐赠者不应遭秋后算账",
-      "description": "阿莎丽娜在国会表示，合法政治献金的捐赠者不应仅因捐款而受到不公平处置，也不应因此在事后遭到针对。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T07:36:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/azalina-says-political-donors-should-not-face-retaliation-16119c",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3832,24 +3869,6 @@
       "sources": []
     },
     {
-      "id": "new-york-times-profiles-changpeng-zhao-abu-dhabi-21214a",
-      "title": "纽约时报探访赵长鹏记录其获赦后的阿布扎比生活",
-      "description": "《纽约时报》在一篇采访报道中记录了币安创始人赵长鹏回到阿布扎比后的生活，以及他仍在加密货币行业保持的影响力。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T04:15:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/new-york-times-profiles-changpeng-zhao-abu-dhabi-21214a",
-      "reference": [
-        "纽约时报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "musk-spacex-completes-40-billion-gpu-debt-f0c232",
       "title": "马斯克称SpaceX完成400亿美元GPU债务融资",
       "description": "埃隆·马斯克北京时间10月26日凌晨在社交平台X发文称，SpaceX已完成400亿美元债务融资，资金主要用于采购GPU，相关设备预计于2027年第一、第二季度交付。",
@@ -4233,27 +4252,6 @@
       ],
       "section": "ai",
       "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "bloomberg-us-treasury-proposes-china-biotech-curbs-803afa",
-      "title": "中国商务部反对美国扩大对华投资限制",
-      "description": "中国商务部10月24日回应美国对外投资限制拟议规则，表示反对，并称将保留采取相应措施的权利。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-25T02:40:30+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/bloomberg-us-treasury-proposes-china-biotech-curbs-803afa",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "第一财经",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 6,
       "sources": []
     },
     {
