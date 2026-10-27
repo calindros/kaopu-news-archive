@@ -3,17 +3,93 @@
     "date": "2026-10-27",
     "timestamp": 1793108523,
     "totalPages": 1,
-    "total": 269
+    "total": 267
   },
   "stories": [
     {
-      "id": "brazil-election-shapes-us-china-policy-cfa79a",
-      "title": "巴西选举法院公布结果卢拉赢得连任",
-      "description": "巴西高等选举法院当地时间10月25日晚公布总统选举第二轮最终计票结果。",
+      "id": "merz-visits-singapore-two-days-369c30",
+      "title": "新加坡与德国推出深化战略伙伴关系新计划",
+      "description": "新加坡总理黄循财与到访的新德国总理弗里德里希·默茨10月27日举行会晤，共同宣布深化两国战略伙伴关系的新联合工作计划，并发表联合声明。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-27T12:14:00+00:00",
+      "updatedAt": "2026-10-27T13:34:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/merz-visits-singapore-two-days-369c30",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "trump-offers-million-dollar-election-fraud-reward-69e72f",
+      "title": "特朗普悬赏百万美元征集选举舞弊线索",
+      "description": "美国总统特朗普10月26日在社交平台Truth Social宣布，举报过去选举或2026年中期选举中的舞弊行为，并促使涉案者被捕、定罪的人，可获100万美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T13:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/trump-offers-million-dollar-election-fraud-reward-69e72f",
+      "reference": [
+        "联合早报",
+        "世界日报",
+        "澎湃新闻",
+        "公视"
+      ],
+      "section": "us",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "fiji-serua-residents-strengthen-island-defenses-28318a",
+      "title": "斐济塞路亚岛居民不愿迁离世代家园",
+      "description": "斐济塞路亚岛居民面对海平面上升、海岸侵蚀和风暴威胁，多数不愿离开世代生活的家园，希望加固防护设施抵御海浪。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T13:08:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/fiji-serua-residents-strengthen-island-defenses-28318a",
+      "reference": [
+        "法广",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "state-local-elections-shape-data-centers-70335c",
+      "title": "美国四州期中选举将影响数据中心建设政策",
+      "description": "美国11月3日的期中选举将成为观察德州、俄亥俄州、密歇根州和乔治亚州数据中心政策走向的指标。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T13:03:29+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/state-local-elections-shape-data-centers-70335c",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "brazil-election-shapes-us-china-policy-cfa79a",
+      "title": "卢拉逆转击败弗拉维奥·博索纳罗赢得第四个总统任期",
+      "description": "巴西高等选举法院10月25日晚公布的计票结果显示，现任总统卢拉在总统选举第二轮投票中获得51.79%的选票，击败获得48.21%的弗拉维奥·博索纳罗，领先约440万票。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T13:01:26+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-23",
       "url": "https://kaopu.news/story/2026-10-23/brazil-election-shapes-us-china-policy-cfa79a",
@@ -24,7 +100,238 @@
         "日经"
       ],
       "section": "world",
-      "sourceCount": 43,
+      "sourceCount": 44,
+      "sources": []
+    },
+    {
+      "id": "russia-ukraine-oleshky-ceasefire-agreement-6fd59b",
+      "title": "俄乌双方在奥列什基地区启动局部停火",
+      "description": "俄罗斯与乌克兰已在乌克兰南部赫尔松州奥列什基地区启动局部停火，为当地人道救援和居民撤离创造条件。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T13:01:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/russia-ukraine-oleshky-ceasefire-agreement-6fd59b",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "日本放送协会",
+        "德国之声"
+      ],
+      "section": "world",
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "trump-backs-netanyahu-reelection-d6e4fe",
+      "title": "以色列举行哈马斯袭击以来首次全国议会选举",
+      "description": "以色列当地时间10月27日举行2023年10月哈马斯袭击以来的首次全国议会选举。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T12:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-18",
+      "url": "https://kaopu.news/story/2026-10-18/trump-backs-netanyahu-reelection-d6e4fe",
+      "reference": [
+        "联合早报",
+        "法广",
+        "日本放送协会",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 26,
+      "sources": []
+    },
+    {
+      "id": "japan-foreign-births-set-record-1adef0",
+      "title": "日本外籍新生儿人数连续三年创历史新高",
+      "description": "日本厚生劳动省2026年9月公布的人口动态统计显示，2025年日本外籍新生儿为2万3015人，连续第三年刷新纪录；新生日本婴儿为67万1270人，创历史新低。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T12:50:12+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/japan-foreign-births-set-record-1adef0",
+      "reference": [
+        "日本放送协会",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-central-bank-creates-nonbank-bond-swap-facility-530790",
+      "title": "中国人民银行设立债市非银大额赎回互换便利",
+      "description": "中国人民银行于2026年10月26日设立债市非银大额赎回互换便利（BNSF），用于债券市场遭遇系统性压力、资管产品集中赎回导致机构流动性紧张的特殊情形。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T12:49:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/china-central-bank-creates-nonbank-bond-swap-facility-530790",
+      "reference": [
+        "澎湃新闻",
+        "财新",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "li-qiang-chairs-cabinet-meeting-population-services-afaf01",
+      "title": "国务院会议部署人口发展以释放综合红利",
+      "description": "中国国务院总理李强于10月23日召集国务院常务会议，讨论人口发展与经济社会建设的统筹安排。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T12:45:37.690736+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/li-qiang-chairs-cabinet-meeting-population-services-afaf01",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "联合早报",
+        "财新"
+      ],
+      "section": "china",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "anthropic-files-ipo-nasdaq-listing-9704a2",
+      "title": "Anthropic递交上市申请提振AI市场情绪",
+      "description": "人工智能公司Anthropic于当地时间10月26日向美国证券交易委员会（SEC）递交S-1注册文件，推进首次公开募股（IPO）。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T12:34:35.779295+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/anthropic-files-ipo-nasdaq-listing-9704a2",
+      "reference": [
+        "中央通訊社",
+        "第一财经",
+        "澎湃新闻",
+        "财新"
+      ],
+      "section": "ai",
+      "sourceCount": 17,
+      "sources": []
+    },
+    {
+      "id": "robot-stocks-shift-embodied-data-cb9734",
+      "title": "A股机器人板块反弹转向具身数据供给",
+      "description": "A股机器人板块自10月16日起反弹，交易关注点由整机、丝杠等硬件环节转向具身数据供给。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T12:25:35.350911+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/robot-stocks-shift-embodied-data-cb9734",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "takaichi-rahman-expand-japan-bangladesh-investment-adb98c",
+      "title": "高市与孟加拉国总理确认扩大投资合作",
+      "description": "日本首相高市早苗10月27日在首相官邸会见孟加拉国总理拉赫曼。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T12:20:30+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/takaichi-rahman-expand-japan-bangladesh-investment-adb98c",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "central-china-six-provinces-gdp-total-260e25",
+      "title": "中部六省前三季度经济总量达22.89万亿元",
+      "description": "河南、湖北、安徽、湖南、江西和山西前三季度经济数据均已公布，六省经济总量合计228885.13亿元，约占全国的21.37%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T12:18:36.187424+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/central-china-six-provinces-gdp-total-260e25",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-provincial-shuffle-post-70s-governors-87af39",
+      "title": "六省调整省政府党组书记三名70后将任省长",
+      "description": "中共二十届五中全会召开之际，多个省份调整省级政府领导岗位。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T12:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/china-provincial-shuffle-post-70s-governors-87af39",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "pop-mart-third-quarter-revenue-falls-a11916",
+      "title": "泡泡玛特三季度收益同比下降45%至50%",
+      "description": "泡泡玛特公布2026年第三季度未经审核业务数据，整体收益较2025年同期下降45%至50%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T12:05:40.141400+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/pop-mart-third-quarter-revenue-falls-a11916",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-mortgage-balance-hits-record-bade72",
+      "title": "台湾9月房贷余额突破12万亿元创新高",
+      "description": "台湾中央银行公布9月消费者贷款及建筑贷款统计。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T12:02:19+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/taiwan-mortgage-balance-hits-record-bade72",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -44,6 +351,78 @@
       ],
       "section": "ai",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "shanghai-satellite-internet-plan-3000-satellites-cbcb34",
+      "title": "上海发布方案力争2030年在轨卫星超3000颗",
+      "description": "上海市经济信息化委在2026卫星互联网产业生态大会上发布《上海市卫星互联网产业创新发展行动方案（2027—2030年）》，并启动卫星互联网产业基金筹建和上海长三角卫星互联网产业供需平台试运行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T11:54:36.218529+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/shanghai-satellite-internet-plan-3000-satellites-cbcb34",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ukm-chinese-students-grades-dispute-26cdcc",
+      "title": "逾百中国留学生称马国大扣留成绩致无法毕业",
+      "description": "据联合早报报道，逾百名在马来西亚国立大学（UKM，简称马国大）攻读工商管理硕士的中国留学生称，修完一年课程后，因校方质疑其入学英语资格文件造假，成绩无法查询，毕业受阻。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T11:52:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/ukm-chinese-students-grades-dispute-26cdcc",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "kao-chin-su-mei-pleads-not-guilty-2e3369",
+      "title": "高金素梅涉诈领助理费案首度出庭作无罪答辩",
+      "description": "无党籍立法机构成员高金素梅因被控诈领助理费、加班费等超过787万元，27日首次出庭并作无罪答辩。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T11:51:28+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/kao-chin-su-mei-pleads-not-guilty-2e3369",
+      "reference": [
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-launches-departure-tax-refund-system-51d024",
+      "title": "日本11月1日起实施出境退税新制",
+      "description": "日本将于11月1日起实施访日游客消费税退税新制。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T11:45:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/japan-launches-departure-tax-refund-system-51d024",
+      "reference": [
+        "公视"
+      ],
+      "section": "life",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -160,27 +539,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "anthropic-files-ipo-nasdaq-listing-9704a2",
-      "title": "Anthropic递交IPO申请提振美股科技股",
-      "description": "人工智能公司Anthropic于当地时间10月26日向美国证券交易委员会递交S-1注册文件，启动首次公开募股程序，计划在纳斯达克全球精选市场以“ANT”为股票代码上市。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T10:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/anthropic-files-ipo-nasdaq-listing-9704a2",
-      "reference": [
-        "中央通訊社",
-        "第一财经",
-        "澎湃新闻",
-        "财新"
-      ],
-      "section": "ai",
-      "sourceCount": 16,
       "sources": []
     },
     {
@@ -335,24 +693,6 @@
       ],
       "section": "world",
       "sourceCount": 15,
-      "sources": []
-    },
-    {
-      "id": "japan-foreign-births-set-record-1adef0",
-      "title": "日本新生外国婴儿人数连续三年创纪录",
-      "description": "日本厚生劳动省2026年9月公布的人口动态统计显示，2025年日本新生外国婴儿有2万3015人，连续第三年创下新高；日本籍新生儿为67万1270人，降至历史最低。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T10:30:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/japan-foreign-births-set-record-1adef0",
-      "reference": [
-        "日本放送协会"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -543,27 +883,6 @@
       "sources": []
     },
     {
-      "id": "trump-backs-netanyahu-reelection-d6e4fe",
-      "title": "以色列举行哈马斯袭击后首次大选选出第26届议会",
-      "description": "以色列选民于当地时间10月27日开始投票，选举第26届议会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T09:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/trump-backs-netanyahu-reelection-d6e4fe",
-      "reference": [
-        "联合早报",
-        "法广",
-        "日本放送协会",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 23,
-      "sources": []
-    },
-    {
       "id": "france-consumer-confidence-hits-13-year-low-693eff",
       "title": "法国消费者信心指数跌至13年来最低水平",
       "description": "法国国家统计及经济研究所（INSEE）10月27日公布，法国10月消费者信心指数较上月下降5点至80，为2013年6月以来最低。",
@@ -615,26 +934,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-offers-million-dollar-election-fraud-reward-69e72f",
-      "title": "特朗普悬赏百万美元征集选举舞弊线索",
-      "description": "美国总统特朗普当地时间10月26日在社交媒体宣布，为举报过去选举或2026年中期选举选民舞弊线索的人提供100万美元奖金；但举报必须促成涉案者被捕并定罪，举报人才可领取。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T09:33:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/trump-offers-million-dollar-election-fraud-reward-69e72f",
-      "reference": [
-        "联合早报",
-        "世界日报",
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1410,24 +1709,6 @@
       "sources": []
     },
     {
-      "id": "merz-visits-singapore-two-days-369c30",
-      "title": "新加坡德国推出深化战略伙伴关系新计划",
-      "description": "新加坡总理黄循财与正在新加坡访问的德国总理弗里德里希·默茨10月27日举行联合记者会，宣布为两国战略伙伴关系推出新一轮联合工作计划。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T06:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/merz-visits-singapore-two-days-369c30",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "wuhan-industrial-growth-leads-subprovincial-cities-2bfd8e",
       "title": "武汉前三季度规上工业增速居副省级城市首位",
       "description": "武汉市10月26日公布2026年前三季度经济运行数据。",
@@ -1810,44 +2091,6 @@
       "sources": []
     },
     {
-      "id": "sarawak-speaker-submits-dissolution-notice-election-61ee25",
-      "title": "砂拉越议长向选委会递交议会解散通知",
-      "description": "砂拉越议长阿斯菲亚10月27日在砂议会大厦举行记者会时说，他已将议会解散通知交给选举委员会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T05:15:40+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/sarawak-speaker-submits-dissolution-notice-election-61ee25",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-embassy-visits-detained-hokkaido-reporter-891465",
-      "title": "日本驻俄使馆首次探视被拘记者确认其健康良好",
-      "description": "日本驻俄罗斯大使馆工作人员10月26日首次对被俄方拘押的《北海道新闻》记者今井祐纪进行领事探视，日方确认其健康状况良好。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T04:57:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/japan-embassy-visits-detained-hokkaido-reporter-891465",
-      "reference": [
-        "共同网",
-        "日本放送协会",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "singapore-funds-four-grid-resilience-projects-ce9212",
       "title": "新加坡能源市场管理局拨款1490万元支持四项目",
       "description": "新加坡能源市场管理局主席曾庆怡10月27日在新加坡国际能源周第二天举行的“电网的未来”活动上宣布，管理局将为四个电力项目提供总额1490万元的拨款，以改善电网维护和运行，并应对分布式能源资源增加对系统稳定性的影响。",
@@ -1903,42 +2146,6 @@
       "sources": []
     },
     {
-      "id": "fiji-serua-residents-strengthen-island-defenses-28318a",
-      "title": "斐济塞路亚岛居民选择加固防护守住家园",
-      "description": "面对海平面上升、海浪侵蚀和台风威胁，斐济塞路亚岛多数居民倾向于加强岛上的防护设施，而不是离开世代居住的家园。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T04:33:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/fiji-serua-residents-strengthen-island-defenses-28318a",
-      "reference": [
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "anwar-bars-politicians-from-investment-decisions-4299e7",
-      "title": "安华要求官联公司投资决定排除政治干预",
-      "description": "首相安华在国会表示，政治人物不得介入官联公司及官联投资公司的项目安排和投资重点，相关决定应交由由专业人士与领域专家组成的投资机构处理。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T04:25:53+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/anwar-bars-politicians-from-investment-decisions-4299e7",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "judge-orders-trump-halt-alibaba-contract-curbs-97dbd2",
       "title": "美法官禁止美国政府以特定业务往来为由拒授涉阿里国防合同",
       "description": "综合路透社和彭博社报道，圣何塞联邦法官10月26日批准阿里巴巴的初步禁令申请，要求美国政府停止执行相关限制。",
@@ -1953,24 +2160,6 @@
         "联合早报"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "dominguez-hormuz-strait-400-ships-stranded-2060b2",
-      "title": "多明格斯称霍尔木兹海峡仍有400多艘船滞留",
-      "description": "国际海事组织秘书长阿森尼奥·多明格斯10月26日在釜山表示，霍尔木兹海峡内仍有400多艘船无法驶离，船员约5000人。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T03:56:30+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/dominguez-hormuz-strait-400-ships-stranded-2060b2",
-      "reference": [
-        "韩国国际广播电台"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -1991,24 +2180,6 @@
       ],
       "section": "us",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "taiwan-durable-goods-confidence-17-year-low-d3bc5b",
-      "title": "台湾10月耐用消费品购买信心跌至逾17年低点",
-      "description": "中央大学台湾经济发展研究中心公布的10月消费者信心指数为66.27点，较9月下降2.5点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T03:40:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/taiwan-durable-goods-confidence-17-year-low-d3bc5b",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2049,24 +2220,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "un-reports-record-child-conflict-violations-4136ad",
-      "title": "联合国称2025年逾2.4万儿童遭严重侵害创纪录",
-      "description": "联合国官员周一向安理会通报，去年武装冲突中的严重侵害经核实涉及24174名儿童，刷新儿童与武装冲突任务设立以来的纪录；联合国共核实此类行为38558起。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T03:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/un-reports-record-child-conflict-violations-4136ad",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2122,24 +2275,6 @@
         "日经"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ahmad-zahid-urges-public-avoid-flood-risk-areas-a10506",
-      "title": "阿末扎希吁民众避开季风水灾高风险区",
-      "description": "马来西亚于10月27日进入东北季风期，副首相阿末扎希提醒民众提高警觉，远离水灾高风险地区并优先保障安全。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T03:05:51+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/ahmad-zahid-urges-public-avoid-flood-risk-areas-a10506",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -2831,24 +2966,6 @@
       "sources": []
     },
     {
-      "id": "wuxi-apptec-raises-2026-revenue-outlook-ed0b91",
-      "title": "药明康德上调全年收入预期至610亿至619亿元",
-      "description": "药明康德10月26日晚间发布2026年第三季度财报，并将全年整体收入预期从585亿至605亿元调高至610亿至619亿元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T13:29:37.469286+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/wuxi-apptec-raises-2026-revenue-outlook-ed0b91",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "vietnam-chip-factory-trial-target-risk-de6675",
       "title": "路透社称越南首座晶圆厂难达2027年试产目标",
       "description": "据路透社援引多名知情人士报道，越南首座半导体晶圆厂难以达到2027年试产目标。",
@@ -2865,24 +2982,6 @@
       ],
       "section": "tech",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "china-yuan-bond-issuance-tops-2025-total-2e9f43",
-      "title": "中资点心债发行量年内超过去年全年",
-      "description": "中资企业正加快从美元债转向离岸人民币债融资，2026年点心债发行量在十月中旬已超过2025年全年。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T13:11:36.617952+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/china-yuan-bond-issuance-tops-2025-total-2e9f43",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2955,24 +3054,6 @@
         "财新"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "state-local-elections-shape-data-centers-70335c",
-      "title": "州地方选举比国会选举更能左右数据中心建设",
-      "description": "《财富》10月25日分析指出，在数据中心建设和能源配套方面，州级与地方选举结果比联邦国会议员选举更具直接影响力。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T12:24:31+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/state-local-elections-shape-data-centers-70335c",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -3757,42 +3838,6 @@
       "sources": []
     },
     {
-      "id": "california-public-universities-costs-top-50000-3c99f9",
-      "title": "加州多所公立大学新生年开销突破五万美元",
-      "description": "加州多所公立大学新生年度总开销已超过5万美元，住房支出是推高费用的主要因素。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T01:34:17+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/california-public-universities-costs-top-50000-3c99f9",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "singapore-launches-nuclear-energy-talent-programs-35f794",
-      "title": "新加坡推出三项计划培育核能及能源人才",
-      "description": "新加坡能源贸工部和能源市场管理局10月26日宣布，将于2026年分阶段推出三项计划，培养核能及能源领域人才、加强相关能力。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T01:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/singapore-launches-nuclear-energy-talent-programs-35f794",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "uk-boosts-ai-security-investment-453be7",
       "title": "英国政府将设全球首个AI生物安全实验室",
       "description": "英国政府10月24日宣布，计划初期投入1亿英镑成立人工智能生物安全实验室（AIBL）；据英国政府10月26日发布的信息，OpenAI和Anthropic拟分别提供价值1亿英镑的支持。",
@@ -3881,27 +3926,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "li-qiang-chairs-cabinet-meeting-population-services-afaf01",
-      "title": "国务院提出完善家庭支持政策稳定新出生人口",
-      "description": "中国国务院总理李强10月23日主持召开国务院常务会议，研究人口与经济社会发展统筹工作，并听取全国服务业大会部署落实情况汇报。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-25T22:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/li-qiang-chairs-cabinet-meeting-population-services-afaf01",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "联合早报",
-        "财新"
-      ],
-      "section": "china",
-      "sourceCount": 7,
       "sources": []
     },
     {
@@ -4101,25 +4125,6 @@
         "联合早报"
       ],
       "section": "ai",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "zhang-wenbin-reportedly-detained-urumqi-wanzai-police-4f9659",
-      "title": "环保志工张文斌被押至江西万载并遭拘留",
-      "description": "中国环保志工张文斌于10月20日从乌鲁木齐被押往江西省宜春市万载县，家属证实他已被带到当地公安机关。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-25T08:27:23+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/zhang-wenbin-reportedly-detained-urumqi-wanzai-police-4f9659",
-      "reference": [
-        "德国之声",
-        "中央通訊社"
-      ],
-      "section": "china",
       "sourceCount": 2,
       "sources": []
     },
@@ -4510,24 +4515,6 @@
       ],
       "section": "tech",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "warhound-raises-200m-engineered-working-dogs-08f631",
-      "title": "Warhound募得2亿美元培育基因强化工作犬",
-      "description": "德州新创公司Warhound已募得2亿美元，计划通过克隆和基因编辑在美国培育工作犬，并为犬只配备先进技术，以增强其战场情境感知能力。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T06:10:16+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/warhound-raises-200m-engineered-working-dogs-08f631",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -4981,26 +4968,6 @@
       ],
       "section": "sports",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "zheng-qinwen-wins-china-open-title-95e8ff",
-      "title": "郑钦文夺得中网女单冠军成首位中国冠军",
-      "description": "郑钦文10月11日在中国网球公开赛女单决赛中以7比5、6比4击败俄罗斯选手安德烈耶娃，赢得冠军。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-13T13:00:36.088195+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-11",
-      "url": "https://kaopu.news/story/2026-10-11/zheng-qinwen-wins-china-open-title-95e8ff",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "第一财经"
-      ],
-      "section": "sports",
-      "sourceCount": 7,
       "sources": []
     }
   ]
