@@ -1,11 +1,68 @@
 {
   "details": {
     "date": "2026-10-28",
-    "timestamp": 1793184132,
+    "timestamp": 1793186418,
     "totalPages": 1,
     "total": 260
   },
   "stories": [
+    {
+      "id": "singapore-accepts-senior-employment-proposals-588631",
+      "title": "新加坡将法定退休及重新雇佣年龄提高至65岁和70岁",
+      "description": "新加坡政府接受年长员工就业劳资政工作小组提出的六项建议，并将从2029年1月1日起，把本地员工的法定退休年龄和重新雇佣年龄分别提高至65岁和70岁，比原先规划提前一年。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T10:09:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/singapore-accepts-senior-employment-proposals-588631",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "merz-first-japan-visit-takaichi-meeting-856d46",
+      "title": "高市与默茨会谈聚焦加强日德多领域合作",
+      "description": "日本首相高市早苗10月28日与德国总理弗里德里希·默茨举行会谈。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T09:28:01+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-25",
+      "url": "https://kaopu.news/story/2026-10-25/merz-first-japan-visit-takaichi-meeting-856d46",
+      "reference": [
+        "共同网",
+        "德国之声"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "japan-imposes-antidumping-duties-china-taiwan-stainless-ebece9",
+      "title": "日本将对中国大陆及台湾不锈钢征五年反倾销税",
+      "description": "日本政府10月27日公布决定，将对中国大陆和台湾产镍系不锈钢冷轧钢带及钢板征收为期五年的反倾销税。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T09:25:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/japan-imposes-antidumping-duties-china-taiwan-stainless-ebece9",
+      "reference": [
+        "共同网",
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
+      "sources": []
+    },
     {
       "id": "zhang-yiming-retakes-china-richest-title-eb702a",
       "title": "张一鸣以6700亿元财富刷新中国首富纪录",
@@ -104,6 +161,24 @@
       "sources": []
     },
     {
+      "id": "china-u17-world-cup-training-squad-8c8ad9",
+      "title": "中国U17男足公布世少赛25人集训名单",
+      "description": "中国U17男足国家队28日公布备战2026年U17男足世界杯的25人集训名单，赵松源、周雨诺、帅惟浩等球员入选。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T08:41:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/china-u17-world-cup-training-squad-8c8ad9",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "sports",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "witkoff-norway-peace-proposal-talks-6bf424",
       "title": "特朗普称普京泽连斯基会晤将很快安排",
       "description": "美国总统特朗普10月28日对记者表示，俄罗斯总统普京与乌克兰总统泽连斯基的会晤将很快安排。",
@@ -146,6 +221,24 @@
       "sources": []
     },
     {
+      "id": "healey-plans-abolish-gas-standing-charges-42fd1f",
+      "title": "英国财长希利将取消燃气账单固定基本费",
+      "description": "英国财政部长希利10月28日在英国财政部发表声明，称将在当天晚些时候公布的首份财政预算案中正式宣布取消燃气账单固定基本费，路透社报道。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T08:38:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/healey-plans-abolish-gas-standing-charges-42fd1f",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "trump-backs-netanyahu-reelection-d6e4fe",
       "title": "以色列大选开票过半内塔尼亚胡阵营暂时领先",
       "description": "以色列10月27日举行自2023年10月7日哈马斯武装人员发动跨境袭击以来的首次议会选举。",
@@ -183,6 +276,42 @@
       ],
       "section": "world",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "chinese-refiners-buy-west-african-brazilian-crude-5299c3",
+      "title": "中国炼油商据报采购西非巴西原油拓宽供应来源",
+      "description": "中国炼油商据报开始采购西非和巴西原油，以拓宽供应来源。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T08:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/chinese-refiners-buy-west-african-brazilian-crude-5299c3",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "kyushu-financial-group-tsmc-economic-impact-3992f8",
+      "title": "九州金融集团估算三县产业效益近14万亿日元",
+      "description": "九州金融集团公布的最新测算显示，台积电等相关企业在熊本、鹿儿岛和宫崎三县的投资与生产，截至2031年的10年间将带来超过13.84万亿日元经济效益。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T08:27:25+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/kyushu-financial-group-tsmc-economic-impact-3992f8",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -228,6 +357,24 @@
       "sources": []
     },
     {
+      "id": "taiwan-dual-loan-borrowers-hit-record-2e415a",
+      "title": "台湾双贷族7月增至43.4万人创历史新高",
+      "description": "联征中心数据显示，台湾2026年7月同时持有房贷和信贷的人数增至43.4万，创2012年开始统计以来新高，比2025年同期增加近3万人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T08:12:07+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/taiwan-dual-loan-borrowers-hit-record-2e415a",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "kyodo-japan-security-policy-campaign-c0aa07",
       "title": "日本政府召开专家会议讨论年内修订三份安保文件",
       "description": "日本政府于10月27日在首相官邸召集专家，商议今年内调整《国家安全保障战略》等三份安保文件。",
@@ -243,6 +390,42 @@
       ],
       "section": "asia",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "thailand-ev-imports-surge-138-percent-f772ec",
+      "title": "泰国9月电动车进口额同比激增138%",
+      "description": "泰国9月电动汽车进口额同比增长138%，达到4.21亿美元，较8月增加86%；近99%的进口电动车来自中国。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T08:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/thailand-ev-imports-surge-138-percent-f772ec",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "dan-bongino-urges-three-day-supplies-f2e088",
+      "title": "邦吉诺呼吁美国民众备足三天应急物资",
+      "description": "美国联邦调查局前副局长丹·邦吉诺10月26日在播客节目中敦促美国民众为家庭备好至少三天的食物、饮水及其他应急用品。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T08:03:46+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/dan-bongino-urges-three-day-supplies-f2e088",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1642,26 +1825,6 @@
       "sources": []
     },
     {
-      "id": "japan-imposes-antidumping-duties-china-taiwan-stainless-ebece9",
-      "title": "日本决定对中国大陆及台湾镍系不锈钢征五年反倾销税",
-      "description": "日本政府10月27日决定，对中国大陆和台湾产镍系不锈钢冷轧钢带及冷轧钢板征收反倾销税。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T04:35:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/japan-imposes-antidumping-duties-china-taiwan-stainless-ebece9",
-      "reference": [
-        "共同网",
-        "中央通訊社",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "anthropic-acquires-mithril-medicine-b0dc2a",
       "title": "Anthropic收购一人药企推进药物研发",
       "description": "Anthropic于当地时间10月27日披露，已收购生物技术公司Mithril Medicine。",
@@ -1982,24 +2145,6 @@
       "sources": []
     },
     {
-      "id": "lin-chia-lung-china-stalls-taiwan-cptpp-bid-284f04",
-      "title": "林佳龙称中国政治干扰阻碍台湾加入CPTPP",
-      "description": "台湾立委罗美玲关切，台湾2021年提出加入《全面与进步跨太平洋伙伴关系协定》（CPTPP）的申请，已进入第5年，但仍未进入成立入会工作组阶段。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T02:58:56+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/lin-chia-lung-china-stalls-taiwan-cptpp-bid-284f04",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "reuters-survey-economists-raise-2027-inflation-forecasts-afb78b",
       "title": "路透调查显示经济学家上调多国2027年通胀预期",
       "description": "路透社本月对全球逾500名经济学家进行的调查显示，受访者对通胀压力延续至2027年的担忧加深。",
@@ -2052,42 +2197,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "str-cash-aid-cut-sara-raised-30722e",
-      "title": "马来西亚低收入家庭2027年STR现金援助将减少",
-      "description": "马来西亚2027年援助安排将减少月收入低于2500令吉家庭通过爱心援助金（STR）领取的年度现金援助，最大降幅为600令吉。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T02:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/str-cash-aid-cut-sara-raised-30722e",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "roche-pauses-german-future-investment-decisions-ac6246",
-      "title": "罗氏宣布暂时搁置德国全部未来投资决策",
-      "description": "罗氏集团已暂时搁置在德国的所有未来投资决策。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T02:23:37.852992+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/roche-pauses-german-future-investment-decisions-ac6246",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2386,61 +2495,6 @@
       ],
       "section": "ai",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "turkey-saudi-pakistan-envoys-talks-oil-falls-25041b",
-      "title": "外交接触重新展开之际国际油价下跌",
-      "description": "10月27日，国际油价收跌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T22:32:46+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/turkey-saudi-pakistan-envoys-talks-oil-falls-25041b",
-      "reference": [
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "canada-central-bank-reported-rate-hike-e81491",
-      "title": "据报加拿大央行将小幅上调基准利率",
-      "description": "加拿大央行可能上调基准利率的消息传出。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T21:15:12.669000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/canada-central-bank-reported-rate-hike-e81491",
-      "reference": [
-        "加拿大国际广播电台"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "toyota-targets-50-models-sdv-by-2030-0feae1",
-      "title": "丰田拟最早2030年将50款车型全部转为SDV",
-      "description": "丰田提出一项方针，拟最早于2030年将旗下50款车型全部转为软件定义汽车（SDV）。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T21:08:53+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/toyota-targets-50-models-sdv-by-2030-0feae1",
-      "reference": [
-        "日经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3234,24 +3288,6 @@
       "sources": []
     },
     {
-      "id": "citizens-sue-trump-white-house-press-access-8538bd",
-      "title": "六名公民起诉特朗普指白宫限访侵害知情权",
-      "description": "六名公民于10月26日向纽约联邦地区法院起诉美国总统特朗普，指其限制部分媒体记者进入白宫采访。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/citizens-sue-trump-white-house-press-access-8538bd",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "lauren-yee-king-yees-family-roots-cc6846",
       "title": "余秀菊半自传喜剧在曼哈顿演绎父女寻根",
       "description": "余秀菊的半自传喜剧《King of the Yees》正在曼哈顿中城的Signature Center上演，演出安排已公布至11月15日。",
@@ -3551,24 +3587,6 @@
       "sources": []
     },
     {
-      "id": "china-five-agencies-warn-state-owned-job-scams-49f7f6",
-      "title": "五部门提醒求职者警惕央国企招聘诈骗",
-      "description": "人力资源社会保障部、中央网信办、教育部、公安部和国务院国有资产监督管理委员会近日提醒求职者，警惕有人冒用央国企名义发布虚假招聘信息，以“内部推荐”“直签保录”等说法招揽求职者并索取高额费用。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T01:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/china-five-agencies-warn-state-owned-job-scams-49f7f6",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-discipline-agencies-file-800000-cases-ef1dc5",
       "title": "全国纪检监察机关立案省部级及以上干部73人",
       "description": "中央纪委国家监委公布的数据显示，2026年前九个月，全国纪检监察机关立案80万件；其中省部级及以上干部73人，厅局级干部4203人，县处级和乡科级干部分别为3.4万人、11.4万人。",
@@ -3585,25 +3603,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "anwar-urges-switch-tuju-waze-data-risk-c1e0d1",
-      "title": "马来西亚大道局称TuJu开发初衷并非与Waze竞争",
-      "description": "马来西亚大道局主席哈斯尼·穆罕默德接受《当今大马》采访时澄清，TuJu开发之初并非为了与Waze争夺导航用户，而是要提升收费大道运营服务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T00:36:52+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/anwar-urges-switch-tuju-waze-data-risk-c1e0d1",
-      "reference": [
-        "当今大马",
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 15,
       "sources": []
     },
     {
