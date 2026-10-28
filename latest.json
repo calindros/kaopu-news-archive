@@ -1,19 +1,55 @@
 {
   "details": {
     "date": "2026-10-28",
-    "timestamp": 1793143798,
+    "timestamp": 1793151591,
     "totalPages": 1,
     "total": 266
   },
   "stories": [
     {
-      "id": "brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
-      "title": "美媒称弗拉维奥疑似违反出境禁令赴美",
-      "description": "美国媒体报道称，45岁的弗拉维奥·博索纳罗已离开巴西，正前往美国佛罗里达州。",
+      "id": "san-francisco-school-district-plans-neighborhood-enrollment-ce1bef",
+      "title": "旧金山学区拟以就近入学取代小学抽签",
+      "description": "旧金山联合学区教育委员会10月13日以5比2通过小学招生改革方向，拟按家庭住址为学生保障附近小学的入学名额，不受申请时间影响。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-27T23:21:00+00:00",
+      "updatedAt": "2026-10-27T23:55:43+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/san-francisco-school-district-plans-neighborhood-enrollment-ce1bef",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "carol-fair-american-airlines-retires-after-63-years-55ccb7",
+      "title": "美航资深乘务员费尔服务逾63年后退休",
+      "description": "美国航空资深乘务员卡萝·费尔服务航空业63年多后，于10月26日乘坐该公司733号航班从英国伦敦抵达北卡罗来纳州夏洛特，结束职业生涯。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T23:47:23+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/carol-fair-american-airlines-retires-after-63-years-55ccb7",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
+      "title": "卢拉斥弗拉维奥据报违禁赴美行为可耻",
+      "description": "巴西总统卢拉27日晚在巴西利亚批评前总统雅伊尔·博索纳罗之子弗拉维奥·博索纳罗据报离境，称若他确已离开巴西，行为“可耻”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T23:45:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-27",
       "url": "https://kaopu.news/story/2026-10-27/brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
@@ -22,7 +58,79 @@
         "联合早报"
       ],
       "section": "world",
-      "sourceCount": 3,
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "boston-judge-pauses-trump-refugee-rule-deb071",
+      "title": "波士顿法官暂缓特朗普政府难民申诉新规",
+      "description": "波士顿联邦地区法官朱莉娅·科比克10月27日下令暂缓执行美国公民及移民服务局新规。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T23:42:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/boston-judge-pauses-trump-refugee-rule-deb071",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "youth-fight-videos-monetized-social-platforms-2dd6ff",
+      "title": "调查发现青少年斗殴视频在社交平台牟利",
+      "description": "东亚日报与预防校园暴力组织蓝树基金会的调查发现，青少年“夜叉规则”斗殴视频正通过社交平台牟利。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T23:18:08+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/youth-fight-videos-monetized-social-platforms-2dd6ff",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-ev-share-prompts-korea-policy-review-e7e3bd",
+      "title": "中国产电动车份额上升促韩国重审支持政策",
+      "description": "现代汽车扩大印度出口之际，中国产电动汽车在韩国市场的占比上升，韩国国会正重新审议将国产电动车纳入税额抵扣范围的方案。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T23:17:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/china-ev-share-prompts-korea-policy-review-e7e3bd",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "south-korea-democratic-party-probes-chief-justice-cho-420484",
+      "title": "共同民主党决定对曹喜大开展国政调查",
+      "description": "韩国共同民主党决定对大法院院长曹喜大开展国政调查，暂不立即提出弹劾动议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T23:17:37+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/south-korea-democratic-party-probes-chief-justice-cho-420484",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -44,6 +152,42 @@
       ],
       "section": "asia",
       "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "donga-ilbo-korea-us-submarine-infiltration-training-a59979",
+      "title": "东亚日报称韩美监视朝鲜潜艇渗透训练",
+      "description": "据东亚日报报道，韩美情报当局正监视朝鲜在南浦等地使用潜艇和“工作母船”开展对韩渗透训练。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T23:17:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/donga-ilbo-korea-us-submarine-infiltration-training-a59979",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "elderly-companionship-service-risks-bb1a20",
+      "title": "共享儿女服务可补充陪伴但不能替代亲情",
+      "description": "老年人“共享儿女”服务分为公益和付费两类，可提供日常陪伴、陪诊及事务代办等帮助。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T23:12:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/elderly-companionship-service-risks-bb1a20",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -69,8 +213,8 @@
     },
     {
       "id": "trump-backs-netanyahu-reelection-d6e4fe",
-      "title": "以色列大选出口民调显示两大阵营均未获过半",
-      "description": "以色列于当地时间10月27日举行2023年10月哈马斯袭击以来的首次全国议会选举，选举将产生国会120名议员。",
+      "title": "以色列大选出口民调显示反对派阵营微幅领先",
+      "description": "以色列在2023年10月7日哈马斯袭击引发新一轮冲突后举行首次全国大选。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -85,7 +229,7 @@
         "澎湃新闻"
       ],
       "section": "world",
-      "sourceCount": 29,
+      "sourceCount": 30,
       "sources": []
     },
     {
@@ -124,6 +268,25 @@
       ],
       "section": "world",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "turkey-saudi-pakistan-envoys-talks-oil-falls-25041b",
+      "title": "外交接触重新展开之际国际油价下跌",
+      "description": "10月27日，国际油价收跌。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-27T22:32:46+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/turkey-saudi-pakistan-envoys-talks-oil-falls-25041b",
+      "reference": [
+        "中央通訊社",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -256,24 +419,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "turkey-saudi-pakistan-envoys-talks-oil-falls-25041b",
-      "title": "中东外交努力重启之际国际油价下跌",
-      "description": "27日，中东相关各方恢复外交接触、寻求解决冲突之际，以色列选民参加国会选举，国际油价收跌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T20:55:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/turkey-saudi-pakistan-envoys-talks-oil-falls-25041b",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2002,25 +2147,6 @@
       "sources": []
     },
     {
-      "id": "tepco-starts-25th-fukushima-nuclear-water-release-7f7691",
-      "title": "东京电力启动福岛第一核电站第25批排海",
-      "description": "东京电力公司于10月26日11时29分（当地时间）启动福岛第一核电站第25批核污染水排放，计划持续19天、排出约7800吨，至11月13日结束，氚总活度约1.4万亿贝克勒尔。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T08:43:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/tepco-starts-25th-fukushima-nuclear-water-release-7f7691",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "french-students-protest-school-conditions-11bf14",
       "title": "法国数十万人上街抗议生活成本和公共服务削减",
       "description": "法国工会和学生团体号召民众于10月24日举行全国示威，抗议生活成本上涨、教育环境问题和公共服务削减。",
@@ -2112,43 +2238,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "india-publishers-challenge-privacy-law-6b94cb",
-      "title": "印度21家新闻出版商起诉挑战隐私法条款",
-      "description": "据路透社报道，21家印度新闻出版商已向印度最高法院提起诉讼，要求撤销政府隐私法中多项争议条款。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T07:53:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/india-publishers-challenge-privacy-law-6b94cb",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "muhriz-plans-summon-negeri-sembilan-chief-minister-745d7f",
-      "title": "森州大臣拒补行政议员空缺等待法院裁决",
-      "description": "森美兰州务大臣依斯迈拉欣暂不任命新人填补十名州行政议员空缺。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T07:40:45+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/muhriz-plans-summon-negeri-sembilan-chief-minister-745d7f",
-      "reference": [
-        "联合早报",
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2701,24 +2790,6 @@
         "第一财经"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "eneos-asian-benzene-price-hits-four-year-high-40d806",
-      "title": "ENEOS亚洲苯合同价升至四年零三个月高点",
-      "description": "ENEOS公布的亚洲苯10月合同价升至每吨1225美元，较前月增加190美元，涨幅18%，为四年零三个月以来最高。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T03:08:12+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/eneos-asian-benzene-price-hits-four-year-high-40d806",
-      "reference": [
-        "日经"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -3574,24 +3645,6 @@
       "sources": []
     },
     {
-      "id": "china-approves-first-factor-xi-inhibitor-aaab4b",
-      "title": "全球首款XI因子抑制剂获准在中国上市",
-      "description": "中国国家药监局于10月26日核准全球首款XI因子抑制剂上市。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T07:49:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/china-approves-first-factor-xi-inhibitor-aaab4b",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "elvis-rights-owner-sues-anthropic-copyright-infringement-3ba65a",
       "title": "猫王授权机构起诉Anthropic指其侵权274首歌曲",
       "description": "猫王音乐与肖像权授权机构Authentic Brands Group已起诉人工智能公司Anthropic，指控其未经许可将猫王歌曲用于训练AI模型。",
@@ -3775,60 +3828,6 @@
       ],
       "section": "ai",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "three-new-york-residents-face-voting-charges-3c65f0",
-      "title": "纽约三名永久居民因涉非法参与联邦选举被控",
-      "description": "纽约州三名合法永久居民因涉嫌在联邦选举中违规投票，或在选民登记时谎报美国公民身份，在纽约东区联邦法院被控多项罪名。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T06:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/three-new-york-residents-face-voting-charges-3c65f0",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "southern-california-families-face-china-ashes-shipping-e044c7",
-      "title": "黄宇平：南加华人回乡安葬比例升至10%至15%",
-      "description": "南加华人家庭将亲人骨灰送回中国安葬的情况近年增加。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T06:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/southern-california-families-face-china-ashes-shipping-e044c7",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "cdc-requires-us-bound-travelers-health-declaration-34508f",
-      "title": "美国CDC将对赴美旅客实施伊波拉申报规定",
-      "description": "美国联邦疾控中心（CDC）将从2026年11月3日美东时间23时59分起，对所有从外国机场搭乘飞机赴美的旅客实施伊波拉健康申报要求，不因国籍或移民身份而有区别。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T06:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-25",
-      "url": "https://kaopu.news/story/2026-10-25/cdc-requires-us-bound-travelers-health-declaration-34508f",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 2,
       "sources": []
     },
     {
