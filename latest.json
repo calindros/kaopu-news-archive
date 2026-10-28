@@ -1,11 +1,126 @@
 {
   "details": {
     "date": "2026-10-28",
-    "timestamp": 1793157555,
+    "timestamp": 1793165549,
     "totalPages": 1,
-    "total": 266
+    "total": 267
   },
   "stories": [
+    {
+      "id": "dongshan-precision-hong-kong-ipo-fundraising-aa377f",
+      "title": "东山精密港股上市首日股价跌破发行价后回升",
+      "description": "东山精密10月28日在香港挂牌，上市首日股价一度低于每股86.8港元的发行价，随后回升至这一水平。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T04:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/dongshan-precision-hong-kong-ipo-fundraising-aa377f",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "rfi-barrack-says-us-may-strike-iran-weekend-521694",
+      "title": "美方据报告知海湾国家准备应对选后袭伊",
+      "description": "美国已告知数个海湾阿拉伯国家，为中期选举后可能发生的对伊军事行动作准备。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T04:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/rfi-barrack-says-us-may-strike-iran-weekend-521694",
+      "reference": [
+        "联合早报",
+        "法广",
+        "澎湃新闻",
+        "韩民族日报"
+      ],
+      "section": "world",
+      "sourceCount": 19,
+      "sources": []
+    },
+    {
+      "id": "trump-backs-netanyahu-reelection-d6e4fe",
+      "title": "以色列大选出口民调显示两大阵营均未过半",
+      "description": "以色列当地时间10月27日举行自2023年10月7日哈马斯袭击以来的首次议会选举，选举产生议会120个席位。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T03:58:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-18",
+      "url": "https://kaopu.news/story/2026-10-18/trump-backs-netanyahu-reelection-d6e4fe",
+      "reference": [
+        "联合早报",
+        "法广",
+        "日本放送协会",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 33,
+      "sources": []
+    },
+    {
+      "id": "taiwan-geneva-envoy-bullying-finding-503896",
+      "title": "外交部认定李冠德部分行为构成职场霸凌",
+      "description": "台湾外交部调查认定，驻日内瓦办事处长李冠德部分行为构成职场霸凌，并已将其调离现职、调回外交部本部。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T03:53:18+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/taiwan-geneva-envoy-bullying-finding-503896",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "lurie-declares-san-francisco-rent-emergency-10121b",
+      "title": "旧金山市长罗伟宣布租屋紧急状态",
+      "description": "旧金山市长罗伟（Daniel Lurie）9月宣布进入“租屋紧急状态”，住房负担问题也成为北加州国会选举的重要议题。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T03:51:46+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/lurie-declares-san-francisco-rent-emergency-10121b",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "google-deepmind-genie-4-audio-generation-dff937",
+      "title": "谷歌DeepMind发布Genie 4新增实时音频生成",
+      "description": "谷歌DeepMind当地时间10月27日发布通用世界模型Genie 4。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T03:51:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/google-deepmind-genie-4-audio-generation-dff937",
+      "reference": [
+        "第一财经",
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
     {
       "id": "lancet-report-urges-climate-health-emergency-686d66",
       "title": "《柳叶刀》报告呼吁宣布气候变化为全球卫生紧急事件",
@@ -68,6 +183,24 @@
       "sources": []
     },
     {
+      "id": "japan-us-defense-chiefs-affirm-alliance-deterrence-c04f93",
+      "title": "日美防长会谈确认加强同盟威慑力",
+      "description": "日本防卫相小泉进次郎10月28日在菲律宾中部城市宿务会见美国国防部长赫格塞思。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T03:17:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/japan-us-defense-chiefs-affirm-alliance-deterrence-c04f93",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "taiwan-affairs-office-slams-us-han-kuang-observers-5a374b",
       "title": "国台办批民进党邀美观摩汉光演习是倚外谋独",
       "description": "国务院台办10月28日举行例行新闻发布会。",
@@ -84,27 +217,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "trump-backs-netanyahu-reelection-d6e4fe",
-      "title": "以色列出口民调显示两大阵营均未过半",
-      "description": "以色列第26届议会选举出口民调显示，现任总理本雅明·内塔尼亚胡领导的右翼阵营与加迪·艾森科特领导的反对派阵营均未达到组建政府所需的多数席位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T03:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/trump-backs-netanyahu-reelection-d6e4fe",
-      "reference": [
-        "联合早报",
-        "法广",
-        "日本放送协会",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 32,
       "sources": []
     },
     {
@@ -127,6 +239,24 @@
       "sources": []
     },
     {
+      "id": "arnab-hits-andhra-coast-nearly-100000-evacuated-28f910",
+      "title": "强气旋阿尔纳布登陆印度东南沿海近十万人紧急疏散",
+      "description": "强气旋阿尔纳布10月28日登陆印度安得拉邦东南沿海，带来狂风暴雨。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T03:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/arnab-hits-andhra-coast-nearly-100000-evacuated-28f910",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "lme-launches-shanghai-hrc-futures-4be871",
       "title": "伦敦金属交易所推出上海热轧卷板美元期货合约",
       "description": "伦敦金属交易所（LME）推出一项以上海期货交易所（上期所）热轧卷板期货结算价为基准的美元现金结算合约。",
@@ -141,6 +271,24 @@
         "第一财经"
       ],
       "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "lin-chia-lung-china-stalls-taiwan-cptpp-bid-284f04",
+      "title": "林佳龙称中国政治干扰阻碍台湾加入CPTPP",
+      "description": "台湾立委罗美玲关切，台湾2021年提出加入《全面与进步跨太平洋伙伴关系协定》（CPTPP）的申请，已进入第5年，但仍未进入成立入会工作组阶段。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T02:58:56+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/lin-chia-lung-china-stalls-taiwan-cptpp-bid-284f04",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -2054,24 +2202,6 @@
       "sources": []
     },
     {
-      "id": "kao-chin-su-mei-pleads-not-guilty-2e3369",
-      "title": "高金素梅涉诈领助理费案首度出庭作无罪答辩",
-      "description": "无党籍立法机构成员高金素梅因被控诈领助理费、加班费等超过787万元，27日首次出庭并作无罪答辩。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T11:51:28+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/kao-chin-su-mei-pleads-not-guilty-2e3369",
-      "reference": [
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "japan-launches-departure-tax-refund-system-51d024",
       "title": "日本11月1日起实施出境退税新制",
       "description": "日本将于11月1日起实施访日游客消费税退税新制。",
@@ -2087,66 +2217,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "rfi-barrack-says-us-may-strike-iran-weekend-521694",
-      "title": "美媒称美军可在96小时内大规模打击伊朗",
-      "description": "据CNN报道，驻中东美军已做好准备，特朗普若下令，可在96小时内对伊朗发动大规模打击。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T11:41:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/rfi-barrack-says-us-may-strike-iran-weekend-521694",
-      "reference": [
-        "联合早报",
-        "法广",
-        "澎湃新闻",
-        "韩民族日报"
-      ],
-      "section": "world",
-      "sourceCount": 16,
-      "sources": []
-    },
-    {
-      "id": "indonesia-minister-orders-emergency-peat-burning-ban-aeceea",
-      "title": "新加坡与印尼探讨成立工作组追究林火企业责任",
-      "description": "新加坡外长维文10月27日访问印尼，与印尼外长阿曼纳塔会谈约一个半小时。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T11:34:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/indonesia-minister-orders-emergency-peat-burning-ban-aeceea",
-      "reference": [
-        "联合早报",
-        "公视",
-        "财新",
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 16,
-      "sources": []
-    },
-    {
-      "id": "us-consumers-highest-war-fuel-costs-00e507",
-      "title": "研究称美伊战争期间美国人均额外燃油支出居全球之首",
-      "description": "芬兰能源与清洁空气研究中心（CREA）10月26日发布的研究显示，美伊战争推高燃油价格后，美国消费者人均额外支出在所调查国家中最高，每人多付约471美元；全球平均为60美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T11:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/us-consumers-highest-war-fuel-costs-00e507",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2185,25 +2255,6 @@
         "联合早报"
       ],
       "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "takaichi-adds-active-cyber-defense-option-d09cee",
-      "title": "日本政府推进主动网络防御应对措施",
-      "description": "日本政府26日召开网络安全阁僚会议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T10:32:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/takaichi-adds-active-cyber-defense-option-d09cee",
-      "reference": [
-        "共同网",
-        "日本放送协会"
-      ],
-      "section": "asia",
       "sourceCount": 2,
       "sources": []
     },
@@ -4204,24 +4255,6 @@
       "sources": []
     },
     {
-      "id": "ftc-probes-frontier-model-consumer-harms-f6d492",
-      "title": "美国联邦贸易委员会调查前沿模型消费风险",
-      "description": "美国联邦贸易委员会（FTC）正调查OpenAI、Anthropic等企业的前沿模型是否危害消费者，以及企业是否就产品风险作出误导性说明。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-25T11:21:37.847304+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-25",
-      "url": "https://kaopu.news/story/2026-10-25/ftc-probes-frontier-model-consumer-harms-f6d492",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "tsinghua-death-exhibition-opens-shanghai-fbdca2",
       "title": "清华医学社会学中心发起的死亡主题展在上海开幕",
       "description": "清华大学社会科学学院医学社会学研究中心发起的“将死亡带回生活”上海站特展，10月23日在上海多伦美术馆开幕。",
@@ -4926,24 +4959,6 @@
       "url": "https://kaopu.news/story/2026-10-14/eom-ji-sung-racial-abuse-police-probe-e01439",
       "reference": [
         "中央通訊社"
-      ],
-      "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nba-restarts-china-ties-macau-games-cdf63c",
-      "title": "NBA借澳门季前赛重启对华交流",
-      "description": "NBA在澳门举行休斯顿火箭队与达拉斯独行侠队的季前赛，借赛事恢复与中国的交流。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-14T03:10:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/nba-restarts-china-ties-macau-games-cdf63c",
-      "reference": [
-        "日经"
       ],
       "section": "sports",
       "sourceCount": 1,
