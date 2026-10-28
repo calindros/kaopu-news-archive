@@ -1,19 +1,40 @@
 {
   "details": {
     "date": "2026-10-28",
-    "timestamp": 1793200711,
+    "timestamp": 1793207829,
     "totalPages": 1,
     "total": 260
   },
   "stories": [
     {
-      "id": "spain-trains-collide-kill-46-d000d5",
-      "title": "西班牙高铁相撞事故致至少68人死亡",
-      "description": "西班牙托莱多省两列高速列车相撞，卡斯蒂利亚-拉曼查自治区主席通报，事故死亡人数已升至至少68人。",
+      "id": "trump-backs-netanyahu-reelection-d6e4fe",
+      "title": "以色列初步计票显示内塔尼亚胡阵营领先但未过半",
+      "description": "以色列中央选举委员会10月28日公布的议会选举初步计票结果显示，总理本雅明·内塔尼亚胡领导的右翼阵营预计获得53席，领先加迪·埃森科特领导的反对派阵营，后者预计获得48席。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-28T15:22:00+00:00",
+      "updatedAt": "2026-10-28T16:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-18",
+      "url": "https://kaopu.news/story/2026-10-18/trump-backs-netanyahu-reelection-d6e4fe",
+      "reference": [
+        "联合早报",
+        "法广",
+        "日本放送协会",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 45,
+      "sources": []
+    },
+    {
+      "id": "spain-trains-collide-kill-46-d000d5",
+      "title": "西班牙高铁追尾事故造成至少68人死亡",
+      "description": "西班牙中部托莱多省乌尔达与洛斯耶韦内斯之间发生高速列车追尾事故，一列国有铁路公司RENFE的列车撞上停驶的私营铁路公司IRYO列车。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T16:00:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-28",
       "url": "https://kaopu.news/story/2026-10-28/spain-trains-collide-kill-46-d000d5",
@@ -24,7 +45,43 @@
         "公视"
       ],
       "section": "world",
-      "sourceCount": 16,
+      "sourceCount": 19,
+      "sources": []
+    },
+    {
+      "id": "russia-clears-azov-grain-ships-6cf979",
+      "title": "路透社称俄方首次放行亚速海运粮船",
+      "description": "联合早报援引路透社报道，俄方首次批准出口粮船驶离亚速海。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T15:49:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/russia-clears-azov-grain-ships-6cf979",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "lauren-boebert-colorado-race-turns-tough-c6948c",
+      "title": "布波特在科州第四选区连任选情转趋艰难",
+      "description": "共和党科罗拉多州联邦众议员劳伦·布波特在第四选区的连任选情已从原先被视为安全转为艰难。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T15:46:49+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/lauren-boebert-colorado-race-turns-tough-c6948c",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -291,27 +348,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "trump-backs-netanyahu-reelection-d6e4fe",
-      "title": "以色列大选计票显示两大阵营均未过半",
-      "description": "以色列议会选举最新计票显示，内塔尼亚胡领导的右翼阵营与加迪·艾森科特带领的反对派均未达到组建政府所需的61席，阿拉伯裔政党成为组阁关键。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T14:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/trump-backs-netanyahu-reelection-d6e4fe",
-      "reference": [
-        "联合早报",
-        "法广",
-        "日本放送协会",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 44,
       "sources": []
     },
     {
@@ -2324,27 +2360,6 @@
       "sources": []
     },
     {
-      "id": "wmo-reports-record-greenhouse-gas-levels-2ed77f",
-      "title": "世界气象组织称三大温室气体浓度创历史新高",
-      "description": "世界气象组织（WMO）10月27日发布第22期年度《温室气体公报》，指出2025年二氧化碳、甲烷和一氧化二氮的大气浓度均升至历史最高水平，长期变暖风险随之加剧。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T06:00:18+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/wmo-reports-record-greenhouse-gas-levels-2ed77f",
-      "reference": [
-        "法广",
-        "联合早报",
-        "公视",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "garden-hope-sandra-ung-flushing-domestic-violence-awareness-cca4b0",
       "title": "纽约励馨携黄敏仪在法拉盛宣传家暴防治",
       "description": "纽约励馨与市议员黄敏仪于2026年10月26日在法拉盛缅街地铁站举行“紫色日”活动。",
@@ -3471,24 +3486,6 @@
       ],
       "section": "us",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "trump-campaigns-hyde-smith-mississippi-5f71e3",
-      "title": "特朗普赴密西西比为海德史密斯连任助选",
-      "description": "特朗普10月26日赴密西西比州，为谋求连任的共和党联邦参议员海德史密斯助选。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T06:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/trump-campaigns-hyde-smith-mississippi-5f71e3",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
