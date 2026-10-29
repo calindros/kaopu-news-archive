@@ -1,15 +1,131 @@
 {
   "details": {
     "date": "2026-10-29",
-    "timestamp": 1793269980,
+    "timestamp": 1793272576,
     "totalPages": 1,
-    "total": 261
+    "total": 264
   },
   "stories": [
     {
+      "id": "russia-ukraine-oleshky-ceasefire-agreement-6fd59b",
+      "title": "俄乌在奥列什基实施六天人道主义停火",
+      "description": "俄罗斯与乌克兰已在乌克兰赫尔松州奥列什基及周边地带开始实施为期六天的人道主义局部停火，目的是让粮食、药品等援助送入，并帮助平民离开。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T10:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/russia-ukraine-oleshky-ceasefire-agreement-6fd59b",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "日本放送协会",
+        "德国之声"
+      ],
+      "section": "world",
+      "sourceCount": 13,
+      "sources": []
+    },
+    {
+      "id": "vance-iran-letter-restart-talks-9fdb42",
+      "title": "据报万斯致信雷扎伊探寻重启美伊停战谈判",
+      "description": "美国副总统万斯据报在总统特朗普指示下致信伊朗最高国家安全委员会秘书穆赫辛·雷扎伊，探询重启美伊停战谈判的基础。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T09:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/vance-iran-letter-restart-talks-9fdb42",
+      "reference": [
+        "联合早报",
+        "韩民族日报",
+        "法广",
+        "财新"
+      ],
+      "section": "us",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "mercedes-cuts-profit-margin-outlook-04de09",
+      "title": "奔驰将全年盈利预期下调至零增长",
+      "description": "奔驰集团于2026年10月28日公布第三季度财报，并回顾已于10月27日下调全年汽车业务盈利预期：调整后销售回报率预期从3%至5%降至2%至3%，全年核心利润预期则由至少增长15%改为与去年58亿欧元持平。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T09:47:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/mercedes-cuts-profit-margin-outlook-04de09",
+      "reference": [
+        "中央通訊社",
+        "法广",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "auo-sells-taichung-fab-to-tsmc-cbb3b0",
+      "title": "友达董事会决定将中科厂出售给台积电",
+      "description": "友达光电董事会29日决定，将台中市西屯区安林段二期厂房及相关厂务设施出售给台积电，交易金额为新台币388亿元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T09:31:21+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/auo-sells-taichung-fab-to-tsmc-cbb3b0",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-central-bank-directors-dissent-rate-freeze-c7f263",
+      "title": "央行议事录披露两名理事反对连续十次利率不变",
+      "description": "台湾央行9月17日决定维持政策利率不变，连续第十次按兵不动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T09:21:02+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/taiwan-central-bank-directors-dissent-rate-freeze-c7f263",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "shell-net-profit-more-than-doubles-569b1b",
+      "title": "壳牌第三季度净利润同比增长逾一倍至121亿美元",
+      "description": "壳牌第三季度净利润达到121亿美元，较上年同期的53亿美元增长逾一倍。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T09:09:47+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/shell-net-profit-more-than-doubles-569b1b",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "hong-kong-housing-chief-resigns-over-fire-56173b",
-      "title": "香港房屋局局长何永贤就宏福苑大火辞职",
-      "description": "香港特区政府10月29日公开宏福苑大火独立委员会报告。",
+      "title": "香港公布宏福苑大火独立调查报告",
+      "description": "香港特区政府10月29日公布宏福苑大火独立委员会调查报告。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -19,10 +135,11 @@
       "url": "https://kaopu.news/story/2026-10-29/hong-kong-housing-chief-resigns-over-fire-56173b",
       "reference": [
         "联合早报",
+        "中央通訊社",
         "英国广播公司"
       ],
       "section": "china",
-      "sourceCount": 2,
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -81,8 +198,8 @@
     },
     {
       "id": "koizumi-philippines-asean-defense-meeting-aced43",
-      "title": "中国国防部指责菲律宾阻碍中方出席东盟防长会",
-      "description": "中国国防部10月29日指责菲律宾方面为中方参加第13届东盟防长扩大会议设置障碍。",
+      "title": "中国派驻菲武官代表出席第13届东盟防长扩大会",
+      "description": "第13届东盟防长扩大会议10月29日在菲律宾宿务举行。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -93,10 +210,11 @@
       "reference": [
         "共同网",
         "澎湃新闻",
-        "联合早报"
+        "联合早报",
+        "中央通訊社"
       ],
       "section": "asia",
-      "sourceCount": 9,
+      "sourceCount": 10,
       "sources": []
     },
     {
@@ -114,6 +232,24 @@
         "澎湃新闻"
       ],
       "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "koizumi-seeks-understanding-security-revisions-467e2b",
+      "title": "小泉进次郎为年内修改三份安保文件寻求理解",
+      "description": "日本防卫相小泉进次郎在菲律宾宿务出席东盟防长扩大会，就日本计划年内修订三份安全保障相关文件寻求理解。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T08:36:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/koizumi-seeks-understanding-security-revisions-467e2b",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -231,6 +367,42 @@
       "sources": []
     },
     {
+      "id": "taiwan-hepatitis-b-drug-coverage-expanded-0f508a",
+      "title": "台湾健保共拟会通过放宽乙肝药物给付条件",
+      "description": "台湾卫生福利部表示，健保共拟会已于10月15日通过放宽乙型肝炎抗病毒药物的治疗条件及健保给付，待正式公告后实施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T08:21:01+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/taiwan-hepatitis-b-drug-coverage-expanded-0f508a",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ase-raises-leap-revenue-forecast-adbc91",
+      "title": "日月光投控上调先进封测营收预期至40亿美元",
+      "description": "日月光投控在一场线上说明会上将今年先进封测（LEAP）服务营收预测从37亿美元提高到40亿美元，并设定2027年营收较今年翻倍的目标。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T08:20:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/ase-raises-leap-revenue-forecast-adbc91",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "tokyo-court-orders-muramatsu-hiromi-pay-li-kotomi-93bfa1",
       "title": "东京法院判令议员赔偿李琴峰110万日元",
       "description": "东京地方法院29日判决，甲府市议员村松裕美因在社交平台公开作家李琴峰的跨性别身份及性别变更前的照片、姓名，侵犯其隐私，须赔偿110万日元。",
@@ -304,6 +476,24 @@
       ],
       "section": "asia",
       "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "taiwan-cabinet-approves-juvenile-justice-bill-fe6800",
+      "title": "台湾行政院通过少年事件处理法修正草案",
+      "description": "台湾行政院会10月29日通过与台湾司法院会衔提出的《少年事件处理法》部分条文修正草案，以及该法第18条之2修正草案。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T08:11:48+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/taiwan-cabinet-approves-juvenile-justice-bill-fe6800",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -383,8 +573,8 @@
     },
     {
       "id": "pakistan-bars-taiwan-airlines-airspace-a72a29",
-      "title": "巴基斯坦恢复台湾航司飞越领空许可",
-      "description": "巴基斯坦恢复中华航空和长荣航空飞越其领空的许可，台湾客机于10月29日重新通行。",
+      "title": "巴基斯坦恢复台湾客机飞越领空许可",
+      "description": "台湾客机10月29日恢复飞越巴基斯坦领空。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -399,7 +589,7 @@
         "公视"
       ],
       "section": "asia",
-      "sourceCount": 7,
+      "sourceCount": 8,
       "sources": []
     },
     {
@@ -440,26 +630,6 @@
       ],
       "section": "world",
       "sourceCount": 47,
-      "sources": []
-    },
-    {
-      "id": "vance-iran-letter-restart-talks-9fdb42",
-      "title": "《华尔街日报》称范斯致信伊朗官员试探重启谈判",
-      "description": "据《华尔街日报》援引知情人士报道，美国副总统J.D.范斯奉总统唐纳德·特朗普指示，致信伊朗最高国家安全委员会秘书穆赫辛·雷扎伊，试探恢复美伊接触与谈判的可能性。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T07:32:47+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/vance-iran-letter-restart-talks-9fdb42",
-      "reference": [
-        "联合早报",
-        "韩民族日报",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1269,6 +1439,27 @@
       "sources": []
     },
     {
+      "id": "us-bars-chinese-genomics-firms-imports-206500",
+      "title": "美国将华大三家企业列入涉疆强迫劳动清单",
+      "description": "美国国土安全部10月28日将华大基因、华大智造和深圳华大基因科技列入《防止维吾尔人强迫劳动法》实体清单。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T05:48:03+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/us-bars-chinese-genomics-firms-imports-206500",
+      "reference": [
+        "联合早报",
+        "纽约时报",
+        "澎湃新闻",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
       "id": "australia-fuel-costs-near-550-161489",
       "title": "澳大利亚人均额外燃油支出逼近550澳元",
       "description": "澳大利亚人均额外燃油支出接近550澳元，在全球排名第三。",
@@ -1344,26 +1535,6 @@
       ],
       "section": "ai",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-bars-chinese-genomics-firms-imports-206500",
-      "title": "美国将三家华大企业列入涉疆强迫劳动清单",
-      "description": "美国国土安全部10月28日将深圳华大基因、深圳华大智造和深圳华大基因科技（华大集团）列入《防止强迫维吾尔人劳动法》实体清单，相关商品将被阻止进入美国市场。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T05:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/us-bars-chinese-genomics-firms-imports-206500",
-      "reference": [
-        "联合早报",
-        "纽约时报",
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -2383,25 +2554,6 @@
       "sources": []
     },
     {
-      "id": "changxin-memory-tops-two-index-weights-04a705",
-      "title": "长鑫科技上市三个月后跻身两大指数权重首位",
-      "description": "长鑫科技（688825.SH）上市约三个月后，已被纳入上证综合指数和上证科创板综合指数，并在两项指数中都成为权重最高的成分股。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T00:36:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/changxin-memory-tops-two-index-weights-04a705",
-      "reference": [
-        "第一财经",
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "anwar-urges-switch-tuju-waze-data-risk-c1e0d1",
       "title": "马来西亚专家要求TuJu接受网络安全审查",
       "description": "马来西亚科技专家质疑政府限制公务员使用Waze的依据，并呼吁对本土导航应用TuJu进行与Waze同等的网络安全审查，以保护用户数据。",
@@ -2418,24 +2570,6 @@
       ],
       "section": "life",
       "sourceCount": 16,
-      "sources": []
-    },
-    {
-      "id": "south-asia-buyers-switch-chinese-electric-motorcycles-a04231",
-      "title": "南亚消费者转向中国电动机车应对燃油涨价",
-      "description": "伊朗战争推高燃油成本后，南亚消费者加快转向中国制造、或采用中国关键零部件的电动机车。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T00:24:21+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/south-asia-buyers-switch-chinese-electric-motorcycles-a04231",
-      "reference": [
-        "英国广播公司"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2526,43 +2660,6 @@
         "澎湃新闻"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "mercedes-cuts-profit-margin-outlook-04de09",
-      "title": "中国市场疲弱促使奔驰下调全年盈利预期",
-      "description": "奔驰因中国市场销售下滑下调全年盈利预测，将今年核心盈利目标从至少增长15%改为与去年58亿欧元持平；汽车业务调整后销售回报率预测则从3%至5%降至2%至3%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T23:51:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/mercedes-cuts-profit-margin-outlook-04de09",
-      "reference": [
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "business",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "oil-prices-boost-us-energy-profits-2ff132",
-      "title": "油价走高推动美国能源业盈利大幅增长",
-      "description": "国际油价上涨带动美国能源企业盈利和能源股走强，特朗普持有的油气股票也大幅增值。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T23:15:38.360574+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/oil-prices-boost-us-energy-profits-2ff132",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -3029,27 +3126,6 @@
       "sources": []
     },
     {
-      "id": "russia-ukraine-oleshky-ceasefire-agreement-6fd59b",
-      "title": "梅拉尼娅斡旋俄乌扩大赫尔松停火范围",
-      "description": "俄罗斯与乌克兰在美国第一夫人梅拉尼娅·特朗普斡旋下，于赫尔松州奥列什基及周边实施人道主义停火，为援助物资运送和居民撤离开辟通道。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T12:54:24+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/russia-ukraine-oleshky-ceasefire-agreement-6fd59b",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "日本放送协会",
-        "德国之声"
-      ],
-      "section": "world",
-      "sourceCount": 12,
-      "sources": []
-    },
-    {
       "id": "china-2027-civil-service-exam-applications-close-df0cb3",
       "title": "2027年国考过审人数七年来首次下降",
       "description": "2027年度中央机关及其直属机构公务员考试报名和资格审查工作已经结束，共有345万人通过用人单位审核，比2026年度少26.8万人，降幅为7.2%。",
@@ -3445,24 +3521,6 @@
       "occurredAt": "",
       "publishedAt": "2026-10-27",
       "url": "https://kaopu.news/story/2026-10-27/former-amazon-engineer-dies-parents-sue-openai-c94e08",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "san-francisco-school-district-plans-neighborhood-enrollment-ce1bef",
-      "title": "旧金山学区拟取消小学抽签改按住址保障入学",
-      "description": "旧金山联合学区教育委员会10月13日以5票赞成、2票反对通过小学入学改革方向，拟取消普通小学现行抽签分配，改按家庭住址优先保障附近学校学位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T06:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/san-francisco-school-district-plans-neighborhood-enrollment-ce1bef",
       "reference": [
         "世界日报"
       ],
