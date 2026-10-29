@@ -1,11 +1,633 @@
 {
   "details": {
     "date": "2026-10-29",
-    "timestamp": 1793258430,
+    "timestamp": 1793261918,
     "totalPages": 1,
-    "total": 260
+    "total": 259
   },
   "stories": [
+    {
+      "id": "trump-backs-netanyahu-reelection-d6e4fe",
+      "title": "以色列选举计票显示两大阵营均未过半",
+      "description": "以色列10月27日举行的国会选举计票接近尾声，最新估算显示，总理本雅明·内塔尼亚胡领导的阵营获53席，前国防军总参谋长加迪·艾森科特领衔的反对派阵营获48席，均未达到组建政府所需的61席。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T07:36:21+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-18",
+      "url": "https://kaopu.news/story/2026-10-18/trump-backs-netanyahu-reelection-d6e4fe",
+      "reference": [
+        "联合早报",
+        "法广",
+        "日本放送协会",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 47,
+      "sources": []
+    },
+    {
+      "id": "sanrio-ends-vivant-collaboration-d25c1d",
+      "title": "三丽鸥宣布终止与《VIVANT》的联名合作",
+      "description": "三丽鸥宣布终止与日本电视剧《VIVANT》的联名合作，并停止所有后续项目和宣传活动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T07:32:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/sanrio-ends-vivant-collaboration-d25c1d",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "日经",
+        "财新"
+      ],
+      "section": "life",
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "hongguo-green-bubble-short-drama-race-569347",
+      "title": "李亮称短剧与传统影视剧没有本质区别",
+      "description": "抖音集团副总裁李亮10月29日在社交平台再次谈及短剧，称短剧与传统影视剧的差别主要在载体和表现形式，不能简单分出高下。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T07:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/hongguo-green-bubble-short-drama-race-569347",
+      "reference": [
+        "第一财经",
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "tech",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "jiangsu-universities-shift-digital-yuan-payroll-c516a7",
+      "title": "江苏多所高校将逐步用数字人民币发工资",
+      "description": "江苏扬州大学、南通大学、江苏师范大学等高校近日发布通知，编制内在职教职工工资将逐步通过数字人民币钱包发放。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:52:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/jiangsu-universities-shift-digital-yuan-payroll-c516a7",
+      "reference": [
+        "中央通訊社",
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "dusuki-convenes-financial-crime-taskforce-9c59bb",
+      "title": "杜苏基召开金融犯罪特别小组首次会议",
+      "description": "马来西亚总检察长杜苏基昨日召集金融犯罪特别小组举行首次会议，讨论确定小组成员名单及调查范围。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:47:20+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/dusuki-convenes-financial-crime-taskforce-9c59bb",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "gmo-requests-active-cyber-defense-cc7ba4",
+      "title": "GMO称发布客户信息的勒索网站已停止运作",
+      "description": "GMO互联网集团表示，上传攻击者声称通过非法访问取得的客户个人信息的勒索网站已停止运作，普通用户目前无法访问。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/gmo-requests-active-cyber-defense-cc7ba4",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "日本放送协会",
+        "中央通訊社"
+      ],
+      "section": "world",
+      "sourceCount": 21,
+      "sources": []
+    },
+    {
+      "id": "alphabet-q3-revenue-profit-miss-estimates-9485a4",
+      "title": "Alphabet财报逊预期后股价跌超10%",
+      "description": "Alphabet于美东时间10月28日公布2026年第三季度财报，营收和摊薄后每股收益均低于市场预期。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:39:25+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/alphabet-q3-revenue-profit-miss-estimates-9485a4",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "第一财经",
+        "公视"
+      ],
+      "section": "business",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "san-francisco-high-tide-breaks-october-record-4add89",
+      "title": "异常高潮淹没美国多地沿海社区",
+      "description": "10月27日至29日，美国加利福尼亚州多个沿海社区遭异常高潮侵袭，海水漫上道路并淹入住宅和商铺，部分道路关闭；佛罗里达州、南卡罗来纳州沿海也受大潮影响，部分地区出现街道积水。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:36:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/san-francisco-high-tide-breaks-october-record-4add89",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "new-york-medicaid-aba-cuts-disrupt-care-39936a",
+      "title": "纽约州三度下调白卡ABA费率家庭转介受阻",
+      "description": "纽约州自2026年10月1日起第三次下调白卡（Medicaid）应用行为分析（ABA）服务支付费率。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/new-york-medicaid-aba-cuts-disrupt-care-39936a",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "pew-asian-voters-two-thirds-naturalized-68c4a1",
+      "title": "皮尤称归化公民占亚裔合格选民近三分之二",
+      "description": "皮尤研究中心10月27日发布的分析显示，美国约有1250万名具备投票资格的亚裔公民，其中约810万人出生于海外，后来归化成为美国公民。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/pew-asian-voters-two-thirds-naturalized-68c4a1",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-government-subpoenas-thirteen-states-voter-records-a15013",
+      "title": "路透社称特朗普政府向13州发出百余张传票",
+      "description": "据路透社调查报道，特朗普政府已向美国13个州发出100多张传票，要求州及地方选举官员提供数万名选民的详细记录，以调查非公民投票及其他选举舞弊线索。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/trump-government-subpoenas-thirteen-states-voter-records-a15013",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-vance-obama-campaign-midterms-b65e7a",
+      "title": "特朗普、范斯和奥巴马赴三州为候选人助选",
+      "description": "美国期中选举定于下周二投票。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/trump-vance-obama-campaign-midterms-b65e7a",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "john-liu-bill-requires-dmv-identity-check-a99465",
+      "title": "刘醇逸提案要求纽约州DMV处罚前核实身份",
+      "description": "纽约州参议员刘醇逸与州众议员金兑锡、胡可丝及多族裔社区代表10月28日在皇后区大学点DMV办公室前举行记者会，宣布提出S10729。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/john-liu-bill-requires-dmv-identity-check-a99465",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "nyt-peltola-campaign-recruited-sullivan-spoiler-4855b0",
+      "title": "纽时报称佩尔托拉阵营招募同名候选人分散苏利文选票",
+      "description": "据《纽约时报》报道，玛丽·佩尔托拉的竞选团队和民主党参议院竞选委员会（DSCC）高级幕僚曾参与招募丹尼尔·J·苏利文竞选阿拉斯加州联邦参议员，意在分散现任共和党参议员丹·S·苏利文的选票。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-peltola-campaign-recruited-sullivan-spoiler-4855b0",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-midterm-election-congress-control-164251",
+      "title": "七个摇摆州选战左右参院控制权",
+      "description": "美国将于11月3日举行中期选举，众议院435席将全部改选，参议院100席中有35席改选。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
+      "reference": [
+        "世界日报",
+        "英国广播公司"
+      ],
+      "section": "us",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "new-york-early-voting-begins-85d659",
+      "title": "纽约市提前投票四天报到人数增七成",
+      "description": "纽约市2026年期中选举提前投票前四天共有29万4604名选民完成投票报到，较2022年同期的17万1777人增加约七成。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/new-york-early-voting-begins-85d659",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "taiwan-geneva-envoy-bullying-finding-503896",
+      "title": "外交部认定李冠德部分行为构成霸凌并降调",
+      "description": "台湾外交部调查驻日内瓦办事处长李冠德的职场霸凌申诉后，认定其部分行为构成职场霸凌，已将其调离处长职务，并降调至外交部条约法律司。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:22:56+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/taiwan-geneva-envoy-bullying-finding-503896",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "the-paper-finds-fake-appliance-support-listings-b31cce",
+      "title": "澎湃复测发现家电仿冒售后信息仍在多平台出现",
+      "description": "澎湃新闻10月29日上午复测此前发现的家电仿冒售后网页和电话，发现相关信息仍出现在搜索引擎及社交平台，部分页面和号码已被更改或无法使用。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/the-paper-finds-fake-appliance-support-listings-b31cce",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "north-korea-fires-suspected-ballistic-missile-16e413",
+      "title": "朝鲜从元山向东海发射十余枚短程弹道导弹",
+      "description": "朝鲜29日中午从元山地区向东海发射十余枚短程弹道导弹。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:17:04+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/north-korea-fires-suspected-ballistic-missile-16e413",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "韩国国际广播电台"
+      ],
+      "section": "asia",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "doge-cuts-hit-washington-virginia-election-80b3f9",
+      "title": "DOGE裁员冲击大华府经济成维州选举议题",
+      "description": "特朗普政府通过政府效率部（DOGE）削减联邦人力带来的经济影响，已成为弗吉尼亚州选举议题。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/doge-cuts-hit-washington-virginia-election-80b3f9",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "san-francisco-genentech-scientist-mgm15-overdose-death-8c3805",
+      "title": "旧金山科学家死亡，血液检出MGM-15",
+      "description": "据《旧金山纪事报》报道，旧金山37岁的Genentech数据科学家罗伯特·舒尔特死亡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/san-francisco-genentech-scientist-mgm15-overdose-death-8c3805",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
+      "title": "弗拉维奥抵达迈阿密称将海外组织反卢拉活动",
+      "description": "巴西总统选举落败的参议员弗拉维奥·博索纳罗10月28日携妻子和两个女儿抵达美国佛罗里达州迈阿密。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:16:41+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "法广",
+        "财新"
+      ],
+      "section": "world",
+      "sourceCount": 18,
+      "sources": []
+    },
+    {
+      "id": "meta-third-quarter-revenue-rises-26-percent-127637",
+      "title": "加州亿万富豪税民调支持率跌至反对率之下",
+      "description": "加州第40号提案拟对符合条件的州内亿万富豪净资产一次性征收5%的税。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/meta-third-quarter-revenue-rises-26-percent-127637",
+      "reference": [
+        "中央通訊社",
+        "澎湃新闻",
+        "世界日报",
+        "法广"
+      ],
+      "section": "business",
+      "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "arizona-police-arrest-walmart-fraud-suspects-787e16",
+      "title": "亚利桑那警方逮捕六名涉沃尔玛网购诈骗嫌疑人",
+      "description": "亚利桑那州警方10月22日在凤凰城都会区多处地点执行搜查令，逮捕六名涉嫌盗用沃尔玛客户账户及银行卡资料网购、再将商品转运越南的嫌疑人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/arizona-police-arrest-walmart-fraud-suspects-787e16",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "atlantic-reports-hegseth-fires-j5-chief-sylvia-2b74bd",
+      "title": "赫格塞斯解除陆军中将西尔维亚的J5主管职务",
+      "description": "美国国防部长赫格塞斯于10月28日解除陆军中将西尔维亚在五角大楼参谋长联席会议战略、计划与政策部（J5）的主管职务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/atlantic-reports-hegseth-fires-j5-chief-sylvia-2b74bd",
+      "reference": [
+        "世界日报",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "harvard-asian-freshmen-share-hits-record-a4f863",
+      "title": "哈佛2030届亚裔新生比例升至43.2%",
+      "description": "哈佛大学10月27日公布2030届（2030年毕业）新生族裔数据，亚裔占43.2%，创该校新高，高于2029届的41%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/harvard-asian-freshmen-share-hits-record-a4f863",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "gallagher-warns-ai-rivalry-boosts-beijing-taiwan-invasion-a010c2",
+      "title": "加拉格尔警告人工智能竞争或增强北京攻台动机",
+      "description": "Palantir防务主管迈克·加拉格尔10月28日在印第安纳州与共和党参议员吉姆·班克斯共同出席防务政策活动时警告，中美争夺人工智能主导权可能增强北京攻台动机。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:12:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/gallagher-warns-ai-rivalry-boosts-beijing-taiwan-invasion-a010c2",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "chicago-early-voting-rises-midterms-4f55f5",
+      "title": "芝加哥提前投票人数较上届期中选举增近三成",
+      "description": "芝加哥选举委员会公布的统计显示，截至10月26日晚，已有80,755名选民参加期中选举提前投票，较2022年期中选举同期增加近三成。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/chicago-early-voting-rises-midterms-4f55f5",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "parents-use-ai-manage-household-6e8dcd",
+      "title": "家长借助生成式人工智能管理家庭事务",
+      "description": "生成式人工智能正被越来越多家长用于家庭管理，涉及安排日程、寻找幼儿园、采购日用品和整理家庭账目。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/parents-use-ai-manage-household-6e8dcd",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "pritzker-donates-40-million-democrats-113e41",
+      "title": "普利兹克2025年以来捐出至少4000万美元助民主党",
+      "description": "伊利诺伊州州长JB普利兹克自2025年以来，已向全美民主党候选人及相关政治组织捐款至少4000万美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:07:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/pritzker-donates-40-million-democrats-113e41",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "taiwan-drug-driving-rules-start-october-31-c431d4",
+      "title": "台湾毒驾新规10月31日实施 首犯拒测罚27万元",
+      "description": "台湾毒驾新规将于10月31日实施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:06:07+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/taiwan-drug-driving-rules-start-october-31-c431d4",
+      "reference": [
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "anthropic-hires-executive-communications-writer-236adf",
+      "title": "Anthropic以高薪招聘执行传播撰稿人",
+      "description": "Anthropic为执行传播撰稿人开出年薪29.5万至34.5万元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/anthropic-hires-executive-communications-writer-236adf",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "dolores-huerta-dies-cancer-bakersfield-971227",
+      "title": "劳工与女权领袖韦尔塔因癌症去世享年96岁",
+      "description": "美国劳工领袖、女权主义者和民权运动人物多洛雷斯·韦尔塔于2026年10月28日在加州贝克斯菲尔德市家中因癌症去世，享年96岁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/dolores-huerta-dies-cancer-bakersfield-971227",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "doordash-reportedly-in-talks-to-buy-instacart-371247",
       "title": "DoorDash据报洽购Instacart",
@@ -214,46 +836,6 @@
       "sources": []
     },
     {
-      "id": "sanrio-ends-vivant-collaboration-d25c1d",
-      "title": "三丽鸥致歉并叫停《别班》联名及后续活动",
-      "description": "三丽鸥（上海）国际贸易有限公司10月28日晚通过微博声明，为与日本TBS电视台剧集《VIVANT》（《别班》）推出联名商品引发的担忧致歉，并决定终止联名及所有后续项目和宣传活动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T05:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/sanrio-ends-vivant-collaboration-d25c1d",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "日经",
-        "财新"
-      ],
-      "section": "life",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "north-korea-fires-suspected-ballistic-missile-16e413",
-      "title": "韩国军方称朝鲜从元山一带向东部海域发射约十枚短程弹道导弹",
-      "description": "韩国军方称，朝鲜从东部海岸江原道元山一带向东部海域发射约10枚短程弹道导弹。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T05:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/north-korea-fires-suspected-ballistic-missile-16e413",
-      "reference": [
-        "共同网",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "ice-election-visits-voter-intimidation-concerns-eb3ecd",
       "title": "美司法部承诺FBI和ICE人员不担任投票站监督员",
       "description": "美国司法部10月28日向联邦法院提交文件，承诺联邦调查局（FBI）和移民与海关执法局（ICE）的特工及雇员不会担任2026年中期选举投票站监督员。",
@@ -312,27 +894,6 @@
       ],
       "section": "world",
       "sourceCount": 10,
-      "sources": []
-    },
-    {
-      "id": "meta-third-quarter-revenue-rises-26-percent-127637",
-      "title": "加州亿万富翁中期选举捐款创纪录达6.12亿美元",
-      "description": "加州70多位亿万富翁向2026年中期选举投入创纪录的6.12亿美元，其中至少2.93亿美元用于反对第40号提案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T04:55:51.965863+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/meta-third-quarter-revenue-rises-26-percent-127637",
-      "reference": [
-        "中央通訊社",
-        "澎湃新闻",
-        "世界日报",
-        "法广"
-      ],
-      "section": "business",
-      "sourceCount": 11,
       "sources": []
     },
     {
@@ -415,26 +976,6 @@
       "sources": []
     },
     {
-      "id": "alphabet-q3-revenue-profit-miss-estimates-9485a4",
-      "title": "Alphabet财报不及预期盘后股价一度跌超10%",
-      "description": "Alphabet于10月28日公布2026年第三季度财报，营收和利润低于市场预期，自由现金流连续第二个季度为负。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T04:52:51.966394+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/alphabet-q3-revenue-profit-miss-estimates-9485a4",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "kumamoto-quake-kills-38-over-1000-in-shelters-0ffabd",
       "title": "熊本地震相关死亡38人含2例疑似逾千人仍在避难所",
       "description": "熊本县公布的灾后统计显示，熊本地震已在县内造成38人死亡，其中包括2例疑似灾害间接死亡。",
@@ -486,24 +1027,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "atlantic-reports-hegseth-fires-j5-chief-sylvia-2b74bd",
-      "title": "《大西洋》称赫塞斯解雇美军J5主管西尔维亚",
-      "description": "据《大西洋》杂志率先报道，美国国防部长赫塞斯于10月28日解除陆军中将布雷特·西尔维亚的职务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T04:43:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/atlantic-reports-hegseth-fires-j5-chief-sylvia-2b74bd",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -656,27 +1179,6 @@
       "sources": []
     },
     {
-      "id": "brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
-      "title": "弗拉维奥抵达迈阿密称将在海外领导反对派",
-      "description": "巴西总统选举落败的参议员弗拉维奥·博索纳罗于美东时间10月28日上午约9时30分抵达美国佛罗里达州迈阿密。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T04:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "法广",
-        "财新"
-      ],
-      "section": "world",
-      "sourceCount": 17,
-      "sources": []
-    },
-    {
       "id": "china-clean-tech-exports-cut-emissions-206455",
       "title": "芬兰研究机构称中国清洁技术出口助减排4.5亿吨",
       "description": "芬兰能源与清洁空气研究中心（CREA）星期四（10月29日）发布报告，评估中国清洁能源技术出口带来的减排效果。",
@@ -729,24 +1231,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "hongguo-green-bubble-short-drama-race-569347",
-      "title": "李亮称短剧与传统影视剧核心都在内容质量",
-      "description": "抖音集团副总裁李亮10月29日发文称，微短剧与传统影视剧并不存在本质上的高下之分，差别更多在播放载体与表达形态，作品最终仍要靠内容吸引观众。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T03:57:43.676590+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/hongguo-green-bubble-short-drama-race-569347",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "tech",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1317,25 +1801,6 @@
       "sources": []
     },
     {
-      "id": "us-midterm-election-congress-control-164251",
-      "title": "七个摇摆州选情胶着参议院控制权待决",
-      "description": "美国中期选举定于11月3日举行，众议院435个席位将全部改选，参议院100个席位中有35席进入选举。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T01:05:46+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
-      "reference": [
-        "世界日报",
-        "英国广播公司"
-      ],
-      "section": "us",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
       "id": "brazil-election-shapes-us-china-policy-cfa79a",
       "title": "卢拉以51.79%得票率赢得巴西总统连任",
       "description": "巴西高等选举法院10月25日晚公布总统选举第二轮最终结果，现任总统卢拉以51.79%的有效选票击败自由党候选人弗拉维奥·博索纳罗，后者得票率为48.21%，两人相差约440万票。",
@@ -1851,60 +2316,6 @@
       "sources": []
     },
     {
-      "id": "san-francisco-genentech-scientist-mgm15-overdose-death-8c3805",
-      "title": "据报基因泰克科学家疑因MGM-15过量死亡",
-      "description": "据世界日报援引《旧金山纪事报》报道，旧金山37岁Genentech数据科学家Robert Schuldt疑因MGM-15过量死亡。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T20:36:07+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/san-francisco-genentech-scientist-mgm15-overdose-death-8c3805",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "john-liu-bill-requires-dmv-identity-check-a99465",
-      "title": "刘醇逸提案要求纽约州DMV处罚前核验驾驶者身份",
-      "description": "纽约州参议员刘醇逸提出S10729法案，要求纽约州车辆管理局（DMV）在对驾驶者作出不利行政处理前核实其身份，减少因同名误认而遭错误处罚的情况。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T20:00:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/john-liu-bill-requires-dmv-identity-check-a99465",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "harvard-asian-freshmen-share-hits-record-a4f863",
-      "title": "哈佛2030届亚裔新生占比升至43.2%",
-      "description": "哈佛大学10月27日公布2030届新生族裔统计，亚裔占比为43.2%，创该校新高，高于2029届的41%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T19:30:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/harvard-asian-freshmen-share-hits-record-a4f863",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "iran-parliament-npt-withdrawal-plan-ready-f6eb61",
       "title": "阿齐兹称伊朗议会备妥退出《不扩散核武器条约》计划",
       "description": "伊朗议会退出《不扩散核武器条约》的方案已完成准备工作，该国议会国家安全与外交政策委员会主席阿齐兹于当地时间28日作出上述表态。",
@@ -1938,27 +2349,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-backs-netanyahu-reelection-d6e4fe",
-      "title": "以色列初步计票显示内塔尼亚胡阵营领先但未过半",
-      "description": "以色列中央选举委员会10月28日公布的议会选举初步计票结果显示，总理本雅明·内塔尼亚胡领导的右翼阵营预计获得53席，领先加迪·埃森科特领导的反对派阵营，后者预计获得48席。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T16:21:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/trump-backs-netanyahu-reelection-d6e4fe",
-      "reference": [
-        "联合早报",
-        "法广",
-        "日本放送协会",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 45,
       "sources": []
     },
     {
@@ -1998,24 +2388,6 @@
       "sources": []
     },
     {
-      "id": "pritzker-donates-40-million-democrats-113e41",
-      "title": "芝加哥太阳报称普立兹克捐至少4000万美元助民主党",
-      "description": "《世界日报》援引《芝加哥太阳报》报道，伊利诺伊州州长JB普立兹克自2025年以来向全美民主党候选人及相关政治组织捐款至少4000万美元，帮助民主党争取今年期中选举席位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T15:05:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/pritzker-donates-40-million-democrats-113e41",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "wee-ka-siong-leads-mca-walkout-0f6e71",
       "title": "马华接受国阵安排竞逐马六甲州选两席",
       "description": "马华公会（马华）已同意以国民阵线（国阵）名义参加马六甲州选，竞逐两个州议席，围绕议席分配的争议告一段落。",
@@ -2032,24 +2404,6 @@
       ],
       "section": "asia",
       "sourceCount": 11,
-      "sources": []
-    },
-    {
-      "id": "doge-cuts-hit-washington-virginia-election-80b3f9",
-      "title": "DOGE裁员冲击华府经济成弗州期中选举议题",
-      "description": "川普政府通过政府效率部（DOGE）推动大规模削减联邦人力，冲击华盛顿及周边地区的就业、消费和房地产市场，并成为弗吉尼亚州期中选举议题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T14:57:22+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/doge-cuts-hit-washington-virginia-election-80b3f9",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2089,24 +2443,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "pew-asian-voters-two-thirds-naturalized-68c4a1",
-      "title": "皮尤研究中心称亚裔合格选民近三分之二为归化公民",
-      "description": "皮尤研究中心27日公布的分析显示，美国约有1250万名亚裔公民具备投票资格，其中约810万人出生于海外、后来归化入籍，占亚裔合格选民的64.7%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T14:32:34+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/pew-asian-voters-two-thirds-naturalized-68c4a1",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2390,27 +2726,6 @@
       "sources": []
     },
     {
-      "id": "indonesia-minister-orders-emergency-peat-burning-ban-aeceea",
-      "title": "新加坡印尼加强沟通追究涉林火企业责任",
-      "description": "新加坡外长维文与印尼外长阿曼纳塔就跨境烟霾应对和涉林火企业问责加强合作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T12:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/indonesia-minister-orders-emergency-peat-burning-ban-aeceea",
-      "reference": [
-        "联合早报",
-        "公视",
-        "财新",
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 17,
-      "sources": []
-    },
-    {
       "id": "trump-claims-venezuela-oil-texas-910380",
       "title": "特朗普宣布首批百万桶委内瑞拉原油抵港",
       "description": "美国总统特朗普27日在德州拉伯克和圣体港为共和党参议员候选人肯·派克斯顿助选，并称首批100万桶委内瑞拉原油已抵达圣体港，之后将在德州炼化。",
@@ -2451,45 +2766,6 @@
       "sources": []
     },
     {
-      "id": "gmo-requests-active-cyber-defense-cc7ba4",
-      "title": "GMO云服务遭黑客入侵据称客户信息被公开",
-      "description": "日本GMO互联网集团外汇交易相关云服务遭黑客非法入侵，攻击者声称公开了据称属于客户的信息，部分账户出现未经授权交易。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T12:51:29+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/gmo-requests-active-cyber-defense-cc7ba4",
-      "reference": [
-        "共同网",
-        "联合早报",
-        "日本放送协会",
-        "中央通訊社"
-      ],
-      "section": "world",
-      "sourceCount": 20,
-      "sources": []
-    },
-    {
-      "id": "bersih-criticizes-loke-taxi-aid-announcement-bff618",
-      "title": "净选盟批评陆兆福在竞选活动宣布千令吉德士援助",
-      "description": "交通部长陆兆福在马六甲州选希盟候选人公布仪式上宣布，将向当地德士司机发放特别财务援助，1000令吉。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T12:41:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/bersih-criticizes-loke-taxi-aid-announcement-bff618",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-2027-civil-service-exam-applications-close-df0cb3",
       "title": "2027年国考过审人数七年来首次下降",
       "description": "2027年度中央机关及其直属机构公务员考试报名和资格审查工作已经结束，共有345万人通过用人单位审核，比2026年度少26.8万人，降幅为7.2%。",
@@ -2511,43 +2787,6 @@
       "sources": []
     },
     {
-      "id": "philippine-peso-hits-record-low-6e6b7b",
-      "title": "菲律宾比索盘中跌至兑美元历史新低",
-      "description": "菲律宾比索10月28日盘中跌至兑美元历史新低，开盘时1美元兑换64.04比索，随后一度跌至64.18比索，高于前一日64.17比索的纪录。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T12:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/philippine-peso-hits-record-low-6e6b7b",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "san-francisco-high-tide-breaks-october-record-4add89",
-      "title": "加州异常高潮淹没沿岸道路并导致多地封闭",
-      "description": "加州沿海异常高潮造成多地海水倒灌和道路封闭。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T11:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/san-francisco-high-tide-breaks-october-record-4add89",
-      "reference": [
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "russian-submarine-tests-bulava-missile-4223a1",
       "title": "俄战略核潜艇水下成功试射布拉瓦洲际导弹",
       "description": "俄罗斯战略核潜艇“苏沃洛夫大元帅”号在鄂霍次克海水下成功试射一枚“布拉瓦”洲际弹道导弹。",
@@ -2560,24 +2799,6 @@
       "url": "https://kaopu.news/story/2026-10-28/russian-submarine-tests-bulava-missile-4223a1",
       "reference": [
         "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "merz-germany-japan-explore-fighter-development-1401c5",
-      "title": "默茨称德日探讨联合研发制造作战飞机",
-      "description": "德国总理默茨星期三（10月28日）在东京表示，德日正在商议携手研发和生产作战飞机的可能性。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T11:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/merz-germany-japan-explore-fighter-development-1401c5",
-      "reference": [
-        "联合早报"
       ],
       "section": "world",
       "sourceCount": 1,
@@ -2728,24 +2949,6 @@
         "中央通訊社"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "dan-bongino-urges-three-day-supplies-f2e088",
-      "title": "邦吉诺呼吁美国民众备足三天应急物资",
-      "description": "美国联邦调查局前副局长丹·邦吉诺10月26日在播客节目中敦促美国民众为家庭备好至少三天的食物、饮水及其他应急用品。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T08:03:46+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/dan-bongino-urges-three-day-supplies-f2e088",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -2951,66 +3154,6 @@
       "sources": []
     },
     {
-      "id": "trump-revokes-biden-methane-limits-017fb7",
-      "title": "特朗普宣布环保署将放宽油气甲烷规定",
-      "description": "美国总统特朗普10月27日在得州拉伯克的竞选集会上宣布，美国环保署将提出大幅放宽拜登政府油气行业甲烷排放规定的方案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T06:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/trump-revokes-biden-methane-limits-017fb7",
-      "reference": [
-        "联合早报",
-        "第一财经",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "trump-offers-million-dollar-election-fraud-reward-69e72f",
-      "title": "特朗普悬赏百万美元征集选举舞弊线索",
-      "description": "美国总统特朗普10月26日宣布悬赏100万美元，征集过去选举或2026年期中选举中的选民舞弊线索。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T06:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/trump-offers-million-dollar-election-fraud-reward-69e72f",
-      "reference": [
-        "联合早报",
-        "世界日报",
-        "澎湃新闻",
-        "公视"
-      ],
-      "section": "us",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "reuters-ipsos-poll-us-democrats-lead-midterms-8ef9d3",
-      "title": "民主党在国会选举民调中领先共和党",
-      "description": "美国期中选举前的最新民调显示，民主党在国会选举投票意向上领先共和党，特朗普支持率小幅回升至32%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T06:21:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/reuters-ipsos-poll-us-democrats-lead-midterms-8ef9d3",
-      "reference": [
-        "联合早报",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "irs-announces-savers-match-retirement-subsidy-f8fda0",
       "title": "美国国税局公布退休储蓄配对细则 2027年起实施",
       "description": "美国国税局公布“储蓄者配对”计划细则。",
@@ -3044,24 +3187,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ice-releases-migrants-california-stranded-236375",
-      "title": "ICE被指在加州释放外州移民致部分人难返家",
-      "description": "据《沙加缅度蜜蜂报》报道，美国地方官员和移民权益倡导者指称，ICE在加州弗雷斯诺和贝克斯菲尔德的拘留中心释放了来自加州以外的被拘留者，涉及最多29个州。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T06:17:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/ice-releases-migrants-california-stranded-236375",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3119,61 +3244,6 @@
       "sources": []
     },
     {
-      "id": "cdc-report-lists-drug-resistant-pathogens-4c9513",
-      "title": "美国疾控中心报告列出19种抗药性病原体",
-      "description": "美国疾病控制与预防中心（CDC）10月27日发布抗药性病原体评估报告，指出19种病原体每年在美国造成约970万人感染、5万800人死亡。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T06:14:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/cdc-report-lists-drug-resistant-pathogens-4c9513",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "elliott-indiana-treasurer-rejects-china-protest-taiwan-c0cf02",
-      "title": "印州财长公布中领馆抗议信称将续对台合作",
-      "description": "美国印第安纳州财务长丹尼尔·艾略特10月27日在脸书公开中国驻芝加哥总领事馆发给其办公室的抗议信，并表示印州将继续与台湾开展经济合作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T06:14:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/elliott-indiana-treasurer-rejects-china-protest-taiwan-c0cf02",
-      "reference": [
-        "世界日报",
-        "中央通訊社"
-      ],
-      "section": "us",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "states-election-officials-drill-federal-interference-a6e682",
-      "title": "多州选务官员演练应对联邦干预选举",
-      "description": "据《纽约时报》27日报道，距11月3日美国选举日不足一周，多州及地方选务官员正演练应对联邦介入选举的情境。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T06:13:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/states-election-officials-drill-federal-interference-a6e682",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "retailers-ai-pricing-personalized-pricing-concerns-b9a74d",
       "title": "零售商用AI调价引发个性化定价担忧",
       "description": "连锁餐厅和大型零售商开始使用电子价格标签，并借助人工智能工具预测顾客反应辅助定价，消费者担心日常商品也会出现“同品不同价”。",
@@ -3192,24 +3262,6 @@
       "sources": []
     },
     {
-      "id": "garden-hope-sandra-ung-flushing-domestic-violence-awareness-cca4b0",
-      "title": "纽约励馨携黄敏仪在法拉盛宣传家暴防治",
-      "description": "纽约励馨与市议员黄敏仪于2026年10月26日在法拉盛缅街地铁站举行“紫色日”活动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/garden-hope-sandra-ung-flushing-domestic-violence-awareness-cca4b0",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "anthropic-acquires-mithril-medicine-b0dc2a",
       "title": "Anthropic收购一人药企推进药物研发",
       "description": "Anthropic于当地时间10月27日披露，已收购生物技术公司Mithril Medicine。",
@@ -3224,24 +3276,6 @@
         "第一财经"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "singapore-moe-plans-kindergarten-full-day-service-1efead",
-      "title": "新加坡教育部将逐步推行幼儿园全日制服务",
-      "description": "新加坡教育部宣布，2027年将在立伟小学的MK@Rivervale和维新小学的MK@West View试行全日制服务，面向5至6岁儿童；教育部计划于2028年至2030年分阶段将这一模式推广至所有教育部幼儿园。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T04:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/singapore-moe-plans-kindergarten-full-day-service-1efead",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -3372,27 +3406,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-tax-agency-offshore-trust-tax-filing-299e9c",
-      "title": "离岸信托个税过渡期届满部分持有人仍未申报",
-      "description": "中国离岸信托个人所得税90天申报过渡期于10月22日届满，部分持有人已完成申报，仍有部分尚未办理；税务部门已向相关个人送达核查及申报通知。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T02:12:35+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-19",
-      "url": "https://kaopu.news/story/2026-10-19/china-tax-agency-offshore-trust-tax-filing-299e9c",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "财新",
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 11,
       "sources": []
     },
     {
@@ -3903,24 +3916,6 @@
       "sources": []
     },
     {
-      "id": "openai-gpt-6-1-terra-api-price-cut-4ddd82",
-      "title": "OpenAI推出Terra模型并将API价格减半",
-      "description": "OpenAI于10月26日发布GPT-6.1 Terra，主打视觉理解和计算机操作，并将标准API费率降至GPT-5.6 Terra的一半。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T06:10:41.881973+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/openai-gpt-6-1-terra-api-price-cut-4ddd82",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "lauren-yee-king-yees-family-roots-cc6846",
       "title": "余秀菊半自传喜剧在曼哈顿演绎父女寻根",
       "description": "余秀菊的半自传喜剧《King of the Yees》正在曼哈顿中城的Signature Center上演，演出安排已公布至11月15日。",
@@ -3971,24 +3966,6 @@
         "韩民族日报"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "singapore-launches-marvel-ai-materials-research-be0319",
-      "title": "新加坡推出MARVEL-AI加快先进材料研发",
-      "description": "新加坡副总理兼能源贸工部长（贸易）颜金勇10月27日在“2026年新加坡科技创新周”宣布推出材料加速研究与创投启动平台（MARVEL-AI），并在新加坡科技研究局（A*STAR）设立人工智能自动化实验室。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T04:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/singapore-launches-marvel-ai-materials-research-be0319",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "ai",
       "sourceCount": 1,
       "sources": []
     },
