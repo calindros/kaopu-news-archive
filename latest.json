@@ -3,17 +3,55 @@
     "date": "2026-10-29",
     "timestamp": 1793287290,
     "totalPages": 1,
-    "total": 269
+    "total": 271
   },
   "stories": [
     {
-      "id": "alphabet-q3-revenue-profit-miss-estimates-9485a4",
-      "title": "Alphabet财报逊预期后股价盘后跌逾10%",
-      "description": "Alphabet于当地时间10月28日美股收盘后公布截至9月30日的2026年第三季度业绩。",
+      "id": "volkswagen-unveils-china-developed-vega-15c4b3",
+      "title": "大众中国发布本土自研VEGA技术矩阵",
+      "description": "大众中国10月28日发布由中国团队主导开发的“VEGA”一体化技术矩阵，整合整车平台、电子电气架构和高级驾驶辅助系统。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-29T13:56:12+00:00",
+      "updatedAt": "2026-10-29T15:09:38.454096+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/volkswagen-unveils-china-developed-vega-15c4b3",
+      "reference": [
+        "联合早报",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "ecb-holds-eurozone-key-rates-steady-85ffff",
+      "title": "欧洲央行决定维持三大关键利率不变",
+      "description": "欧洲央行10月29日决定维持欧元区三大关键利率不变：存款机制利率为2.50%，主要再融资利率为2.65%，边际借贷利率为2.90%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T14:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/ecb-holds-eurozone-key-rates-steady-85ffff",
+      "reference": [
+        "中央通訊社",
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "alphabet-q3-revenue-profit-miss-estimates-9485a4",
+      "title": "Alphabet财报低于预期谷歌股价一度跌逾13%",
+      "description": "Alphabet于当地时间10月28日美股收盘后公布2026年第三季度财报，营收和每股收益均未达到市场预期，自由现金流连续第二个季度为负。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T14:40:37.127800+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-29",
       "url": "https://kaopu.news/story/2026-10-29/alphabet-q3-revenue-profit-miss-estimates-9485a4",
@@ -24,7 +62,123 @@
         "公视"
       ],
       "section": "business",
-      "sourceCount": 7,
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "trump-backs-netanyahu-reelection-d6e4fe",
+      "title": "以色列大选计票近完成两阵营均未过半",
+      "description": "以色列10月27日国会选举的计票已接近完成。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T14:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-18",
+      "url": "https://kaopu.news/story/2026-10-18/trump-backs-netanyahu-reelection-d6e4fe",
+      "reference": [
+        "联合早报",
+        "法广",
+        "日本放送协会",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 48,
+      "sources": []
+    },
+    {
+      "id": "koizumi-philippines-asean-defense-meeting-aced43",
+      "title": "中国派国防武官出席东盟防长扩大会议",
+      "description": "第13届东盟防长扩大会议10月29日在菲律宾宿务举行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T14:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/koizumi-philippines-asean-defense-meeting-aced43",
+      "reference": [
+        "共同网",
+        "澎湃新闻",
+        "联合早报",
+        "法广"
+      ],
+      "section": "asia",
+      "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "us-third-quarter-gdp-growth-beats-forecasts-41a290",
+      "title": "美国三季度经济增长3.4%超出市场预期",
+      "description": "美国商务部10月29日公布的初值显示，美国第三季度GDP按季调后折年率增长3.4%，高于第二季度的2.2%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T14:04:55+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/us-third-quarter-gdp-growth-beats-forecasts-41a290",
+      "reference": [
+        "中央通訊社",
+        "财新",
+        "法广"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "haiti-election-council-announces-2027-vote-dates-143a8a",
+      "title": "海地临时选举委员会公布2027年选举日程",
+      "description": "海地临时选举委员会昨晚公布总统和国会选举安排：首轮投票定于2027年7月18日，第二轮安排在同年10月4日，最终结果计划于10月23日公布。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T14:02:51+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/haiti-election-council-announces-2027-vote-dates-143a8a",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "byd-third-quarter-profit-rises-28-percent-bce7d7",
+      "title": "比亚迪三季度净利润同比增长28%",
+      "description": "比亚迪股份有限公司于10月29日晚间披露2026年第三季度报告。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T13:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/byd-third-quarter-profit-rises-28-percent-bce7d7",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "pag-evergrande-property-control-bid-0c3047",
+      "title": "财新称太盟拟取得恒大物业控股权",
+      "description": "据财新援引接近交易人士称，太盟投资集团拟向恒大物业提出全面收购要约；交易完成后，太盟将取得控股权。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T13:51:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/pag-evergrande-property-control-bid-0c3047",
+      "reference": [
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -45,6 +199,45 @@
       ],
       "section": "us",
       "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "japan-us-launch-sword-27-exercises-4c08b7",
+      "title": "日美启动“利剑27”联合军事演习",
+      "description": "日本和美国于2026年10月19日启动“利剑27”联合军演，菲律宾、法国、德国等也参与其中。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T13:47:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/japan-us-launch-sword-27-exercises-4c08b7",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "spain-trains-collide-kill-46-d000d5",
+      "title": "西班牙列车追撞事故死亡人数升至69人",
+      "description": "西班牙中部托莱多省乌尔达附近10月28日上午发生高速列车追撞，国营铁路公司RENFE运营的列车撞上停在轨道上的私营公司IRYO列车。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T13:32:48+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/spain-trains-collide-kill-46-d000d5",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "法广",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 32,
       "sources": []
     },
     {
@@ -182,24 +375,24 @@
       "sources": []
     },
     {
-      "id": "spain-trains-collide-kill-46-d000d5",
-      "title": "西班牙托莱多高铁相撞事故致69人死亡",
-      "description": "西班牙中部托莱多省两列高速列车相撞事故的死亡人数升至69人。",
+      "id": "sanrio-ends-vivant-collaboration-d25c1d",
+      "title": "三丽鸥终止与日剧《VIVANT》联名合作",
+      "description": "三丽鸥因与日本TBS电视剧《VIVANT》的联名合作引发争议，于10月28日晚宣布停止合作，并在次日通过日本官网发布中日文通知致歉。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-29T13:11:00+00:00",
+      "updatedAt": "2026-10-29T13:03:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/spain-trains-collide-kill-46-d000d5",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/sanrio-ends-vivant-collaboration-d25c1d",
       "reference": [
         "澎湃新闻",
         "联合早报",
-        "法广",
-        "公视"
+        "日经",
+        "财新"
       ],
-      "section": "world",
-      "sourceCount": 31,
+      "section": "life",
+      "sourceCount": 13,
       "sources": []
     },
     {
@@ -571,27 +764,6 @@
         "公视"
       ],
       "section": "asia",
-      "sourceCount": 12,
-      "sources": []
-    },
-    {
-      "id": "sanrio-ends-vivant-collaboration-d25c1d",
-      "title": "三丽鸥终止与《VIVANT》联名并致歉",
-      "description": "三丽鸥（上海）国际贸易有限公司10月28日晚宣布，终止与日本电视剧《VIVANT》的联名合作及所有后续项目、宣传活动，并就此给公众带来的担忧致歉。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T11:35:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/sanrio-ends-vivant-collaboration-d25c1d",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "日经",
-        "财新"
-      ],
-      "section": "life",
       "sourceCount": 12,
       "sources": []
     },
@@ -1274,27 +1446,6 @@
       "sources": []
     },
     {
-      "id": "koizumi-philippines-asean-defense-meeting-aced43",
-      "title": "中国指菲律宾阻碍其参加东盟防长扩大会议",
-      "description": "第13届东盟防长扩大会议10月29日在菲律宾宿务举行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T08:52:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/koizumi-philippines-asean-defense-meeting-aced43",
-      "reference": [
-        "共同网",
-        "澎湃新闻",
-        "联合早报",
-        "法广"
-      ],
-      "section": "asia",
-      "sourceCount": 11,
-      "sources": []
-    },
-    {
       "id": "oscars-international-film-entries-top-100-968380",
       "title": "奥斯卡国际影片报名数量首次突破百部",
       "description": "美国电影艺术与科学学院公布本届奥斯卡最佳国际影片奖报名情况，共有105部影片进入初选，报名数量首次超过100部。",
@@ -1586,27 +1737,6 @@
       ],
       "section": "china",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "trump-backs-netanyahu-reelection-d6e4fe",
-      "title": "以色列初步计票显示内塔尼亚胡阵营领先但未过半",
-      "description": "以色列议会选举计票接近结束，初步结果显示，总理内塔尼亚胡领导的右翼阵营预计取得53席，前军方总参谋长加迪·艾森科特领导的反对派阵营预计取得48席，双方都未达到组建多数政府所需的61席。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T07:36:21+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/trump-backs-netanyahu-reelection-d6e4fe",
-      "reference": [
-        "联合早报",
-        "法广",
-        "日本放送协会",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 47,
       "sources": []
     },
     {
@@ -1965,27 +2095,6 @@
       "sources": []
     },
     {
-      "id": "meta-third-quarter-revenue-rises-26-percent-127637",
-      "title": "加州亿万富豪税民调支持率跌至反对率之下",
-      "description": "加州第40号提案拟对符合条件的州内亿万富豪净资产一次性征收5%的税。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T06:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/meta-third-quarter-revenue-rises-26-percent-127637",
-      "reference": [
-        "中央通訊社",
-        "澎湃新闻",
-        "世界日报",
-        "法广"
-      ],
-      "section": "business",
-      "sourceCount": 12,
-      "sources": []
-    },
-    {
       "id": "arizona-police-arrest-walmart-fraud-suspects-787e16",
       "title": "亚利桑那警方逮捕六名涉沃尔玛网购诈骗嫌疑人",
       "description": "亚利桑那州警方10月22日在凤凰城都会区多处地点执行搜查令，逮捕六名涉嫌盗用沃尔玛客户账户及银行卡资料网购、再将商品转运越南的嫌疑人。",
@@ -2127,24 +2236,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "doordash-reportedly-in-talks-to-buy-instacart-371247",
-      "title": "DoorDash据报洽购Instacart",
-      "description": "据圣荷西信使报援引《华尔街日报》的报道，DoorDash正与Instacart洽谈收购，潜在交易对Instacart的估值约为170亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T06:00:07+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/doordash-reportedly-in-talks-to-buy-instacart-371247",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "business",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2618,25 +2709,6 @@
       "sources": []
     },
     {
-      "id": "south-korea-regulator-probes-financial-hacks-de177b",
-      "title": "青瓦台召开紧急会议应对金融机构连环网络攻击",
-      "description": "韩国总统府青瓦台10月28日召开紧急会议，应对Bithumb、未来资产相关公司和大信证券等金融机构接连发生的网络攻击及信息泄露。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T04:09:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/south-korea-regulator-probes-financial-hacks-de177b",
-      "reference": [
-        "韩国国际广播电台",
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "scientists-may-find-van-gogh-starry-night-sky-6d60d3",
       "title": "科学家认为或已找到梵高《星夜》真实星空",
       "description": "科学家认为，他们或许已经辨认出荷兰画家梵高创作《星夜》时所见的真实星空。",
@@ -2982,27 +3054,6 @@
       "sources": []
     },
     {
-      "id": "brazil-election-shapes-us-china-policy-cfa79a",
-      "title": "卢拉以51.79%得票率赢得巴西总统连任",
-      "description": "巴西高等选举法院10月25日晚公布总统选举第二轮最终结果，现任总统卢拉以51.79%的有效选票击败自由党候选人弗拉维奥·博索纳罗，后者得票率为48.21%，两人相差约440万票。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T01:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/brazil-election-shapes-us-china-policy-cfa79a",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "朝鲜日报",
-        "日经"
-      ],
-      "section": "world",
-      "sourceCount": 46,
-      "sources": []
-    },
-    {
       "id": "china-agrees-adjust-mozambique-debt-schedule-038ec1",
       "title": "中国同意调整莫桑比克部分债务还款时间表",
       "description": "莫桑比克10月26日宣布，中国同意调整该国部分债务的还款时间表。",
@@ -3127,24 +3178,6 @@
         "澎湃新闻"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "uk-pledges-10-billion-ukraine-aid-76ec75",
-      "title": "英国宣布向乌克兰追加百亿英镑援助",
-      "description": "英国财政大臣约翰·希利10月28日在议会下院介绍新政府首份预算案时，宣布增加对乌克兰100亿英镑经济和军事援助。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T23:09:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/uk-pledges-10-billion-ukraine-aid-76ec75",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
