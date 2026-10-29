@@ -1,15 +1,201 @@
 {
   "details": {
     "date": "2026-10-29",
-    "timestamp": 1793266512,
+    "timestamp": 1793269980,
     "totalPages": 1,
-    "total": 260
+    "total": 261
   },
   "stories": [
     {
+      "id": "hong-kong-housing-chief-resigns-over-fire-56173b",
+      "title": "香港房屋局局长何永贤就宏福苑大火辞职",
+      "description": "香港特区政府10月29日公开宏福苑大火独立委员会报告。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T09:01:28+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/hong-kong-housing-chief-resigns-over-fire-56173b",
+      "reference": [
+        "联合早报",
+        "英国广播公司"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "bai-peng-huahong-share-buyback-proposal-ea715c",
+      "title": "白鹏提议华虹宏力回购3亿至5亿元A股",
+      "description": "10月29日，华虹宏力董事会主席兼总裁白鹏提出，公司拟动用3亿至5亿元回购A股。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T09:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/bai-peng-huahong-share-buyback-proposal-ea715c",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tsinghua-forum-focuses-healthy-aging-community-care-6f6fc1",
+      "title": "清华论坛聚焦健康老龄化与社区养老",
+      "description": "清华大学近日举办第六届世界卫生健康论坛，与会者围绕健康寿命增幅落后于预期寿命、健康老龄化和社区养老服务发展展开讨论。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T08:56:35.710736+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/tsinghua-forum-focuses-healthy-aging-community-care-6f6fc1",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-defense-ministry-responds-south-china-sea-drill-d601a4",
+      "title": "中国国防部回应美日菲南海联合演习",
+      "description": "美日菲10月19日至24日在南海举行“海上合作活动”演习。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T08:53:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/china-defense-ministry-responds-south-china-sea-drill-d601a4",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "koizumi-philippines-asean-defense-meeting-aced43",
+      "title": "中国国防部指责菲律宾阻碍中方出席东盟防长会",
+      "description": "中国国防部10月29日指责菲律宾方面为中方参加第13届东盟防长扩大会议设置障碍。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T08:52:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/koizumi-philippines-asean-defense-meeting-aced43",
+      "reference": [
+        "共同网",
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "oscars-international-film-entries-top-100-968380",
+      "title": "奥斯卡国际影片报名数量首次突破百部",
+      "description": "美国电影艺术与科学学院公布本届奥斯卡最佳国际影片奖报名情况，共有105部影片进入初选，报名数量首次超过100部。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T08:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/oscars-international-film-entries-top-100-968380",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-korea-defense-ministers-deepen-north-korea-cooperation-8474d6",
+      "title": "日韩防长同意进一步深化朝鲜核导合作",
+      "description": "日本防卫相小泉进次郎10月28日在菲律宾会见韩国国防部长官姜信哲。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T08:35:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/japan-korea-defense-ministers-deepen-north-korea-cooperation-8474d6",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-peru-fta-upgrade-protocol-takes-effect-598aa5",
+      "title": "中秘自贸协定升级议定书将于11月1日生效",
+      "description": "中秘自贸协定升级议定书将于11月1日生效，双方均已办结各自国内程序。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T08:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/china-peru-fta-upgrade-protocol-takes-effect-598aa5",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-government-announces-43-equity-deals-ee6489",
+      "title": "特朗普政府宣布43项涉股交易累计支出约300亿美元",
+      "description": "特朗普政府第二任期以来加快通过持股和认股权证参与私营企业，已宣布43项相关交易，支出约300亿美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T08:26:36.243503+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/trump-government-announces-43-equity-deals-ee6489",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "steinmeier-china-state-visit-e81e2a",
+      "title": "德国总统施泰因迈尔呼吁中国避免造成单向依赖",
+      "description": "德国总统施泰因迈尔10月29日在北京大学发表演讲，谈及中欧贸易失衡，呼吁中国在增强经济自主能力时，不要让其他国家因依赖中国而陷入脆弱处境。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T08:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/steinmeier-china-state-visit-e81e2a",
+      "reference": [
+        "联合早报",
+        "德国之声",
+        "中央通訊社",
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
       "id": "china-warns-eu-discriminatory-restrictions-e1ec13",
-      "title": "商务部称欧方若歧视性限制中国产品中方将采取必要措施",
-      "description": "中国商务部新闻发言人黄玲10月29日在例行新闻发布会上表示，如果欧方对中国产品采取歧视性限制，中方将采取一切必要措施，维护自身利益和企业合法权益。",
+      "title": "商务部回应欧盟据报研究将混动汽车安排延伸至化工",
+      "description": "中国商务部回应据报欧盟正研究将中欧混合动力汽车贸易谅解安排延伸至化工等领域。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -23,6 +209,43 @@
       ],
       "section": "china",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-fuel-prices-rise-after-state-controls-691a96",
+      "title": "国家发改委压减涨幅后汽柴油价格将上调",
+      "description": "中国国家发展改革委将自10月29日24时起上调汽油、柴油标准品价格，并通过调控压低涨幅。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T08:22:36.244685+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/china-fuel-prices-rise-after-state-controls-691a96",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "tokyo-court-orders-muramatsu-hiromi-pay-li-kotomi-93bfa1",
+      "title": "东京法院判令议员赔偿李琴峰110万日元",
+      "description": "东京地方法院29日判决，甲府市议员村松裕美因在社交平台公开作家李琴峰的跨性别身份及性别变更前的照片、姓名，侵犯其隐私，须赔偿110万日元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T08:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/tokyo-court-orders-muramatsu-hiromi-pay-li-kotomi-93bfa1",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -45,6 +268,45 @@
       "sources": []
     },
     {
+      "id": "unep-ecosystem-restoration-hits-record-d7661c",
+      "title": "联合国报告称全球生态修复面积创历史新高",
+      "description": "联合国环境规划署10月29日发布报告称，全球约有2.52亿公顷自然生态系统正在修复，面积达到历史最高；但要在2030年前修复10亿公顷，各国仍需加快行动并大幅增加资金，尤其要吸引更多私人部门投入。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T08:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/unep-ecosystem-restoration-hits-record-d7661c",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "north-korea-fires-suspected-ballistic-missile-16e413",
+      "title": "朝鲜向日本海发射十余枚短程导弹",
+      "description": "朝鲜于当地时间10月29日中午12时30分左右，在东部元山一带向日本海方向发射十余枚短程弹道导弹。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T08:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/north-korea-fires-suspected-ballistic-missile-16e413",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "韩国国际广播电台",
+        "法广"
+      ],
+      "section": "asia",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
       "id": "universities-cut-undergraduate-credits-c2b914",
       "title": "多所高校压缩本科培养方案总学分",
       "description": "深圳大学已部署修订2027版本科人才培养方案，理工类、师范类专业总学分原则上控制在150学分以内，其他四年制专业不超过140学分；建筑学、医学等专业按国家相关规范执行。",
@@ -60,6 +322,42 @@
       ],
       "section": "life",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-parties-agree-31-seat-cut-b50bff",
+      "title": "日本三党达成众院比例代表减席协议",
+      "description": "日本自民党、日本维新会和国民民主党三党的干事长10月29日在国会会谈，敲定众院选举制度改革方案，其中包括削减31个比例代表议席。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T08:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/japan-parties-agree-31-seat-cut-b50bff",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "siemens-energy-hokkaido-wind-base-375f3b",
+      "title": "日本经产省携手西门子能源推进浮体式海上风电商业化",
+      "description": "日本经济产业省于2026年10月29日公布，已与德国西门子能源达成海上风电合作谅解备忘录。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T08:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/siemens-energy-hokkaido-wind-base-375f3b",
+      "reference": [
+        "共同网"
+      ],
+      "section": "business",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -124,26 +422,6 @@
       "sources": []
     },
     {
-      "id": "koizumi-philippines-asean-defense-meeting-aced43",
-      "title": "中方称菲律宾设障阻碍参会防长缺席扩大会",
-      "description": "中国国防部长未出席在菲律宾宿务举行的第13届东盟防长扩大会议，驻菲律宾使馆国防武官代表中方参会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T07:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/koizumi-philippines-asean-defense-meeting-aced43",
-      "reference": [
-        "共同网",
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 8,
-      "sources": []
-    },
-    {
       "id": "trump-backs-netanyahu-reelection-d6e4fe",
       "title": "以色列初步计票显示内塔尼亚胡阵营领先但未过半",
       "description": "以色列议会选举计票接近结束，初步结果显示，总理内塔尼亚胡领导的右翼阵营预计取得53席，前军方总参谋长加迪·艾森科特领导的反对派阵营预计取得48席，双方都未达到组建多数政府所需的61席。",
@@ -162,6 +440,26 @@
       ],
       "section": "world",
       "sourceCount": 47,
+      "sources": []
+    },
+    {
+      "id": "vance-iran-letter-restart-talks-9fdb42",
+      "title": "《华尔街日报》称范斯致信伊朗官员试探重启谈判",
+      "description": "据《华尔街日报》援引知情人士报道，美国副总统J.D.范斯奉总统唐纳德·特朗普指示，致信伊朗最高国家安全委员会秘书穆赫辛·雷扎伊，试探恢复美伊接触与谈判的可能性。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T07:32:47+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/vance-iran-letter-restart-talks-9fdb42",
+      "reference": [
+        "联合早报",
+        "韩民族日报",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -203,6 +501,27 @@
       ],
       "section": "tech",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "gmo-requests-active-cyber-defense-cc7ba4",
+      "title": "GMO云服务遭入侵攻击者公布疑似客户信息",
+      "description": "日本GMO互联网集团旗下外汇保证金交易相关云服务遭非法访问，攻击者公布了据称属于客户的个人信息，部分账户还出现非客户本人操作的交易。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T07:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/gmo-requests-active-cyber-defense-cc7ba4",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "日本放送协会",
+        "中央通訊社"
+      ],
+      "section": "world",
+      "sourceCount": 22,
       "sources": []
     },
     {
@@ -265,24 +584,6 @@
       "sources": []
     },
     {
-      "id": "china-fuel-prices-rise-after-state-controls-691a96",
-      "title": "国家调控后汽柴油每吨将上调345元和335元",
-      "description": "中国对成品油价格实施调控，汽油、柴油每吨将分别上调345元和335元，调整将于10月29日24时生效。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T07:21:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/china-fuel-prices-rise-after-state-controls-691a96",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "north-korea-tests-border-loudspeaker-broadcasts-3e96c9",
       "title": "朝鲜据报在边境试播对南扩音器广播",
       "description": "据韩国国际广播电台报道，朝鲜29日上午在边境地区试播对南扩音器广播。",
@@ -319,21 +620,22 @@
       "sources": []
     },
     {
-      "id": "hong-kong-housing-chief-resigns-over-fire-56173b",
-      "title": "何永贤为宏福苑大火担责辞职获批",
-      "description": "香港房屋局局长何永贤因大埔宏福苑火灾提出辞职，行政长官李家超已接受。",
+      "id": "nyt-peltola-campaign-recruited-sullivan-spoiler-4855b0",
+      "title": "纽时称佩尔托拉阵营招募同名人分散苏利文选票",
+      "description": "《纽约时报》10月28日刊出的调查称，玛丽·佩尔托拉竞选团队的资深幕僚和律师，以及民主党参议院竞选委员会（DSCC）的党务人员，曾招募丹尼尔·J·苏利文参选阿拉斯加联邦参议员，意在分散共和党现任参议员丹·苏利文的选票。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-29T07:03:00+00:00",
+      "updatedAt": "2026-10-29T07:02:47+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/hong-kong-housing-chief-resigns-over-fire-56173b",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-peltola-campaign-recruited-sullivan-spoiler-4855b0",
       "reference": [
-        "联合早报"
+        "世界日报",
+        "法广"
       ],
-      "section": "china",
-      "sourceCount": 1,
+      "section": "us",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -371,27 +673,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "gmo-requests-active-cyber-defense-cc7ba4",
-      "title": "GMO称发布客户信息的勒索网站已停止运作",
-      "description": "GMO互联网集团表示，上传攻击者声称通过非法访问取得的客户个人信息的勒索网站已停止运作，普通用户目前无法访问。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T06:43:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/gmo-requests-active-cyber-defense-cc7ba4",
-      "reference": [
-        "共同网",
-        "联合早报",
-        "日本放送协会",
-        "中央通訊社"
-      ],
-      "section": "world",
-      "sourceCount": 21,
       "sources": []
     },
     {
@@ -433,6 +714,26 @@
       ],
       "section": "us",
       "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "democrats-sue-trump-officials-election-interference-6af47c",
+      "title": "联邦法官驳回司法部阻止加州寄出两万选票请求",
+      "description": "美国联邦地方法院法官戴维·O·卡特驳回司法部阻止加州向约2万名选民寄送选票的申请，并拒绝下令扣押相关选票。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T06:32:51+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/democrats-sue-trump-officials-election-interference-6af47c",
+      "reference": [
+        "法广",
+        "联合早报",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 5,
       "sources": []
     },
     {
@@ -526,24 +827,6 @@
       "sources": []
     },
     {
-      "id": "nyt-peltola-campaign-recruited-sullivan-spoiler-4855b0",
-      "title": "纽时报称佩尔托拉阵营招募同名候选人分散苏利文选票",
-      "description": "据《纽约时报》报道，玛丽·佩尔托拉的竞选团队和民主党参议院竞选委员会（DSCC）高级幕僚曾参与招募丹尼尔·J·苏利文竞选阿拉斯加州联邦参议员，意在分散现任共和党参议员丹·S·苏利文的选票。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T06:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-peltola-campaign-recruited-sullivan-spoiler-4855b0",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "us-midterm-election-congress-control-164251",
       "title": "七个摇摆州选战左右参院控制权",
       "description": "美国将于11月3日举行中期选举，众议院435席将全部改选，参议院100席中有35席改选。",
@@ -615,26 +898,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "north-korea-fires-suspected-ballistic-missile-16e413",
-      "title": "朝鲜从元山向东海发射十余枚短程弹道导弹",
-      "description": "朝鲜29日中午从元山地区向东海发射十余枚短程弹道导弹。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T06:17:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/north-korea-fires-suspected-ballistic-missile-16e413",
-      "reference": [
-        "共同网",
-        "联合早报",
-        "韩国国际广播电台"
-      ],
-      "section": "asia",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -1781,25 +2044,6 @@
       "sources": []
     },
     {
-      "id": "vance-iran-letter-restart-talks-9fdb42",
-      "title": "美媒称万斯致信伊朗高官探寻重启谈判",
-      "description": "据《华尔街日报》援引知情人士报道，美国副总统J.D.万斯奉总统唐纳德·特朗普指示，致信伊朗最高国家安全委员会秘书穆赫辛·雷扎伊，试探重启美伊停战谈判的可能。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T02:18:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/vance-iran-letter-restart-talks-9fdb42",
-      "reference": [
-        "联合早报",
-        "韩民族日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "schriver-backs-taiwan-arms-sales-c24a41",
       "title": "薛瑞福称推进对台军售符合美国利益",
       "description": "曾在特朗普第一届政府担任美国国防部印太安全事务助理部长的薛瑞福，10月28日出席华盛顿战略暨国际研究中心座谈后接受中央社采访时表示，特朗普与习近平的高层接触让美中关系保持一定稳定，但双方在台湾议题上仍有明显分歧。",
@@ -2341,24 +2585,6 @@
       "sources": []
     },
     {
-      "id": "us-stocks-close-higher-wednesday-0c990f",
-      "title": "美股三大指数周三收盘全线上涨",
-      "description": "美股三大指数周三收盘均上涨，投资者消化美联储利率决定并等待大型科技公司财报，芯片股表现突出。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T23:00:38.440395+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/us-stocks-close-higher-wednesday-0c990f",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "jingmen-rural-commercial-bank-social-insurance-loan-debate-1b4577",
       "title": "荆门农商银行社银贷引发缴社保争议",
       "description": "湖北省荆门市农商银行于2025年夏天推出“社银贷”，以信用贷款帮助参保人缴社保；相关介绍近日重新引发讨论。",
@@ -2431,24 +2657,6 @@
       "sources": []
     },
     {
-      "id": "warsh-fed-reduces-rate-vote-meetings-c1717e",
-      "title": "沃什宣布FOMC将部分会议改作战略讨论",
-      "description": "美联储主席凯文·沃什宣布，联邦公开市场委员会（FOMC）将从2027年秋季起，在每年8次会议的安排中划出专门会议讨论货币政策战略。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T22:54:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/warsh-fed-reduces-rate-vote-meetings-c1717e",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "us-midterm-negative-ads-fatigue-voters-d34899",
       "title": "美国期中选举负面广告泛滥令选民厌烦",
       "description": "美国期中选举进入最后一周之际，两党候选人大量投放负面竞选广告，不少选民对此感到厌烦，竞选财务制度也受到质疑。",
@@ -2499,24 +2707,6 @@
         "加拿大国际广播电台"
       ],
       "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "meiji-transfers-china-units-shanghai-aoya-5fd571",
-      "title": "明治控股将三家中国乳业子公司转让给上海澳雅食品",
-      "description": "明治控股计划于12月将其在中国经营牛奶和酸奶业务的三家子公司转让给上海澳雅食品，退出中国乳制品业务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T21:03:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/meiji-transfers-china-units-shanghai-aoya-5fd571",
-      "reference": [
-        "日经"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -2594,43 +2784,6 @@
       "sources": []
     },
     {
-      "id": "lauren-boebert-colorado-race-turns-tough-c6948c",
-      "title": "布波特在科州第四选区连任选情转趋艰难",
-      "description": "共和党科罗拉多州联邦众议员劳伦·布波特在第四选区的连任选情已从原先被视为安全转为艰难。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T15:46:49+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/lauren-boebert-colorado-race-turns-tough-c6948c",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "wee-ka-siong-leads-mca-walkout-0f6e71",
-      "title": "马华接受国阵安排竞逐马六甲州选两席",
-      "description": "马华公会（马华）已同意以国民阵线（国阵）名义参加马六甲州选，竞逐两个州议席，围绕议席分配的争议告一段落。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T15:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/wee-ka-siong-leads-mca-walkout-0f6e71",
-      "reference": [
-        "当今大马",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 11,
-      "sources": []
-    },
-    {
       "id": "liu-yandong-china-former-vice-premier-dies-a0e81f",
       "title": "中国前副总理刘延东在北京病逝享年81岁",
       "description": "刘延东在北京去世，终年81岁。",
@@ -2649,26 +2802,6 @@
       ],
       "section": "china",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "tokyo-police-arrest-visa-fraud-executive-b471f0",
-      "title": "日本警方逮捕涉嫌伪造材料助人骗取高度人才在留资格者",
-      "description": "日本警方10月28日逮捕公司高管蓝泽鹏程（本名王鹏程）等3人，怀疑他们伪造材料，帮助中国公民申请“高度专门职”在留资格。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T14:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/tokyo-police-arrest-visa-fraud-executive-b471f0",
-      "reference": [
-        "日经",
-        "日本放送协会",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -2765,24 +2898,6 @@
       ],
       "section": "culture",
       "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "south-korea-reports-hundreds-trucks-bridge-2608a8",
-      "title": "韩国统一部称新鸭绿江大桥朝方海关区出现数百辆货车",
-      "description": "韩国统一部根据卫星图像称，新鸭绿江大桥开通后，朝鲜一侧海关区域出现数百辆货车。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T13:33:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/south-korea-reports-hundreds-trucks-bridge-2608a8",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2953,24 +3068,6 @@
       ],
       "section": "life",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "russian-submarine-tests-bulava-missile-4223a1",
-      "title": "俄战略核潜艇水下成功试射布拉瓦洲际导弹",
-      "description": "俄罗斯战略核潜艇“苏沃洛夫大元帅”号在鄂霍次克海水下成功试射一枚“布拉瓦”洲际弹道导弹。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T11:46:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/russian-submarine-tests-bulava-missile-4223a1",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3634,27 +3731,6 @@
       "sources": []
     },
     {
-      "id": "steinmeier-china-state-visit-e81e2a",
-      "title": "德国总统施泰因迈尔抵达合肥开启五天访华行程",
-      "description": "德国总统弗兰克-瓦尔特·施泰因迈尔于10月27日凌晨抵达安徽合肥，开始应中国国家主席习近平邀请进行的五天国事访问，行程至10月31日。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T15:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/steinmeier-china-state-visit-e81e2a",
-      "reference": [
-        "联合早报",
-        "德国之声",
-        "中央通訊社",
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
       "id": "asahi-kasei-former-employee-charged-semiconductor-secrets-9ed2c2",
       "title": "旭化成前员工涉嫌泄露半导体机密被起诉",
       "description": "名古屋地方检察厅10月27日依据《反不正当竞争法》起诉旭化成前员工古川祥一（66岁），指控其泄露营业秘密；他此前因涉嫌泄密被爱知县警方逮捕。",
@@ -3805,24 +3881,6 @@
       "sources": []
     },
     {
-      "id": "china-replica-ancient-towns-face-losses-2bd255",
-      "title": "中国多地人造古镇陷入经营亏损困境",
-      "description": "中国多地重金建设的人造古镇出现游客稀少、商铺停业和经营亏损等问题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T09:06:47+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/china-replica-ancient-towns-face-losses-2bd255",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "singapore-appoints-consultants-prepare-iaea-review-e945ec",
       "title": "新加坡委聘顾问团准备国际核基础设施评估",
       "description": "新加坡能源市场管理局和国家环境局已委聘顾问团队，协助新加坡为2027年接受国际原子能机构（IAEA）综合核基础设施评估第一阶段评估作准备。",
@@ -3838,25 +3896,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-protests-uk-border-detentions-0c193e",
-      "title": "中国就公民遭英边检长时间扣留盘查提出交涉",
-      "description": "中国驻英国大使馆10月19日说，近日有中国公民出入英国时遭边境人员长时间扣留、盘查，手机等电子设备被查扣。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T09:02:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/china-protests-uk-border-detentions-0c193e",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -4698,24 +4737,6 @@
       "url": "https://kaopu.news/story/2026-10-22/sally-rooney-books-withdrawn-uk-fae322",
       "reference": [
         "端传媒"
-      ],
-      "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "dune-part-three-china-december-31-release-9a9662",
-      "title": "《沙丘3》定于12月31日登陆中国大陆跨年档",
-      "description": "《沙丘3》将于2026年12月31日在中国大陆上映，进入跨年档，较其北美12月18日档期晚约两周。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-21T06:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/dune-part-three-china-december-31-release-9a9662",
-      "reference": [
-        "澎湃新闻"
       ],
       "section": "culture",
       "sourceCount": 1,

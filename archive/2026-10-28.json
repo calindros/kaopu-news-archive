@@ -2,7 +2,7 @@
   "details": {
     "date": "2026-10-28",
     "totalPages": 0,
-    "total": 172
+    "total": 168
   },
   "stories": [
     {
@@ -18,6 +18,22 @@
       "url": "https://kaopu.news/story/2026-10-29/china-funds-rural-free-flu-shots-d471c5",
       "reference": [],
       "section": "china",
+      "sourceCount": "",
+      "sources": []
+    },
+    {
+      "id": "mercedes-cuts-profit-margin-outlook-04de09",
+      "title": "中国市场疲弱促使奔驰下调全年盈利预期",
+      "description": "奔驰因中国市场销售下滑下调全年盈利预测，将今年核心盈利目标从至少增长15%改为与去年58亿欧元持平；汽车业务调整后销售回报率预测则从3%至5%降至2%至3%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T23:51:19+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/mercedes-cuts-profit-margin-outlook-04de09",
+      "reference": [],
+      "section": "business",
       "sourceCount": "",
       "sources": []
     },
@@ -48,22 +64,6 @@
       "occurredAt": "",
       "publishedAt": "2026-10-29",
       "url": "https://kaopu.news/story/2026-10-29/uk-pledges-10-billion-ukraine-aid-76ec75",
-      "reference": [],
-      "section": "world",
-      "sourceCount": "",
-      "sources": []
-    },
-    {
-      "id": "imf-georgieva-proposes-liao-min-deputy-managing-director-93adaa",
-      "title": "IMF总裁格奥尔基耶娃提议廖岷接任副总裁",
-      "description": "国际货币基金组织（IMF）总裁克里斯塔利娜·格奥尔基耶娃北京时间10月28日晚宣布，李波将在11月30日副总裁任期届满后离任，并提议由中国财政部副部长廖岷接任，任命拟于12月1日起生效。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T23:06:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/imf-georgieva-proposes-liao-min-deputy-managing-director-93adaa",
       "reference": [],
       "section": "world",
       "sourceCount": "",
@@ -374,22 +374,6 @@
       "sources": []
     },
     {
-      "id": "china-elderly-dependency-ratio-surpasses-child-ratio-49caf0",
-      "title": "中国老年抚养比2025年首次超过少儿抚养比",
-      "description": "中国国家统计局编著出版的《中国统计年鉴2026》显示，2025年中国老年抚养比升至23.1%，首次超过少儿抚养比的22%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T14:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-25",
-      "url": "https://kaopu.news/story/2026-10-25/china-elderly-dependency-ratio-surpasses-child-ratio-49caf0",
-      "reference": [],
-      "section": "life",
-      "sourceCount": "",
-      "sources": []
-    },
-    {
       "id": "japan-cambodia-police-strengthen-telecom-fraud-cooperation-c94875",
       "title": "日柬警方确认加强打击电信诈骗合作",
       "description": "日本警察厅长官楠芳伸与到访的柬埔寨国家警察总署总监苏通在东京举行会谈，确认加强打击电信诈骗等领域的合作。",
@@ -690,6 +674,22 @@
       "url": "https://kaopu.news/story/2026-10-28/trump-claims-venezuela-oil-texas-910380",
       "reference": [],
       "section": "us",
+      "sourceCount": "",
+      "sources": []
+    },
+    {
+      "id": "russia-ukraine-oleshky-ceasefire-agreement-6fd59b",
+      "title": "梅拉尼娅斡旋俄乌扩大赫尔松停火范围",
+      "description": "俄罗斯与乌克兰在美国第一夫人梅拉尼娅·特朗普斡旋下，于赫尔松州奥列什基及周边实施人道主义停火，为援助物资运送和居民撤离开辟通道。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T12:54:24+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/russia-ukraine-oleshky-ceasefire-agreement-6fd59b",
+      "reference": [],
+      "section": "world",
       "sourceCount": "",
       "sources": []
     },
@@ -1158,6 +1158,22 @@
       "sources": []
     },
     {
+      "id": "china-elderly-dependency-ratio-surpasses-child-ratio-49caf0",
+      "title": "中国老年抚养比首次超过少儿抚养比",
+      "description": "中国国家统计局编著的《中国统计年鉴2026》数据显示，2025年中国老年抚养比升至23.1%，首次高于少儿抚养比的22%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T08:26:41+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-25",
+      "url": "https://kaopu.news/story/2026-10-25/china-elderly-dependency-ratio-surpasses-child-ratio-49caf0",
+      "reference": [],
+      "section": "life",
+      "sourceCount": "",
+      "sources": []
+    },
+    {
       "id": "south-korea-q3-gdp-growth-beats-forecast-fafe7c",
       "title": "韩国三季度经济环比增长1.0%超出预期",
       "description": "韩国银行10月27日公布的初步核算显示，韩国第三季度实际国内生产总值（GDP）环比增长1.0%，同比增长3.4%。",
@@ -1302,22 +1318,6 @@
       "sources": []
     },
     {
-      "id": "siemens-energy-hokkaido-wind-base-375f3b",
-      "title": "西门子能源拟在北海道设立风电业务基地",
-      "description": "西门子能源计划在北海道惠庭市设立风电业务基地，相关设施拟于2027年建成，并作为公司在亚洲的首个维护与管理基地。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T07:39:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/siemens-energy-hokkaido-wind-base-375f3b",
-      "reference": [],
-      "section": "business",
-      "sourceCount": "",
-      "sources": []
-    },
-    {
       "id": "taiwan-ministry-urges-funding-cpc-taipower-1f32dc",
       "title": "龚明鑫呼吁立法院支持中油台电拨补",
       "description": "台湾经济部长龚明鑫10月28日在台湾立法院经济委员会呼吁支持向中油、台电拨补预算。",
@@ -1378,22 +1378,6 @@
       "url": "https://kaopu.news/story/2026-10-28/boeing-737-output-delays-shares-drop-9371ec",
       "reference": [],
       "section": "business",
-      "sourceCount": "",
-      "sources": []
-    },
-    {
-      "id": "trump-backs-netanyahu-reelection-d6e4fe",
-      "title": "以色列大选出口民调显示反对派微幅领先",
-      "description": "以色列于10月27日举行自2023年10月哈马斯袭击以来的首次全国议会选举。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T07:16:15+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/trump-backs-netanyahu-reelection-d6e4fe",
-      "reference": [],
-      "section": "world",
       "sourceCount": "",
       "sources": []
     },
@@ -1558,6 +1542,22 @@
       "sources": []
     },
     {
+      "id": "mingpao-reports-liu-jianchao-demoted-division-level-143b12",
+      "title": "港媒称刘建超因严重违纪违法由正部级降为处级",
+      "description": "刘建超据报已由正部级降至处级。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T06:42:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/mingpao-reports-liu-jianchao-demoted-division-level-143b12",
+      "reference": [],
+      "section": "china",
+      "sourceCount": "",
+      "sources": []
+    },
+    {
       "id": "south-korea-foreign-residents-record-high-ce8507",
       "title": "韩国外籍居民人数达266万余人创新高",
       "description": "韩国行政安全部发布的《2025年地方自治团体外籍居民现状》报告显示，截至2025年，在韩外籍居民为266.2967万人，较前一年增加7.9万余人，连续4年增长并创历史新高。",
@@ -1586,22 +1586,6 @@
       "url": "https://kaopu.news/story/2026-10-27/us-to-suspend-china-northern-mariana-visa-waiver-0eb364",
       "reference": [],
       "section": "china",
-      "sourceCount": "",
-      "sources": []
-    },
-    {
-      "id": "ice-election-visits-voter-intimidation-concerns-eb3ecd",
-      "title": "纽约检察长重申ICE不得以执法为由进入投票站",
-      "description": "纽约州检察长詹乐霞27日提醒选民，联邦和纽约州法律均保护投票，联邦探员及选举监察员不得干预选民投票。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T06:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/ice-election-visits-voter-intimidation-concerns-eb3ecd",
-      "reference": [],
-      "section": "us",
       "sourceCount": "",
       "sources": []
     },
@@ -1682,22 +1666,6 @@
       "url": "https://kaopu.news/story/2026-10-27/irs-announces-savers-match-retirement-subsidy-f8fda0",
       "reference": [],
       "section": "life",
-      "sourceCount": "",
-      "sources": []
-    },
-    {
-      "id": "anthropic-files-ipo-nasdaq-listing-9704a2",
-      "title": "Anthropic公开递交S-1启动纳斯达克上市",
-      "description": "Anthropic于10月26日向美国证券交易委员会公开递交S-1注册文件，启动在纳斯达克上市的IPO流程。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T06:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/anthropic-files-ipo-nasdaq-listing-9704a2",
-      "reference": [],
-      "section": "ai",
       "sourceCount": "",
       "sources": []
     },
@@ -2150,22 +2118,6 @@
       "sources": []
     },
     {
-      "id": "brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
-      "title": "美媒称弗拉维奥·博索纳罗已抵达美国",
-      "description": "美国《华盛顿邮报》称，巴西总统选举落败的弗拉维奥·博索纳罗已于当地时间10月27日傍晚入境美国，但未说明地点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T05:10:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
-      "reference": [],
-      "section": "world",
-      "sourceCount": "",
-      "sources": []
-    },
-    {
       "id": "meta-plans-95-billion-equity-funding-a78fa8",
       "title": "英伟达斥资30亿美元认购Meta新股",
       "description": "英伟达10月27日宣布，将投资30亿美元认购Meta新发行的股票。",
@@ -2496,22 +2448,6 @@
       "occurredAt": "",
       "publishedAt": "2026-10-26",
       "url": "https://kaopu.news/story/2026-10-26/str-cash-aid-cut-sara-raised-30722e",
-      "reference": [],
-      "section": "asia",
-      "sourceCount": "",
-      "sources": []
-    },
-    {
-      "id": "koizumi-philippines-asean-defense-meeting-aced43",
-      "title": "中国将由驻菲武官出席东盟防长扩大会",
-      "description": "中国将由驻菲律宾使馆国防武官代表出席定于10月29日在宿务举行的第13届东盟防长扩大会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T02:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/koizumi-philippines-asean-defense-meeting-aced43",
       "reference": [],
       "section": "asia",
       "sourceCount": "",
