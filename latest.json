@@ -1,11 +1,123 @@
 {
   "details": {
-    "date": "2026-10-28",
+    "date": "2026-10-29",
     "timestamp": 1793230820,
     "totalPages": 1,
-    "total": 262
+    "total": 263
   },
   "stories": [
+    {
+      "id": "brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
+      "title": "弗拉维奥违反出境禁令经阿根廷和厄瓜多尔抵美",
+      "description": "巴西总统选举落败者弗拉维奥·博索纳罗在最高法院下达出境禁令后，携妻子和两个女儿经阿根廷、厄瓜多尔抵达美国。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T23:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "法广",
+        "财新"
+      ],
+      "section": "world",
+      "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "imf-georgieva-proposes-liao-min-deputy-managing-director-93adaa",
+      "title": "IMF总裁格奥尔基耶娃提议廖岷接任副总裁",
+      "description": "国际货币基金组织（IMF）总裁克里斯塔利娜·格奥尔基耶娃北京时间10月28日晚宣布，李波将在11月30日副总裁任期届满后离任，并提议由中国财政部副部长廖岷接任，任命拟于12月1日起生效。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T23:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/imf-georgieva-proposes-liao-min-deputy-managing-director-93adaa",
+      "reference": [
+        "澎湃新闻",
+        "财新"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-stocks-close-higher-wednesday-0c990f",
+      "title": "美股三大指数周三收盘全线上涨",
+      "description": "美股三大指数周三收盘均上涨，投资者消化美联储利率决定并等待大型科技公司财报，芯片股表现突出。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T23:00:38.440395+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/us-stocks-close-higher-wednesday-0c990f",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "jingmen-rural-commercial-bank-social-insurance-loan-debate-1b4577",
+      "title": "荆门农商银行社银贷引发缴社保争议",
+      "description": "湖北省荆门市农商银行于2025年夏天推出“社银贷”，以信用贷款帮助参保人缴社保；相关介绍近日重新引发讨论。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T23:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/jingmen-rural-commercial-bank-social-insurance-loan-debate-1b4577",
+      "reference": [
+        "财新"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "johnson-jeffries-campaign-new-york-district-17-cda454",
+      "title": "美两党领袖赴纽约第17选区为候选人助选",
+      "description": "美国众议院议长、共和党人迈克·约翰逊当地时间27日在纽约州罗克兰县奥兰治敦为共和党众议员迈克·劳勒助选。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T22:59:08+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/johnson-jeffries-campaign-new-york-district-17-cda454",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-deports-migrants-third-countries-454b58",
+      "title": "特朗普政府将至少2.5万移民遣往第三国",
+      "description": "特朗普政府通过与第三国达成接收安排并提供资金，已将至少2.5万名移民送往原籍国以外的国家。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T22:58:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/trump-deports-migrants-third-countries-454b58",
+      "reference": [
+        "端传媒"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "san-gabriel-sales-tax-hike-12-percent-vote-a71e5c",
       "title": "南加多地选民将表决公共服务筹资提案",
@@ -40,6 +152,24 @@
       ],
       "section": "business",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-midterm-negative-ads-fatigue-voters-d34899",
+      "title": "美国期中选举负面广告泛滥令选民厌烦",
+      "description": "美国期中选举进入最后一周之际，两党候选人大量投放负面竞选广告，不少选民对此感到厌烦，竞选财务制度也受到质疑。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-28T22:14:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/us-midterm-negative-ads-fatigue-voters-d34899",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1053,27 +1183,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
-      "title": "弗拉维奥违禁离境后所乘飞机短停厄瓜多尔",
-      "description": "巴西总统选举落败者弗拉维奥·博索纳罗在最高法院禁止其出境后离开巴西。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T12:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "法广",
-        "财新"
-      ],
-      "section": "world",
-      "sourceCount": 11,
       "sources": []
     },
     {
@@ -2097,24 +2206,6 @@
       "sources": []
     },
     {
-      "id": "airbus-bae-gcap-talks-5d741e",
-      "title": "金融时报称空客将与BAE磋商参与GCAP",
-      "description": "共同社援引英国《金融时报》称，空客近期将与英国BAE系统公司商谈参与日英意GCAP及其他战斗航空合作的可能性，也会讨论自主型无人战机合作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T06:50:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/airbus-bae-gcap-talks-5d741e",
-      "reference": [
-        "共同网"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "anhui-gdp-lead-over-hunan-widens-a2e4b8",
       "title": "安徽前三季度GDP领先湖南差距扩大至764亿元",
       "description": "安徽今年前三季度地区生产总值为42371亿元，同比增长5.3%；湖南为41606.66亿元，同比增长2.8%，安徽领先764亿元。",
@@ -2879,25 +2970,6 @@
       "sources": []
     },
     {
-      "id": "us-midterm-election-congress-control-164251",
-      "title": "美国中期选举将决定国会控制权归属",
-      "description": "美国选民定于11月3日举行中期选举，改选国会两院席位及多州州长等公职。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T00:47:37+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
-      "reference": [
-        "世界日报",
-        "英国广播公司"
-      ],
-      "section": "us",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "wawrinka-retires-after-basel-loss-93f78e",
       "title": "瓦林卡巴塞尔首轮出局后结束职业生涯",
       "description": "瑞士网球名将斯坦·瓦林卡在巴塞尔公开赛首轮以5比7、6比7（2比7）不敌捷克选手吉里·莱赫茨卡，随后结束职业生涯。",
@@ -2930,24 +3002,6 @@
         "世界日报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "boston-judge-pauses-trump-refugee-rule-deb071",
-      "title": "波士顿法官暂缓特朗普政府难民申诉新规",
-      "description": "波士顿联邦地区法官朱莉娅·科比克10月27日下令暂缓执行美国公民及移民服务局新规。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T23:42:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/boston-judge-pauses-trump-refugee-rule-deb071",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -3023,24 +3077,6 @@
         "澎湃新闻"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "santa-clara-county-rejects-doj-data-ballot-demand-4ed24c",
-      "title": "圣塔克拉拉县拒绝司法部交资料封存选票要求",
-      "description": "圣塔克拉拉县政府10月26日拒绝美国司法部要求提供选民机密信息、并在公民身份核实前暂时封存相关选票，成为加州首个明确拒绝配合的县。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T19:34:35+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/santa-clara-county-rejects-doj-data-ballot-demand-4ed24c",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -3285,24 +3321,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "singapore-survey-confirms-geothermal-resources-1cb791",
-      "title": "新加坡确认地下蕴藏可观地热资源",
-      "description": "勘测结果显示，新加坡地下蕴藏可观地热资源，初步估算其技术潜力超过全国年用电量的60倍。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T10:36:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/singapore-survey-confirms-geothermal-resources-1cb791",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 2,
       "sources": []
     },
     {
