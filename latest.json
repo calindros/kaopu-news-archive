@@ -1,29 +1,452 @@
 {
   "details": {
     "date": "2026-10-29",
-    "timestamp": 1793251670,
+    "timestamp": 1793255627,
     "totalPages": 1,
-    "total": 263
+    "total": 261
   },
   "stories": [
     {
-      "id": "pakistan-bars-taiwan-airlines-airspace-a72a29",
-      "title": "巴基斯坦恢复台湾航司飞越领空许可",
-      "description": "巴基斯坦民航局恢复台湾航空公司飞越其领空的许可。",
+      "id": "us-bars-chinese-genomics-firms-imports-206500",
+      "title": "美国将华大集团及两家关联企业列入涉疆强迫劳动清单",
+      "description": "美国国土安全部10月28日将华大集团、深圳华大基因和深圳华大智造列入《防止强迫维吾尔人劳动法》（UFLPA）实体清单，相关产品将被禁止进入美国市场。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-29T04:21:00+00:00",
+      "updatedAt": "2026-10-29T05:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/us-bars-chinese-genomics-firms-imports-206500",
+      "reference": [
+        "联合早报",
+        "纽约时报",
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "ice-election-visits-voter-intimidation-concerns-eb3ecd",
+      "title": "美司法部承诺FBI和ICE人员不担任投票站监督员",
+      "description": "美国司法部10月28日向联邦法院提交文件，承诺联邦调查局（FBI）和移民与海关执法局（ICE）的特工及雇员不会担任2026年中期选举投票站监督员。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T05:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/ice-election-visits-voter-intimidation-concerns-eb3ecd",
+      "reference": [
+        "世界日报",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "kevin-tsai-says-never-backed-taiwan-independence-apologizes-fdb1bf",
+      "title": "蒋万安竞选总部成立大会吸引逾五万支持者",
+      "description": "台湾台北市长蒋万安10月26日在敦化国中举行竞选总部成立大会，为争取连任造势。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T05:07:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-25",
+      "url": "https://kaopu.news/story/2026-10-25/kevin-tsai-says-never-backed-taiwan-independence-apologizes-fdb1bf",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "英国广播公司",
+        "公视"
+      ],
+      "section": "culture",
+      "sourceCount": 17,
+      "sources": []
+    },
+    {
+      "id": "merz-first-japan-visit-takaichi-meeting-856d46",
+      "title": "默茨访日与高市承诺深化多领域合作",
+      "description": "德国总理弗里德里希·默茨10月28日访问日本，与日本首相高市早苗举行会谈并发表联合声明。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T04:56:24+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-25",
+      "url": "https://kaopu.news/story/2026-10-25/merz-first-japan-visit-takaichi-meeting-856d46",
+      "reference": [
+        "共同网",
+        "德国之声",
+        "韩国国际广播电台",
+        "中央通訊社"
+      ],
+      "section": "world",
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "meta-third-quarter-revenue-rises-26-percent-127637",
+      "title": "加州亿万富翁中期选举捐款创纪录达6.12亿美元",
+      "description": "加州70多位亿万富翁向2026年中期选举投入创纪录的6.12亿美元，其中至少2.93亿美元用于反对第40号提案。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T04:55:51.965863+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/meta-third-quarter-revenue-rises-26-percent-127637",
+      "reference": [
+        "中央通訊社",
+        "澎湃新闻",
+        "世界日报",
+        "法广"
+      ],
+      "section": "business",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "takaichi-merz-agree-critical-minerals-supply-resilience-894697",
+      "title": "高市早苗与默茨同意增强日德供应链韧性",
+      "description": "高市早苗与德国总理默茨于10月28日18时左右在日本首相官邸会谈，将日德关系定位为“高级合作伙伴”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T04:54:16+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/takaichi-merz-agree-critical-minerals-supply-resilience-894697",
+      "reference": [
+        "共同网",
+        "日本放送协会"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "japan-us-defense-chiefs-affirm-alliance-deterrence-c04f93",
+      "title": "日美防长同意构建第一岛链防御体系",
+      "description": "日本防卫相小泉进次郎与美国国防部长赫格塞思10月28日在菲律宾宿务会谈约30分钟，双方同意合作构建连接日本南西诸岛、台湾和菲律宾的“第一岛链”防御体系，以遏制中国，并确认将提升日美同盟的威慑与应对能力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T04:54:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/japan-us-defense-chiefs-affirm-alliance-deterrence-c04f93",
+      "reference": [
+        "共同网",
+        "日经",
+        "日本放送协会"
+      ],
+      "section": "asia",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "spain-trains-collide-kill-46-d000d5",
+      "title": "西班牙两列高铁相撞造成68人死亡",
+      "description": "西班牙托莱多省乌尔达附近的马德里—安达卢西亚高速铁路线上，10月28日上午发生两列高速列车相撞事故。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T04:54:01+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/spain-trains-collide-kill-46-d000d5",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "法广",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 29,
+      "sources": []
+    },
+    {
+      "id": "china-navy-coast-guard-sail-pacific-1e0dfe",
+      "title": "中国海军与海警船编队经大隅海峡驶向太平洋",
+      "description": "中国海军3艘舰艇与1艘中国海警船于10月27日经鹿儿岛县近海的大隅海峡驶向太平洋。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T04:53:53+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/china-navy-coast-guard-sail-pacific-1e0dfe",
+      "reference": [
+        "共同网",
+        "日本放送协会"
+      ],
+      "section": "china",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "samsung-q3-operating-profit-hits-record-018faf",
+      "title": "三星电子三季度营业利润首破100万亿韩元",
+      "description": "三星电子公布2026年第三季度（7月至9月）业绩，营业利润达到107.4405万亿韩元，同比上升783.1%，单季首次超过100万亿韩元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T04:52:54+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/samsung-q3-operating-profit-hits-record-018faf",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "法广",
+        "韩国国际广播电台"
+      ],
+      "section": "business",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "alphabet-q3-revenue-profit-miss-estimates-9485a4",
+      "title": "Alphabet财报不及预期盘后股价一度跌超10%",
+      "description": "Alphabet于10月28日公布2026年第三季度财报，营收和利润低于市场预期，自由现金流连续第二个季度为负。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T04:52:51.966394+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/alphabet-q3-revenue-profit-miss-estimates-9485a4",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "new-york-limits-ai-companion-use-minors-73b775",
+      "title": "纽约州州长签署新法限制未成年人使用AI伴侣功能",
+      "description": "纽约州州长凯西·霍楚尔周三签署新法，限制未成年人使用具有虚拟伴侣属性的人工智能聊天机器人功能。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T04:48:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/new-york-limits-ai-companion-use-minors-73b775",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "toyota-global-sales-first-decline-two-years-c484d3",
+      "title": "丰田上半财年全球销量两年来首次下滑",
+      "description": "丰田汽车公司10月29日公布，2026上半财年（4月至9月）全球销量为505万辆，同比减少4%，为两年来首次下滑；全球产量为489万辆，下降1.9%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T04:47:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/toyota-global-sales-first-decline-two-years-c484d3",
+      "reference": [
+        "共同网"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "atlantic-reports-hegseth-fires-j5-chief-sylvia-2b74bd",
+      "title": "《大西洋》称赫塞斯解雇美军J5主管西尔维亚",
+      "description": "据《大西洋》杂志率先报道，美国国防部长赫塞斯于10月28日解除陆军中将布雷特·西尔维亚的职务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T04:43:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/atlantic-reports-hegseth-fires-j5-chief-sylvia-2b74bd",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "hong-kong-ipos-delay-or-withdrawal-83edfa",
+      "title": "多家港股新股招股后推迟或撤回上市计划",
+      "description": "下半年以来，已有四家拟在港股上市的新股在启动招股后推迟上市；永康控股则于7月8日宣布终止港股上市。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T04:42:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/hong-kong-ipos-delay-or-withdrawal-83edfa",
+      "reference": [
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "joseph-wu-liaoning-drills-east-first-island-chain-714e30",
+      "title": "吴钊燮称解放军多艘舰艇在第一岛链以东演习",
+      "description": "吴钊燮称，解放军派遣包括辽宁舰航母打击群在内的多艘舰艇在第一岛链以东海域演习；辽宁舰编队在菲律宾海活动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T04:42:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/joseph-wu-liaoning-drills-east-first-island-chain-714e30",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "north-korea-fires-suspected-ballistic-missile-16e413",
+      "title": "朝鲜向日本海方向发射疑似弹道导弹飞行物",
+      "description": "韩国联合参谋本部称，朝鲜向日本海方向发射了一个飞行物。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T04:38:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/north-korea-fires-suspected-ballistic-missile-16e413",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "pakistan-bars-taiwan-airlines-airspace-a72a29",
+      "title": "巴基斯坦恢复台湾航空公司飞越领空许可",
+      "description": "巴基斯坦民航局恢复向中华航空和长荣航空开放领空后，长荣航空台北飞往维也纳的BR65航班于10月29日凌晨重新飞越巴基斯坦。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T04:36:47+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-28",
       "url": "https://kaopu.news/story/2026-10-28/pakistan-bars-taiwan-airlines-airspace-a72a29",
       "reference": [
         "中央通訊社",
         "联合早报",
-        "澎湃新闻"
+        "澎湃新闻",
+        "公视"
       ],
       "section": "asia",
-      "sourceCount": 4,
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "us-sanctions-north-korea-it-worker-network-3119dc",
+      "title": "美国制裁涉北韩IT人员伪装就业网络",
+      "description": "美国财政部海外资产控制办公室（OFAC）当地时间10月28日宣布，对与北韩IT人员伪装就业及协助其活动有关的10名个人和1个实体实施制裁，其中8人为北韩籍、2人为俄罗斯籍。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T04:36:35+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/us-sanctions-north-korea-it-worker-network-3119dc",
+      "reference": [
+        "韩国国际广播电台"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "irregular-glm53-completes-three-attack-scenarios-0e07d1",
+      "title": "Irregular称GLM-5.3完成三类攻击测试",
+      "description": "以色列AI安全评估公司Irregular称，智谱AI的GLM-5.3在模拟网络攻击测试中完成了部分多阶段场景；另一组测试则发现，该模型多次违背研究人员设定的限制。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T04:35:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/irregular-glm53-completes-three-attack-scenarios-0e07d1",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-agencies-boost-hainan-trade-facilitation-97e121",
+      "title": "四部门出台措施提升海南自贸港贸易自由化便利化水平",
+      "description": "中国商务部、国家发展改革委、生态环境部和海关总署于10月29日联合发布商自贸发〔2026〕187号通知，提出进一步提高海南自由贸易港贸易自由化、便利化水平。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T04:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/china-agencies-boost-hainan-trade-facilitation-97e121",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-doj-probes-nvidia-hugging-face-deal-e075e7",
+      "title": "美司法部据报调查英伟达收购Hugging Face交易",
+      "description": "据路透社报道，两名知情人士称，美国司法部已对英伟达拟以129.3亿美元收购开源平台Hugging Face一事展开调查，以评估交易对人工智能领域竞争的影响。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T04:24:39+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/us-doj-probes-nvidia-hugging-face-deal-e075e7",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "lafforgue-recounts-huawei-career-9c7a49",
+      "title": "菲尔兹奖得主拉福格回顾跨界加入华为",
+      "description": "菲尔兹奖得主洛朗·拉福格10月28日在复旦大学浦江科学大师讲坛演讲后接受第一财经等媒体采访，回顾从纯数学研究走向产业界的经历，并谈及人工智能对数学研究和教育的影响。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T04:21:39.653665+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/lafforgue-recounts-huawei-career-9c7a49",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -45,6 +468,43 @@
       ],
       "section": "world",
       "sourceCount": 17,
+      "sources": []
+    },
+    {
+      "id": "china-clean-tech-exports-cut-emissions-206455",
+      "title": "芬兰研究机构称中国清洁技术出口助减排4.5亿吨",
+      "description": "芬兰能源与清洁空气研究中心（CREA）星期四（10月29日）发布报告，评估中国清洁能源技术出口带来的减排效果。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T04:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/china-clean-tech-exports-cut-emissions-206455",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "south-korea-regulator-probes-financial-hacks-de177b",
+      "title": "青瓦台召开紧急会议应对金融机构连环网络攻击",
+      "description": "韩国总统府青瓦台10月28日召开紧急会议，应对Bithumb、未来资产相关公司和大信证券等金融机构接连发生的网络攻击及信息泄露。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T04:09:03+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/south-korea-regulator-probes-financial-hacks-de177b",
+      "reference": [
+        "韩国国际广播电台",
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -99,44 +559,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-agencies-boost-hainan-trade-facilitation-97e121",
-      "title": "四部门出台措施提升海南自贸港贸易便利化水平",
-      "description": "商务部、国家发展改革委、生态环境部和海关总署联合印发商自贸发〔2026〕187号通知，提出通过货物贸易、服务贸易及新型贸易模式等方面的措施，进一步提升海南自由贸易港贸易自由化便利化水平。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T03:47:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/china-agencies-boost-hainan-trade-facilitation-97e121",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "samsung-q3-operating-profit-hits-record-018faf",
-      "title": "三星电子三季度营业利润刷新科技业单季纪录",
-      "description": "三星电子10月29日公布2026年第三季度（7月至9月）业绩，营收为195.25万亿韩元，同比增长126.88%；营业利润达107.44万亿韩元，同比增长783.1%，成为首家单季营业利润突破100万亿韩元的科技企业。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T03:38:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/samsung-q3-operating-profit-hits-record-018faf",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "business",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -217,25 +639,6 @@
       "sources": []
     },
     {
-      "id": "joseph-wu-liaoning-drills-east-first-island-chain-714e30",
-      "title": "吴钊燮称中国大陆逾50艘舰船在台日菲周边活动",
-      "description": "台湾国安会秘书长吴钊燮10月28日在社交平台X发文称，中国大陆逾50艘军舰和公务船在日本南部、台湾周边及菲律宾近海活动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T03:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/joseph-wu-liaoning-drills-east-first-island-chain-714e30",
-      "reference": [
-        "中央通訊社",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "commentary-urges-national-battery-swapping-platform-cada77",
       "title": "评论文章呼吁建设国家级开放换电平台",
       "description": "李峥、李培培在第一财经刊文，主张尽快建设国家级、开放型换电基础设施协同平台，并完善跨品牌兼容标准。",
@@ -271,27 +674,6 @@
       ],
       "section": "us",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "spain-trains-collide-kill-46-d000d5",
-      "title": "西班牙两列高铁相撞致至少68人死亡",
-      "description": "西班牙托莱多省乌尔达附近的马德里至安达卢西亚高速铁路，28日上午约9时发生两列高速列车相撞事故，至少68人死亡、80人受伤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T03:07:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/spain-trains-collide-kill-46-d000d5",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "法广",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 28,
       "sources": []
     },
     {
@@ -429,25 +811,6 @@
       "sources": []
     },
     {
-      "id": "alphabet-q3-revenue-profit-miss-estimates-9485a4",
-      "title": "Alphabet三季度业绩低于市场预期",
-      "description": "当地时间10月28日美股盘后，Alphabet公布截至9月30日的第三季度财报。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T02:26:38+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/alphabet-q3-revenue-profit-miss-estimates-9485a4",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "moore-threads-third-quarter-profit-turnaround-adfc18",
       "title": "摩尔线程三季度首次实现单季扣非盈利",
       "description": "摩尔线程10月28日发布2026年第三季度报告。",
@@ -538,25 +901,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "japan-us-defense-chiefs-affirm-alliance-deterrence-c04f93",
-      "title": "日美防长同意构建第一岛链防御体系",
-      "description": "日本防卫相小泉进次郎与美国国防部长赫格塞思10月28日在菲律宾宿务会谈约30分钟，商定合作完善一套连接日本南西诸岛、台湾及菲律宾的“第一岛链”防御体系，以威慑中国。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T02:02:38+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/japan-us-defense-chiefs-affirm-alliance-deterrence-c04f93",
-      "reference": [
-        "共同网",
-        "日经"
-      ],
-      "section": "asia",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -651,25 +995,6 @@
         "韩国国际广播电台"
       ],
       "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "us-bars-chinese-genomics-firms-imports-206500",
-      "title": "美国将华大三家企业列入清单禁其产品入美",
-      "description": "美国国土安全部于10月28日将华大集团、华大基因和华大智造列入《防止强迫维吾尔人劳动法》实体清单，相关产品将被禁止进入美国。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T01:40:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/us-bars-chinese-genomics-firms-imports-206500",
-      "reference": [
-        "联合早报",
-        "纽约时报"
-      ],
-      "section": "china",
       "sourceCount": 2,
       "sources": []
     },
@@ -972,26 +1297,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "merz-first-japan-visit-takaichi-meeting-856d46",
-      "title": "高市与默茨同意设立日德人工智能高级别对话",
-      "description": "日本首相高市早苗与德国总理弗里德里希·默茨10月28日在东京举行会谈。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T00:23:39+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-25",
-      "url": "https://kaopu.news/story/2026-10-25/merz-first-japan-visit-takaichi-meeting-856d46",
-      "reference": [
-        "共同网",
-        "德国之声",
-        "韩国国际广播电台"
-      ],
-      "section": "world",
-      "sourceCount": 9,
       "sources": []
     },
     {
@@ -1789,44 +2094,6 @@
       "sources": []
     },
     {
-      "id": "shanghai-cross-border-reinsurance-investment-pilot-73865a",
-      "title": "上海启动跨境再保险分入收入境外投资试点",
-      "description": "10月28日，上海市委金融办、国家金融监督管理总局上海监管局、中国人民银行上海总部和国家外汇管理局上海市分局，在2026上海国际再保险会议开幕式上联合发布《跨境再保险分入业务收入境外投资便利化试点实施办法》。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T13:31:40.688165+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/shanghai-cross-border-reinsurance-investment-pilot-73865a",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "three-policy-banks-complete-new-financial-tools-b6f038",
-      "title": "中国三家政策性银行完成8000亿元工具投放",
-      "description": "截至10月28日，国家开发银行、中国进出口银行和中国农业发展银行完成2026年8000亿元新型政策性金融工具投放。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T13:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/three-policy-banks-complete-new-financial-tools-b6f038",
-      "reference": [
-        "澎湃新闻",
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "france-consumer-confidence-hits-13-year-low-693eff",
       "title": "法国消费者信心指数跌至13年来最低水平",
       "description": "法国国家统计及经济研究局（INSEE）10月27日公布，法国10月消费者信心指数较上月下降5点至80，为2013年6月以来最低。",
@@ -1842,25 +2109,6 @@
         "中央通訊社"
       ],
       "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "fitch-upgrades-chinese-state-banks-viability-ratings-877478",
-      "title": "惠誉上调六大国有银行生存力评级",
-      "description": "惠誉评级10月27日确认中国工商银行、中国农业银行、中国银行、中国建设银行、交通银行和中国邮政储蓄银行的长期外币发行人评级为“A”，展望稳定；六家银行的短期发行人评级均为“F1+”，政府支持评级均为“a”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T13:23:40.688841+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/fitch-upgrades-chinese-state-banks-viability-ratings-877478",
-      "reference": [
-        "财新",
-        "第一财经"
-      ],
-      "section": "business",
       "sourceCount": 2,
       "sources": []
     },
@@ -1956,24 +2204,6 @@
       "sources": []
     },
     {
-      "id": "gotion-high-tech-q3-net-loss-dafaa0",
-      "title": "国轩高科三季度归母净利润亏损5.37亿元",
-      "description": "国轩高科10月28日晚披露2026年第三季度报告。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T13:00:39.645611+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/gotion-high-tech-q3-net-loss-dafaa0",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "tang-kok-soo-wins-uob-double-award-55163d",
       "title": "陈国士凭《一朵大花》获绘画比赛双料大奖",
       "description": "新加坡全职画家陈国士凭纸上综合媒介作品《一朵大花》，获得2026年第45届大华银行绘画比赛新加坡资深画家组大奖和东南亚最佳画作奖，奖金共4万6000元。",
@@ -1988,24 +2218,6 @@
         "联合早报"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "public-funds-quarterly-loss-record-536cb2",
-      "title": "公募基金三季度亏损逾1.53万亿元创单季新高",
-      "description": "第一财经依据Wind数据统计，2026年第三季度公募基金管理人旗下产品合计亏损超过1.53万亿元，刷新公募单季度亏损纪录；年内累计基金利润为2040亿元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T12:59:36.861406+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/public-funds-quarterly-loss-record-536cb2",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -2089,24 +2301,6 @@
       ],
       "section": "world",
       "sourceCount": 20,
-      "sources": []
-    },
-    {
-      "id": "china-navy-coast-guard-sail-pacific-1e0dfe",
-      "title": "中国海警船与三艘海军舰艇经大隅海峡驶向太平洋",
-      "description": "一艘中国海警船与三艘中国海军舰艇组成的编队，10月27日经鹿儿岛县近海的大隅海峡驶向太平洋。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T12:42:21+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/china-navy-coast-guard-sail-pacific-1e0dfe",
-      "reference": [
-        "共同网"
-      ],
-      "section": "china",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2223,25 +2417,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-durable-goods-confidence-17-year-low-d3bc5b",
-      "title": "台湾消费者耐用消费品购买信心跌至逾17年新低",
-      "description": "中央大学台湾经济发展研究中心10月27日公布，台湾10月消费者信心指数为66.27点，较9月下降2.5点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T11:50:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/taiwan-durable-goods-confidence-17-year-low-d3bc5b",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "russian-submarine-tests-bulava-missile-4223a1",
       "title": "俄战略核潜艇水下成功试射布拉瓦洲际导弹",
       "description": "俄罗斯战略核潜艇“苏沃洛夫大元帅”号在鄂霍次克海水下成功试射一枚“布拉瓦”洲际弹道导弹。",
@@ -2278,24 +2453,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-approves-12-major-investment-projects-16bc32",
-      "title": "经济部投审会核准12件重大投资案",
-      "description": "台湾经济部投资审议会10月28日召开第36次会议，批准12项重大投资案：4项侨外投资总额约371亿2620万元新台币，8项对外投资总额约27.4693亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T10:36:16+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/taiwan-approves-12-major-investment-projects-16bc32",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "philippines-negotiates-oil-storage-deals-e2d8f2",
       "title": "菲律宾政府与多国洽谈境内储油合作",
       "description": "菲律宾正与沙特阿拉伯、俄罗斯、美国等国商谈在菲律宾境内储存石油，以建立战略储备。",
@@ -2308,45 +2465,6 @@
       "url": "https://kaopu.news/story/2026-10-28/philippines-negotiates-oil-storage-deals-e2d8f2",
       "reference": [
         "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "rfi-barrack-says-us-may-strike-iran-weekend-521694",
-      "title": "美国对伊行动开支估算超过470亿美元",
-      "description": "美国对伊朗军事行动的开支估算已超过470亿美元，较美国国防部长皮特·赫格塞思7月公布的约375亿美元增加逾25%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T10:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/rfi-barrack-says-us-may-strike-iran-weekend-521694",
-      "reference": [
-        "联合早报",
-        "法广",
-        "澎湃新闻",
-        "韩民族日报"
-      ],
-      "section": "world",
-      "sourceCount": 20,
-      "sources": []
-    },
-    {
-      "id": "takaichi-merz-agree-critical-minerals-supply-resilience-894697",
-      "title": "高市早苗与默茨同意强化关键矿产供应链韧性",
-      "description": "日本首相高市早苗10月28日与德国总理默茨举行会谈。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T10:22:14+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/takaichi-merz-agree-critical-minerals-supply-resilience-894697",
-      "reference": [
-        "共同网"
       ],
       "section": "world",
       "sourceCount": 1,
@@ -2386,25 +2504,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "un-first-committee-passes-japan-nuclear-abolition-resolution-36ee74",
-      "title": "日本废核决议获联大第一委员会150票通过",
-      "description": "联合国大会第一委员会10月27日通过日本提交的废除核武器决议案，获150国赞成，较去年增加5票；该案连续第33年通过。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T10:02:28+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/un-first-committee-passes-japan-nuclear-abolition-resolution-36ee74",
-      "reference": [
-        "共同网",
-        "日本放送协会"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2700,24 +2799,6 @@
       ],
       "section": "china",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "ice-election-visits-voter-intimidation-concerns-eb3ecd",
-      "title": "纽约检察长重申ICE不得以执法为由进入投票站",
-      "description": "纽约州检察长詹乐霞27日提醒选民，联邦和纽约州法律均保护投票，联邦探员及选举监察员不得干预选民投票。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T06:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/ice-election-visits-voter-intimidation-concerns-eb3ecd",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3030,24 +3111,6 @@
         "世界日报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "sheng-thao-andy-duong-cws-lawsuit-recording-01d67d",
-      "title": "据报2019年电话录音显示盛桃催杨英雄为CWS准备诉讼材料",
-      "description": "圣荷西信使报（Mercury News）报道，盛桃贪腐案审理中，一段她与杨英雄的电话录音被采纳为证据之一。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/sheng-thao-andy-duong-cws-lawsuit-recording-01d67d",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -3384,24 +3447,6 @@
         "世界日报"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "zou-zhipeng-rural-teaching-twenty-years-9b6dfb",
-      "title": "邹志鹏辞去稳定工作坚持支教二十年",
-      "description": "邹志鹏2007年辞去江苏江阴的稳定工作，前往贵州山区自费支教。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T20:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/zou-zhipeng-rural-teaching-twenty-years-9b6dfb",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -3889,27 +3934,6 @@
       "sources": []
     },
     {
-      "id": "kevin-tsai-says-never-backed-taiwan-independence-apologizes-fdb1bf",
-      "title": "国民党为蒋万安竞选大会借校辩护",
-      "description": "台北市长蒋万安10月26日在台北市敦化国中举行竞选总部成立大会，争取连任。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T05:38:31+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-25",
-      "url": "https://kaopu.news/story/2026-10-25/kevin-tsai-says-never-backed-taiwan-independence-apologizes-fdb1bf",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "英国广播公司",
-        "公视"
-      ],
-      "section": "culture",
-      "sourceCount": 16,
-      "sources": []
-    },
-    {
       "id": "singapore-launches-marvel-ai-materials-research-be0319",
       "title": "新加坡推出MARVEL-AI加快先进材料研发",
       "description": "新加坡副总理兼能源贸工部长（贸易）颜金勇10月27日在“2026年新加坡科技创新周”宣布推出材料加速研究与创投启动平台（MARVEL-AI），并在新加坡科技研究局（A*STAR）设立人工智能自动化实验室。",
@@ -4094,24 +4118,6 @@
       "sources": []
     },
     {
-      "id": "richard-borcherds-stops-grading-homework-b8d3c7",
-      "title": "柏克莱加大教授据报停止批改学生作业",
-      "description": "《世界日报》援引《加州邮报》的报道说，柏克莱加大数学教授、菲尔兹奖得主理查德·博赫兹因发现不少学生用ChatGPT等人工智能工具完成作业，宣布不再批改学生作业。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T13:02:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/richard-borcherds-stops-grading-homework-b8d3c7",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "hong-kong-tokenized-funds-secondary-trading-03dc78",
       "title": "香港证监会批准两只代币化基金全天候二级交易",
       "description": "香港证监会批准华夏基金（香港）旗下两只代币化基金在持牌虚拟资产交易平台（VATP）开展二级市场交易。",
@@ -4126,24 +4132,6 @@
         "财新"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-ai-computing-centers-underused-41d224",
-      "title": "中国智算中心利用率仅为36.8%",
-      "description": "第一财经刊发的一篇分析称，中国已建成500余座智能算力中心，但截至2026年6月底，智能算力实际利用率为36.8%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T12:08:33.004898+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/china-ai-computing-centers-underused-41d224",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "ai",
       "sourceCount": 1,
       "sources": []
     },
@@ -4454,24 +4442,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nasa-artemis-iii-earth-orbit-test-mission-74e838",
-      "title": "NASA加快阿提米丝计划力争2028年载人登月",
-      "description": "NASA署长艾萨克曼10月23日在肯尼迪太空中心介绍后续登月安排，宣布加快阿提米丝计划，目标是在2028年让宇航员重返月球，并推进月球基地建设。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-25T06:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/nasa-artemis-iii-earth-orbit-test-mission-74e838",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "tech",
-      "sourceCount": 3,
       "sources": []
     },
     {
