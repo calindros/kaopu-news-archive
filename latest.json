@@ -1,28 +1,335 @@
 {
   "details": {
     "date": "2026-10-29",
-    "timestamp": 1793237380,
+    "timestamp": 1793244100,
     "totalPages": 1,
     "total": 264
   },
   "stories": [
     {
-      "id": "microsoft-azure-quarterly-revenue-disclosure-d85b71",
-      "title": "微软首次单列Azure营收，单季收入达332亿美元",
-      "description": "微软于当地时间10月28日发布截至9月30日的2027财年第一财季业绩：营收922.79亿美元，较上年同期增长19%；按GAAP计算的净利润为366.29亿美元，增幅32%。",
+      "id": "moore-threads-third-quarter-profit-turnaround-adfc18",
+      "title": "摩尔线程三季度首次实现单季扣非盈利",
+      "description": "摩尔线程10月28日发布2026年第三季度报告。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-29T01:17:50+00:00",
+      "updatedAt": "2026-10-29T02:21:37.291901+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/moore-threads-third-quarter-profit-turnaround-adfc18",
+      "reference": [
+        "第一财经",
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "vance-iran-letter-restart-talks-9fdb42",
+      "title": "美媒称万斯致信伊朗高官探寻重启谈判",
+      "description": "据《华尔街日报》援引知情人士报道，美国副总统J.D.万斯奉总统唐纳德·特朗普指示，致信伊朗最高国家安全委员会秘书穆赫辛·雷扎伊，试探重启美伊停战谈判的可能。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T02:18:04+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/vance-iran-letter-restart-talks-9fdb42",
+      "reference": [
+        "联合早报",
+        "韩民族日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
+      "title": "弗拉维奥宣布在海外组织反对卢拉政府活动",
+      "description": "巴西总统选举落败者弗拉维奥·博索纳罗10月28日抵达美国后发布公开信，表示将在海外组织反对卢拉政府的活动，并自称“巴西领导人”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T02:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "法广",
+        "财新"
+      ],
+      "section": "world",
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
+      "id": "spain-trains-collide-kill-46-d000d5",
+      "title": "西班牙高铁追尾事故造成至少68人死亡",
+      "description": "西班牙中部托莱多省乌尔达附近，Renfe高速列车追尾撞上停驶的Iryo列车，至少造成68人死亡、50多人受伤，部分伤者伤势危重。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T02:08:17+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/spain-trains-collide-kill-46-d000d5",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "法广",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 26,
+      "sources": []
+    },
+    {
+      "id": "bloomberg-firms-subscribe-truth-api-9cde7c",
+      "title": "彭博等三家据报签约订阅特朗普帖文接口",
+      "description": "彭博、海纳国际集团和Jump Trading据路透社报道已签约订阅真实社群（Truth Social）的Truth API，以更快获取美国总统特朗普发布的帖文。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T02:05:41+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/bloomberg-firms-subscribe-truth-api-9cde7c",
+      "reference": [
+        "联合早报",
+        "世界日报"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "japan-us-defense-chiefs-affirm-alliance-deterrence-c04f93",
+      "title": "日美防长同意构建第一岛链防御体系",
+      "description": "日本防卫相小泉进次郎与美国国防部长赫格塞思10月28日在菲律宾宿务会谈约30分钟，商定合作完善一套连接日本南西诸岛、台湾及菲律宾的“第一岛链”防御体系，以威慑中国。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T02:02:38+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/japan-us-defense-chiefs-affirm-alliance-deterrence-c04f93",
+      "reference": [
+        "共同网",
+        "日经"
+      ],
+      "section": "asia",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "saizeriya-first-full-menu-price-hike-c5c4d4",
+      "title": "萨莉亚将实施上市以来首次全面涨价",
+      "description": "萨莉亚将于10月29日起在日本实施上市以来首次全面涨价，超过八成菜单平均上调6%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T02:02:38+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/saizeriya-first-full-menu-price-hike-c5c4d4",
+      "reference": [
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "kospi-losses-expand-three-percent-823ded",
+      "title": "韩国综合指数当日跌幅扩大至3%",
+      "description": "韩国综合指数当日跌幅扩大至3%，三星电子与SK海力士股价均走弱。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T01:55:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/kospi-losses-expand-three-percent-823ded",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "microsoft-azure-quarterly-revenue-disclosure-d85b71",
+      "title": "微软首度披露Azure季度营收331.65亿美元",
+      "description": "微软10月28日公布截至9月30日的2027财年第一财季业绩，营收922.79亿美元，同比增长19%；按GAAP计算的净利润为366.29亿美元，同比增长32%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T01:52:14+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-29",
       "url": "https://kaopu.news/story/2026-10-29/microsoft-azure-quarterly-revenue-disclosure-d85b71",
       "reference": [
         "澎湃新闻",
-        "日经"
+        "日经",
+        "中央通訊社"
       ],
       "section": "tech",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "taiwan-army-grounds-apache-helicopters-bf087e",
+      "title": "台湾陆军停飞阿帕契直升机等待检查",
+      "description": "台湾陆军已暂停AH-64E阿帕契攻击直升机飞行，等待检查。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T01:52:12+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/taiwan-army-grounds-apache-helicopters-bf087e",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "jin-seong-jun-us-visa-denial-d89ac4",
+      "title": "韩国国防委员长陈声准称赴美签证遭拒",
+      "description": "韩国国会国防委员会委员长、共同民主党议员陈声准10月28日称，他为访问美国太平洋司令部申请的签证遭美方拒绝；由他带队的国会代表团原定于11月1日至5日访美，行程安排因此受到影响。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T01:51:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/jin-seong-jun-us-visa-denial-d89ac4",
+      "reference": [
+        "韩国国际广播电台",
+        "韩民族日报"
+      ],
+      "section": "asia",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "nhk-reports-eu-ev-perks-exclude-japanese-cars-13d830",
+      "title": "高市要求欧盟修正电动车优惠规则",
+      "description": "据日经报道，日本首相高市早苗10月28日与德国总理弗里德里希·默茨会谈时，要求欧盟修正电动汽车优惠政策。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T01:48:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/nhk-reports-eu-ev-perks-exclude-japanese-cars-13d830",
+      "reference": [
+        "日本放送协会",
+        "德国之声",
+        "日经"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "south-korea-fines-google-apple-186ba4",
+      "title": "韩国监管机构以强制应用内支付为由罚谷歌苹果",
+      "description": "韩国放送媒体通信委员会认定谷歌、苹果违反《电信业务法》，因强制开发者选用指定的应用内支付方式、限制第三方支付及不当拖延应用审核，合计罚款637.1亿韩元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T01:47:47+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/south-korea-fines-google-apple-186ba4",
+      "reference": [
+        "中央通訊社",
+        "韩国国际广播电台"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-bars-chinese-genomics-firms-imports-206500",
+      "title": "美国将华大三家企业列入清单禁其产品入美",
+      "description": "美国国土安全部于10月28日将华大集团、华大基因和华大智造列入《防止强迫维吾尔人劳动法》实体清单，相关产品将被禁止进入美国。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T01:40:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/us-bars-chinese-genomics-firms-imports-206500",
+      "reference": [
+        "联合早报",
+        "纽约时报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "zhuoran-triggers-delisting-halts-trading-a6baaa",
+      "title": "*ST卓然触及终止上市情形并于10月29日起停牌",
+      "description": "*ST卓然连续20个交易日收盘市值低于3亿元，已触及终止上市情形。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T01:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/zhuoran-triggers-delisting-halts-trading-a6baaa",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "witkoff-norway-peace-proposal-talks-6bf424",
+      "title": "乌美俄计划11月在阿布扎比重启三方和谈",
+      "description": "乌克兰、俄罗斯和美国计划于11月在阿联酋首都阿布扎比举行三方技术层级会谈，以重启俄乌和平谈判；具体日期和会谈形式仍未敲定。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T01:18:48+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
+      "reference": [
+        "法广",
+        "澎湃新闻",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 45,
+      "sources": []
+    },
+    {
+      "id": "saic-motor-selects-ferrol-factory-site-8f32fb",
+      "title": "上汽集团选定西班牙费罗尔港口建厂",
+      "description": "中国上汽集团今年6月选定西班牙西北部费罗尔郊外一处闲置港口作为大型工厂厂址，项目预计提供1000多个就业岗位。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T01:17:18+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/saic-motor-selects-ferrol-factory-site-8f32fb",
+      "reference": [
+        "纽约时报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -47,24 +354,39 @@
       "sources": []
     },
     {
-      "id": "spain-trains-collide-kill-46-d000d5",
-      "title": "西班牙托莱多高铁追尾致68人死亡",
-      "description": "西班牙中部托莱多省乌尔达与洛斯耶韦内斯之间，10月28日发生高速列车追尾事故：西班牙国家铁路公司（Renfe）的一列列车撞上停驶的伊尔约公司（Iryo）列车。",
+      "id": "ecommerce-ai-model-images-unlabeled-c721bd",
+      "title": "电商AI模特图增多，部分店铺未作标注",
+      "description": "双十一临近，淘宝、拼多多和抖音部分店铺出现未作AI标注、疑似由AI生成的模特商品图。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-29T01:12:06+00:00",
+      "updatedAt": "2026-10-29T01:10:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/spain-trains-collide-kill-46-d000d5",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/ecommerce-ai-model-images-unlabeled-c721bd",
       "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "法广",
-        "公视"
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "himalayan-development-exposes-300000-to-disaster-risk-47773c",
+      "title": "喜马拉雅无序建设使至少30万人面临灾害风险",
+      "description": "一项由英国、尼泊尔和印度学者合作开展、发表于《科学报告》的研究发现，喜马拉雅部分高风险地区的建设扩张，已使至少30万人处于冰川湖溃决洪水、滑坡等灾害的高风险之中。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T01:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/himalayan-development-exposes-300000-to-disaster-risk-47773c",
+      "reference": [
+        "联合早报"
       ],
       "section": "world",
-      "sourceCount": 23,
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -87,36 +409,18 @@
       "sources": []
     },
     {
-      "id": "us-bars-chinese-genomics-firms-imports-206500",
-      "title": "美国将三家中国基因企业列入清单禁其产品进口",
-      "description": "美国国土安全部10月28日宣布，将深圳华大基因、深圳华大智造和深圳华大基因科技（华大集团）纳入《防止强迫维吾尔人劳动法》（UFLPA）实体清单，相关产品不得进入美国。",
+      "id": "jeju-chinese-funded-projects-stall-14b851",
+      "title": "济州中资开发项目停摆留下烂尾工程",
+      "description": "据朝鲜日报报道，济州多项中国资本参与的大型开发项目停工或取消，留下未完工建筑及当地承包商损失；济州国际自由城市开发中心（JDC）正在推进回购绿地集团康养城用地和建筑。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-29T01:02:00+00:00",
+      "updatedAt": "2026-10-29T01:04:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/us-bars-chinese-genomics-firms-imports-206500",
+      "url": "https://kaopu.news/story/2026-10-29/jeju-chinese-funded-projects-stall-14b851",
       "reference": [
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "jin-seong-jun-us-visa-denial-d89ac4",
-      "title": "韩国国防委员会委员长陈声准称遭美国拒签",
-      "description": "韩国国会国防委员会委员长、共同民主党议员陈声准称，美国拒绝了他为访问美国太平洋司令部申请的签证。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T00:59:49+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/jin-seong-jun-us-visa-denial-d89ac4",
-      "reference": [
-        "韩国国际广播电台"
+        "朝鲜日报"
       ],
       "section": "asia",
       "sourceCount": 1,
@@ -160,24 +464,6 @@
       "sources": []
     },
     {
-      "id": "vance-iran-letter-restart-talks-9fdb42",
-      "title": "华尔街日报称万斯致信伊朗高官探寻重启谈判",
-      "description": "美国副总统万斯据报在特朗普指示下致信伊朗最高国家安全委员会秘书雷扎伊，探询恢复美伊谈判。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T00:37:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/vance-iran-letter-restart-talks-9fdb42",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "changxin-memory-tops-two-index-weights-04a705",
       "title": "长鑫科技上市三个月后跻身两大指数权重首位",
       "description": "长鑫科技（688825.SH）上市约三个月后，已被纳入上证综合指数和上证科创板综合指数，并在两项指数中都成为权重最高的成分股。",
@@ -213,27 +499,6 @@
       ],
       "section": "life",
       "sourceCount": 16,
-      "sources": []
-    },
-    {
-      "id": "brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
-      "title": "弗拉维奥抵达迈阿密称将从海外领导反对派",
-      "description": "巴西总统选举落败者弗拉维奥·博索纳罗经阿根廷、厄瓜多尔转赴美国，10月28日抵达佛罗里达州迈阿密，并于当天发表公开信，称将从海外领导反对派、组织反对卢拉政府的活动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T00:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "法广",
-        "财新"
-      ],
-      "section": "world",
-      "sourceCount": 14,
       "sources": []
     },
     {
@@ -1055,25 +1320,6 @@
       "sources": []
     },
     {
-      "id": "nhk-reports-eu-ev-perks-exclude-japanese-cars-13d830",
-      "title": "德法妥协拟将土耳其排除在欧盟汽车优惠外",
-      "description": "欧盟拟通过公共采购和补贴优待欧洲制造汽车。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T14:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/nhk-reports-eu-ev-perks-exclude-japanese-cars-13d830",
-      "reference": [
-        "日本放送协会",
-        "德国之声"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "yuehai-water-reit-lists-shenzhen-9b4271",
       "title": "银华粤海水务水利REIT在深交所上市",
       "description": "银华粤海水务水利封闭式基础设施证券投资基金于2026年10月28日在深交所上市。",
@@ -1107,25 +1353,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "moore-threads-third-quarter-profit-turnaround-adfc18",
-      "title": "摩尔线程三季度首次实现单季扣非盈利",
-      "description": "摩尔线程10月28日发布2026年第三季度报告。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T13:47:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/moore-threads-third-quarter-profit-turnaround-adfc18",
-      "reference": [
-        "第一财经",
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1329,24 +1556,6 @@
       "url": "https://kaopu.news/story/2026-10-28/malaysia-probes-510-bid-rigging-firms-6b8168",
       "reference": [
         "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "south-korea-fines-google-apple-186ba4",
-      "title": "韩国对谷歌苹果处以637.1亿韩元罚款",
-      "description": "韩国广播媒体通信委员会10月28日对谷歌和苹果合计罚款637.1亿韩元，理由包括限制开发者的应用内支付选择、拖延应用审查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T13:17:46+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/south-korea-fines-google-apple-186ba4",
-      "reference": [
-        "中央通訊社"
       ],
       "section": "asia",
       "sourceCount": 1,
@@ -1693,24 +1902,6 @@
       "sources": []
     },
     {
-      "id": "japan-us-defense-chiefs-affirm-alliance-deterrence-c04f93",
-      "title": "日美防长同意合作构建第一岛链防御体系",
-      "description": "日本防卫相小泉进次郎与美国国防部长赫格塞思10月28日在菲律宾宿务会谈，同意合作建设连接日本南西诸岛、台湾和菲律宾的“第一岛链”防御体系，以威慑中国。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T11:46:52+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/japan-us-defense-chiefs-affirm-alliance-deterrence-c04f93",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "russian-submarine-tests-bulava-missile-4223a1",
       "title": "俄战略核潜艇水下成功试射布拉瓦洲际导弹",
       "description": "俄罗斯战略核潜艇“苏沃洛夫大元帅”号在鄂霍次克海水下成功试射一枚“布拉瓦”洲际弹道导弹。",
@@ -1970,27 +2161,6 @@
       "sources": []
     },
     {
-      "id": "zhang-yiming-retakes-china-richest-title-eb702a",
-      "title": "张一鸣以6700亿元财富刷新中国首富纪录",
-      "description": "胡润研究院10月27日发布《2026胡润百富榜》，字节跳动创始人张一鸣以6700亿元财富第二次成为中国首富，并刷新中国首富财富纪录。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T09:19:40.139402+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/zhang-yiming-retakes-china-richest-title-eb702a",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "财新",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "hongguo-green-bubble-short-drama-race-569347",
       "title": "红果与绿泡泡加速争夺短剧用户入口",
       "description": "红果短剧与腾讯微信内的绿泡泡短剧正加快争夺用户和内容供给。",
@@ -2101,27 +2271,6 @@
       "sources": []
     },
     {
-      "id": "witkoff-norway-peace-proposal-talks-6bf424",
-      "title": "特朗普称普京泽连斯基会晤将很快安排",
-      "description": "美国总统特朗普10月28日对记者表示，俄罗斯总统普京与乌克兰总统泽连斯基的会晤将很快安排。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T08:41:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
-      "reference": [
-        "法广",
-        "澎湃新闻",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 44,
-      "sources": []
-    },
-    {
       "id": "audi-georgia-factory-investment-3eb7c3",
       "title": "奥迪拟投资约40亿美元在佐治亚州建首座美国工厂",
       "description": "奥迪计划投资约40亿美元，在美国佐治亚州建设其首座整车工厂，生产面向北美市场的大型高端SUV。",
@@ -2157,43 +2306,6 @@
         "联合早报"
       ],
       "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "lancet-report-urges-climate-health-emergency-686d66",
-      "title": "《柳叶刀》呼吁将气候变化列为全球卫生紧急事件",
-      "description": "《柳叶刀倒计时》项目10月28日发布年度气候变化与健康报告，估算2016年至2023年全球约300万人死于高温相关原因，并敦促各国将气候变化列为“全球卫生紧急事件”，建立协调、长期的应对机制。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T08:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/lancet-report-urges-climate-health-emergency-686d66",
-      "reference": [
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "chinese-refiners-buy-west-african-brazilian-crude-5299c3",
-      "title": "中国炼油商据报采购西非巴西原油拓宽供应来源",
-      "description": "中国炼油商据报开始采购西非和巴西原油，以拓宽供应来源。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T08:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/chinese-refiners-buy-west-african-brazilian-crude-5299c3",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -2273,24 +2385,6 @@
       "sources": []
     },
     {
-      "id": "thailand-ev-imports-surge-138-percent-f772ec",
-      "title": "泰国9月电动车进口额同比激增138%",
-      "description": "泰国9月电动汽车进口额同比增长138%，达到4.21亿美元，较8月增加86%；近99%的进口电动车来自中国。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T08:06:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/thailand-ev-imports-surge-138-percent-f772ec",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "dan-bongino-urges-three-day-supplies-f2e088",
       "title": "邦吉诺呼吁美国民众备足三天应急物资",
       "description": "美国联邦调查局前副局长丹·邦吉诺10月26日在播客节目中敦促美国民众为家庭备好至少三天的食物、饮水及其他应急用品。",
@@ -2342,42 +2436,6 @@
         "联合早报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "kuala-lumpur-court-convicts-badru-hisyam-d41110",
-      "title": "吉隆坡地庭判巴德鲁希山诽谤元首罪成并处四月监禁",
-      "description": "吉隆坡地庭裁定，宏愿党协调员巴德鲁希山诽谤国家元首苏丹依布拉欣罪名成立，判处监禁四个月。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T07:47:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/kuala-lumpur-court-convicts-badru-hisyam-d41110",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "hegseth-proposes-us-asean-defense-framework-f316fd",
-      "title": "赫格塞斯提议美国与亚细安共建防务合作框架",
-      "description": "美国战争部长赫格塞斯提出，美方与亚细安共同制定防务合作框架，为今后数年的合作提供方向。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T07:39:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/hegseth-proposes-us-asean-defense-framework-f316fd",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -3366,24 +3424,6 @@
       "sources": []
     },
     {
-      "id": "jiangsu-universities-shift-digital-yuan-payroll-c516a7",
-      "title": "江苏多所高校将逐步用数字人民币发工资",
-      "description": "扬州大学、南通大学、江苏师范大学等江苏多所高校近日通知，编制内在职员工工资将逐步通过数字人民币钱包发放。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T13:08:54+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/jiangsu-universities-shift-digital-yuan-payroll-c516a7",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "state-local-elections-shape-data-centers-70335c",
       "title": "美国四州期中选举将影响数据中心建设政策",
       "description": "美国11月3日的期中选举将成为观察德州、俄亥俄州、密歇根州和乔治亚州数据中心政策走向的指标。",
@@ -4125,24 +4165,6 @@
       "sources": []
     },
     {
-      "id": "bytedance-expands-ai-computing-hiring-fe73da",
-      "title": "字节跳动扩招算力人才覆盖芯片与软硬件协同岗位",
-      "description": "字节跳动近日发布多项算力与人工智能岗位招聘。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T10:09:37.622695+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/bytedance-expands-ai-computing-hiring-fe73da",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "nvidia-gpu-prices-surge-huaqiangbei-68f4ee",
       "title": "英伟达高端显卡在华强北大幅涨价",
       "description": "深圳华强北多款英伟达高端消费级显卡近期大幅涨价，部分型号一周内上涨近千元甚至更多。",
@@ -4449,24 +4471,6 @@
       ],
       "section": "tech",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "china-autonomous-mining-truck-shipments-surge-e56a45",
-      "title": "中国无人驾驶矿卡出货六年增长近百倍",
-      "description": "中国无人驾驶矿用运输车出货和运营规模快速扩大。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-25T04:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-25",
-      "url": "https://kaopu.news/story/2026-10-25/china-autonomous-mining-truck-shipments-surge-e56a45",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
       "sources": []
     },
     {
