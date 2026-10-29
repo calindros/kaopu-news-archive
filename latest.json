@@ -3,17 +3,38 @@
     "date": "2026-10-29",
     "timestamp": 1793281037,
     "totalPages": 1,
-    "total": 267
+    "total": 268
   },
   "stories": [
     {
-      "id": "nyt-peltola-campaign-recruited-sullivan-spoiler-4855b0",
-      "title": "美国司法部就阿拉斯加同名候选人争议提起诉讼",
-      "description": "美国司法部已就阿拉斯加州联邦参议员选举中的同名候选人争议向联邦法院提起诉讼，要求在选民混淆影响选举结果时阻止认证，并调查投给独立候选人小丹·J·沙利文的选票是否原本意在支持现任共和党参议员丹·S·沙利文。",
+      "id": "hong-kong-housing-chief-resigns-over-fire-56173b",
+      "title": "香港政府公布宏福苑大火独立调查报告",
+      "description": "香港特区政府10月29日公布宏福苑大火独立委员会调查报告。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-29T12:02:00+00:00",
+      "updatedAt": "2026-10-29T13:18:24+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/hong-kong-housing-chief-resigns-over-fire-56173b",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "英国广播公司",
+        "端传媒"
+      ],
+      "section": "china",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "nyt-peltola-campaign-recruited-sullivan-spoiler-4855b0",
+      "title": "阿拉斯加州长下令调查民主党招募同名候选人指控",
+      "description": "阿拉斯加州长迈克·邓利维10月28日晚指示州公安厅调查《纽约时报》披露的民主党招募同名候选人一事，核查相关竞选操作是否违反州法。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T13:11:11+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-29",
       "url": "https://kaopu.news/story/2026-10-29/nyt-peltola-campaign-recruited-sullivan-spoiler-4855b0",
@@ -23,7 +44,308 @@
         "联合早报"
       ],
       "section": "us",
-      "sourceCount": 3,
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "spain-trains-collide-kill-46-d000d5",
+      "title": "西班牙托莱多高铁相撞事故致69人死亡",
+      "description": "西班牙中部托莱多省两列高速列车相撞事故的死亡人数升至69人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T13:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/spain-trains-collide-kill-46-d000d5",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "法广",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 31,
+      "sources": []
+    },
+    {
+      "id": "european-gas-futures-hit-100-euros-454beb",
+      "title": "欧洲天然气期货升破百欧元创2022年以来新高",
+      "description": "欧洲基准天然气期货价格升破每兆瓦时100欧元，创2022年12月以来新高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T12:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/european-gas-futures-hit-100-euros-454beb",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "法广",
+        "第一财经"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "merz-first-japan-visit-takaichi-meeting-856d46",
+      "title": "德国总理默茨首访日本并与高市深化合作",
+      "description": "德国总理弗里德里希·默茨10月28日首次访问日本，并在东京与日本首相高市早苗会谈。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T12:40:40+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-25",
+      "url": "https://kaopu.news/story/2026-10-25/merz-first-japan-visit-takaichi-meeting-856d46",
+      "reference": [
+        "共同网",
+        "德国之声",
+        "韩国国际广播电台",
+        "中央通訊社"
+      ],
+      "section": "world",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "lagarde-leaves-ecb-presidency-early-413dc9",
+      "title": "拉加德决定提前卸任欧洲央行行长",
+      "description": "欧洲央行10月29日宣布，行长克里斯蒂娜·拉加德将于2027年2月7日离任。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T12:39:37.145982+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/lagarde-leaves-ecb-presidency-early-413dc9",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "纽时报称美方认定黄乐涉嫌向北京传递情报",
+      "description": "《纽约时报》援引知情人士和美国官员称，美国官员认定新加坡云服务商Megaspeed高管黄乐涉嫌替中国搜集情报、向北京传递信息，并怀疑她协助中国规避限制，取得或转运英伟达先进人工智能芯片。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T12:30:42+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "taiwan-probes-councilors-election-bribery-embezzlement-f1bebe",
+      "title": "台湾检调搜查多名议员及候选人涉贿侵占案",
+      "description": "台湾彰化、桃园及台北检调部门10月28日至29日针对多名议员和候选人涉嫌贿选、侵占公款等案件展开搜索和约谈。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T12:24:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/taiwan-probes-councilors-election-bribery-embezzlement-f1bebe",
+      "reference": [
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-firms-data-leaks-hit-329-million-ab54c3",
+      "title": "日本企业前十月信息外泄量达3.29亿条",
+      "description": "日本网络安全公司Macnica的调查显示，2026年前十个月截至27日，企业因遭非法访问而泄露的姓名、密码等信息约3.29亿条，约为2025年全年数量的10倍、2024年全年的近100倍。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T12:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/japan-firms-data-leaks-hit-329-million-ab54c3",
+      "reference": [
+        "共同网"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "iran-says-three-tankers-hit-mines-strait-hormuz-b3c7b7",
+      "title": "伊朗称三艘油轮在霍尔木兹海峡触雷起火",
+      "description": "伊朗伊斯兰革命卫队称，三艘油轮在过去24小时内驶入霍尔木兹海峡南部一条未经授权的航道时触雷，随后爆炸起火。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T12:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/iran-says-three-tankers-hit-mines-strait-hormuz-b3c7b7",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "merz-asks-takaichi-ukraine-air-defense-346b36",
+      "title": "德国总理默茨请求高市加强对乌防空支援",
+      "description": "德国总理默茨10月28日在东京说，他已请日本首相高市早苗重新考虑进一步加强对乌克兰的防空支援。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T12:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/merz-asks-takaichi-ukraine-air-defense-346b36",
+      "reference": [
+        "共同网"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "conroy-says-australia-gains-pacific-influence-34800e",
+      "title": "康罗伊称澳大利亚在太平洋影响力竞争中取得进展",
+      "description": "澳大利亚国防工业兼太平洋岛国事务部长康罗伊在接受彭博社采访时表示，澳大利亚近几年在与中国争夺太平洋影响力的长期竞争中已有进展；但若要继续成为太平洋国家的首选合作伙伴，仍须兑现对该地区作出的承诺。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T12:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/conroy-says-australia-gains-pacific-influence-34800e",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "kangping-high-school-students-shared-needle-screening-7356a1",
+      "title": "康平县高级中学结核筛查中多名学生共用针头",
+      "description": "辽宁沈阳康平县高级中学10月27日进行结核病常规皮下试敏筛查时，一名医护人员违反“一人一针”规范，多名学生共用针头。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T12:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/kangping-high-school-students-shared-needle-screening-7356a1",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "russian-jet-drone-hits-dnipro-station-kills-13-de1a27",
+      "title": "俄喷气式无人机击中第聂伯罗火车站月台致13人死亡",
+      "description": "俄罗斯一架喷气式无人机击中乌克兰第聂伯罗火车站月台。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T12:02:46+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/russian-jet-drone-hits-dnipro-station-kills-13-de1a27",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "private-hire-car-buyers-face-loan-caps-3a3aa4",
+      "title": "个人私召车购车将不再豁免贷款限制",
+      "description": "新加坡交通部、金融管理局、能源贸工部和律政部宣布，自2026年10月30日起，个人购买并登记为私召车的汽车将不再豁免汽车贷款额度和期限限制。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T12:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/private-hire-car-buyers-face-loan-caps-3a3aa4",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "saic-group-nine-month-profit-falls-5197c2",
+      "title": "上汽集团前三季度净利润同比下降三成",
+      "description": "上汽集团10月29日晚披露2026年第三季度报告。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T11:58:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/saic-group-nine-month-profit-falls-5197c2",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "luzhou-laojiao-revenue-profit-fall-75dacc",
+      "title": "泸州老窖前三季度营收净利均大幅下滑",
+      "description": "泸州老窖股份有限公司10月29日发布2026年第三季度报告。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T11:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/luzhou-laojiao-revenue-profit-fall-75dacc",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "pakistan-bars-taiwan-airlines-airspace-a72a29",
+      "title": "巴基斯坦恢复台湾航空公司领空通行许可",
+      "description": "巴基斯坦一度以“一个中国”政策为由禁止台湾航空公司使用其领空，随后恢复中华航空和长荣航空的飞越许可。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T11:48:08+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/pakistan-bars-taiwan-airlines-airspace-a72a29",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "澎湃新闻",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 12,
       "sources": []
     },
     {
@@ -48,6 +370,26 @@
       "sources": []
     },
     {
+      "id": "atlantic-reports-hegseth-fires-j5-chief-sylvia-2b74bd",
+      "title": "赫格塞斯解除席尔维亚参谋首长联席会议战略主管职务",
+      "description": "美国国防部长皮特·赫格塞斯于10月28日解除陆军中将布雷特·席尔维亚在参谋首长联席会议战略、计划与政策部门（J5）的主管职务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T11:32:54+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/atlantic-reports-hegseth-fires-j5-chief-sylvia-2b74bd",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
       "id": "gallagher-warns-ai-rivalry-boosts-beijing-taiwan-invasion-a010c2",
       "title": "盖拉格警告人工智能竞赛或增强北京攻台动机",
       "description": "前美国众议员、Palantir防务业务主管迈克·盖拉格10月28日在印第安纳州一场国防政策活动上警告，中美人工智能竞争可能增加北京对台动武的诱因。",
@@ -67,6 +409,24 @@
       "sources": []
     },
     {
+      "id": "foreign-banks-issue-yuan-cds-outpay-chinese-banks-d85e2a",
+      "title": "多家外资银行发行大额存单部分利率高于中资行",
+      "description": "10月以来，汇丰、渣打、星展等外资银行推出人民币大额存单，永丰银行今年9月已上架三款三年期产品；部分产品利率高于中资银行同期限产品。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T11:29:35.274986+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/foreign-banks-issue-yuan-cds-outpay-chinese-banks-d85e2a",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "malaysia-government-signs-confidence-supply-pact-29626c",
       "title": "马来西亚下议院通过2027年预算案二读",
       "description": "马来西亚国会下议院以声浪表决通过2027年财政预算案二读，预算案进入委员会阶段。",
@@ -83,24 +443,6 @@
       ],
       "section": "asia",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "lagarde-leaves-ecb-presidency-early-413dc9",
-      "title": "拉加德决定提前卸任欧洲央行行长",
-      "description": "欧洲央行宣布，行长克里斯蒂娜·拉加德将于2027年2月7日离任。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T11:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/lagarde-leaves-ecb-presidency-early-413dc9",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -125,6 +467,24 @@
       "sources": []
     },
     {
+      "id": "philippines-singapore-power-nuclear-cooperation-217bc5",
+      "title": "菲律宾新加坡交换意向书探讨跨境电力与核能合作",
+      "description": "菲律宾能源部长贾林与新加坡能源、贸易及工业部长陈诗龙在新加坡国际能源周期间交换合作意向书，涉及跨境电力互联和民用核能。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T11:08:38+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/philippines-singapore-power-nuclear-cooperation-217bc5",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "three-policy-banks-complete-new-financial-tools-b6f038",
       "title": "三家政策性银行完成8000亿元工具投放",
       "description": "截至10月28日，国开行、进出口银行和农发行已用完2026年新型政策性金融工具的8000亿元额度。",
@@ -145,24 +505,23 @@
       "sources": []
     },
     {
-      "id": "pakistan-bars-taiwan-airlines-airspace-a72a29",
-      "title": "巴基斯坦恢复批准台湾航司飞越领空",
-      "description": "巴基斯坦民航局恢复批准中华航空和长荣航空使用巴基斯坦领空后，台湾客机于10月29日恢复飞越。",
+      "id": "new-york-limits-ai-companion-use-minors-73b775",
+      "title": "纽约州州长签署新法限制未成年人使用聊天机器人",
+      "description": "纽约州州长凯西·霍楚尔于10月28日签署一项针对聊天机器人的新法。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-29T10:59:29+00:00",
+      "updatedAt": "2026-10-29T11:02:51+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/pakistan-bars-taiwan-airlines-airspace-a72a29",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/new-york-limits-ai-companion-use-minors-73b775",
       "reference": [
-        "中央通訊社",
         "联合早报",
-        "澎湃新闻",
-        "公视"
+        "中央通訊社",
+        "法广"
       ],
-      "section": "asia",
-      "sourceCount": 11,
+      "section": "life",
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -275,6 +634,26 @@
       ],
       "section": "business",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "volkswagen-china-joint-ventures-post-loss-97c213",
+      "title": "大众汽车第三季度亏损扩大至58亿欧元",
+      "description": "大众汽车公布第三季度业绩，营收同比下降6.3%至753亿欧元，亏损58亿欧元，去年同期亏损11亿欧元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-29T10:32:48+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/volkswagen-china-joint-ventures-post-loss-97c213",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "法广"
+      ],
+      "section": "business",
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -430,25 +809,6 @@
       "sources": []
     },
     {
-      "id": "volkswagen-china-joint-ventures-post-loss-97c213",
-      "title": "大众汽车第三季度亏损扩大至58.6亿欧元",
-      "description": "大众汽车10月29日公布2026年第三季度业绩，录得58.6亿欧元营业亏损，去年同期亏损11亿欧元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T10:06:33+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/volkswagen-china-joint-ventures-post-loss-97c213",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "ge-vernova-plans-trench-group-acquisition-fe40fb",
       "title": "GE Vernova拟90亿美元收购Trench Group",
       "description": "GE Vernova宣布将通过投资公司Triton Partners收购高压电网设备企业Trench Group。",
@@ -463,24 +823,6 @@
         "澎湃新闻"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "merz-asks-takaichi-ukraine-air-defense-346b36",
-      "title": "默茨请求高市协助乌克兰获得防空支援",
-      "description": "德国政府方面消息称，德国总理默茨请求日本首相高市早苗协助向乌克兰提供防空支援。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T10:02:08+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/merz-asks-takaichi-ukraine-air-defense-346b36",
-      "reference": [
-        "共同网"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -689,26 +1031,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "hong-kong-housing-chief-resigns-over-fire-56173b",
-      "title": "香港公布宏福苑大火独立调查报告",
-      "description": "香港特区政府10月29日公布宏福苑大火独立委员会调查报告。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T09:01:28+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/hong-kong-housing-chief-resigns-over-fire-56173b",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "英国广播公司"
-      ],
-      "section": "china",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1077,27 +1399,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "european-gas-futures-hit-100-euros-454beb",
-      "title": "欧洲气价升破百欧元创2022年以来新高",
-      "description": "欧洲天然气价格升至2022年以来高位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T08:00:15.957543+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/european-gas-futures-hit-100-euros-454beb",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "法广",
-        "第一财经"
-      ],
-      "section": "world",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -1575,25 +1876,6 @@
       "sources": []
     },
     {
-      "id": "atlantic-reports-hegseth-fires-j5-chief-sylvia-2b74bd",
-      "title": "赫格塞斯解除陆军中将西尔维亚的J5主管职务",
-      "description": "美国国防部长赫格塞斯于10月28日解除陆军中将西尔维亚在五角大楼参谋长联席会议战略、计划与政策部（J5）的主管职务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T06:14:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/atlantic-reports-hegseth-fires-j5-chief-sylvia-2b74bd",
-      "reference": [
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "harvard-asian-freshmen-share-hits-record-a4f863",
       "title": "哈佛2030届亚裔新生比例升至43.2%",
       "description": "哈佛大学10月27日公布2030届（2030年毕业）新生族裔数据，亚裔占43.2%，创该校新高，高于2029届的41%。",
@@ -1986,27 +2268,6 @@
       "sources": []
     },
     {
-      "id": "merz-first-japan-visit-takaichi-meeting-856d46",
-      "title": "默茨访日与高市承诺深化多领域合作",
-      "description": "德国总理弗里德里希·默茨10月28日访问日本，与日本首相高市早苗举行会谈并发表联合声明。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T04:56:24+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-25",
-      "url": "https://kaopu.news/story/2026-10-25/merz-first-japan-visit-takaichi-meeting-856d46",
-      "reference": [
-        "共同网",
-        "德国之声",
-        "韩国国际广播电台",
-        "中央通訊社"
-      ],
-      "section": "world",
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
       "id": "takaichi-merz-agree-critical-minerals-supply-resilience-894697",
       "title": "高市早苗与默茨同意增强日德供应链韧性",
       "description": "高市早苗与德国总理默茨于10月28日18时左右在日本首相官邸会谈，将日德关系定位为“高级合作伙伴”。",
@@ -2046,27 +2307,6 @@
       "sources": []
     },
     {
-      "id": "spain-trains-collide-kill-46-d000d5",
-      "title": "西班牙两列高铁相撞造成68人死亡",
-      "description": "西班牙托莱多省乌尔达附近的马德里—安达卢西亚高速铁路线上，10月28日上午发生两列高速列车相撞事故。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T04:54:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/spain-trains-collide-kill-46-d000d5",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "法广",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 29,
-      "sources": []
-    },
-    {
       "id": "china-navy-coast-guard-sail-pacific-1e0dfe",
       "title": "中国海军与海警船编队经大隅海峡驶向太平洋",
       "description": "中国海军3艘舰艇与1艘中国海警船于10月27日经鹿儿岛县近海的大隅海峡驶向太平洋。",
@@ -2100,24 +2340,6 @@
         "日本放送协会"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "new-york-limits-ai-companion-use-minors-73b775",
-      "title": "纽约州州长签署新法限制未成年人使用AI伴侣功能",
-      "description": "纽约州州长凯西·霍楚尔周三签署新法，限制未成年人使用具有虚拟伴侣属性的人工智能聊天机器人功能。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T04:48:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/new-york-limits-ai-companion-use-minors-73b775",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -2416,24 +2638,6 @@
       "sources": []
     },
     {
-      "id": "commentary-urges-national-battery-swapping-platform-cada77",
-      "title": "评论文章呼吁建设国家级开放换电平台",
-      "description": "李峥、李培培在第一财经刊文，主张尽快建设国家级、开放型换电基础设施协同平台，并完善跨品牌兼容标准。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T03:13:33.789000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/commentary-urges-national-battery-swapping-platform-cada77",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "trump-says-taiwan-stole-us-chip-business-c0e130",
       "title": "林佳龙称特朗普谈台湾芯片流露挫折或羡慕",
       "description": "美国总统特朗普10月25日接受福克斯新闻节目《Sunday Morning Futures》电话采访，谈到关税和制造业回流后转向台湾及半导体产业。",
@@ -2639,44 +2843,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "taiwan-army-grounds-apache-helicopters-bf087e",
-      "title": "台湾陆军停飞阿帕契直升机等待检查",
-      "description": "台湾陆军已暂停AH-64E阿帕契攻击直升机飞行，等待检查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T01:52:12+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/taiwan-army-grounds-apache-helicopters-bf087e",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "jin-seong-jun-us-visa-denial-d89ac4",
-      "title": "韩国国防委员长陈声准称美方拒发签证",
-      "description": "韩国国会国防委员会委员长、共同民主党议员陈声准称，美方拒绝了他的公务签证申请，委员会原定于11月1日至5日访问美国太平洋司令部的行程能否如期进行尚不确定。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T01:51:31+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/jin-seong-jun-us-visa-denial-d89ac4",
-      "reference": [
-        "韩国国际广播电台",
-        "朝鲜日报",
-        "韩民族日报"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -3071,24 +3237,6 @@
       "sources": []
     },
     {
-      "id": "eu-drops-canada-associate-member-label-dc0c09",
-      "title": "CBC称欧盟草案删除加拿大“准成员”称谓",
-      "description": "CBC News援引看过联合声明草案的知情人士称，欧盟已在加拿大与欧盟峰会声明的最新草案中删去“准成员”一词，改为寻求建立更紧密的双边关系。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T21:06:38.194000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/eu-drops-canada-associate-member-label-dc0c09",
-      "reference": [
-        "加拿大国际广播电台"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "us-woman-convicted-islamic-state-training-50dba7",
       "title": "纽约法院裁定沙尔曼因接受伊斯兰国军事训练罪名成立",
       "description": "纽约法院10月28日裁定美国女子沙尔曼（Halima Salman）罪名成立。",
@@ -3108,24 +3256,6 @@
       "sources": []
     },
     {
-      "id": "iran-parliament-npt-withdrawal-plan-ready-f6eb61",
-      "title": "阿齐兹称伊朗议会备妥退出《不扩散核武器条约》计划",
-      "description": "伊朗议会退出《不扩散核武器条约》的方案已完成准备工作，该国议会国家安全与外交政策委员会主席阿齐兹于当地时间28日作出上述表态。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T18:46:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/iran-parliament-npt-withdrawal-plan-ready-f6eb61",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "bay-area-voters-decide-congressional-seats-989f2b",
       "title": "湾区选民将在期中选举中决定国会席位",
       "description": "加州选民将在11月3日期中选举中选出新州长，并决定14项州级公投；湾区国会选举、地方竞选以及交通、住房和市府治理提案也将由选民投票决定。",
@@ -3140,24 +3270,6 @@
         "世界日报"
       ],
       "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "russia-clears-azov-grain-ships-6cf979",
-      "title": "路透社称俄方首次放行亚速海运粮船",
-      "description": "联合早报援引路透社报道，俄方首次批准出口粮船驶离亚速海。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T15:49:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/russia-clears-azov-grain-ships-6cf979",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -3536,24 +3648,6 @@
       "sources": []
     },
     {
-      "id": "china-employment-shifts-drive-vocational-reform-e844a8",
-      "title": "就业需求变化推动中国学校改革职业教育",
-      "description": "人工智能、机器人和绿色产业的发展，加上消费从以商品为主转向商品与服务并重，正在改变中国就业需求，推动学校调整教学，也促使部分家长重新考虑升学选择。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T06:56:54+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/china-employment-shifts-drive-vocational-reform-e844a8",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "ai-reshapes-chinese-students-major-choices-e5a80e",
       "title": "人工智能重塑中国大学生专业选择",
       "description": "人工智能正在改变中国大学生的专业选择及初级就业机会。",
@@ -3903,27 +3997,6 @@
       "sources": []
     },
     {
-      "id": "broadcom-secures-anthropic-chip-financing-835db2",
-      "title": "华尔街四家机构为Anthropic安排630亿美元融资",
-      "description": "美国银行、花旗集团、摩根士丹利和黑石集团宣布安排630亿美元融资，为Anthropic购买博通人工智能加速器及网络设备。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T23:04:41.877188+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/broadcom-secures-anthropic-chip-financing-835db2",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "财新",
-        "第一财经"
-      ],
-      "section": "ai",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "asahi-kasei-former-employee-charged-semiconductor-secrets-9ed2c2",
       "title": "旭化成前员工涉嫌泄露半导体机密被起诉",
       "description": "名古屋地方检察厅10月27日依据《反不正当竞争法》起诉旭化成前员工古川祥一（66岁），指控其泄露营业秘密；他此前因涉嫌泄密被爱知县警方逮捕。",
@@ -4013,44 +4086,6 @@
         "第一财经"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "wang-huimin-bribery-suspended-death-sentence-eb7955",
-      "title": "王会民受贿案一审被判死缓并终身监禁",
-      "description": "四川省成都市中级人民法院于2026年10月27日对中国证监会原党委委员、中央纪委国家监委驻证监会纪检监察组原组长王会民受贿案作出一审判决，判处王会民死刑、缓期二年执行，剥夺政治权利终身，并没收个人全部财产。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T10:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/wang-huimin-bribery-suspended-death-sentence-eb7955",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "财新"
-      ],
-      "section": "china",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "ustr-proposes-two-month-port-fee-pause-eb3c08",
-      "title": "美国提议将对华船舶港口费暂停期延长两个月",
-      "description": "美国贸易代表办公室10月26日公布提案，建议将美中暂停对相关船舶征收港口费的安排再延长两个月。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T09:51:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/ustr-proposes-two-month-port-fee-pause-eb3c08",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
@@ -4563,24 +4598,6 @@
         "澎湃新闻"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nanjing-university-dagu-glacier-ice-growth-addf61",
-      "title": "南京大学团队覆膜试验让达古冰川局部增高超10厘米",
-      "description": "中国科学院西北生态环境资源研究院王飞腾团队和南京大学朱嘉、朱斌团队先后在四川达古冰川开展覆膜试验，以减缓冰川消融。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-25T23:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/nanjing-university-dagu-glacier-ice-growth-addf61",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "tech",
       "sourceCount": 1,
       "sources": []
     },
