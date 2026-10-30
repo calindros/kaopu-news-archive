@@ -1,11 +1,74 @@
 {
   "details": {
     "date": "2026-10-30",
-    "timestamp": 1793374189,
+    "timestamp": 1793381407,
     "totalPages": 1,
     "total": 267
   },
   "stories": [
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "美媒称Megaspeed前高管黄乐曾向北京传递信息",
+      "description": "《纽约时报》报道，美国官员认定，新加坡数据中心公司Megaspeed前高管黄乐（Alice Huang）曾向中国政府传递信息，并怀疑她协助中国规避出口限制、获取英伟达先进人工智能芯片。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T16:12:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
+      "id": "witkoff-norway-peace-proposal-talks-6bf424",
+      "title": "俄方称美俄乌三方会谈具决定性意义",
+      "description": "俄罗斯计划在美国斡旋下，于11月在阿联酋阿布扎比举行俄美乌三方会谈。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T15:46:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
+      "reference": [
+        "法广",
+        "澎湃新闻",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 47,
+      "sources": []
+    },
+    {
+      "id": "eu-charges-two-euros-per-product-type-87e4f2",
+      "title": "欧盟11月起按商品类别征收小包裹处理费",
+      "description": "欧盟将从2026年11月1日起，对从欧盟以外直接寄给消费者的小包裹按商品类别收取处理费，每种不同类型的商品收费2欧元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T15:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/eu-charges-two-euros-per-product-type-87e4f2",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "法广",
+        "财新"
+      ],
+      "section": "life",
+      "sourceCount": 6,
+      "sources": []
+    },
     {
       "id": "intel-weak-q4-outlook-shares-drop-63ff61",
       "title": "英特尔股价因四季度指引逊预期盘中一度跌30%",
@@ -244,6 +307,42 @@
       "sources": []
     },
     {
+      "id": "all-nippon-airways-customer-data-leak-20709d",
+      "title": "全日空约3.78万名客户信息外泄",
+      "description": "全日本空输公司10月30日称，旅客服务系统的受托服务方遭非法访问，约3.78万名客户信息泄露。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T13:21:35+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/all-nippon-airways-customer-data-leak-20709d",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "a-share-firms-announce-buyback-plans-0a5c66",
+      "title": "A股上市公司披露回购预案提振市场信心",
+      "description": "10月最后一个交易日，上证指数收报3599.02点，再次跌破3600点。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T13:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/a-share-firms-announce-buyback-plans-0a5c66",
+      "reference": [
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "shanghai-bank-third-quarter-profit-falls-34c461",
       "title": "上海银行三季报显示前三季度净利同比下降24.49%",
       "description": "上海银行公布2026年第三季度报告，前三季度营业收入406.1亿元，同比下降1.29%；归母净利润136.49亿元，同比下降24.49%。",
@@ -260,6 +359,24 @@
       ],
       "section": "business",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "japan-foreign-ministry-network-breach-3600-data-leak-3e5d12",
+      "title": "日本外务省网络遭入侵约3600人信息或泄露",
+      "description": "日本外务省10月30日通报，其对外沟通网络遭非法访问，约3600人的姓名、邮箱等信息可能外泄。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T13:11:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/japan-foreign-ministry-network-breach-3600-data-leak-3e5d12",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -281,6 +398,24 @@
       ],
       "section": "tech",
       "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "cell-press-probe-finds-no-evidence-7d478a",
+      "title": "Cell Press调查未支持饶毅对毛云涛的指控",
+      "description": "Cell Press于10月29日晚表示，受其委托的外部第三方对饶毅指称《癌细胞》主编毛云涛索贿受贿一事的调查已基本完成，未找到支持指控的证据。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T13:03:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/cell-press-probe-finds-no-evidence-7d478a",
+      "reference": [
+        "财新"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -322,6 +457,24 @@
       "sources": []
     },
     {
+      "id": "cook-report-democrats-win-house-majority-ddc55e",
+      "title": "库克报告预测民主党赢得众议院多数",
+      "description": "库克政治报告即将发布的选情评估预计，民主党有望赢得美国众议院多数；在参议院选举中，共和党仍较有机会守住内布拉斯加州和佛罗里达州的席位。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T12:49:48+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/cook-report-democrats-win-house-majority-ddc55e",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "china-indonesia-malaysia-dismantle-drug-lab-7a4414",
       "title": "中印尼马合作摧毁班达亚齐制毒窝点",
       "description": "印度尼西亚国家禁毒委10月21日在班达亚齐捣毁一处大型毒品提纯窝点，缴获约1.2吨液态冰毒，抓获11名嫌疑人。",
@@ -338,6 +491,24 @@
       ],
       "section": "china",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "finland-police-probe-google-data-center-b682ec",
+      "title": "芬兰警方刑事调查谷歌子公司数据中心环保疑案",
+      "description": "芬兰奥卢警方10月29日宣布，对谷歌芬兰子公司Tuike启动刑事调查，核查其穆霍斯数据中心施工是否违反《水法》并造成环境损害。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T12:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/finland-police-probe-google-data-center-b682ec",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -381,6 +552,24 @@
       "sources": []
     },
     {
+      "id": "formosa-petrochemical-mailiao-carbon-storage-survey-approved-c5c423",
+      "title": "台塑石化麦寮碳封存探勘计划通过审查",
+      "description": "台塑石化提出的麦寮地区碳封存地质探勘计划于10月29日通过台湾环境部审查，是《碳捕捉封存管理办法》施行后首个通过审查的计划，标志着相关项目进入场址实证阶段。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T12:40:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/formosa-petrochemical-mailiao-carbon-storage-survey-approved-c5c423",
+      "reference": [
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "indonesia-minister-orders-emergency-peat-burning-ban-aeceea",
       "title": "新加坡与印尼将设立小组追究涉林火企业责任",
       "description": "新加坡与印度尼西亚同意成立联合工作小组，协调追究涉林火企业责任并交换信息。",
@@ -399,6 +588,24 @@
       ],
       "section": "asia",
       "sourceCount": 18,
+      "sources": []
+    },
+    {
+      "id": "dockworkers-plan-antiwar-strike-ff2213",
+      "title": "22国码头工人计划罢工抗议战争与武器出口",
+      "description": "来自22个国家的码头工人计划举行罢工，反对战争及利用港口出口武器。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T12:35:14+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/dockworkers-plan-antiwar-strike-ff2213",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -686,27 +893,6 @@
       ],
       "section": "china",
       "sourceCount": 10,
-      "sources": []
-    },
-    {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "纽约时报称美方认定黄乐为中国情报人员",
-      "description": "《纽约时报》10月29日报道称，美国官员认定新加坡数据中心企业Megaspeed前高管黄乐（Alice Huang）是向北京传递信息的中国情报人员，并怀疑她协助将英伟达先进人工智能芯片转运至中国。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T11:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 14,
       "sources": []
     },
     {
@@ -1554,24 +1740,6 @@
       "sources": []
     },
     {
-      "id": "china-steel-firms-q3-profit-drop-65eb3b",
-      "title": "中钢协公布重点钢企前三季度利润降27.4%",
-      "description": "中国钢铁工业协会重点统计企业前三季度营业收入4.57万亿元，同比下降2.3%；利润总额718亿元，下降27.4%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T08:56:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/china-steel-firms-q3-profit-drop-65eb3b",
-      "reference": [
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "patrick-stewart-dies-aged-86-b8240b",
       "title": "英国演员帕特里克·斯图尔特去世，享年86岁",
       "description": "英国演员帕特里克·斯图尔特于当地时间10月28日在洛杉矶家中去世，享年86岁，死讯于次日公布。",
@@ -2147,25 +2315,6 @@
       "sources": []
     },
     {
-      "id": "ahmad-zahid-urges-public-avoid-flood-risk-areas-a10506",
-      "title": "马来西亚进入东北季风期防灾力量待命",
-      "description": "马来西亚10月27日进入东北季风期，防灾部门已加强应对准备。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T06:24:38+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/ahmad-zahid-urges-public-avoid-flood-risk-areas-a10506",
-      "reference": [
-        "当今大马",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "peace-department-alleged-dhs-staff-leak-6c8fc2",
       "title": "非营利组织公开逾4万名美国国土安全部员工资料",
       "description": "非营利组织“Distributed Denial of Secrets”10月28日公布逾4万名美国国土安全部员工的个人信息，包括姓名、电话号码和电子邮箱地址。",
@@ -2328,42 +2477,6 @@
       ],
       "section": "us",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "malaysia-studies-rohingya-movement-restrictions-22f9d6",
-      "title": "马来西亚政府研究限制罗兴亚难民行动",
-      "description": "马来西亚政府计划通过难民登记文件（DPP）收集全国各地罗兴亚难民的信息，同时评估对这一群体实施行动限制是否可行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T06:13:27+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/malaysia-studies-rohingya-movement-restrictions-22f9d6",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-ministry-propofol-use-survey-30a7d6",
-      "title": "台湾卫福部不排除普查丙泊酚使用情况",
-      "description": "台湾卫福部表示，不排除全面普查医疗机构使用丙泊酚的情况。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T06:11:24+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/taiwan-ministry-propofol-use-survey-30a7d6",
-      "reference": [
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2947,45 +3060,6 @@
       "sources": []
     },
     {
-      "id": "uk-tax-foreign-sovereign-property-income-d6894b",
-      "title": "英国拟对外国主权投资者房地产收益征税",
-      "description": "英国拟收窄外国主权投资者税收豁免，把部分英国房地产租金、资产出售收益及经营性收入纳入征税。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T02:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/uk-tax-foreign-sovereign-property-income-d6894b",
-      "reference": [
-        "财新"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
-      "title": "弗拉维奥·博索纳罗抵美称将海外反卢拉",
-      "description": "巴西总统选举落败的参议员弗拉维奥·博索纳罗10月28日上午携妻子和两个女儿抵达美国佛罗里达州迈阿密附近，并表示将在海外组织反对总统卢拉政府的活动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T02:21:20+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "法广",
-        "财新"
-      ],
-      "section": "world",
-      "sourceCount": 23,
-      "sources": []
-    },
-    {
       "id": "quinn-emanuel-china-crossborder-litigation-risks-150123",
       "title": "昆鹰报告称中企跨境诉讼风险加大",
       "description": "美国昆鹰律师事务所2026年10月发布报告称，过去十年中国企业跨境诉讼更频繁、复杂，地缘政治风险凸显。",
@@ -3001,25 +3075,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "cooper-briefs-trump-iran-military-options-a2e6bf",
-      "title": "库珀赴白宫向特朗普汇报对伊军事选项",
-      "description": "美军中央司令部司令布拉德·库珀10月29日在白宫向特朗普汇报针对伊朗的军事行动选项。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T01:44:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/cooper-briefs-trump-iran-military-options-a2e6bf",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -3573,24 +3628,6 @@
       "sources": []
     },
     {
-      "id": "universities-cut-undergraduate-credits-c2b914",
-      "title": "多所高校压缩本科培养方案总学分",
-      "description": "深圳大学已部署修订2027版本科人才培养方案，理工类、师范类专业总学分原则上控制在150学分以内，其他四年制专业不超过140学分；建筑学、医学等专业按国家相关规范执行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T08:05:15.956457+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/universities-cut-undergraduate-credits-c2b914",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "hongguo-green-bubble-short-drama-race-569347",
       "title": "李亮称短剧与传统影视剧没有本质区别",
       "description": "10月29日，抖音集团副总裁李亮通过社交平台谈及短剧，称短剧与传统影视剧的差异主要在传播载体和呈现形式，不能简单判定哪种更好。",
@@ -3648,24 +3685,6 @@
       ],
       "section": "us",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "pew-asian-voters-two-thirds-naturalized-68c4a1",
-      "title": "皮尤称归化公民占亚裔合格选民近三分之二",
-      "description": "皮尤研究中心10月27日发布的分析显示，美国约有1250万名具备投票资格的亚裔公民，其中约810万人出生于海外，后来归化成为美国公民。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T06:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/pew-asian-voters-two-thirds-naturalized-68c4a1",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -4767,24 +4786,6 @@
       ],
       "section": "culture",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "alan-macfarlane-xiaohongshu-gains-260m-followers-5b6a81",
-      "title": "剑桥教授麦克法兰小红书走红粉丝达260万",
-      "description": "剑桥大学人类学教授麦克法兰在小红书分享人生经验、回应中国年轻人的困惑，一年多积累260万粉丝。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-24T05:03:39.093705+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/alan-macfarlane-xiaohongshu-gains-260m-followers-5b6a81",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "culture",
-      "sourceCount": 1,
       "sources": []
     },
     {
