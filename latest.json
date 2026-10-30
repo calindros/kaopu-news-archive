@@ -1,28 +1,341 @@
 {
   "details": {
     "date": "2026-10-30",
-    "timestamp": 1793337451,
+    "timestamp": 1793342651,
     "totalPages": 1,
-    "total": 262
+    "total": 261
   },
   "stories": [
     {
+      "id": "samsung-q3-operating-profit-hits-record-018faf",
+      "title": "三星电子三季度营业利润首破百万亿韩元",
+      "description": "三星电子公布2026年第三季度最终业绩，营业利润达107.4405万亿韩元，同比增长783.1%；营收为195.2532万亿韩元，同比增长126.9%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T05:35:51+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/samsung-q3-operating-profit-hits-record-018faf",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "法广",
+        "韩国国际广播电台"
+      ],
+      "section": "business",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "itaewon-anniversary-ceremony-seoul-af101b",
+      "title": "李在明在梨泰院事故四周年纪念仪式承诺查真相",
+      "description": "韩国总统李在明10月29日在首尔光化门广场举行的梨泰院踩踏事故四周年纪念仪式上承诺查清事故真相，并把调查结果转化为防止类似悲剧的措施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T05:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/itaewon-anniversary-ceremony-seoul-af101b",
+      "reference": [
+        "韩民族日报",
+        "财新"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "saudi-coalition-shoots-down-houthi-drone-mecca-a64b33",
+      "title": "沙特联军称在麦加空域击落胡塞无人机",
+      "description": "沙特主导的多国联军星期五（10月30日）称，在麦加空域拦截并击落一架其指称由胡塞武装发射的无人机，并称这是胡塞针对沙特的最新跨境袭击。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T04:55:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/saudi-coalition-shoots-down-houthi-drone-mecca-a64b33",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tokyo-core-cpi-rises-2-6-percent-279a8c",
+      "title": "东京23区核心物价10月同比上涨2.6%",
+      "description": "日本总务省10月30日公布，东京都23区10月中旬初值中，剔除生鲜食品后的消费者物价指数为103.3（以2025年为100），同比上涨2.6%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T04:55:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/tokyo-core-cpi-rises-2-6-percent-279a8c",
+      "reference": [
+        "共同网"
+      ],
+      "section": "life",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "iata-september-air-cargo-demand-up-0050e3",
+      "title": "国际航协公布9月航空货运需求增长7.7%",
+      "description": "国际航空运输协会（IATA）公布的9月全球航空货运数据显示，按货运吨公里（CTK）统计，全球需求同比增加7.7%，国际需求增加8.6%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T04:49:39.391438+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/iata-september-air-cargo-demand-up-0050e3",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "pag-evergrande-property-control-bid-0c3047",
+      "title": "太盟投资集团拟以40亿港元收购恒大物业控股权",
+      "description": "中国恒大及其子公司CEG Holdings于10月28日与太盟投资集团签订协议，拟以约40.26亿港元出售恒大物业约51.016%的股份。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T04:48:39.392194+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/pag-evergrande-property-control-bid-0c3047",
+      "reference": [
+        "财新",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "kddi-admits-mobicom-mongolia-grassland-fire-a75b5a",
+      "title": "日本将协助蒙古重建草原火灾灾区",
+      "description": "日本首相高市早苗10月29日与蒙古国总理乌其尔勒通电话，表示日本将协助修复草原火灾灾区。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T04:47:14+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-21",
+      "url": "https://kaopu.news/story/2026-10-21/kddi-admits-mobicom-mongolia-grassland-fire-a75b5a",
+      "reference": [
+        "澎湃新闻",
+        "日经",
+        "日本放送协会",
+        "共同网"
+      ],
+      "section": "world",
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "koizumi-philippines-asean-defense-meeting-aced43",
+      "title": "中国改派武官出席东盟防长扩大会",
+      "description": "第13届东盟防长扩大会议10月29日在菲律宾宿务举行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T04:46:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/koizumi-philippines-asean-defense-meeting-aced43",
+      "reference": [
+        "共同网",
+        "澎湃新闻",
+        "联合早报",
+        "法广"
+      ],
+      "section": "asia",
+      "sourceCount": 13,
+      "sources": []
+    },
+    {
+      "id": "yonhap-kim-jong-un-arrives-dandong-china-visit-5e9627",
+      "title": "韩国情报院称金正恩访华或传达对美对话立场",
+      "description": "韩国国家情报院据议员转述研判，朝鲜领导人金正恩10月24日访问中国辽宁省丹东期间，可能向中方传达了平壤对美朝对话的立场。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T04:46:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/yonhap-kim-jong-un-arrives-dandong-china-visit-5e9627",
+      "reference": [
+        "联合早报",
+        "法广",
+        "德国之声",
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 38,
+      "sources": []
+    },
+    {
+      "id": "gmo-requests-active-cyber-defense-cc7ba4",
+      "title": "GMO称已向警方提交追查黑客的重要线索",
+      "description": "GMO互联网集团表示，针对其面向投资者的外汇保证金交易云服务遭非法访问一事，公司已取得有助识别攻击者的重要线索，并于10月29日提交警方等相关部门。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T04:46:41+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/gmo-requests-active-cyber-defense-cc7ba4",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "日本放送协会",
+        "中央通訊社"
+      ],
+      "section": "world",
+      "sourceCount": 25,
+      "sources": []
+    },
+    {
+      "id": "merz-asks-takaichi-ukraine-air-defense-346b36",
+      "title": "默茨请高市考虑合作加强乌克兰防空支援",
+      "description": "德国总理弗里德里希·默茨10月28日在东京与日本首相高市早苗会谈后向德国媒体表示，他请高市考虑与德国共同探讨支援乌克兰，帮助乌方加强防空能力，以应对俄罗斯持续的军事行动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T04:44:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/merz-asks-takaichi-ukraine-air-defense-346b36",
+      "reference": [
+        "共同网",
+        "日本放送协会"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
       "id": "kim-jong-un-attends-drone-exhibition-789962",
-      "title": "金正恩要求朝鲜确立无人机技术绝对优势",
-      "description": "朝鲜10月29日举行“无人航空技术发展-2026”展览会，金正恩出席并观看无人机和武器实弹演示。",
+      "title": "金正恩要求朝鲜提升无人武器技术水平",
+      "description": "朝鲜“无人航空技术发展-2026”展览会于10月29日举行，金正恩与朝鲜国防省、军工部门干部出席，并观看无人机及武器系统演示。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T04:41:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/kim-jong-un-attends-drone-exhibition-789962",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "朝鲜日报"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "alphabet-q3-revenue-profit-miss-estimates-9485a4",
+      "title": "Alphabet股价暴跌市值蒸发5000亿美元",
+      "description": "Alphabet公布第三季度财报后的首个交易日，股价在10月29日大幅下跌，市值单日减少约5000亿美元，降至约3.46万亿美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T04:38:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/alphabet-q3-revenue-profit-miss-estimates-9485a4",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "第一财经",
+        "公视"
+      ],
+      "section": "business",
+      "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "boj-expected-hold-policy-rate-57af8c",
+      "title": "日本央行确认基础通胀已大致达到2%目标",
+      "description": "日本央行10月30日表示，剔除暂时性因素后的基础通胀已大致达到2%的物价稳定目标，预计今后仍将在这一水平附近。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T04:27:45+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/boj-expected-hold-policy-rate-57af8c",
+      "reference": [
+        "日本放送协会",
+        "中央通訊社",
+        "共同网",
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "china-platforms-remove-wukong-daiyu-romance-videos-0f171b",
+      "title": "中国多家平台下架孙悟空与林黛玉情侣视频",
+      "description": "中国多家网络平台10月表示，已下架数千条将孙悟空与林黛玉塑造成情侣的视频。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T04:25:25+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/china-platforms-remove-wukong-daiyu-romance-videos-0f171b",
+      "reference": [
+        "纽约时报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "malaysia-files-civil-claims-myeg-zetrix-0692e4",
+      "title": "马来西亚政府起诉MyEG追讨3.53亿令吉税款",
+      "description": "马来西亚政府已起诉Zetrix AI全资子公司MyEG，追讨内陆税收局追加征收的3亿5313万令吉所得税。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T04:25:01+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/malaysia-files-civil-claims-myeg-zetrix-0692e4",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "sichuan-updates-truck-night-driving-break-rules-e95fb1",
+      "title": "四川省交通运输厅调整货车夜间驾驶休息要求",
+      "description": "四川省交通运输厅已确认，普通营运货车夜间驾驶休息按国家规定执行：连续驾驶不得超过4小时而不停车休息，停车休息时间也不能少于20分钟。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
       "updatedAt": "2026-10-30T04:15:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/kim-jong-un-attends-drone-exhibition-789962",
+      "url": "https://kaopu.news/story/2026-10-30/sichuan-updates-truck-night-driving-break-rules-e95fb1",
       "reference": [
-        "澎湃新闻",
-        "联合早报"
+        "澎湃新闻"
       ],
-      "section": "asia",
-      "sourceCount": 2,
+      "section": "life",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -42,6 +355,24 @@
       ],
       "section": "asia",
       "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "china-investors-rush-30-year-bond-etfs-1ce5b3",
+      "title": "投资者涌入30年期国债ETF推高基金规模",
+      "description": "中国股市持续走弱之际，境内投资者将资金转向追踪30年期国债的ETF避险，鹏扬中债—30年期国债ETF与博时上证30年期国债ETF市值双双创下新高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T04:07:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/china-investors-rush-30-year-bond-etfs-1ce5b3",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -123,27 +454,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "boj-expected-hold-policy-rate-57af8c",
-      "title": "日本央行认定基础通胀率大致达到2%目标",
-      "description": "日本央行10月30日结束货币政策会议后，在《经济与物价形势展望报告》中判断，剔除暂时性波动因素后的基础物价涨幅已大致处于2%的物价稳定目标水平。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T03:45:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/boj-expected-hold-policy-rate-57af8c",
-      "reference": [
-        "日本放送协会",
-        "中央通訊社",
-        "共同网",
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 9,
       "sources": []
     },
     {
@@ -315,27 +625,6 @@
       "sources": []
     },
     {
-      "id": "alphabet-q3-revenue-profit-miss-estimates-9485a4",
-      "title": "Alphabet股价因财报逊于预期重挫逾12%",
-      "description": "Alphabet在10月28日发布的2026年第三季度财报未达市场预期，自由现金流连续第二个季度为负。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T03:01:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/alphabet-q3-revenue-profit-miss-estimates-9485a4",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "第一财经",
-        "公视"
-      ],
-      "section": "business",
-      "sourceCount": 11,
-      "sources": []
-    },
-    {
       "id": "binance-freezes-three-billion-hack-assets-ebaf47",
       "title": "币安称已冻结涉事加密资产约30亿美元",
       "description": "全球最大加密货币交易平台币安正在调查一起疑似安全事件。",
@@ -388,6 +677,26 @@
       ],
       "section": "life",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "jin-seong-jun-us-visa-denial-d89ac4",
+      "title": "韩国国防委员长陈声准赴美签证遭拒",
+      "description": "10月28日，韩国国会国防委员会委员长、共同民主党议员陈声准称，美方拒绝了他为公务访问申请的签证。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T02:49:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/jin-seong-jun-us-visa-denial-d89ac4",
+      "reference": [
+        "韩国国际广播电台",
+        "朝鲜日报",
+        "韩民族日报"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
       "sources": []
     },
     {
@@ -635,24 +944,6 @@
       "sources": []
     },
     {
-      "id": "tokyo-core-cpi-rises-2-6-percent-279a8c",
-      "title": "东京23区核心物价10月同比上涨2.6%",
-      "description": "日本总务省10月30日公布的中旬初值显示，东京都23区10月剔除生鲜食品后的综合消费者物价指数为103.3（以2025年为100），较上年同期上涨2.6%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T02:01:53+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/tokyo-core-cpi-rises-2-6-percent-279a8c",
-      "reference": [
-        "共同网"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "japan-launches-departure-tax-refund-system-51d024",
       "title": "日本免税退税将可通过JPYC稳定币领取",
       "description": "日本将于2026年11月1日启用新的访日游客消费税退税流程：游客购物时先支付含税价格，离境时经海关核验符合条件后再获退税。",
@@ -709,24 +1000,6 @@
       "sources": []
     },
     {
-      "id": "itaewon-anniversary-ceremony-seoul-af101b",
-      "title": "梨泰院事故四周年纪念仪式在首尔举行",
-      "description": "梨泰院踩踏事故四周年纪念仪式29日上午10时29分在首尔光化门广场举行，活动以向160名遇难者默哀开始。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T01:40:30+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/itaewon-anniversary-ceremony-seoul-af101b",
-      "reference": [
-        "韩民族日报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "eu-pressures-uk-raise-china-ev-tariffs-647222",
       "title": "日经称欧盟要求英国提高中国电动车关税",
       "description": "据日经报道，英国政府内部已出现提高中国纯电动汽车关税的方案，欧盟担心中国电动车经英国进入欧洲市场，正向英国施压。",
@@ -742,27 +1015,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "samsung-q3-operating-profit-hits-record-018faf",
-      "title": "三星电子三季度营业利润创历史新高",
-      "description": "三星电子10月29日公布2026年第三季度最终业绩。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T01:30:43+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/samsung-q3-operating-profit-hits-record-018faf",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "法广",
-        "韩国国际广播电台"
-      ],
-      "section": "business",
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -1516,24 +1768,6 @@
       "sources": []
     },
     {
-      "id": "ecb-holds-rates-european-stocks-rise-563bef",
-      "title": "欧洲央行维持利率不变后欧股收高",
-      "description": "美国联邦准备理事会10月28日维持利率不变，欧洲中央银行于10月29日也决定不调整利率，欧洲主要股市当日收盘上涨。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T17:51:08+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/ecb-holds-rates-european-stocks-rise-563bef",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "witkoff-norway-peace-proposal-talks-6bf424",
       "title": "俄乌美拟11月在阿布扎比重启三方会谈",
       "description": "乌克兰、俄罗斯和美国计划于11月在阿联酋首都阿布扎比举行工作层级三方会谈，以推动俄乌和平谈判重启，具体日期尚未确定。",
@@ -1628,25 +1862,6 @@
       "sources": []
     },
     {
-      "id": "volkswagen-unveils-china-developed-vega-15c4b3",
-      "title": "大众中国发布本土自研VEGA技术矩阵",
-      "description": "大众中国10月28日发布由中国团队主导开发的“VEGA”一体化技术矩阵，整合整车平台、电子电气架构和高级驾驶辅助系统。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T15:09:38.454096+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/volkswagen-unveils-china-developed-vega-15c4b3",
-      "reference": [
-        "联合早报",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "steinmeier-china-state-visit-e81e2a",
       "title": "施泰因迈尔在北大呼吁中欧公平合作",
       "description": "德国总统施泰因迈尔10月29日在北京大学接受荣誉教授称号后发表演讲，呼吁德国、中国及欧洲在公平条件下开展合作，并共同维护以规则为基础的国际秩序。",
@@ -1737,27 +1952,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "koizumi-philippines-asean-defense-meeting-aced43",
-      "title": "中国派国防武官出席东盟防长扩大会议",
-      "description": "第13届东盟防长扩大会议10月29日在菲律宾宿务举行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T14:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/koizumi-philippines-asean-defense-meeting-aced43",
-      "reference": [
-        "共同网",
-        "澎湃新闻",
-        "联合早报",
-        "法广"
-      ],
-      "section": "asia",
-      "sourceCount": 12,
       "sources": []
     },
     {
@@ -1931,105 +2125,6 @@
       "sources": []
     },
     {
-      "id": "indonesia-students-plan-jakarta-protest-2efd6b",
-      "title": "印尼学生示威要求野火列为国家级灾难",
-      "description": "数百名印尼学生和公民团体10月28日在雅加达等地示威，要求政府处理森林及泥炭地火灾，并将野火列为国家级灾难；望加锡、万隆也有抗议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T13:00:14+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/indonesia-students-plan-jakarta-protest-2efd6b",
-      "reference": [
-        "联合早报",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "taiwan-cabinet-approves-juvenile-justice-bill-fe6800",
-      "title": "台湾行政院与司法院会衔通过《少事法》修正草案",
-      "description": "台湾行政院与司法院会衔通过《少年事件处理法》部分条文修正草案，送交台湾立法院审议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T12:50:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/taiwan-cabinet-approves-juvenile-justice-bill-fe6800",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "european-gas-futures-hit-100-euros-454beb",
-      "title": "欧洲天然气期货升破百欧元创2022年以来新高",
-      "description": "欧洲基准天然气期货价格升破每兆瓦时100欧元，创2022年12月以来新高。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T12:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/european-gas-futures-hit-100-euros-454beb",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "法广",
-        "第一财经"
-      ],
-      "section": "world",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "merz-first-japan-visit-takaichi-meeting-856d46",
-      "title": "德国总理默茨首访日本并与高市深化合作",
-      "description": "德国总理弗里德里希·默茨10月28日首次访问日本，并在东京与日本首相高市早苗会谈。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T12:40:40+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-25",
-      "url": "https://kaopu.news/story/2026-10-25/merz-first-japan-visit-takaichi-meeting-856d46",
-      "reference": [
-        "共同网",
-        "德国之声",
-        "韩国国际广播电台",
-        "中央通訊社"
-      ],
-      "section": "world",
-      "sourceCount": 11,
-      "sources": []
-    },
-    {
-      "id": "lagarde-leaves-ecb-presidency-early-413dc9",
-      "title": "拉加德决定提前卸任欧洲央行行长",
-      "description": "欧洲央行10月29日宣布，行长克里斯蒂娜·拉加德将于2027年2月7日离任。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T12:39:37.145982+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/lagarde-leaves-ecb-presidency-early-413dc9",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "japan-firms-data-leaks-hit-329-million-ab54c3",
       "title": "日本企业前十月信息外泄量达3.29亿条",
       "description": "日本网络安全公司Macnica的调查显示，2026年前十个月截至27日，企业因遭非法访问而泄露的姓名、密码等信息约3.29亿条，约为2025年全年数量的10倍、2024年全年的近100倍。",
@@ -2044,24 +2139,6 @@
         "共同网"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "iran-says-three-tankers-hit-mines-strait-hormuz-b3c7b7",
-      "title": "伊朗称三艘油轮在霍尔木兹海峡触雷起火",
-      "description": "伊朗伊斯兰革命卫队称，三艘油轮在过去24小时内驶入霍尔木兹海峡南部一条未经授权的航道时触雷，随后爆炸起火。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T12:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/iran-says-three-tankers-hit-mines-strait-hormuz-b3c7b7",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -2156,27 +2233,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "gmo-requests-active-cyber-defense-cc7ba4",
-      "title": "日本政府据报要求运营商屏蔽GMO勒索网站",
-      "description": "日本总务省曾要求通信运营商屏蔽一个发布GMO互联网集团客户疑似个人信息的勒索网站。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T10:43:05+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/gmo-requests-active-cyber-defense-cc7ba4",
-      "reference": [
-        "共同网",
-        "联合早报",
-        "日本放送协会",
-        "中央通訊社"
-      ],
-      "section": "world",
-      "sourceCount": 24,
       "sources": []
     },
     {
@@ -2472,27 +2528,6 @@
       ],
       "section": "tech",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "yonhap-kim-jong-un-arrives-dandong-china-visit-5e9627",
-      "title": "韩国情报院称金正恩访华或传达朝美会谈立场",
-      "description": "朝鲜领导人金正恩10月24日经新鸭绿江大桥前往中国辽宁省丹东，完成为期一天的访问后返回朝鲜。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T07:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/yonhap-kim-jong-un-arrives-dandong-china-visit-5e9627",
-      "reference": [
-        "联合早报",
-        "法广",
-        "德国之声",
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 37,
       "sources": []
     },
     {
@@ -3579,24 +3614,6 @@
       "sources": []
     },
     {
-      "id": "study-links-pregnancy-wildfire-smoke-autism-risk-e38aa7",
-      "title": "美研究发现孕期林火烟霾暴露关联儿童自闭症风险上升",
-      "description": "一项美国大型观察性研究发现，孕期接触林火烟霾与儿童在八岁前确诊自闭症的风险上升相关，妊娠中期和晚期的关联尤其明显。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T13:53:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/study-links-pregnancy-wildfire-smoke-autism-risk-e38aa7",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "tetsuya-chiba-manga-artist-dies-87-824f6e",
       "title": "日本漫画家千叶彻弥因骨髓增生异常综合征去世",
       "description": "日本漫画家千叶彻弥因骨髓增生异常综合征于10月22日在东京一家医院去世，享年87岁。",
@@ -3888,24 +3905,6 @@
         "联合早报"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "retailers-ai-pricing-personalized-pricing-concerns-b9a74d",
-      "title": "零售商用AI调价引发个性化定价担忧",
-      "description": "连锁餐厅和大型零售商开始使用电子价格标签，并借助人工智能工具预测顾客反应辅助定价，消费者担心日常商品也会出现“同品不同价”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T06:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/retailers-ai-pricing-personalized-pricing-concerns-b9a74d",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "ai",
       "sourceCount": 1,
       "sources": []
     },
@@ -4690,25 +4689,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "henry-lee-yangzhou-memorial-burial-1d5913",
-      "title": "李昌钰追思暨安葬仪式在扬州举行",
-      "description": "李昌钰博士追思暨安葬仪式10月23日在江苏扬州举行，灵骨安葬于扬州墓园。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-23T13:48:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/henry-lee-yangzhou-memorial-burial-1d5913",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "culture",
-      "sourceCount": 2,
       "sources": []
     },
     {
