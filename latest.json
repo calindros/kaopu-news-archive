@@ -1,11 +1,497 @@
 {
   "details": {
     "date": "2026-10-30",
-    "timestamp": 1793348747,
+    "timestamp": 1793351871,
     "totalPages": 1,
-    "total": 262
+    "total": 265
   },
   "stories": [
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "纽时报称美方认定黄乐为中国情报人员",
+      "description": "《纽约时报》报道称，美国官员认定新加坡数据中心公司Megaspeed前高管、中国公民黄乐（Alice Huang）是向北京传递信息的中国情报资产，并怀疑她协助中国规避出口限制获取英伟达先进人工智能芯片。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T07:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "boj-expected-hold-policy-rate-57af8c",
+      "title": "日本央行确认基础物价涨幅达到2%目标",
+      "description": "日本央行在货币政策会议结束后认定，剔除暂时性因素后的基础物价涨幅大致符合2%的物价稳定目标。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T07:44:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/boj-expected-hold-policy-rate-57af8c",
+      "reference": [
+        "日本放送协会",
+        "中央通訊社",
+        "共同网",
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 13,
+      "sources": []
+    },
+    {
+      "id": "hong-kong-housing-chief-resigns-over-fire-56173b",
+      "title": "港府公布宏福苑大火监管问责改革方案",
+      "description": "香港特区政府10月30日举行宏福苑火灾专题记者会，保安局局长邓炳强、商务及经济发展局局长丘应桦、财政司副司长黄伟纶和发展局局长宁汉豪代表问责团队，再次向灾民及公众致歉，并说明问责调查和楼宇维修监管改革安排。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T07:42:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/hong-kong-housing-chief-resigns-over-fire-56173b",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "英国广播公司",
+        "端传媒"
+      ],
+      "section": "china",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "mayon-eruption-alert-level-three-evacuation-1952a2",
+      "title": "马荣火山爆发性喷发后警戒升至三级",
+      "description": "马荣火山当地时间10月30日上午11时53分开始爆炸性喷发，持续近六分钟，形成约3000米高的灰柱，向西南偏西方向飘移。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T07:36:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/mayon-eruption-alert-level-three-evacuation-1952a2",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "fcc-bans-china-labs-device-testing-35b1cc",
+      "title": "美国FCC投票不再认可中国实验室检测资质",
+      "description": "美国联邦通信委员会（FCC）10月29日投票更新外国电子设备测试实验室及认证机构的认可规则，决定从2028年12月1日起，不再认可中国等未与美国签署资质互认协议国家的实验室资质。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T07:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/fcc-bans-china-labs-device-testing-35b1cc",
+      "reference": [
+        "联合早报",
+        "财新",
+        "世界日报",
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "taiwan-stocks-drop-1600-points-90a763",
+      "title": "全球AI股抛售拖累台湾股市收跌1156.5点",
+      "description": "台湾加权指数10月30日开盘报46139.79点，盘中一度跌至44726.26点，较前一交易日下跌逾1642点。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T07:26:27+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/taiwan-stocks-drop-1600-points-90a763",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "binance-freezes-three-billion-hack-assets-ebaf47",
+      "title": "TRM称黑客从币安窃取约63.6亿美元资产",
+      "description": "币安正调查一起疑似资安漏洞事件。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T07:20:25+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/binance-freezes-three-billion-hack-assets-ebaf47",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "韩国国际广播电台"
+      ],
+      "section": "business",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "nikkei-plunges-below-63000-points-51abf0",
+      "title": "美国科技股走弱拖累日经指数收跌2.12%",
+      "description": "东京股市日经225指数30日收跌2.12%，报63290.11点；东证股价指数跌0.95%，报3965.07点，创3月以来最大单月跌幅。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T07:14:19+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/nikkei-plunges-below-63000-points-51abf0",
+      "reference": [
+        "澎湃新闻",
+        "共同网",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "south-korea-probe-inspects-songpa-ballots-de37a3",
+      "title": "韩国中央选管委运出手球馆大部分选票",
+      "description": "韩国中央选举管理委员会10月29日将首尔奥林匹克公园手球馆内经核验确认无异常的大部分松坡区选票运往首都圈一处仓库。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T07:11:23+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/south-korea-probe-inspects-songpa-ballots-de37a3",
+      "reference": [
+        "韩国国际广播电台",
+        "韩民族日报"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "merz-first-japan-visit-takaichi-meeting-856d46",
+      "title": "默茨首次访日与高市同意深化日德合作",
+      "description": "德国总理弗里德里希·默茨首次访问日本期间，与日本首相高市早苗举行会谈。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T07:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-25",
+      "url": "https://kaopu.news/story/2026-10-25/merz-first-japan-visit-takaichi-meeting-856d46",
+      "reference": [
+        "共同网",
+        "德国之声",
+        "韩国国际广播电台",
+        "日本放送协会"
+      ],
+      "section": "world",
+      "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "taiwan-army-transfers-two-officers-after-lieutenant-suicide-972189",
+      "title": "台湾国防部确认206旅女中尉案存在管理疏失",
+      "description": "台湾陆军206旅王姓女中尉于9月30日坠楼身亡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/taiwan-army-transfers-two-officers-after-lieutenant-suicide-972189",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "muji-app-user-data-exposure-97eae2",
+      "title": "良品计划称MUJI APP用户信息或已外泄",
+      "description": "良品计划公司10月30日表示，其官方应用“MUJI APP”出现未经授权的访问，最多约2726万条客户信息可能已经泄露。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:43:05+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/muji-app-user-data-exposure-97eae2",
+      "reference": [
+        "共同网"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "nyt-peltola-campaign-recruited-sullivan-spoiler-4855b0",
+      "title": "阿拉斯加州长下令调查同名候选人参选争议",
+      "description": "阿拉斯加州长迈克·邓利维10月28日晚要求州公共安全厅调查，一名与现任参议员丹·S·苏利文名字相近的候选人参选，是否涉及违反州法，并评估是否需要提起刑事或民事诉讼。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:42:16+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-peltola-campaign-recruited-sullivan-spoiler-4855b0",
+      "reference": [
+        "世界日报",
+        "法广",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "iran-says-three-tankers-hit-mines-strait-hormuz-b3c7b7",
+      "title": "伊朗称四艘油轮在霍尔木兹海峡触雷起火",
+      "description": "伊朗伊斯兰革命卫队称，过去24小时内，3艘油轮试图驶经霍尔木兹海峡南部未经授权航道时触雷爆炸起火。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:32:03+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/iran-says-three-tankers-hit-mines-strait-hormuz-b3c7b7",
+      "reference": [
+        "联合早报",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "kim-jong-un-attends-drone-exhibition-789962",
+      "title": "朝鲜展出新型无人机并举行实弹演示",
+      "description": "朝鲜于10月29日举行“无人航空技术发展-2026”展览会及武器演示，朝鲜劳动党总书记、国务委员长金正恩到场。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:32:03+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/kim-jong-un-attends-drone-exhibition-789962",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "朝鲜日报",
+        "韩国国际广播电台"
+      ],
+      "section": "asia",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "patrick-stewart-dies-aged-86-b8240b",
+      "title": "英国演员帕特里克·斯图尔特去世，享年86岁",
+      "description": "英国演员帕特里克·斯图尔特于当地时间10月28日在洛杉矶家中去世，享年86岁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:30:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/patrick-stewart-dies-aged-86-b8240b",
+      "reference": [
+        "澎湃新闻",
+        "公视"
+      ],
+      "section": "culture",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "asian-groups-sue-federal-voter-review-3e8eaa",
+      "title": "亚裔团体起诉要求联邦停止审查归化选民资格",
+      "description": "多个亚裔民权团体、美国公民自由联盟（ACLU）及Common Cause于10月28日提起诉讼，要求阻止美国联邦政府以争议性数据核查归化公民的选民资格。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/asian-groups-sue-federal-voter-review-3e8eaa",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "aca-insurers-exit-state-markets-2027-8c7383",
+      "title": "11家保险公司将退出部分州ACA市场",
+      "description": "11家保险公司计划在2027年退出部分州的《平价医疗法案》（ACA）保险市场，另有6家计划进入。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/aca-insurers-exit-state-markets-2027-8c7383",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "new-york-limits-ai-companion-use-minors-73b775",
+      "title": "纽约州州长签署新法限制未成年人使用AI聊天机器人",
+      "description": "纽约州州长凯西·霍楚于10月28日签署新法，要求AI聊天机器人运营商核验用户年龄，并限制未满18岁或尚未确认成年身份的用户使用特定高风险功能。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/new-york-limits-ai-companion-use-minors-73b775",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "法广",
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "ahmad-zahid-urges-public-avoid-flood-risk-areas-a10506",
+      "title": "马来西亚进入东北季风期防灾力量待命",
+      "description": "马来西亚10月27日进入东北季风期，防灾部门已加强应对准备。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:24:38+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/ahmad-zahid-urges-public-avoid-flood-risk-areas-a10506",
+      "reference": [
+        "当今大马",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "peace-department-alleged-dhs-staff-leak-6c8fc2",
+      "title": "非营利组织公开逾4万名美国国土安全部员工资料",
+      "description": "非营利组织“Distributed Denial of Secrets”10月28日公布逾4万名美国国土安全部员工的个人信息，包括姓名、电话号码和电子邮箱地址。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/peace-department-alleged-dhs-staff-leak-6c8fc2",
+      "reference": [
+        "法广",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "atlantic-reports-hegseth-fires-j5-chief-sylvia-2b74bd",
+      "title": "赫塞斯解职美军参联会J5战略主管",
+      "description": "美国国防部长皮特·赫塞斯10月28日解除陆军中将布雷特·西尔维亚的职务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/atlantic-reports-hegseth-fires-j5-chief-sylvia-2b74bd",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "bay-area-voters-decide-congressional-seats-989f2b",
+      "title": "加州选民11月3日将投票选举新州长",
+      "description": "加州选民将于11月3日参加中期选举，选出新州长和国会议员，并对多项州及地方议题作出决定。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/bay-area-voters-decide-congressional-seats-989f2b",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "choudri-resigns-california-high-speed-rail-f431e6",
+      "title": "加州高铁局首席执行官辞职，财政厅长暂代职务",
+      "description": "加州高铁局首席执行官Ian Choudri于10月28日晚辞职，结束约两年的任期。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:18:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/choudri-resigns-california-high-speed-rail-f431e6",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "silicon-valley-ai-firms-tighten-employee-security-5917cf",
+      "title": "据报OpenAI与Anthropic收紧员工安保",
+      "description": "据《纽约邮报》报道，OpenAI与Anthropic正在加强员工保密和人身安全管理，要求员工减少在公共场合暴露公司身份，并警惕商业间谍、抗议活动和人身攻击。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/silicon-valley-ai-firms-tighten-employee-security-5917cf",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
     {
       "id": "doordash-reportedly-in-talks-to-buy-instacart-371247",
       "title": "DoorDash宣布170亿元收购Instacart",
@@ -40,26 +526,6 @@
       ],
       "section": "us",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "fcc-bans-china-labs-device-testing-35b1cc",
-      "title": "美国FCC禁止中国实验室检测输美电子设备",
-      "description": "美国联邦通信委员会（FCC）10月29日投票决定，自2028年12月1日起，不再认可中国等未与美国签署资质互认协议国家的实验室为拟在美国销售或使用的电子设备提供检测服务，涉及智能手机、相机和电脑等产品。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T06:14:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/fcc-bans-china-labs-device-testing-35b1cc",
-      "reference": [
-        "联合早报",
-        "财新",
-        "世界日报"
-      ],
-      "section": "china",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -105,6 +571,60 @@
       "sources": []
     },
     {
+      "id": "taiwan-ministry-propofol-use-survey-30a7d6",
+      "title": "台湾卫福部不排除普查丙泊酚使用情况",
+      "description": "台湾卫福部表示，不排除全面普查医疗机构使用丙泊酚的情况。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:11:24+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/taiwan-ministry-propofol-use-survey-30a7d6",
+      "reference": [
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "chinese-parent-alleges-hlpusd-anti-asian-bias-9aeb0c",
+      "title": "匿名华人家长公开信指控哈冈学区存在反亚裔歧视",
+      "description": "哈冈拉朋地联合学区华裔教委郭志近日转发了一封署名“Chinese Mom”的匿名公开信。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/chinese-parent-alleges-hlpusd-anti-asian-bias-9aeb0c",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ice-enforcement-philadelphia-spending-losses-70beeb",
+      "title": "研究估算ICE执法令费城消费损失约8.11亿元",
+      "description": "宾州大学华顿商学院教授赫南德兹（Zeke Hernandez）的研究《ICE-ing the Economy》估算，美国移民和海关执法局（ICE）频繁执法使费城商店及工作场所到访量减少1.93亿人次，消费损失约8.11亿元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/ice-enforcement-philadelphia-spending-losses-70beeb",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "state-local-elections-shape-data-centers-70335c",
       "title": "美国州地选举聚焦数据中心审批限制",
       "description": "美国中期选举临近，数据中心建设引发的电价、水资源和社区利益争议，已进入多个州及地方竞选。",
@@ -124,6 +644,25 @@
       "sources": []
     },
     {
+      "id": "nvidia-funds-ai-clients-buys-unsold-compute-9361bd",
+      "title": "英伟达将斥资10亿美元入股NAVER，持股约4.54%",
+      "description": "NAVER公告称，英伟达将通过第三方配股增资投入10亿美元（约1.33万亿韩元），取得NAVER约4.54%的股份。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/nvidia-funds-ai-clients-buys-unsold-compute-9361bd",
+      "reference": [
+        "东亚日报",
+        "朝鲜日报"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "new-york-early-voting-begins-85d659",
       "title": "纽约市提前投票四天近29.5万人报到",
       "description": "纽约市2026年期中选举提前投票开始后的前四天，共有29万4604名选民在投票站报到，较2022年同期的17万1777人增加约七成。",
@@ -139,6 +678,27 @@
       ],
       "section": "us",
       "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "south-korea-prosecutors-seek-yoon-death-penalty-9be922",
+      "title": "韩国特检组二审请求判处尹锡悦死刑",
+      "description": "韩国首尔高等法院10月29日举行前总统尹锡悦涉嫌内乱首领罪等案的二审结案庭审，特别检察组请求判处他法定最高刑死刑。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:01:46+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/south-korea-prosecutors-seek-yoon-death-penalty-9be922",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "东亚日报",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
       "sources": []
     },
     {
@@ -163,6 +723,98 @@
       "sources": []
     },
     {
+      "id": "taiwan-affairs-office-denies-huang-yihao-claim-a60d90",
+      "title": "台湾民团呼吁修法加强防范跨境镇压",
+      "description": "台湾跨境镇压受害者及民间团体30日召开记者会，呼吁修订法律应对相关行为，并请台湾立法院考虑引入外国代理人登记制度。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:00:12+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/taiwan-affairs-office-denies-huang-yihao-claim-a60d90",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "american-dream-lifetime-cost-rises-9ab9f2",
+      "title": "美国梦终身成本升至532万美元",
+      "description": "Investopedia研究估算，2026年美国家庭一生实现“美国梦”所需支出达到532万美元，较2025年的511万美元增加20.8万美元，涨幅为4.1%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/american-dream-lifetime-cost-rises-9ab9f2",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ap-poll-half-americans-fear-food-unaffordable-450bf1",
+      "title": "美联社民调显示半数美国人担心买不起食物",
+      "description": "美国9月通胀率为3.7%，低于2022年9%的高点；但美联社10月公布的最新民调显示，半数美国民众担心自己买不起食物。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/ap-poll-half-americans-fear-food-unaffordable-450bf1",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ucla-trump-legal-immigrant-naturalization-falls-a4cb01",
+      "title": "UCLA研究称特朗普任内合法移民入籍人数减少76%",
+      "description": "加州大学洛杉矶分校（UCLA）社区知识中心的一项研究显示，特朗普执政期间，取得美国公民身份的合法移民人数较拜登执政期间减少76%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/ucla-trump-legal-immigrant-naturalization-falls-a4cb01",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-mortgage-rates-ease-above-seven-normal-039788",
+      "title": "美国房贷利率回落专家称逾7%成新常态",
+      "description": "美国固定房贷利率小幅回落，但市场平均利率仍在7%以上。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/us-mortgage-rates-ease-above-seven-normal-039788",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "china-blue-bay-restoration-wins-un-flagship-df25cc",
       "title": "中国蓝色海湾整治行动获评联合国生态旗舰项目",
       "description": "当地时间10月29日，联合国环境规划署在亚美尼亚首都埃里温举行的《生物多样性公约》第十七次缔约方大会“恢复日”活动中宣布，由中国自然资源部、财政部牵头实施的“中国蓝色海湾整治行动”入选2026年联合国“世界生态恢复旗舰项目”。",
@@ -181,20 +833,38 @@
       "sources": []
     },
     {
-      "id": "mayon-eruption-alert-level-three-evacuation-1952a2",
-      "title": "马荣火山喷发后警戒升至三级并要求居民撤离",
-      "description": "菲律宾吕宋岛阿尔拜省的马荣火山当地时间10月30日11时53分发生中度爆发性喷发，持续约六分钟。",
+      "id": "drone-bid-chinese-chip-detention-ab3c7c",
+      "title": "亚拓科技负责人夫妻涉中制芯片案遭羁押禁见",
+      "description": "台湾亚拓科技杜姓负责人及其妻子黄姓被告，因涉嫌在军方无人机采购项目中使用中国制造芯片、以不实产地履约，被法院裁定羁押禁见。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-30T05:54:00+00:00",
+      "updatedAt": "2026-10-30T05:55:52+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/mayon-eruption-alert-level-three-evacuation-1952a2",
+      "url": "https://kaopu.news/story/2026-10-30/drone-bid-chinese-chip-detention-ab3c7c",
       "reference": [
-        "联合早报"
+        "公视"
       ],
       "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "light-alarm-standards-aid-deaf-fire-alerts-865731",
+      "title": "基金会受托制定光警报评定机制助听障者获火警提醒",
+      "description": "消防安全中心基金会受托制定光警报装置性能评定机制，为设备的闪烁方式、频率和安装位置等制定评定要求，为采购和安装提供依据。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T05:48:03+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/light-alarm-standards-aid-deaf-fire-alerts-865731",
+      "reference": [
+        "公视"
+      ],
+      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -214,6 +884,25 @@
       ],
       "section": "world",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-clean-tech-exports-cut-emissions-206455",
+      "title": "研究报告估算中国清洁技术出口年减排约4.5亿吨",
+      "description": "中国清洁能源技术与设备出口创新高；综合路透社、彭博社等报道，芬兰能源与清洁空气研究中心（CREA）10月29日发布报告估算，相关设备在海外使用后每年可减排约4.5亿吨二氧化碳。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T05:41:57+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/china-clean-tech-exports-cut-emissions-206455",
+      "reference": [
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "world",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -347,6 +1036,24 @@
       "sources": []
     },
     {
+      "id": "fu-kun-chi-budget-bill-election-deadline-dda2e4",
+      "title": "台湾立法院延长会期至2027年1月31日",
+      "description": "台湾立法院朝野党团10月30日协商决定，配合九合一地方选举，11月23日至27日暂停院会及委员会会议；为完成2027年度总预算案审议，会期从原定的2026年12月31日延至2027年1月31日。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T04:53:22+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/fu-kun-chi-budget-bill-election-deadline-dda2e4",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "iata-september-air-cargo-demand-up-0050e3",
       "title": "国际航协公布9月航空货运需求增长7.7%",
       "description": "国际航空运输协会（IATA）公布的9月全球航空货运数据显示，按货运吨公里（CTK）统计，全球需求同比增加7.7%，国际需求增加8.6%。",
@@ -447,26 +1154,6 @@
       "sources": []
     },
     {
-      "id": "kim-jong-un-attends-drone-exhibition-789962",
-      "title": "金正恩要求朝鲜提升无人武器技术水平",
-      "description": "朝鲜“无人航空技术发展-2026”展览会于10月29日举行，金正恩与朝鲜国防省、军工部门干部出席，并观看无人机及武器系统演示。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T04:41:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/kim-jong-un-attends-drone-exhibition-789962",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "朝鲜日报"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "sternberg-anthropic-ipo-taiwan-security-535f8c",
       "title": "史坦伯格称Anthropic上市有利台湾安全",
       "description": "人工智能公司Anthropic本周公布首次公开募股（IPO）招股说明书，并计划下月上市。",
@@ -500,27 +1187,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "boj-expected-hold-policy-rate-57af8c",
-      "title": "日本央行确认基础通胀已大致达到2%目标",
-      "description": "日本央行10月30日表示，剔除暂时性因素后的基础通胀已大致达到2%的物价稳定目标，预计今后仍将在这一水平附近。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T04:27:45+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/boj-expected-hold-policy-rate-57af8c",
-      "reference": [
-        "日本放送协会",
-        "中央通訊社",
-        "共同网",
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 10,
       "sources": []
     },
     {
@@ -751,24 +1417,6 @@
       "sources": []
     },
     {
-      "id": "fu-kun-chi-budget-bill-election-deadline-dda2e4",
-      "title": "傅崐萁称115年度追加预算案将在选前完成",
-      "description": "台湾国民党立法院党团总召傅崐萁10月30日表示，115年度追加预算案将尽快处理，并在11月28日九合一选举前完成；台湾立法院定于11月3日邀请行政院长卓荣泰报告。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T03:26:39+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/fu-kun-chi-budget-bill-election-deadline-dda2e4",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "russian-jet-drone-hits-dnipro-station-kills-13-de1a27",
       "title": "俄军无人机袭击第聂伯罗列车致14人死亡",
       "description": "俄罗斯军队无人机于10月29日中午袭击乌克兰第聂伯罗中央火车站一列停靠的列车。",
@@ -828,24 +1476,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-stocks-drop-1600-points-90a763",
-      "title": "台湾股市早盘重挫失守45000点关口",
-      "description": "台湾股市30日早盘大幅下挫，跌破半年线和45000点关口。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T03:09:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/taiwan-stocks-drop-1600-points-90a763",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "us-midterm-election-day-storms-c30d47",
       "title": "美国期中选举投票日中部多州将遇强风雷雨",
       "description": "气象预报员预计，11月3日美国中部多州将有雷雨、降雨或强风，恶劣天气可能影响选民投票。",
@@ -861,25 +1491,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "binance-freezes-three-billion-hack-assets-ebaf47",
-      "title": "币安称已冻结涉事加密资产约30亿美元",
-      "description": "全球最大加密货币交易平台币安正在调查一起疑似安全事件。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T03:01:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/binance-freezes-three-billion-hack-assets-ebaf47",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -959,24 +1570,6 @@
       "sources": []
     },
     {
-      "id": "silicon-valley-ai-firms-tighten-employee-security-5917cf",
-      "title": "纽约邮报称硅谷AI公司收紧员工安保",
-      "description": "《纽约邮报》报道，OpenAI、Anthropic等硅谷人工智能企业正在加强员工安全管理，限制公司标识外露，并通过培训提醒员工防范商业间谍套取内部信息，以及针对人工智能行业的抗议和人身威胁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T02:45:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/silicon-valley-ai-firms-tighten-employee-security-5917cf",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "lee-jae-myung-migrant-policy-remarks-spark-backlash-174ec4",
       "title": "李在明多文化政策言论引发移民排斥争议",
       "description": "韩国总统李在明围绕多文化家庭产后调理院优待政策的社交媒体发言引发争议。",
@@ -1048,25 +1641,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nikkei-plunges-below-63000-points-51abf0",
-      "title": "日经指数早盘重挫一度跌破63000点",
-      "description": "东京股市日经指数30日早盘盘中跌逾1900点，一度跌破63000点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T02:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/nikkei-plunges-below-63000-points-51abf0",
-      "reference": [
-        "澎湃新闻",
-        "共同网"
-      ],
-      "section": "business",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1165,24 +1739,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-army-transfers-two-officers-after-lieutenant-suicide-972189",
-      "title": "台湾陆军206旅女中尉轻生后两名主管调职",
-      "description": "台湾陆军206旅一名女性中尉近日坠楼轻生。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T02:02:42+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/taiwan-army-transfers-two-officers-after-lieutenant-suicide-972189",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "japan-launches-departure-tax-refund-system-51d024",
       "title": "日本免税退税将可通过JPYC稳定币领取",
       "description": "日本将于2026年11月1日启用新的访日游客消费税退税流程：游客购物时先支付含税价格，离境时经海关核验符合条件后再获退税。",
@@ -1275,24 +1831,6 @@
       ],
       "section": "business",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "choudri-resigns-california-high-speed-rail-f431e6",
-      "title": "加州高铁局首席执行官Choudri突然辞职",
-      "description": "加州高铁局首席执行官Ian Choudri于10月28日晚辞职，结束约两年的任期。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T01:18:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/choudri-resigns-california-high-speed-rail-f431e6",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1460,44 +1998,6 @@
       "sources": []
     },
     {
-      "id": "aca-insurers-exit-state-markets-2027-8c7383",
-      "title": "最多11家保险公司计划退出部分州ACA市场",
-      "description": "面向2027年度的美国《平价医疗法案》（ACA）保险登记即将开始，最多11家保险公司已宣布计划在2027年退出部分州的ACA市场。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T00:45:23+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/aca-insurers-exit-state-markets-2027-8c7383",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "纽时称美方认定黄乐向北京传递情报",
-      "description": "《纽约时报》援引知悉监控行动的人士称，美国安全机构监控Megaspeed高管黄乐（Alice Huang）后，美国官员认定她是向北京传递信息的中国情报人员。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T00:42:58+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报"
-      ],
-      "section": "china",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "france-protests-rising-prices-erode-purchasing-power-7bdd38",
       "title": "法国民众示威抗议物价上涨挤压购买力",
       "description": "法国民众近期多次举行示威，抗议生活成本上升和购买力下滑；部分人担心天气转冷后难以负担取暖开支。",
@@ -1513,25 +2013,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "patrick-stewart-dies-aged-86-b8240b",
-      "title": "英国演员帕特里克·斯图尔特去世，享年86岁",
-      "description": "英国演员帕特里克·斯图尔特于美国时间10月28日在洛杉矶家中去世，享年86岁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T00:29:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/patrick-stewart-dies-aged-86-b8240b",
-      "reference": [
-        "澎湃新闻",
-        "公视"
-      ],
-      "section": "culture",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1586,65 +2067,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nvidia-funds-ai-clients-buys-unsold-compute-9361bd",
-      "title": "英伟达出资扶持客户并承诺购买未售算力",
-      "description": "英伟达通过投资人工智能基础设施企业、承诺购买未售出的算力来扶持客户扩张。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T00:02:46+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/nvidia-funds-ai-clients-buys-unsold-compute-9361bd",
-      "reference": [
-        "东亚日报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "south-korea-prosecutors-seek-yoon-death-penalty-9be922",
-      "title": "韩国特检组二审再次请求判处尹锡悦死刑",
-      "description": "韩国特检组于10月29日在首尔高等法院刑事第12-1合议庭举行的二审结案庭审中，再次请求判处前总统尹锡悦死刑。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T00:02:16+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/south-korea-prosecutors-seek-yoon-death-penalty-9be922",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "东亚日报"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "north-korea-fires-suspected-ballistic-missile-16e413",
-      "title": "朝鲜向东部海域发射十余枚短程弹道导弹",
-      "description": "朝鲜于10月29日中午从咸镜南道元山一带向东部海域发射十余枚短程弹道导弹。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T00:02:06+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/north-korea-fires-suspected-ballistic-missile-16e413",
-      "reference": [
-        "共同网",
-        "联合早报",
-        "韩国国际广播电台",
-        "法广"
-      ],
-      "section": "asia",
-      "sourceCount": 11,
       "sources": []
     },
     {
@@ -1780,26 +2202,6 @@
       "sources": []
     },
     {
-      "id": "japan-finalizes-secondary-capital-designation-standards-f14b79",
-      "title": "日本副首都构想相关法今日正式施行",
-      "description": "日本《副首都构想相关法》于10月30日正式生效。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T23:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/japan-finalizes-secondary-capital-designation-standards-f14b79",
-      "reference": [
-        "日经",
-        "共同网",
-        "澎湃新闻"
-      ],
-      "section": "asia",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "iowa-texas-gop-strongholds-questioned-e6f47f",
       "title": "爱荷华和德州共和党票仓为何显得不稳固",
       "description": "端传媒刊文以爱荷华州和德州为例，讨论共和党传统票仓为何显得不再稳固。",
@@ -1818,27 +2220,6 @@
       "sources": []
     },
     {
-      "id": "hong-kong-housing-chief-resigns-over-fire-56173b",
-      "title": "香港公布宏福苑大火报告并启动官员问责",
-      "description": "香港特区政府10月29日公开宏福苑大火独立委员会调查报告。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T22:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/hong-kong-housing-chief-resigns-over-fire-56173b",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "英国广播公司",
-        "端传媒"
-      ],
-      "section": "china",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
       "id": "canadian-banks-restrict-ai-agents-d85d8d",
       "title": "加拿大五大银行限制第三方人工智能代理访问客户账户",
       "description": "加拿大皇家银行、道明银行、加拿大帝国商业银行和蒙特利尔银行表示，将禁止第三方个人人工智能代理直接访问客户银行信息；丰业银行则称，会限制此类代理接入其银行平台。",
@@ -1851,24 +2232,6 @@
       "url": "https://kaopu.news/story/2026-10-29/canadian-banks-restrict-ai-agents-d85d8d",
       "reference": [
         "加拿大国际广播电台"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-regional-banks-property-loans-record-growth-a19f0d",
-      "title": "日本地方银行房地产贷款创2011年来最大增幅",
-      "description": "日本地方银行对房地产行业的贷款继续增加，金融监管部门正关注贷款集中带来的风险。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T21:01:18+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/japan-regional-banks-property-loans-record-growth-a19f0d",
-      "reference": [
-        "日经"
       ],
       "section": "business",
       "sourceCount": 1,
@@ -1991,61 +2354,6 @@
       "sources": []
     },
     {
-      "id": "eu-drops-canada-associate-member-label-dc0c09",
-      "title": "加拿大与欧盟同意推动建立日益紧密联系",
-      "description": "加拿大与欧盟领导人10月29日在蒙特利尔峰会上同意推动建立“日益紧密的联系关系”，并继续讨论如何界定双方关系。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T16:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/eu-drops-canada-associate-member-label-dc0c09",
-      "reference": [
-        "加拿大国际广播电台",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "asian-groups-sue-federal-voter-review-3e8eaa",
-      "title": "亚裔团体起诉阻止联邦审查入籍选民",
-      "description": "多个亚裔民权组织、美国公民自由联盟（ACLU）和公益组织Common Cause于10月28日提起诉讼，要求阻止美国联邦政府审查归化公民的选民资格。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T16:01:21+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/asian-groups-sue-federal-voter-review-3e8eaa",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "houthi-media-reports-saudi-strike-taiz-deaths-73cec4",
-      "title": "胡塞媒体称沙特空袭塔伊兹致至少12人死亡",
-      "description": "也门胡塞武装控制的马西拉电视台称，沙特于星期四（10月29日）袭击了塔伊兹省西部马克巴纳地区巴尔赫附近的两栋住宅，至少12人死亡，另有3人重伤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T15:37:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/houthi-media-reports-saudi-strike-taiz-deaths-73cec4",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "steinmeier-china-state-visit-e81e2a",
       "title": "施泰因迈尔在北大呼吁中欧公平合作",
       "description": "德国总统施泰因迈尔10月29日在北京大学接受荣誉教授称号后发表演讲，呼吁德国、中国及欧洲在公平条件下开展合作，并共同维护以规则为基础的国际秩序。",
@@ -2139,26 +2447,6 @@
       "sources": []
     },
     {
-      "id": "atlantic-reports-hegseth-fires-j5-chief-sylvia-2b74bd",
-      "title": "大西洋月刊称西尔维亚遭解除J5职务",
-      "description": "《大西洋月刊》援引未具名五角大楼官员报道，陆军中将布雷特·西尔维亚本周遭解除美国参谋长联席会议战略、计划与政策主管（J5）职务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T13:49:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/atlantic-reports-hegseth-fires-j5-chief-sylvia-2b74bd",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "us-midterm-election-congress-control-164251",
       "title": "七个摇摆州将左右美国参议院控制权",
       "description": "美国选民将于11月3日投票改选国会议员及多州公职。",
@@ -2175,26 +2463,6 @@
       ],
       "section": "us",
       "sourceCount": 9,
-      "sources": []
-    },
-    {
-      "id": "nyt-peltola-campaign-recruited-sullivan-spoiler-4855b0",
-      "title": "阿拉斯加州长下令调查民主党招募同名候选人指控",
-      "description": "阿拉斯加州长迈克·邓利维10月28日晚指示州公安厅调查《纽约时报》披露的民主党招募同名候选人一事，核查相关竞选操作是否违反州法。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T13:11:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-peltola-campaign-recruited-sullivan-spoiler-4855b0",
-      "reference": [
-        "世界日报",
-        "法广",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -2271,26 +2539,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "new-york-limits-ai-companion-use-minors-73b775",
-      "title": "纽约州州长签署新法限制未成年人使用聊天机器人",
-      "description": "纽约州州长凯西·霍楚尔于10月28日签署一项针对聊天机器人的新法。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T11:02:51+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/new-york-limits-ai-companion-use-minors-73b775",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "life",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -3067,27 +3315,6 @@
       "sources": []
     },
     {
-      "id": "eu-charges-two-euros-per-product-type-87e4f2",
-      "title": "欧盟11月起对欧盟以外包裹征收每类2欧元处理费",
-      "description": "欧盟将于2026年11月1日起在所有成员国对从欧盟以外直接寄给消费者的包裹收取处理费，每种不同商品类别收费2欧元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T05:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/eu-charges-two-euros-per-product-type-87e4f2",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "法广",
-        "财新"
-      ],
-      "section": "life",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "google-singapore-health-ai-research-center-059e6e",
       "title": "谷歌将在新加坡设立研究中心推进医疗人工智能应用",
       "description": "谷歌10月29日在新加坡首届谷歌医疗保健峰会上宣布设立研究中心，并与国立大学医学组织、国立健保集团合作，推动人工智能用于临床护理和疾病预防。",
@@ -3103,25 +3330,6 @@
       ],
       "section": "ai",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ice-election-visits-voter-intimidation-concerns-eb3ecd",
-      "title": "美司法部承诺FBI和ICE人员不担任投票站监督员",
-      "description": "美国司法部10月28日向联邦法院提交文件，承诺联邦调查局（FBI）和移民与海关执法局（ICE）的特工及雇员不会担任2026年中期选举投票站监督员。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T05:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/ice-election-visits-voter-intimidation-concerns-eb3ecd",
-      "reference": [
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -3143,24 +3351,6 @@
       ],
       "section": "culture",
       "sourceCount": 17,
-      "sources": []
-    },
-    {
-      "id": "trump-san-luis-border-arrests-below-ten-d35940",
-      "title": "特朗普执政下圣路易边境逮捕人数降至每日不足10人",
-      "description": "亚利桑那州圣路易周边防区的边境巡逻队如今日均逮捕不足10人；法广报道，拜登政府时期的每天逮捕人数曾高达2000人。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T05:02:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/trump-san-luis-border-arrests-below-ten-d35940",
-      "reference": [
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3197,24 +3387,6 @@
         "联合早报"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "peace-department-alleged-dhs-staff-leak-6c8fc2",
-      "title": "泄露数据被指来自和平部：美国国土安全部4.1万名员工名单",
-      "description": "美国国土安全部约4.1万名人员名单及相关敏感资料被曝泄露；据法广报道，分散式阻断服务称，数据来自黑客组织“和平部”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T04:32:46+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/peace-department-alleged-dhs-staff-leak-6c8fc2",
-      "reference": [
-        "法广"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -3313,26 +3485,6 @@
       "sources": []
     },
     {
-      "id": "trump-says-taiwan-stole-us-chip-business-c0e130",
-      "title": "林佳龙称特朗普谈台湾芯片流露挫折或羡慕",
-      "description": "美国总统特朗普10月25日接受福克斯新闻节目《Sunday Morning Futures》电话采访，谈到关税和制造业回流后转向台湾及半导体产业。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T03:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/trump-says-taiwan-stole-us-chip-business-c0e130",
-      "reference": [
-        "中央通訊社",
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "deepseek-moonshot-distill-gpt6-astra-models-f03483",
       "title": "美媒称两家中企用GPT-6 Astra蒸馏新模型",
       "description": "深度求索和月之暗面被曝将OpenAI的GPT-6 Astra输出用于新模型蒸馏训练。",
@@ -3405,24 +3557,6 @@
         "澎湃新闻"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "schriver-backs-taiwan-arms-sales-c24a41",
-      "title": "薛瑞福称推进对台军售符合美国利益",
-      "description": "曾在特朗普第一届政府担任美国国防部印太安全事务助理部长的薛瑞福，10月28日出席华盛顿战略暨国际研究中心座谈后接受中央社采访时表示，特朗普与习近平的高层接触让美中关系保持一定稳定，但双方在台湾议题上仍有明显分歧。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T02:12:29+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/schriver-backs-taiwan-arms-sales-c24a41",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -3503,25 +3637,6 @@
       "sources": []
     },
     {
-      "id": "anwar-urges-switch-tuju-waze-data-risk-c1e0d1",
-      "title": "马来西亚专家要求TuJu接受网络安全审查",
-      "description": "马来西亚科技专家质疑政府限制公务员使用Waze的依据，并呼吁对本土导航应用TuJu进行与Waze同等的网络安全审查，以保护用户数据。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T00:28:43+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/anwar-urges-switch-tuju-waze-data-risk-c1e0d1",
-      "reference": [
-        "当今大马",
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 16,
-      "sources": []
-    },
-    {
       "id": "every-grain-of-us-rice-dance-aa5331",
       "title": "许晴晴以离台时家人放入行李的米及祖母叮嘱创作舞作《米力》",
       "description": "旧金山台裔舞蹈艺术家许晴晴以家人放入行李的一袋米、祖母叮嘱她混入日常饭菜的记忆为起点，创作舞蹈作品《Every Grain of Us 米力》。",
@@ -3536,24 +3651,6 @@
         "世界日报"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-regions-add-smart-home-trade-in-subsidies-8eed39",
-      "title": "多地已将智能家居等纳入以旧换新补贴范围",
-      "description": "河南、山西、天津、黑龙江、四川推出消费品以旧换新自主品类补贴，将智能门锁、净水设备、运动相机、助听器等纳入支持范围。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T00:02:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/china-regions-add-smart-home-trade-in-subsidies-8eed39",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -3590,24 +3687,6 @@
         "澎湃新闻"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "jingmen-rural-commercial-bank-social-insurance-loan-debate-1b4577",
-      "title": "荆门农商银行社银贷引发缴社保争议",
-      "description": "湖北省荆门市农商银行于2025年夏天推出“社银贷”，以信用贷款帮助参保人缴社保；相关介绍近日重新引发讨论。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T23:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/jingmen-rural-commercial-bank-social-insurance-loan-debate-1b4577",
-      "reference": [
-        "财新"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -3723,25 +3802,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-affairs-office-denies-huang-yihao-claim-a60d90",
-      "title": "台湾陆委会指中共涉黄逸豪假车祸案",
-      "description": "台湾新北地检署已起诉5名嫌疑人，指他们接受一名昵称为“K”的中国大陆人士指示并收受资金，策划假车祸撞伤相声演员黄逸豪。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T09:44:28+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/taiwan-affairs-office-denies-huang-yihao-claim-a60d90",
-      "reference": [
-        "中央通訊社",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 3,
       "sources": []
     },
     {
