@@ -7,9 +7,50 @@
   },
   "stories": [
     {
+      "id": "eu-drops-canada-associate-member-label-dc0c09",
+      "title": "加拿大与欧盟峰会提出建立未来联盟",
+      "description": "加拿大与欧盟第21届峰会于10月29日至30日在蒙特利尔举行，并于30日闭幕。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T16:38:09.416000+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/eu-drops-canada-associate-member-label-dc0c09",
+      "reference": [
+        "加拿大国际广播电台",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "witkoff-norway-peace-proposal-talks-6bf424",
+      "title": "俄美启动磋商阿布扎比三方会谈日期",
+      "description": "俄罗斯总统助理乌沙科夫10月30日说，俄罗斯和美国已经开始商议在阿联酋阿布扎比举行俄美乌三方会谈的具体日期，但目前尚未敲定时间。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T16:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
+      "reference": [
+        "法广",
+        "澎湃新闻",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 48,
+      "sources": []
+    },
+    {
       "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "美媒称Megaspeed前高管黄乐曾向北京传递信息",
-      "description": "《纽约时报》报道，美国官员认定，新加坡数据中心公司Megaspeed前高管黄乐（Alice Huang）曾向中国政府传递信息，并怀疑她协助中国规避出口限制、获取英伟达先进人工智能芯片。",
+      "title": "美方据报认定Megaspeed前高管向中国提供信息",
+      "description": "美国官员据报认定，Megaspeed International前高管黄乐在该公司与英伟达合作于亚洲建设数据中心期间，曾向中国政府提供信息；美国方面还调查Megaspeed是否协助中国获取受出口限制的英伟达先进人工智能芯片。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -24,28 +65,7 @@
         "公视"
       ],
       "section": "china",
-      "sourceCount": 15,
-      "sources": []
-    },
-    {
-      "id": "witkoff-norway-peace-proposal-talks-6bf424",
-      "title": "俄方称美俄乌三方会谈具决定性意义",
-      "description": "俄罗斯计划在美国斡旋下，于11月在阿联酋阿布扎比举行俄美乌三方会谈。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T15:46:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
-      "reference": [
-        "法广",
-        "澎湃新闻",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 47,
+      "sourceCount": 16,
       "sources": []
     },
     {
@@ -71,22 +91,42 @@
     },
     {
       "id": "intel-weak-q4-outlook-shares-drop-63ff61",
-      "title": "英特尔股价因四季度指引逊预期盘中一度跌30%",
-      "description": "英特尔公布低于市场预期的第四季度业绩指引后，股价在10月30日美股交易时段盘中一度下跌30%，市值蒸发近1500亿美元。",
+      "title": "英特尔四季度展望逊预期股价早盘跌近三成",
+      "description": "英特尔公布2026年第三季度业绩后，因下一季度展望低于市场预期，股价在盘后和次日早盘大幅下挫。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-30T14:40:37.986838+00:00",
+      "updatedAt": "2026-10-30T15:22:32+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-30",
       "url": "https://kaopu.news/story/2026-10-30/intel-weak-q4-outlook-shares-drop-63ff61",
       "reference": [
         "澎湃新闻",
         "日经",
-        "第一财经"
+        "第一财经",
+        "中央通訊社"
       ],
       "section": "business",
-      "sourceCount": 4,
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "audi-cuts-2026-operating-margin-outlook-e9851a",
+      "title": "奥迪第二次下调全年营业利润率预期至3%至5%",
+      "description": "奥迪将2026年全年营业利润率预期从此前的5%至7%降至3%至5%，这是今年第二次下调；年初设定的目标为6%至8%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T14:34:05+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/audi-cuts-2026-operating-margin-outlook-e9851a",
+      "reference": [
+        "中央通訊社",
+        "法广"
+      ],
+      "section": "business",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -130,6 +170,114 @@
       "sources": []
     },
     {
+      "id": "sanya-maritime-warning-military-drills-b3aa78",
+      "title": "三亚海事局发布南海军事训练禁航警告",
+      "description": "三亚海事局发布航行警告，南海部分海域将于10月31日至11月5日开展军事训练，训练期间相关海域禁止驶入。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T14:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/sanya-maritime-warning-military-drills-b3aa78",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "yuan-closes-below-6-66-first-in-years-9ec7e0",
+      "title": "在岸人民币对美元收盘价近三年半来首次低于6.66",
+      "description": "10月30日，在岸人民币对美元收盘报6.6557，近三年半来首次低于6.66；离岸人民币盘中一度触及约6.649。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T14:18:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/yuan-closes-below-6-66-first-in-years-9ec7e0",
+      "reference": [
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-apple-app-store-fee-cut-926a6f",
+      "title": "苹果已将台湾App Store佣金从30%降至26%",
+      "description": "苹果已将台湾App Store在iOS和iPadOS上的标准佣金率从30%下调至26%，新费率自10月31日起生效。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T14:17:20+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/taiwan-apple-app-store-fee-cut-926a6f",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "choi-bul-am-korean-actor-dies-8aae14",
+      "title": "韩国资深演员崔佛岩去世享年87岁",
+      "description": "韩国资深演员崔佛岩（原名崔英汉）于昨晚10时许在首尔江西区一家医院去世，享年87岁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T14:16:18+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/choi-bul-am-korean-actor-dies-8aae14",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-trust-regulator-issues-asset-management-rules-9379f8",
+      "title": "金融监管总局发布资产管理信托管理办法",
+      "description": "国家金融监督管理总局于2026年10月30日发布《资产管理信托管理办法》，新规将于2027年1月1日起施行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T14:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/china-trust-regulator-issues-asset-management-rules-9379f8",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "singapore-nominates-rena-lee-icj-judge-b602be",
+      "title": "新加坡首次提名陈惠菁竞选国际法院法官",
+      "description": "新加坡国家小组首次提名巡回大使兼国际法大使陈惠菁竞选国际法院法官。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T14:12:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/singapore-nominates-rena-lee-icj-judge-b602be",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "pboc-names-overnight-reverse-repo-policy-rate-b50b97",
       "title": "中国央行将隔夜逆回购定为主要政策利率",
       "description": "中国人民银行10月30日发布公告，宣布自11月2日起优化短端利率调控机制，将隔夜逆回购作为主要政策利率。",
@@ -167,6 +315,24 @@
       ],
       "section": "china",
       "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "singapore-finland-sign-nuclear-safety-mou-4f4bad",
+      "title": "新加坡核研究与安全院与芬兰国家技术研究中心签署五年核安全合作备忘录",
+      "description": "新加坡核研究与安全院与芬兰国家技术研究中心宣布签署为期五年的合作谅解备忘录，旨在深化核安全合作，提升新加坡评估新兴核技术的能力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T14:09:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/singapore-finland-sign-nuclear-safety-mou-4f4bad",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -210,6 +376,43 @@
       "sources": []
     },
     {
+      "id": "iran-war-boosts-us-oil-major-profits-64983a",
+      "title": "美伊战争推高油价带动美国石油巨头利润大增",
+      "description": "美伊战争推高国际油价和炼油利润率，埃克森美孚与雪佛龙季度获利显著增加。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T14:02:03+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/iran-war-boosts-us-oil-major-profits-64983a",
+      "reference": [
+        "中央通訊社",
+        "法广"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "ding-shiqian-team-locks-thorium-229-nuclear-clock-06216f",
+      "title": "丁世谦团队实现钍-229核光钟闭环运行",
+      "description": "10月7日，清华大学物理系副教授丁世谦团队与合作者在《自然》发表钍-229核光钟研究成果，报告装置已实现稳定运行并完成闭环。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T14:01:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/ding-shiqian-team-locks-thorium-229-nuclear-clock-06216f",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "fcc-bans-china-labs-device-testing-35b1cc",
       "title": "美国FCC通过新规限制中国等地检测认证机构",
       "description": "美国联邦通信委员会（FCC）10月29日投票通过新规，更新外国电子设备检测实验室及认证机构的认可规则。",
@@ -228,6 +431,24 @@
       ],
       "section": "china",
       "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "japan-fatf-lift-myanmar-enhanced-scrutiny-29c619",
+      "title": "据报日本推动FATF取消缅甸强化审查规定",
+      "description": "据联合早报援引路透社报道，日本政府正寻求金融行动特别工作组（FATF）取消要求其40个成员对涉及缅甸的金融交易实施强化审查的规定，以便利外国企业投资和经营。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T13:49:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/japan-fatf-lift-myanmar-enhanced-scrutiny-29c619",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -267,6 +488,42 @@
       ],
       "section": "life",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "dtec-plans-malaysia-rare-earth-refineries-77a0a1",
+      "title": "美企拟投6亿美元在马来西亚建两座稀土提炼厂",
+      "description": "美国资本控股企业DTEC Mineral and Metal Technology计划投入6亿美元，在未来三年分阶段于马来西亚建设两座稀土提炼厂。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T13:36:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/dtec-plans-malaysia-rare-earth-refineries-77a0a1",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "muxi-revenue-growth-profit-turnaround-5df22b",
+      "title": "沐曦股份前三季度营收增逾一倍并实现扭亏",
+      "description": "沐曦股份10月30日晚间披露2026年第三季度报告。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T13:32:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/muxi-revenue-growth-profit-turnaround-5df22b",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -606,26 +863,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "eu-drops-canada-associate-member-label-dc0c09",
-      "title": "加拿大与欧盟同意推动建立更紧密联系关系",
-      "description": "加拿大与欧盟领导人10月29日在蒙特利尔峰会上同意推动建立“日益紧密的联系关系”，并继续商谈双方合作的具体安排，力争在2027年下一次峰会前取得进展。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T12:30:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/eu-drops-canada-associate-member-label-dc0c09",
-      "reference": [
-        "加拿大国际广播电台",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1421,24 +1658,6 @@
       "sources": []
     },
     {
-      "id": "king-slide-kaohsiung-rail-factory-expansion-cf9dc5",
-      "title": "川湖公告子公司197亿元扩建预算拟建全球最大滑轨厂",
-      "description": "川湖代全资子公司川益科技公告，高雄3厂、5厂扩建资本支出预算已获通过，金额为新台币197.12亿元，目标是建成全球最大的滑轨工厂。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T09:50:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/king-slide-kaohsiung-rail-factory-expansion-cf9dc5",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "su-chiao-hui-lee-chuan-new-taipei-mayor-65c551",
       "title": "苏巧慧将与李四川争夺新北市长职位",
       "description": "台湾2026年“九合一”地方选举定于11月28日举行，民进党苏巧慧将与国民党李四川角逐新北市长。",
@@ -1491,27 +1710,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-third-quarter-gdp-growth-beats-forecasts-41a290",
-      "title": "美国三季度GDP增长3.4%创一年最大增幅",
-      "description": "美国商务部10月29日公布初值，2026年第三季度实际GDP按年率折算环比增长3.4%，高于第二季度的2.2%，为一年来最大增幅。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T09:45:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/us-third-quarter-gdp-growth-beats-forecasts-41a290",
-      "reference": [
-        "中央通訊社",
-        "财新",
-        "法广",
-        "日经"
-      ],
-      "section": "business",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -1570,24 +1768,6 @@
       "sources": []
     },
     {
-      "id": "vietnam-trade-tops-one-trillion-725cf4",
-      "title": "越南前十个月货物进出口额首次突破万亿美元",
-      "description": "越南今年前10个月货物进出口总额首次突破1万亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T09:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/vietnam-trade-tops-one-trillion-725cf4",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "carney-launches-canada-national-security-strategy-a8c3d5",
       "title": "加拿大发布20多年来首份国家安全战略",
       "description": "加拿大总理卡尼于10月29日宣布推出名为《更强大的加拿大计划》的国家安全战略，这是加拿大20多年来首份此类文件。",
@@ -1625,24 +1805,6 @@
       ],
       "section": "asia",
       "sourceCount": 12,
-      "sources": []
-    },
-    {
-      "id": "taiwan-ministry-coordinates-salad-oil-imports-dde95b",
-      "title": "台湾经济部协调第四季度进口5000吨沙拉油",
-      "description": "中联油脂停工影响台湾沙拉油供应，台湾经济部正通过协调增产、扩大进口和供需对接补充货源，并已协调油品进口商第四季度扩大进口5000吨。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T09:14:40+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/taiwan-ministry-coordinates-salad-oil-imports-dde95b",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2180,27 +2342,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "kim-jong-un-attends-drone-exhibition-789962",
-      "title": "朝鲜展出新型无人机并举行实弹演示",
-      "description": "朝鲜于10月29日举行“无人航空技术发展-2026”展览会及武器演示，朝鲜劳动党总书记、国务委员长金正恩到场。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T06:32:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/kim-jong-un-attends-drone-exhibition-789962",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "朝鲜日报",
-        "韩国国际广播电台"
-      ],
-      "section": "asia",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -2909,27 +3050,6 @@
       "sources": []
     },
     {
-      "id": "french-students-protest-school-conditions-11bf14",
-      "title": "法国全国示威中警方逮捕1314人",
-      "description": "法国各地于10月24日举行全国性示威，抗议生活成本高企、教育条件不足及公共服务问题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T03:52:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
-      "reference": [
-        "公视",
-        "法广",
-        "日本放送协会",
-        "英国广播公司"
-      ],
-      "section": "world",
-      "sourceCount": 121,
-      "sources": []
-    },
-    {
       "id": "former-amazon-engineer-dies-parents-sue-openai-c94e08",
       "title": "万博雯父母诉OpenAI指ChatGPT减药致死",
       "description": "万博雯的父母10月27日在加利福尼亚州提起不当致死诉讼，将OpenAI及其首席执行官萨姆·奥特曼列为被告，指控ChatGPT向患癫痫的女儿提供危险、不准确的减药建议，并鼓励她不向医生透露减药安排。",
@@ -2945,26 +3065,6 @@
         "第一财经"
       ],
       "section": "life",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "russian-jet-drone-hits-dnipro-station-kills-13-de1a27",
-      "title": "俄军无人机袭击第聂伯罗列车致14人死亡",
-      "description": "俄罗斯军队无人机于10月29日中午袭击乌克兰第聂伯罗中央火车站一列停靠的列车。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T03:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/russian-jet-drone-hits-dnipro-station-kills-13-de1a27",
-      "reference": [
-        "法广",
-        "公视",
-        "澎湃新闻"
-      ],
-      "section": "world",
       "sourceCount": 3,
       "sources": []
     },
@@ -3005,24 +3105,6 @@
       "sources": []
     },
     {
-      "id": "ukraine-halts-drone-strikes-russian-refineries-014811",
-      "title": "知情人士称乌军暂停无人机袭击俄境内炼油厂",
-      "description": "多名知情人士称，乌克兰军方在美国总统特朗普数周施压后，已停止以无人机袭击俄罗斯境内炼油厂。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T02:53:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/ukraine-halts-drone-strikes-russian-refineries-014811",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "ding-yu-examines-virtual-romance-real-intimacy-4c099a",
       "title": "丁瑜在新书中探讨虚拟恋人对现实关系的影响",
       "description": "据第一财经报道，中山大学社会学与社会工作系副教授丁瑜在新书《虚拟恋人》中，结合近四年的亲身体验与田野调查，讨论虚拟关系如何影响人们理解和经营现实亲密关系。",
@@ -3038,25 +3120,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "lancet-report-urges-climate-health-emergency-686d66",
-      "title": "《柳叶刀》报告呼吁宣布气候变化为全球卫生紧急事件",
-      "description": "《柳叶刀》健康与气候变化倒计时项目发布年度报告，指出气候变化对人类健康的威胁正在加重，并呼吁各国将其认定为“全球卫生紧急事件”，采取协调、长期的应对措施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T02:38:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/lancet-report-urges-climate-health-emergency-686d66",
-      "reference": [
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -3591,25 +3654,6 @@
       "sources": []
     },
     {
-      "id": "china-warns-eu-discriminatory-restrictions-e1ec13",
-      "title": "商务部回应欧盟据报研究将混动汽车安排延伸至化工",
-      "description": "中国商务部回应据报欧盟正研究将中欧混合动力汽车贸易谅解安排延伸至化工等领域。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T08:23:36.244214+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/china-warns-eu-discriminatory-restrictions-e1ec13",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "taiwan-hepatitis-b-drug-coverage-expanded-0f508a",
       "title": "台湾健保共拟会通过放宽乙肝药物给付条件",
       "description": "台湾卫生福利部表示，健保共拟会已于10月15日通过放宽乙型肝炎抗病毒药物的治疗条件及健保给付，待正式公告后实施。",
@@ -4059,24 +4103,6 @@
       ],
       "section": "culture",
       "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "shinjiro-koizumi-urges-asean-unity-288e7c",
-      "title": "日本防卫相小泉进次郎呼吁东盟加强团结",
-      "description": "日本与东盟防长会议10月28日在菲律宾宿务举行，日本防卫相小泉进次郎出席并呼吁成员国加强团结。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T13:21:07+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/shinjiro-koizumi-urges-asean-unity-288e7c",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -4572,24 +4598,6 @@
       "sources": []
     },
     {
-      "id": "koizumi-reorganizes-japan-defense-research-institutes-a8358b",
-      "title": "笹川和平财团建议立法推动防卫技术军民两用",
-      "description": "笹川和平财团于2026年10月23日发布建议，主张制定《安全保障相关技术推进基本法》，打破安保技术与军民两用技术壁垒，推动科学技术用于防卫装备研发。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T11:12:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/koizumi-reorganizes-japan-defense-research-institutes-a8358b",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "elvis-rights-owner-sues-anthropic-copyright-infringement-3ba65a",
       "title": "猫王授权机构起诉Anthropic指其侵权274首歌曲",
       "description": "猫王音乐与肖像权授权机构Authentic Brands Group已起诉人工智能公司Anthropic，指控其未经许可将猫王歌曲用于训练AI模型。",
@@ -4767,25 +4775,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "li-yiyun-new-york-library-novel-1fbd48",
-      "title": "李翊云与詹妮弗·伊根纽约对谈新作",
-      "description": "华裔作家李翊云10月21日晚在纽约公共图书馆与小说家詹妮弗·伊根对谈，分享新小说《Music Against the Night》的创作经历。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-24T06:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/li-yiyun-new-york-library-novel-1fbd48",
-      "reference": [
-        "世界日报",
-        "纽约时报"
-      ],
-      "section": "culture",
-      "sourceCount": 3,
       "sources": []
     },
     {
