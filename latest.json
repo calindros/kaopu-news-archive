@@ -3,9 +3,352 @@
     "date": "2026-10-30",
     "timestamp": 1793330897,
     "totalPages": 1,
-    "total": 266
+    "total": 264
   },
   "stories": [
+    {
+      "id": "russian-jet-drone-hits-dnipro-station-kills-13-de1a27",
+      "title": "俄军无人机袭击第聂伯罗列车致14人死亡",
+      "description": "俄罗斯军队无人机于10月29日中午袭击乌克兰第聂伯罗中央火车站一列停靠的列车。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T03:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/russian-jet-drone-hits-dnipro-station-kills-13-de1a27",
+      "reference": [
+        "法广",
+        "公视",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "trump-backs-netanyahu-reelection-d6e4fe",
+      "title": "以色列选举结果显示内塔尼亚胡阵营未获多数",
+      "description": "以色列10月27日举行议会选举，中央选举委员会完成初步计票后公布的席位分布显示，现任总理内塔尼亚胡领导的阵营获得53席，由加迪·艾森科特领导的反对派阵营获得48席，双方均未达到组建多数政府所需的61席。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T03:18:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-18",
+      "url": "https://kaopu.news/story/2026-10-18/trump-backs-netanyahu-reelection-d6e4fe",
+      "reference": [
+        "联合早报",
+        "法广",
+        "日本放送协会",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 52,
+      "sources": []
+    },
+    {
+      "id": "taiwan-stocks-drop-1600-points-90a763",
+      "title": "台湾股市早盘重挫失守45000点关口",
+      "description": "台湾股市30日早盘大幅下挫，跌破半年线和45000点关口。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T03:09:19+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/taiwan-stocks-drop-1600-points-90a763",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-midterm-election-day-storms-c30d47",
+      "title": "美国期中选举投票日中部多州将遇强风雷雨",
+      "description": "气象预报员预计，11月3日美国中部多州将有雷雨、降雨或强风，恶劣天气可能影响选民投票。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T03:04:08+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/us-midterm-election-day-storms-c30d47",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "alphabet-q3-revenue-profit-miss-estimates-9485a4",
+      "title": "Alphabet股价因财报逊于预期重挫逾12%",
+      "description": "Alphabet在10月28日发布的2026年第三季度财报未达市场预期，自由现金流连续第二个季度为负。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T03:01:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/alphabet-q3-revenue-profit-miss-estimates-9485a4",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "第一财经",
+        "公视"
+      ],
+      "section": "business",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "binance-freezes-three-billion-hack-assets-ebaf47",
+      "title": "币安称已冻结涉事加密资产约30亿美元",
+      "description": "全球最大加密货币交易平台币安正在调查一起疑似安全事件。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T03:01:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/binance-freezes-three-billion-hack-assets-ebaf47",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "ukraine-halts-drone-strikes-russian-refineries-014811",
+      "title": "知情人士称乌军暂停无人机袭击俄境内炼油厂",
+      "description": "多名知情人士称，乌克兰军方在美国总统特朗普数周施压后，已停止以无人机袭击俄罗斯境内炼油厂。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T02:53:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/ukraine-halts-drone-strikes-russian-refineries-014811",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ding-yu-examines-virtual-romance-real-intimacy-4c099a",
+      "title": "丁瑜在新书中探讨虚拟恋人对现实关系的影响",
+      "description": "据第一财经报道，中山大学社会学与社会工作系副教授丁瑜在新书《虚拟恋人》中，结合近四年的亲身体验与田野调查，讨论虚拟关系如何影响人们理解和经营现实亲密关系。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T02:50:36.526159+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/ding-yu-examines-virtual-romance-real-intimacy-4c099a",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "amazon-q3-results-miss-shares-fall-36e607",
+      "title": "亚马逊三季度营收增12%净利润小幅下滑",
+      "description": "亚马逊当地时间10月29日公布2026年第三季度财报，净销售额为2019.44亿美元，同比增长12%；净利润为206.85亿美元，同比减少约2%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T02:47:36.527403+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/amazon-q3-results-miss-shares-fall-36e607",
+      "reference": [
+        "中央通訊社",
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "silicon-valley-ai-firms-tighten-employee-security-5917cf",
+      "title": "纽约邮报称硅谷AI公司收紧员工安保",
+      "description": "《纽约邮报》报道，OpenAI、Anthropic等硅谷人工智能企业正在加强员工安全管理，限制公司标识外露，并通过培训提醒员工防范商业间谍套取内部信息，以及针对人工智能行业的抗议和人身威胁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T02:45:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/silicon-valley-ai-firms-tighten-employee-security-5917cf",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "lee-jae-myung-migrant-policy-remarks-spark-backlash-174ec4",
+      "title": "李在明多文化政策言论引发移民排斥争议",
+      "description": "韩国总统李在明围绕多文化家庭产后调理院优待政策的社交媒体发言引发争议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T02:40:46+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/lee-jae-myung-migrant-policy-remarks-spark-backlash-174ec4",
+      "reference": [
+        "朝鲜日报",
+        "韩民族日报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "lancet-report-urges-climate-health-emergency-686d66",
+      "title": "《柳叶刀》报告呼吁宣布气候变化为全球卫生紧急事件",
+      "description": "《柳叶刀》健康与气候变化倒计时项目发布年度报告，指出气候变化对人类健康的威胁正在加重，并呼吁各国将其认定为“全球卫生紧急事件”，采取协调、长期的应对措施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T02:38:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/lancet-report-urges-climate-health-emergency-686d66",
+      "reference": [
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "uk-tax-foreign-sovereign-property-income-d6894b",
+      "title": "英国拟对外国主权投资者房地产收益征税",
+      "description": "英国拟收窄外国主权投资者税收豁免，把部分英国房地产租金、资产出售收益及经营性收入纳入征税。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T02:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/uk-tax-foreign-sovereign-property-income-d6894b",
+      "reference": [
+        "财新"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "imf-vietnam-per-capita-gdp-surpass-indonesia-9d443c",
+      "title": "IMF预测越南2026年人均名义GDP超印尼",
+      "description": "国际货币基金组织（IMF）预测，越南2026年人均名义GDP将达5259美元，同比增长8.9%，高于印度尼西亚的5153美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T02:22:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/imf-vietnam-per-capita-gdp-surpass-indonesia-9d443c",
+      "reference": [
+        "日经"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nikkei-plunges-below-63000-points-51abf0",
+      "title": "日经指数早盘重挫一度跌破63000点",
+      "description": "东京股市日经指数30日早盘盘中跌逾1900点，一度跌破63000点。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T02:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/nikkei-plunges-below-63000-points-51abf0",
+      "reference": [
+        "澎湃新闻",
+        "共同网"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
+      "title": "弗拉维奥·博索纳罗抵美称将海外反卢拉",
+      "description": "巴西总统选举落败的参议员弗拉维奥·博索纳罗10月28日上午携妻子和两个女儿抵达美国佛罗里达州迈阿密附近，并表示将在海外组织反对总统卢拉政府的活动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T02:21:20+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "法广",
+        "财新"
+      ],
+      "section": "world",
+      "sourceCount": 23,
+      "sources": []
+    },
+    {
+      "id": "orient-securities-shanghai-securities-acquisition-clears-b58628",
+      "title": "东方证券收购上海证券100%股权获上交所审核通过",
+      "description": "东方证券收购上海证券100%股权的方案于10月29日经上海证券交易所并购重组审核委员会审议通过。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T02:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/orient-securities-shanghai-securities-acquisition-clears-b58628",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "intel-weak-q4-outlook-shares-drop-63ff61",
+      "title": "英特尔四季度指引逊预期股价盘后一度跌23%",
+      "description": "英特尔公布2026年第三季度财报，营收和调整后每股收益高于公司此前指引，但公司给出的第四季度业绩预期低于市场预测。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T02:20:37.622908+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/intel-weak-q4-outlook-shares-drop-63ff61",
+      "reference": [
+        "澎湃新闻",
+        "日经",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
     {
       "id": "quinn-emanuel-china-crossborder-litigation-risks-150123",
       "title": "昆鹰报告称中企跨境诉讼风险加大",
@@ -25,21 +368,57 @@
       "sources": []
     },
     {
-      "id": "binance-freezes-three-billion-hack-assets-ebaf47",
-      "title": "币安披露疑遭黑客攻击并冻结约30亿美元",
-      "description": "币安披露一起疑似黑客攻击事件，并表示将承担由此造成的全部损失。",
+      "id": "japanese-automakers-china-output-falls-40-percent-3bc672",
+      "title": "四家日系车企在华产量降至2020年峰值四成",
+      "description": "丰田、日产、本田和马自达在中国的产量大幅减少。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-30T01:58:00+00:00",
+      "updatedAt": "2026-10-30T02:08:17+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/binance-freezes-three-billion-hack-assets-ebaf47",
+      "url": "https://kaopu.news/story/2026-10-30/japanese-automakers-china-output-falls-40-percent-3bc672",
       "reference": [
-        "澎湃新闻"
+        "日经"
       ],
       "section": "business",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-army-transfers-two-officers-after-lieutenant-suicide-972189",
+      "title": "台湾陆军206旅女中尉轻生后两名主管调职",
+      "description": "台湾陆军206旅一名女性中尉近日坠楼轻生。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T02:02:42+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/taiwan-army-transfers-two-officers-after-lieutenant-suicide-972189",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tokyo-core-cpi-rises-2-6-percent-279a8c",
+      "title": "东京23区核心物价10月同比上涨2.6%",
+      "description": "日本总务省10月30日公布的中旬初值显示，东京都23区10月剔除生鲜食品后的综合消费者物价指数为103.3（以2025年为100），较上年同期上涨2.6%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T02:01:53+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/tokyo-core-cpi-rises-2-6-percent-279a8c",
+      "reference": [
+        "共同网"
+      ],
+      "section": "life",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -135,25 +514,6 @@
       "sources": []
     },
     {
-      "id": "amazon-q3-results-miss-shares-fall-36e607",
-      "title": "亚马逊三季度财报逊预期盘后股价跌逾5%",
-      "description": "亚马逊10月29日公布2026年第三季度业绩，营收同比增长12%至2019.44亿美元，低于市场预期；净利润为206.85亿美元，同比下降约2%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T01:35:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/amazon-q3-results-miss-shares-fall-36e607",
-      "reference": [
-        "中央通訊社",
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "boj-expected-hold-policy-rate-57af8c",
       "title": "日本央行预计认定基础通胀已达2%目标",
       "description": "共同社报道，日本央行10月29日至30日货币政策会议于30日进入第二天。",
@@ -216,6 +576,27 @@
       "sources": []
     },
     {
+      "id": "pakistan-bars-taiwan-airlines-airspace-a72a29",
+      "title": "巴基斯坦重新批准华航长荣飞越领空",
+      "description": "巴基斯坦民航局在巴方官员一度表示只允许中国航空公司飞越后，批准中华航空和长荣航空恢复使用巴基斯坦领空，许可有效期为2026年10月28日至2027年3月27日。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T01:20:20+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/pakistan-bars-taiwan-airlines-airspace-a72a29",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "澎湃新闻",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
       "id": "choudri-resigns-california-high-speed-rail-f431e6",
       "title": "加州高铁局首席执行官Choudri突然辞职",
       "description": "加州高铁局首席执行官Ian Choudri于10月28日晚辞职，结束约两年的任期。",
@@ -252,65 +633,6 @@
       "sources": []
     },
     {
-      "id": "russian-jet-drone-hits-dnipro-station-kills-13-de1a27",
-      "title": "俄军无人机袭击第聂伯罗站台致至少14人死亡",
-      "description": "俄罗斯喷气式无人机于当地时间10月29日中午击中乌克兰中部第聂伯罗中央火车站站台，一列往返第聂伯罗与扎波罗热的列车当时停靠在那里。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T01:12:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/russian-jet-drone-hits-dnipro-station-kills-13-de1a27",
-      "reference": [
-        "法广",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "trump-backs-netanyahu-reelection-d6e4fe",
-      "title": "以色列公布选举结果内塔尼亚胡阵营未获多数",
-      "description": "以色列中央选举委员会10月30日公布议会选举最终结果，现任总理本雅明·内塔尼亚胡领导的阵营获得53席，未达到组建政府所需的61席。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T01:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/trump-backs-netanyahu-reelection-d6e4fe",
-      "reference": [
-        "联合早报",
-        "法广",
-        "日本放送协会",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 50,
-      "sources": []
-    },
-    {
-      "id": "intel-weak-q4-outlook-shares-drop-63ff61",
-      "title": "英特尔四季度指引不及预期股价盘后一度跌23%",
-      "description": "英特尔公布2026年第三季度业绩和第四季度展望后，股价10月29日在美国股市盘后交易中一度较收盘价下跌23%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T01:09:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/intel-weak-q4-outlook-shares-drop-63ff61",
-      "reference": [
-        "澎湃新闻",
-        "日经"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "merz-lee-jae-myung-deepen-strategic-partnership-a36682",
       "title": "李在明与默茨决定提升韩德关系为强化战略伙伴关系",
       "description": "韩国总统李在明与德国总理弗里德里希·默茨10月29日在首尔会谈后宣布，将韩德关系提升至战略伙伴关系新层级。",
@@ -344,6 +666,61 @@
         "第一财经"
       ],
       "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-parties-agree-31-seat-cut-b50bff",
+      "title": "日本三党达成协议削减众院比例代表31席",
+      "description": "日本自民党、日本维新会和国民民主党的干事长10月29日在国会会谈并签署协议，决定在本届国会共同提交众议院选举制度改革法案，其中包括削减比例代表席位31席。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T01:01:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/japan-parties-agree-31-seat-cut-b50bff",
+      "reference": [
+        "共同网",
+        "朝鲜日报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "korea-semiconductor-exports-top-400-billion-9ffec2",
+      "title": "朝鲜日报预计韩国半导体出口今年破4000亿美元",
+      "description": "朝鲜日报称，韩国2026年9月半导体出口额为603亿美元，平均每天约20亿美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T01:01:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/korea-semiconductor-exports-top-400-billion-9ffec2",
+      "reference": [
+        "朝鲜日报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "teodoro-philippines-china-sovereignty-stance-03f9b7",
+      "title": "菲律宾防长称不求与中国全面冲突但不会退让",
+      "description": "菲律宾国防部长吉尔伯托·特奥多罗在接受《朝鲜日报》采访时表示，菲律宾不寻求与中国发生全面军事冲突，但会继续反对他所称的中国非法行为，并维护菲律宾的领土和主权权利。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T01:01:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/teodoro-philippines-china-sovereignty-stance-03f9b7",
+      "reference": [
+        "朝鲜日报"
+      ],
+      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -491,24 +868,6 @@
         "澎湃新闻"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "tokyo-core-cpi-rises-2-6-percent-279a8c",
-      "title": "东京10月剔除生鲜食品后物价同比涨2.6%",
-      "description": "日本总务省于10月30日公布东京都23区10月消费者物价指数。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T00:14:31+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/tokyo-core-cpi-rises-2-6-percent-279a8c",
-      "reference": [
-        "共同网"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -701,27 +1060,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "alphabet-q3-revenue-profit-miss-estimates-9485a4",
-      "title": "Alphabet业绩不及预期拖累美股三大指数收跌",
-      "description": "Alphabet第三季度营收和利润均未达到市场预期，投资者对人工智能（AI）投入何时产生回报、巨额支出如何影响现金流的担忧加重。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T23:16:37.893824+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/alphabet-q3-revenue-profit-miss-estimates-9485a4",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "第一财经",
-        "公视"
-      ],
-      "section": "business",
-      "sourceCount": 10,
       "sources": []
     },
     {
@@ -1027,27 +1365,6 @@
       "sources": []
     },
     {
-      "id": "pakistan-bars-taiwan-airlines-airspace-a72a29",
-      "title": "巴基斯坦恢复批准台湾航空公司飞越领空",
-      "description": "巴基斯坦国防部长阿瑟夫一度表示仅允许中国航空公司使用其领空后，巴基斯坦民航局恢复批准中华航空和长荣航空飞越。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T17:20:41+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/pakistan-bars-taiwan-airlines-airspace-a72a29",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "澎湃新闻",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 14,
-      "sources": []
-    },
-    {
       "id": "witkoff-norway-peace-proposal-talks-6bf424",
       "title": "俄乌美拟11月在阿布扎比重启三方会谈",
       "description": "乌克兰、俄罗斯和美国计划于11月在阿联酋首都阿布扎比举行工作层级三方会谈，以推动俄乌和平谈判重启，具体日期尚未确定。",
@@ -1066,27 +1383,6 @@
       ],
       "section": "world",
       "sourceCount": 46,
-      "sources": []
-    },
-    {
-      "id": "brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
-      "title": "博索纳罗违禁离境后抵达迈阿密",
-      "description": "巴西总统选举落败的参议员弗拉维奥·博索纳罗在法院下令限制其出境并要求交出护照后，携妻子和两个女儿离开巴西，经阿根廷、厄瓜多尔前往美国，10月28日抵达佛罗里达州迈阿密。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T16:19:30+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "法广",
-        "财新"
-      ],
-      "section": "world",
-      "sourceCount": 22,
       "sources": []
     },
     {
@@ -1443,26 +1739,6 @@
       "sources": []
     },
     {
-      "id": "three-policy-banks-complete-new-financial-tools-b6f038",
-      "title": "三家政策性银行完成8000亿元工具投放",
-      "description": "截至10月28日，国家开发银行、中国进出口银行和中国农业发展银行已完成2026年新型政策性金融工具投放，合计8000亿元，支持项目总投资超过11.5万亿元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T13:25:40.493020+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/three-policy-banks-complete-new-financial-tools-b6f038",
-      "reference": [
-        "澎湃新闻",
-        "财新",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "us-midterm-election-congress-control-164251",
       "title": "七个摇摆州将左右美国参议院控制权",
       "description": "美国选民将于11月3日投票改选国会议员及多州公职。",
@@ -1479,24 +1755,6 @@
       ],
       "section": "us",
       "sourceCount": 9,
-      "sources": []
-    },
-    {
-      "id": "lilly-raises-full-year-revenue-guidance-c5c930",
-      "title": "礼来将全年营收指引上调至910亿至920亿美元",
-      "description": "礼来10月29日公布2026年第三季度财报，并将全年营收预期提高至910亿至920亿美元；公司在第二季度财报中给出的区间为850亿至870亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T13:23:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/lilly-raises-full-year-revenue-guidance-c5c930",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1633,24 +1891,6 @@
       ],
       "section": "world",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "china-fiscal-spending-27-trillion-yuan-94be41",
-      "title": "前三季度广义财政支出约27.3万亿元",
-      "description": "财政部披露，2026年前三季度全国广义财政支出约27.3万亿元，比广义财政收入多约7.6万亿元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T12:47:38.665278+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/china-fiscal-spending-27-trillion-yuan-94be41",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1820,42 +2060,6 @@
       "sources": []
     },
     {
-      "id": "saic-group-nine-month-profit-falls-5197c2",
-      "title": "上汽集团前三季度净利润同比下降三成",
-      "description": "上汽集团10月29日晚披露2026年第三季度报告。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T11:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/saic-group-nine-month-profit-falls-5197c2",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "luzhou-laojiao-revenue-profit-fall-75dacc",
-      "title": "泸州老窖前三季度营收净利均大幅下滑",
-      "description": "泸州老窖股份有限公司10月29日发布2026年第三季度报告。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T11:56:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/luzhou-laojiao-revenue-profit-fall-75dacc",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "gallagher-warns-ai-rivalry-boosts-beijing-taiwan-invasion-a010c2",
       "title": "盖拉格警告人工智能竞赛或增强北京攻台动机",
       "description": "前美国众议员、Palantir防务业务主管迈克·盖拉格10月28日在印第安纳州一场国防政策活动上警告，中美人工智能竞争可能增加北京对台动武的诱因。",
@@ -1872,63 +2076,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "foreign-banks-issue-yuan-cds-outpay-chinese-banks-d85e2a",
-      "title": "多家外资银行发行大额存单部分利率高于中资行",
-      "description": "10月以来，汇丰、渣打、星展等外资银行推出人民币大额存单，永丰银行今年9月已上架三款三年期产品；部分产品利率高于中资银行同期限产品。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T11:29:35.274986+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/foreign-banks-issue-yuan-cds-outpay-chinese-banks-d85e2a",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "saudi-turkey-pakistan-officials-tehran-talks-ab04d2",
-      "title": "伊朗等四国会谈同意深化地区安全合作",
-      "description": "伊朗、沙特阿拉伯、土耳其和巴基斯坦高级官员10月26日在德黑兰举行四方地区安全会谈，议题包括区域紧张局势及防止冲突扩大。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T11:21:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/saudi-turkey-pakistan-officials-tehran-talks-ab04d2",
-      "reference": [
-        "联合早报",
-        "法广",
-        "财新",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "philippines-singapore-power-nuclear-cooperation-217bc5",
-      "title": "菲律宾新加坡交换意向书探讨跨境电力与核能合作",
-      "description": "菲律宾能源部长贾林与新加坡能源、贸易及工业部长陈诗龙在新加坡国际能源周期间交换合作意向书，涉及跨境电力互联和民用核能。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T11:08:38+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/philippines-singapore-power-nuclear-cooperation-217bc5",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2029,42 +2176,6 @@
       "sources": []
     },
     {
-      "id": "dusuki-convenes-financial-crime-taskforce-9c59bb",
-      "title": "马来西亚总检察长召开金融犯罪特别调查小组首次会议",
-      "description": "马来西亚总检察长杜苏基于10月28日主持金融犯罪特别调查小组首次会议，讨论确定小组成员和调查范围。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T10:28:29+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/dusuki-convenes-financial-crime-taskforce-9c59bb",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "honda-nissan-ev-battery-supply-talks-4cd827",
-      "title": "本田与日产据报磋商电动车电池供应合作",
-      "description": "据日本放送协会援引相关人士报道，本田与日产正磋商电动车电池合作细节。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T10:15:35+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/honda-nissan-ev-battery-supply-talks-4cd827",
-      "reference": [
-        "日本放送协会"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "ban-chao-dies-guangzhou-aged-64-cb911b",
       "title": "语言学家班弨在广州离世，终年64岁",
       "description": "班弨于2026年10月26日在广州离世，终年64岁。",
@@ -2119,42 +2230,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-council-says-ccp-promotes-one-china-09dd88",
-      "title": "台湾陆委会称中共纪念台湾光复日意在宣传两岸一中",
-      "description": "台湾陆委会副主委兼发言人梁文杰10月29日下午主持例行记者会时表示，中国共产党纪念台湾光复日，是在宣传“两岸一中”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T09:48:14+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/taiwan-council-says-ccp-promotes-one-china-09dd88",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "indonesia-free-meal-food-safety-oversight-5f9c87",
-      "title": "印尼国家营养局将加强免费餐食安监管",
-      "description": "印度尼西亚国家营养局宣布强化免费营养餐计划的食品安全监管，计划调取全国近2.7万个供餐厨房的监控画面，检查工作人员操作和厨房卫生，并于2026年11月启用统一采购平台。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T09:37:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/indonesia-free-meal-food-safety-oversight-5f9c87",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "singapore-simba-impersonation-scam-losses-14bd9e",
       "title": "SIMBA冒名骗局10月造成至少130万元损失",
       "description": "新加坡警方表示，2026年10月已接获至少59起冒充SIMBA职员和政府官员的诈骗报案，损失合计至少130万元。",
@@ -2169,24 +2244,6 @@
         "联合早报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "singapore-climate-study-adopted-asean-agriculture-bbf440",
-      "title": "新加坡农业气候研究获亚细安农林部长会议采纳",
-      "description": "新加坡食品局与新加坡国立大学热带海洋科学研究所共同开展的区域研究，已于10月29日在新加坡举行的第48届亚细安农业和林业部长会议上提交并获采纳。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T09:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/singapore-climate-study-adopted-asean-agriculture-bbf440",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -2241,42 +2298,6 @@
         "澎湃新闻"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "koizumi-seeks-understanding-security-revisions-467e2b",
-      "title": "小泉进次郎为年内修改三份安保文件寻求理解",
-      "description": "日本防卫相小泉进次郎在菲律宾宿务出席东盟防长扩大会，就日本计划年内修订三份安全保障相关文件寻求理解。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T08:36:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/koizumi-seeks-understanding-security-revisions-467e2b",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-korea-defense-ministers-deepen-north-korea-cooperation-8474d6",
-      "title": "日韩防长同意进一步深化朝鲜核导合作",
-      "description": "日本防卫相小泉进次郎10月28日在菲律宾会见韩国国防部长官姜信哲。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T08:35:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/japan-korea-defense-ministers-deepen-north-korea-cooperation-8474d6",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -3420,25 +3441,6 @@
       "sources": []
     },
     {
-      "id": "clark-says-davidson-window-threat-remains-bfb1d9",
-      "title": "克拉克重申戴维森窗口期仍具备战参考价值",
-      "description": "美国太平洋陆军司令罗纳德·克拉克10月27日在夏威夷檀香山表示，“戴维森窗口期”对该军种仍有备战参考价值。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T00:00:35+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/clark-says-davidson-window-threat-remains-bfb1d9",
-      "reference": [
-        "中央通訊社",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "china-funds-rural-free-flu-shots-d471c5",
       "title": "财政部安排资金支持农村老人学生免费接种流感疫苗",
       "description": "财政部今年安排资金，支持农村地区65周岁及以上老人和义务教育阶段中小学生免费接种流感疫苗。",
@@ -3643,27 +3645,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-2027-civil-service-exam-applications-close-df0cb3",
-      "title": "2027年国考过审人数七年来首次下降",
-      "description": "2027年度中央机关及其直属机构公务员考试报名和资格审查工作已经结束，共有345万人通过用人单位审核，比2026年度少26.8万人，降幅为7.2%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T12:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/china-2027-civil-service-exam-applications-close-df0cb3",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "中央通訊社",
-        "财新"
-      ],
-      "section": "life",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -3956,25 +3937,6 @@
       ],
       "section": "ai",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "google-deepmind-genie-4-audio-generation-dff937",
-      "title": "谷歌DeepMind发布Genie 4新增实时音频生成",
-      "description": "谷歌DeepMind当地时间10月27日发布通用世界模型Genie 4。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T03:51:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/google-deepmind-genie-4-audio-generation-dff937",
-      "reference": [
-        "第一财经",
-        "澎湃新闻"
-      ],
-      "section": "ai",
-      "sourceCount": 2,
       "sources": []
     },
     {
