@@ -1,11 +1,87 @@
 {
   "details": {
     "date": "2026-10-30",
-    "timestamp": 1793395697,
+    "timestamp": 1793402645,
     "totalPages": 1,
     "total": 269
   },
   "stories": [
+    {
+      "id": "trump-backs-netanyahu-reelection-d6e4fe",
+      "title": "以色列大选最终计票显示各阵营均未过半",
+      "description": "以色列中央选举委员会10月30日公布的最终计票结果显示，10月27日举行的议会选举中，现任总理本雅明·内塔尼亚胡领导的右翼及极右翼阵营获得53席，加迪·艾森科特领导的反对派阵营获得48席，阿拉伯政党联盟取得19席。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T22:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-18",
+      "url": "https://kaopu.news/story/2026-10-18/trump-backs-netanyahu-reelection-d6e4fe",
+      "reference": [
+        "联合早报",
+        "法广",
+        "日本放送协会",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 55,
+      "sources": []
+    },
+    {
+      "id": "paul-griffith-faces-202-child-abuse-charges-c5b2a1",
+      "title": "格里菲斯被追加202项儿童性侵及虐待指控",
+      "description": "澳大利亚儿童性犯罪者保罗·格里菲斯被追加202项涉及儿童性侵及虐待的指控。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T21:13:35+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/paul-griffith-faces-202-child-abuse-charges-c5b2a1",
+      "reference": [
+        "SBS"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "canada-gdp-stalls-august-shrinks-september-48332b",
+      "title": "加拿大经济8月停滞后9月初估收缩0.1%",
+      "description": "加拿大统计局公布的数据显示，加拿大7月实际GDP基本持平，8月也几乎没有变化。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T21:07:04.726000+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/canada-gdp-stalls-august-shrinks-september-48332b",
+      "reference": [
+        "加拿大国际广播电台"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "new-york-stocks-fall-sharply-1ac2b4",
+      "title": "科技股走弱拖累纽约股市三大股指大幅下跌",
+      "description": "纽约股市10月30日收跌，科技股下挫拖累市场。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T21:06:57+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/new-york-stocks-fall-sharply-1ac2b4",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
     {
       "id": "hong-kong-housing-chief-resigns-over-fire-56173b",
       "title": "香港政府公布宏福苑大火调查报告",
@@ -28,27 +104,28 @@
       "sources": []
     },
     {
-      "id": "new-york-stocks-fall-sharply-1ac2b4",
-      "title": "纽约股市三大股指30日显著下跌",
-      "description": "纽约股市三大股指30日收盘下跌：道指跌572.25点至51770.31点（1.09%），标准普尔500指数跌140.32点至7580.07点（1.82%），纳斯达克综合指数跌747.73点至25437.00点（2.86%）。",
+      "id": "saudi-coalition-shoots-down-houthi-drone-mecca-a64b33",
+      "title": "沙特联军称拦截胡塞武装无人机和导弹",
+      "description": "沙特主导的联军称，部队在麦加地区拦截并摧毁一架无人机，在利雅得省另摧毁一架；联军还拦截了一枚射向沙特南部的弹道导弹。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-30T20:59:00+00:00",
+      "updatedAt": "2026-10-30T20:32:03+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/new-york-stocks-fall-sharply-1ac2b4",
+      "url": "https://kaopu.news/story/2026-10-30/saudi-coalition-shoots-down-houthi-drone-mecca-a64b33",
       "reference": [
-        "澎湃新闻"
+        "联合早报",
+        "法广"
       ],
-      "section": "business",
-      "sourceCount": 1,
+      "section": "world",
+      "sourceCount": 3,
       "sources": []
     },
     {
       "id": "us-midterm-early-voting-record-e5493b",
-      "title": "美国期中选举提前投票人数创历史新高",
-      "description": "美国期中选举提前投票人数已刷新纪录。",
+      "title": "美国期中选举提前投票人数创下历史新高",
+      "description": "美国2026年期中选举提前投票人数已超过上届纪录。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -57,10 +134,11 @@
       "publishedAt": "2026-10-30",
       "url": "https://kaopu.news/story/2026-10-30/us-midterm-early-voting-record-e5493b",
       "reference": [
+        "法广",
         "世界日报"
       ],
       "section": "us",
-      "sourceCount": 1,
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1406,27 +1484,6 @@
       "sources": []
     },
     {
-      "id": "trump-backs-netanyahu-reelection-d6e4fe",
-      "title": "以色列公布大选结果内塔尼亚胡阵营未过半",
-      "description": "以色列中央选举委员会公布的议会选举计票结果显示，内塔尼亚胡领导的右翼阵营虽领先，但没有获得组建政府所需的多数席位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T11:06:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/trump-backs-netanyahu-reelection-d6e4fe",
-      "reference": [
-        "联合早报",
-        "法广",
-        "日本放送协会",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 54,
-      "sources": []
-    },
-    {
       "id": "china-electric-two-wheeler-exports-rise-9cf914",
       "title": "中国电动两轮车前三季度出口额增长近四成",
       "description": "中国机电产品进出口商会10月28日公布，2026年前九个月中国电动两轮车出口额为72.6亿美元，同比增长37.8%；出口量达2604.86万辆，增长28%。",
@@ -1576,24 +1633,6 @@
       ],
       "section": "ai",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-investors-rush-30-year-bond-etfs-1ce5b3",
-      "title": "中国大陆投资者减持港股转投30年期国债ETF",
-      "description": "中国大陆投资者10月加快减持港股；与此同时，两只境内30年期国债ETF出现资金净流入。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T10:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/china-investors-rush-30-year-bond-etfs-1ce5b3",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2392,25 +2431,6 @@
       "sources": []
     },
     {
-      "id": "saudi-coalition-shoots-down-houthi-drone-mecca-a64b33",
-      "title": "沙特联军称在麦加省击毁胡塞无人机",
-      "description": "沙特主导联军称，一架由也门胡塞武装发射的无人机在麦加省被拦截并摧毁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T07:32:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/saudi-coalition-shoots-down-houthi-drone-mecca-a64b33",
-      "reference": [
-        "联合早报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "haitham-bin-tariq-state-visit-china-a97ae5",
       "title": "阿曼苏丹海赛姆将于11月1日至2日访华",
       "description": "阿曼苏丹海赛姆应中国国家主席习近平邀请，定于11月1日至2日赴华，开展为期两天的国事访问。",
@@ -3057,24 +3077,6 @@
         "公视"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "reuters-pentagon-urges-baltic-allies-soften-russia-rhetoric-f4ecdc",
-      "title": "路透称美国五角大楼要求波罗的海盟友缓和对俄言辞",
-      "description": "据路透社援引四名知情人士报道，美国五角大楼官员近日在与立陶宛、拉脱维亚和爱沙尼亚的双边会晤中，要求这三个北约东翼盟友缓和针对俄罗斯威胁的公开言辞。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T05:44:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/reuters-pentagon-urges-baltic-allies-soften-russia-rhetoric-f4ecdc",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
