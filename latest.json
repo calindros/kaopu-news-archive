@@ -1,11 +1,111 @@
 {
   "details": {
     "date": "2026-10-30",
-    "timestamp": 1793360728,
+    "timestamp": 1793367716,
     "totalPages": 1,
     "total": 266
   },
   "stories": [
+    {
+      "id": "china-life-posts-third-quarter-loss-fc809a",
+      "title": "中国人寿三季度单季亏损450.59亿元",
+      "description": "中国人寿保险股份有限公司公布2026年第三季度报告。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T12:01:40.018225+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/china-life-posts-third-quarter-loss-fc809a",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-provincial-shuffle-post-70s-governors-87af39",
+      "title": "谢卫江获任湖南省副省长并代理省长",
+      "description": "谢卫江10月30日下午获湖南省人大常委会任命为省政府副省长，并被确定代理省长。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T11:58:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/china-provincial-shuffle-post-70s-governors-87af39",
+      "reference": [
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "hong-kong-housing-chief-resigns-over-fire-56173b",
+      "title": "香港特区政府公布宏福苑大火独立调查报告",
+      "description": "香港特区政府10月29日公开宏福苑大火独立委员会报告。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T11:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/hong-kong-housing-chief-resigns-over-fire-56173b",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "英国广播公司",
+        "端传媒"
+      ],
+      "section": "china",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "纽约时报称美方认定黄乐为中国情报人员",
+      "description": "《纽约时报》10月29日报道称，美国官员认定新加坡数据中心企业Megaspeed前高管黄乐（Alice Huang）是向北京传递信息的中国情报人员，并怀疑她协助将英伟达先进人工智能芯片转运至中国。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T11:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "nikkei-plunges-below-63000-points-51abf0",
+      "title": "东京日经225指数受美科技股拖累收跌",
+      "description": "东京股市日经225指数10月30日收报63290.11点，较前一交易日下跌1369.36点，跌幅2.12%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T11:23:27+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/nikkei-plunges-below-63000-points-51abf0",
+      "reference": [
+        "澎湃新闻",
+        "共同网",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 4,
+      "sources": []
+    },
     {
       "id": "trump-backs-netanyahu-reelection-d6e4fe",
       "title": "以色列公布大选结果内塔尼亚胡阵营未过半",
@@ -25,25 +125,6 @@
       ],
       "section": "world",
       "sourceCount": 54,
-      "sources": []
-    },
-    {
-      "id": "china-provincial-shuffle-post-70s-governors-87af39",
-      "title": "湖南省人大常委会决定谢卫江代理省长",
-      "description": "湖南省人大常委会决定任命谢卫江为省政府副省长，并由他代理省长。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T10:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/china-provincial-shuffle-post-70s-governors-87af39",
-      "reference": [
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -206,6 +287,25 @@
       "sources": []
     },
     {
+      "id": "china-coast-guard-ships-exit-kinmen-waters-fb55c8",
+      "title": "4艘中国海警船两度接近金门限制水域后驶出",
+      "description": "台湾海洋委员会海巡署金马澎分署称，台湾第十二巡防区于上午8时许和下午2时许发现4艘中国海警船（14608、14531、14607、14529）接近金门限制水域。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T10:13:38+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/china-coast-guard-ships-exit-kinmen-waters-fb55c8",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "gmo-requests-active-cyber-defense-cc7ba4",
       "title": "GMO云服务器遭入侵用户信息被窃并造成损失",
       "description": "GMO互联网集团旗下为投资者提供外汇保证金交易等服务的云服务器遭非法访问，公司确认客户信息被窃，用户ID和密码存在被盗用风险，并发现有账户出现非本人操作的交易。",
@@ -224,27 +324,6 @@
       ],
       "section": "world",
       "sourceCount": 26,
-      "sources": []
-    },
-    {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "美媒称黄乐被认定为中国情报资产并涉芯片转运",
-      "description": "美国官员据《纽约时报》报道，认定新加坡数据中心公司Megaspeed前高管黄乐是向北京传递信息的中国情报资产，并怀疑她协助中国获取受出口限制的英伟达先进AI芯片。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T10:08:49+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 12,
       "sources": []
     },
     {
@@ -288,6 +367,42 @@
       "sources": []
     },
     {
+      "id": "king-slide-kaohsiung-rail-factory-expansion-cf9dc5",
+      "title": "川湖公告子公司197亿元扩建预算拟建全球最大滑轨厂",
+      "description": "川湖代全资子公司川益科技公告，高雄3厂、5厂扩建资本支出预算已获通过，金额为新台币197.12亿元，目标是建成全球最大的滑轨工厂。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T09:50:25+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/king-slide-kaohsiung-rail-factory-expansion-cf9dc5",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "su-chiao-hui-lee-chuan-new-taipei-mayor-65c551",
+      "title": "苏巧慧将与李四川争夺新北市长职位",
+      "description": "台湾2026年“九合一”地方选举定于11月28日举行，民进党苏巧慧将与国民党李四川角逐新北市长。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T09:48:25+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/su-chiao-hui-lee-chuan-new-taipei-mayor-65c551",
+      "reference": [
+        "英国广播公司"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "japanese-automakers-china-output-falls-40-percent-3bc672",
       "title": "日系四家车企在华产量同比下降32%创18年新低",
       "description": "丰田、本田、日产和马自达2026年4月至9月在中国合计生产102万579辆，同比减少32%，为2008年以来最低水平。",
@@ -304,6 +419,24 @@
       ],
       "section": "business",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "malaysia-submit-university-act-amendment-eaf23a",
+      "title": "高教部预计12月向国会提交大专法修订案",
+      "description": "政府发言人法米表示，高等教育部预计于今年12月向国会提交《1971年大专法令》修订案。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T09:45:12+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/malaysia-submit-university-act-amendment-eaf23a",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -325,6 +458,42 @@
       ],
       "section": "business",
       "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "china-parliament-review-criminal-procedure-amendment-886e0c",
+      "title": "全国人大常委会将审议刑诉法修正草案",
+      "description": "中国全国人大常委会将于11月2日至6日在北京举行的会议上审议刑事诉讼法修正草案议案，指定居所监视居住制度是否保留及适用范围成为修法讨论焦点。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T09:37:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/china-parliament-review-criminal-procedure-amendment-886e0c",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "hong-kong-proposes-renovation-bid-rigging-crime-566ba2",
+      "title": "香港特区政府拟将楼宇大型维修围标列为刑事罪行",
+      "description": "香港特区政府拟修改《竞争条例》，将楼宇大型维修工程中的围标等严重反竞争行为设为刑事罪行，并争取在2027年4月前通过修例。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T09:36:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/hong-kong-proposes-renovation-bid-rigging-crime-566ba2",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -368,6 +537,24 @@
       "sources": []
     },
     {
+      "id": "vietnam-trade-tops-one-trillion-725cf4",
+      "title": "越南前十个月货物进出口额首次突破万亿美元",
+      "description": "越南今年前10个月货物进出口总额首次突破1万亿美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T09:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/vietnam-trade-tops-one-trillion-725cf4",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "carney-launches-canada-national-security-strategy-a8c3d5",
       "title": "加拿大发布20多年来首份国家安全战略",
       "description": "加拿大总理卡尼于10月29日宣布推出名为《更强大的加拿大计划》的国家安全战略，这是加拿大20多年来首份此类文件。",
@@ -408,6 +595,43 @@
       "sources": []
     },
     {
+      "id": "attack-21-drone-lands-sichuan-amphibious-ship-0be7ca",
+      "title": "解放军首型舰载察打一体隐身无人机在四川舰成功起降",
+      "description": "中国人民解放军首型舰载察打一体隐身无人机“攻击-21”近日首次在四川舰成功起降。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T09:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/attack-21-drone-lands-sichuan-amphibious-ship-0be7ca",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "taiwan-ministry-coordinates-salad-oil-imports-dde95b",
+      "title": "台湾经济部协调第四季度进口5000吨沙拉油",
+      "description": "中联油脂停工影响台湾沙拉油供应，台湾经济部正通过协调增产、扩大进口和供需对接补充货源，并已协调油品进口商第四季度扩大进口5000吨。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T09:14:40+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/taiwan-ministry-coordinates-salad-oil-imports-dde95b",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "meta-plans-95-billion-equity-funding-a78fa8",
       "title": "英伟达斥资30亿美元认购Meta新股",
       "description": "英伟达宣布投资30亿美元，认购Meta新发行的股票。",
@@ -426,6 +650,24 @@
       ],
       "section": "ai",
       "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "anti-cross-border-corruption-bill-second-review-9bfefc",
+      "title": "反跨境腐败法草案拟提请全国人大常委会二审",
+      "description": "反跨境腐败法草案拟提请十四届全国人大常委会第二十五次会议二次审议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T09:09:35.942834+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/anti-cross-border-corruption-bill-second-review-9bfefc",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "china",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -448,6 +690,60 @@
       "sources": []
     },
     {
+      "id": "taiwan-legislature-approves-hillside-water-conservation-87d6c1",
+      "title": "台湾立法院三读通过山坡地水保修法",
+      "description": "台湾立法院10月30日三读通过《山坡地保育利用条例》和《水土保持法》部分条文修正案，提高山坡地违规开发的刑罚和罚金，并赋予主管机关停工、限期改正等处置权限。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T09:00:47+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/taiwan-legislature-approves-hillside-water-conservation-87d6c1",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "south-korean-youth-upward-mobility-hits-low-267a73",
+      "title": "韩国青年收入向上流动率降至2018年以来最低",
+      "description": "韩国国家数据处10月29日发布的《2024年收入流动统计》显示，韩国2024年整体收入流动率为33.0%，比上年下降1.2个百分点；15至39岁群体收入档位上升的比例为22.4%，降至2018年以来最低。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T08:57:51+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/south-korean-youth-upward-mobility-hits-low-267a73",
+      "reference": [
+        "韩民族日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-steel-firms-q3-profit-drop-65eb3b",
+      "title": "中钢协公布重点钢企前三季度利润降27.4%",
+      "description": "中国钢铁工业协会重点统计企业前三季度营业收入4.57万亿元，同比下降2.3%；利润总额718亿元，下降27.4%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T08:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/china-steel-firms-q3-profit-drop-65eb3b",
+      "reference": [
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "patrick-stewart-dies-aged-86-b8240b",
       "title": "英国演员帕特里克·斯图尔特去世，享年86岁",
       "description": "英国演员帕特里克·斯图尔特于当地时间10月28日在洛杉矶家中去世，享年86岁，死讯于次日公布。",
@@ -464,6 +760,60 @@
       ],
       "section": "culture",
       "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "xi-meets-german-president-steinmeier-a089ca",
+      "title": "习近平在北京会见德国总统施泰因迈尔",
+      "description": "10月30日星期五，中国国家主席习近平在北京会晤德国总统施泰因迈尔。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T08:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/xi-meets-german-president-steinmeier-a089ca",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "toyota-waymo-japan-robotaxi-2027-trial-76e937",
+      "title": "丰田Waymo拟2027年在日本试运营无人出租车",
+      "description": "丰田汽车公司与Waymo宣布，计划2027年在日本开展自动驾驶出租车初期运营，内容包括测试和验证。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T08:54:48+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/toyota-waymo-japan-robotaxi-2027-trial-76e937",
+      "reference": [
+        "共同网"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "incheon-airport-checkin-system-disruption-8641ca",
+      "title": "仁川机场值机系统故障影响13家航司",
+      "description": "韩国仁川国际机场10月30日发生航空公司值机系统故障，13家航司旅客办理登机手续受影响，部分航班延误。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T08:47:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/incheon-airport-checkin-system-disruption-8641ca",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -504,6 +854,42 @@
       "sources": []
     },
     {
+      "id": "hongguo-short-drama-tops-taiwan-app-stores-8cfdaf",
+      "title": "红果短剧连续登顶台湾应用商店免费榜",
+      "description": "字节跳动旗下红果短剧连续位居台湾苹果应用商店和Google Play免费应用下载榜首。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T08:38:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/hongguo-short-drama-tops-taiwan-app-stores-8cfdaf",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-water-law-amendment-third-review-547dd4",
+      "title": "水法修订草案拟提交全国人大常委会三审",
+      "description": "全国人大常委会法制工作委员会10月30日介绍，水法修订草案拟作进一步修改，并拟提交十四届全国人大常委会第二十五次会议三次审议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T08:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/china-water-law-amendment-third-review-547dd4",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "lme-launches-shanghai-hrc-futures-4be871",
       "title": "上期所热卷结算价登陆LME美元合约",
       "description": "伦敦金属交易所（LME）10月27日推出代码为HS的热轧卷板期货合约，以上海期货交易所（上期所）热轧卷板期货结算价为基准，采用美元计价和现金结算。",
@@ -519,6 +905,24 @@
       ],
       "section": "business",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "japan-australia-confirm-warship-development-progress-ce20b4",
+      "title": "日澳防长确认新型舰艇联合开发稳步推进",
+      "description": "日本防卫相小泉进次郎10月29日在菲律宾会见澳大利亚副总理兼国防部长马尔斯。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T07:49:48+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/japan-australia-confirm-warship-development-progress-ce20b4",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -555,27 +959,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "hong-kong-housing-chief-resigns-over-fire-56173b",
-      "title": "港府公布宏福苑大火监管问责改革方案",
-      "description": "香港特区政府10月30日举行宏福苑火灾专题记者会，保安局局长邓炳强、商务及经济发展局局长丘应桦、财政司副司长黄伟纶和发展局局长宁汉豪代表问责团队，再次向灾民及公众致歉，并说明问责调查和楼宇维修监管改革安排。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T07:42:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/hong-kong-housing-chief-resigns-over-fire-56173b",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "英国广播公司",
-        "端传媒"
-      ],
-      "section": "china",
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -726,26 +1109,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "nikkei-plunges-below-63000-points-51abf0",
-      "title": "美国科技股走弱拖累日经指数收跌2.12%",
-      "description": "东京股市日经225指数30日收跌2.12%，报63290.11点；东证股价指数跌0.95%，报3965.07点，创3月以来最大单月跌幅。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T07:14:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/nikkei-plunges-below-63000-points-51abf0",
-      "reference": [
-        "澎湃新闻",
-        "共同网",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1854,24 +2217,6 @@
       "sources": []
     },
     {
-      "id": "malaysia-files-civil-claims-myeg-zetrix-0692e4",
-      "title": "马来西亚政府起诉MyEG追讨3.53亿令吉税款",
-      "description": "马来西亚政府已起诉Zetrix AI全资子公司MyEG，追讨内陆税收局追加征收的3亿5313万令吉所得税。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T04:25:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/malaysia-files-civil-claims-myeg-zetrix-0692e4",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "sichuan-updates-truck-night-driving-break-rules-e95fb1",
       "title": "四川省交通运输厅调整货车夜间驾驶休息要求",
       "description": "四川省交通运输厅已确认，普通营运货车夜间驾驶休息按国家规定执行：连续驾驶不得超过4小时而不停车休息，停车休息时间也不能少于20分钟。",
@@ -1908,27 +2253,6 @@
       ],
       "section": "world",
       "sourceCount": 35,
-      "sources": []
-    },
-    {
-      "id": "pakistan-bars-taiwan-airlines-airspace-a72a29",
-      "title": "巴基斯坦恢复批准华航长荣飞越其领空",
-      "description": "巴基斯坦先以“一个中国”政策为由表示只允许中国大陆航空公司飞越其领空，随后又批准中华航空和长荣航空使用该空域。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T04:02:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/pakistan-bars-taiwan-airlines-airspace-a72a29",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "澎湃新闻",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 16,
       "sources": []
     },
     {
@@ -2004,24 +2328,6 @@
         "第一财经"
       ],
       "section": "life",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "dusuki-convenes-financial-crime-taskforce-9c59bb",
-      "title": "马来西亚总检察长召开金融犯罪调查小组首次会议",
-      "description": "马来西亚总检察长杜苏基于10月28日召开金融犯罪特别调查小组首次会议，讨论确定小组成员名单和调查范围，以推进企业黑帮丑闻调查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T03:27:34+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/dusuki-convenes-financial-crime-taskforce-9c59bb",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
       "sourceCount": 3,
       "sources": []
     },
@@ -2118,26 +2424,6 @@
       "sources": []
     },
     {
-      "id": "jin-seong-jun-us-visa-denial-d89ac4",
-      "title": "韩国国防委员长陈声准赴美签证遭拒",
-      "description": "10月28日，韩国国会国防委员会委员长、共同民主党议员陈声准称，美方拒绝了他为公务访问申请的签证。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T02:49:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/jin-seong-jun-us-visa-denial-d89ac4",
-      "reference": [
-        "韩国国际广播电台",
-        "朝鲜日报",
-        "韩民族日报"
-      ],
-      "section": "asia",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "amazon-q3-results-miss-shares-fall-36e607",
       "title": "亚马逊三季度营收增12%净利润小幅下滑",
       "description": "亚马逊当地时间10月29日公布2026年第三季度财报，净销售额为2019.44亿美元，同比增长12%；净利润为206.85亿美元，同比减少约2%。",
@@ -2155,25 +2441,6 @@
       ],
       "section": "business",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "lee-jae-myung-migrant-policy-remarks-spark-backlash-174ec4",
-      "title": "李在明多文化政策言论引发移民排斥争议",
-      "description": "韩国总统李在明围绕多文化家庭产后调理院优待政策的社交媒体发言引发争议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T02:40:46+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/lee-jae-myung-migrant-policy-remarks-spark-backlash-174ec4",
-      "reference": [
-        "朝鲜日报",
-        "韩民族日报"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2271,26 +2538,6 @@
       "sources": []
     },
     {
-      "id": "intel-weak-q4-outlook-shares-drop-63ff61",
-      "title": "英特尔四季度指引逊预期股价盘后一度跌23%",
-      "description": "英特尔公布2026年第三季度财报，营收和调整后每股收益高于公司此前指引，但公司给出的第四季度业绩预期低于市场预测。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T02:20:37.622908+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/intel-weak-q4-outlook-shares-drop-63ff61",
-      "reference": [
-        "澎湃新闻",
-        "日经",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "quinn-emanuel-china-crossborder-litigation-risks-150123",
       "title": "昆鹰报告称中企跨境诉讼风险加大",
       "description": "美国昆鹰律师事务所2026年10月发布报告称，过去十年中国企业跨境诉讼更频繁、复杂，地缘政治风险凸显。",
@@ -2347,24 +2594,6 @@
       "sources": []
     },
     {
-      "id": "cofco-inquires-us-soft-red-winter-wheat-39f2b1",
-      "title": "中粮据报首次询购美国软红冬小麦",
-      "description": "据彭博社援引知情人士报道，中粮集团在特朗普与习近平9月会晤后，首次就采购美国软红冬小麦询价；相关货物计划明年装船运往中国。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T01:42:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/cofco-inquires-us-soft-red-winter-wheat-39f2b1",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "eu-pressures-uk-raise-china-ev-tariffs-647222",
       "title": "日经称欧盟要求英国提高中国电动车关税",
       "description": "据日经报道，英国政府内部已出现提高中国纯电动汽车关税的方案，欧盟担心中国电动车经英国进入欧洲市场，正向英国施压。",
@@ -2417,24 +2646,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "yicai-beijing-hyundai-manager-li-fenggang-departure-a7c888",
-      "title": "第一财经称北京现代首位中国籍总经理李凤刚将离任",
-      "description": "第一财经独家报道称，北京现代总经理李凤刚定于2026年11月1日离任。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T01:06:38.703795+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/yicai-beijing-hyundai-manager-li-fenggang-departure-a7c888",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2672,26 +2883,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "russian-fuel-tankers-head-us-9b0005",
-      "title": "特朗普政府评估解除俄罗斯直接投资基金制裁申请",
-      "description": "特朗普政府正按既定程序审查俄罗斯直接投资基金提出的解除制裁申请。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T19:33:18+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/russian-fuel-tankers-head-us-9b0005",
-      "reference": [
-        "联合早报",
-        "纽约时报",
-        "中央通訊社"
-      ],
-      "section": "world",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -3312,24 +3503,6 @@
       "sources": []
     },
     {
-      "id": "new-york-medicaid-aba-cuts-disrupt-care-39936a",
-      "title": "纽约州三度下调白卡ABA费率家庭转介受阻",
-      "description": "纽约州自2026年10月1日起第三次下调白卡（Medicaid）应用行为分析（ABA）服务支付费率。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T06:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/new-york-medicaid-aba-cuts-disrupt-care-39936a",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "pew-asian-voters-two-thirds-naturalized-68c4a1",
       "title": "皮尤称归化公民占亚裔合格选民近三分之二",
       "description": "皮尤研究中心10月27日发布的分析显示，美国约有1250万名具备投票资格的亚裔公民，其中约810万人出生于海外，后来归化成为美国公民。",
@@ -3363,24 +3536,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "john-liu-bill-requires-dmv-identity-check-a99465",
-      "title": "刘醇逸提案要求纽约州DMV处罚前核实身份",
-      "description": "纽约州参议员刘醇逸与州众议员金兑锡、胡可丝及多族裔社区代表10月28日在皇后区大学点DMV办公室前举行记者会，宣布提出S10729。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T06:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/john-liu-bill-requires-dmv-identity-check-a99465",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3589,25 +3744,6 @@
       "sources": []
     },
     {
-      "id": "china-agencies-boost-hainan-trade-facilitation-97e121",
-      "title": "四部门出台措施提升海南自贸港贸易自由化便利化水平",
-      "description": "中国商务部、国家发展改革委、生态环境部和海关总署于10月29日联合发布商自贸发〔2026〕187号通知，提出进一步提高海南自由贸易港贸易自由化、便利化水平。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T04:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/china-agencies-boost-hainan-trade-facilitation-97e121",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "us-doj-probes-nvidia-hugging-face-deal-e075e7",
       "title": "美司法部据报调查英伟达收购Hugging Face交易",
       "description": "据路透社报道，两名知情人士称，美国司法部已对英伟达拟以129.3亿美元收购开源平台Hugging Face一事展开调查，以评估交易对人工智能领域竞争的影响。",
@@ -3741,24 +3877,6 @@
       "sources": []
     },
     {
-      "id": "china-agriculture-ministry-warns-farm-financing-fraud-dbbc8c",
-      "title": "农业农村部发布涉农融资项目风险提示",
-      "description": "农业农村部10月29日发布风险提示称，近期多个省、市、县级农业农村部门及农业经营主体反映，有机构和个人冒用部工作人员或乡村振兴领域专家身份，借项目策划、融资咨询之名推介虚假涉农项目，并借机骗取经营主体钱款。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T02:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/china-agriculture-ministry-warns-farm-financing-fraud-dbbc8c",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "bloomberg-firms-subscribe-truth-api-9cde7c",
       "title": "彭博等三家据报签约订阅特朗普帖文接口",
       "description": "彭博、海纳国际集团和Jump Trading据路透社报道已签约订阅真实社群（Truth Social）的Truth API，以更快获取美国总统特朗普发布的帖文。",
@@ -3796,24 +3914,6 @@
       "sources": []
     },
     {
-      "id": "china-agrees-adjust-mozambique-debt-schedule-038ec1",
-      "title": "中国同意调整莫桑比克部分债务还款时间表",
-      "description": "莫桑比克10月26日宣布，中国同意调整该国部分债务的还款时间表。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T00:46:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/china-agrees-adjust-mozambique-debt-schedule-038ec1",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "every-grain-of-us-rice-dance-aa5331",
       "title": "许晴晴以离台时家人放入行李的米及祖母叮嘱创作舞作《米力》",
       "description": "旧金山台裔舞蹈艺术家许晴晴以家人放入行李的一袋米、祖母叮嘱她混入日常饭菜的记忆为起点，创作舞蹈作品《Every Grain of Us 米力》。",
@@ -3828,81 +3928,6 @@
         "世界日报"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-tv-rules-require-live-startup-aa98b7",
-      "title": "广电总局发布新规要求电视开机优先直播",
-      "description": "国家广播电视总局10月27日公布两项电视运营服务规章，明确有线电视和交互式网络电视应优先提供直播服务，并对收费管理、终端操作和用户保障作出规定。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T00:02:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/china-tv-rules-require-live-startup-aa98b7",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "china-funds-rural-free-flu-shots-d471c5",
-      "title": "财政部安排资金支持农村老人学生免费接种流感疫苗",
-      "description": "财政部今年安排资金，支持农村地区65周岁及以上老人和义务教育阶段中小学生免费接种流感疫苗。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T23:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/china-funds-rural-free-flu-shots-d471c5",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "liu-yandong-china-former-vice-premier-dies-a0e81f",
-      "title": "中国前副总理刘延东在北京病逝享年81岁",
-      "description": "刘延东在北京去世，终年81岁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T14:51:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/liu-yandong-china-former-vice-premier-dies-a0e81f",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "中央通訊社",
-        "英国广播公司"
-      ],
-      "section": "china",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "yuehai-water-reit-lists-shenzhen-9b4271",
-      "title": "银华粤海水务水利REIT在深交所上市",
-      "description": "银华粤海水务水利封闭式基础设施证券投资基金于2026年10月28日在深交所上市。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T13:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/yuehai-water-reit-lists-shenzhen-9b4271",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -4071,24 +4096,6 @@
       ],
       "section": "culture",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "musk-says-robot-memory-demand-will-surpass-earth-e8c210",
-      "title": "马斯克称机器人内存需求将超过地球其他用途",
-      "description": "马斯克10月27日在X回应Counterpoint Research关于人形机器人的报告时说，机器人要参与改变物理世界，必须以实体形态存在，因此未来机器人对RAM的需求将超过地球上的其他用途。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T06:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/musk-says-robot-memory-demand-will-surpass-earth-e8c210",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -4562,27 +4569,6 @@
       ],
       "section": "ai",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-agency-urges-php-security-patch-8c669e",
-      "title": "日本政府将依法研判是否对网络攻击实施无害化措施",
-      "description": "日本官房长官木原稔10月26日表示，日本政府将由警察、防卫省等部门依照法律条件，判断是否对网络攻击采取无害化措施，不以受害组织是否提出请求为前提。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T07:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-21",
-      "url": "https://kaopu.news/story/2026-10-21/japan-agency-urges-php-security-patch-8c669e",
-      "reference": [
-        "共同网",
-        "中央通訊社",
-        "加拿大国际广播电台",
-        "第一财经"
-      ],
-      "section": "tech",
-      "sourceCount": 45,
       "sources": []
     },
     {
