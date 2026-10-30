@@ -1,11 +1,29 @@
 {
   "details": {
     "date": "2026-10-30",
-    "timestamp": 1793381407,
+    "timestamp": 1793395697,
     "totalPages": 1,
     "total": 268
   },
   "stories": [
+    {
+      "id": "us-midterm-early-voting-record-e5493b",
+      "title": "美国期中选举提前投票人数创历史新高",
+      "description": "美国期中选举提前投票人数已刷新纪录。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T20:03:16+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/us-midterm-early-voting-record-e5493b",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "state-department-orders-staff-families-leave-saudi-arabia-02a4f3",
       "title": "美国务院要求非紧急岗位人员及家属离开沙特",
@@ -26,20 +44,21 @@
     },
     {
       "id": "weak-us-tech-earnings-hit-europe-stocks-40a632",
-      "title": "美国科技企业财报欠佳令欧洲股市多数收跌",
-      "description": "10月30日，美国大型科技企业财报表现不佳，加深了市场对人工智能投资热潮的担忧，科技股面临较重抛售压力，欧洲股市收盘多数下跌。",
+      "title": "科技股抛售加剧欧洲主要股指多数收跌",
+      "description": "欧洲股市收盘多数下跌，科技板块卖盘明显。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-30T17:30:47+00:00",
+      "updatedAt": "2026-10-30T18:10:09+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-30",
       "url": "https://kaopu.news/story/2026-10-30/weak-us-tech-earnings-hit-europe-stocks-40a632",
       "reference": [
-        "中央通訊社"
+        "中央通訊社",
+        "法广"
       ],
       "section": "business",
-      "sourceCount": 1,
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3755,26 +3774,6 @@
       ],
       "section": "us",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "democrats-sue-trump-officials-election-interference-6af47c",
-      "title": "联邦法官驳回司法部阻止加州寄出两万选票请求",
-      "description": "美国联邦地方法院法官戴维·O·卡特驳回司法部阻止加州向约2万名选民寄送选票的申请，并拒绝下令扣押相关选票。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T06:32:51+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-22",
-      "url": "https://kaopu.news/story/2026-10-22/democrats-sue-trump-officials-election-interference-6af47c",
-      "reference": [
-        "法广",
-        "联合早报",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 5,
       "sources": []
     },
     {
