@@ -1,11 +1,196 @@
 {
   "details": {
     "date": "2026-10-30",
-    "timestamp": 1793355928,
+    "timestamp": 1793360728,
     "totalPages": 1,
-    "total": 266
+    "total": 265
   },
   "stories": [
+    {
+      "id": "binance-freezes-three-billion-hack-assets-ebaf47",
+      "title": "币安遭网络攻击约63亿美元加密资产受影响",
+      "description": "全球最大加密货币交易所币安披露一起重大网络安全事件。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T10:14:49+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/binance-freezes-three-billion-hack-assets-ebaf47",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "韩国国际广播电台",
+        "英国广播公司"
+      ],
+      "section": "business",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "boj-expected-hold-policy-rate-57af8c",
+      "title": "日本央行首次确认基础通胀达到2%目标",
+      "description": "日本央行在10月30日结束的货币政策会议上，首次确认自2013年设定2%目标以来，剔除暂时性因素后的基础物价涨幅已大致达到物价稳定目标，并预计今后仍会维持在附近。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T10:10:15+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/boj-expected-hold-policy-rate-57af8c",
+      "reference": [
+        "日本放送协会",
+        "中央通訊社",
+        "共同网",
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "gmo-requests-active-cyber-defense-cc7ba4",
+      "title": "GMO云服务器遭入侵用户信息被窃并造成损失",
+      "description": "GMO互联网集团旗下为投资者提供外汇保证金交易等服务的云服务器遭非法访问，公司确认客户信息被窃，用户ID和密码存在被盗用风险，并发现有账户出现非本人操作的交易。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T10:08:53+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/gmo-requests-active-cyber-defense-cc7ba4",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "日本放送协会",
+        "中央通訊社"
+      ],
+      "section": "world",
+      "sourceCount": 26,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "美媒称黄乐被认定为中国情报资产并涉芯片转运",
+      "description": "美国官员据《纽约时报》报道，认定新加坡数据中心公司Megaspeed前高管黄乐是向北京传递信息的中国情报资产，并怀疑她协助中国获取受出口限制的英伟达先进AI芯片。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T10:08:49+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "volkswagen-china-joint-ventures-post-loss-97c213",
+      "title": "大众汽车集团第三季度净亏损扩大至58亿欧元",
+      "description": "大众汽车集团10月29日公布第三季度业绩。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T10:08:45+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/volkswagen-china-joint-ventures-post-loss-97c213",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "法广",
+        "日本放送协会"
+      ],
+      "section": "business",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "ai-reshapes-chinese-students-major-choices-e5a80e",
+      "title": "人工智能冲击初级岗位改变中国专业选择",
+      "description": "人工智能正在改变中国部分岗位的用工需求，也影响学生和高校对专业培养方向的选择。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T10:05:38.245189+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/ai-reshapes-chinese-students-major-choices-e5a80e",
+      "reference": [
+        "中央通訊社",
+        "第一财经"
+      ],
+      "section": "life",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "us-third-quarter-gdp-growth-beats-forecasts-41a290",
+      "title": "美国三季度GDP增长3.4%创一年最大增幅",
+      "description": "美国商务部10月29日公布初值，2026年第三季度实际GDP按年率折算环比增长3.4%，高于第二季度的2.2%，为一年来最大增幅。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T09:45:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/us-third-quarter-gdp-growth-beats-forecasts-41a290",
+      "reference": [
+        "中央通訊社",
+        "财新",
+        "法广",
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "trump-backs-netanyahu-reelection-d6e4fe",
+      "title": "以色列公布大选最终结果无阵营取得多数席位",
+      "description": "以色列中央选举委员会10月30日凌晨公布议会选举最终计票结果：内塔尼亚胡领导的右翼执政联盟获得53席，加迪·艾森科特领导的反对派阵营获得48席，双方均未达到组建政府所需的61席。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T09:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-18",
+      "url": "https://kaopu.news/story/2026-10-18/trump-backs-netanyahu-reelection-d6e4fe",
+      "reference": [
+        "联合早报",
+        "法广",
+        "日本放送协会",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 53,
+      "sources": []
+    },
+    {
+      "id": "carney-launches-canada-national-security-strategy-a8c3d5",
+      "title": "加拿大发布20多年来首份国家安全战略",
+      "description": "加拿大总理卡尼于10月29日宣布推出名为《更强大的加拿大计划》的国家安全战略，这是加拿大20多年来首份此类文件。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T09:28:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/carney-launches-canada-national-security-strategy-a8c3d5",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
     {
       "id": "north-korea-fires-suspected-ballistic-missile-16e413",
       "title": "朝鲜从元山向东部海域发射十余枚短程弹道导弹",
@@ -28,6 +213,27 @@
       "sources": []
     },
     {
+      "id": "meta-plans-95-billion-equity-funding-a78fa8",
+      "title": "英伟达斥资30亿美元认购Meta新股",
+      "description": "英伟达宣布投资30亿美元，认购Meta新发行的股票。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T09:14:38+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/meta-plans-95-billion-equity-funding-a78fa8",
+      "reference": [
+        "中央通訊社",
+        "澎湃新闻",
+        "第一财经",
+        "财新"
+      ],
+      "section": "ai",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
       "id": "alphabet-q3-revenue-profit-miss-estimates-9485a4",
       "title": "Alphabet财报引发AI回报担忧并拖累科技股下跌",
       "description": "Alphabet第三季度业绩不及预期、人工智能支出继续扩大，令投资者重新审视投入的回报和现金流。",
@@ -46,6 +252,25 @@
       ],
       "section": "business",
       "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "mayon-eruption-alert-level-three-evacuation-1952a2",
+      "title": "马荣火山喷发后警戒级别升至三级",
+      "description": "菲律宾吕宋岛阿尔拜省的马荣火山当地时间10月30日上午11时53分开始中度爆炸性喷发，持续约六分钟。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T09:04:03+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/mayon-eruption-alert-level-three-evacuation-1952a2",
+      "reference": [
+        "联合早报",
+        "法广"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -144,45 +369,39 @@
       "sources": []
     },
     {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "纽时报称美方认定黄乐为中国情报人员",
-      "description": "《纽约时报》报道称，美国官员认定新加坡数据中心公司Megaspeed前高管、中国公民黄乐（Alice Huang）是向北京传递信息的中国情报资产，并怀疑她协助中国规避出口限制获取英伟达先进人工智能芯片。",
+      "id": "us-tech-selloff-hits-south-korea-stocks-791a1a",
+      "title": "美科技股暴跌拖累韩国股市大幅下跌",
+      "description": "30日，受美国科技股大幅下跌影响，韩国KOSPI与KOSDAQ收盘均跌逾3%；KOSPI盘中触发卖出程序化交易暂停机制（Sidecar）。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-30T07:59:00+00:00",
+      "updatedAt": "2026-10-30T07:48:34+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/us-tech-selloff-hits-south-korea-stocks-791a1a",
       "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
+        "韩国国际广播电台"
       ],
-      "section": "china",
-      "sourceCount": 11,
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
-      "id": "boj-expected-hold-policy-rate-57af8c",
-      "title": "日本央行确认基础物价涨幅达到2%目标",
-      "description": "日本央行在货币政策会议结束后认定，剔除暂时性因素后的基础物价涨幅大致符合2%的物价稳定目标。",
+      "id": "childcare-product-standards-take-effect-f55d10",
+      "title": "四项儿童呵护用品国家标准将于11月1日起实施",
+      "description": "据澎湃新闻从国家市场监督管理总局获悉，四项儿童呵护用品国家标准定于2026年11月1日起实施。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-30T07:44:00+00:00",
+      "updatedAt": "2026-10-30T07:45:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/boj-expected-hold-policy-rate-57af8c",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/childcare-product-standards-take-effect-f55d10",
       "reference": [
-        "日本放送协会",
-        "中央通訊社",
-        "共同网",
         "澎湃新闻"
       ],
-      "section": "business",
-      "sourceCount": 13,
+      "section": "life",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -207,21 +426,75 @@
       "sources": []
     },
     {
-      "id": "mayon-eruption-alert-level-three-evacuation-1952a2",
-      "title": "马荣火山爆发性喷发后警戒升至三级",
-      "description": "马荣火山当地时间10月30日上午11时53分开始爆炸性喷发，持续近六分钟，形成约3000米高的灰柱，向西南偏西方向飘移。",
+      "id": "german-institute-trump-policy-fails-cut-trade-deficit-b342ab",
+      "title": "德国经济研究所指特朗普政策未能缩减美国贸易逆差",
+      "description": "路透社取得的德国经济研究所（IW）报告认为，特朗普政府减税、加征关税和推动制造业回流的政策成效不一：美国经济保持稳健增长，人工智能投资活跃，但就业增长弱于前一届政府，通胀仍高于美联储2%的目标。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-30T07:36:00+00:00",
+      "updatedAt": "2026-10-30T07:41:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/mayon-eruption-alert-level-three-evacuation-1952a2",
+      "url": "https://kaopu.news/story/2026-10-30/german-institute-trump-policy-fails-cut-trade-deficit-b342ab",
       "reference": [
         "联合早报"
       ],
-      "section": "asia",
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-energy-agency-to-issue-retail-rules-e933d7",
+      "title": "国家能源局将出台政策规范电力零售市场",
+      "description": "中国国家能源局表示，将出台一系列政策文件，进一步规范电力零售市场，并引导售电公司提升质量、防控风险、推动转型。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T07:37:40.462611+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/china-energy-agency-to-issue-retail-rules-e933d7",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-coast-guard-scarborough-shoal-enforcement-patrol-1b06b1",
+      "title": "中国海警在黄岩岛领海及周边开展执法巡查",
+      "description": "中国海警10月30日在黄岩岛领海及周边区域开展执法巡查；中国人民解放军南部战区当天组织海空兵力，在黄岩岛领海、领空及周边海空域实施战备警巡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T07:37:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/china-coast-guard-scarborough-shoal-enforcement-patrol-1b06b1",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "compeq-plans-annual-capex-over-nt20-billion-4c1322",
+      "title": "华通拟连续三年每年资本支出维持200亿元以上",
+      "description": "华通计划2026年至2028年连续三年每年资本支出均保持在新台币200亿元以上，主要用于台湾、中国大陆和泰国厂区的制程升级及高阶产能扩充，以应对AI数据中心基础设施和新一代低轨卫星产品需求。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T07:34:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/compeq-plans-annual-capex-over-nt20-billion-4c1322",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -284,6 +557,25 @@
       "sources": []
     },
     {
+      "id": "haitham-bin-tariq-state-visit-china-a97ae5",
+      "title": "阿曼苏丹海赛姆将于11月1日至2日访华",
+      "description": "阿曼苏丹海赛姆应中国国家主席习近平邀请，定于11月1日至2日赴华，开展为期两天的国事访问。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T07:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/haitham-bin-tariq-state-visit-china-a97ae5",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "taiwan-stocks-drop-1600-points-90a763",
       "title": "全球AI股抛售拖累台湾股市收跌1156.5点",
       "description": "台湾加权指数10月30日开盘报46139.79点，盘中一度跌至44726.26点，较前一交易日下跌逾1642点。",
@@ -300,26 +592,6 @@
       ],
       "section": "business",
       "sourceCount": 9,
-      "sources": []
-    },
-    {
-      "id": "binance-freezes-three-billion-hack-assets-ebaf47",
-      "title": "TRM称黑客从币安窃取约63.6亿美元资产",
-      "description": "币安正调查一起疑似资安漏洞事件。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T07:20:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/binance-freezes-three-billion-hack-assets-ebaf47",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "韩国国际广播电台"
-      ],
-      "section": "business",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -359,6 +631,24 @@
       ],
       "section": "asia",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "hiroshima-nagasaki-mayors-urge-japan-observer-status-2e3b8c",
+      "title": "广岛长崎市长要求日本以观察员身份出席禁核审议大会",
+      "description": "松井一实与铃木史朗10月30日在日本首相官邸会见高市早苗，要求日本派观察员参加11月30日起在纽约联合国总部举行的《禁止核武器条约》首次审议大会。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T07:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/hiroshima-nagasaki-mayors-urge-japan-observer-status-2e3b8c",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -437,6 +727,24 @@
       ],
       "section": "us",
       "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "environmental-groups-detect-airborne-microplastics-da5e01",
+      "title": "三处石化聚落空气检出微塑料",
+      "description": "三处石化聚落空气中检出微塑料。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T06:39:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/environmental-groups-detect-airborne-microplastics-da5e01",
+      "reference": [
+        "公视"
+      ],
+      "section": "life",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1357,27 +1665,6 @@
       "sources": []
     },
     {
-      "id": "gmo-requests-active-cyber-defense-cc7ba4",
-      "title": "GMO称已向警方提交追查黑客的重要线索",
-      "description": "GMO互联网集团表示，针对其面向投资者的外汇保证金交易云服务遭非法访问一事，公司已取得有助识别攻击者的重要线索，并于10月29日提交警方等相关部门。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T04:46:41+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/gmo-requests-active-cyber-defense-cc7ba4",
-      "reference": [
-        "共同网",
-        "联合早报",
-        "日本放送协会",
-        "中央通訊社"
-      ],
-      "section": "world",
-      "sourceCount": 25,
-      "sources": []
-    },
-    {
       "id": "merz-asks-takaichi-ukraine-air-defense-346b36",
       "title": "默茨请高市考虑合作加强乌克兰防空支援",
       "description": "德国总理弗里德里希·默茨10月28日在东京与日本首相高市早苗会谈后向德国媒体表示，他请高市考虑与德国共同探讨支援乌克兰，帮助乌方加强防空能力，以应对俄罗斯持续的军事行动。",
@@ -1676,27 +1963,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-backs-netanyahu-reelection-d6e4fe",
-      "title": "以色列选举结果显示内塔尼亚胡阵营未获多数",
-      "description": "以色列10月27日举行议会选举，中央选举委员会完成初步计票后公布的席位分布显示，现任总理内塔尼亚胡领导的阵营获得53席，由加迪·艾森科特领导的反对派阵营获得48席，双方均未达到组建多数政府所需的61席。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T03:18:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-18",
-      "url": "https://kaopu.news/story/2026-10-18/trump-backs-netanyahu-reelection-d6e4fe",
-      "reference": [
-        "联合早报",
-        "法广",
-        "日本放送协会",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 52,
       "sources": []
     },
     {
@@ -2037,27 +2303,6 @@
       "sources": []
     },
     {
-      "id": "us-third-quarter-gdp-growth-beats-forecasts-41a290",
-      "title": "美国三季度GDP增长3.4%超出市场预期",
-      "description": "美国商务部10月29日公布的初步数据显示，2026年第三季度美国实际GDP按年率折算环比增长3.4%，高于第二季度的2.2%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T01:22:33+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/us-third-quarter-gdp-growth-beats-forecasts-41a290",
-      "reference": [
-        "中央通訊社",
-        "财新",
-        "法广",
-        "日经"
-      ],
-      "section": "business",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "taiwan-detects-chinese-aircraft-ships-near-strait-3b8e22",
       "title": "台湾称台海周边侦获中国14机舰船",
       "description": "台湾国防部称，10月29日6时至30日6时，台海周边侦获中国人民解放军军机6架次、军舰7艘和公务船1艘；3架次军机越过海峡中线，进入北部、东部及西南空域。",
@@ -2128,25 +2373,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-parties-agree-31-seat-cut-b50bff",
-      "title": "日本三党达成协议削减众院比例代表31席",
-      "description": "日本自民党、日本维新会和国民民主党的干事长10月29日在国会会谈并签署协议，决定在本届国会共同提交众议院选举制度改革法案，其中包括削减比例代表席位31席。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T01:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/japan-parties-agree-31-seat-cut-b50bff",
-      "reference": [
-        "共同网",
-        "朝鲜日报"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2240,24 +2466,6 @@
       "sources": []
     },
     {
-      "id": "south-korea-pension-fund-reform-a871d3",
-      "title": "韩国政府与共同民主党提出退休年金改革方案",
-      "description": "韩国政府与共同民主党于2026年10月29日举行党政协商，提出强化退休年金功能的方案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T00:03:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/south-korea-pension-fund-reform-a871d3",
-      "reference": [
-        "东亚日报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-u17-women-eliminate-france-quarterfinals-496da2",
       "title": "中国U17女足点球淘汰法国首进世界杯八强",
       "description": "北京时间10月30日凌晨进行的U17女足世界杯1/8决赛中，中国队与法国队常规时间均未破门，随后进入点球决胜。",
@@ -2273,27 +2481,6 @@
       ],
       "section": "sports",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ecb-holds-eurozone-key-rates-steady-85ffff",
-      "title": "欧洲央行决定维持三大关键利率不变",
-      "description": "欧洲央行在货币政策会议后决定维持三项关键利率不变：存款便利利率为2.50%，主要再融资利率为2.65%，边际贷款利率为2.90%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T23:30:35.490202+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/ecb-holds-eurozone-key-rates-steady-85ffff",
-      "reference": [
-        "中央通訊社",
-        "法广",
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -2467,24 +2654,6 @@
       "sources": []
     },
     {
-      "id": "carney-launches-canada-national-security-strategy-a8c3d5",
-      "title": "卡尼推出加拿大20多年来首份国家安全战略",
-      "description": "加拿大总理卡尼29日公布名为“更强大的加拿大计划”的国家安全战略。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T19:14:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/carney-launches-canada-national-security-strategy-a8c3d5",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "young-kim-seeks-china-travel-warning-upgrade-b4d35a",
       "title": "金映玉致函卢比奥要求中国旅游警示升至三级",
       "description": "美国联邦众议员金映玉10月29日致函国务卿马可·卢比奥，要求美国国务院将中国旅行警示从第2级“提高警觉”升至第3级“重新考虑旅行”。",
@@ -2499,24 +2668,6 @@
         "世界日报"
       ],
       "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "cbc-canada-steel-aluminum-eu-carbon-tariff-exemption-b97a51",
-      "title": "CBC披露加拿大钢铝产品无法豁免欧盟碳关税",
-      "description": "CBC通过信息公开申请取得的加拿大全球事务部内部文件显示，加拿大铁、钢、铝等出口产品目前无法获得欧盟碳边境调节机制（CBAM）豁免，加拿大正与欧盟磋商以减轻影响。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T18:13:18.246000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/cbc-canada-steel-aluminum-eu-carbon-tariff-exemption-b97a51",
-      "reference": [
-        "加拿大国际广播电台"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -2742,26 +2893,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "volkswagen-china-joint-ventures-post-loss-97c213",
-      "title": "大众汽车第三季度亏损扩大至58亿欧元",
-      "description": "大众汽车公布第三季度业绩，营收同比下降6.3%至753亿欧元，亏损58亿欧元，去年同期亏损11亿欧元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T10:32:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/volkswagen-china-joint-ventures-post-loss-97c213",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "business",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -3209,24 +3340,6 @@
       "sources": []
     },
     {
-      "id": "harvard-asian-freshmen-share-hits-record-a4f863",
-      "title": "哈佛2030届亚裔新生比例升至43.2%",
-      "description": "哈佛大学10月27日公布2030届（2030年毕业）新生族裔数据，亚裔占43.2%，创该校新高，高于2029届的41%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T06:14:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/harvard-asian-freshmen-share-hits-record-a4f863",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "parents-use-ai-manage-household-6e8dcd",
       "title": "家长借助生成式人工智能管理家庭事务",
       "description": "生成式人工智能正被越来越多家长用于家庭管理，涉及安排日程、寻找幼儿园、采购日用品和整理家庭账目。",
@@ -3335,24 +3448,6 @@
       ],
       "section": "china",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "australia-fuel-costs-near-550-161489",
-      "title": "澳大利亚人均额外燃油支出逼近550澳元",
-      "description": "澳大利亚人均额外燃油支出接近550澳元，在全球排名第三。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T05:41:16+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/australia-fuel-costs-near-550-161489",
-      "reference": [
-        "SBS"
-      ],
-      "section": "life",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3618,27 +3713,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "meta-plans-95-billion-equity-funding-a78fa8",
-      "title": "英伟达投资30亿美元认购Meta新股",
-      "description": "英伟达宣布出资30亿美元（约合人民币200亿元）认购Meta新发行股票。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T01:17:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/meta-plans-95-billion-equity-funding-a78fa8",
-      "reference": [
-        "中央通訊社",
-        "澎湃新闻",
-        "第一财经",
-        "财新"
-      ],
-      "section": "ai",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -3937,24 +4011,6 @@
       "sources": []
     },
     {
-      "id": "ai-reshapes-chinese-students-major-choices-e5a80e",
-      "title": "人工智能重塑中国大学生专业选择",
-      "description": "人工智能正在改变中国大学生的专业选择及初级就业机会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T06:56:47+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/ai-reshapes-chinese-students-major-choices-e5a80e",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "australian-gallery-returns-song-tomb-artifacts-china-0276a3",
       "title": "澳大利亚国家美术馆已向中国返还两件北宋文物",
       "description": "澳大利亚国家美术馆已于当地时间10月28日下午举行文物返还仪式，中国国家文物局于当日14时52分许在堪培拉接收两件北宋皇陵文物。",
@@ -3990,24 +4046,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "us-to-suspend-china-northern-mariana-visa-waiver-0eb364",
-      "title": "美国将暂停中国公民赴北马里亚纳群岛免签",
-      "description": "美国国土安全部宣布，将从美东时间10月30日14时起暂停中国公民通过EVS-TAP免签前往北马里亚纳群岛。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T06:33:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/us-to-suspend-china-northern-mariana-visa-waiver-0eb364",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "china",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -4047,24 +4085,6 @@
       "sources": []
     },
     {
-      "id": "chen-binhua-responds-unification-inevitable-d96f11",
-      "title": "陈斌华回应未统先治说法称统一大势不可阻挡",
-      "description": "国务院台办在例行新闻发布会上回应台湾陆委会主委邱垂正关于中国大陆对台政策的说法。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T02:42:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/chen-binhua-responds-unification-inevitable-d96f11",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "ge-zhijun-dies-beijing-aged-90-fff350",
       "title": "演员戈治均在北京逝世，享年90岁",
       "description": "人民艺术家、演员戈治均因病去世，享年90岁。",
@@ -4079,24 +4099,6 @@
         "澎湃新闻"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "veterans-ministry-confirms-eight-korean-war-martyrs-47462b",
-      "title": "退役军人事务部确认8名在韩志愿军烈士身份",
-      "description": "退役军人事务部10月28日发布消息称，今年通过DNA鉴定和比对，确认了8名此前迎回的在韩志愿军烈士身份。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T02:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/veterans-ministry-confirms-eight-korean-war-martyrs-47462b",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
@@ -4573,24 +4575,6 @@
         "共同网"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "toyota-accelerates-robotics-to-counter-rivals-a965e2",
-      "title": "金融时报称丰田加快机器人战略应对中国及特斯拉竞争",
-      "description": "丰田汽车正加快推进机器人战略，计划将机器人用于工厂自动化并拓展人形机器人业务，以应对来自中国以及特斯拉等企业的竞争。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T06:41:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/toyota-accelerates-robotics-to-counter-rivals-a965e2",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "tech",
       "sourceCount": 1,
       "sources": []
     },
