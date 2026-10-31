@@ -1,11 +1,467 @@
 {
   "details": {
     "date": "2026-10-31",
-    "timestamp": 1793431862,
+    "timestamp": 1793435681,
     "totalPages": 1,
-    "total": 273
+    "total": 272
   },
   "stories": [
+    {
+      "id": "binance-freezes-three-billion-hack-assets-ebaf47",
+      "title": "币安热钱包遭攻击波及63亿美元资产",
+      "description": "币安热钱包遭复杂网络攻击，约63亿美元加密资产受到影响。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T07:02:07+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/binance-freezes-three-billion-hack-assets-ebaf47",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "韩国国际广播电台",
+        "英国广播公司"
+      ],
+      "section": "business",
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
+      "id": "nhk-reports-eu-ev-perks-exclude-japanese-cars-13d830",
+      "title": "默茨将把日本对欧盟电动车优惠的担忧带回磋商",
+      "description": "德国总理默茨10月30日在首尔表示，会把日本对欧盟电动汽车优惠方案的担忧带回柏林和布鲁塞尔讨论。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T06:55:22+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/nhk-reports-eu-ev-perks-exclude-japanese-cars-13d830",
+      "reference": [
+        "日本放送协会",
+        "德国之声",
+        "日经",
+        "共同网"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "intel-weak-q4-outlook-shares-drop-63ff61",
+      "title": "英特尔股价暴跌近三成创1974年以来最大跌幅",
+      "description": "10月30日，英特尔股价下跌28.58%，收于65.76美元，创1974年以来最大单日跌幅。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T06:54:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/intel-weak-q4-outlook-shares-drop-63ff61",
+      "reference": [
+        "澎湃新闻",
+        "日经",
+        "第一财经",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "eu-drops-canada-associate-member-label-dc0c09",
+      "title": "加拿大与欧盟峰会商定深化双边伙伴关系",
+      "description": "第21届加拿大—欧盟峰会于10月29日至30日在蒙特利尔举行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T06:46:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/eu-drops-canada-associate-member-label-dc0c09",
+      "reference": [
+        "加拿大国际广播电台",
+        "联合早报",
+        "公视",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "china-plans-first-crewed-moon-mission-fc6f55",
+      "title": "中国首次载人登月将有两名航天员着陆",
+      "description": "中国载人航天工程副总设计师兼月球探测工程总设计师王翔10月31日在北京航空航天大学举行的第七届载人航天学术大会上介绍，首次载人月球探测任务乘组拟由3人组成，其中2人将登陆月面。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T06:35:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/china-plans-first-crewed-moon-mission-fc6f55",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "tech",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "carney-canada-wait-us-president-trade-deal-4426de",
+      "title": "卡尼称美加难达协议可等美国换总统",
+      "description": "加拿大总理卡尼10月30日在蒙特利尔接受POLITICO专访时表示，如果美加无法谈妥合适的贸易协议，加拿大可以等到美国换届后再签。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T06:30:44+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/carney-canada-wait-us-president-trade-deal-4426de",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "cheng-lei-publishes-prison-memoir-59b6e8",
+      "title": "成蕾出版狱中回忆录讲述被关押三年经历",
+      "description": "澳籍华裔记者成蕾的回忆录《如果墙能说话：她在国安牢狱的1154天》中文版近日在美国上市，也已在台湾出版并向海外中文社群发行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T06:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/cheng-lei-publishes-prison-memoir-59b6e8",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "culture",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "cook-report-democrats-win-house-majority-ddc55e",
+      "title": "库克预测民主党将夺回众议院多数",
+      "description": "库克政治报告最新选举评估认为，共和党更可能守住内布拉斯加州和佛罗里达州的参议员席位，民主党则将赢得众议院多数。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T06:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/cook-report-democrats-win-house-majority-ddc55e",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "manhattan-prosecutors-charge-eight-snap-theft-4737af",
+      "title": "曼哈顿检方起诉八人涉盗刷逾700万美元粮食券",
+      "description": "纽约曼哈顿地区检察官办公室与市调查局称，纽约州高等法院大陪审团已起诉8人，指控他们在2023年4月至2025年9月期间盗取超过700万美元的补充营养援助计划（SNAP）福利。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T06:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/manhattan-prosecutors-charge-eight-snap-theft-4737af",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "pakistan-police-arrest-130-malaysians-scam-suspects-080d9f",
+      "title": "巴基斯坦警方逮捕130名涉网络诈骗马来西亚公民",
+      "description": "巴基斯坦警方10月28日在拉瓦尔品第地区突击逮捕130名涉嫌网络诈骗的马来西亚公民。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T06:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/pakistan-police-arrest-130-malaysians-scam-suspects-080d9f",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "spain-trains-collide-kill-46-d000d5",
+      "title": "西班牙高铁追撞事故已致69人死亡",
+      "description": "西班牙托莱多省马德里—安达卢西亚高铁线上，Renfe高速列车于当地时间10月28日上午约8时54分追撞停在轨道上的Iryo列车。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T06:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/spain-trains-collide-kill-46-d000d5",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "法广",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 36,
+      "sources": []
+    },
+    {
+      "id": "us-halloween-candy-prices-rise-fa98a7",
+      "title": "美国热门万圣节糖果今年平均涨价15%",
+      "description": "FinanceBuzz对美国17种热门万圣节糖果的分析显示，今年这些糖果的价格平均比去年上涨15%，100颗装平均售价为16.96美元；与2021年相比，平均价格高出71%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/us-halloween-candy-prices-rise-fa98a7",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-midterm-early-voting-record-e5493b",
+      "title": "美国期中选举提前投票人数刷新纪录",
+      "description": "美国2026年期中选举提前投票人数已超过上届纪录。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/us-midterm-early-voting-record-e5493b",
+      "reference": [
+        "法广",
+        "世界日报",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "attack-21-drone-lands-sichuan-amphibious-ship-0be7ca",
+      "title": "攻击-21无人机首次在四川舰成功起降",
+      "description": "10月下旬，中国海军首型舰载察打一体隐身无人机“攻击-21”在四川舰上完成首次起飞和着舰。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T06:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/attack-21-drone-lands-sichuan-amphibious-ship-0be7ca",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "us-midterm-election-congress-control-164251",
+      "title": "共和党议员据报忧期中选举失利并求援",
+      "description": "据《世界日报》报道，距离美国11月3日期中选举投票日仅数日，共和党内部人士私下担心选举结果将十分不利。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T06:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
+      "reference": [
+        "世界日报",
+        "英国广播公司",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
+      "id": "democrats-sue-trump-officials-election-interference-6af47c",
+      "title": "司法部传唤洛杉矶县选务人员索取通讯记录",
+      "description": "美国联邦第九巡回上诉法院驳回司法部要求隔离加州争议选票的紧急请求后，司法部继续传唤洛杉矶县选务人员，索取与相关指控有关的文件和通信记录。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T06:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-22",
+      "url": "https://kaopu.news/story/2026-10-22/democrats-sue-trump-officials-election-interference-6af47c",
+      "reference": [
+        "法广",
+        "联合早报",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "fox-says-talarico-threatens-texas-senate-seat-49043a",
+      "title": "塔拉里科强势挑战德州共和党联邦参议员席位",
+      "description": "民主党候选人詹姆斯·塔拉里科凭借募款、民调和竞选活动势头，对共和党长期占据的德州联邦参议员席位形成有力挑战。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T06:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/fox-says-talarico-threatens-texas-senate-seat-49043a",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "pope-leo-xiv-votes-us-midterms-mail-f2f307",
+      "title": "教宗良十四世邮寄投票参与美国期中选举",
+      "description": "梵蒂冈新闻室10月30日确认，教宗良十四世已通过邮寄选票参加美国期中选举，成为首位以教宗身份参与美国选举投票的人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T06:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/pope-leo-xiv-votes-us-midterms-mail-f2f307",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "cbs-trump-pardons-erase-victim-restitution-04836a",
+      "title": "CBS调查称特朗普宽赦免除逾1.19亿元受害者赔偿",
+      "description": "美国哥伦比亚广播公司新闻网（CBS News）调查发现，特朗普自2025年1月以来签发的宽赦令，已免除至少1.19亿元法院裁定、但尚未支付的受害者赔偿金。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T06:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/cbs-trump-pardons-erase-victim-restitution-04836a",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "covered-california-expands-2027-subsidy-eligibility-703ae0",
+      "title": "加州全保2027年开放投保将于11月1日启动",
+      "description": "加州全保（Covered California）2027年度医保开放投保期将于11月1日开始，至2027年1月31日结束。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T06:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/covered-california-expands-2027-subsidy-eligibility-703ae0",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "supreme-court-rejects-appeal-immigration-limits-fbca70",
+      "title": "美国最高法院驳回上诉让特朗普政府继续限缩移民结案",
+      "description": "美国最高法院10月27日驳回巴尔的摩、哥伦布、纽黑文三市及拉扎法律中心的上诉，特朗普政府因此得以继续限制拜登政府2024年以法规确立的移民案件“行政性结案”政策。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T06:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/supreme-court-rejects-appeal-immigration-limits-fbca70",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-rare-earths-plans-liangshan-acquisition-9a1385",
+      "title": "中国稀土拟发行股份收购中稀（凉山）稀土股权",
+      "description": "中国稀土集团资源科技股份有限公司拟通过发行股份取得中稀（凉山）稀土有限公司股权，并募集配套资金。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T06:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/china-rare-earths-plans-liangshan-acquisition-9a1385",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "houston-ice-agent-charged-over-worker-injury-a913d0",
+      "title": "休斯敦ICE探员被控驾车撞伤墨西哥工人",
+      "description": "美国得克萨斯州哈里斯郡大陪审团已起诉美国移民与海关执法局（ICE）探员马里奥·阿尔贝托·莫拉莱斯，罪名为使用致命武器严重攻击。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T06:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/houston-ice-agent-charged-over-worker-injury-a913d0",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "polish-constitutional-court-protesters-clash-police-40116b",
+      "title": "纳夫罗茨基要求执法力量撤出宪法法院",
+      "description": "波兰总统纳夫罗茨基10月31日要求执法力量立即离开宪法法院，并表示将于当天召集议会各政治力量代表紧急磋商。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T06:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/polish-constitutional-court-protesters-clash-police-40116b",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
     {
       "id": "acom-briefing-voter-concerns-midterm-election-4b542b",
       "title": "ACoM简报会聚焦族裔社区期中选举投票意愿",
@@ -210,27 +666,6 @@
       "sources": []
     },
     {
-      "id": "binance-freezes-three-billion-hack-assets-ebaf47",
-      "title": "币安热钱包遭攻击约63亿美元资产受影响",
-      "description": "币安披露，其热钱包遭遇复杂网络攻击，约63亿美元加密资产受到影响。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T05:43:45+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/binance-freezes-three-billion-hack-assets-ebaf47",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "韩国国际广播电台",
-        "英国广播公司"
-      ],
-      "section": "business",
-      "sourceCount": 11,
-      "sources": []
-    },
-    {
       "id": "xi-meets-german-president-steinmeier-a089ca",
       "title": "习近平会见施泰因迈尔商谈中德合作与贸易失衡",
       "description": "中国国家主席习近平10月30日在北京人民大会堂会见德国总统施泰因迈尔。",
@@ -287,6 +722,27 @@
       ],
       "section": "asia",
       "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "french-students-protest-school-conditions-11bf14",
+      "title": "法国数十万人示威抗议生活成本高企",
+      "description": "法国在10月24日举行全国性示威，工会和学生团体等动员民众上街，诉求集中于应对生活成本上涨、改善教育环境和公共服务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T05:02:03+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-14",
+      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
+      "reference": [
+        "公视",
+        "法广",
+        "日本放送协会",
+        "英国广播公司"
+      ],
+      "section": "world",
+      "sourceCount": 123,
       "sources": []
     },
     {
@@ -382,24 +838,6 @@
       "sources": []
     },
     {
-      "id": "china-plans-first-crewed-moon-mission-fc6f55",
-      "title": "中国计划2030年前实施首次载人月球探测任务",
-      "description": "《环球时报》记者在10月31日举行的第七届载人航天学术大会上获悉，中国计划在2030年前把航天员送上月球。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T03:36:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/china-plans-first-crewed-moon-mission-fc6f55",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "taiwan-reports-five-citizens-missing-detained-china-9540d7",
       "title": "台湾陆委会通报赴大陆失联或遭留置关押者新增五人",
       "description": "台湾陆委会10月31日在脸书公布统计称，截至10月30日，自2024年1月以来赴中国大陆后失联、被留置盘查或疑遭限制人身自由的台湾人累计466人。",
@@ -415,25 +853,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "polish-constitutional-court-protesters-clash-police-40116b",
-      "title": "波兰宪法法院职务争议引发抗议冲突",
-      "description": "波兰宪法法院围绕领导层职务安排和法官任命的争端于10月30日升级，法院外抗议者与警方发生冲突，多人受伤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T03:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/polish-constitutional-court-protesters-clash-police-40116b",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -473,24 +892,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "pope-leo-xiv-votes-us-midterms-mail-f2f307",
-      "title": "教宗良十四世邮寄投票参与美国期中选举",
-      "description": "教宗良十四世已通过邮寄方式参与美国期中选举，成为首位参与美国选举投票的教宗。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T03:02:53+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/pope-leo-xiv-votes-us-midterms-mail-f2f307",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -638,24 +1039,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "covered-california-expands-2027-subsidy-eligibility-703ae0",
-      "title": "加州全保扩大2027年州级补助资格",
-      "description": "加州全保2027年度州级保费补助将扩大，预算提高至3亿元，收入资格上限由联邦贫困线（FPL）的165%升至200%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T02:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/covered-california-expands-2027-subsidy-eligibility-703ae0",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -924,27 +1307,6 @@
       "sources": []
     },
     {
-      "id": "intel-weak-q4-outlook-shares-drop-63ff61",
-      "title": "英特尔股价暴跌28.58%创半世纪最大单日跌幅",
-      "description": "英特尔股价10月30日下跌28.58%，从前一交易日收盘的92.07美元降至65.76美元，创1974年以来最大单日跌幅，市值单日减少约1400亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T23:32:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/intel-weak-q4-outlook-shares-drop-63ff61",
-      "reference": [
-        "澎湃新闻",
-        "日经",
-        "第一财经",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "new-york-stocks-fall-sharply-1ac2b4",
       "title": "科技与半导体股遭抛售拖累美股三大指数收跌",
       "description": "美国股市投资者10月30日抛售科技和半导体股票，拖累三大股指收跌。",
@@ -985,26 +1347,6 @@
       "sources": []
     },
     {
-      "id": "us-midterm-early-voting-record-e5493b",
-      "title": "美国中期选举提前投票人数刷新历史纪录",
-      "description": "美国2026年中期选举提前投票人数已创纪录。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T23:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/us-midterm-early-voting-record-e5493b",
-      "reference": [
-        "法广",
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "trump-approves-patriot-missile-sale-ukraine-3346af",
       "title": "特朗普政府批准向乌克兰出售500枚爱国者导弹",
       "description": "美国特朗普政府批准向乌克兰出售500枚“爱国者”导弹及相关设备，军售方案已提交美国国会审议。",
@@ -1021,27 +1363,6 @@
       ],
       "section": "us",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "french-students-protest-school-conditions-11bf14",
-      "title": "法国全国抗议中警方逮捕1314人",
-      "description": "法国各地10月24日举行新一轮全国性抗议，民众关注生活成本上涨、教育条件和公共服务等问题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T23:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-14",
-      "url": "https://kaopu.news/story/2026-10-14/french-students-protest-school-conditions-11bf14",
-      "reference": [
-        "公视",
-        "法广",
-        "日本放送协会",
-        "英国广播公司"
-      ],
-      "section": "world",
-      "sourceCount": 122,
       "sources": []
     },
     {
@@ -1179,26 +1500,6 @@
       "sources": []
     },
     {
-      "id": "eu-drops-canada-associate-member-label-dc0c09",
-      "title": "加拿大与欧盟峰会提出建立未来联盟",
-      "description": "加拿大与欧盟第21届峰会于10月29日至30日在蒙特利尔举行，并于30日闭幕。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T16:38:09.416000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/eu-drops-canada-associate-member-label-dc0c09",
-      "reference": [
-        "加拿大国际广播电台",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "witkoff-norway-peace-proposal-talks-6bf424",
       "title": "俄美启动磋商阿布扎比三方会谈日期",
       "description": "俄罗斯总统助理乌沙科夫10月30日说，俄罗斯和美国已经开始商议在阿联酋阿布扎比举行俄美乌三方会谈的具体日期，但目前尚未敲定时间。",
@@ -1256,24 +1557,6 @@
       ],
       "section": "life",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "fox-says-talarico-threatens-texas-senate-seat-49043a",
-      "title": "福斯称塔拉里科构成共和党德州参院数十年最大威胁",
-      "description": "福斯新闻网分析称，民主党候选人詹姆斯·塔拉里科在德州联邦参议员选战中的民调、筹款和竞选动员表现强劲，共和党由此面临数十年来最严峻的挑战。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T15:12:44+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/fox-says-talarico-threatens-texas-senate-seat-49043a",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1550,25 +1833,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-midterm-election-congress-control-164251",
-      "title": "美国期中选举将决定国会两院控制权",
-      "description": "美国选民将于11月3日参加期中选举，改选国会议员及多州公职。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T14:02:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
-      "reference": [
-        "世界日报",
-        "英国广播公司"
-      ],
-      "section": "us",
-      "sourceCount": 10,
       "sources": []
     },
     {
@@ -1910,24 +2174,6 @@
       "sources": []
     },
     {
-      "id": "cook-report-democrats-win-house-majority-ddc55e",
-      "title": "库克报告预测民主党赢得众议院多数",
-      "description": "库克政治报告即将发布的选情评估预计，民主党有望赢得美国众议院多数；在参议院选举中，共和党仍较有机会守住内布拉斯加州和佛罗里达州的席位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T12:49:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/cook-report-democrats-win-house-majority-ddc55e",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-indonesia-malaysia-dismantle-drug-lab-7a4414",
       "title": "中印尼马合作摧毁班达亚齐制毒窝点",
       "description": "印度尼西亚国家禁毒委10月21日在班达亚齐捣毁一处大型毒品提纯窝点，缴获约1.2吨液态冰毒，抓获11名嫌疑人。",
@@ -1962,27 +2208,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "boj-expected-hold-policy-rate-57af8c",
-      "title": "日本央行首次确认基础通胀大致达到2%目标",
-      "description": "日本央行10月30日结束货币政策会议，首次正式确认，剔除暂时性波动后的基础通胀趋势已大致与2%的物价稳定目标相符，并预计今后将在目标附近波动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T12:42:27+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/boj-expected-hold-policy-rate-57af8c",
-      "reference": [
-        "日本放送协会",
-        "中央通訊社",
-        "共同网",
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 16,
       "sources": []
     },
     {
@@ -2044,43 +2269,6 @@
       "sources": []
     },
     {
-      "id": "dockworkers-plan-antiwar-strike-ff2213",
-      "title": "22国码头工人计划罢工抗议战争与武器出口",
-      "description": "来自22个国家的码头工人计划举行罢工，反对战争及利用港口出口武器。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T12:35:14+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/dockworkers-plan-antiwar-strike-ff2213",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "attack-21-drone-lands-sichuan-amphibious-ship-0be7ca",
-      "title": "中国海军攻击-21无人机首次在四川舰完成起降",
-      "description": "中国海军首型舰载察打一体隐身无人机“攻击-21”近日在四川舰完成首次舰上起飞和着舰。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T12:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/attack-21-drone-lands-sichuan-amphibious-ship-0be7ca",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "nyt-peltola-campaign-recruited-sullivan-spoiler-4855b0",
       "title": "美国司法部起诉阿拉斯加州政府 要求选举受混淆影响时阻止认证",
       "description": "美国司法部已起诉阿拉斯加州政府及地方选务官员，要求在选举结果可能受选民混淆影响时阻止认证，并调查投给丹尼尔·J·苏利文的选票是否原本想投给现任苏利文。",
@@ -2117,25 +2305,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-life-posts-third-quarter-loss-fc809a",
-      "title": "中国人寿三季度单季亏损450.59亿元",
-      "description": "中国人寿保险股份有限公司公布2026年第三季度报告。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T12:01:40.018225+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/china-life-posts-third-quarter-loss-fc809a",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2229,24 +2398,6 @@
         "联合早报"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "eurozone-third-quarter-gdp-growth-beats-forecasts-498ddd",
-      "title": "欧元区第三季度GDP增长0.4%高于预期",
-      "description": "欧元区第三季度国内生产总值（GDP）增长0.4%，增速较第二季度放缓。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T11:02:02+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/eurozone-third-quarter-gdp-growth-beats-forecasts-498ddd",
-      "reference": [
-        "法广"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -2345,24 +2496,6 @@
         "中央通訊社"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "european-parliament-trade-committee-china-visit-d3ae58",
-      "title": "欧洲议会贸易委员会访华讨论欧中贸易摩擦",
-      "description": "欧洲议会贸易委员会代表团本周在中国访问三天，行程包括北京、杭州和上海。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T10:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/european-parliament-trade-committee-china-visit-d3ae58",
-      "reference": [
-        "德国之声"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -2944,24 +3077,6 @@
       "sources": []
     },
     {
-      "id": "japan-australia-confirm-warship-development-progress-ce20b4",
-      "title": "日澳防长确认新型舰艇联合开发稳步推进",
-      "description": "日本防卫相小泉进次郎10月29日在菲律宾会见澳大利亚副总理兼国防部长马尔斯。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T07:49:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/japan-australia-confirm-warship-development-progress-ce20b4",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "childcare-product-standards-take-effect-f55d10",
       "title": "四项儿童呵护用品国家标准将于11月1日起实施",
       "description": "据澎湃新闻从国家市场监督管理总局获悉，四项儿童呵护用品国家标准定于2026年11月1日起实施。",
@@ -3275,24 +3390,6 @@
       "sources": []
     },
     {
-      "id": "choudri-resigns-california-high-speed-rail-f431e6",
-      "title": "加州高铁局首席执行官辞职，财政厅长暂代职务",
-      "description": "加州高铁局首席执行官Ian Choudri于10月28日晚辞职，结束约两年的任期。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T06:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/choudri-resigns-california-high-speed-rail-f431e6",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "silicon-valley-ai-firms-tighten-employee-security-5917cf",
       "title": "据报OpenAI与Anthropic收紧员工安保",
       "description": "据《纽约邮报》报道，OpenAI与Anthropic正在加强员工保密和人身安全管理，要求员工减少在公共场合暴露公司身份，并警惕商业间谍、抗议活动和人身攻击。",
@@ -3311,24 +3408,6 @@
       "sources": []
     },
     {
-      "id": "medicaid-work-rule-illinois-insurance-risk-653d82",
-      "title": "世界日报称白卡工作要求将使伊州约40万人失去医保",
-      "description": "据《世界日报》报道，伊利诺伊州联邦医疗补助计划（Medicaid，俗称白卡）的工作要求定于2027年生效。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T06:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/medicaid-work-rule-illinois-insurance-risk-653d82",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "chinese-parent-alleges-hlpusd-anti-asian-bias-9aeb0c",
       "title": "匿名华人家长公开信指控哈冈学区存在反亚裔歧视",
       "description": "哈冈拉朋地联合学区华裔教委郭志近日转发了一封署名“Chinese Mom”的匿名公开信。",
@@ -3343,24 +3422,6 @@
         "世界日报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ice-enforcement-philadelphia-spending-losses-70beeb",
-      "title": "研究估算ICE执法令费城消费损失约8.11亿元",
-      "description": "宾州大学华顿商学院教授赫南德兹（Zeke Hernandez）的研究《ICE-ing the Economy》估算，美国移民和海关执法局（ICE）频繁执法使费城商店及工作场所到访量减少1.93亿人次，消费损失约8.11亿元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T06:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/ice-enforcement-philadelphia-spending-losses-70beeb",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -3400,24 +3461,6 @@
       ],
       "section": "ai",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "new-york-early-voting-begins-85d659",
-      "title": "纽约市提前投票四天近29.5万人报到",
-      "description": "纽约市2026年期中选举提前投票开始后的前四天，共有29万4604名选民在投票站报到，较2022年同期的17万1777人增加约七成。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T06:03:12+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/new-york-early-voting-begins-85d659",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -3476,24 +3519,6 @@
         "世界日报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ucla-trump-legal-immigrant-naturalization-falls-a4cb01",
-      "title": "UCLA研究称特朗普任内合法移民入籍人数减少76%",
-      "description": "加州大学洛杉矶分校（UCLA）社区知识中心的一项研究显示，特朗普执政期间，取得美国公民身份的合法移民人数较拜登执政期间减少76%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/ucla-trump-legal-immigrant-naturalization-falls-a4cb01",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -3800,24 +3825,6 @@
       "url": "https://kaopu.news/story/2026-10-29/beijing-court-clarifies-smart-car-insurance-evidence-982929",
       "reference": [
         "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "singapore-approves-merck-pneumococcal-vaccine-adults-1eafd1",
-      "title": "新加坡批准默沙东21价肺炎球菌疫苗供成人接种",
-      "description": "新加坡卫生科学局已批准默沙东研发的21价肺炎球菌结合疫苗CAPVAXIVE，供18岁及以上成年人接种。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T14:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/singapore-approves-merck-pneumococcal-vaccine-adults-1eafd1",
-      "reference": [
-        "联合早报"
       ],
       "section": "life",
       "sourceCount": 1,
@@ -4868,24 +4875,6 @@
         "澎湃新闻"
       ],
       "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "tsinghua-death-exhibition-opens-shanghai-fbdca2",
-      "title": "清华医学社会学中心发起的死亡主题展在上海开幕",
-      "description": "清华大学社会科学学院医学社会学研究中心发起的“将死亡带回生活”上海站特展，10月23日在上海多伦美术馆开幕。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-25T10:26:37.261600+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-25",
-      "url": "https://kaopu.news/story/2026-10-25/tsinghua-death-exhibition-opens-shanghai-fbdca2",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "culture",
       "sourceCount": 1,
       "sources": []
     },
