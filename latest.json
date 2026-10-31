@@ -1,39 +1,113 @@
 {
   "details": {
     "date": "2026-10-31",
-    "timestamp": 1793416991,
+    "timestamp": 1793424455,
     "totalPages": 1,
     "total": 272
   },
   "stories": [
     {
-      "id": "china-manufacturing-pmi-returns-contraction-19f7ac",
-      "title": "中国10月三项PMI均降至收缩区间",
-      "description": "国家统计局10月31日公布的数据显示，制造业PMI为49.3，较上月下降0.8个百分点；非制造业商务活动指数为49.7，下降0.5个百分点；综合PMI产出指数为49.7，下降1个百分点。",
+      "id": "us-expels-cuban-diplomat-un-attack-906071",
+      "title": "美国驱逐古巴驻联合国外交官图尔",
+      "description": "美国10月27日宣布将驱逐古巴常驻联合国代表团一等秘书理查德·图尔。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-31T03:07:00+00:00",
+      "updatedAt": "2026-10-31T04:18:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/china-manufacturing-pmi-returns-contraction-19f7ac",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/us-expels-cuban-diplomat-un-attack-906071",
       "reference": [
         "澎湃新闻",
-        "联合早报",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "eu-launches-hybrid-car-safeguard-probe-b8e7e5",
+      "title": "欧盟因混动汽车进口大幅增长启动保障措施调查",
+      "description": "欧盟委员会认为，混动汽车进口近期明显增加，有必要采取保障措施，并于2026年10月30日启动调查。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T03:40:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/eu-launches-hybrid-car-safeguard-probe-b8e7e5",
+      "reference": [
         "财新"
       ],
       "section": "business",
-      "sourceCount": 3,
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-plans-first-crewed-moon-mission-fc6f55",
+      "title": "中国计划2030年前实施首次载人月球探测任务",
+      "description": "《环球时报》记者在10月31日举行的第七届载人航天学术大会上获悉，中国计划在2030年前把航天员送上月球。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T03:36:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/china-plans-first-crewed-moon-mission-fc6f55",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "binance-freezes-three-billion-hack-assets-ebaf47",
+      "title": "币安热钱包遭攻击约63亿美元资产受影响",
+      "description": "币安表示，其热钱包于10月30日约4时05分遭到攻击，约63亿美元加密资产受到影响。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T03:35:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/binance-freezes-three-billion-hack-assets-ebaf47",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "韩国国际广播电台",
+        "英国广播公司"
+      ],
+      "section": "business",
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "taiwan-reports-five-citizens-missing-detained-china-9540d7",
+      "title": "台湾陆委会通报赴大陆失联或遭留置关押者新增五人",
+      "description": "台湾陆委会10月31日在脸书公布统计称，截至10月30日，自2024年1月以来赴中国大陆后失联、被留置盘查或疑遭限制人身自由的台湾人累计466人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T03:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/taiwan-reports-five-citizens-missing-detained-china-9540d7",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
       "id": "polish-constitutional-court-protesters-clash-police-40116b",
-      "title": "波兰宪法法院外抗议者与警方发生冲突",
-      "description": "波兰宪法法院外10月30日晚发生抗议，抗议者与警方冲突，多人受伤。",
+      "title": "波兰宪法法院职务争议引发抗议冲突",
+      "description": "波兰宪法法院围绕领导层职务安排和法官任命的争端于10月30日升级，法院外抗议者与警方发生冲突，多人受伤。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-31T03:04:00+00:00",
+      "updatedAt": "2026-10-31T03:24:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-31",
       "url": "https://kaopu.news/story/2026-10-31/polish-constitutional-court-protesters-clash-police-40116b",
@@ -42,7 +116,46 @@
         "联合早报"
       ],
       "section": "world",
-      "sourceCount": 2,
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "china-manufacturing-pmi-returns-contraction-19f7ac",
+      "title": "中国10月制造业PMI跌至49.3%重返收缩区间",
+      "description": "国家统计局10月31日公布的数据显示，中国10月制造业采购经理指数（PMI）为49.3%，比上月低0.8个百分点，降至50%的荣枯分界线以下。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T03:21:38.549061+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/china-manufacturing-pmi-returns-contraction-19f7ac",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "财新",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "china-research-vessels-map-taiwan-seabed-2200fa",
+      "title": "华尔街日报称中国研究船加快台湾周边测绘",
+      "description": "《华尔街日报》分析船舶追踪数据后称，中国研究船近期加快在台湾周边开展海底与水文测绘；台湾海巡署认为，这些行动是在为潜在冲突进行战场经营与准备。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T03:11:43+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/china-research-vessels-map-taiwan-seabed-2200fa",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1746,27 +1859,6 @@
       "sources": []
     },
     {
-      "id": "binance-freezes-three-billion-hack-assets-ebaf47",
-      "title": "币安确认多点攻击波及约63亿美元资产",
-      "description": "币安10月29日发生网络安全事件，10月30日公布的调查更新显示，攻击涉及多个入侵点，受影响数字资产估值约63亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T12:04:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/binance-freezes-three-billion-hack-assets-ebaf47",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "韩国国际广播电台",
-        "英国广播公司"
-      ],
-      "section": "business",
-      "sourceCount": 9,
-      "sources": []
-    },
-    {
       "id": "china-life-posts-third-quarter-loss-fc809a",
       "title": "中国人寿三季度单季亏损450.59亿元",
       "description": "中国人寿保险股份有限公司公布2026年第三季度报告。",
@@ -1839,24 +1931,6 @@
       ],
       "section": "china",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "china-issues-gas-turbine-innovation-guidance-8c4a3c",
-      "title": "四部门发布燃气轮机创新发展指导意见",
-      "description": "中国国家能源局等四部门10月30日发布《关于促进燃气轮机创新发展的指导意见》。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T11:57:40.197444+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/china-issues-gas-turbine-innovation-guidance-8c4a3c",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2421,25 +2495,6 @@
       "sources": []
     },
     {
-      "id": "carney-launches-canada-national-security-strategy-a8c3d5",
-      "title": "加拿大发布20多年来首份国家安全战略",
-      "description": "加拿大总理卡尼于10月29日宣布推出名为《更强大的加拿大计划》的国家安全战略，这是加拿大20多年来首份此类文件。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T09:28:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/carney-launches-canada-national-security-strategy-a8c3d5",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "north-korea-fires-suspected-ballistic-missile-16e413",
       "title": "朝鲜从元山向东部海域发射十余枚短程弹道导弹",
       "description": "朝鲜于10月29日当地时间中午12时30分许从元山一带向东部海域发射十余枚短程弹道导弹及其他飞行器。",
@@ -2770,25 +2825,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "crea-estimates-indonesia-fire-pollution-deaths-53d712",
-      "title": "印尼林火污染9月估致约3560人死亡",
-      "description": "能源与清洁空气研究中心（CREA）估算，印尼森林及土地火灾相关PM2.5污染在2026年9月造成约3560人死亡，约为8月估值的两倍。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T07:32:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/crea-estimates-indonesia-fire-pollution-deaths-53d712",
-      "reference": [
-        "联合早报",
-        "法广"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3673,27 +3709,6 @@
       ],
       "section": "us",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "steinmeier-china-state-visit-e81e2a",
-      "title": "施泰因迈尔在北大呼吁中欧公平合作",
-      "description": "德国总统施泰因迈尔10月29日在北京大学接受荣誉教授称号后发表演讲，呼吁德国、中国及欧洲在公平条件下开展合作，并共同维护以规则为基础的国际秩序。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T15:06:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/steinmeier-china-state-visit-e81e2a",
-      "reference": [
-        "联合早报",
-        "德国之声",
-        "中央通訊社",
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 9,
       "sources": []
     },
     {
@@ -4669,25 +4684,6 @@
         "联合早报"
       ],
       "section": "culture",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "vietnam-chip-factory-trial-target-risk-de6675",
-      "title": "路透社称越南首座晶圆厂难达2027年试产目标",
-      "description": "据路透社援引多名知情人士报道，越南首座半导体晶圆厂难以达到2027年试产目标。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T13:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/vietnam-chip-factory-trial-target-risk-de6675",
-      "reference": [
-        "中央通訊社",
-        "联合早报"
-      ],
-      "section": "tech",
       "sourceCount": 2,
       "sources": []
     },
