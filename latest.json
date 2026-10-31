@@ -1,11 +1,124 @@
 {
   "details": {
     "date": "2026-10-31",
-    "timestamp": 1793461017,
+    "timestamp": 1793468588,
     "totalPages": 1,
-    "total": 275
+    "total": 274
   },
   "stories": [
+    {
+      "id": "russia-fsb-us-moscow-terror-threat-1f4cff",
+      "title": "俄媒称俄安全局从美方获悉莫斯科可能遭恐袭",
+      "description": "据俄媒10月31日报道，俄罗斯联邦安全局当天从美国方面获得关于莫斯科可能发生恐怖袭击的情报，俄方已采取应对举措。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T16:35:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/russia-fsb-us-moscow-terror-threat-1f4cff",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "panama-south-earthquake-magnitude-6-1-9e9522",
+      "title": "巴拿马南部发生6.1级地震，震源深度10公里",
+      "description": "巴拿马南部于当地时间10月31日上午10时50分发生6.1级地震。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T16:12:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/panama-south-earthquake-magnitude-6-1-9e9522",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "chinese-men-spying-sentenced-us-30-months-1a40c7",
+      "title": "两名中国籍男子涉间谍活动在美各获刑30个月",
+      "description": "美国加州法院10月30日判处中国籍男子赖立仁和陈远策各30个月监禁，刑满后还须接受3年狱后监督。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T16:00:43+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/chinese-men-spying-sentenced-us-30-months-1a40c7",
+      "reference": [
+        "联合早报",
+        "法广",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "singapore-orders-ten-firms-disclose-haze-data-be7c20",
+      "title": "七家新加坡注册企业愿聘审查员调查烟霾关联",
+      "description": "新加坡国家环境局说，七家在新加坡注册的企业已表示愿意委任审查员，配合评估其是否与印尼跨境烟霾有关。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T15:36:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/singapore-orders-ten-firms-disclose-haze-data-be7c20",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "vietnam-cuts-retail-electricity-prices-two-percent-55521f",
+      "title": "越南政府自11月1日起下调平均零售电价2%",
+      "description": "越南政府自11月1日起把全国平均零售电价下调2%，以减轻家庭和企业负担。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T15:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/vietnam-cuts-retail-electricity-prices-two-percent-55521f",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "polish-constitutional-court-protesters-clash-police-40116b",
+      "title": "波兰宪法法院领导层停职消息引发抗议冲突",
+      "description": "波兰宪法法院围绕院长、副院长职务的争议于10月30日升级。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T15:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/polish-constitutional-court-protesters-clash-police-40116b",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "公视",
+        "财新"
+      ],
+      "section": "world",
+      "sourceCount": 7,
+      "sources": []
+    },
     {
       "id": "vance-iran-letter-restart-talks-9fdb42",
       "title": "美媒称万斯致信伊朗高官探询重启停战谈判",
@@ -63,6 +176,26 @@
       ],
       "section": "us",
       "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "mojtaba-khamenei-orders-iranian-military-readiness-c7deb7",
+      "title": "穆杰塔巴要求伊朗武装力量即时回应敌方威胁",
+      "description": "10月31日，伊朗最高领袖穆杰塔巴·哈米尼会见武装部队高级指挥官，要求伊朗武装力量加强战备，并对任何级别和类型的敌方威胁迅速作出有力回应，且不受地理范围限制。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T14:32:05+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/mojtaba-khamenei-orders-iranian-military-readiness-c7deb7",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -144,6 +277,25 @@
       "sources": []
     },
     {
+      "id": "madagascar-us-dismantle-13-scam-compounds-792de6",
+      "title": "马达加斯加联手美国捣毁13处诈骗园区",
+      "description": "马达加斯加司法部和警方与美国司法部在2026年8月至9月的联合行动中，捣毁13处由中国公民经营的网络诈骗园区；148名中国公民已被移交中国。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T13:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/madagascar-us-dismantle-13-scam-compounds-792de6",
+      "reference": [
+        "联合早报",
+        "德国之声"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "china-coast-guard-taiwan-east-patrol-28b95d",
       "title": "白邦廷警告船只活动压缩台湾海域执法空间",
       "description": "海洋委员会专门委员白邦廷10月31日在安全台湾学会于张荣发基金会举办的座谈会上表示，中国海警、科研船和渔船活动正累积影响台湾周边海域管辖。",
@@ -178,6 +330,27 @@
       ],
       "section": "world",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-manufacturing-pmi-returns-contraction-19f7ac",
+      "title": "中国10月制造业PMI降至49.3重回收缩区间",
+      "description": "中国国家统计局公布的数据显示，10月制造业采购经理指数（PMI）为49.3，较9月下降0.8个百分点，跌破50的荣枯线。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T13:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/china-manufacturing-pmi-returns-contraction-19f7ac",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "财新",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 7,
       "sources": []
     },
     {
@@ -274,25 +447,6 @@
       "sources": []
     },
     {
-      "id": "mojtaba-khamenei-orders-iranian-military-readiness-c7deb7",
-      "title": "穆杰塔巴要求伊朗武装部队即时回应美以威胁",
-      "description": "10月31日，穆杰塔巴会见伊朗武装部队高级指挥官，要求对各类威胁立即有效回应，不受地域限制。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T13:02:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/mojtaba-khamenei-orders-iranian-military-readiness-c7deb7",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "sanrio-ends-vivant-collaboration-d25c1d",
       "title": "三丽鸥终止《VIVANT》联名并致歉",
       "description": "三丽鸥在中国的运营公司三丽鸥（上海）国际贸易有限公司10月28日晚宣布，终止与日本电视剧《VIVANT》的角色联名，停止相关后续项目和宣传活动，并就合作引发的担忧致歉。",
@@ -329,27 +483,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "polish-constitutional-court-protesters-clash-police-40116b",
-      "title": "波兰宪法法院停职令引发抗议冲突",
-      "description": "波兰宪法法院领导层停职争议于10月30日至31日升级，法院外抗议者与警方发生冲突，多人受伤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T12:41:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/polish-constitutional-court-protesters-clash-police-40116b",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "公视",
-        "财新"
-      ],
-      "section": "world",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -740,27 +873,6 @@
       "sources": []
     },
     {
-      "id": "china-manufacturing-pmi-returns-contraction-19f7ac",
-      "title": "中国10月制造业PMI跌破荣枯线至49.3",
-      "description": "中国国家统计局服务业调查中心与中国物流与采购联合会公布的数据显示，10月制造业采购经理指数（PMI）为49.3，较上月下降0.8个百分点，落到50这一景气分界线以下。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T09:44:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/china-manufacturing-pmi-returns-contraction-19f7ac",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "财新",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "parmelin-leads-swiss-delegation-china-trade-talks-3f308a",
       "title": "中瑞签署自贸协定升级议定书扩大贸易开放",
       "description": "中国与瑞士10月30日在北京签署中瑞自由贸易协定升级议定书。",
@@ -1091,24 +1203,6 @@
         "中央通訊社"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "madagascar-us-dismantle-13-scam-compounds-792de6",
-      "title": "马达加斯加联合美国捣毁13个诈骗园区",
-      "description": "马达加斯加当局今年8月至9月与美国司法部联合捣毁13处涉嫌网络诈骗的园区。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T07:57:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/madagascar-us-dismantle-13-scam-compounds-792de6",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -1808,25 +1902,6 @@
       "sources": []
     },
     {
-      "id": "us-expels-cuban-diplomat-un-attack-906071",
-      "title": "美国驱逐古巴驻联合国外交官图尔",
-      "description": "美国10月27日宣布将驱逐古巴常驻联合国代表团一等秘书理查德·图尔。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T04:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/us-expels-cuban-diplomat-un-attack-906071",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "eu-launches-hybrid-car-safeguard-probe-b8e7e5",
       "title": "欧盟因混动汽车进口大幅增长启动保障措施调查",
       "description": "欧盟委员会认为，混动汽车进口近期明显增加，有必要采取保障措施，并于2026年10月30日启动调查。",
@@ -1881,25 +1956,6 @@
       "sources": []
     },
     {
-      "id": "chinese-men-spying-sentenced-us-30-months-1a40c7",
-      "title": "陈远策、赖立仁涉间谍案在美各获刑30个月",
-      "description": "陈远策和赖立仁承认受中国国家安全部指示在美国从事间谍活动后，各被判处30个月监禁，刑满后还须接受3年狱后监督。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T03:01:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/chinese-men-spying-sentenced-us-30-months-1a40c7",
-      "reference": [
-        "联合早报",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "china-steel-firms-q3-profit-drop-65eb3b",
       "title": "重点钢企前三季度利润下降27.4%",
       "description": "中国钢铁工业协会10月30日公布重点统计钢铁企业前三季度经营数据：企业营业收入4.57万亿元，同比下降2.3%；利润总额718亿元，下降27.4%。",
@@ -1951,42 +2007,6 @@
         "第一财经"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "uae-tanker-no-new-oil-leak-a6c2a3",
-      "title": "阿联酋通讯社称遇袭油轮未发现新增漏油",
-      "description": "阿联酋通讯社称，最新现场评估未发现巴拿马籍油轮GEM NO.2出现新的漏油，海上和空中监测仍在进行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T02:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/uae-tanker-no-new-oil-leak-a6c2a3",
-      "reference": [
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "dr-congo-ebola-deaths-exceed-5000-dd610a",
-      "title": "刚果（金）政府公布伊波拉死亡人数已超5000人",
-      "description": "刚果（金）政府公布，本轮伊波拉疫情死亡人数已逾5000人，疫情仍难以控制。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T02:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/dr-congo-ebola-deaths-exceed-5000-dd610a",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -2329,24 +2349,6 @@
       "url": "https://kaopu.news/story/2026-10-30/memory-prices-hit-panel-makers-revenue-208151",
       "reference": [
         "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "xiaomi-subsidiary-invests-sunwoda-power-01b9da",
-      "title": "小米子公司出资17亿元入股欣旺达动力",
-      "description": "欣旺达10月29日公告显示，小米旗下子公司出资17亿元入股欣旺达动力。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T14:41:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/xiaomi-subsidiary-invests-sunwoda-power-01b9da",
-      "reference": [
-        "财新"
       ],
       "section": "business",
       "sourceCount": 1,
@@ -3273,25 +3275,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "mayon-eruption-alert-level-three-evacuation-1952a2",
-      "title": "马荣火山喷发后警戒级别升至三级",
-      "description": "菲律宾吕宋岛阿尔拜省的马荣火山当地时间10月30日上午11时53分开始中度爆炸性喷发，持续约六分钟。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T09:04:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/mayon-eruption-alert-level-three-evacuation-1952a2",
-      "reference": [
-        "联合早报",
-        "法广"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
       "sources": []
     },
     {
