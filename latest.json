@@ -1,11 +1,149 @@
 {
   "details": {
     "date": "2026-10-31",
-    "timestamp": 1793402645,
+    "timestamp": 1793410631,
     "totalPages": 1,
-    "total": 270
+    "total": 272
   },
   "stories": [
+    {
+      "id": "alphabet-q3-revenue-profit-miss-estimates-9485a4",
+      "title": "AI投资回报忧虑重挫美国科技股",
+      "description": "美国科技股在10月30日遭遇大幅抛售，投资者担忧人工智能基础设施投入的成本、现金流消耗以及回报速度。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T00:16:15+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/alphabet-q3-revenue-profit-miss-estimates-9485a4",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "第一财经",
+        "公视"
+      ],
+      "section": "business",
+      "sourceCount": 17,
+      "sources": []
+    },
+    {
+      "id": "apple-intelligence-china-developer-testing-901503",
+      "title": "苹果宣布Apple智能11月4日起在中国开放测试",
+      "description": "苹果10月31日宣布，中国用户可从11月4日起在最新的iOS开发者测试版中体验Apple智能；正式版本计划于12月随iOS 27.3推出。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T00:02:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/apple-intelligence-china-developer-testing-901503",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "south-korea-parliament-starts-budget-review-7bc16b",
+      "title": "韩国国会启动821万亿韩元预算案审查",
+      "description": "韩国国会10月30日以听证会为起点，启动对政府明年821万亿韩元预算案的审查。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T23:58:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/south-korea-parliament-starts-budget-review-7bc16b",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "美媒称美国官员认定黄乐向北京传递信息",
+      "description": "据《纽约时报》报道，美国官员认定，新加坡数据中心企业Megaspeed前高管黄乐（Alice Huang）曾向北京传递信息。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T23:58:01+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 17,
+      "sources": []
+    },
+    {
+      "id": "kim-jong-un-attends-drone-exhibition-789962",
+      "title": "朝鲜无人机展首次公开飞翼式隐身无人机",
+      "description": "朝鲜10月29日举行“无人航空技术发展—2026”展览会，金正恩到场观看无人机及相关武器演示，并要求推进无人航空技术和国防人工智能发展。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T23:57:07+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/kim-jong-un-attends-drone-exhibition-789962",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "朝鲜日报",
+        "韩国国际广播电台"
+      ],
+      "section": "asia",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "six-state-owned-banks-q3-profits-11382-billion-yuan-55612b",
+      "title": "国有六大行前三季度净利润合计11382.12亿元",
+      "description": "六家国有大型银行公布2026年前三季度业绩，合计实现净利润11382.12亿元，折算下来平均每天超过41.6亿元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T23:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/six-state-owned-banks-q3-profits-11382-billion-yuan-55612b",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "intel-weak-q4-outlook-shares-drop-63ff61",
+      "title": "英特尔股价暴跌28.58%创半世纪最大单日跌幅",
+      "description": "英特尔股价10月30日下跌28.58%，从前一交易日收盘的92.07美元降至65.76美元，创1974年以来最大单日跌幅，市值单日减少约1400亿美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T23:32:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/intel-weak-q4-outlook-shares-drop-63ff61",
+      "reference": [
+        "澎湃新闻",
+        "日经",
+        "第一财经",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 6,
+      "sources": []
+    },
     {
       "id": "new-york-stocks-fall-sharply-1ac2b4",
       "title": "科技与半导体股遭抛售拖累美股三大指数收跌",
@@ -64,6 +202,25 @@
       ],
       "section": "us",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "trump-approves-patriot-missile-sale-ukraine-3346af",
+      "title": "特朗普政府批准向乌克兰出售500枚爱国者导弹",
+      "description": "美国特朗普政府批准向乌克兰出售500枚“爱国者”导弹及相关设备，军售方案已提交美国国会审议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-30T23:09:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/trump-approves-patriot-missile-sale-ukraine-3346af",
+      "reference": [
+        "法广",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -263,27 +420,6 @@
       "sources": []
     },
     {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "美方据报认定Megaspeed前高管向中国提供信息",
-      "description": "美国官员据报认定，Megaspeed International前高管黄乐在该公司与英伟达合作于亚洲建设数据中心期间，曾向中国政府提供信息；美国方面还调查Megaspeed是否协助中国获取受出口限制的英伟达先进人工智能芯片。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T16:12:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 16,
-      "sources": []
-    },
-    {
       "id": "us-fda-proposes-infant-formula-nutrition-rules-ea147e",
       "title": "美国拟近30年来首次调整婴儿配方奶粉营养标准",
       "description": "美国食品药品监督管理局（FDA）拟近30年来首次修订婴儿配方奶粉营养标准。",
@@ -320,27 +456,6 @@
       ],
       "section": "life",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "intel-weak-q4-outlook-shares-drop-63ff61",
-      "title": "英特尔四季度展望逊预期股价早盘跌近三成",
-      "description": "英特尔公布2026年第三季度业绩后，因下一季度展望低于市场预期，股价在盘后和次日早盘大幅下挫。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T15:22:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/intel-weak-q4-outlook-shares-drop-63ff61",
-      "reference": [
-        "澎湃新闻",
-        "日经",
-        "第一财经",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -711,27 +826,6 @@
       ],
       "section": "us",
       "sourceCount": 10,
-      "sources": []
-    },
-    {
-      "id": "alphabet-q3-revenue-profit-miss-estimates-9485a4",
-      "title": "AI投资回报疑虑拖累纳指开盘跌逾2%",
-      "description": "美国科技股在10月30日开盘走弱。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T14:02:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/alphabet-q3-revenue-profit-miss-estimates-9485a4",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "第一财经",
-        "公视"
-      ],
-      "section": "business",
-      "sourceCount": 16,
       "sources": []
     },
     {
@@ -2494,24 +2588,6 @@
       "sources": []
     },
     {
-      "id": "hiroshima-nagasaki-mayors-urge-japan-observer-status-2e3b8c",
-      "title": "广岛长崎市长要求日本以观察员身份出席禁核审议大会",
-      "description": "松井一实与铃木史朗10月30日在日本首相官邸会见高市早苗，要求日本派观察员参加11月30日起在纽约联合国总部举行的《禁止核武器条约》首次审议大会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T07:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/hiroshima-nagasaki-mayors-urge-japan-observer-status-2e3b8c",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "merz-first-japan-visit-takaichi-meeting-856d46",
       "title": "默茨首次访日与高市同意深化日德合作",
       "description": "德国总理弗里德里希·默茨首次访问日本期间，与日本首相高市早苗举行会谈。",
@@ -2530,25 +2606,6 @@
       ],
       "section": "world",
       "sourceCount": 14,
-      "sources": []
-    },
-    {
-      "id": "taiwan-army-transfers-two-officers-after-lieutenant-suicide-972189",
-      "title": "台湾国防部确认206旅女中尉案存在管理疏失",
-      "description": "台湾陆军206旅王姓女中尉于9月30日坠楼身亡。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T06:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/taiwan-army-transfers-two-officers-after-lieutenant-suicide-972189",
-      "reference": [
-        "中央通訊社",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3798,26 +3855,6 @@
         "澎湃新闻"
       ],
       "section": "tech",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "san-francisco-high-tide-breaks-october-record-4add89",
-      "title": "异常高潮淹没美国多地沿海社区",
-      "description": "10月27日至29日，美国加利福尼亚州多个沿海社区遭异常高潮侵袭，海水漫上道路并淹入住宅和商铺，部分道路关闭；佛罗里达州、南卡罗来纳州沿海也受大潮影响，部分地区出现街道积水。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T06:36:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/san-francisco-high-tide-breaks-october-record-4add89",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "us",
       "sourceCount": 4,
       "sources": []
     },
