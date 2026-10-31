@@ -8,21 +8,226 @@
   "stories": [
     {
       "id": "china-manufacturing-pmi-returns-contraction-19f7ac",
-      "title": "中国制造业PMI十月降至49.3重回收缩区间",
-      "description": "中国国家统计局10月31日公布，10月制造业采购经理指数（PMI）为49.3，较上月下降0.8个百分点，低于荣枯线和路透社调查预测的50.0。",
+      "title": "中国10月三项PMI均降至收缩区间",
+      "description": "国家统计局10月31日公布的数据显示，制造业PMI为49.3，较上月下降0.8个百分点；非制造业商务活动指数为49.7，下降0.5个百分点；综合PMI产出指数为49.7，下降1个百分点。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-10-31T02:16:00+00:00",
+      "updatedAt": "2026-10-31T03:07:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-31",
       "url": "https://kaopu.news/story/2026-10-31/china-manufacturing-pmi-returns-contraction-19f7ac",
       "reference": [
         "澎湃新闻",
+        "联合早报",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "polish-constitutional-court-protesters-clash-police-40116b",
+      "title": "波兰宪法法院外抗议者与警方发生冲突",
+      "description": "波兰宪法法院外10月30日晚发生抗议，抗议者与警方冲突，多人受伤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T03:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/polish-constitutional-court-protesters-clash-police-40116b",
+      "reference": [
+        "澎湃新闻",
         "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "pope-leo-xiv-votes-us-midterms-mail-f2f307",
+      "title": "教宗良十四世邮寄投票参与美国期中选举",
+      "description": "教宗良十四世已通过邮寄方式参与美国期中选举，成为首位参与美国选举投票的教宗。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T03:02:53+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/pope-leo-xiv-votes-us-midterms-mail-f2f307",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-steel-firms-q3-profit-drop-65eb3b",
+      "title": "重点钢企前三季度利润下降27.4%",
+      "description": "中国钢铁工业协会10月30日公布重点统计钢铁企业前三季度经营数据：企业营业收入4.57万亿元，同比下降2.3%；利润总额718亿元，下降27.4%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T02:56:37.500844+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/china-steel-firms-q3-profit-drop-65eb3b",
+      "reference": [
+        "财新",
+        "第一财经"
       ],
       "section": "business",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "xi-meets-german-president-steinmeier-a089ca",
+      "title": "习近平会见施泰因迈尔推动中德合作",
+      "description": "中国国家主席习近平10月30日下午在北京人民大会堂会见德国总统施泰因迈尔，双方谈及中德关系、经贸合作和贸易失衡等议题。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T02:54:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/xi-meets-german-president-steinmeier-a089ca",
+      "reference": [
+        "联合早报",
+        "德国之声",
+        "财新",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "covered-california-cuts-subsidies-couple-premiums-rise-0a9738",
+      "title": "据报加州全保削减补助 华人夫妻月缴将达2145美元",
+      "description": "据《世界日报》报道，加州全保将从2027年1月1日起取消部分移民身份投保人的保费补助。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T02:42:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/covered-california-cuts-subsidies-couple-premiums-rise-0a9738",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "ai-drug-funding-valuation-premium-a7de5f",
+      "title": "AI制药融资大增估值溢价最高达180%",
+      "description": "近日，第十一届医药创新与投资大会期间，业内人士讨论了AI制药融资和估值走高的情况，也谈及数据、临床验证与商业化面临的难题。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T02:40:03.070768+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/ai-drug-funding-valuation-premium-a7de5f",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-mineral-reassessment-increases-resources-5c87b2",
+      "title": "中国自然资源部发布再评价结果13种矿产资源量增加",
+      "description": "10月31日，中国自然资源部公布战略性矿产共伴生、低品位资源再评价结果，镓、锗、铟等13种矿产的全国保有资源量显著增加。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T02:40:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/china-mineral-reassessment-increases-resources-5c87b2",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "dr-congo-ebola-deaths-exceed-5000-dd610a",
+      "title": "刚果（金）政府公布伊波拉死亡人数已超5000人",
+      "description": "刚果（金）政府公布，本轮伊波拉疫情死亡人数已逾5000人，疫情仍难以控制。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T02:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/dr-congo-ebola-deaths-exceed-5000-dd610a",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "drone-bid-chinese-chip-detention-ab3c7c",
+      "title": "台湾内政部查出三机关采购亚拓无人机32架",
+      "description": "台湾内政部初步清查发现，所属国家公园署、中央警察大学和移民署涉及采购亚拓科技无人机共32架。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T02:23:06+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/drone-bid-chinese-chip-detention-ab3c7c",
+      "reference": [
+        "公视",
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "covered-california-expands-2027-subsidy-eligibility-703ae0",
+      "title": "加州全保扩大2027年州级补助资格",
+      "description": "加州全保2027年度州级保费补助将扩大，预算提高至3亿元，收入资格上限由联邦贫困线（FPL）的165%升至200%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T02:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/covered-california-expands-2027-subsidy-eligibility-703ae0",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tett-us-chipmaking-expansion-faces-barriers-2830d8",
+      "title": "泰特称美国芯片扩产遭关税移民及缺工阻碍",
+      "description": "英国《金融时报》专栏作家兼编委吉莉安·泰特指出，关税、移民限制与熟练劳动力不足，正在妨碍美国提升芯片制造能力，也使将生产转回美国的计划难以推进。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T02:06:37+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/tett-us-chipmaking-expansion-faces-barriers-2830d8",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -81,6 +286,24 @@
       ],
       "section": "ai",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "taiwan-detects-chinese-aircraft-ships-near-strait-3b8e22",
+      "title": "台湾通报解放军22机舰船在台海周边活动",
+      "description": "台湾国防部称，10月30日上午6时至31日上午6时，台海周边发现中国人民解放军军机13架次、军舰7艘及公务船2艘，共22机舰船活动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T01:47:47+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/taiwan-detects-chinese-aircraft-ships-near-strait-3b8e22",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -188,24 +411,6 @@
         "中央通訊社"
       ],
       "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "covered-california-cuts-subsidies-couple-premiums-rise-0a9738",
-      "title": "加州全保取消部分补助华人夫妻月缴升至2145美元",
-      "description": "南加州一对华人夫妻的医保月缴额将在2027年升至2145美元，高于目前实际支付的12美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T00:22:33+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/covered-california-cuts-subsidies-couple-premiums-rise-0a9738",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -644,24 +849,6 @@
       "sources": []
     },
     {
-      "id": "pope-leo-xiv-votes-us-midterms-mail-f2f307",
-      "title": "教宗良十四世邮寄投票成为美国大选首位投票教宗",
-      "description": "教宗良十四世已通过邮寄选票参与定于11月3日举行的美国期中选举。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T15:19:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/pope-leo-xiv-votes-us-midterms-mail-f2f307",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "fox-says-talarico-threatens-texas-senate-seat-49043a",
       "title": "福斯称塔拉里科构成共和党德州参院数十年最大威胁",
       "description": "福斯新闻网分析称，民主党候选人詹姆斯·塔拉里科在德州联邦参议员选战中的民调、筹款和竞选动员表现强劲，共和党由此面临数十年来最严峻的挑战。",
@@ -953,27 +1140,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "xi-meets-german-president-steinmeier-a089ca",
-      "title": "施泰因迈尔呼吁中国缩小对德贸易顺差",
-      "description": "中国国家主席习近平10月30日下午在北京人民大会堂会见来华进行国事访问的德国总统施泰因迈尔，双方讨论了中德关系、贸易失衡及国际事务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T14:09:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/xi-meets-german-president-steinmeier-a089ca",
-      "reference": [
-        "联合早报",
-        "德国之声",
-        "财新",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -1727,43 +1893,6 @@
         "共同网"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-stocks-drop-1600-points-90a763",
-      "title": "台股大跌逾千点收盘失守半年线关口",
-      "description": "台湾股市30日大幅下挫，加权指数下跌1156.5点，跌幅2.49%，收于45211.83点，成交金额新台币8777.3亿元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T11:34:49+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/taiwan-stocks-drop-1600-points-90a763",
-      "reference": [
-        "中央通訊社",
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 12,
-      "sources": []
-    },
-    {
-      "id": "dizal-pharma-posts-first-profit-5d5546",
-      "title": "迪哲医药前三季度实现成立以来首次盈利",
-      "description": "迪哲医药10月30日公布的三季报显示，公司今年前三季度归属于上市公司股东的净利润为36.39亿元，成立以来首次实现盈利；营业收入为47.70亿元，同比增长714%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T11:28:53.526427+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/dizal-pharma-posts-first-profit-5d5546",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -2554,24 +2683,6 @@
       "sources": []
     },
     {
-      "id": "lme-launches-shanghai-hrc-futures-4be871",
-      "title": "上期所热卷结算价登陆LME美元合约",
-      "description": "伦敦金属交易所（LME）10月27日推出代码为HS的热轧卷板期货合约，以上海期货交易所（上期所）热轧卷板期货结算价为基准，采用美元计价和现金结算。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T08:23:38.861718+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/lme-launches-shanghai-hrc-futures-4be871",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "japan-australia-confirm-warship-development-progress-ce20b4",
       "title": "日澳防长确认新型舰艇联合开发稳步推进",
       "description": "日本防卫相小泉进次郎10月29日在菲律宾会见澳大利亚副总理兼国防部长马尔斯。",
@@ -2697,25 +2808,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "south-korea-probe-inspects-songpa-ballots-de37a3",
-      "title": "韩国中央选管委运出手球馆大部分选票",
-      "description": "韩国中央选举管理委员会10月29日将首尔奥林匹克公园手球馆内经核验确认无异常的大部分松坡区选票运往首都圈一处仓库。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T07:11:23+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/south-korea-probe-inspects-songpa-ballots-de37a3",
-      "reference": [
-        "韩国国际广播电台",
-        "韩民族日报"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -3435,24 +3527,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-detects-chinese-aircraft-ships-near-strait-3b8e22",
-      "title": "台湾称台海周边侦获中国14机舰船",
-      "description": "台湾国防部称，10月29日6时至30日6时，台海周边侦获中国人民解放军军机6架次、军舰7艘和公务船1艘；3架次军机越过海峡中线，进入北部、东部及西南空域。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T01:17:15+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/taiwan-detects-chinese-aircraft-ships-near-strait-3b8e22",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "intel-israel-factory-explosion-stock-plunge-682940",
       "title": "英特尔以色列厂爆炸被曝后股价暴跌21%",
       "description": "英特尔股价29日下跌21%，公司称以色列基耶盖特晶圆厂发生致命爆炸，将使未来两个季度营收减少约6亿美元。",
@@ -3641,24 +3715,6 @@
       "sources": []
     },
     {
-      "id": "dia-releases-first-chinese-spacecraft-image-f9afe4",
-      "title": "五角大楼首次公开中国航天器高清在轨照片",
-      "description": "美国国防情报局10月26日发布《太空安全挑战》报告，五角大楼在报告中首次公开一张中国航天器的高清在轨照片。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T14:38:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/dia-releases-first-chinese-spacecraft-image-f9afe4",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "singapore-approves-merck-pneumococcal-vaccine-adults-1eafd1",
       "title": "新加坡批准默沙东21价肺炎球菌疫苗供成人接种",
       "description": "新加坡卫生科学局已批准默沙东研发的21价肺炎球菌结合疫苗CAPVAXIVE，供18岁及以上成年人接种。",
@@ -3747,24 +3803,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "china-six-agencies-issue-redevelopment-guidelines-78506a",
-      "title": "六部门印发老旧街区厂区改造指导意见",
-      "description": "住房城乡建设部、工业和信息化部等六部门10月23日联合印发《关于推进老旧街区厂区改造提升的指导意见》，按主导功能将改造对象分为老旧厂区、老旧商业街区、老旧生活街区，以及老旧交通枢纽及周边街区等类型，并明确各类项目的改造重点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T10:57:34.055785+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/china-six-agencies-issue-redevelopment-guidelines-78506a",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "life",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -4079,24 +4117,6 @@
       ],
       "section": "ai",
       "sourceCount": 27,
-      "sources": []
-    },
-    {
-      "id": "deepseek-moonshot-distill-gpt6-astra-models-f03483",
-      "title": "美媒称两家中企用GPT-6 Astra蒸馏新模型",
-      "description": "深度求索和月之暗面被曝将OpenAI的GPT-6 Astra输出用于新模型蒸馏训练。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T02:49:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/deepseek-moonshot-distill-gpt6-astra-models-f03483",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -4669,24 +4689,6 @@
       ],
       "section": "tech",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "hong-kong-tokenized-funds-secondary-trading-03dc78",
-      "title": "香港证监会批准两只代币化基金全天候二级交易",
-      "description": "香港证监会批准华夏基金（香港）旗下两只代币化基金在持牌虚拟资产交易平台（VATP）开展二级市场交易。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T12:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/hong-kong-tokenized-funds-secondary-trading-03dc78",
-      "reference": [
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
