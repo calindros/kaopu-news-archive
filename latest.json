@@ -1,19 +1,133 @@
 {
   "details": {
     "date": "2026-11-01",
-    "timestamp": 1793503004,
+    "timestamp": 1793511573,
     "totalPages": 1,
     "total": 273
   },
   "stories": [
     {
-      "id": "brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
-      "title": "博索纳罗遭禁出境后携家人抵达美国",
-      "description": "巴西总统选举落败者弗拉维奥·博索纳罗在被最高法院限制出境后，携妻子和两个女儿经阿根廷、厄瓜多尔前往美国，于10月28日抵达佛罗里达州迈阿密附近。",
+      "id": "spain-trains-collide-kill-46-d000d5",
+      "title": "西班牙列车事故致69死 日本放送协会称调度中心未叫停后车",
+      "description": "西班牙中部托莱多省10月28日发生高速列车追尾事故，Renfe运营的一列列车撞上停在轨道上的Iryo列车，造成69人死亡。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-01T03:12:00+00:00",
+      "updatedAt": "2026-11-01T04:42:53+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/spain-trains-collide-kill-46-d000d5",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "法广",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 38,
+      "sources": []
+    },
+    {
+      "id": "trump-says-us-still-has-iran-targets-dbf706",
+      "title": "特朗普称美国仍需处理伊朗一两个目标",
+      "description": "美国总统特朗普10月31日在佛罗里达州海湖庄园接受媒体采访时说，美国已摧毁伊朗大部分军事力量，但仍有一两个目标需要处理，其中包括镐山地下核设施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T04:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/trump-says-us-still-has-iran-targets-dbf706",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-stocks-drop-1600-points-90a763",
+      "title": "AI变现疑虑拖累台股10月跌2728点",
+      "description": "AI投资回报与企业现金流疑虑加剧，全球科技股遭遇抛售，台湾股市10月累计下跌2728.3点，月线收黑。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T03:48:30+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/taiwan-stocks-drop-1600-points-90a763",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "pentagon-officials-hide-hegseth-files-probe-4e381a",
+      "title": "《每日邮报》称国防部官员分藏赫塞斯文件供选后调查",
+      "description": "《每日邮报》报道，数名美国国防部官员近两年来收集涉及国防部长皮特·赫塞斯的电子邮件、备忘录和会议记录，并将副本分藏多处。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T03:45:44+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/pentagon-officials-hide-hegseth-files-probe-4e381a",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "drone-bid-chinese-chip-detention-ab3c7c",
+      "title": "台湾内政部查出所属机关采购亚拓无人机32架",
+      "description": "台湾内政部10月31日表示，初步清查发现，所属移民署、国家公园署和中央警察大学涉及采购亚拓科技无人机共32架；移民署采购的30架仍未交货。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T03:37:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/drone-bid-chinese-chip-detention-ab3c7c",
+      "reference": [
+        "公视",
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "democrats-criticize-biden-border-policy-votes-20fff9",
+      "title": "民主党候选人批评拜登边境政策争取选票",
+      "description": "美国期中选举进入最后冲刺，红州和摇摆州的民主党国会候选人公开批评乔·拜登执政期间的边境政策，希望借此争取选民支持，同时强调移民政策应兼顾边境管控与人道精神。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T03:35:04+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/democrats-criticize-biden-border-policy-votes-20fff9",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
+      "title": "特朗普称弗拉维奥可无限期留美但暂无会面计划",
+      "description": "美国总统特朗普10月31日晚在佛罗里达州海湖庄园表示，巴西总统选举落败者弗拉维奥·博索纳罗“想在美国待多久就可以待多久”，但他目前没有与弗拉维奥会面的计划。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T03:27:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-27",
       "url": "https://kaopu.news/story/2026-10-27/brazil-court-bars-flavio-bolsonaro-travel-e00dbb",
@@ -24,7 +138,25 @@
         "财新"
       ],
       "section": "world",
-      "sourceCount": 27,
+      "sourceCount": 28,
+      "sources": []
+    },
+    {
+      "id": "dhs-door-knocks-latino-homes-voter-intimidation-87907e",
+      "title": "DHS上门盘查加州拉丁裔社区被指恐吓选民",
+      "description": "美国国土安全部（DHS）近日在加州中央谷地拉丁裔社区扩大移民执法，引来民主党人士和移民团体指责其恐吓选民。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T03:15:21+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/dhs-door-knocks-latino-homes-voter-intimidation-87907e",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -46,6 +178,26 @@
       "sources": []
     },
     {
+      "id": "germany-gen-z-protests-clashes-water-cannons-6d0c91",
+      "title": "德国“Z世代当家”示威入夜后多地爆发冲突",
+      "description": "德国“Z世代当家”（Gen Z regelt）10月31日在全国发起抗议，活动遍及34座城市，参与者超过1万人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T03:05:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/germany-gen-z-protests-clashes-water-cannons-6d0c91",
+      "reference": [
+        "法广",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
       "id": "nyt-peltola-campaign-recruited-sullivan-spoiler-4855b0",
       "title": "美国司法部申请分开处理阿拉斯加同名候选人选票",
       "description": "美国司法部律师10月30日向法院提出申请，要求阿拉斯加州选务官员将列有独立参议员候选人丹尼尔·J·苏利文的排序选择选票单独处理，以便调查选民是否把他与现任共和党参议员丹·苏利文混淆。",
@@ -64,6 +216,24 @@
       ],
       "section": "us",
       "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "ai-memory-costs-phone-price-hikes-2028-a3ec00",
+      "title": "AI需求推高手机成本业者预计涨价压力延至2028年",
+      "description": "AI基础设施建设带动内存需求增加、价格走高，多家手机品牌今年已调整售价。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T02:43:01+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/ai-memory-costs-phone-price-hikes-2028-a3ec00",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -458,25 +628,6 @@
       ],
       "section": "world",
       "sourceCount": 126,
-      "sources": []
-    },
-    {
-      "id": "germany-gen-z-protests-clashes-water-cannons-6d0c91",
-      "title": "德国34城Z世代示威夜间爆发冲突",
-      "description": "10月31日，德国“Z世代当家”（Gen Z regelt）在全国34座城市发起示威，柏林、法兰克福和慕尼黑均有集会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T23:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/germany-gen-z-protests-clashes-water-cannons-6d0c91",
-      "reference": [
-        "法广",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1089,27 +1240,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "spain-trains-collide-kill-46-d000d5",
-      "title": "西班牙高铁追尾事故已致69人遇难",
-      "description": "10月28日，西班牙托莱多省乌尔达附近，西班牙国家铁路公司（Renfe）一列高速列车追尾停在轨道上的Iryo列车，事故造成69人遇难。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T11:08:38.754129+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/spain-trains-collide-kill-46-d000d5",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "法广",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 37,
       "sources": []
     },
     {
@@ -2217,25 +2347,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-stocks-drop-1600-points-90a763",
-      "title": "全球AI股遭抛售台股大跌并失守半年线",
-      "description": "全球人工智能（AI）股票遭遇抛售，台湾股市周五（10月30日）开低走低。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T04:19:31+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/taiwan-stocks-drop-1600-points-90a763",
-      "reference": [
-        "中央通訊社",
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 13,
-      "sources": []
-    },
-    {
       "id": "eu-launches-hybrid-car-safeguard-probe-b8e7e5",
       "title": "欧盟因混动汽车进口大幅增长启动保障措施调查",
       "description": "欧盟委员会认为，混动汽车进口近期明显增加，有必要采取保障措施，并于2026年10月30日启动调查。",
@@ -2342,25 +2453,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "drone-bid-chinese-chip-detention-ab3c7c",
-      "title": "台湾内政部查出三机关采购亚拓无人机32架",
-      "description": "台湾内政部初步清查发现，所属国家公园署、中央警察大学和移民署涉及采购亚拓科技无人机共32架。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T02:23:06+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/drone-bid-chinese-chip-detention-ab3c7c",
-      "reference": [
-        "公视",
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3672,42 +3764,6 @@
       "sources": []
     },
     {
-      "id": "aca-insurers-exit-state-markets-2027-8c7383",
-      "title": "11家保险公司将退出部分州ACA市场",
-      "description": "11家保险公司计划在2027年退出部分州的《平价医疗法案》（ACA）保险市场，另有6家计划进入。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T06:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/aca-insurers-exit-state-markets-2027-8c7383",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "nyc-public-schools-lose-187000-students-5c629f",
-      "title": "纽约公校12年减少近18.7万名学生",
-      "description": "纽约市主计长办公室发布报告称，纽约市公立幼儿园至12年级学生在2013-14至2025-26学年间减少约18.7万人，降幅为19%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T06:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/nyc-public-schools-lose-187000-students-5c629f",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "new-york-limits-ai-companion-use-minors-73b775",
       "title": "纽约州州长签署新法限制未成年人使用AI聊天机器人",
       "description": "纽约州州长凯西·霍楚于10月28日签署新法，要求AI聊天机器人运营商核验用户年龄，并限制未满18岁或尚未确认成年身份的用户使用特定高风险功能。",
@@ -3726,45 +3782,6 @@
       ],
       "section": "life",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "peace-department-alleged-dhs-staff-leak-6c8fc2",
-      "title": "非营利组织公开逾4万名美国国土安全部员工资料",
-      "description": "非营利组织“Distributed Denial of Secrets”10月28日公布逾4万名美国国土安全部员工的个人信息，包括姓名、电话号码和电子邮箱地址。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T06:23:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/peace-department-alleged-dhs-staff-leak-6c8fc2",
-      "reference": [
-        "法广",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "atlantic-reports-hegseth-fires-j5-chief-sylvia-2b74bd",
-      "title": "赫塞斯解职美军参联会J5战略主管",
-      "description": "美国国防部长皮特·赫塞斯10月28日解除陆军中将布雷特·西尔维亚的职务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T06:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/atlantic-reports-hegseth-fires-j5-chief-sylvia-2b74bd",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -4257,24 +4274,6 @@
       "url": "https://kaopu.news/story/2026-10-29/irregular-glm53-completes-three-attack-scenarios-0e07d1",
       "reference": [
         "联合早报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-doj-probes-nvidia-hugging-face-deal-e075e7",
-      "title": "美司法部据报调查英伟达收购Hugging Face交易",
-      "description": "据路透社报道，两名知情人士称，美国司法部已对英伟达拟以129.3亿美元收购开源平台Hugging Face一事展开调查，以评估交易对人工智能领域竞争的影响。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T04:24:39+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/us-doj-probes-nvidia-hugging-face-deal-e075e7",
-      "reference": [
-        "中央通訊社"
       ],
       "section": "ai",
       "sourceCount": 1,
