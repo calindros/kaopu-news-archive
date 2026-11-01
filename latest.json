@@ -1,19 +1,76 @@
 {
   "details": {
     "date": "2026-11-01",
-    "timestamp": 1793539605,
+    "timestamp": 1793547460,
     "totalPages": 1,
-    "total": 273
+    "total": 271
   },
   "stories": [
     {
-      "id": "us-midterm-election-congress-control-164251",
-      "title": "美国期中选举将决定国会控制权归属",
-      "description": "美国选民将于11月3日投票改选国会议员及多个州的公职人员，结果将决定国会控制权，并影响总统唐纳德·特朗普余下任期的施政与监督。",
+      "id": "reported-pboc-regulators-convene-financial-institutions-b9d805",
+      "title": "三部门将开会研究资本市场支持政策",
+      "description": "中国人民银行、中国证监会和国家金融监督管理总局定于11月2日分别召开两场会议，讨论资本市场支持工具的使用及股票回购增持再贷款政策的优化。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-01T13:14:00+00:00",
+      "updatedAt": "2026-11-01T14:06:19+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/reported-pboc-regulators-convene-financial-institutions-b9d805",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "harvard-asian-freshmen-share-reaches-decade-high-419e67",
+      "title": "哈佛亚裔新生占比升至至少十年最高",
+      "description": "哈佛大学近日公布的新生数据中，自我认同为亚裔美国人的学生占比升至43%，高于去年的41%，为至少十年来最高；与五年前相比，这一比例接近翻倍。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T14:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/harvard-asian-freshmen-share-reaches-decade-high-419e67",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "dutch-ai-cut-25000-civil-service-jobs-499568",
+      "title": "荷兰计划借助人工智能裁减2.5万个公务员职位",
+      "description": "荷兰政府近日宣布，计划借助人工智能提高效率，裁减2.5万个公务员职位，约占公务员岗位总数的15%；目标是从2035年起每年节省35亿欧元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T14:01:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/dutch-ai-cut-25000-civil-service-jobs-499568",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-midterm-election-congress-control-164251",
+      "title": "美国中期选举将决定特朗普后两年执政格局",
+      "description": "美国选民将于11月3日投票改选国会议员及多州公职人员，众议院435席全部改选，参议院100席中有35席改选。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T13:58:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-26",
       "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
@@ -23,27 +80,83 @@
         "联合早报"
       ],
       "section": "us",
-      "sourceCount": 18,
+      "sourceCount": 19,
       "sources": []
     },
     {
-      "id": "reported-pboc-regulators-convene-financial-institutions-b9d805",
-      "title": "三部门将开会研究优化股票回购增持再贷款政策",
-      "description": "据澎湃新闻和第一财经援引业内消息，中国人民银行、中国证监会将于11月2日召集部分证券公司和基金公司，讨论如何推动资本市场支持工具使用。",
+      "id": "thailand-water-office-warns-bangkok-tidal-flood-risk-024a4e",
+      "title": "泰国气象部门提醒曼谷周边七府防范潮汐洪水",
+      "description": "泰国国家水资源办公室（ONWR）于11月1日发布全国水情报告；泰国气象部门提醒曼谷及周边七府未来一周可能面临潮汐性洪水风险。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-01T13:11:45.699728+00:00",
+      "updatedAt": "2026-11-01T13:39:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/reported-pboc-regulators-convene-financial-institutions-b9d805",
+      "url": "https://kaopu.news/story/2026-11-01/thailand-water-office-warns-bangkok-tidal-flood-risk-024a4e",
       "reference": [
-        "澎湃新闻",
-        "第一财经",
         "联合早报"
       ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-insurers-third-quarter-fair-value-losses-7fd75f",
+      "title": "五大上市险企前三季度净利同比下降35%",
+      "description": "中国人寿、中国平安、中国太保、中国人保和新华保险披露2026年前三季度业绩，归母净利润合计2765.77亿元，同比减少35.08%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T13:35:35.776280+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/china-insurers-third-quarter-fair-value-losses-7fd75f",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
       "section": "business",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "germany-gen-z-protests-clashes-water-cannons-6d0c91",
+      "title": "德国青年示威入夜后多地演变为骚乱",
+      "description": "德国青年倡议组织“Gen Z regelt”10月31日在柏林、法兰克福、慕尼黑等34座城市发起示威。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T13:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/germany-gen-z-protests-clashes-water-cannons-6d0c91",
+      "reference": [
+        "法广",
+        "联合早报",
+        "公视",
+        "德国之声"
+      ],
+      "section": "world",
       "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "us-china-upgrade-ai-dialogue-mechanism-a4a645",
+      "title": "中美开展首次政府间人工智能对话并升级双边机制",
+      "description": "中美在2026年开展首次政府间人工智能对话，并将对话正式升级为双边机制。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T13:09:45.700281+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/us-china-upgrade-ai-dialogue-mechanism-a4a645",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -67,6 +180,42 @@
       "sources": []
     },
     {
+      "id": "taiwan-legislature-debate-china-chip-export-controls-03329a",
+      "title": "台湾立法院将讨论扩大对中国大陆芯片出口管制",
+      "description": "台湾经济部表示，正研议扩大先进半导体出口管制范围。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T13:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/taiwan-legislature-debate-china-chip-export-controls-03329a",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "south-korea-exports-set-52-year-growth-record-62aa01",
+      "title": "韩国10月出口额增长93.7%创52年多来最大增幅",
+      "description": "韩国10月出口额同比增长93.7%，达到1152.8亿美元，创1974年1月以来最大增幅。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T12:57:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/south-korea-exports-set-52-year-growth-record-62aa01",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "bangladesh-forms-wage-committee-garment-workers-60360d",
       "title": "孟加拉政府成立委员会检讨成衣工人最低工资",
       "description": "孟加拉政府11月1日宣布成立薪金委员会，审议成衣工人的最低工资；委员会由政府、劳工和厂主代表组成。",
@@ -85,27 +234,6 @@
       "sources": []
     },
     {
-      "id": "germany-gen-z-protests-clashes-water-cannons-6d0c91",
-      "title": "德国Z世代示威夜间演变为警民冲突",
-      "description": "德国“Gen Z regelt”组织10月31日在全国34座城市发起青年示威，数万人参加，抗议教育和医疗资源不足、生活成本高企以及恢复强制兵役等问题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T12:36:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/germany-gen-z-protests-clashes-water-cannons-6d0c91",
-      "reference": [
-        "法广",
-        "联合早报",
-        "公视",
-        "英国广播公司"
-      ],
-      "section": "world",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "japan-centenarians-top-one-hundred-thousand-cc2f89",
       "title": "日本百岁老人总数首次突破十万人",
       "description": "日本厚生劳动省2026年9月宣布，百岁老人总数首次超过10万人，其中女性94298人，约占87.6%。",
@@ -121,6 +249,27 @@
       ],
       "section": "life",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "binance-freezes-three-billion-hack-assets-ebaf47",
+      "title": "FBI认定朝鲜组织盗取币安逾60亿美元资产",
+      "description": "美国联邦调查局（FBI）认定，朝鲜应对币安约63亿美元加密资产失窃案负责，并将相关恶意网络活动与朝鲜组织TraderTraitor联系起来。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T12:09:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/binance-freezes-three-billion-hack-assets-ebaf47",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "韩国国际广播电台",
+        "英国广播公司"
+      ],
+      "section": "business",
+      "sourceCount": 21,
       "sources": []
     },
     {
@@ -865,27 +1014,6 @@
       ],
       "section": "asia",
       "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "binance-freezes-three-billion-hack-assets-ebaf47",
-      "title": "币安补足被盗损失95%将分阶段恢复提款",
-      "description": "全球最大加密货币交易所币安在10月29日至30日遭网络攻击，约63亿美元加密资产被盗。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T06:24:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/binance-freezes-three-billion-hack-assets-ebaf47",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "韩国国际广播电台",
-        "英国广播公司"
-      ],
-      "section": "business",
-      "sourceCount": 20,
       "sources": []
     },
     {
@@ -2225,26 +2353,6 @@
       "sources": []
     },
     {
-      "id": "lagarde-leaves-ecb-presidency-early-413dc9",
-      "title": "拉加德将提前近九个月卸任欧洲央行行长",
-      "description": "欧洲央行行长克里斯蒂娜·拉加德将提前卸任，定于2027年2月7日离职。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T12:35:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/lagarde-leaves-ecb-presidency-early-413dc9",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "财新"
-      ],
-      "section": "world",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "cxmt-4f2-platform-validation-samples-5f23fb",
       "title": "长鑫科技4F2第六代工艺平台完成工程样片验证",
       "description": "长鑫科技10月30日在第三季度业绩交流会上确认，其第六代工艺技术平台采用4F2垂直沟道DRAM架构，已完成工程样片验证。",
@@ -2531,24 +2639,6 @@
       "sources": []
     },
     {
-      "id": "xuzhou-gdp-nears-trillion-yuan-e3157f",
-      "title": "徐州全年GDP突破万亿元几无悬念",
-      "description": "徐州近日公布2026年前三季度经济数据，地区生产总值达到7591.45亿元，同比增长5.1%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T08:14:38.277837+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/xuzhou-gdp-nears-trillion-yuan-e3157f",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "singapore-immigration-vape-seizures-ea940f",
       "title": "新加坡移民与关卡局四天查获50起电子烟案",
       "description": "新加坡移民与关卡局在10月26日至29日于各关卡开展检查，发现50起旅客持有电子烟案件，起获电子烟超过5476支及相关配件。",
@@ -2581,42 +2671,6 @@
         "第一财经"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "exxon-chevron-boost-refining-output-7c5a7e",
-      "title": "美石油巨头炼油相关指标创新高",
-      "description": "艾克森美孚和雪佛龙均报告炼油相关指标创新高。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T08:02:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/exxon-chevron-boost-refining-output-7c5a7e",
-      "reference": [
-        "法广"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "sp-global-cuts-meta-credit-outlook-negative-f1f138",
-      "title": "标普全球将Meta信用评级展望下调至负向",
-      "description": "标普全球评级公司10月30日将Meta Platforms的信用评级展望从“稳定”下调至“负向”，理由是该公司资本支出规模及自由现金流前景存在较大不确定性。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T07:57:27+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/sp-global-cuts-meta-credit-outlook-negative-f1f138",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -3529,64 +3583,6 @@
       "sources": []
     },
     {
-      "id": "formosa-petrochemical-mailiao-carbon-storage-survey-approved-c5c423",
-      "title": "台塑石化麦寮碳封存探勘计划通过审查",
-      "description": "台塑石化提出的麦寮地区碳封存地质探勘计划于10月29日通过台湾环境部审查，是《碳捕捉封存管理办法》施行后首个通过审查的计划，标志着相关项目进入场址实证阶段。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T12:40:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/formosa-petrochemical-mailiao-carbon-storage-survey-approved-c5c423",
-      "reference": [
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "indonesia-minister-orders-emergency-peat-burning-ban-aeceea",
-      "title": "新加坡与印尼将设立小组追究涉林火企业责任",
-      "description": "新加坡与印度尼西亚同意成立联合工作小组，协调追究涉林火企业责任并交换信息。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T12:38:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-12",
-      "url": "https://kaopu.news/story/2026-10-12/indonesia-minister-orders-emergency-peat-burning-ban-aeceea",
-      "reference": [
-        "联合早报",
-        "公视",
-        "财新",
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 18,
-      "sources": []
-    },
-    {
-      "id": "china-provincial-shuffle-post-70s-governors-87af39",
-      "title": "谢卫江获任湖南省副省长并代理省长",
-      "description": "谢卫江10月30日下午获湖南省人大常委会任命为省政府副省长，并被确定代理省长。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T11:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/china-provincial-shuffle-post-70s-governors-87af39",
-      "reference": [
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "musk-neuralink-unveils-brain-interface-products-029a8e",
       "title": "马斯克公布Neuralink两款脑机接口产品",
       "description": "马斯克10月30日在X公布Neuralink两款脑机接口产品：“心灵感应”（Telepathy）用于辅助瘫痪者沟通，“盲视”（Blindsight）探索视觉恢复。",
@@ -4254,24 +4250,6 @@
       "sources": []
     },
     {
-      "id": "openai-engineer-indicted-wiretapping-grand-jury-b3c8ee",
-      "title": "沙特籍前OpenAI工程师涉窃听遭大陪审团起诉",
-      "description": "沙特阿拉伯公民、35岁的阿卜杜勒拉赫曼·阿尔福赞因涉嫌在OpenAI旧金山总部会议室安装窃听设备并截取口头通讯，10月27日被联邦大陪审团以非法窃听口头通讯的重罪起诉。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/openai-engineer-indicted-wiretapping-grand-jury-b3c8ee",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "sothebys-nanotyrannus-jodi-fetches-47-million-3d55ea",
       "title": "乔迪化石以4730万美元拍出恐龙化石拍卖史第二高价",
       "description": "苏富比在纽约拍卖纳米暴龙骨骼化石“乔迪”，一名匿名买家以4730万美元竞得。",
@@ -4287,24 +4265,6 @@
       ],
       "section": "culture",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "google-singapore-health-ai-research-center-059e6e",
-      "title": "谷歌将在新加坡设立研究中心推进医疗人工智能应用",
-      "description": "谷歌10月29日在新加坡首届谷歌医疗保健峰会上宣布设立研究中心，并与国立大学医学组织、国立健保集团合作，推动人工智能用于临床护理和疾病预防。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T05:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/google-singapore-health-ai-research-center-059e6e",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
       "sources": []
     },
     {
