@@ -1,11 +1,65 @@
 {
   "details": {
     "date": "2026-11-01",
-    "timestamp": 1793489076,
+    "timestamp": 1793496405,
     "totalPages": 1,
     "total": 274
   },
   "stories": [
+    {
+      "id": "china-auto-industry-profits-fall-e8f8ef",
+      "title": "汽车行业前三季度利润同比下降23%",
+      "description": "全国乘用车市场信息联席分会负责人崔东树援引国家统计局数据称，2026年前三季度汽车行业利润同比下降23%，至2675亿元，利润率为3.3%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T00:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/china-auto-industry-profits-fall-e8f8ef",
+      "reference": [
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-stigmatized-homes-attract-renters-buyers-dfd3dd",
+      "title": "日本事故物件低价吸引租客和买家",
+      "description": "日本一些因自杀、孤独死等事件留下污名的住宅，正凭借较低价格吸引租客和买家。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T00:03:15+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/japan-stigmatized-homes-attract-renters-buyers-dfd3dd",
+      "reference": [
+        "英国广播公司"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "zhang-zhongzai-dies-aged-93-6126db",
+      "title": "北京外国语大学教授张中载因病逝世，享年93岁",
+      "description": "英国文学研究者、翻译家张中载于2026年10月31日在北京去世，终年93岁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T23:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/zhang-zhongzai-dies-aged-93-6126db",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "rubio-trump-undecided-iran-military-action-c96627",
       "title": "鲁比奥称特朗普未决定是否对伊朗再动武",
@@ -42,6 +96,45 @@
       ],
       "section": "asia",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "binance-freezes-three-billion-hack-assets-ebaf47",
+      "title": "币安遭窃63亿美元后已补足九成资产",
+      "description": "币安于10月29日披露平台发生安全事件，后续确认约63亿美元加密资产遭窃。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T22:34:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/binance-freezes-three-billion-hack-assets-ebaf47",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "韩国国际广播电台",
+        "英国广播公司"
+      ],
+      "section": "business",
+      "sourceCount": 18,
+      "sources": []
+    },
+    {
+      "id": "germany-gen-z-protests-clashes-water-cannons-6d0c91",
+      "title": "德国Z世代示威入夜后爆发冲突警方动用水炮",
+      "description": "德国“Z世代青年”（Gen Z regelt）号召举行全国示威，吸引数万人参加。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-10-31T21:32:02+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/germany-gen-z-protests-clashes-water-cannons-6d0c91",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -659,27 +752,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "binance-freezes-three-billion-hack-assets-ebaf47",
-      "title": "币安热钱包遭复杂攻击约63亿美元资产被盗",
-      "description": "币安披露，平台热钱包在10月30日4时05分左右遭遇复杂网络攻击，有价值约63亿美元的加密资产被转出，其中大部分在约20分钟内完成。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T11:30:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/binance-freezes-three-billion-hack-assets-ebaf47",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "韩国国际广播电台",
-        "英国广播公司"
-      ],
-      "section": "business",
-      "sourceCount": 17,
       "sources": []
     },
     {
@@ -1405,24 +1477,6 @@
       ],
       "section": "business",
       "sourceCount": 8,
-      "sources": []
-    },
-    {
-      "id": "carney-canada-wait-us-president-trade-deal-4426de",
-      "title": "卡尼称美加难达协议可等美国换总统",
-      "description": "加拿大总理卡尼10月30日在蒙特利尔接受POLITICO专访时表示，如果美加无法谈妥合适的贸易协议，加拿大可以等到美国换届后再签。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T06:30:44+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/carney-canada-wait-us-president-trade-deal-4426de",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2355,24 +2409,6 @@
       ],
       "section": "life",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "memory-prices-hit-panel-makers-revenue-208151",
-      "title": "存储涨价冲击需求两大面板企业三季度营收下滑",
-      "description": "京东方和TCL科技10月30日晚公布的三季报显示，存储等零部件涨价抬高消费电子产品成本，终端需求变化拖累面板业务表现。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T14:44:42.229419+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/memory-prices-hit-panel-makers-revenue-208151",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3773,24 +3809,6 @@
       "sources": []
     },
     {
-      "id": "singapore-airlines-extends-dubai-flight-suspension-3e1b60",
-      "title": "新航将新加坡迪拜航班停飞延至2027年2月底",
-      "description": "新航将新加坡飞往迪拜的SQ494和返程SQ495停飞期限，从原定的2026年12月1日延至2027年2月28日，并于10月30日在脸书宣布。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T05:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/singapore-airlines-extends-dubai-flight-suspension-3e1b60",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "sternberg-anthropic-ipo-taiwan-security-535f8c",
       "title": "史坦伯格称Anthropic上市有利台湾安全",
       "description": "人工智能公司Anthropic本周公布首次公开募股（IPO）招股说明书，并计划下月上市。",
@@ -4903,24 +4921,6 @@
       "url": "https://kaopu.news/story/2026-10-26/shen-jiawei-discusses-mei-quong-tart-legacy-731eb2",
       "reference": [
         "SBS"
-      ],
-      "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "oyster-pail-design-becomes-chinese-takeout-icon-67b7a1",
-      "title": "生蚝桶纸盒演变为美式中餐外带标志",
-      "description": "美式中餐馆常见的白色外带纸盒，最初并不是为中餐设计，而是由19世纪的生蚝容器演变而来。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-25T17:05:05+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-25",
-      "url": "https://kaopu.news/story/2026-10-25/oyster-pail-design-becomes-chinese-takeout-icon-67b7a1",
-      "reference": [
-        "世界日报"
       ],
       "section": "culture",
       "sourceCount": 1,
