@@ -1,11 +1,319 @@
 {
   "details": {
     "date": "2026-11-02",
-    "timestamp": 1793590813,
+    "timestamp": 1793598105,
     "totalPages": 1,
     "total": 265
   },
   "stories": [
+    {
+      "id": "ukraine-halts-drone-strikes-russian-refineries-014811",
+      "title": "泽连斯基称美若供爱国者乌方将停袭俄炼油厂",
+      "description": "乌克兰总统泽连斯基11月1日接受美国福克斯新闻采访时表示，如果美国向乌方提供“爱国者”导弹，乌克兰愿在相应期限内停止打击俄罗斯炼油厂。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T04:33:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/ukraine-halts-drone-strikes-russian-refineries-014811",
+      "reference": [
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "south-korea-nearly-doubles-ai-chip-spending-71bb52",
+      "title": "李在明发表预算演说呼吁国会按期通过预算案",
+      "description": "韩国总统李在明向国会发表2027年度预算案施政演说，介绍支出重点并呼吁按期通过预算案。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T04:14:01+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/south-korea-nearly-doubles-ai-chip-spending-71bb52",
+      "reference": [
+        "联合早报",
+        "韩国国际广播电台"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "state-assets-bill-enters-second-review-ffc750",
+      "title": "国有资产法草案二审稿提请全国人大常委会审议",
+      "description": "国有资产法草案二审稿已提请十四届全国人大常委会第二十五次会议审议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T04:03:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/state-assets-bill-enters-second-review-ffc750",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "phantom-blade-zero-sales-top-four-million-6cd961",
+      "title": "《影之刃零》发售72小时销量突破400万份",
+      "description": "《影之刃零》官方宣布，游戏发售72小时内销量超过400万份。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T04:01:40.937454+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/phantom-blade-zero-sales-top-four-million-6cd961",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "reported-pboc-regulators-convene-financial-institutions-b9d805",
+      "title": "三部门安排11月2日召集金融机构商议股市支持措施",
+      "description": "中国人民银行、中国证监会安排于11月2日召集部分证券公司和基金公司，讨论如何推动支持资本市场工具的使用；央行、国家金融监督管理总局和证监会同日还将召集主要银行，商议优化股票回购增持再贷款政策。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T03:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/reported-pboc-regulators-convene-financial-institutions-b9d805",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "learjet-60-crashes-crest-haven-florida-d3b737",
+      "title": "佛州里尔60型公务机坠毁致9人遇难",
+      "description": "一架载有9人的里尔60型公务机于当地时间11月1日12时50分左右在美国佛罗里达州棕榈滩县克雷斯特黑文附近坠毁，机上人员全部遇难。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T03:57:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/learjet-60-crashes-crest-haven-florida-d3b737",
+      "reference": [
+        "澎湃新闻",
+        "世界日报",
+        "联合早报",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "meta-fourier-develops-humanoid-robot-prototype-069041",
+      "title": "Meta被曝与傅利叶合作开发人形机器人原型",
+      "description": "Meta被曝与中国机器人公司傅利叶合作开发人形机器人原型“Max”，并已启动第二代Max 2研发。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T03:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/meta-fourier-develops-humanoid-robot-prototype-069041",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "liu-qifan-named-yunnan-vice-governor-acting-governor-d1cc7a",
+      "title": "刘奇凡获任云南副省长并代理省长",
+      "description": "云南省第十四届人大常委会会议11月2日通过人事决定，刘奇凡获任云南省副省长，并被确定代理省长。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T03:52:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/liu-qifan-named-yunnan-vice-governor-acting-governor-d1cc7a",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "raw-milk-prices-end-53-month-decline-41f3f5",
+      "title": "原奶价格结束53个月下跌后首次转涨",
+      "description": "A股上市乳企2026年三季报已全部披露，生鲜乳收购价结束连续53个月下跌并首次同比转涨，乳业竞争也进一步转向深加工和产业链延伸。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T03:50:36.333747+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/raw-milk-prices-end-53-month-decline-41f3f5",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "pboc-names-overnight-reverse-repo-policy-rate-b50b97",
+      "title": "中国央行以隔夜逆回购接替七天期政策利率",
+      "description": "中国人民银行11月2日首次开展常态化隔夜逆回购操作，以固定利率、数量招标方式操作5410亿元，利率为1.25%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T03:49:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/pboc-names-overnight-reverse-repo-policy-rate-b50b97",
+      "reference": [
+        "财新",
+        "第一财经",
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "binance-freezes-three-billion-hack-assets-ebaf47",
+      "title": "FBI认定朝鲜组织参与币安63亿美元失窃案",
+      "description": "币安估算，10月29日发生的网络攻击造成约63亿美元加密资产被盗，属于加密货币行业已知规模最大的盗窃案之一。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T03:45:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/binance-freezes-three-billion-hack-assets-ebaf47",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "韩国国际广播电台",
+        "英国广播公司"
+      ],
+      "section": "business",
+      "sourceCount": 27,
+      "sources": []
+    },
+    {
+      "id": "us-midterm-election-trump-policy-space-3078f1",
+      "title": "美国期中选举影响特朗普未来施政空间",
+      "description": "美国期中选举的国会控制权之争，关系到特朗普未来两年的施政空间以及国会制衡总统的能力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T03:41:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/us-midterm-election-trump-policy-space-3078f1",
+      "reference": [
+        "公视"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-procuratorate-publishes-privacy-cases-46369f",
+      "title": "中国最高检发布八件公民个人信息保护典型案例",
+      "description": "中国最高人民检察院11月2日公布8件公民个人信息保护典型案例，内容涵盖刑事追责、追查犯罪链条和推动社会治理。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T03:37:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/china-procuratorate-publishes-privacy-cases-46369f",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "haley-stevens-endorses-mike-rogers-86a958",
+      "title": "密歇根民主党众议员史蒂文斯转而支持罗杰斯",
+      "description": "密歇根州民主党联邦众议员海莉·史蒂文斯11月1日宣布，她将在11月3日中期选举中投票支持共和党联邦参议员候选人迈克·罗杰斯。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T03:32:02+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/haley-stevens-endorses-mike-rogers-86a958",
+      "reference": [
+        "澎湃新闻",
+        "世界日报",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "ukraine-air-raid-app-hacked-false-alerts-16a0ce",
+      "title": "乌克兰空袭警报应用遭黑客攻击并推送虚假预警",
+      "description": "当地时间11月1日晚，乌克兰空袭警报应用遭黑客攻击，多地用户收到辐射风险、化学品安全威胁等错误提示，之后又收到警报解除通知。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T03:32:01+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/ukraine-air-raid-app-hacked-false-alerts-16a0ce",
+      "reference": [
+        "法广",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "gmo-requests-active-cyber-defense-cc7ba4",
+      "title": "共同社称GMO遇袭疑有朝鲜黑客参与",
+      "description": "共同社援引相关人士称，GMO互联网集团分析认为，针对旗下外汇保证金交易相关云服务的一系列网络攻击，很可能有与朝鲜有关的黑客组织参与，但攻击者身份仍待调查确认。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T03:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/gmo-requests-active-cyber-defense-cc7ba4",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "日本放送协会",
+        "中央通訊社"
+      ],
+      "section": "world",
+      "sourceCount": 27,
+      "sources": []
+    },
     {
       "id": "trump-team-prepares-to-bypass-congress-42fceb",
       "title": "特朗普团队据报准备绕开国会推进政策",
@@ -43,6 +351,27 @@
       ],
       "section": "business",
       "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "intel-weak-q4-outlook-shares-drop-63ff61",
+      "title": "英特尔四季度指引低于预期股价暴跌近三成",
+      "description": "英特尔第四季度业绩指引低于市场预期，股价10月30日暴跌近三成，并拖累美国半导体股普跌；这一跌势在11月2日传至台湾股市，台股开盘一度下跌逾800点，失守45000点。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T03:06:27+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/intel-weak-q4-outlook-shares-drop-63ff61",
+      "reference": [
+        "澎湃新闻",
+        "日经",
+        "第一财经",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 11,
       "sources": []
     },
     {
@@ -105,22 +434,21 @@
       "sources": []
     },
     {
-      "id": "ukraine-air-raid-app-hacked-false-alerts-16a0ce",
-      "title": "乌克兰空袭警报应用遭黑客攻击发出错误预警",
-      "description": "乌克兰空军当地时间11月1日晚称，空袭警报应用遭黑客入侵，多地用户收到辐射风险和化学品安全威胁等错误预警，之后陆续收到解除通知。",
+      "id": "unconventional-candidates-enter-us-midterms-1983f7",
+      "title": "多名非传统政治人物投入美国期中选举",
+      "description": "多名来自体育、广播和渔业等领域的非传统政治人物参加美国2026年期中选举。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-02T02:56:00+00:00",
+      "updatedAt": "2026-11-02T02:49:08+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/ukraine-air-raid-app-hacked-false-alerts-16a0ce",
+      "url": "https://kaopu.news/story/2026-11-02/unconventional-candidates-enter-us-midterms-1983f7",
       "reference": [
-        "法广",
-        "澎湃新闻"
+        "公视"
       ],
-      "section": "world",
-      "sourceCount": 2,
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -142,6 +470,24 @@
       ],
       "section": "us",
       "sourceCount": 23,
+      "sources": []
+    },
+    {
+      "id": "us-parties-boost-midterm-ads-swing-states-c9e629",
+      "title": "美国两党加码竞选广告争夺期中选举摇摆州选民",
+      "description": "美国期中选举临近，共和党和民主党近期在造势活动中互相抨击，并加大竞选广告投入争取摇摆州选民。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T02:48:16+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/us-parties-boost-midterm-ads-swing-states-c9e629",
+      "reference": [
+        "公视"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -310,27 +656,6 @@
       ],
       "section": "business",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "learjet-60-crashes-crest-haven-florida-d3b737",
-      "title": "佛州里尔60型公务机坠毁机上9人全部遇难",
-      "description": "一架载有9人的里尔60型公务机于当地时间11月1日中午12时50分左右，在美国佛罗里达州棕榈滩县居民区附近坠毁，机上人员全部遇难。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T02:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/learjet-60-crashes-crest-haven-florida-d3b737",
-      "reference": [
-        "澎湃新闻",
-        "世界日报",
-        "联合早报",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 7,
       "sources": []
     },
     {
@@ -503,24 +828,6 @@
       "sources": []
     },
     {
-      "id": "china-procuratorate-publishes-privacy-cases-46369f",
-      "title": "最高检发布八件个人信息保护典型案例",
-      "description": "最高人民检察院11月2日公布8件公民个人信息保护典型案例，指导全国检察机关依法惩治相关犯罪，并通过协同履职维护个人信息权益。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T02:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/china-procuratorate-publishes-privacy-cases-46369f",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "caixin-new-economy-index-hits-record-3b7255",
       "title": "财新中国新经济指数10月升至35.4创历史新高",
       "description": "财新智库11月2日公布的数据显示，2026年10月财新中国新经济指数为35.4，新经济投入占整体经济投入的比重也为35.4%。",
@@ -575,27 +882,6 @@
       ],
       "section": "life",
       "sourceCount": 16,
-      "sources": []
-    },
-    {
-      "id": "binance-freezes-three-billion-hack-assets-ebaf47",
-      "title": "FBI认定朝鲜黑客组织盗取币安63亿美元资产",
-      "description": "美国联邦调查局（FBI）认定，朝鲜关联黑客组织TraderTraitor实施了10月29日币安约63亿美元加密资产盗窃案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T01:52:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/binance-freezes-three-billion-hack-assets-ebaf47",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "韩国国际广播电台",
-        "英国广播公司"
-      ],
-      "section": "business",
-      "sourceCount": 26,
       "sources": []
     },
     {
@@ -841,27 +1127,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "intel-weak-q4-outlook-shares-drop-63ff61",
-      "title": "英特尔四季度指引低于预期股价创半世纪最大跌幅",
-      "description": "英特尔第三季度财报后的第四季度业绩指引低于市场预期，股价在10月30日大幅下跌，并带动美股半导体板块走弱；美股芯片股下跌随后拖累台湾股市11月2日早盘走低。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T01:15:28+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/intel-weak-q4-outlook-shares-drop-63ff61",
-      "reference": [
-        "澎湃新闻",
-        "日经",
-        "第一财经",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 10,
       "sources": []
     },
     {
@@ -1126,24 +1391,6 @@
       "sources": []
     },
     {
-      "id": "ukraine-halts-drone-strikes-russian-refineries-014811",
-      "title": "乌克兰军方据报暂停袭击俄罗斯炼油厂",
-      "description": "乌克兰军方已暂停对俄罗斯境内炼油厂的无人机袭击；联合早报援引《华尔街日报》称，多名知情人士透露，这项非正式暂停至少持续到美国中期选举之后。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T23:46:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/ukraine-halts-drone-strikes-russian-refineries-014811",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "los-angeles-immigrants-medi-cal-fee-for-service-388de6",
       "title": "洛杉矶部分移民白卡2027年改按服务付费",
       "description": "洛杉矶县邻里法律服务中心法律助理Mona Lao在一场记者会上表示，2027年起，部分移民白卡（Medi-Cal）持有人的就医支付方式、续保要求、工作条件和资格审查安排将调整。",
@@ -1256,25 +1503,6 @@
       ],
       "section": "world",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "haley-stevens-endorses-mike-rogers-86a958",
-      "title": "密歇根州民主党众议员史蒂文斯宣布支持罗杰斯",
-      "description": "密歇根州民主党联邦众议员海莉·史蒂文斯11月1日与共和党联邦参议员候选人迈克·罗杰斯一同参加教会礼拜，随后宣布支持罗杰斯，并表示会投票给他。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T21:02:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/haley-stevens-endorses-mike-rogers-86a958",
-      "reference": [
-        "澎湃新闻",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1563,27 +1791,6 @@
       "sources": []
     },
     {
-      "id": "pboc-names-overnight-reverse-repo-policy-rate-b50b97",
-      "title": "中国央行将隔夜逆回购定为主要政策利率",
-      "description": "中国人民银行自11月2日起将隔夜逆回购利率作为公开市场主要政策利率，取代原先的7天期逆回购利率。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T14:39:28+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/pboc-names-overnight-reverse-repo-policy-rate-b50b97",
-      "reference": [
-        "财新",
-        "第一财经",
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "french-students-protest-school-conditions-11bf14",
       "title": "法国连续第三周末示威逾五百人被捕",
       "description": "法国民众10月31日举行连续第三个周末的全国性示威，抗议生活成本上涨。",
@@ -1620,27 +1827,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "reported-pboc-regulators-convene-financial-institutions-b9d805",
-      "title": "三部门将开会研究资本市场支持政策",
-      "description": "中国人民银行、中国证监会和国家金融监督管理总局定于11月2日分别召开两场会议，讨论资本市场支持工具的使用及股票回购增持再贷款政策的优化。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T14:06:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/reported-pboc-regulators-convene-financial-institutions-b9d805",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -2291,24 +2477,6 @@
       "sources": []
     },
     {
-      "id": "venezuela-troops-strike-eln-camp-deaths-e383ef",
-      "title": "据报委内瑞拉军队袭击ELN营地致多人死亡",
-      "description": "据联合早报引述法新社报道，Fundaredes主任塔拉索纳称，委内瑞拉军队于10月30日在阿普雷州一处偏远农村地区袭击民族解放军（ELN）营地，造成多人死亡。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T07:43:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/venezuela-troops-strike-eln-camp-deaths-e383ef",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "baqing-students-resume-classes-lhasa-049a54",
       "title": "巴青两乡首批589名师生赴拉萨异地复课",
       "description": "地震造成巴青县玛如乡、岗切乡部分校舍受损，两乡暂不具备原址复课条件。",
@@ -2508,24 +2676,6 @@
       "occurredAt": "",
       "publishedAt": "2026-10-31",
       "url": "https://kaopu.news/story/2026-10-31/tett-us-chipmaking-expansion-faces-barriers-2830d8",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "american-united-charge-solo-flyers-more-ecb663",
-      "title": "美航与美联航部分航班对单人旅客加价",
-      "description": "《精打细算旅人》的一项抽样调查显示，美国航空和联合航空部分航班向独自出行的乘客报出高于多人同行时的票价。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T06:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/american-united-charge-solo-flyers-more-ecb663",
       "reference": [
         "世界日报"
       ],
@@ -3160,24 +3310,6 @@
       "sources": []
     },
     {
-      "id": "trump-plans-deport-afghan-migrants-via-pakistan-6d62a6",
-      "title": "美媒称特朗普政府拟遣返150余名阿富汗移民",
-      "description": "《纽约时报》引述三名匿名美国官员报道，特朗普政府计划经巴基斯坦将150多名阿富汗移民遣返回阿富汗。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T13:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/trump-plans-deport-afghan-migrants-via-pakistan-6d62a6",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "anhui-company-tainted-pills-investigated-9c072e",
       "title": "据报安徽企业销售含罗通定蜜丸遭查处",
       "description": "据澎湃新闻转述的总台《食安中国》调查，安徽本航健康产业发展集团有限公司及关联企业安庆市五维一体康复保健有限公司销售的“白芷蝮蛇丸”检出罗通定。",
@@ -3308,46 +3440,6 @@
       "sources": []
     },
     {
-      "id": "li-qiang-chairs-cabinet-meeting-population-services-afaf01",
-      "title": "国务院常务会议部署家庭支持政策稳定新出生人口",
-      "description": "国务院总理李强10月23日主持召开国务院常务会议，研究统筹人口与经济社会发展工作，并听取全国服务业大会部署落实情况汇报。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T10:32:48.555815+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/li-qiang-chairs-cabinet-meeting-population-services-afaf01",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "联合早报",
-        "财新"
-      ],
-      "section": "china",
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
-      "id": "attack-21-drone-lands-sichuan-amphibious-ship-0be7ca",
-      "title": "中国海军攻击-21无人机首次在四川舰成功起降",
-      "description": "10月下旬，中国人民解放军海军的“攻击-21”在076型两栖攻击舰四川舰上首次成功起降。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T09:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/attack-21-drone-lands-sichuan-amphibious-ship-0be7ca",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "china-schools-schedule-autumn-breaks-9c42e5",
       "title": "多地中小学将于11月陆续放秋假",
       "description": "山东、湖南、河北、山西等地已公布中小学2026年秋假安排，相关假期将从11月2日起陆续开始。",
@@ -3363,25 +3455,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "christa-pike-survives-lethal-injection-pain-3d0956",
-      "title": "死刑注射失败后派克首次发声称仍承受痛苦",
-      "description": "田纳西州女囚克里斯塔·派克于10月30日首次发声，称注射死刑失败当晚起身体持续疼痛，精神也受折磨。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T08:38:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/christa-pike-survives-lethal-injection-pain-3d0956",
-      "reference": [
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3508,24 +3581,6 @@
       ],
       "section": "culture",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "haze-cuts-vegetable-supply-raises-prices-ff90b1",
-      "title": "东南亚烟霾导致多种蔬菜收成减少",
-      "description": "东南亚多地烟霾减少日照，蔬菜收成和供应受到影响，部分品种个头变小、卖相转差，批发市场货源趋紧也推高了零售价。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T06:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/haze-cuts-vegetable-supply-raises-prices-ff90b1",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3881,27 +3936,6 @@
       "sources": []
     },
     {
-      "id": "gmo-requests-active-cyber-defense-cc7ba4",
-      "title": "GMO云服务器遭入侵用户信息被窃并造成损失",
-      "description": "GMO互联网集团旗下为投资者提供外汇保证金交易等服务的云服务器遭非法访问，公司确认客户信息被窃，用户ID和密码存在被盗用风险，并发现有账户出现非本人操作的交易。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T10:08:53+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/gmo-requests-active-cyber-defense-cc7ba4",
-      "reference": [
-        "共同网",
-        "联合早报",
-        "日本放送协会",
-        "中央通訊社"
-      ],
-      "section": "world",
-      "sourceCount": 26,
-      "sources": []
-    },
-    {
       "id": "meta-plans-95-billion-equity-funding-a78fa8",
       "title": "英伟达斥资30亿美元认购Meta新股",
       "description": "英伟达宣布投资30亿美元，认购Meta新发行的股票。",
@@ -4159,24 +4193,6 @@
         "澎湃新闻"
       ],
       "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "canadian-banks-restrict-ai-agents-d85d8d",
-      "title": "加拿大五大银行限制第三方人工智能代理访问客户账户",
-      "description": "加拿大皇家银行、道明银行、加拿大帝国商业银行和蒙特利尔银行表示，将禁止第三方个人人工智能代理直接访问客户银行信息；丰业银行则称，会限制此类代理接入其银行平台。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T21:01:33.136000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/canadian-banks-restrict-ai-agents-d85d8d",
-      "reference": [
-        "加拿大国际广播电台"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -4697,24 +4713,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "zhao-ming-dies-shanghai-dance-choreographer-b78a81",
-      "title": "舞剧编导赵明在上海病逝，享年66岁",
-      "description": "舞剧编导赵明于10月27日在上海病逝，享年66岁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-27T08:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/zhao-ming-dies-shanghai-dance-choreographer-b78a81",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "culture",
-      "sourceCount": 1,
       "sources": []
     },
     {
