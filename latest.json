@@ -1,19 +1,19 @@
 {
   "details": {
     "date": "2026-11-02",
-    "timestamp": 1793626564,
+    "timestamp": 1793633820,
     "totalPages": 1,
     "total": 260
   },
   "stories": [
     {
       "id": "reported-pboc-regulators-convene-financial-institutions-b9d805",
-      "title": "中国央行将开展第三次互换便利操作",
-      "description": "中国人民银行11月2日会同国家金融监督管理总局、中国证监会等部门召开证券、基金、保险公司互换便利座谈会和股票回购增持再贷款座谈会，研究进一步用好支持资本市场的政策工具。",
+      "title": "央行升级资本市场支持工具再贷款利率降至1%",
+      "description": "中国人民银行11月2日宣布，将于11月3日开展第三批证券、基金、保险公司互换便利操作，期限为1年，可视情况展期。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-02T13:16:38.690754+00:00",
+      "updatedAt": "2026-11-02T14:20:37.709193+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-01",
       "url": "https://kaopu.news/story/2026-11-01/reported-pboc-regulators-convene-financial-institutions-b9d805",
@@ -24,7 +24,182 @@
         "中央通訊社"
       ],
       "section": "business",
-      "sourceCount": 23,
+      "sourceCount": 27,
+      "sources": []
+    },
+    {
+      "id": "iran-envoys-doha-qatar-war-talks-8ddd25",
+      "title": "伊朗经卡塔尔提出两天重开霍尔木兹海峡方案",
+      "description": "伊朗经卡塔尔斡旋向美国提出两天方案：美方先落实伊方要求，伊朗随后在第二天恢复霍尔木兹海峡正常通航，并重启谈判。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T14:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/iran-envoys-doha-qatar-war-talks-8ddd25",
+      "reference": [
+        "联合早报",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "china-securities-regulator-unveils-market-stability-measures-b32317",
+      "title": "证监会拟修订回购规则扩大护盘式回购范围",
+      "description": "中国证监会11月2日宣布拟修订《上市公司股份回购规则》，扩大护盘式回购适用情形，并强化上市公司实施回购的责任。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T13:56:50.602734+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/china-securities-regulator-unveils-market-stability-measures-b32317",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "trump-approves-patriot-missile-sale-ukraine-3346af",
+      "title": "美国批准向乌克兰出售500枚爱国者导弹",
+      "description": "美国国务院10月30日宣布，特朗普政府批准向乌克兰出售最多500枚洛克希德·马丁公司生产的最先进型号“爱国者”导弹，以及零部件、后勤和支援服务，军售总额约21亿美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T13:37:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/trump-approves-patriot-missile-sale-ukraine-3346af",
+      "reference": [
+        "法广",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "germany-gen-z-protests-clashes-water-cannons-6d0c91",
+      "title": "德国34城青年示威夜间演变为暴力冲突",
+      "description": "德国青年组织“Gen Z regelt”10月31日在全国34座城市发起示威，组织者估计约12万人参加。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T13:32:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/germany-gen-z-protests-clashes-water-cannons-6d0c91",
+      "reference": [
+        "法广",
+        "联合早报",
+        "公视",
+        "德国之声"
+      ],
+      "section": "world",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "china-e-bike-certification-rule-requires-factory-assembly-0f6c16",
+      "title": "国家认监委新规要求电动自行车整车厂内完成安装检验",
+      "description": "国家认监委修订的《强制性产品认证实施规则 电动自行车（试行）》自11月1日起施行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T13:32:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/china-e-bike-certification-rule-requires-factory-assembly-0f6c16",
+      "reference": [
+        "财新"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "gmo-requests-active-cyber-defense-cc7ba4",
+      "title": "GMO称攻击线索指向朝鲜相关黑客组织",
+      "description": "GMO互联网集团旗下服务于外汇保证金交易的云服务遭非法入侵，客户信息外泄，部分账户出现未经授权的操作。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T13:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-24",
+      "url": "https://kaopu.news/story/2026-10-24/gmo-requests-active-cyber-defense-cc7ba4",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "日本放送协会",
+        "中央通訊社"
+      ],
+      "section": "world",
+      "sourceCount": 30,
+      "sources": []
+    },
+    {
+      "id": "judi-dench-memoir-cannot-act-film-40c038",
+      "title": "朱迪·丹奇推出新回忆录称已无法登台拍片",
+      "description": "英国演员朱迪·丹奇推出与布伦丹·奥希亚合作的新回忆录《现在逃跑还来得及吗？",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T13:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/judi-dench-memoir-cannot-act-film-40c038",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-launches-departure-tax-refund-system-51d024",
+      "title": "日本实施访日游客消费税离境退税新制",
+      "description": "日本自11月1日起对访日外国游客实施消费税“先付后退”新制。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T13:17:32+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-27",
+      "url": "https://kaopu.news/story/2026-10-27/japan-launches-departure-tax-refund-system-51d024",
+      "reference": [
+        "公视",
+        "日经",
+        "联合早报",
+        "日本放送协会"
+      ],
+      "section": "life",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "taiwan-interior-ministry-recovers-rent-subsidy-overpayments-9cf914",
+      "title": "台湾国土署追回租金补贴溢领款约5亿元",
+      "description": "台湾内政部统计，截至9月底，已追回租金补贴溢领逾6.6万件，金额约5亿元；另有251件疑似诈领案件被函送警方和司法机关。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T13:16:32+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/taiwan-interior-ministry-recovers-rent-subsidy-overpayments-9cf914",
+      "reference": [
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -44,6 +219,60 @@
       ],
       "section": "us",
       "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "russian-broker-recruits-north-korean-workers-be178e",
+      "title": "俄罗斯中介被曝借实习招朝鲜劳工赴俄",
+      "description": "据澳大利亚广播公司（ABC）报道，国际人权组织“全球权利合规”历时九个月卧底调查，发现莫斯科商人弗拉基米尔·索科洛夫涉嫌经营招募朝鲜劳工赴俄的中介网络。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T13:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/russian-broker-recruits-north-korean-workers-be178e",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "su-juntao-liu-lili-win-dakar-gold-7919e8",
+      "title": "苏俊涛刘莉莉夺得达喀尔青奥会海岸赛艇金牌",
+      "description": "苏俊涛与刘莉莉搭档，在达喀尔青奥会海岸赛艇沙滩冲刺混合双人双桨项目中夺冠。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T13:12:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/su-juntao-liu-lili-win-dakar-gold-7919e8",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "sports",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-says-protect-musk-spacex-5d27a2",
+      "title": "特朗普称必要时将保护马斯克及SpaceX",
+      "description": "美国总统特朗普在11月2日播出的Pod Force One播客中表示，如果民主党真的对埃隆·马斯克或SpaceX采取强硬行动，他会出面保护。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T13:08:03+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/trump-says-protect-musk-spacex-5d27a2",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -104,24 +333,6 @@
       ],
       "section": "business",
       "sourceCount": 33,
-      "sources": []
-    },
-    {
-      "id": "china-securities-regulator-unveils-market-stability-measures-b32317",
-      "title": "中国证监会公布措施稳定资本市场预期",
-      "description": "中国证监会11月2日晚以答记者问形式公布一系列资本市场措施，涉及上市公司护盘式回购、主动ETF建仓及融资融券保证金相关指标，旨在稳定市场预期。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T13:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/china-securities-regulator-unveils-market-stability-measures-b32317",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -295,24 +506,21 @@
       "sources": []
     },
     {
-      "id": "japan-launches-departure-tax-refund-system-51d024",
-      "title": "日本实施访日游客消费税离境退税新制",
-      "description": "日本自2026年11月1日起实施访日外国游客消费税离境退税新制。",
+      "id": "tatung-huaying-reach-settlement-5e8416",
+      "title": "大同与华映科技达成人民币7.68亿元和解",
+      "description": "大同公司宣布与华映科技就华映科技案达成人民币7.68亿元和解，双方董事会均已批准方案。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-02T12:19:00+00:00",
+      "updatedAt": "2026-11-02T12:32:04+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/japan-launches-departure-tax-refund-system-51d024",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/tatung-huaying-reach-settlement-5e8416",
       "reference": [
-        "公视",
-        "日经",
-        "联合早报",
-        "日本放送协会"
+        "中央通訊社"
       ],
-      "section": "life",
-      "sourceCount": 6,
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -499,6 +707,42 @@
         "第一财经"
       ],
       "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-democrats-election-eve-rallies-042bf6",
+      "title": "特朗普与民主党候选人将举行选前造势",
+      "description": "美国期中选举投票前夕，特朗普将于11月2日在华盛顿林肯纪念堂倒影池发表选前最后演说；他前一天表示：“我们会赢。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T11:34:05+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/trump-democrats-election-eve-rallies-042bf6",
+      "reference": [
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "colombia-planadas-bomb-attack-kills-four-eb8c6b",
+      "title": "哥伦比亚普拉纳达斯镇炸弹袭击初步致4人死亡",
+      "description": "哥伦比亚托利马省南部普拉纳达斯镇一处军事基地附近发生炸弹袭击。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T11:34:04+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/colombia-planadas-bomb-attack-kills-four-eb8c6b",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -711,6 +955,24 @@
       "sources": []
     },
     {
+      "id": "taiwan-dollar-falls-near-32-7-75dc22",
+      "title": "外资汇出令新台币收跌1.14角",
+      "description": "外资卖出台湾股票并汇出资金，新台币兑美元收跌1.14角。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T10:35:22+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/taiwan-dollar-falls-near-32-7-75dc22",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "japan-taiwan-trade-agreement-talks-59c98a",
       "title": "日经亚洲称日本与台湾磋商全面经济协议最快年底签署",
       "description": "日本政府与台湾方面正磋商一项全面经济贸易协议。",
@@ -726,27 +988,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "gmo-requests-active-cyber-defense-cc7ba4",
-      "title": "GMO下调高管薪酬回应搁置两年多的安全隐患",
-      "description": "GMO互联网集团社长熊谷正寿11月2日在东京就旗下外汇保证金交易云服务遭入侵、客户账户被非法操作一事致歉，并宣布将自己及另外3名高管的薪酬下调最多30%，为期3个月。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T10:31:52+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/gmo-requests-active-cyber-defense-cc7ba4",
-      "reference": [
-        "共同网",
-        "联合早报",
-        "日本放送协会",
-        "中央通訊社"
-      ],
-      "section": "world",
-      "sourceCount": 28,
       "sources": []
     },
     {
@@ -1009,27 +1250,6 @@
       ],
       "section": "world",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "germany-gen-z-protests-clashes-water-cannons-6d0c91",
-      "title": "德国青年抗议夜间演变为多地暴力骚乱",
-      "description": "德国青年团体“Gen Z regelt”发起的抗议活动在30多个城市举行，白天大多平和，夜间法兰克福等地发生暴力事件。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T09:42:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/germany-gen-z-protests-clashes-water-cannons-6d0c91",
-      "reference": [
-        "法广",
-        "联合早报",
-        "公视",
-        "德国之声"
-      ],
-      "section": "world",
-      "sourceCount": 10,
       "sources": []
     },
     {
@@ -1726,27 +1946,6 @@
       "sources": []
     },
     {
-      "id": "eu-launches-hybrid-car-safeguard-probe-b8e7e5",
-      "title": "中国多家车企据报赴京争取混动汽车出口配额",
-      "description": "中欧就混合动力汽车贸易达成谅解后，中国多家车企近期派员赴北京，与相关部门协商对欧出口配额。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T06:30:35+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/eu-launches-hybrid-car-safeguard-probe-b8e7e5",
-      "reference": [
-        "财新",
-        "第一财经",
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "memory-makers-surpass-us-tech-profits-86df9f",
       "title": "全球五大存储器厂商营业利润首超美国科技巨头",
       "description": "2026年7月至9月，全球五大半导体存储器厂商的合计营业利润和净利润首次超过美国五大科技企业。",
@@ -2174,24 +2373,6 @@
       "sources": []
     },
     {
-      "id": "salim-said-minnesota-fraud-sentenced-30-years-692b2e",
-      "title": "萨义特因明尼苏达食物补助诈骗案获刑30年",
-      "description": "明尼苏达州联邦地区法院法官南希·布拉塞尔判处“喂养我们的未来”食物补助诈骗案被告萨义特30年监禁，并要求他与同伙共同偿还4400万元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/salim-said-minnesota-fraud-sentenced-30-years-692b2e",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "south-korea-nearly-doubles-ai-chip-spending-71bb52",
       "title": "韩国国会启动2027年度预算案审议",
       "description": "韩国总统李在明发表2027年度预算案施政演说后，国会启动预算审议。",
@@ -2227,27 +2408,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "vance-iran-letter-restart-talks-9fdb42",
-      "title": "伊朗代表团赴卡塔尔评估美方重启谈判提议",
-      "description": "10月31日，伊朗外长阿拉格齐表示，伊朗代表团已抵达卡塔尔，正在核实美国提出的重启谈判设想。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T05:17:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/vance-iran-letter-restart-talks-9fdb42",
-      "reference": [
-        "联合早报",
-        "韩民族日报",
-        "法广",
-        "财新"
-      ],
-      "section": "us",
-      "sourceCount": 9,
       "sources": []
     },
     {
@@ -2510,24 +2670,6 @@
       "sources": []
     },
     {
-      "id": "unconventional-candidates-enter-us-midterms-1983f7",
-      "title": "多名非传统政治人物投入美国期中选举",
-      "description": "多名来自体育、广播和渔业等领域的非传统政治人物参加美国2026年期中选举。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T02:49:08+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/unconventional-candidates-enter-us-midterms-1983f7",
-      "reference": [
-        "公视"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "wiikwemkoong-builds-data-center-cultural-archives-a70fed",
       "title": "维克韦米孔建成资料中心保存原住民文化数据",
       "description": "维克韦米孔未割让领地建成一座小型数据中心，将分散各地的历史照片、录音和长者讲述传统语言的视频集中保存，并由当地独立服务器存储和管理相关数据，不再依赖多伦多的微软服务器或第三方机构。",
@@ -2687,24 +2829,6 @@
         "纽约时报"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-dollar-falls-near-32-7-75dc22",
-      "title": "新台币大幅贬值盘中逼近32.7元",
-      "description": "美国科技大厂财报表现不佳，加深市场对人工智能投资热潮及其变现能力的疑虑，美国科技股下挫，台湾股汇市走低。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T02:12:56+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/taiwan-dollar-falls-near-32-7-75dc22",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -2879,25 +3003,6 @@
       "sources": []
     },
     {
-      "id": "mainland-skips-taiwan-apec-summit-invitation-436eb7",
-      "title": "广东公安启动深圳APEC高等级安保勤务",
-      "description": "广东省公安机关已为深圳APEC会议启动高等级安保勤务，并从全省抽调警力支援深圳。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T01:28:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/mainland-skips-taiwan-apec-summit-invitation-436eb7",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "taiwan-detects-chinese-aircraft-ships-near-strait-3b8e22",
       "title": "台湾国防部通报侦获19架次中国大陆军机",
       "description": "台湾国防部通报，在11月1日上午6时至11月2日上午6时的统计时段内，台湾周边侦获中国人民解放军军机19架次、军舰7艘及中国大陆公务船6艘。",
@@ -2949,24 +3054,6 @@
         "朝鲜日报"
       ],
       "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "north-korean-hackers-transfer-eight-trillion-won-b2602e",
-      "title": "朝鲜日报称朝鲜黑客20分钟转移大部分被盗资金，涉案金额8万亿韩元",
-      "description": "朝鲜日报称，朝鲜黑客在一宗史上最大金额盗窃案中，仅用20分钟就转移了大部分资金；该报标题将金额列为8万亿韩元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T01:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/north-korean-hackers-transfer-eight-trillion-won-b2602e",
-      "reference": [
-        "朝鲜日报"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -3192,66 +3279,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "zelensky-willing-meet-putin-turkey-80153d",
-      "title": "泽连斯基愿在土耳其与普京面对面会晤",
-      "description": "据澎湃新闻报道，乌克兰总统泽连斯基当地时间11月1日表示，愿在土耳其与俄罗斯总统普京面对面会晤，并希望土耳其总统埃尔多安借助与普京的沟通渠道促成直接谈判。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T18:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/zelensky-willing-meet-putin-turkey-80153d",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "polish-constitutional-court-protesters-clash-police-40116b",
-      "title": "波兰宪法法院停职争议引发抗议冲突",
-      "description": "波兰宪法法院领导层停职争议在10月30日演变为院外抗议和警方介入。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T17:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/polish-constitutional-court-protesters-clash-police-40116b",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "公视",
-        "财新"
-      ],
-      "section": "world",
-      "sourceCount": 9,
-      "sources": []
-    },
-    {
-      "id": "russia-fsb-us-moscow-terror-threat-1f4cff",
-      "title": "俄联邦安全局逮捕涉嫌密谋在莫斯科发动袭击的未成年人",
-      "description": "俄罗斯联邦安全局于11月1日证实，当局已逮捕一名俄罗斯籍未成年男性，称其涉嫌密谋在莫斯科发动袭击。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T15:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/russia-fsb-us-moscow-terror-threat-1f4cff",
-      "reference": [
-        "澎湃新闻",
-        "法广",
-        "德国之声",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -3746,24 +3773,6 @@
       "occurredAt": "",
       "publishedAt": "2026-11-01",
       "url": "https://kaopu.news/story/2026-11-01/thepaper-reports-harbin-professor-li-jide-dies-8f8b01",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "experts-explain-flu-strains-vaccine-guidance-d7e658",
-      "title": "专家解读流感毒株变化及疫苗接种建议",
-      "description": "国家流感中心及医学专家介绍了中国当前流感毒株流行情况、重症预警信号和2026—2027年度疫苗接种建议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T00:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/experts-explain-flu-strains-vaccine-guidance-d7e658",
       "reference": [
         "澎湃新闻"
       ],
@@ -4606,24 +4615,6 @@
         "澎湃新闻"
       ],
       "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-universities-adjust-art-programs-ai-coexistence-3fca81",
-      "title": "中国高校调整艺术专业学生探讨如何与AI共存",
-      "description": "中国多所高校近年调整或停止招收艺术设计类专业，中央美术学院学生也在讨论人工智能对艺术工作的影响，以及如何将AI纳入专业学习。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-28T06:56:56+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/china-universities-adjust-art-programs-ai-coexistence-3fca81",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "culture",
       "sourceCount": 1,
       "sources": []
     },
