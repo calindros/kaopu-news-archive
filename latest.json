@@ -1,11 +1,105 @@
 {
   "details": {
     "date": "2026-11-02",
-    "timestamp": 1793640066,
+    "timestamp": 1793655881,
     "totalPages": 1,
     "total": 261
   },
   "stories": [
+    {
+      "id": "nikkei-leapmotor-lafa5-teardown-integration-1e44e8",
+      "title": "日经拆解零跑Lafa 5解析垂直整合模式",
+      "description": "日经拆解了零跑全球战略车型B05的中国版Lafa 5，考察车辆配置及企业自研自产模式。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T21:02:35+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/nikkei-leapmotor-lafa5-teardown-integration-1e44e8",
+      "reference": [
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nuclear-reactor-construction-hits-post-chernobyl-high-7ad2cb",
+      "title": "全球在建核电机组升至79个达40年来最高水平",
+      "description": "世界核协会统计显示，全球在建核电机组达到79个，数据截至2026年10月16日，处于1986年以来的最高水平；1986年在建数量为91个。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T21:02:35+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/nuclear-reactor-construction-hits-post-chernobyl-high-7ad2cb",
+      "reference": [
+        "中央通訊社",
+        "日经"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-midterm-election-congress-control-164251",
+      "title": "美国中期选举将决定国会控制权归属",
+      "description": "美国将于11月3日举行中期选举，选民将改选众议院全部435席、参议院100席中的35席，并在多个州选出州长。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T21:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
+      "reference": [
+        "世界日报",
+        "英国广播公司",
+        "联合早报",
+        "端传媒"
+      ],
+      "section": "us",
+      "sourceCount": 30,
+      "sources": []
+    },
+    {
+      "id": "airbnb-limits-host-checkout-cleaning-demands-9238c0",
+      "title": "Airbnb将限制房东要求房客承担退房清洁",
+      "description": "Airbnb将从11月20日起对全球预订实施新规，限制房东要求房客承担通常由清洁人员负责的退房工作。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T20:42:08+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/airbnb-limits-host-checkout-cleaning-demands-9238c0",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "bloomberg-settles-subscription-case-new-york-fine-0af72a",
+      "title": "彭博新闻因订阅问题和解并支付50万美元罚款",
+      "description": "彭博新闻11月2日与纽约州达成和解，同意支付50万美元罚款，并向符合条件的订户退款。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T19:52:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/bloomberg-settles-subscription-case-new-york-fine-0af72a",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
     {
       "id": "iran-says-three-tankers-hit-mines-strait-hormuz-b3c7b7",
       "title": "国际海事组织仍不建议船舶通过霍尔木兹海峡",
@@ -102,6 +196,27 @@
       "sources": []
     },
     {
+      "id": "anthropic-files-ipo-nasdaq-listing-9704a2",
+      "title": "Anthropic修订上市文件披露巨额算力承诺",
+      "description": "Anthropic于11月2日向美国证券交易委员会提交修订后的上市申报文件，披露第三季度业绩及算力支出承诺。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T17:32:03+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/anthropic-files-ipo-nasdaq-listing-9704a2",
+      "reference": [
+        "中央通訊社",
+        "第一财经",
+        "澎湃新闻",
+        "财新"
+      ],
+      "section": "ai",
+      "sourceCount": 31,
+      "sources": []
+    },
+    {
       "id": "uk-extends-permanent-residency-wait-ten-years-c7377c",
       "title": "英国将多数合法移民永居年限延至十年",
       "description": "英国政府当地时间11月2日公布移民制度改革方案，多数合法移民申请永久居留的标准居住年限将从5年增至10年，部分人等待时间更长。",
@@ -120,24 +235,24 @@
       "sources": []
     },
     {
-      "id": "us-midterm-election-congress-control-164251",
-      "title": "美国参议院控制权之争进入最后冲刺",
-      "description": "美国选民将于11月3日投票改选国会部分席位，参议院控制权之争进入最后阶段。",
+      "id": "vance-iran-letter-restart-talks-9fdb42",
+      "title": "美伊重启和谈预期推动国际油价大幅下跌",
+      "description": "美伊重启谈判的预期推动国际油价2日大幅下跌，欧洲主要股指收高。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-02T16:46:16+00:00",
+      "updatedAt": "2026-11-02T17:17:56+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/vance-iran-letter-restart-talks-9fdb42",
       "reference": [
-        "世界日报",
-        "英国广播公司",
         "联合早报",
-        "端传媒"
+        "韩民族日报",
+        "法广",
+        "财新"
       ],
       "section": "us",
-      "sourceCount": 29,
+      "sourceCount": 12,
       "sources": []
     },
     {
@@ -252,27 +367,6 @@
       ],
       "section": "business",
       "sourceCount": 29,
-      "sources": []
-    },
-    {
-      "id": "vance-iran-letter-restart-talks-9fdb42",
-      "title": "美伊重启谈判预期推动国际油价跌逾6%",
-      "description": "美伊重启旨在结束中东冲突的谈判的希望增强，国际油价11月2日跌幅扩大至6%以上；伊方目前没有与美方会谈的计划。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T15:32:22+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/vance-iran-letter-restart-talks-9fdb42",
-      "reference": [
-        "联合早报",
-        "韩民族日报",
-        "法广",
-        "财新"
-      ],
-      "section": "us",
-      "sourceCount": 11,
       "sources": []
     },
     {
@@ -1611,24 +1705,6 @@
       "sources": []
     },
     {
-      "id": "nuclear-reactor-construction-hits-post-chernobyl-high-7ad2cb",
-      "title": "全球在建核反应堆数量创切尔诺贝利核事故后新高",
-      "description": "世界核能协会最新报告称，全球在建核反应堆数量已达到切尔诺贝利核事故以来的最高水平。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T10:18:07+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/nuclear-reactor-construction-hits-post-chernobyl-high-7ad2cb",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "zheng-changsheng-admits-all-charges-dd8a6f",
       "title": "郑昌圣庭审承认中国女留学生遇害案全部指控",
       "description": "31岁嫌犯郑昌圣在中国女留学生遇害案庭审中承认检方提出的全部指控。",
@@ -2042,24 +2118,6 @@
       "sources": []
     },
     {
-      "id": "huafa-shares-report-nine-month-loss-5339f3",
-      "title": "华发股份前三季度归母净亏损64.37亿元",
-      "description": "华发股份今年前九个月归母净亏损64.37亿元，控股股东华发集团同期归母净亏损约69亿元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T08:14:44.470920+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/huafa-shares-report-nine-month-loss-5339f3",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "taiwan-proposes-ai-facility-tax-exemption-700142",
       "title": "台湾财政部拟将AI算力设施所得纳入重大公建免税范围",
       "description": "台湾财政部10月预告修订民间机构参与重大公共建设适用免纳营利事业所得税办法的草案，拟把AI算力设施的运营所得和劳务所得纳入免税项目。",
@@ -2132,27 +2190,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "anthropic-files-ipo-nasdaq-listing-9704a2",
-      "title": "Anthropic拟向日本募资最高5529亿日元",
-      "description": "Anthropic计划在美国首次公开募股期间向日本投资者发行金额最高达5529亿日元的股份。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T07:44:29+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/anthropic-files-ipo-nasdaq-listing-9704a2",
-      "reference": [
-        "中央通訊社",
-        "第一财经",
-        "澎湃新闻",
-        "财新"
-      ],
-      "section": "ai",
-      "sourceCount": 29,
       "sources": []
     },
     {
@@ -3776,27 +3813,6 @@
       "sources": []
     },
     {
-      "id": "eu-charges-two-euros-per-product-type-87e4f2",
-      "title": "欧盟对来自欧盟以外的直寄包裹收取处理费",
-      "description": "欧盟自11月1日起对从欧盟以外地区直接寄给消费者的包裹征收处理费，每个包裹内每一种商品类别收取2欧元，不论包裹价值多少。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T05:02:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/eu-charges-two-euros-per-product-type-87e4f2",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "法广",
-        "财新"
-      ],
-      "section": "life",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
       "id": "ai-memory-costs-phone-price-hikes-2028-a3ec00",
       "title": "AI需求推高手机成本业者预计涨价压力延至2028年",
       "description": "AI基础设施建设带动内存需求增加、价格走高，多家手机品牌今年已调整售价。",
@@ -3811,24 +3827,6 @@
         "中央通訊社"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "singapore-police-standardize-outgoing-caller-id-ddaedc",
-      "title": "新加坡警方将统一对外来电号码便于公众识别",
-      "description": "新加坡警察部队将从11月2日起统一使用“6000 0999”拨打对外电话。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T02:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/singapore-police-standardize-outgoing-caller-id-ddaedc",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
