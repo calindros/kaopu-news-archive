@@ -1,27 +1,238 @@
 {
   "details": {
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "timestamp": 1793575196,
     "totalPages": 1,
-    "total": 269
+    "total": 268
   },
   "stories": [
     {
-      "id": "learjet-60-crashes-crest-haven-florida-d3b737",
-      "title": "载有9人的里尔60型公务机在佛州居民区坠毁",
-      "description": "一架载有9人的里尔60型公务机于11月1日当地时间12时50分左右，坠毁在佛罗里达州克雷斯特黑文附近居民区。",
+      "id": "intel-weak-q4-outlook-shares-drop-63ff61",
+      "title": "英特尔四季度指引不及预期股价暴跌近三成",
+      "description": "英特尔公布第三季度财报后，给出的第四季度业绩预期低于市场估算，股价在10月30日暴跌近三成，创上世纪70年代以来最大单日跌幅。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-01T21:38:00+00:00",
+      "updatedAt": "2026-11-02T00:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/intel-weak-q4-outlook-shares-drop-63ff61",
+      "reference": [
+        "澎湃新闻",
+        "日经",
+        "第一财经",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "learjet-60-crashes-crest-haven-florida-d3b737",
+      "title": "佛州Learjet 60坠毁机上9人全部遇难",
+      "description": "一架载有9人的Learjet 60型喷射机11月1日中午在美国佛罗里达州棕榈滩县克雷斯特黑文附近坠毁，机上人员全部遇难。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T00:16:41+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-01",
       "url": "https://kaopu.news/story/2026-11-01/learjet-60-crashes-crest-haven-florida-d3b737",
       "reference": [
+        "澎湃新闻",
+        "世界日报",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "ai-glasses-indicator-blocking-still-record-30bf40",
+      "title": "澎湃实测多款AI眼镜遮灯后仍能拍摄",
+      "description": "澎湃新闻记者近日测试华为、小米、千问、乐奇、雷鸟、影目、魅族等多款AI眼镜发现，遮光贴完全盖住拍摄指示灯后，多数眼镜仍可拍摄，且未提示灯光被遮挡；只有少数机型无法继续拍摄。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T00:03:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/ai-glasses-indicator-blocking-still-record-30bf40",
+      "reference": [
         "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "lu-qi-beijing-people-art-theatre-dies-322a78",
+      "title": "北京人艺表演艺术家吕齐因病逝世，享年101岁",
+      "description": "北京人民艺术剧院著名表演艺术家、离休干部吕齐因病于2026年11月1日在北京去世，享年101岁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T23:52:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/lu-qi-beijing-people-art-theatre-dies-322a78",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ukraine-halts-drone-strikes-russian-refineries-014811",
+      "title": "乌克兰军方据报暂停袭击俄罗斯炼油厂",
+      "description": "乌克兰军方已暂停对俄罗斯境内炼油厂的无人机袭击；联合早报援引《华尔街日报》称，多名知情人士透露，这项非正式暂停至少持续到美国中期选举之后。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T23:46:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/ukraine-halts-drone-strikes-russian-refineries-014811",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-veto-bills-democrats-win-congress-3e8f0e",
+      "title": "特朗普称民主党若赢得国会多数将反复否决法案",
+      "description": "美国总统特朗普说，如果民主党在周二举行的期中选举中赢得国会多数，他会否决民主党送交的法案，直至对方回到谈判桌并达成协议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T23:43:05+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/trump-veto-bills-democrats-win-congress-3e8f0e",
+      "reference": [
+        "世界日报"
       ],
       "section": "us",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "los-angeles-immigrants-medi-cal-fee-for-service-388de6",
+      "title": "洛杉矶部分移民白卡2027年改按服务付费",
+      "description": "洛杉矶县邻里法律服务中心法律助理Mona Lao在一场记者会上表示，2027年起，部分移民白卡（Medi-Cal）持有人的就医支付方式、续保要求、工作条件和资格审查安排将调整。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T23:37:40+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/los-angeles-immigrants-medi-cal-fee-for-service-388de6",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ai-reshapes-chinese-students-major-choices-e5a80e",
+      "title": "国务院办公厅部署18项举措应对人工智能就业影响",
+      "description": "国务院办公厅近日印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》，从六个方面部署18项主要任务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T23:35:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/ai-reshapes-chinese-students-major-choices-e5a80e",
+      "reference": [
+        "中央通訊社",
+        "第一财经",
+        "财新"
+      ],
+      "section": "life",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "heritage-home-repair-approval-funding-741ee3",
+      "title": "低级别民居文物修缮面临审批资金难题",
+      "description": "低级别民居类文物在认定告知、修缮审批和资金支持方面遭遇障碍。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T23:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/heritage-home-repair-approval-funding-741ee3",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "state-local-elections-shape-data-centers-70335c",
+      "title": "反数据中心浪潮推动共和党候选人转向",
+      "description": "美国反对数据中心建设的声浪已成为2026年中期选举议题，促使部分共和党候选人放慢或重新审视支持立场。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T23:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/state-local-elections-shape-data-centers-70335c",
+      "reference": [
+        "世界日报",
+        "第一财经",
+        "端传媒"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "us-midterm-election-congress-control-164251",
+      "title": "美国中期选举将举行民主党被看好夺回众议院",
+      "description": "美国国会中期选举定于11月3日举行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T22:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
+      "reference": [
+        "世界日报",
+        "英国广播公司",
+        "联合早报",
+        "端传媒"
+      ],
+      "section": "us",
+      "sourceCount": 20,
+      "sources": []
+    },
+    {
+      "id": "cooper-briefs-trump-iran-military-options-a2e6bf",
+      "title": "Axios称特朗普与内塔尼亚胡通话讨论伊朗行动",
+      "description": "联合早报援引Axios报道，美国总统特朗普与以色列总理内塔尼亚胡10月31日通电话，讨论美伊谈判进展以及是否恢复对伊军事行动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T22:51:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/cooper-briefs-trump-iran-military-options-a2e6bf",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 4,
       "sources": []
     },
     {
@@ -521,26 +732,6 @@
       ],
       "section": "ai",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-midterm-election-congress-control-164251",
-      "title": "美国中期选举将决定特朗普后两年执政格局",
-      "description": "美国选民将于11月3日投票改选国会议员及多州公职人员，众议院435席全部改选，参议院100席中有35席改选。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T13:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
-      "reference": [
-        "世界日报",
-        "英国广播公司",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 19,
       "sources": []
     },
     {
@@ -2388,63 +2579,6 @@
       "sources": []
     },
     {
-      "id": "bangladesh-dengue-october-deaths-record-710bdd",
-      "title": "孟加拉骨痛热症10月死亡人数创年内新高",
-      "description": "孟加拉骨痛热症疫情仍在蔓延。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T14:57:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/bangladesh-dengue-october-deaths-record-710bdd",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "merz-says-conflict-cost-europe-100-billion-euros-240c35",
-      "title": "默茨称美以伊冲突致欧洲损失超千亿欧元",
-      "description": "德国总理默茨说，德国正利用多个渠道推进外交协调，目标是尽早结束美国、以色列与伊朗之间的冲突。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T14:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/merz-says-conflict-cost-europe-100-billion-euros-240c35",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "eu-drops-canada-associate-member-label-dc0c09",
-      "title": "加拿大与欧盟宣布深化战略伙伴关系",
-      "description": "加拿大与欧盟在蒙特利尔举行的第21届峰会于10月30日闭幕，双方宣布深化战略伙伴关系，并公布多项经贸与安全合作安排。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T14:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/eu-drops-canada-associate-member-label-dc0c09",
-      "reference": [
-        "加拿大国际广播电台",
-        "联合早报",
-        "公视",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 8,
-      "sources": []
-    },
-    {
       "id": "china-diesel-stations-limit-sales-102c2b",
       "title": "网传中国多地加油站柴油限量或停售",
       "description": "网传中国多地加油站柴油供应趋紧，部分站点限量销售甚至停售。",
@@ -3045,24 +3179,6 @@
       "sources": []
     },
     {
-      "id": "supreme-court-rejects-appeal-immigration-limits-fbca70",
-      "title": "美国最高法院驳回上诉让特朗普政府继续限缩移民结案",
-      "description": "美国最高法院10月27日驳回巴尔的摩、哥伦布、纽黑文三市及拉扎法律中心的上诉，特朗普政府因此得以继续限制拜登政府2024年以法规确立的移民案件“行政性结案”政策。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T06:14:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/supreme-court-rejects-appeal-immigration-limits-fbca70",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "every-grain-of-us-rice-dance-aa5331",
       "title": "许晴晴新作《米力》将于旧金山上演",
       "description": "许晴晴创作的舞作《Every Grain of Us 米力》将于2026年11月14日、15日在旧金山Geneva Car Barn Powerhouse演出。",
@@ -3527,44 +3643,6 @@
       "sources": []
     },
     {
-      "id": "japan-launches-departure-tax-refund-system-51d024",
-      "title": "日本11月1日起实施先付税后退新制",
-      "description": "日本将于2026年11月1日起实施消费税免税新制，访日游客购物时须先付含税价，离境前经海关核验符合条件后，才能获退消费税，结束门店即时免税模式。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T13:43:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/japan-launches-departure-tax-refund-system-51d024",
-      "reference": [
-        "公视",
-        "日经",
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "singapore-domestic-violence-report-rise-b1578e",
-      "title": "新加坡家暴报告显示去年中低风险个案增至4686起",
-      "description": "新加坡社会及家庭发展部10月29日公布2026年《家暴趋势报告》。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T13:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/singapore-domestic-violence-report-rise-b1578e",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "all-nippon-airways-customer-data-leak-20709d",
       "title": "全日空约3.78万名客户信息外泄",
       "description": "全日本空输公司10月30日称，旅客服务系统的受托服务方遭非法访问，约3.78万名客户信息泄露。",
@@ -3772,25 +3850,6 @@
       "sources": []
     },
     {
-      "id": "ai-reshapes-chinese-students-major-choices-e5a80e",
-      "title": "人工智能冲击初级岗位改变中国专业选择",
-      "description": "人工智能正在改变中国部分岗位的用工需求，也影响学生和高校对专业培养方向的选择。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T10:05:38.245189+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/ai-reshapes-chinese-students-major-choices-e5a80e",
-      "reference": [
-        "中央通訊社",
-        "第一财经"
-      ],
-      "section": "life",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "meta-plans-95-billion-equity-funding-a78fa8",
       "title": "英伟达斥资30亿美元认购Meta新股",
       "description": "英伟达宣布投资30亿美元，认购Meta新发行的股票。",
@@ -3903,25 +3962,6 @@
       ],
       "section": "ai",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "state-local-elections-shape-data-centers-70335c",
-      "title": "美国州地选举聚焦数据中心审批限制",
-      "description": "美国中期选举临近，数据中心建设引发的电价、水资源和社区利益争议，已进入多个州及地方竞选。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T06:08:36.229799+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/state-local-elections-shape-data-centers-70335c",
-      "reference": [
-        "世界日报",
-        "第一财经"
-      ],
-      "section": "world",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -4233,24 +4273,6 @@
       ],
       "section": "tech",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "parents-use-ai-manage-household-6e8dcd",
-      "title": "家长借助生成式人工智能管理家庭事务",
-      "description": "生成式人工智能正被越来越多家长用于家庭管理，涉及安排日程、寻找幼儿园、采购日用品和整理家庭账目。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T06:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/parents-use-ai-manage-household-6e8dcd",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -4803,43 +4825,6 @@
       "url": "https://kaopu.news/story/2026-10-27/people-daily-calls-ai-microdrama-rules-b4bbdd",
       "reference": [
         "澎湃新闻"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "terracotta-warriors-fingerprints-women-youth-production-55d5d7",
-      "title": "秦俑指纹研究显示女性和少年可能参与制作",
-      "description": "秦始皇帝陵博物院与山东大学考古学院合作开展的研究发现，秦兵马俑制作可能有女性和少年参与。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T15:02:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/terracotta-warriors-fingerprints-women-youth-production-55d5d7",
-      "reference": [
-        "中央通訊社",
-        "联合早报"
-      ],
-      "section": "culture",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "elvis-rights-owner-sues-anthropic-copyright-infringement-3ba65a",
-      "title": "猫王授权机构起诉Anthropic指其侵权274首歌曲",
-      "description": "猫王音乐与肖像权授权机构Authentic Brands Group已起诉人工智能公司Anthropic，指控其未经许可将猫王歌曲用于训练AI模型。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T07:28:05+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/elvis-rights-owner-sues-anthropic-copyright-infringement-3ba65a",
-      "reference": [
-        "中央通訊社"
       ],
       "section": "ai",
       "sourceCount": 1,
