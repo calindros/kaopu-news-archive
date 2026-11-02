@@ -2,7 +2,7 @@
   "details": {
     "date": "2026-11-01",
     "totalPages": 0,
-    "total": 95
+    "total": 96
   },
   "stories": [
     {
@@ -134,22 +134,6 @@
       "sources": []
     },
     {
-      "id": "vance-iran-letter-restart-talks-9fdb42",
-      "title": "万斯据报致信雷扎伊试探重启美伊谈判",
-      "description": "美国副总统万斯按总统特朗普的指示致信伊朗最高国家安全委员会秘书穆赫辛·雷扎伊，试探美伊恢复谈判的可能。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T20:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/vance-iran-letter-restart-talks-9fdb42",
-      "reference": [],
-      "section": "us",
-      "sourceCount": "",
-      "sources": []
-    },
-    {
       "id": "trump-wsj-defamation-lawsuit-dismissed-8f8801",
       "title": "特朗普诉《华尔街日报》诽谤案遭驳回",
       "description": "美国佛罗里达州南区联邦地区法院10月31日驳回美国总统特朗普针对《华尔街日报》相关报道提起的第二起诽谤诉讼，并禁止他修改诉状后在该院重提同一案件。",
@@ -208,6 +192,22 @@
       "occurredAt": "",
       "publishedAt": "2026-10-31",
       "url": "https://kaopu.news/story/2026-10-31/russia-fsb-us-moscow-terror-threat-1f4cff",
+      "reference": [],
+      "section": "world",
+      "sourceCount": "",
+      "sources": []
+    },
+    {
+      "id": "iran-envoys-doha-qatar-war-talks-8ddd25",
+      "title": "伊朗代表连续第三天与卡塔尔调解员会谈寻求停战",
+      "description": "路透社援引一名听取会谈简报的官员称，伊朗谈判代表11月1日仍在多哈与卡塔尔调解员会谈；双方已连续第三天磋商，目标是推动达成结束美国和以色列对伊朗战争的协议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T15:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/iran-envoys-doha-qatar-war-talks-8ddd25",
       "reference": [],
       "section": "world",
       "sourceCount": "",
@@ -898,6 +898,22 @@
       "url": "https://kaopu.news/story/2026-10-27/japan-coordinates-takaichi-apec-shenzhen-attendance-a85566",
       "reference": [],
       "section": "asia",
+      "sourceCount": "",
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "《华尔街日报》称黄乐涉向北京提供情报",
+      "description": "《华尔街日报》援引知情人士称，美国官员认定，新加坡数据中心企业Megaspeed前高管黄乐（Alice Huang）在该公司与英伟达合作建设亚洲数据中心期间，曾向中国政府提供信息。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-01T06:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [],
+      "section": "china",
       "sourceCount": "",
       "sources": []
     },
