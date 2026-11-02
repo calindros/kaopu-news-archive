@@ -1,40 +1,19 @@
 {
   "details": {
     "date": "2026-11-02",
-    "timestamp": 1793614637,
+    "timestamp": 1793619260,
     "totalPages": 1,
-    "total": 262
+    "total": 264
   },
   "stories": [
     {
-      "id": "reported-pboc-regulators-convene-financial-institutions-b9d805",
-      "title": "中国央行定于11月3日开展第三次互换便利操作",
-      "description": "中国人民银行11月2日公布招标安排，定于11月3日开展第三次证券、基金、保险公司互换便利（SFISF）操作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T09:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/reported-pboc-regulators-convene-financial-institutions-b9d805",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 15,
-      "sources": []
-    },
-    {
       "id": "haley-stevens-endorses-mike-rogers-86a958",
-      "title": "密歇根州民主党众议员转挺共和党参议员候选人",
-      "description": "密歇根州民主党联邦众议员海莉·史蒂文斯11月1日在底特律参加教会礼拜后，与共和党联邦参议员候选人迈克·罗杰斯一同露面，并宣布支持罗杰斯，而不是本党候选人阿卜杜勒·埃尔-赛义德。",
+      "title": "史蒂文斯选前转而支持共和党候选人罗杰斯",
+      "description": "美国密歇根州民主党联邦众议员海莉·史蒂文斯11月1日宣布支持共和党联邦参议员候选人迈克·罗杰斯，并表示将在投票时选他，而不是民主党候选人阿卜杜勒·埃尔-赛义德。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-02T09:08:00+00:00",
+      "updatedAt": "2026-11-02T10:14:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-01",
       "url": "https://kaopu.news/story/2026-11-01/haley-stevens-endorses-mike-rogers-86a958",
@@ -45,7 +24,314 @@
         "联合早报"
       ],
       "section": "us",
-      "sourceCount": 9,
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "reported-pboc-regulators-convene-financial-institutions-b9d805",
+      "title": "央行将开展第三次互换便利操作申报需求超千亿元",
+      "description": "中国人民银行将于11月3日开展第三次证券、基金、保险公司互换便利（SFISF）操作，申报需求已超过1000亿元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T10:07:35.725454+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/reported-pboc-regulators-convene-financial-institutions-b9d805",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 16,
+      "sources": []
+    },
+    {
+      "id": "unsw-ai-election-manipulation-study-9c59ba",
+      "title": "新南威尔士大学办AI模拟选举研究舆论操纵",
+      "description": "澳大利亚新南威尔士大学举办模拟选举，让学生利用人工智能机器人在虚拟社交平台上影响由人工智能模拟的选民，研究网络舆论操纵及其识别和防范方法。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T10:03:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/unsw-ai-election-manipulation-study-9c59ba",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "lagarde-leaves-ecb-presidency-early-413dc9",
+      "title": "拉加德宣布提前卸任欧洲央行行长职务",
+      "description": "欧洲央行10月29日宣布，现年70岁的行长克里斯蒂娜·拉加德将于2027年2月7日离任。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T10:00:48.189202+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/lagarde-leaves-ecb-presidency-early-413dc9",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "财新"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "johor-singapore-zone-secures-rm88-billion-investment-1e2dc4",
+      "title": "柔新经济特区获批投资888亿令吉近半已落实",
+      "description": "新加坡与马来西亚11月2日举行首届柔新合作部长级委员会会议，由新加坡国家发展部长徐芳达和马来西亚经济部长阿克马纳斯鲁拉共同主持，柔佛州务大臣翁哈菲兹及新加坡国家发展部兼交通部高级政务部长孙雪玲出席。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T10:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/johor-singapore-zone-secures-rm88-billion-investment-1e2dc4",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "pboc-names-overnight-reverse-repo-policy-rate-b50b97",
+      "title": "中国央行首日开展5410亿元隔夜逆回购操作",
+      "description": "中国人民银行11月2日启动短端利率调控机制调整，并以固定利率、数量招标方式开展5410亿元隔夜逆回购，操作利率为1.25%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T09:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/pboc-names-overnight-reverse-repo-policy-rate-b50b97",
+      "reference": [
+        "财新",
+        "第一财经",
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "french-students-resume-campus-blockades-285283",
+      "title": "法国学生重启校园封锁抗议称改革难解学位短缺",
+      "description": "法国高中生结束秋季假期返校后重新封锁校园，学生阵营认为政府改革方案无法解决高等教育学位短缺。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T09:51:47+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/french-students-resume-campus-blockades-285283",
+      "reference": [
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ukraine-air-raid-app-hacked-false-alerts-16a0ce",
+      "title": "乌克兰空袭预警应用疑遭攻击推送虚假警报",
+      "description": "乌克兰空军11月1日晚表示，空袭预警应用很可能遭到网络攻击。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T09:42:14+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/ukraine-air-raid-app-hacked-false-alerts-16a0ce",
+      "reference": [
+        "法广",
+        "澎湃新闻",
+        "日本放送协会"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "germany-gen-z-protests-clashes-water-cannons-6d0c91",
+      "title": "德国青年抗议夜间演变为多地暴力骚乱",
+      "description": "德国青年团体“Gen Z regelt”发起的抗议活动在30多个城市举行，白天大多平和，夜间法兰克福等地发生暴力事件。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T09:42:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/germany-gen-z-protests-clashes-water-cannons-6d0c91",
+      "reference": [
+        "法广",
+        "联合早报",
+        "公视",
+        "德国之声"
+      ],
+      "section": "world",
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "binance-freezes-three-billion-hack-assets-ebaf47",
+      "title": "FBI认定朝鲜黑客组织盗取币安63亿美元",
+      "description": "美国联邦调查局认定，朝鲜关联黑客组织TraderTraitor参与了币安10月29日遭受的网络攻击，约63亿美元加密资产被盗。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T09:42:06+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/binance-freezes-three-billion-hack-assets-ebaf47",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "韩国国际广播电台",
+        "英国广播公司"
+      ],
+      "section": "business",
+      "sourceCount": 30,
+      "sources": []
+    },
+    {
+      "id": "singapore-probes-changi-airport-firms-178868",
+      "title": "新加坡人力部调查约45家樟宜机场公司疑涉违规用工",
+      "description": "新加坡人力部表示，正调查约45家参与樟宜机场运营的公司，怀疑它们虚报外籍员工薪金或职位，或违规安排员工工作；当局已发现约270名外籍员工的工作安排可能不符合证件要求。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T09:36:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/singapore-probes-changi-airport-firms-178868",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "guangzhou-court-hackers-hospital-data-damages-c1d8eb",
+      "title": "两名黑客窃取肿瘤医院数据被判赔150万元",
+      "description": "广州互联网法院一审判令王某某、林某某承担150万元公益损害赔偿，并公开赔礼道歉。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T09:19:33.587377+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/guangzhou-court-hackers-hospital-data-damages-c1d8eb",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "okinawa-marine-arrested-drunk-driving-69a6f2",
+      "title": "驻冲绳美军士兵宵禁期间酒驾被捕",
+      "description": "驻冲绳美国海军陆战队汉森军营一名21岁下士Kalvin Montoya Cardona，因涉嫌酒后驾驶于10月31日凌晨被冲绳县警方逮捕。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T09:13:52+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-31",
+      "url": "https://kaopu.news/story/2026-10-31/okinawa-marine-arrested-drunk-driving-69a6f2",
+      "reference": [
+        "共同网",
+        "法广",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "chinese-delegation-member-detained-sweden-5365e3",
+      "title": "中国公务团组成员在瑞典拍摄敏感设施后被警方拘押",
+      "description": "中国驻瑞典大使馆表示，近日有中国公务团组成员在瑞典参访时不慎拍摄当地敏感设施及人员，之后被瑞典警方拘押，团组后续行程受到较大影响。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T09:12:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/chinese-delegation-member-detained-sweden-5365e3",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "malacca-candidates-sign-teoh-beng-hock-appeal-0aef4c",
+      "title": "同心党16名马六甲州选候选人签署赵明福案诉求",
+      "description": "同心党马六甲州选的16名候选人已签署赵明福民主促进会发起的诉求，要求重新调查赵明福案，并安排国际刑事调查专家参与。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T09:06:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/malacca-candidates-sign-teoh-beng-hock-appeal-0aef4c",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-envoy-visits-iran-oman-saudi-deescalation-da5be1",
+      "title": "中国将派特使及代表访中东非洲推动局势降温",
+      "description": "中国将派特使和特别代表赴中东、非洲多国斡旋。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T08:53:21+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/china-envoy-visits-iran-oman-saudi-deescalation-da5be1",
+      "reference": [
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "singapore-police-warn-whatsapp-malware-scam-889139",
+      "title": "新加坡警方提醒公众警惕WhatsApp恶意软件骗局",
+      "description": "新加坡警察部队11月2日提醒公众，诈骗者会盗用朋友、同事或上司的WhatsApp账号，发送伪装成正规文件的工作附件，诱使收件人打开。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T08:46:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/singapore-police-warn-whatsapp-malware-scam-889139",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -108,6 +394,78 @@
       "sources": []
     },
     {
+      "id": "ai-dating-scam-gang-defrauds-victims-c5e164",
+      "title": "杨某甲团伙利用AI网恋诈骗15人180余万元",
+      "description": "上海闵行警方查明，杨某甲诈骗团伙用AI处理的照片和预设聊天流程伪装网恋对象，骗取全国15名被害人180余万元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T08:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/ai-dating-scam-gang-defrauds-victims-c5e164",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "table-tennis-fake-streams-push-products-b1bbdc",
+      "title": "短视频主播伪造乒乓赛况引流带货",
+      "description": "短视频平台上一些乒乓球直播间虚构比赛进程吸引观众，并在直播中推销商品。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T08:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/table-tennis-fake-streams-push-products-b1bbdc",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "sports",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "openai-uae-agreements-ai-deployment-c1c59a",
+      "title": "OpenAI与阿联酋机构签约拓展人工智能应用",
+      "description": "OpenAI与阿联酋多家能源、投资和政府机构签署合作协议，将人工智能技术用于相关业务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T08:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/openai-uae-agreements-ai-deployment-c1c59a",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "north-korea-state-led-cybercrime-foreign-currency-f2a981",
+      "title": "日本专家指朝鲜国家主导网络犯罪攫取外汇",
+      "description": "日本网络安全专家指出，朝鲜网络犯罪的一项主要特征是由国家主导获取外汇。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-02T08:19:35+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/north-korea-state-led-cybercrime-foreign-currency-f2a981",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "antonelli-becomes-youngest-f1-champion-b42c3f",
       "title": "安东内利提前四站加冕F1最年轻世界冠军",
       "description": "安东内利在墨西哥大奖赛以第三名完赛，提前四站锁定2026年F1车手世界冠军，成为赛事史上最年轻的年度冠军。",
@@ -124,27 +482,6 @@
       ],
       "section": "sports",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "binance-freezes-three-billion-hack-assets-ebaf47",
-      "title": "FBI认定朝鲜关联组织涉币安63亿美元盗窃案",
-      "description": "美国联邦调查局10月31日认定，朝鲜关联黑客组织TraderTraitor参与币安约63亿美元加密资产失窃案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T08:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/binance-freezes-three-billion-hack-assets-ebaf47",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "韩国国际广播电台",
-        "英国广播公司"
-      ],
-      "section": "business",
-      "sourceCount": 29,
       "sources": []
     },
     {
@@ -235,24 +572,6 @@
         "世界日报"
       ],
       "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-envoy-visits-iran-oman-saudi-deescalation-da5be1",
-      "title": "中国将派中东特使赴三国推动局势降温",
-      "description": "中国外交部发言人毛宁11月2日在例行记者会上说，中国政府中东问题特使计划于11月上中旬赴伊朗、阿曼和沙特开展穿梭访问，推动谈判、缓和地区局势。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T07:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/china-envoy-visits-iran-oman-saudi-deescalation-da5be1",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
@@ -517,26 +836,6 @@
       "sources": []
     },
     {
-      "id": "okinawa-marine-arrested-drunk-driving-69a6f2",
-      "title": "冲绳一名美军士兵宵禁期间酒驾被捕",
-      "description": "一名驻冲绳美国海军陆战队员涉嫌在宵禁期间酒后驾驶，10月31日凌晨在冲绳市被警方逮捕。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T07:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/okinawa-marine-arrested-drunk-driving-69a6f2",
-      "reference": [
-        "共同网",
-        "法广",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "intel-weak-q4-outlook-shares-drop-63ff61",
       "title": "台湾股市收跌291.69点失守45000点",
       "description": "台湾股市11月2日收跌291.69点，报44920.14点，失守45000点关口；当日成交值约新台币7588.75亿元。",
@@ -649,27 +948,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "germany-gen-z-protests-clashes-water-cannons-6d0c91",
-      "title": "德国34座城市青年抗议夜间演变为暴力骚乱",
-      "description": "德国青年组织“Gen Z regelt”发起的抗议于10月31日在全国34座城市举行，组织方估计约12万人参加，低于原先约18万人的预期。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T06:34:02+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/germany-gen-z-protests-clashes-water-cannons-6d0c91",
-      "reference": [
-        "法广",
-        "联合早报",
-        "公视",
-        "德国之声"
-      ],
-      "section": "world",
-      "sourceCount": 9,
       "sources": []
     },
     {
@@ -1670,27 +1948,6 @@
       "sources": []
     },
     {
-      "id": "pboc-names-overnight-reverse-repo-policy-rate-b50b97",
-      "title": "中国央行以隔夜逆回购接替七天期政策利率",
-      "description": "中国人民银行11月2日首次开展常态化隔夜逆回购操作，以固定利率、数量招标方式操作5410亿元，利率为1.25%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T03:49:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/pboc-names-overnight-reverse-repo-policy-rate-b50b97",
-      "reference": [
-        "财新",
-        "第一财经",
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "china-procuratorate-publishes-privacy-cases-46369f",
       "title": "中国最高检发布八件公民个人信息保护典型案例",
       "description": "中国最高人民检察院11月2日公布8件公民个人信息保护典型案例，内容涵盖刑事追责、追查犯罪链条和推动社会治理。",
@@ -1706,25 +1963,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "ukraine-air-raid-app-hacked-false-alerts-16a0ce",
-      "title": "乌克兰空袭警报应用遭黑客攻击并推送虚假预警",
-      "description": "当地时间11月1日晚，乌克兰空袭警报应用遭黑客攻击，多地用户收到辐射风险、化学品安全威胁等错误提示，之后又收到警报解除通知。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T03:32:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/ukraine-air-raid-app-hacked-false-alerts-16a0ce",
-      "reference": [
-        "法广",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -2311,24 +2549,6 @@
       ],
       "section": "asia",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "reserve-bank-australia-rate-hike-decision-1d05ad",
-      "title": "多数经济学家预计澳储行可能加息",
-      "description": "澳大利亚储备银行货币政策委员会将于2026年11月2日开始为期两天的会议，并定于11月3日下午公布利率决定。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T01:25:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/reserve-bank-australia-rate-hike-decision-1d05ad",
-      "reference": [
-        "SBS"
-      ],
-      "section": "business",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3024,101 +3244,6 @@
       "sources": []
     },
     {
-      "id": "ahmad-zahid-urges-public-avoid-flood-risk-areas-a10506",
-      "title": "槟州消防局加强巡查53处水灾高风险地点",
-      "description": "槟州消防局正加强对州内53处水灾高风险地点的巡查和监测，并提升人员及救援后勤准备，以应对东北季风期间的水灾风险。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T11:56:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/ahmad-zahid-urges-public-avoid-flood-risk-areas-a10506",
-      "reference": [
-        "当今大马",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "taiwan-board-urges-power-bank-reporting-9e0663",
-      "title": "运安会建议强制通报交通场域移动电源事故",
-      "description": "台湾运安会建议主管机关将移动电源冒烟或起火列入强制通报范围，以掌握风险并加强管理。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T11:34:15+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/taiwan-board-urges-power-bank-reporting-9e0663",
-      "reference": [
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "dr-congo-ebola-deaths-exceed-5000-dd610a",
-      "title": "民主刚果伊波拉疫情已致逾五千人死亡",
-      "description": "民主刚果及非洲中东部其他国家的伊波拉疫情仍在发展，病例主要集中在民主刚果。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T11:23:51+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/dr-congo-ebola-deaths-exceed-5000-dd610a",
-      "reference": [
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "taiwan-transport-ministry-seeks-student-drivers-b546ef",
-      "title": "台湾交通部拟争取开放侨外生担任客货运驾驶",
-      "description": "台湾交通部计划向劳动部争取开放侨生及外籍学生担任客运、货运驾驶员和随车助理。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T11:19:24+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/taiwan-transport-ministry-seeks-student-drivers-b546ef",
-      "reference": [
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "witkoff-norway-peace-proposal-talks-6bf424",
-      "title": "乌沙科夫主张俄美乌初期谈判采用三方模式",
-      "description": "俄罗斯、乌克兰和美国仍在筹备新一轮三方会谈，具体日期尚未确定。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T11:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
-      "reference": [
-        "法广",
-        "澎湃新闻",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 50,
-      "sources": []
-    },
-    {
       "id": "parmelin-leads-swiss-delegation-china-trade-talks-3f308a",
       "title": "中瑞签署自贸升级议定书零关税覆盖逾99%贸易额",
       "description": "中国与瑞士10月30日在北京签署自由贸易协定升级议定书。",
@@ -3225,25 +3350,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "yao-wen-arrives-malaysia-ambassador-c202db",
-      "title": "姚文抵马履新出任中国驻马来西亚大使",
-      "description": "姚文10月31日抵达吉隆坡国际机场，开始履任中国驻马来西亚第17任特命全权大使，接替欧阳玉靖。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T07:37:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/yao-wen-arrives-malaysia-ambassador-c202db",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3648,42 +3754,6 @@
       ],
       "section": "life",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "china-schools-schedule-autumn-breaks-9c42e5",
-      "title": "多地中小学将于11月陆续放秋假",
-      "description": "山东、湖南、河北、山西等地已公布中小学2026年秋假安排，相关假期将从11月2日起陆续开始。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T09:10:37.715821+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/china-schools-schedule-autumn-breaks-9c42e5",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "singapore-immigration-vape-seizures-ea940f",
-      "title": "新加坡移民与关卡局四天查获50起电子烟案",
-      "description": "新加坡移民与关卡局在10月26日至29日于各关卡开展检查，发现50起旅客持有电子烟案件，起获电子烟超过5476支及相关配件。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T08:13:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/singapore-immigration-vape-seizures-ea940f",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -4155,24 +4225,6 @@
       "sources": []
     },
     {
-      "id": "sternberg-anthropic-ipo-taiwan-security-535f8c",
-      "title": "史坦伯格称Anthropic上市有利台湾安全",
-      "description": "人工智能公司Anthropic本周公布首次公开募股（IPO）招股说明书，并计划下月上市。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T04:33:58+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/sternberg-anthropic-ipo-taiwan-security-535f8c",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-platforms-remove-wukong-daiyu-romance-videos-0f171b",
       "title": "中国多家平台下架孙悟空与林黛玉情侣视频",
       "description": "中国多家网络平台10月表示，已下架数千条将孙悟空与林黛玉塑造成情侣的视频。",
@@ -4188,25 +4240,6 @@
       ],
       "section": "ai",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "former-amazon-engineer-dies-parents-sue-openai-c94e08",
-      "title": "万博雯父母诉OpenAI指ChatGPT减药致死",
-      "description": "万博雯的父母10月27日在加利福尼亚州提起不当致死诉讼，将OpenAI及其首席执行官萨姆·奥特曼列为被告，指控ChatGPT向患癫痫的女儿提供危险、不准确的减药建议，并鼓励她不向医生透露减药安排。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T03:30:38.741157+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/former-amazon-engineer-dies-parents-sue-openai-c94e08",
-      "reference": [
-        "世界日报",
-        "第一财经"
-      ],
-      "section": "life",
-      "sourceCount": 3,
       "sources": []
     },
     {
