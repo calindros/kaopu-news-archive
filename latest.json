@@ -7,6 +7,104 @@
   },
   "stories": [
     {
+      "id": "reserve-bank-australia-rate-hike-decision-1d05ad",
+      "title": "澳大利亚央行加息至4.85%创18年新高",
+      "description": "澳大利亚储备银行11月3日宣布，将现金利率上调25个基点至4.85%，达到18年来最高水平；这是该行2026年的第五次加息。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-03T21:21:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/reserve-bank-australia-rate-hike-decision-1d05ad",
+      "reference": [
+        "SBS",
+        "中央通訊社",
+        "联合早报",
+        "法广"
+      ],
+      "section": "business",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "title": "中美俄据报磋商深圳三方领导人会晤",
+      "description": "据《金融时报》援引知情人士报道，中美俄官员正认真磋商，拟在11月18日至19日于深圳举行的亚太经合组织（APEC）领导人非正式会议期间，安排中国国家主席习近平、美国总统唐纳德·特朗普和俄罗斯总统弗拉基米尔·普京会晤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-03T21:12:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "日经"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "reuters-ipsos-poll-costs-top-voter-concern-e809c6",
+      "title": "美国选民将生活成本列为投票首要议题",
+      "description": "美国2026年期中选举投票日的民调与年轻选民访谈显示，生活成本是选民决定投票对象时最常提及的议题；年轻人的投票意愿和党派倾向则不尽相同。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-03T21:05:18+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/reuters-ipsos-poll-costs-top-voter-concern-e809c6",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "美媒称美情报机构认定黄乐向北京传递信息",
+      "description": "美国情报机构据《纽约时报》报道，认定新加坡数据中心公司Megaspeed前高管黄乐（Alice Huang）是向北京传递信息的情报人员。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-03T21:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 21,
+      "sources": []
+    },
+    {
+      "id": "new-york-medicaid-transport-fraud-charges-d71e7c",
+      "title": "纽约州指控三家接送公司涉嫌骗取白卡逾470万美元",
+      "description": "纽约州主计长办公室指控三家医疗接送公司通过虚报白卡交通服务，申领金额超过470万美元；三名有亲属关系的负责人已被起诉，并在斯克内克塔迪市法院出庭应讯。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-03T20:32:54+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/new-york-medicaid-transport-fraud-charges-d71e7c",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "us-labor-department-suspends-perm-applications-bc0613",
       "title": "美国劳工部暂停微软等八家企业PERM申请",
       "description": "美国劳工部10月宣布，因调查相关企业的用工及移民申请情况，暂停微软、Adobe等8家企业的新PERM申请，并暂缓审理已经提交的案件。",
@@ -114,24 +212,6 @@
         "联合早报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "reuters-ipsos-poll-costs-top-voter-concern-e809c6",
-      "title": "路透益普索民调显示生活成本居选民首要关切",
-      "description": "路透与益普索11月3日公布的民调显示，生活成本是美国期中选举登记选民最主要的投票考量。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T16:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/reuters-ipsos-poll-costs-top-voter-concern-e809c6",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -1790,27 +1870,6 @@
       "sources": []
     },
     {
-      "id": "reserve-bank-australia-rate-hike-decision-1d05ad",
-      "title": "澳大利亚储备银行加息至4.85%创18年新高",
-      "description": "澳大利亚储备银行周二将现金利率上调25个基点至4.85%，达到18年来最高水平。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T10:04:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/reserve-bank-australia-rate-hike-decision-1d05ad",
-      "reference": [
-        "SBS",
-        "中央通訊社",
-        "联合早报",
-        "法广"
-      ],
-      "section": "business",
-      "sourceCount": 9,
-      "sources": []
-    },
-    {
       "id": "icc-president-tomoko-akane-addresses-un-assembly-4037c5",
       "title": "赤根智子在联大批评美国制裁妨碍司法",
       "description": "国际刑事法院院长赤根智子11月2日在纽约联合国大会作年度报告。",
@@ -1996,25 +2055,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "title": "中美俄据报磋商在深圳举行三方领导人会晤",
-      "description": "中美俄官员据报正磋商，拟在深圳亚太经合组织（APEC）峰会期间安排习近平、特朗普和普京举行首次三方领导人会晤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T08:54:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "reference": [
-        "韩国国际广播电台",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2783,24 +2823,6 @@
         "世界日报"
       ],
       "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "faruqui-dismisses-fbi-supervisors-perjury-charges-6b81db",
-      "title": "法鲁基撤销两名前FBI主管的伪证控告",
-      "description": "美国联邦治安法官齐亚·法鲁基11月2日撤销了司法部对两名前联邦调查局（FBI）主管提出的伪证控告，认为检方证据不足，并批评提告时机带有政治目的。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/faruqui-dismisses-fbi-supervisors-perjury-charges-6b81db",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -3585,27 +3607,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "新加坡否认调查超速国际前高管黄乐涉华关系",
-      "description": "《华尔街日报》10月30日报道称，美国官员怀疑新加坡数据中心企业Megaspeed International（超速国际）前高管黄乐（Alice Huang）曾向中国传递信息，并关注她与英伟达首席执行官黄仁勋的往来及受限制AI芯片的流向。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T14:32:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 20,
       "sources": []
     },
     {
