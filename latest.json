@@ -3,17 +3,36 @@
     "date": "2026-11-03",
     "timestamp": 1793705966,
     "totalPages": 1,
-    "total": 263
+    "total": 264
   },
   "stories": [
     {
-      "id": "reported-pboc-regulators-convene-financial-institutions-b9d805",
-      "title": "央行完成第三次互换便利操作规模达1000亿元",
-      "description": "中国人民银行完成第三次证券、基金、保险公司互换便利（SFISF）操作，金额为1000亿元。",
+      "id": "lula-reelection-soybean-price-outlook-beb745",
+      "title": "卢拉击败博索纳罗赢得第四个总统任期",
+      "description": "巴西总统卢拉在10月25日举行的总统选举中击败右翼对手弗拉维奥·博索纳罗，赢得第四个总统任期。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-03T10:11:00+00:00",
+      "updatedAt": "2026-11-03T11:18:36.927535+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/lula-reelection-soybean-price-outlook-beb745",
+      "reference": [
+        "日经",
+        "第一财经"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "reported-pboc-regulators-convene-financial-institutions-b9d805",
+      "title": "央行完成第三批互换便利操作，金额达1000亿元",
+      "description": "中国人民银行完成第三批证券、基金、保险公司互换便利（SFISF）操作，金额为1000亿元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-03T11:18:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-01",
       "url": "https://kaopu.news/story/2026-11-01/reported-pboc-regulators-convene-financial-institutions-b9d805",
@@ -24,7 +43,239 @@
         "中央通訊社"
       ],
       "section": "business",
-      "sourceCount": 41,
+      "sourceCount": 45,
+      "sources": []
+    },
+    {
+      "id": "trump-veto-bills-democrats-win-congress-3e8f0e",
+      "title": "特朗普称共和党若失国会将否决民主党法案",
+      "description": "美国中期选举于11月3日投票之际，特朗普表示，若共和党失去国会控制权，他将否决民主党提出的法案。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-03T11:12:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/trump-veto-bills-democrats-win-congress-3e8f0e",
+      "reference": [
+        "世界日报",
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "singapore-probes-changi-airport-firms-178868",
+      "title": "新加坡调查樟宜机场约45家承包商涉工作证件违规",
+      "description": "新加坡人力部正在调查樟宜机场约45家承包商及分包商，涉及约270名外籍员工的工作安排是否符合工作证件规定。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-03T11:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/singapore-probes-changi-airport-firms-178868",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-midterm-election-congress-control-164251",
+      "title": "美国中期选举启动投票争夺国会控制权",
+      "description": "美国2026年中期选举于11月3日开始投票。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-03T11:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
+      "reference": [
+        "世界日报",
+        "英国广播公司",
+        "联合早报",
+        "端传媒"
+      ],
+      "section": "us",
+      "sourceCount": 51,
+      "sources": []
+    },
+    {
+      "id": "haley-stevens-endorses-mike-rogers-86a958",
+      "title": "史蒂文斯转挺罗杰斯遭民主党谴责",
+      "description": "密歇根州民主党籍联邦众议员海莉·史蒂文斯在中期选举投票前转而支持共和党参议员候选人迈克·罗杰斯，遭到民主党内部强烈批评。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-03T10:58:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/haley-stevens-endorses-mike-rogers-86a958",
+      "reference": [
+        "澎湃新闻",
+        "世界日报",
+        "法广",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
+      "id": "south-korea-hold-sado-labor-memorial-97c676",
+      "title": "韩国政府将于佐渡市单独举行劳工追悼仪式",
+      "description": "韩国政府计划于11月13日上午在日本新潟县佐渡市举办悼念佐渡金山劳工的仪式。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-03T10:46:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/south-korea-hold-sado-labor-memorial-97c676",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-stocks-fall-near-44000-be6aa0",
+      "title": "台股重挫1612点创史上第七大跌点",
+      "description": "台湾股市3日开低震荡走低，收盘下跌1612.60点至43307.54点，跌幅3.59%，创史上第七大跌点，并跌破44000点；盘中最低43191.58点，成交额新台币9280.58亿元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-03T10:32:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/taiwan-stocks-fall-near-44000-be6aa0",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "pag-plans-evergrande-property-control-acquisition-c9964d",
+      "title": "太盟拟以40.26亿港元收购恒大物业控股权",
+      "description": "太盟投资集团旗下公司拟收购恒大物业控股权，计划以约40.26亿港元买入中国恒大及CEG Holdings持有的约51.016%股份。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-03T10:30:33.211649+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/pag-plans-evergrande-property-control-acquisition-c9964d",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "singapore-us-asean-develop-defense-framework-7e9beb",
+      "title": "新加坡将与美国及东盟制定互利防务合作框架",
+      "description": "新加坡国防部表示，新加坡将在2027年担任东盟国防部长会议主席国期间，与美国及其他东盟成员国共同制定互利的防务合作框架，协力处理共同挑战和关切。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-03T10:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/singapore-us-asean-develop-defense-framework-7e9beb",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "witkoff-norway-peace-proposal-talks-6bf424",
+      "title": "俄美乌将于11月10日至11日在阿布扎比举行谈判",
+      "description": "俄罗斯、乌克兰和美国定于11月10日至11日在阿联酋阿布扎比举行三方工作层级谈判，商议推动俄乌和平的安排。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-03T10:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
+      "reference": [
+        "法广",
+        "澎湃新闻",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 56,
+      "sources": []
+    },
+    {
+      "id": "bushby-returns-hull-after-28-year-trek-8e4864",
+      "title": "英国探险家布希比结束近28年环球徒步回到赫尔",
+      "description": "57岁的英国探险家卡尔·布希比11月2日回到英格兰东北部家乡赫尔，结束始于1998年的环球徒步。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-03T10:24:27+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/bushby-returns-hull-after-28-year-trek-8e4864",
+      "reference": [
+        "法广",
+        "公视"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "schaeffler-europe-cuts-3460-jobs-a53745",
+      "title": "舍弗勒宣布在欧洲裁减3460个职位",
+      "description": "舍弗勒集团计划在欧洲削减3460个职位，并关闭5处据点，裁员将于2028年前完成，约占其全球近11万名员工的3%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-03T10:04:05+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/schaeffler-europe-cuts-3460-jobs-a53745",
+      "reference": [
+        "中央通訊社",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "reserve-bank-australia-rate-hike-decision-1d05ad",
+      "title": "澳大利亚储备银行加息至4.85%创18年新高",
+      "description": "澳大利亚储备银行周二将现金利率上调25个基点至4.85%，达到18年来最高水平。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-03T10:04:04+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/reserve-bank-australia-rate-hike-decision-1d05ad",
+      "reference": [
+        "SBS",
+        "中央通訊社",
+        "联合早报",
+        "法广"
+      ],
+      "section": "business",
+      "sourceCount": 9,
       "sources": []
     },
     {
@@ -47,45 +298,22 @@
       "sources": []
     },
     {
-      "id": "witkoff-norway-peace-proposal-talks-6bf424",
-      "title": "俄美乌定于阿布扎比举行三方和平会谈",
-      "description": "俄罗斯、乌克兰和美国定于2026年11月10日至11日在阿联酋首都阿布扎比举行三方会谈，讨论推动结束俄乌战争及相关安排。",
+      "id": "icc-president-tomoko-akane-addresses-un-assembly-4037c5",
+      "title": "赤根智子在联大批评美国制裁妨碍司法",
+      "description": "国际刑事法院院长赤根智子11月2日在纽约联合国大会作年度报告。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-03T09:49:00+00:00",
+      "updatedAt": "2026-11-03T09:47:24+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/icc-president-tomoko-akane-addresses-un-assembly-4037c5",
       "reference": [
-        "法广",
-        "澎湃新闻",
-        "联合早报",
-        "公视"
+        "共同网",
+        "日本放送协会"
       ],
       "section": "world",
-      "sourceCount": 55,
-      "sources": []
-    },
-    {
-      "id": "us-midterm-election-congress-control-164251",
-      "title": "美国中期选举将于今日投票决定国会控制权",
-      "description": "美国2026年中期选举将于美国东部时间11月3日上午6时起在各地陆续开始。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T09:45:06+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
-      "reference": [
-        "世界日报",
-        "英国广播公司",
-        "联合早报",
-        "端传媒"
-      ],
-      "section": "us",
-      "sourceCount": 50,
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -109,6 +337,24 @@
       "sources": []
     },
     {
+      "id": "taiwan-dollar-falls-near-32-7-75dc22",
+      "title": "外资汇出令新台币收盘创逾一年半新低",
+      "description": "台湾股市3日大幅下跌，新台币随之走弱。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-03T09:39:27+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/taiwan-dollar-falls-near-32-7-75dc22",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
       "id": "china-state-council-finance-report-review-7bba89",
       "title": "国务院金融工作报告提请全国人大常委会审议",
       "description": "中国国务院关于金融工作情况的报告于11月3日提交第十四届全国人大常委会第二十五次会议审议。",
@@ -124,26 +370,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "reserve-bank-australia-rate-hike-decision-1d05ad",
-      "title": "澳大利亚央行加息至4.85%创18年新高",
-      "description": "澳大利亚储备银行11月3日将现金利率上调25个基点至4.85%，这是该行2026年第五次加息，利率升至18年来最高水平。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T09:37:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/reserve-bank-australia-rate-hike-decision-1d05ad",
-      "reference": [
-        "SBS",
-        "中央通訊社",
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -163,6 +389,24 @@
       ],
       "section": "asia",
       "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "sinopac-bank-unauthorized-transfers-419-customers-5d9372",
+      "title": "永丰银行账户遭盗转逾4000万元涉及419名客户",
+      "description": "台湾永丰银行11月3日发生多笔客户账户未经授权转账。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-03T09:34:23+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/sinopac-bank-unauthorized-transfers-419-customers-5d9372",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -647,24 +891,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-stocks-fall-near-44000-be6aa0",
-      "title": "台股重挫1612点创史上第七大收盘跌点",
-      "description": "台湾股市收盘下跌1612.60点，报43307.54点，跌幅3.59%，失守44000点，收盘跌点位列历史第七。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T07:17:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/taiwan-stocks-fall-near-44000-be6aa0",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 9,
-      "sources": []
-    },
-    {
       "id": "trump-says-protect-musk-spacex-5d27a2",
       "title": "特朗普称民主党调查马斯克时将设法保护他",
       "description": "美国总统唐纳德·特朗普在11月2日播出的播客采访中表示，如果民主党采取逮捕马斯克、扣押其工厂或将SpaceX国有化等行动，他将设法保护马斯克及其企业。",
@@ -1020,27 +1246,6 @@
       "sources": []
     },
     {
-      "id": "haley-stevens-endorses-mike-rogers-86a958",
-      "title": "史蒂文斯转而支持罗杰斯引发民主党强烈反弹",
-      "description": "11月1日，密歇根州民主党联邦众议员海莉·史蒂文斯在底特律一场教会活动中与共和党参议员候选人迈克·罗杰斯共同现身，随后宣布支持罗杰斯。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T06:23:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/haley-stevens-endorses-mike-rogers-86a958",
-      "reference": [
-        "澎湃新闻",
-        "世界日报",
-        "法广",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 14,
-      "sources": []
-    },
-    {
       "id": "hong-kong-customs-seizes-taiwan-books-d05985",
       "title": "候鸟称逾60本台湾订购书籍遭香港海关检取",
       "description": "香港支援在囚人士与家属组织“候鸟”称，香港海关检取了该组织从台湾订购的一批书籍，数量超过60本。",
@@ -1300,24 +1505,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "icc-president-tomoko-akane-addresses-un-assembly-4037c5",
-      "title": "国际刑事法院院长赤根智子以视频向联大作年度报告",
-      "description": "国际刑事法院院长赤根智子11月2日通过预先录制的视频向联合国大会作年度报告，谴责美国制裁妨碍司法进程，并表示法院将以法律和证据为依据，独立、公正地继续履职。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T06:04:56+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/icc-president-tomoko-akane-addresses-un-assembly-4037c5",
-      "reference": [
-        "共同网"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1898,26 +2085,6 @@
       "sources": []
     },
     {
-      "id": "trump-veto-bills-democrats-win-congress-3e8f0e",
-      "title": "特朗普称民主党若掌控国会将逐项否决法案",
-      "description": "美国总统唐纳德·特朗普在中期选举前播出的采访预告中表示，若民主党控制国会，他将反复否决民主党提交的法案，并称自己届时可能成为“否决先生”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T04:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/trump-veto-bills-democrats-win-congress-3e8f0e",
-      "reference": [
-        "世界日报",
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "anwar-malaysia-meetings-security-threats-782e4e",
       "title": "安华警告马来西亚面临安全与经济风险",
       "description": "马来西亚首相安华11月3日在国会下议院警告，全球地缘政治紧张和网络攻击可能危及马来西亚安全、经济稳定及国家利益。",
@@ -2028,24 +2195,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "taiwan-dollar-falls-near-32-7-75dc22",
-      "title": "台股重挫后新台币盘中贬至32.746元",
-      "description": "新台币兑美元11月3日盘中触及32.746元，较前一交易日收盘水平贬值超过1.5角。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T03:37:53+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/taiwan-dollar-falls-near-32-7-75dc22",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -2237,24 +2386,6 @@
       "sources": []
     },
     {
-      "id": "lula-reelection-soybean-price-outlook-beb745",
-      "title": "卢拉连任后雷亚尔走弱加重大豆跌价预期",
-      "description": "卢拉在10月25日举行的巴西总统选举中连任。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T02:31:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/lula-reelection-soybean-price-outlook-beb745",
-      "reference": [
-        "日经"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "lijian-2-launches-qianfan-satellites-67ac69",
       "title": "力箭二号遥二火箭成功送十八颗卫星入轨",
       "description": "中科宇航力箭二号遥二运载火箭于11月3日8时15分在东风商业航天创新试验区点火升空，将千帆极轨21组18颗卫星送入预定轨道，飞行试验任务取得成功。",
@@ -2288,24 +2419,6 @@
         "日经"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "disney-plans-thousands-job-cuts-2b2ce0",
-      "title": "彭博援引知情人士称迪士尼拟裁减数千个职位",
-      "description": "联合早报援引彭博社报道，匿名知情人士称，迪士尼正准备裁减数千个职位，并要求部分主管以每年削减20%成本为目标。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T02:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/disney-plans-thousands-job-cuts-2b2ce0",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -2791,24 +2904,6 @@
       "sources": []
     },
     {
-      "id": "us-excludes-south-africa-rwanda-agoa-84713f",
-      "title": "美国将南非和卢旺达排除出非洲免税贸易计划",
-      "description": "美国将从2027年1月1日起把南非和卢旺达排除在《非洲成长暨机会法》的免关税贸易优惠之外。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T21:01:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/us-excludes-south-africa-rwanda-agoa-84713f",
-      "reference": [
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "bloomberg-settles-subscription-case-new-york-fine-0af72a",
       "title": "彭博新闻因订阅问题和解并支付50万美元罚款",
       "description": "彭博新闻11月2日与纽约州达成和解，同意支付50万美元罚款，并向符合条件的订户退款。",
@@ -2994,24 +3089,6 @@
         "第一财经"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "bushby-returns-hull-after-28-year-trek-8e4864",
-      "title": "徒步近28年后布希比返抵赫尔家乡",
-      "description": "英国徒步冒险家布希比11月1日越过赫尔附近的亨柏桥，准备走完进入市中心的最后一段路程，历时近28年、行程约5万公里的徒步旅程接近尾声。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T14:02:05+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/bushby-returns-hull-after-28-year-trek-8e4864",
-      "reference": [
-        "法广"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -3239,25 +3316,6 @@
       "sources": []
     },
     {
-      "id": "japan-defense-budget-increase-plan-776ed9",
-      "title": "日本据报拟增五年防卫预算至70万亿至80万亿日元",
-      "description": "据路透社报道，两名知情人士称，日本政府与执政联盟正讨论将2027年4月起的五年防卫建设预算提高至70万亿至80万亿日元，约为现行约43万亿日元计划的1.8倍。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T12:36:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/japan-defense-budget-increase-plan-776ed9",
-      "reference": [
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "researchers-ai-find-p2pshell-vulnerability-20b581",
       "title": "CNN称研究人员借助AI发现P2PShell漏洞",
       "description": "据美国有线电视新闻网（CNN）报道，研究人员近期借助人工智能发现名为“P2PShell”的网络安全漏洞。",
@@ -3290,24 +3348,6 @@
         "第一财经"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-meti-plans-chubu-electric-order-fc3bab",
-      "title": "日本经产省拟向中部电力下达业务整改令",
-      "description": "日本经济产业相赤泽亮正10月30日表示，政府已启动程序，拟依据《电气事业法》向中部电力下达业务整改令，缘由包括滨冈核电站抗震设计数据违规。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T11:33:43+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/japan-meti-plans-chubu-electric-order-fc3bab",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -3454,24 +3494,6 @@
         "联合早报"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "singapore-probes-changi-airport-firms-178868",
-      "title": "新加坡人力部调查约45家樟宜机场公司疑涉违规用工",
-      "description": "新加坡人力部表示，正调查约45家参与樟宜机场运营的公司，怀疑它们虚报外籍员工薪金或职位，或违规安排员工工作；当局已发现约270名外籍员工的工作安排可能不符合证件要求。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T09:36:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/singapore-probes-changi-airport-firms-178868",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
