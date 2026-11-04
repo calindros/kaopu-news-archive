@@ -1,11 +1,165 @@
 {
   "details": {
     "date": "2026-11-04",
-    "timestamp": 1793827572,
+    "timestamp": 1793834403,
     "totalPages": 1,
     "total": 268
   },
   "stories": [
+    {
+      "id": "reserve-bank-australia-rate-hike-decision-1d05ad",
+      "title": "澳大利亚央行加息至4.85%创18年新高",
+      "description": "澳大利亚储备银行（RBA）11月3日决定将现金利率上调25个基点至4.85%，达到2008年以来最高水平，也是2026年第五次加息。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T22:11:06+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/reserve-bank-australia-rate-hike-decision-1d05ad",
+      "reference": [
+        "SBS",
+        "中央通訊社",
+        "联合早报",
+        "法广"
+      ],
+      "section": "business",
+      "sourceCount": 13,
+      "sources": []
+    },
+    {
+      "id": "democrats-control-congress-immigration-policy-962c2e",
+      "title": "民主党掌控国会移民审查短期难松绑",
+      "description": "民主党在美国期中选举中取得国会控制权，但移民申请审查未必会因此加快。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T22:02:14+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/democrats-control-congress-immigration-policy-962c2e",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-voters-decide-state-ballot-measures-aeb588",
+      "title": "加州40号财富税提案反对票领先通过机会渺茫",
+      "description": "加州选民在11月3日举行的州级公投中表决多项提案。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T21:56:19+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/us-voters-decide-state-ballot-measures-aeb588",
+      "reference": [
+        "世界日报",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "california-election-wiener-ma-kim-lead-bbfa70",
+      "title": "贝西拉击败共和党对手当选加州州长",
+      "description": "贝西拉已击败共和党候选人希尔顿，当选加州州长。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T21:55:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/california-election-wiener-ma-kim-lead-bbfa70",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "witkoff-norway-peace-proposal-talks-6bf424",
+      "title": "俄乌美将于阿布扎比举行三方工作层谈判",
+      "description": "俄罗斯、乌克兰和美国计划于11月10日至11日在阿联酋首都阿布扎比举行工作层级三方磋商，议题包括安全安排、局势降级、人道主义行动及推动和平的后续步骤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T21:45:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
+      "reference": [
+        "法广",
+        "澎湃新闻",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 62,
+      "sources": []
+    },
+    {
+      "id": "us-midterm-election-congress-control-164251",
+      "title": "美国民主党在中期选举中夺回国会两院",
+      "description": "美国民主党在11月3日举行的中期选举中夺回国会参众两院控制权，并在多个州的选举中取得进展。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T21:34:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
+      "reference": [
+        "世界日报",
+        "英国广播公司",
+        "联合早报",
+        "端传媒"
+      ],
+      "section": "us",
+      "sourceCount": 183,
+      "sources": []
+    },
+    {
+      "id": "oil-prices-plunge-eight-percent-d38422",
+      "title": "国际油价大幅下跌两大原油期货合约跌逾8%",
+      "description": "国际油价4日收盘显著走低。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T21:32:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/oil-prices-plunge-eight-percent-d38422",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "democrats-win-california-texas-house-seats-381a3c",
+      "title": "民主党在加州德州选举中拿下多项众院席位",
+      "description": "民主党在2026年美国期中选举的选区重划之争中，于加州和德州赢得多项众议院席位。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T21:07:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/democrats-win-california-texas-house-seats-381a3c",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "china-consulate-warns-honolulu-entry-69b532",
       "title": "中国驻洛杉矶总领馆提醒慎选檀香山机场入境",
@@ -103,24 +257,6 @@
       "sources": []
     },
     {
-      "id": "california-election-wiener-ma-kim-lead-bbfa70",
-      "title": "马世云以63.8%得票率当选加州副州长",
-      "description": "加州选举开票后，马世云当选副州长；在联邦众议院加州第11选区，威善高领先陈诗敏；州保险厅长选举中，金贞妍领先艾伦。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T19:36:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/california-election-wiener-ma-kim-lead-bbfa70",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "trump-says-us-proposes-canada-trade-deal-669874",
       "title": "加拿大称美国中期选举不改对美贸易策略",
       "description": "美国民主党在11月3日中期选举中赢得众议院和参议院控制权后，加拿大贸易部长多米尼克·勒布朗于11月4日在渥太华表示，选举结果不会改变加拿大未来两个月的工作重点。",
@@ -156,27 +292,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-midterm-election-congress-control-164251",
-      "title": "美国民主党夺回国会参众两院控制权",
-      "description": "美国民主党在11月3日举行的中期选举中夺回国会参众两院控制权。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T18:28:22+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
-      "reference": [
-        "世界日报",
-        "英国广播公司",
-        "联合早报",
-        "端传媒"
-      ],
-      "section": "us",
-      "sourceCount": 182,
       "sources": []
     },
     {
@@ -479,27 +594,6 @@
       ],
       "section": "asia",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "witkoff-norway-peace-proposal-talks-6bf424",
-      "title": "美俄乌定于阿布扎比举行三方和平谈判",
-      "description": "俄罗斯、美国和乌克兰定于11月10日至11日在阿联酋首都阿布扎比举行三方会谈，讨论安全保障及推动俄乌和平的安排。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T14:54:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
-      "reference": [
-        "法广",
-        "澎湃新闻",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 61,
       "sources": []
     },
     {
@@ -2188,27 +2282,6 @@
       "sources": []
     },
     {
-      "id": "pboc-cuts-stock-buyback-loan-rate-80a44d",
-      "title": "央行下调股票回购增持再贷款利率至1%",
-      "description": "中国人民银行自11月4日起将股票回购增持再贷款利率下调0.25个百分点至1%，为该工具推出以来最低。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T07:28:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/pboc-cuts-stock-buyback-loan-rate-80a44d",
-      "reference": [
-        "澎湃新闻",
-        "财新",
-        "联合早报",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "china-parliament-review-criminal-procedure-amendment-886e0c",
       "title": "刑诉法修正草案提请审议拟明文禁止有罪推定",
       "description": "刑事诉讼法修正草案于11月2日提请十四届全国人大常委会第二十五次会议初次审议。",
@@ -2226,24 +2299,6 @@
       ],
       "section": "china",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "taiwan-mobile-systex-tender-offer-conditions-met-e3da8b",
-      "title": "台湾大哥大收购精诚两项条件均已达成",
-      "description": "台湾大哥大11月4日表示，旗下台信电讯收购精诚资讯的最低数量要求已经达到，台湾公平交易委员会也已决定不禁止此次结合，收购案设定的两项条件均已满足。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T07:14:53+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/taiwan-mobile-systex-tender-offer-conditions-met-e3da8b",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2618,25 +2673,6 @@
       "sources": []
     },
     {
-      "id": "us-voters-decide-state-ballot-measures-aeb588",
-      "title": "加州选民表决是否对亿万富豪征收5%财富税",
-      "description": "加利福尼亚州选民11月3日就第40号公投提案投票，表决是否对净资产超过10亿美元的州居民一次性征收5%的财富税。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T04:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/us-voters-decide-state-ballot-measures-aeb588",
-      "reference": [
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "singapore-q2-nonresident-employment-rises-ba8245",
       "title": "新加坡第二季非居民就业增加9200人",
       "description": "新加坡人力部代部长刘洁敏11月4日说，今年第二季非居民就业人数增加9200人，居民就业人数增加2200人。",
@@ -2870,42 +2906,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "us-midterm-ballot-counting-delays-close-races-cfc497",
-      "title": "美国期中选举开票差异令部分选战数日难分胜负",
-      "description": "美国期中选举开票进度不一，部分关键选战可能数日后才能确定胜负。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T01:31:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/us-midterm-ballot-counting-delays-close-races-cfc497",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "robin-martin-charged-election-white-powder-letters-4904d8",
-      "title": "奥克拉荷马男子因选前寄白色粉末威胁信遭起诉",
-      "description": "美国联邦当局起诉奥克拉荷马市男子罗宾·马丁，指控他在2024年和2026年选举前寄出数百封含白色粉末、附有威胁内容的信件。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T01:31:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/robin-martin-charged-election-white-powder-letters-4904d8",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
