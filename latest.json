@@ -1,11 +1,449 @@
 {
   "details": {
     "date": "2026-11-04",
-    "timestamp": 1793763360,
+    "timestamp": 1793769401,
     "totalPages": 1,
-    "total": 272
+    "total": 271
   },
   "stories": [
+    {
+      "id": "us-midterm-election-congress-control-164251",
+      "title": "美国媒体预测民主党将重掌国会两院",
+      "description": "美国11月3日举行的中期选举仍在计票，多家媒体预测民主党将从共和党手中夺回众议院和参议院控制权，重新掌握国会。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T04:41:20+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
+      "reference": [
+        "世界日报",
+        "英国广播公司",
+        "联合早报",
+        "端传媒"
+      ],
+      "section": "us",
+      "sourceCount": 98,
+      "sources": []
+    },
+    {
+      "id": "greenland-parliament-approves-us-denmark-security-agreement-53c895",
+      "title": "格陵兰议会批准美丹格三方安全协议",
+      "description": "格陵兰自治议会当地时间11月3日表决通过美国、丹麦和格陵兰三方安全协议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T04:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/greenland-parliament-approves-us-denmark-security-agreement-53c895",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "ddhq-predicts-hamilton-kansas-senate-win-167b66",
+      "title": "决策台总部预测汉密尔顿赢得堪萨斯参议席",
+      "description": "美国选举预测机构决策台总部（DDHQ）于11月3日预测，民主党候选人亚当·汉密尔顿将击败共和党籍现任联邦参议员罗杰·马歇尔，赢得堪萨斯州联邦参议院席位。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T04:16:23+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/ddhq-predicts-hamilton-kansas-senate-win-167b66",
+      "reference": [
+        "澎湃新闻",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "state-local-elections-shape-data-centers-70335c",
+      "title": "Decision Desk HQ推估艾克顿赢得俄州州长选举",
+      "description": "选举分析机构Decision Desk HQ推估，民主党籍艾克顿将击败共和党候选人拉马斯瓦米，赢得俄亥俄州州长选举。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T04:14:01+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/state-local-elections-shape-data-centers-70335c",
+      "reference": [
+        "世界日报",
+        "第一财经",
+        "端传媒"
+      ],
+      "section": "world",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "changxin-chairman-proposes-buyback-cap-increase-ad1259",
+      "title": "长鑫科技董事长提议将回购上限提高至50亿元",
+      "description": "长鑫科技董事长朱一明11月4日提议，将股份回购金额区间从10亿至20亿元上调至25亿至50亿元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T04:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/changxin-chairman-proposes-buyback-cap-increase-ad1259",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "fox-says-talarico-threatens-texas-senate-seat-49043a",
+      "title": "决策台总部预测塔拉里科赢得得州参议员席位",
+      "description": "美国选举数据分析机构决策台总部11月3日晚预测，民主党候选人詹姆斯·塔拉里科将击败共和党候选人肯·帕克斯顿，赢得得克萨斯州联邦参议员席位。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T04:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/fox-says-talarico-threatens-texas-senate-seat-49043a",
+      "reference": [
+        "世界日报",
+        "公视",
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "apple-ios-beta-enables-china-intelligence-53afe9",
+      "title": "苹果iOS 27.3测试版新增繁体中文Siri",
+      "description": "苹果于2026年11月4日释出iOS 27.3开发者测试版，为Siri AI新增繁体中文支持并开放测试。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T03:56:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/apple-ios-beta-enables-china-intelligence-53afe9",
+      "reference": [
+        "中央通訊社",
+        "澎湃新闻"
+      ],
+      "section": "tech",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "world-internet-conference-publishes-2026-reports-ca2023",
+      "title": "中国网络空间研究院报告警示人工智能加剧数字鸿沟",
+      "description": "中国网络空间研究院11月4日在2026年世界互联网大会乌镇峰会期间发布《中国互联网发展报告2026》和《世界互联网发展报告2026》。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T03:55:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/world-internet-conference-publishes-2026-reports-ca2023",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社"
+      ],
+      "section": "tech",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "iranian-clerics-officials-urge-nuclear-policy-shift-d5a8b2",
+      "title": "伊朗神职人员和官员呼吁改变不发展核武立场",
+      "description": "据《纽约时报》报道，伊朗神职人员和官员近日接连要求领导层改变长期不寻求核武器的政策。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T03:53:40+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/iranian-clerics-officials-urge-nuclear-policy-shift-d5a8b2",
+      "reference": [
+        "纽约时报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "chen-bin-platform-tax-reporting-exemption-c270c2",
+      "title": "陈斌称免税便民劳务人员收入无需平台报送",
+      "description": "厦门国家会计学院财政与税收研究所所长陈斌对第一财经表示，配送、运输、家政等便民劳务人员依法享受税收优惠或无需纳税时，平台不必向税务部门报送其收入信息。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T03:51:35.072417+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/chen-bin-platform-tax-reporting-exemption-c270c2",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "binance-freezes-three-billion-hack-assets-ebaf47",
+      "title": "币安披露假面试入侵致63亿美元加密资产被盗",
+      "description": "币安披露，针对员工的虚假招聘面试导致公司内部系统遭入侵，攻击者于10月29日转出约63.4亿美元加密资产。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T03:46:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/binance-freezes-three-billion-hack-assets-ebaf47",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "韩国国际广播电台",
+        "英国广播公司"
+      ],
+      "section": "business",
+      "sourceCount": 45,
+      "sources": []
+    },
+    {
+      "id": "mainland-skips-taiwan-apec-summit-invitation-436eb7",
+      "title": "深圳将于APEC期间对货车实施临时限行",
+      "description": "深圳市公安局11月3日发布通告，决定于11月16日至20日在全市部分区域及道路实施货车临时交通管理。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T03:45:23+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/mainland-skips-taiwan-apec-summit-invitation-436eb7",
+      "reference": [
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "heshun-court-sentences-two-rape-defendants-0ac62c",
+      "title": "澎湃报道性侵案两被告一审分别获刑10年和12年",
+      "description": "据澎湃新闻转述，扬子晚报/紫牛新闻记者从代理律师王文广处获悉，卜某遭性侵案于11月4日一审宣判。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T03:38:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/heshun-court-sentences-two-rape-defendants-0ac62c",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "fujian-legislature-appoints-guo-ningning-acting-governor-84cdbf",
+      "title": "福建省人大常委会任命郭宁宁为代理省长",
+      "description": "11月4日，福建省十四届人大常委会第二十五次会议作出人事决定，同意赵龙提出的辞任福建省人民政府省长申请；郭宁宁获任福建省人民政府副省长，并代理省长职务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T03:34:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/fujian-legislature-appoints-guo-ningning-acting-governor-84cdbf",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "singapore-hdb-launches-final-bto-sale-35e4f8",
+      "title": "建屋局推出今年最后一轮预购组屋销售活动",
+      "description": "新加坡建屋发展局11月4日公布今年最后一轮预购组屋销售安排，共推出7964个单位，分布在三巴旺、勿洛、登加、芽笼、大巴窑和义顺六个市镇的七个项目。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T03:34:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/singapore-hdb-launches-final-bto-sale-35e4f8",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tokyo-stocks-nikkei-breaks-below-62000-4d9860",
+      "title": "日经225指数盘中跌逾4%失守61000点",
+      "description": "东京股市节假日后开市，日经225指数盘中一度下跌逾2000点，跌幅超过4%，并跌破61000点。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T03:33:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/tokyo-stocks-nikkei-breaks-below-62000-4d9860",
+      "reference": [
+        "澎湃新闻",
+        "共同网"
+      ],
+      "section": "business",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "bottoms-wins-georgia-governor-election-111f2d",
+      "title": "博顿斯当选佐治亚州州长成美国首位非裔女性州长",
+      "description": "民主党候选人凯莎·兰斯·博顿斯击败共和党候选人里克·杰克逊，当选佐治亚州州长，成为美国历史上首位非裔女性州长。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T03:32:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/bottoms-wins-georgia-governor-election-111f2d",
+      "reference": [
+        "德国之声",
+        "世界日报",
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "iran-envoys-doha-qatar-war-talks-8ddd25",
+      "title": "伊朗提出满足条件后两天内重开霍尔木兹海峡",
+      "description": "美国与伊朗通过卡塔尔、巴基斯坦等调解方进行间接磋商。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T03:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/iran-envoys-doha-qatar-war-talks-8ddd25",
+      "reference": [
+        "联合早报",
+        "法广",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "hong-kong-ipo-failures-hit-post-2008-high-f57796",
+      "title": "香港IPO未完成交易比例升至金融危机以来新高",
+      "description": "香港IPO市场在连续两年融资活跃后转弱。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T03:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/hong-kong-ipo-failures-hit-post-2008-high-f57796",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "seazen-commercial-reit-contract-effective-0608db",
+      "title": "新城控股商业REIT合同生效募资15.53亿元",
+      "description": "11月3日，新城控股公告称，广发新城吾悦封闭式商业不动产证券投资基金进入合同生效状态。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T03:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/seazen-commercial-reit-contract-effective-0608db",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "los-angeles-chinese-asylum-family-green-card-delay-c12418",
+      "title": "洛杉矶华人一家申请庇护八年仍未获绿卡",
+      "description": "《世界日报》采访的洛杉矶华人王城（化名）一家，申请政治庇护八年后仍未拿到绿卡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T03:15:45+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/los-angeles-chinese-asylum-family-green-card-delay-c12418",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nexperia-sues-wingtech-over-2-billion-f6fdd8",
+      "title": "安世半导体起诉闻泰科技索赔20亿美元",
+      "description": "安世半导体已向荷兰阿姆斯特丹地方法院起诉闻泰科技、闻泰创办人张学政、安世中国和安世上海，索求20亿美元赔偿。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T03:00:23+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/nexperia-sues-wingtech-over-2-billion-f6fdd8",
+      "reference": [
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "taiwan-stocks-fall-near-44000-be6aa0",
+      "title": "台湾股市盘中跌逾700点失守43000点",
+      "description": "台湾股市4日开盘后先升至43741.54点，随后卖压增加，指数转跌并一度跌破43000点。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T02:58:21+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/taiwan-stocks-fall-near-44000-be6aa0",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "business",
+      "sourceCount": 13,
+      "sources": []
+    },
     {
       "id": "pboc-cuts-stock-buyback-loan-rate-80a44d",
       "title": "央行下调股票回购增持再贷款利率至1%",
@@ -21,25 +459,6 @@
         "澎湃新闻",
         "财新",
         "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "tokyo-stocks-nikkei-breaks-below-62000-4d9860",
-      "title": "日经指数节后交易中一度跌破61000点",
-      "description": "东京股市11月4日节后恢复交易，日经指数盘中跌幅一度超过2000点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T02:50:05+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/tokyo-stocks-nikkei-breaks-below-62000-4d9860",
-      "reference": [
-        "澎湃新闻",
-        "共同网"
       ],
       "section": "business",
       "sourceCount": 3,
@@ -134,24 +553,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "world-internet-conference-publishes-2026-reports-ca2023",
-      "title": "世界互联网大会发布两部互联网发展蓝皮书",
-      "description": "世界互联网大会乌镇峰会进入第三天之际，中国网络空间研究院编写的《中国互联网发展报告2026》和《世界互联网发展报告2026》于11月4日正式发布。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T02:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/world-internet-conference-publishes-2026-reports-ca2023",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -360,27 +761,6 @@
       "sources": []
     },
     {
-      "id": "binance-freezes-three-billion-hack-assets-ebaf47",
-      "title": "币安披露黑客借虚假招聘窃取63亿美元",
-      "description": "币安披露，黑客通过虚假招聘和恶意软件侵入内部系统，于10月29日窃取约63亿美元加密资产。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T02:02:51+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/binance-freezes-three-billion-hack-assets-ebaf47",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "韩国国际广播电台",
-        "英国广播公司"
-      ],
-      "section": "business",
-      "sourceCount": 44,
-      "sources": []
-    },
-    {
       "id": "pappas-defeats-sununu-holds-new-hampshire-senate-seat-013b55",
       "title": "巴帕斯击败苏努努为民主党守住新罕布什尔州参院席位",
       "description": "民主党籍美国联邦众议员巴帕斯（Chris Pappas）3日在新罕布什尔州联邦参议员选举中击败共和党前参议员苏努努（John Sununu），为民主党保住该州席位。",
@@ -457,27 +837,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "us-midterm-election-congress-control-164251",
-      "title": "CNN出口民调显示美国选民普遍不满特朗普执政",
-      "description": "美国于11月3日举行中期选举，改选众议院全部435席、参议院35席，并在36个州选出州长。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T01:47:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
-      "reference": [
-        "世界日报",
-        "英国广播公司",
-        "联合早报",
-        "端传媒"
-      ],
-      "section": "us",
-      "sourceCount": 76,
       "sources": []
     },
     {
@@ -649,25 +1008,6 @@
       "sources": []
     },
     {
-      "id": "apple-ios-beta-enables-china-intelligence-53afe9",
-      "title": "苹果推送iOS 27.3测试版开放国行苹果智能",
-      "description": "苹果于11月4日向开发者推送iOS 27.3测试版，开始向中国大陆版iPhone用户开放苹果智能测试。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T01:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/apple-ios-beta-enables-china-intelligence-53afe9",
-      "reference": [
-        "中央通訊社",
-        "澎湃新闻"
-      ],
-      "section": "tech",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "murata-invests-one-trillion-yen-mlcc-capacity-288acc",
       "title": "村田制作所五年投资一万亿日元扩大电容器产能",
       "description": "日本村田制作所10月30日宣布，未来五年将向积层陶瓷电容器（MLCC）生产投入1万亿日元，以提高供应能力，应对AI服务器需求增长及搭载AI终端普及趋势。",
@@ -737,26 +1077,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "state-local-elections-shape-data-centers-70335c",
-      "title": "美国州长选战成为华尔街判断AI投资前景的风向标",
-      "description": "美国中期选举中的州长和地方选举，正成为华尔街评估人工智能（AI）投资及数据中心扩建前景的重要参照，市场尤其关注得克萨斯州和俄亥俄州的州长竞选。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T00:51:52+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/state-local-elections-shape-data-centers-70335c",
-      "reference": [
-        "世界日报",
-        "第一财经",
-        "端传媒"
-      ],
-      "section": "world",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -1052,24 +1372,6 @@
       "sources": []
     },
     {
-      "id": "nexperia-sues-wingtech-over-2-billion-f6fdd8",
-      "title": "安世半导体起诉闻泰科技索赔逾20亿美元",
-      "description": "安世半导体向闻泰科技及相关主体提起诉讼，索赔超过20亿美元（约25.6亿新元）。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T23:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/nexperia-sues-wingtech-over-2-billion-f6fdd8",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "uk-extends-permanent-residency-wait-ten-years-c7377c",
       "title": "英国政府将多数移民永居年限延至十年",
       "description": "英国政府公布“贡献型永居”改革方案，将大多数移民申请永久居留的居住年限从五年延长至十年。",
@@ -1319,24 +1621,6 @@
       ],
       "section": "world",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "greenland-parliament-approves-us-denmark-security-agreement-53c895",
-      "title": "格陵兰自治政府议会批准三方安全协议",
-      "description": "格陵兰岛自治政府议会当地时间11月3日表决通过一项安全协议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T21:07:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/greenland-parliament-approves-us-denmark-security-agreement-53c895",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1698,26 +1982,6 @@
       "sources": []
     },
     {
-      "id": "iran-envoys-doha-qatar-war-talks-8ddd25",
-      "title": "伊朗提出美方先满足条件次日重开海峡",
-      "description": "伊朗提出一项有条件重开霍尔木兹海峡的“两天方案”：美国先在第一天落实伊方要求，伊朗第二天恢复海峡正常通航。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T14:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/iran-envoys-doha-qatar-war-talks-8ddd25",
-      "reference": [
-        "联合早报",
-        "法广",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "china-state-council-finance-report-review-7bba89",
       "title": "全国人大常委会第二十五次会议听取多项报告",
       "description": "十四届全国人大常委会第二十五次会议第二次全体会议11月3日上午在北京人民大会堂举行。",
@@ -2031,43 +2295,6 @@
       "sources": []
     },
     {
-      "id": "six-broad-etfs-exceed-ten-billion-yuan-e71de7",
-      "title": "六只宽基ETF单日成交额首次突破百亿元",
-      "description": "11月3日，宽基ETF交易显著放大，6只产品当天成交额均超过100亿元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T13:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/six-broad-etfs-exceed-ten-billion-yuan-e71de7",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "estee-lauder-q3-revenue-grows-9efd3e",
-      "title": "雅诗兰黛将全年有机销售增长预期上调至4%至5.5%",
-      "description": "雅诗兰黛集团当地时间11月2日公布截至9月30日的2027财年第一财季业绩，净销售额为37.15亿美元，同比增长7%；有机净销售额增长6%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T13:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/estee-lauder-q3-revenue-grows-9efd3e",
-      "reference": [
-        "财新",
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "new-delhi-tightens-pollution-controls-155c83",
       "title": "新德里加强污染管控应对严重雾霾",
       "description": "新德里雾霾笼罩，当地政府自11月1日起推出多项污染管控措施。",
@@ -2082,24 +2309,6 @@
         "公视"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-vasp-capital-thresholds-five-billion-23746c",
-      "title": "金管会拟设VASP资本门槛全业务须达5亿元",
-      "description": "台湾金管会11月3日在例行记者会上说明虚拟资产服务商（VASP）子法规划，拟于近日预告8项草案，征求意见40天；专法与子法预计在2027年第一季度同步施行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T13:18:57+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/taiwan-vasp-capital-thresholds-five-billion-23746c",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -2233,25 +2442,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-stocks-fall-near-44000-be6aa0",
-      "title": "台股收跌1612点创史上第七大跌点",
-      "description": "台湾股市3日大幅下跌，加权指数收于43307.54点，跌1612.60点，跌幅3.59%，创历史第七大单日跌点，并跌破44000点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T12:56:24+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/taiwan-stocks-fall-near-44000-be6aa0",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "business",
-      "sourceCount": 12,
-      "sources": []
-    },
-    {
       "id": "hong-kong-customs-seizes-taiwan-books-d05985",
       "title": "香港海关检取逾60本台湾进口书籍",
       "description": "香港支援在囚人士及家属组织“候鸟”称，香港海关检取了一批从台湾进口、原定送往其经营门店“如一”的书籍，逾60本未随货送达。",
@@ -2328,26 +2518,6 @@
       ],
       "section": "us",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "cook-report-democrats-win-house-majority-ddc55e",
-      "title": "纽约时报锡耶纳民调显示民主党领先七场参院战",
-      "description": "美国中期选举投票日到来之际，《纽约时报》与锡耶纳学院的最新民调显示，民主党在关系参议院控制权的七个关键州均领先。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T12:48:31+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/cook-report-democrats-win-house-majority-ddc55e",
-      "reference": [
-        "世界日报",
-        "财新",
-        "公视"
-      ],
-      "section": "us",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -2444,24 +2614,6 @@
       "sources": []
     },
     {
-      "id": "florida-flooding-moves-polling-sites-f07675",
-      "title": "佛州洪灾致18个投票站临时迁址",
-      "description": "佛州中部暴雨成灾，当局在中期选举投票日临时调整18个投票站。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T12:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/florida-flooding-moves-polling-sites-f07675",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "cities-open-unit-restrooms-publicly-2d8d88",
       "title": "多地推动单位内部厕所常态向公众开放",
       "description": "合肥、湖州、乌苏和广东陆河正把机关、企事业单位及其他社会单位内部卫生间向公众开放，以补充公共如厕服务。",
@@ -2553,24 +2705,6 @@
       ],
       "section": "life",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "democrats-back-independent-challengers-three-states-be1389",
-      "title": "民主党让出三州选战支持独立候选人",
-      "description": "民主党在爱达荷州、内布拉斯加州和南达科他州的中期选举中退让，转而支持独立候选人挑战共和党，希望削弱共和党在这些州的长期优势。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T11:34:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/democrats-back-independent-challengers-three-states-be1389",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2758,24 +2892,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-military-shifts-kill-chain-kill-web-fd0614",
-      "title": "台湾国防部推动作战链转向多节点击杀网",
-      "description": "台湾国防部在提交台湾立法院的书面报告中提出，台湾军方将整合陆、海、空作战力量，并引入太空、网络、电磁频谱和无人系统能力，通过传感器、指挥节点与火力单位之间的信息连接，把线性作战链条转为多个节点互联的“击杀网”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T10:33:14+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/taiwan-military-shifts-kill-chain-kill-web-fd0614",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "singapore-us-asean-develop-defense-framework-7e9beb",
       "title": "新加坡将与美国及东盟制定互利防务合作框架",
       "description": "新加坡国防部表示，新加坡将在2027年担任东盟国防部长会议主席国期间，与美国及其他东盟成员国共同制定互利的防务合作框架，协力处理共同挑战和关切。",
@@ -2870,25 +2986,6 @@
       "sources": []
     },
     {
-      "id": "mainland-skips-taiwan-apec-summit-invitation-436eb7",
-      "title": "广东抽调全省警力支援深圳APEC安保",
-      "description": "广东省公安厅11月1日召开全省公安机关APEC会议安保动员会，要求各级公安机关从即日起执行高等级勤务，并从全省抽调警力支援深圳。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T09:35:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/mainland-skips-taiwan-apec-summit-invitation-436eb7",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "china-mens-table-tennis-grand-slam-semifinals-fall-a6ba34",
       "title": "中国男乒大满贯四强席位一年降至两席",
       "description": "中国乒乓球男队今年在四站WTT大满贯中只取得两个男单四强席位，较2025年的九席减少七席。",
@@ -2962,24 +3059,6 @@
       ],
       "section": "tech",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "taiwan-f16v-jets-depart-us-factory-f2997c",
-      "title": "据报台湾第二批3架F-16V起飞赴德州",
-      "description": "据中央社报道，台湾空军对美采购的第二批3架F-16V（Block 70）近日从洛克希德·马丁公司位于美国南卡罗来纳州的工厂起飞，飞往德州。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T08:08:38+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/taiwan-f16v-jets-depart-us-factory-f2997c",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3836,45 +3915,6 @@
       "sources": []
     },
     {
-      "id": "china-research-vessels-map-taiwan-seabed-2200fa",
-      "title": "中国研究船被指加密测绘台湾周边海域",
-      "description": "中国研究船近期在台湾南部和东部海域反复航行，搜集海底地形与水文信息。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T14:41:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/china-research-vessels-map-taiwan-seabed-2200fa",
-      "reference": [
-        "中央通訊社",
-        "世界日报",
-        "朝鲜日报",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "wangyi-meets-saudi-adviser-al-aiban-gulf-talks-90c6af",
-      "title": "王毅会见沙特国家安全顾问艾班讨论海湾局势",
-      "description": "中国外长王毅11月2日在北京会见沙特国务大臣、内阁成员兼国家安全顾问艾班，双方讨论中东海湾局势。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T14:38:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/wangyi-meets-saudi-adviser-al-aiban-gulf-talks-90c6af",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-e-bike-certification-rule-requires-factory-assembly-0f6c16",
       "title": "国家认监委新规要求电动自行车整车厂内完成安装检验",
       "description": "国家认监委修订的《强制性产品认证实施规则 电动自行车（试行）》自11月1日起施行。",
@@ -3950,24 +3990,6 @@
       "sources": []
     },
     {
-      "id": "malaysia-expands-visa-free-tourism-dc048b",
-      "title": "马来西亚扩大免签吸引首季逾千万国际访客",
-      "description": "马来西亚通过扩大免签及互惠安排、增加国际直飞航班吸引游客。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T12:57:24+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/malaysia-expands-visa-free-tourism-dc048b",
-      "reference": [
-        "公视"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "tencent-visa-sign-partnership-mou-41bff7",
       "title": "腾讯与Visa签署备忘录建立全面合作框架",
       "description": "腾讯与Visa近日宣布签署合作备忘录，计划围绕跨境支付、智能体商务、企业级AI及企业全球化支持展开合作，并建立全面合作框架。",
@@ -4018,43 +4040,6 @@
         "第一财经"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "qin-shuo-sues-li-liang-defamation-b254b5",
-      "title": "秦朔以名誉权遭侵害为由起诉抖音副总裁李亮",
-      "description": "秦朔11月2日在朋友圈称，已委托律师就李亮近期发表、侵害其名誉权的言论提起诉讼，并已向上海法院提交材料。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T11:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/qin-shuo-sues-li-liang-defamation-b254b5",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "global-passenger-processing-outage-changi-checkin-312093",
-      "title": "全球航前系统故障致樟宜机场自助值机受阻",
-      "description": "全球旅客航前处理系统（APP）发生故障，星期一（11月2日）影响新加坡樟宜机场部分航空公司的自助值机；部分旅客无法自行办理手续或打印登机牌，航空公司转为人工办理。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T10:54:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/global-passenger-processing-outage-changi-checkin-312093",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
