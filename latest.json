@@ -1,11 +1,53 @@
 {
   "details": {
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "timestamp": 1793749164,
     "totalPages": 1,
     "total": 272
   },
   "stories": [
+    {
+      "id": "uk-extends-permanent-residency-wait-ten-years-c7377c",
+      "title": "英国政府将多数移民永居年限延至十年",
+      "description": "英国政府公布“贡献型永居”改革方案，将大多数移民申请永久居留的居住年限从五年延长至十年。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-03T23:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/uk-extends-permanent-residency-wait-ten-years-c7377c",
+      "reference": [
+        "澎湃新闻",
+        "日经",
+        "英国广播公司",
+        "财新"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "china-ndrc-outlines-ai-governance-priorities-39fbf8",
+      "title": "发改委将加强人工智能就业风险监测预警",
+      "description": "11月3日，中国国家发展改革委举行新闻发布会。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-03T23:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/china-ndrc-outlines-ai-governance-priorities-39fbf8",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "联合早报",
+        "财新"
+      ],
+      "section": "china",
+      "sourceCount": 4,
+      "sources": []
+    },
     {
       "id": "suoer-wins-blancpain-imaginist-literary-prize-f145bf",
       "title": "索耳凭《伶仃世》获宝珀理想国文学奖首奖",
@@ -86,6 +128,24 @@
       "sources": []
     },
     {
+      "id": "jinbin-ren-faces-money-laundering-conspiracy-charge-a9837a",
+      "title": "持绿卡中国男子任金斌被追加洗钱共谋罪",
+      "description": "持美国绿卡的中国籍男子任金斌被控参与礼品卡诈骗及洗钱共谋，检方称其团伙用盗刷礼品卡买入高价电子产品，再经仓库转运至中国大陆和香港。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-03T22:11:07+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/jinbin-ren-faces-money-laundering-conspiracy-charge-a9837a",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "antonio-mitchell-illegal-voting-federal-charges-6d7131",
       "title": "牙买加籍美国永久居民涉嫌非法投票遭联邦起诉",
       "description": "牙买加籍美国永久居民安东尼奥·米契尔涉嫌非法参与美国选举，并在入籍申请和面谈中隐瞒相关记录，已被逮捕并面临多项联邦指控。",
@@ -101,6 +161,27 @@
       ],
       "section": "us",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "vance-iran-letter-restart-talks-9fdb42",
+      "title": "美伊重启对话预期推动国际油价连续下跌",
+      "description": "市场对美伊恢复对话、缓和中东冲突的预期推动国际油价连续两日下跌。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-03T21:32:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/vance-iran-letter-restart-talks-9fdb42",
+      "reference": [
+        "联合早报",
+        "韩民族日报",
+        "法广",
+        "财新"
+      ],
+      "section": "us",
+      "sourceCount": 16,
       "sources": []
     },
     {
@@ -217,27 +298,6 @@
       ],
       "section": "china",
       "sourceCount": 21,
-      "sources": []
-    },
-    {
-      "id": "vance-iran-letter-restart-talks-9fdb42",
-      "title": "美伊重启对话预期推动国际油价连续下跌",
-      "description": "美伊重启对话的信号推动市场预期中东冲突可能缓和，国际油价连续第二个交易日下跌；11月3日，两大基准原油合约的跌幅较前一日收窄。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T20:53:27+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/vance-iran-letter-restart-talks-9fdb42",
-      "reference": [
-        "联合早报",
-        "韩民族日报",
-        "法广",
-        "财新"
-      ],
-      "section": "us",
-      "sourceCount": 15,
       "sources": []
     },
     {
@@ -1589,26 +1649,6 @@
       ],
       "section": "life",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "uk-extends-permanent-residency-wait-ten-years-c7377c",
-      "title": "英国政府将多数移民永居居住期延至十年",
-      "description": "英国政府公布移民规则改革最终方案，将大多数移民申请永久居留的标准居住期从5年延长至10年。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T11:37:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/uk-extends-permanent-residency-wait-ten-years-c7377c",
-      "reference": [
-        "澎湃新闻",
-        "日经",
-        "英国广播公司"
-      ],
-      "section": "world",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -3143,26 +3183,6 @@
       "sources": []
     },
     {
-      "id": "china-ndrc-outlines-ai-governance-priorities-39fbf8",
-      "title": "发改委提出人工智能就业治理应对举措",
-      "description": "国家发展改革委11月3日启动“奋进‘十五五’”系列新闻发布会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T04:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/china-ndrc-outlines-ai-governance-priorities-39fbf8",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "li-chenggang-meets-us-farm-trade-delegation-6970ae",
       "title": "李成钢会见美国农产品贸易代表团并交换意见",
       "description": "中国商务部国际贸易谈判代表兼副部长李成钢11月2日会见美国农产品贸易代表团，双方就中美经贸关系及双边农产品贸易合作交换意见。",
@@ -3866,24 +3886,6 @@
         "联合早报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-coast-guard-vessels-enter-kinmen-waters-exit-4cb847",
-      "title": "中国海警四艘船进入金门限制水域后驶离",
-      "description": "中国海警4艘船2日下午进入金门限制水域，海巡署派出4艘巡防艇逐船并航监控，并通过中英文无线电广播要求其转向离开。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T10:48:38+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/china-coast-guard-vessels-enter-kinmen-waters-exit-4cb847",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
