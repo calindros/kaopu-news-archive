@@ -1,11 +1,186 @@
 {
   "details": {
     "date": "2026-11-04",
-    "timestamp": 1793788538,
+    "timestamp": 1793799146,
     "totalPages": 1,
-    "total": 269
+    "total": 268
   },
   "stories": [
+    {
+      "id": "us-midterm-election-congress-control-164251",
+      "title": "美国民主党赢得期中选举并夺回国会两院",
+      "description": "美国民主党在11月3日举行的中期选举中赢得国会众议院和参议院控制权，结束共和党此前同时掌控两院的局面。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T12:20:48+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
+      "reference": [
+        "世界日报",
+        "英国广播公司",
+        "联合早报",
+        "端传媒"
+      ],
+      "section": "us",
+      "sourceCount": 171,
+      "sources": []
+    },
+    {
+      "id": "china-stocks-rally-tech-index-surges-baf0f5",
+      "title": "A股主要指数大幅收涨科技股领涨",
+      "description": "11月4日，A股主要指数收盘大幅上涨。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T12:17:37.400518+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/china-stocks-rally-tech-index-surges-baf0f5",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "opensecrets-us-midterm-spending-record-0d5382",
+      "title": "马斯克自嘲巨资未能阻止共和党期中选举失利",
+      "description": "美国共和党在11月3日举行的期中选举中失利后，埃隆·马斯克在X平台发文调侃，自己所谓介入选举的“太空激光”没有奏效。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T12:00:51+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/opensecrets-us-midterm-spending-record-0d5382",
+      "reference": [
+        "世界日报",
+        "英国广播公司",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "openai-anthropic-launch-election-war-rooms-72d74b",
+      "title": "OpenAI与Anthropic设立选举监控中心防范AI滥用",
+      "description": "OpenAI和Anthropic在美国中期选举前设立专门监控中心，防止ChatGPT、Claude等工具被用于传播选举虚假信息或干扰选举。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T11:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/openai-anthropic-launch-election-war-rooms-72d74b",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "yuan-gains-hit-machinery-profits-65dacd",
+      "title": "人民币升值拖累工程机械龙头前三季度利润",
+      "description": "2026年前三季度，中国工程机械出口保持较快增长，但人民币升值造成的汇兑损失削弱了多家龙头企业的盈利表现。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T11:53:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/yuan-gains-hit-machinery-profits-65dacd",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "iran-says-three-tankers-hit-mines-strait-hormuz-b3c7b7",
+      "title": "国际海事组织无法确认霍尔木兹海峡水雷已清除",
+      "description": "国际海事组织秘书长多明格斯11月2日说，组织没有收到霍尔木兹海峡分道通航水域水雷已清除的确认，因此仍不建议船舶驶入。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T11:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/iran-says-three-tankers-hit-mines-strait-hormuz-b3c7b7",
+      "reference": [
+        "联合早报",
+        "法广",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "sinopac-bank-unauthorized-transfers-419-customers-5d9372",
+      "title": "永丰银行称新网银遭黑客利用致4176万元异常转账",
+      "description": "台湾永丰银行称，新网银交易系统供应商的安全设置被外部黑客利用，客户账户因此发生异常转账。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T11:41:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/sinopac-bank-unauthorized-transfers-419-customers-5d9372",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "fox-says-talarico-threatens-texas-senate-seat-49043a",
+      "title": "民主党赢得美国国会参众两院控制权",
+      "description": "美国民主党在期中选举中取得国会参众两院控制权，并在得克萨斯州赢得联邦参议员和州长选举。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T11:34:37+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/fox-says-talarico-threatens-texas-senate-seat-49043a",
+      "reference": [
+        "世界日报",
+        "公视",
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "google-pledges-15-billion-investment-malaysia-b06699",
+      "title": "谷歌承诺追加150亿美元投资马来西亚",
+      "description": "谷歌承诺在马来西亚追加投资150亿美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T11:17:52+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/google-pledges-15-billion-investment-malaysia-b06699",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "tencent-hunyuan-launches-hy4-open-model-tier-2403ff",
       "title": "腾讯混元发布7700亿参数Hy4称其进入开源第一梯队",
@@ -24,6 +199,24 @@
       ],
       "section": "ai",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "us-tech-giants-bond-surge-europe-2a0988",
+      "title": "美国科技巨头发债扩张令欧洲担忧债券供给过剩",
+      "description": "美国科技巨头的人工智能融资正扩大至欧洲债券市场，市场人士担心新增供给会加剧资金竞争，并推高企业和政府融资成本。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T11:00:58.112736+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/us-tech-giants-bond-surge-europe-2a0988",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -209,27 +402,6 @@
       "sources": []
     },
     {
-      "id": "fox-says-talarico-threatens-texas-senate-seat-49043a",
-      "title": "民主党人塔拉里科赢得得州联邦参议员选举",
-      "description": "民主党人詹姆斯·塔拉里科赢得得克萨斯州联邦参议员选举，以59.4%的得票率击败得票率为39%的共和党人肯·帕克斯顿。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T10:11:20+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/fox-says-talarico-threatens-texas-senate-seat-49043a",
-      "reference": [
-        "世界日报",
-        "公视",
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 13,
-      "sources": []
-    },
-    {
       "id": "gaza-stance-shapes-michigan-senate-race-504dc5",
       "title": "赛义德宣布击败罗杰斯当选密歇根州联邦参议员",
       "description": "民主党候选人阿卜杜勒·埃尔-赛义德宣布击败共和党候选人迈克·罗杰斯，当选密歇根州联邦参议员。",
@@ -311,25 +483,6 @@
       "sources": []
     },
     {
-      "id": "sinopac-bank-unauthorized-transfers-419-customers-5d9372",
-      "title": "永丰银行新网银漏洞致逾4000万元异常转出",
-      "description": "永丰银行新网银交易系统发生大规模异常转账。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T09:59:17+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/sinopac-bank-unauthorized-transfers-419-customers-5d9372",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "eu-conditionally-approves-jd-ceconomy-deal-4e9ef9",
       "title": "欧盟附条件批准京东收购CECONOMY",
       "description": "欧盟委员会依据《外国补贴条例》附条件批准京东与德国零售集团CECONOMY的合作伙伴关系。",
@@ -368,27 +521,6 @@
       "sources": []
     },
     {
-      "id": "us-midterm-election-congress-control-164251",
-      "title": "美国民主党夺回国会参众两院多数",
-      "description": "美国民主党在2026年中期选举中夺回国会众议院和参议院多数，结束共和党对两院的控制。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T09:54:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
-      "reference": [
-        "世界日报",
-        "英国广播公司",
-        "联合早报",
-        "端传媒"
-      ],
-      "section": "us",
-      "sourceCount": 168,
-      "sources": []
-    },
-    {
       "id": "malaysia-data-center-local-participation-97b562",
       "title": "马来西亚要求数据中心项目至少三成本地参与",
       "description": "马来西亚政府要求当地数据中心项目至少达到30%的本地参与度。",
@@ -408,8 +540,8 @@
     },
     {
       "id": "taiwan-stocks-fall-below-42000-68024f",
-      "title": "新台币收贬6.1分创逾一年半收盘新低",
-      "description": "台湾股市11月4日盘中大幅下挫，新台币兑美元从32.79元开盘后走弱，最低触及32.9元。",
+      "title": "新台币收贬6.1分创逾一年半新低",
+      "description": "台湾股市11月4日盘中大幅下挫后收低，新台币兑美元收于32.821元，贬值6.1分，连续第三个交易日走贬，收盘价为一年半多来最低。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -422,7 +554,7 @@
         "公视"
       ],
       "section": "asia",
-      "sourceCount": 4,
+      "sourceCount": 8,
       "sources": []
     },
     {
@@ -1084,25 +1216,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-stocks-rally-tech-index-surges-baf0f5",
-      "title": "沪指等四大指数集体收涨，科创综指涨9.9%",
-      "description": "中国A股市场11月4日强势收高，沪指、深证成指、创业板指和科创综指悉数上涨，半导体等科技类股票领涨。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T07:17:37.972374+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/china-stocks-rally-tech-index-surges-baf0f5",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 7,
       "sources": []
     },
     {
@@ -2204,24 +2317,6 @@
       "sources": []
     },
     {
-      "id": "china-service-growth-slows-to-july-low-ab407d",
-      "title": "中国服务业10月扩张速度降至7月以来最低",
-      "description": "瑞霆狗11月4日公布的调查显示，中国服务业10月扩张速度降至7月以来最低。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T02:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/china-service-growth-slows-to-july-low-ab407d",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "wu-mingwu-csrc-probe-insider-short-swing-trading-2882a1",
       "title": "山鹰国际董事长吴明武因涉嫌内幕交易和短线交易被立案",
       "description": "山鹰国际实际控制人兼董事长吴明武因涉嫌内幕交易和短线交易，被中国证监会立案调查。",
@@ -2236,45 +2331,6 @@
         "澎湃新闻"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "reported-pboc-regulators-convene-financial-institutions-b9d805",
-      "title": "中国央行完成第三批千亿元互换便利操作",
-      "description": "中国人民银行11月3日完成第三批证券、基金、保险公司互换便利操作，规模为1000亿元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T02:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/reported-pboc-regulators-convene-financial-institutions-b9d805",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 50,
-      "sources": []
-    },
-    {
-      "id": "korean-consumers-challenge-tesla-fsd-marketing-82b4ee",
-      "title": "韩国消费者团体拟投诉特斯拉误导推销FSD软件",
-      "description": "消费者主权联合会计划于11月5日向韩国公平交易委员会提出申诉，指控特斯拉韩国分公司误导消费者推销多数车型依法无法使用的FSD软件。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T02:22:54+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/korean-consumers-challenge-tesla-fsd-marketing-82b4ee",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -2825,24 +2881,6 @@
       "sources": []
     },
     {
-      "id": "new-york-medicaid-transport-fraud-charges-d71e7c",
-      "title": "纽约州指控三家接送公司涉嫌骗取白卡逾470万美元",
-      "description": "纽约州主计长办公室指控三家医疗接送公司通过虚报白卡交通服务，申领金额超过470万美元；三名有亲属关系的负责人已被起诉，并在斯克内克塔迪市法院出庭应讯。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T20:32:54+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/new-york-medicaid-transport-fraud-charges-d71e7c",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "mexico-schools-restrict-student-device-use-93c5b2",
       "title": "墨西哥中小学开始限制学生使用个人电子设备",
       "description": "墨西哥公立、私立中小学自2026年11月3日起限制学生使用个人电子设备。",
@@ -3380,44 +3418,6 @@
       "sources": []
     },
     {
-      "id": "lula-reelection-soybean-price-outlook-beb745",
-      "title": "卢拉击败博索纳罗赢得第四个总统任期",
-      "description": "巴西总统卢拉在10月25日举行的总统选举中击败右翼对手弗拉维奥·博索纳罗，赢得第四个总统任期。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T11:18:36.927535+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/lula-reelection-soybean-price-outlook-beb745",
-      "reference": [
-        "日经",
-        "第一财经"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "iea-warns-europe-gas-reserves-hit-13-year-low-6852b8",
-      "title": "国际能源署警告欧洲天然气库存创13年新低",
-      "description": "国际能源署11月3日警告，欧洲天然气库存已降至2013年以来最低水平。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T11:10:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/iea-warns-europe-gas-reserves-hit-13-year-low-6852b8",
-      "reference": [
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "singapore-probes-changi-airport-firms-178868",
       "title": "新加坡调查樟宜机场约45家承包商涉工作证件违规",
       "description": "新加坡人力部正在调查樟宜机场约45家承包商及分包商，涉及约270名外籍员工的工作安排是否符合工作证件规定。",
@@ -3808,24 +3808,6 @@
       ],
       "section": "china",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "openai-anthropic-launch-election-war-rooms-72d74b",
-      "title": "OpenAI与Anthropic首次设立选举作战室",
-      "description": "OpenAI与Anthropic在美国中期选举前首次设立专门作战室，监控平台滥用并应对虚假信息等风险。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T05:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/openai-anthropic-launch-election-war-rooms-72d74b",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
       "sources": []
     },
     {
