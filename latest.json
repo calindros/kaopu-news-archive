@@ -1,19 +1,19 @@
 {
   "details": {
     "date": "2026-11-04",
-    "timestamp": 1793773401,
+    "timestamp": 1793778189,
     "totalPages": 1,
-    "total": 270
+    "total": 271
   },
   "stories": [
     {
       "id": "us-midterm-election-congress-control-164251",
-      "title": "美国中期选举初步结果显示民主党将夺回众议院",
-      "description": "美国中期选举的阶段性计票和媒体预测显示，民主党将重新取得众议院多数；参议院控制权尚不能由目前公布的确定席位数字判定。",
+      "title": "美国民主党有望在中期选举中夺回国会两院控制权",
+      "description": "美国民主党有望在2026年期中选举中夺回国会参众两院控制权。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-04T05:37:39+00:00",
+      "updatedAt": "2026-11-04T06:30:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-26",
       "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
@@ -24,13 +24,202 @@
         "端传媒"
       ],
       "section": "us",
-      "sourceCount": 118,
+      "sourceCount": 142,
+      "sources": []
+    },
+    {
+      "id": "china-stocks-rally-tech-index-surges-baf0f5",
+      "title": "A股午后大幅拉升科创综指涨超9.6%",
+      "description": "11月4日午后，A股主要股指明显上扬。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T06:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/china-stocks-rally-tech-index-surges-baf0f5",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "taiwan-stocks-fall-near-44000-be6aa0",
+      "title": "台股震荡1886点后收跌358点跌幅收敛",
+      "description": "台湾股市11月4日剧烈震荡后收跌。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T06:11:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/taiwan-stocks-fall-near-44000-be6aa0",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "business",
+      "sourceCount": 18,
+      "sources": []
+    },
+    {
+      "id": "heshun-court-sentences-two-rape-defendants-0ac62c",
+      "title": "和顺法院一审判处性侵案两被告12年和10年",
+      "description": "11月4日，卜某遭性侵案一审宣判，和顺县人民法院判处两名被告有期徒刑12年和10年。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T06:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/heshun-court-sentences-two-rape-defendants-0ac62c",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "iran-envoys-doha-qatar-war-talks-8ddd25",
+      "title": "美伊双方间接谈判仍未达成明确协议",
+      "description": "美国与伊朗通过卡塔尔、巴基斯坦等调解方继续进行间接谈判，但截至11月4日，双方尚未就结束冲突或重开霍尔木兹海峡达成明确协议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T06:03:24+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/iran-envoys-doha-qatar-war-talks-8ddd25",
+      "reference": [
+        "联合早报",
+        "法广",
+        "澎湃新闻",
+        "韩民族日报"
+      ],
+      "section": "world",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "jinbin-ren-faces-money-laundering-conspiracy-charge-a9837a",
+      "title": "任金斌涉礼品卡诈骗被追加洗钱共谋罪指控",
+      "description": "中国籍、持美国绿卡的任金斌涉嫌参与跨国礼品卡诈骗；据电视台WMUR报道，他于10月21日被联邦大陪审团追加洗钱共谋罪指控。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/jinbin-ren-faces-money-laundering-conspiracy-charge-a9837a",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "pboc-cuts-stock-buyback-loan-rate-80a44d",
+      "title": "中国央行下调股票回购增持再贷款利率至1%",
+      "description": "中国人民银行下调股票回购增持再贷款利率0.25个百分点至1%，新利率自2026年11月4日起执行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T05:59:37.315859+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/pboc-cuts-stock-buyback-loan-rate-80a44d",
+      "reference": [
+        "澎湃新闻",
+        "财新",
+        "联合早报",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "south-korea-hold-sado-labor-memorial-97c676",
+      "title": "韩国政府将单独举行佐渡金山劳工追悼仪式",
+      "description": "韩国政府将于11月13日在日本新潟县佐渡市为被强征的韩国劳工牺牲者举行追悼仪式。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T05:42:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/south-korea-hold-sado-labor-memorial-97c676",
+      "reference": [
+        "共同网",
+        "韩国国际广播电台"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "ukraine-prosecutors-charge-mendel-treason-5e8279",
+      "title": "乌克兰检方指控泽连斯基前发言人涉嫌叛国",
+      "description": "乌克兰检方指控总统弗拉基米尔·泽连斯基的前新闻秘书尤利娅·门德尔涉嫌叛国，并被指替俄罗斯对乌克兰的武装侵略辩护。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T05:40:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/ukraine-prosecutors-charge-mendel-treason-5e8279",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "panasonic-hukou-fire-five-hospitalized-two-missing-28b8d6",
+      "title": "台湾松下湖口厂起火致5人送医2人失联",
+      "description": "台湾新竹县湖口乡的台湾松下多层材料公司4日凌晨2时许发生火灾，疑似起火点位于厂房产线区域。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T05:38:46+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/panasonic-hukou-fire-five-hospitalized-two-missing-28b8d6",
+      "reference": [
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "fresenius-wuxi-biologics-biosimilar-options-ac0500",
+      "title": "费森尤斯获药明生物37款候选药独家选择权",
+      "description": "费森尤斯11月2日宣布与药明生物签订独家开发协议，未来十年可从最多37款生物类似药候选产品中行使独家选择权。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T05:37:35.479784+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/fresenius-wuxi-biologics-biosimilar-options-ac0500",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
       "id": "bottoms-wins-georgia-governor-election-111f2d",
-      "title": "民主党翻转四州州长席位并以18比5领先",
-      "description": "美国2026年中期选举州长选举结果陆续揭晓。",
+      "title": "民主党在美国州长选举中翻转四州",
+      "description": "美国2026年中期选举的州长选举结果陆续揭晓。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -45,7 +234,139 @@
         "联合早报"
       ],
       "section": "us",
-      "sourceCount": 7,
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "taiwan-stocks-fall-below-42000-68024f",
+      "title": "台股大跌失守4万2000点关口",
+      "description": "台湾股市4日开盘走高后转跌，电子、金融和传统产业股均下跌，指数盘中跌破42000点。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T05:33:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/taiwan-stocks-fall-below-42000-68024f",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "pappas-defeats-sununu-holds-new-hampshire-senate-seat-013b55",
+      "title": "巴帕斯击败苏努努当选新罕布什尔州联邦参议员",
+      "description": "民主党籍联邦众议员克里斯·巴帕斯赢得新罕布什尔州联邦参议员选举，击败共和党前参议员约翰·苏努努，为民主党守住该州席位。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T05:32:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/pappas-defeats-sununu-holds-new-hampshire-senate-seat-013b55",
+      "reference": [
+        "世界日报",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "sinopac-bank-unauthorized-transfers-419-customers-5d9372",
+      "title": "永丰银行称新网银异常致419人逾4000万元被转出",
+      "description": "永丰银行新网银交易系统发生异常，客户账户出现未经授权的转账。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T05:28:54+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/sinopac-bank-unauthorized-transfers-419-customers-5d9372",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "california-election-wiener-ma-kim-lead-bbfa70",
+      "title": "加州选举初步计票显示三名候选人暂时领先",
+      "description": "加州期中选举初步计票显示，威善高在联邦众议院第11选区暂时领先；马世云和金贞妍分别在副州长、保险厅长选举中暂居首位。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T05:28:49+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/california-election-wiener-ma-kim-lead-bbfa70",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "youth-football-training-opens-college-pathways-742cbc",
+      "title": "多地贯通培养为青少年球员拓宽升学路径",
+      "description": "成都、北京和河北的青训实践，正通过校内梯队、贯通升学和学籍保障，为青少年球员提供兼顾训练与学业的路径。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T05:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/youth-football-training-opens-college-pathways-742cbc",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-outlines-15th-five-year-infrastructure-plan-59f65a",
+      "title": "国家发改委公布十五五现代化基础设施建设部署",
+      "description": "中国国家发展改革委11月4日举行“奋进‘十五五’”系列新闻发布会第二场，主题为“夯实发展支撑”，介绍现代化基础设施建设安排。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T05:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/china-outlines-15th-five-year-infrastructure-plan-59f65a",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "kim-yo-jong-says-no-us-talks-9b8eed",
+      "title": "金与正驳斥币安黑客指控称朝鲜无须与美国对话",
+      "description": "朝鲜劳动党总务部长金与正11月4日通过朝中社发表谈话，驳斥美国关于朝鲜是币安遭黑客攻击事件幕后黑手的指控。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T05:17:20+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/kim-yo-jong-says-no-us-talks-9b8eed",
+      "reference": [
+        "韩民族日报",
+        "韩国国际广播电台"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -90,29 +411,30 @@
       "sources": []
     },
     {
-      "id": "trump-veto-bills-democrats-win-congress-3e8f0e",
-      "title": "特朗普祝贺民主党并称拥有完全否决权",
-      "description": "美东时间11月3日深夜，美国总统特朗普在与哥伦比亚广播公司新闻频道通话时，向中期选举中取得优势的民主党人表示祝贺，并称希望与他们合作，为美国利益努力。",
+      "id": "lee-jae-myung-168-personal-data-leak-41a89d",
+      "title": "李在明夫妇及出访团共168人护照信息泄露近五个月",
+      "description": "韩国总统李在明夫妇及乘坐总统专机“空军一号”前往欧洲的168名出访团成员，个人信息被上传至一家提供恶意软件检测服务的付费网站，暴露约五个月。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-04T05:11:00+00:00",
+      "updatedAt": "2026-11-04T05:10:29+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/trump-veto-bills-democrats-win-congress-3e8f0e",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/lee-jae-myung-168-personal-data-leak-41a89d",
       "reference": [
-        "世界日报",
-        "澎湃新闻",
-        "联合早报"
+        "韩国国际广播电台",
+        "韩民族日报",
+        "联合早报",
+        "法广"
       ],
-      "section": "us",
-      "sourceCount": 7,
+      "section": "asia",
+      "sourceCount": 12,
       "sources": []
     },
     {
       "id": "fox-says-talarico-threatens-texas-senate-seat-49043a",
       "title": "福克斯预测塔拉里科赢得得州参议员席位",
-      "description": "美国中期选举中，福克斯新闻选情判定中心预测，民主党候选人詹姆斯·塔拉里科击败共和党候选人肯·帕克斯顿，赢得得克萨斯州联邦参议员席位。",
+      "description": "美国3日举行的期中选举中，福克斯新闻选情判定中心预测，得克萨斯州州众议员、民主党候选人詹姆斯·塔拉里科将击败共和党候选人、得克萨斯州总检察长肯·派克斯顿，赢得联邦参议员席位。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -127,7 +449,7 @@
         "澎湃新闻"
       ],
       "section": "us",
-      "sourceCount": 9,
+      "sourceCount": 10,
       "sources": []
     },
     {
@@ -146,6 +468,25 @@
       ],
       "section": "ai",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tokyo-stocks-nikkei-breaks-below-62000-4d9860",
+      "title": "日经指数节后开市盘中重挫逾3000点失守61000点",
+      "description": "11月4日东京股市节后开市，日经指数盘中一度跌逾3000点、失守61000点，降至5月21日以来约五个半月低位。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T04:58:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/tokyo-stocks-nikkei-breaks-below-62000-4d9860",
+      "reference": [
+        "澎湃新闻",
+        "共同网"
+      ],
+      "section": "business",
+      "sourceCount": 7,
       "sources": []
     },
     {
@@ -205,25 +546,6 @@
       "sources": []
     },
     {
-      "id": "china-outlines-15th-five-year-infrastructure-plan-59f65a",
-      "title": "国家发改委明确“十五五”基础设施建设重点",
-      "description": "中国国家发展改革委11月4日在“奋进‘十五五’”系列新闻发布会上介绍未来五年现代化基础设施建设思路，内容涉及交通、水利和现代流通体系等领域。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T04:49:40.924108+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/china-outlines-15th-five-year-infrastructure-plan-59f65a",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "section": "china",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "domestic-trust-capital-injection-tax-risk-0d5781",
       "title": "财富机构推介境内信托增资方案存反避税风险",
       "description": "财富管理机构正向通过控股公司间接持有上市公司股权的实控人推介境内家族信托增资方案。",
@@ -260,6 +582,26 @@
       "sources": []
     },
     {
+      "id": "europe-seven-flights-bomb-threats-e708d6",
+      "title": "欧洲多国航班及希腊邮轮接连收到炸弹威胁",
+      "description": "欧洲多国航班在11月3日至4日接连收到炸弹威胁，希腊一艘停泊的邮轮也遭到威胁；已完成检查的飞机和船只均未发现爆炸物。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T04:34:04+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/europe-seven-flights-bomb-threats-e708d6",
+      "reference": [
+        "公视",
+        "联合早报",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
       "id": "thepaper-checks-e-bike-windshield-cover-ban-rumor-5a309a",
       "title": "澎湃新闻核查电动车挡风被禁用传言",
       "description": "澎湃新闻核查网传“多地禁用电动车挡风被、最高罚500元”的说法，并调查挡风被的使用情况、地方规定和执法做法。",
@@ -274,6 +616,24 @@
         "澎湃新闻"
       ],
       "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "xiamen-kinmen-route-traffic-sets-record-7f2837",
+      "title": "厦金小三通客流创2023年复航以来年度新高",
+      "description": "厦门边检总站高崎边检站的统计显示，截至10月26日，厦金“小三通”今年累计出入境旅客已超过174万人次，高于2025年全年总量，达到2023年复航后的年度最高水平。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T04:34:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/xiamen-kinmen-route-traffic-sets-record-7f2837",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
@@ -333,6 +693,25 @@
       "sources": []
     },
     {
+      "id": "cho-jung-tai-seeks-budget-approval-ee3ba9",
+      "title": "台湾立法院审查6076亿元追加预算案",
+      "description": "台湾立法院11月4日召开联席会议，审查总额新台币6076亿元的115年度中央政府总预算追加预算案。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T04:20:53+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/cho-jung-tai-seeks-budget-approval-ee3ba9",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
       "id": "greenland-parliament-approves-us-denmark-security-agreement-53c895",
       "title": "格陵兰议会批准美丹格三方安全协议",
       "description": "格陵兰自治议会当地时间11月3日表决通过美国、丹麦和格陵兰三方安全协议。",
@@ -387,25 +766,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "tokyo-stocks-nikkei-breaks-below-62000-4d9860",
-      "title": "日经指数节后开市盘中跌超4%触及五个半月低位",
-      "description": "11月4日，东京股市节假日后开市，日经225指数盘中跌幅超过4%，一度下挫逾2600点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T04:08:37+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/tokyo-stocks-nikkei-breaks-below-62000-4d9860",
-      "reference": [
-        "澎湃新闻",
-        "共同网"
-      ],
-      "section": "business",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -504,6 +864,24 @@
       "sources": []
     },
     {
+      "id": "taiwan-civil-service-top-rating-cap-lifted-5632f6",
+      "title": "台湾铨叙部明确今年公务员考绩甲等不设75%上限",
+      "description": "台湾铨叙部长施能杰表示，铨叙部已于10月底向各机关发出今年年终考绩操作原则，甲等评定不再受75%的占比上限约束。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T03:53:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/taiwan-civil-service-top-rating-cap-lifted-5632f6",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "chen-bin-platform-tax-reporting-exemption-c270c2",
       "title": "陈斌称免税便民劳务人员收入无需平台报送",
       "description": "厦门国家会计学院财政与税收研究所所长陈斌对第一财经表示，配送、运输、家政等便民劳务人员依法享受税收优惠或无需纳税时，平台不必向税务部门报送其收入信息。",
@@ -562,24 +940,6 @@
       "sources": []
     },
     {
-      "id": "heshun-court-sentences-two-rape-defendants-0ac62c",
-      "title": "澎湃报道性侵案两被告一审分别获刑10年和12年",
-      "description": "据澎湃新闻转述，扬子晚报/紫牛新闻记者从代理律师王文广处获悉，卜某遭性侵案于11月4日一审宣判。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T03:38:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/heshun-court-sentences-two-rape-defendants-0ac62c",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "fujian-legislature-appoints-guo-ningning-acting-governor-84cdbf",
       "title": "福建省人大常委会任命郭宁宁为代理省长",
       "description": "11月4日，福建省十四届人大常委会第二十五次会议作出人事决定，同意赵龙提出的辞任福建省人民政府省长申请；郭宁宁获任福建省人民政府副省长，并代理省长职务。",
@@ -616,26 +976,6 @@
       "sources": []
     },
     {
-      "id": "iran-envoys-doha-qatar-war-talks-8ddd25",
-      "title": "伊朗提出满足条件后两天内重开霍尔木兹海峡",
-      "description": "美国与伊朗通过卡塔尔、巴基斯坦等调解方进行间接磋商。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T03:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/iran-envoys-doha-qatar-war-talks-8ddd25",
-      "reference": [
-        "联合早报",
-        "法广",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
       "id": "hong-kong-ipo-failures-hit-post-2008-high-f57796",
       "title": "香港IPO未完成交易比例升至金融危机以来新高",
       "description": "香港IPO市场在连续两年融资活跃后转弱。",
@@ -669,6 +1009,25 @@
       ],
       "section": "business",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tenerife-striker-dies-after-goalkeeper-collision-99c85e",
+      "title": "特内里费前锋德米格尔遭撞击后去世",
+      "description": "西班牙乙级联赛特内里费前锋赫苏斯·德米格尔在与安道尔队比赛中遭遇严重碰撞，俱乐部称他于11月3日上午8时去世，终年30岁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T03:15:55+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/tenerife-striker-dies-after-goalkeeper-collision-99c85e",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社"
+      ],
+      "section": "sports",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -709,45 +1068,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-stocks-fall-near-44000-be6aa0",
-      "title": "台湾股市盘中跌逾700点失守43000点",
-      "description": "台湾股市4日开盘后先升至43741.54点，随后卖压增加，指数转跌并一度跌破43000点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T02:58:21+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/taiwan-stocks-fall-near-44000-be6aa0",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "business",
-      "sourceCount": 13,
-      "sources": []
-    },
-    {
-      "id": "pboc-cuts-stock-buyback-loan-rate-80a44d",
-      "title": "央行下调股票回购增持再贷款利率至1%",
-      "description": "中国人民银行自2026年11月4日起将股票回购增持再贷款利率下调0.25个百分点至1%，以加强该项政策支持，维护资本市场平稳运行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T02:57:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/pboc-cuts-stock-buyback-loan-rate-80a44d",
-      "reference": [
-        "澎湃新闻",
-        "财新",
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "musk-spacex-tesla-board-merger-talks-28793c",
       "title": "马斯克称两公司董事会设特别委员会讨论合并",
       "description": "马斯克上个月在SpaceX财报电话会议上表示，SpaceX与特斯拉董事会已设立特别委员会，讨论合并事宜。",
@@ -762,24 +1082,6 @@
         "中央通訊社"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "kim-yo-jong-says-no-us-talks-9b8eed",
-      "title": "金与正称朝鲜无必要与美国坐下来谈",
-      "description": "朝鲜劳动党总务部长金与正4日通过朝中社发表谈话，称朝鲜没有必要与美国坐下来谈。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T02:48:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/kim-yo-jong-says-no-us-talks-9b8eed",
-      "reference": [
-        "韩民族日报"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -1004,45 +1306,6 @@
       ],
       "section": "business",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "pappas-defeats-sununu-holds-new-hampshire-senate-seat-013b55",
-      "title": "巴帕斯击败苏努努为民主党守住新罕布什尔州参院席位",
-      "description": "民主党籍美国联邦众议员巴帕斯（Chris Pappas）3日在新罕布什尔州联邦参议员选举中击败共和党前参议员苏努努（John Sununu），为民主党保住该州席位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T02:01:42+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/pappas-defeats-sununu-holds-new-hampshire-senate-seat-013b55",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "lee-jae-myung-168-personal-data-leak-41a89d",
-      "title": "韩国总统出访团168人信息泄露近五个月",
-      "description": "韩国总统李在明及其出访团共168人的个人信息文件于2026年6月2日被上传至一家境外恶意软件检测服务网站，韩国外交部直到11月2日晚才发现，信息暴露近五个月。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T01:53:45+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/lee-jae-myung-168-personal-data-leak-41a89d",
-      "reference": [
-        "韩国国际广播电台",
-        "韩民族日报",
-        "联合早报",
-        "法广"
-      ],
-      "section": "asia",
-      "sourceCount": 11,
       "sources": []
     },
     {
@@ -1326,25 +1589,6 @@
       "sources": []
     },
     {
-      "id": "europe-seven-flights-bomb-threats-e708d6",
-      "title": "欧洲四国七架客机相继收到炸弹威胁",
-      "description": "波兰、西班牙、保加利亚和意大利11月3日相继报告客机收到炸弹威胁，共涉及七架飞机；部分航班改降，机场短暂关闭。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T00:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/europe-seven-flights-bomb-threats-e708d6",
-      "reference": [
-        "公视",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "bloomberg-eu-plans-market-rules-cut-china-reliance-e01677",
       "title": "彭博社称欧盟拟改规则降低对华依赖",
       "description": "据彭博社引述知情人士报道，欧盟委员会正拟定一揽子方案，计划调整单一市场规则，帮助欧洲企业分散供应链，降低对中国等国家的依赖。",
@@ -1414,24 +1658,6 @@
         "英国广播公司"
       ],
       "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "tenerife-striker-dies-after-goalkeeper-collision-99c85e",
-      "title": "特内里费前锋遭门将冲撞后不治身亡",
-      "description": "特内里费确认，30岁的前锋赫苏斯·德米格尔·阿拉梅达在与安道尔FC的比赛中遭遇赛场冲撞后去世。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T00:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/tenerife-striker-dies-after-goalkeeper-collision-99c85e",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "sports",
       "sourceCount": 1,
       "sources": []
     },
@@ -1714,24 +1940,6 @@
       ],
       "section": "business",
       "sourceCount": 11,
-      "sources": []
-    },
-    {
-      "id": "jinbin-ren-faces-money-laundering-conspiracy-charge-a9837a",
-      "title": "持绿卡中国男子任金斌被追加洗钱共谋罪",
-      "description": "持美国绿卡的中国籍男子任金斌被控参与礼品卡诈骗及洗钱共谋，检方称其团伙用盗刷礼品卡买入高价电子产品，再经仓库转运至中国大陆和香港。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T22:11:07+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/jinbin-ren-faces-money-laundering-conspiracy-charge-a9837a",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "china",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2278,24 +2486,6 @@
       "sources": []
     },
     {
-      "id": "china-regulator-issues-asset-management-trust-rules-83fbb4",
-      "title": "国家金融监督管理总局发布资产管理信托新规",
-      "description": "国家金融监督管理总局发布《资产管理信托管理办法》，将资产管理信托界定为“基于信托法律关系的私募资产管理产品”，新规自2027年1月1日起施行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T14:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/china-regulator-issues-asset-management-trust-rules-83fbb4",
-      "reference": [
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "bushby-returns-hull-after-28-year-trek-8e4864",
       "title": "英国探险家布什比完成28年环球徒步返家",
       "description": "英国探险家卡尔·布什比历时28年、徒步约5万公里横跨四大洲，于11月2日回到英格兰东北部赫尔的父母家，结束环球徒步旅程。",
@@ -2669,25 +2859,6 @@
       "sources": []
     },
     {
-      "id": "sinopac-bank-unauthorized-transfers-419-customers-5d9372",
-      "title": "永丰银行逾4000万元异常转账已垫款返还客户",
-      "description": "永丰银行发生大规模异常转账，争议交易共427笔、总额超过新台币4000万元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T12:35:20+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/sinopac-bank-unauthorized-transfers-419-customers-5d9372",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "deepseek-shows-creator-mode-plugin-creation-6587ca",
       "title": "DeepSeek展示创作者模式支持对话生成插件",
       "description": "澎湃新闻记者于11月2日获悉，DeepSeek Harness发布了Creator Mode（创作者模式）演示，展示用户通过对话制作插件的过程，并公开七组中英文提示词。",
@@ -2838,24 +3009,6 @@
       "sources": []
     },
     {
-      "id": "vietnam-withdraws-minor-organ-donation-bill-3860e3",
-      "title": "越南撤回未成年人死后捐器官草案",
-      "description": "面对舆论反弹和伦理质疑，越南政府11月2日撤回允许15至17岁未成年人死后捐赠器官的草案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T11:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/vietnam-withdraws-minor-organ-donation-bill-3860e3",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "lula-reelection-soybean-price-outlook-beb745",
       "title": "卢拉击败博索纳罗赢得第四个总统任期",
       "description": "巴西总统卢拉在10月25日举行的总统选举中击败右翼对手弗拉维奥·博索纳罗，赢得第四个总统任期。",
@@ -2872,24 +3025,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "taiwan-tax-law-central-vat-allocation-falls-1697ec",
-      "title": "新版财划法令中央前九月营业税分配减少2748亿元",
-      "description": "台湾财政部11月3日表示，受新版《财政划分法》影响，今年1月至9月中央政府分得的营业税比上年同期减少新台币2748亿元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T11:13:43+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/taiwan-tax-law-central-vat-allocation-falls-1697ec",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2948,42 +3083,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-stablecoin-bank-joint-venture-issuance-rules-0cd385",
-      "title": "台湾金管会拟限银行及金融合资发行稳定币",
-      "description": "台湾金融监督管理委员会（金管会）计划对稳定币发行许可及管理办法等草案启动为期40天的预告程序。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T11:03:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/taiwan-stablecoin-bank-joint-venture-issuance-rules-0cd385",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-missile-deployment-public-anxiety-01e2a2",
-      "title": "山本真直称日本导弹部署加剧民众不安",
-      "description": "日本防卫省于2026年3月31日在熊本县健军驻屯地正式部署“25式地对舰导弹”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T11:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/japan-missile-deployment-public-anxiety-01e2a2",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "zhang-shengmin-meets-russian-defense-minister-4b2c56",
       "title": "张升民会见到访的俄罗斯国防部长别洛乌索夫",
       "description": "中共中央军委副主席张升民11月3日在北京钓鱼台国宾馆会见来访的俄罗斯国防部长别洛乌索夫，双方就加强两军沟通、互信与合作交换意见。",
@@ -3001,24 +3100,6 @@
       ],
       "section": "china",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "south-korea-hold-sado-labor-memorial-97c676",
-      "title": "韩国政府将于佐渡市单独举行劳工追悼仪式",
-      "description": "韩国政府计划于11月13日上午在日本新潟县佐渡市举办悼念佐渡金山劳工的仪式。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T10:46:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/south-korea-hold-sado-labor-memorial-97c676",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3075,26 +3156,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "belgian-pm-tenders-resignation-budget-talks-955dc5",
-      "title": "比利时首相因预算谈判未果向国王递交辞呈",
-      "description": "比利时首相德韦弗11月2日向国王菲利普递交辞呈，原因是执政联盟未能就国家预算达成一致。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T09:42:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/belgian-pm-tenders-resignation-budget-talks-955dc5",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "财新"
-      ],
-      "section": "world",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -3894,25 +3955,6 @@
       "sources": []
     },
     {
-      "id": "south-korea-foreign-students-surpass-300000-2dc1ce",
-      "title": "韩国在读外国留学生人数首次突破30万人",
-      "description": "韩国高等教育机构注册学位和非学位课程的外国留学生，2026年达到30万7464人，首次超过30万。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T01:06:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/south-korea-foreign-students-surpass-300000-2dc1ce",
-      "reference": [
-        "韩民族日报",
-        "朝鲜日报"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "antonelli-becomes-youngest-f1-champion-b42c3f",
       "title": "安东内利提前四站加冕F1最年轻世界冠军",
       "description": "基米·安东内利在墨西哥城罗德里格斯兄弟赛道以第三名完赛，提前四站锁定F1年度车手总冠军，成为赛事史上最年轻的世界冠军。",
@@ -3930,24 +3972,6 @@
       ],
       "section": "sports",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "zhangye-wind-farm-review-be6f33",
-      "title": "张掖风电项目因环评争议启动核查",
-      "description": "甘肃张掖甘州区平山湖蒙古族乡的黑河润电平山湖10万千瓦风电项目，因环评对野生动物的判断与红外相机记录不符、部分风机实际位置偏离批复坐标等问题，已进入核查程序。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T23:37:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/zhangye-wind-farm-review-be6f33",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -4789,21 +4813,21 @@
       "sources": []
     },
     {
-      "id": "sothebys-nanotyrannus-jodi-fetches-47-million-3d55ea",
-      "title": "乔迪化石以4730万美元拍出恐龙化石拍卖史第二高价",
-      "description": "苏富比在纽约拍卖纳米暴龙骨骼化石“乔迪”，一名匿名买家以4730万美元竞得。",
+      "id": "new-museum-premieres-alison-kuo-cantonese-opera-285dfa",
+      "title": "新美术馆将首演郭钰铃粤剧作品《薪火相传》",
+      "description": "曼哈顿唐人街附近的新美术馆将首演驻馆艺术家郭钰铃（Alison Kuo）的粤剧作品《薪火相传》（A flame latches to a bit of straw）。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
       "updatedAt": "2026-10-29T06:00:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-27",
-      "url": "https://kaopu.news/story/2026-10-27/sothebys-nanotyrannus-jodi-fetches-47-million-3d55ea",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/new-museum-premieres-alison-kuo-cantonese-opera-285dfa",
       "reference": [
         "世界日报"
       ],
       "section": "culture",
-      "sourceCount": 2,
+      "sourceCount": 1,
       "sources": []
     },
     {
