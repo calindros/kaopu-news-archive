@@ -1,19 +1,19 @@
 {
   "details": {
     "date": "2026-11-04",
-    "timestamp": 1793784811,
+    "timestamp": 1793788538,
     "totalPages": 1,
-    "total": 269
+    "total": 267
   },
   "stories": [
     {
       "id": "us-midterm-election-congress-control-164251",
-      "title": "美国民主党夺回国会参众两院控制权",
-      "description": "美国民主党在11月3日举行的中期选举中夺回国会参众两院控制权。",
+      "title": "美国民主党夺回国会参众两院多数",
+      "description": "美国民主党在11月3日举行的中期选举中夺回国会参众两院多数，结束共和党同时控制两院的局面。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-04T08:16:47+00:00",
+      "updatedAt": "2026-11-04T09:40:25+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-26",
       "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
@@ -24,17 +24,38 @@
         "端传媒"
       ],
       "section": "us",
-      "sourceCount": 157,
+      "sourceCount": 166,
+      "sources": []
+    },
+    {
+      "id": "binance-freezes-three-billion-hack-assets-ebaf47",
+      "title": "币安称黑客借虚假面试盗走63.4亿美元加密资产",
+      "description": "币安披露，黑客利用虚假招聘面试和恶意软件侵入内部系统，于10月29日非法转出价值约63.4亿美元的加密资产。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T09:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/binance-freezes-three-billion-hack-assets-ebaf47",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "韩国国际广播电台",
+        "英国广播公司"
+      ],
+      "section": "business",
+      "sourceCount": 47,
       "sources": []
     },
     {
       "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "title": "中美俄据报磋商深圳三方元首会晤安排",
-      "description": "据报道，中国、美国和俄罗斯正就习近平、唐纳德·特朗普与弗拉基米尔·普京在深圳举行三方元首会晤进行磋商，拟议会面安排在11月18日至19日的亚太经合组织（APEC）领导人非正式会议期间；会晤尚未确定，若成行将是三国元首首次举行此类会面。",
+      "title": "中国称正沟通深圳中美俄元首会晤事宜",
+      "description": "中国外交部11月4日表示，中方正同有关方面就中国、美国和俄罗斯领导人在深圳举行会晤保持沟通；但习近平、特朗普和普京是否会在APEC期间举行三方会谈，尚无确定安排。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-04T08:12:00+00:00",
+      "updatedAt": "2026-11-04T09:20:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-02",
       "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
@@ -45,13 +66,243 @@
         "澎湃新闻"
       ],
       "section": "world",
-      "sourceCount": 4,
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "north-korea-fires-unidentified-projectile-099567",
+      "title": "韩国军方称朝鲜向日本海发射数枚导弹",
+      "description": "韩国军方称，朝鲜于11月4日上午在东部咸镜南道宣德一带发射数枚导弹，飞行方向为日本海。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T09:12:44+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/north-korea-fires-unidentified-projectile-099567",
+      "reference": [
+        "联合早报",
+        "韩国国际广播电台",
+        "法广",
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "trump-accepts-us-midterm-election-results-2d5ca3",
+      "title": "特朗普表示愿意接受中期选举结果",
+      "description": "美国总统唐纳德·特朗普表示，他愿意接受美国中期选举结果，并希望同民主党合作处理国家事务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T09:12:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/trump-accepts-us-midterm-election-results-2d5ca3",
+      "reference": [
+        "法广",
+        "公视",
+        "澎湃新闻",
+        "日本放送协会"
+      ],
+      "section": "us",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "china-police-unveil-eight-rural-illegal-fundraising-cases-dfb7c4",
+      "title": "公安部公布八起涉农非法集资典型案例",
+      "description": "公安部经侦局11月4日通过官方微博发布8起涉农领域非法集资犯罪典型案例，项目名目涵盖养殖、种植、粮食收购、合作社资金运作和林权交易等。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T09:08:36.750361+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/china-police-unveil-eight-rural-illegal-fundraising-cases-dfb7c4",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "seoul-high-court-upholds-yoon-suspended-sentence-c14d97",
+      "title": "首尔高院驳回尹锡悦上诉维持缓刑判决",
+      "description": "韩国首尔高等法院刑事审判第2-1庭11月4日下午驳回前总统尹锡悦就违反《公职选举法》案提出的上诉，维持一审判处有期徒刑1年6个月、缓刑3年的判决。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T09:04:05+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/seoul-high-court-upholds-yoon-suspended-sentence-c14d97",
+      "reference": [
+        "联合早报",
+        "韩民族日报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "world-internet-conference-publishes-2026-reports-ca2023",
+      "title": "乌镇峰会发布两部互联网发展年度报告",
+      "description": "中国网络空间研究院牵头编写的《中国互联网发展报告2026》和《世界互联网发展报告2026》，于11月4日在2026年世界互联网大会乌镇峰会第三天发布。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T08:55:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/world-internet-conference-publishes-2026-reports-ca2023",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社"
+      ],
+      "section": "tech",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "donalds-wins-florida-governor-race-a72648",
+      "title": "唐纳兹预计胜选将成佛州首位黑人州长",
+      "description": "美联社宣布，共和党籍联邦众议员唐纳兹击败民主党候选人乔里，赢得佛罗里达州州长选举；联合早报援引英国广播公司（BBC）的报道则称唐纳兹预计胜出。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T08:53:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/donalds-wins-florida-governor-race-a72648",
+      "reference": [
+        "世界日报",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "tencent-hunyuan-launches-hy4-open-model-tier-2403ff",
+      "title": "腾讯混元发布Hy4称跻身顶尖开源模型",
+      "description": "腾讯混元发布新一代大语言模型Hy4，并称其进入顶尖开源模型梯队。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T08:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/tencent-hunyuan-launches-hy4-open-model-tier-2403ff",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-admits-iran-war-affects-gop-midterms-cbbf5f",
+      "title": "特朗普承认伊朗战事影响共和党中期选情",
+      "description": "美国总统特朗普承认，伊朗战事影响了共和党中期选举表现，也令他的支持率下降，但他表示不后悔发动战事。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T08:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/trump-admits-iran-war-affects-gop-midterms-cbbf5f",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "tokyo-stocks-nikkei-breaks-below-62000-4d9860",
+      "title": "日经指数盘中跌逾3000点收盘仍跌893点",
+      "description": "东京股市11月4日大幅震荡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T08:03:49+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/tokyo-stocks-nikkei-breaks-below-62000-4d9860",
+      "reference": [
+        "澎湃新闻",
+        "共同网",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "rema-pleads-guilty-ethiopia-defense-secrets-a3e370",
+      "title": "雷马认罪承认向埃塞俄比亚泄露国防机密",
+      "description": "曾在美国国务院和司法部担任信息技术外包人员的归化美国公民雷马，在华盛顿联邦法院认罪，承认向埃塞俄比亚政府泄露国防机密。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T08:02:02+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/rema-pleads-guilty-ethiopia-defense-secrets-a3e370",
+      "reference": [
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "bic-camera-customer-data-exposure-risk-27c279",
+      "title": "必客家美乐称约1490万条客户信息可能外泄",
+      "description": "必客家美乐集团表示，受其委托发送电子邮件杂志的服务系统遭非法访问，客户电子邮件地址等约1490万条信息可能被泄露。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T07:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/bic-camera-customer-data-exposure-risk-27c279",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "azalina-estimates-prosecution-separation-one-year-3dcfc4",
+      "title": "阿莎丽娜估计律检分权落实需时一年",
+      "description": "首相署（法律及体制改革）部长阿莎丽娜表示，分开律政司与检察司的职能，须修订《联邦宪法》及21项相关法律。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T07:46:45+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/azalina-estimates-prosecution-separation-one-year-3dcfc4",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
       "id": "bottoms-wins-georgia-governor-election-111f2d",
-      "title": "美国中期选举多名候选人刷新历史纪录",
-      "description": "美国2026年中期选举结果陆续揭晓，多名女性、少数族裔及公开同性恋身份候选人胜出，在州长和联邦参议员选举中创下多项纪录。",
+      "title": "博顿斯赢得佐治亚州长选举成美国首位黑人女州长",
+      "description": "11月3日举行的美国中期选举中，民主党人基莎·兰斯·博顿斯赢得佐治亚州州长选举，成为该州首位女性州长，也是美国首位黑人女性州长。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -66,7 +317,25 @@
         "联合早报"
       ],
       "section": "us",
-      "sourceCount": 9,
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "china-research-ship-kaohsiung-monitored-3f255b",
+      "title": "中国科研船高雄外海施放不明仪器遭台湾海巡监控",
+      "description": "中国科研船“海洋地质8号”3日在高雄港西南约61海里处与4艘中国籍民兵渔船一同活动，并从船尾放出不明探测设备。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T07:36:38+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/china-research-ship-kaohsiung-monitored-3f255b",
+      "reference": [
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -106,6 +375,107 @@
       ],
       "section": "us",
       "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "fox-says-talarico-threatens-texas-senate-seat-49043a",
+      "title": "塔拉里科胜选民主党近40年来首夺得州参院席位",
+      "description": "美国11月3日举行的中期选举中，得克萨斯州民主党候选人、州众议员詹姆斯·塔拉里科击败共和党候选人、州总检察长肯·帕克斯顿，赢得联邦参议员选举。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T07:32:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/fox-says-talarico-threatens-texas-senate-seat-49043a",
+      "reference": [
+        "世界日报",
+        "公视",
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "kim-yo-jong-says-no-us-talks-9b8eed",
+      "title": "金与正称美国不改对朝政策朝鲜无须重启对话",
+      "description": "朝鲜劳动党总务部长金与正11月4日就美国指称朝鲜策划币安平台遭窃发表谈话，称若华盛顿维持对朝对抗路线，平壤没有恢复对话的必要。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T07:32:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/kim-yo-jong-says-no-us-talks-9b8eed",
+      "reference": [
+        "韩民族日报",
+        "韩国国际广播电台",
+        "法广"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "state-local-elections-shape-data-centers-70335c",
+      "title": "美媒预测艾克顿将当选俄亥俄州州长",
+      "description": "美国媒体及选举分析机构Decision Desk HQ预测，民主党候选人艾克顿将击败共和党候选人拉马斯瓦米，赢得俄亥俄州州长选举。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T07:32:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/state-local-elections-shape-data-centers-70335c",
+      "reference": [
+        "世界日报",
+        "第一财经",
+        "端传媒",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "kyodo-mio-probe-mercury-arrival-08914e",
+      "title": "共同社称日本探测器本月将抵达水星",
+      "description": "共同社援引受访相关人士报道，日欧联合水星探测任务“BepiColombo”的日本探测器“澪”（MIO）计划于2026年11月下旬抵达水星；相关方面正协调在2027年3月左右尝试首次拍摄。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T07:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/kyodo-mio-probe-mercury-arrival-08914e",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "pboc-cuts-stock-buyback-loan-rate-80a44d",
+      "title": "央行下调股票回购增持再贷款利率至1%",
+      "description": "中国人民银行自11月4日起将股票回购增持再贷款利率下调0.25个百分点至1%，为该工具推出以来最低。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T07:28:04+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/pboc-cuts-stock-buyback-loan-rate-80a44d",
+      "reference": [
+        "澎湃新闻",
+        "财新",
+        "联合早报",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 5,
       "sources": []
     },
     {
@@ -185,24 +555,40 @@
       "sources": []
     },
     {
-      "id": "binance-freezes-three-billion-hack-assets-ebaf47",
-      "title": "黑客借虚假面试入侵币安转走约63亿美元资产",
-      "description": "币安11月3日公布初步调查报告称，黑客利用虚假招聘面试及被篡改的软件入侵内部系统，于10月29日未经授权转出约63.4亿美元加密资产。",
+      "id": "taiwan-mobile-systex-tender-offer-conditions-met-e3da8b",
+      "title": "台湾大哥大收购精诚两项条件均已达成",
+      "description": "台湾大哥大11月4日表示，旗下台信电讯收购精诚资讯的最低数量要求已经达到，台湾公平交易委员会也已决定不禁止此次结合，收购案设定的两项条件均已满足。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-04T07:12:22+00:00",
+      "updatedAt": "2026-11-04T07:14:53+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/binance-freezes-three-billion-hack-assets-ebaf47",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/taiwan-mobile-systex-tender-offer-conditions-met-e3da8b",
       "reference": [
-        "澎湃新闻",
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-stocks-fall-near-44000-be6aa0",
+      "title": "台股震荡收跌三大法人卖超1598亿元",
+      "description": "台湾股市11月4日剧烈震荡后收跌，加权指数收于42948.91点，较前一交易日下跌358.63点，跌幅0.83%；成交金额升至新台币1兆1148.21亿元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T07:09:42+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/taiwan-stocks-fall-near-44000-be6aa0",
+      "reference": [
         "中央通訊社",
-        "韩国国际广播电台",
-        "英国广播公司"
+        "公视"
       ],
       "section": "business",
-      "sourceCount": 46,
+      "sourceCount": 19,
       "sources": []
     },
     {
@@ -221,44 +607,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "tokyo-stocks-nikkei-breaks-below-62000-4d9860",
-      "title": "日经指数节后大跌盘中一度跌破61000点",
-      "description": "东京股市11月4日节假日后恢复交易，日经指数盘中一度下跌逾3000点，并跌破61000点，为约三个月来首次。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T07:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/tokyo-stocks-nikkei-breaks-below-62000-4d9860",
-      "reference": [
-        "澎湃新闻",
-        "共同网"
-      ],
-      "section": "business",
-      "sourceCount": 8,
-      "sources": []
-    },
-    {
-      "id": "trump-accepts-us-midterm-election-results-2d5ca3",
-      "title": "特朗普称愿接受美国期中选举结果",
-      "description": "民主党在美国期中选举中确定取得国会参众两院多数后，特朗普表示愿接受选举结果，并称将与民主党合作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T07:02:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/trump-accepts-us-midterm-election-results-2d5ca3",
-      "reference": [
-        "法广",
-        "公视"
-      ],
-      "section": "us",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -392,24 +740,6 @@
         "澎湃新闻"
       ],
       "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "tencent-hunyuan-launches-hy4-open-model-tier-2403ff",
-      "title": "腾讯混元发布Hy4称其首次跻身最强开源模型梯队",
-      "description": "腾讯混元发布新一代大语言模型Hy4，并称该模型首次进入最强开源模型梯队。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T06:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/tencent-hunyuan-launches-hy4-open-model-tier-2403ff",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "ai",
       "sourceCount": 1,
       "sources": []
     },
@@ -581,25 +911,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-stocks-fall-near-44000-be6aa0",
-      "title": "台股震荡1886点后收跌358点跌幅收敛",
-      "description": "台湾股市11月4日剧烈震荡后收跌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T06:11:50+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/taiwan-stocks-fall-near-44000-be6aa0",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "business",
-      "sourceCount": 18,
-      "sources": []
-    },
-    {
       "id": "nordic-40c-heat-risk-rises-sixfold-f2a6b5",
       "title": "研究称北欧40℃高温概率升至1981年的六倍",
       "description": "芬兰气象研究所的一项研究显示，受气候变化影响，芬兰、瑞典和挪威出现40℃及以上高温的概率已达到1981年的约六倍。",
@@ -670,27 +981,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "pboc-cuts-stock-buyback-loan-rate-80a44d",
-      "title": "中国央行下调股票回购增持再贷款利率至1%",
-      "description": "中国人民银行下调股票回购增持再贷款利率0.25个百分点至1%，新利率自2026年11月4日起执行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T05:59:37.315859+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/pboc-cuts-stock-buyback-loan-rate-80a44d",
-      "reference": [
-        "澎湃新闻",
-        "财新",
-        "联合早报",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -880,25 +1170,6 @@
       "sources": []
     },
     {
-      "id": "kim-yo-jong-says-no-us-talks-9b8eed",
-      "title": "金与正驳斥币安黑客指控称朝鲜无须与美国对话",
-      "description": "朝鲜劳动党总务部长金与正11月4日通过朝中社发表谈话，驳斥美国关于朝鲜是币安遭黑客攻击事件幕后黑手的指控。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T05:17:20+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/kim-yo-jong-says-no-us-talks-9b8eed",
-      "reference": [
-        "韩民族日报",
-        "韩国国际广播电台"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "trump-end-us-military-aid-israel-8a5a45",
       "title": "特朗普称年底将停止每年约40亿美元对以军援",
       "description": "美国总统特朗普11月3日表示，他已与以色列总理内塔尼亚胡达成协议，计划在2026年年底停止向以色列提供年度军事援助。",
@@ -958,27 +1229,6 @@
       ],
       "section": "asia",
       "sourceCount": 12,
-      "sources": []
-    },
-    {
-      "id": "fox-says-talarico-threatens-texas-senate-seat-49043a",
-      "title": "福克斯预测塔拉里科赢得得州参议员席位",
-      "description": "美国3日举行的期中选举中，福克斯新闻选情判定中心预测，得克萨斯州州众议员、民主党候选人詹姆斯·塔拉里科将击败共和党候选人、得克萨斯州总检察长肯·派克斯顿，赢得联邦参议员席位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T05:06:57+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/fox-says-talarico-threatens-texas-senate-seat-49043a",
-      "reference": [
-        "世界日报",
-        "公视",
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 10,
       "sources": []
     },
     {
@@ -1221,26 +1471,6 @@
       "sources": []
     },
     {
-      "id": "state-local-elections-shape-data-centers-70335c",
-      "title": "Decision Desk HQ推估艾克顿赢得俄州州长选举",
-      "description": "选举分析机构Decision Desk HQ推估，民主党籍艾克顿将击败共和党候选人拉马斯瓦米，赢得俄亥俄州州长选举。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T04:14:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/state-local-elections-shape-data-centers-70335c",
-      "reference": [
-        "世界日报",
-        "第一财经",
-        "端传媒"
-      ],
-      "section": "world",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
       "id": "changxin-chairman-proposes-buyback-cap-increase-ad1259",
       "title": "长鑫科技董事长提议将回购上限提高至50亿元",
       "description": "长鑫科技董事长朱一明11月4日提议，将股份回购金额区间从10亿至20亿元上调至25亿至50亿元。",
@@ -1257,26 +1487,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "north-korea-fires-unidentified-projectile-099567",
-      "title": "韩国军方称朝鲜向半岛东部海域发射数枚不明飞行物",
-      "description": "韩国联合参谋本部称，韩方4日上午发现朝鲜从宣德附近向朝鲜半岛东部海域发射数枚未明飞行物。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T04:04:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/north-korea-fires-unidentified-projectile-099567",
-      "reference": [
-        "联合早报",
-        "韩国国际广播电台",
-        "法广"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1315,25 +1525,6 @@
       ],
       "section": "tech",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "world-internet-conference-publishes-2026-reports-ca2023",
-      "title": "中国网络空间研究院报告警示人工智能加剧数字鸿沟",
-      "description": "中国网络空间研究院11月4日在2026年世界互联网大会乌镇峰会期间发布《中国互联网发展报告2026》和《世界互联网发展报告2026》。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T03:55:34+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/world-internet-conference-publishes-2026-reports-ca2023",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社"
-      ],
-      "section": "tech",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1538,24 +1729,6 @@
       "sources": []
     },
     {
-      "id": "donalds-wins-florida-governor-race-a72648",
-      "title": "唐诺斯赢得佛州州长选举将成首位黑人州长",
-      "description": "共和党籍联邦众议员唐诺斯在11月3日举行的佛罗里达州州长选举中击败民主党候选人乔里。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T02:42:57+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/donalds-wins-florida-governor-race-a72648",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "sanae-takaichi-pushes-amendment-bid-faces-uncertainty-fa6510",
       "title": "日本宪法颁布80周年各地举行护宪集会",
       "description": "日本《宪法》颁布80周年之际，护宪派在各地举行集会，反对修宪并呼吁维护和平主义。",
@@ -1742,24 +1915,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "china-police-unveil-eight-rural-illegal-fundraising-cases-dfb7c4",
-      "title": "公安部经侦局公布八起涉农非法集资案例",
-      "description": "公安部经侦局公布8起涉农领域非法集资典型案例，涉及“云养经济”、农业项目投资、认养种植及林权转让等形式。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T01:38:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/china-police-unveil-eight-rural-illegal-fundraising-cases-dfb7c4",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2245,24 +2400,6 @@
       "sources": []
     },
     {
-      "id": "saudi-aramco-profit-rises-22-percent-6ba0ff",
-      "title": "沙特阿美前三季度调整后净利同比增长22%",
-      "description": "沙特阿美11月3日公布，2026年前三季度调整后净利润为983.79亿美元，同比增长22%；第三季度调整后净利润为312亿美元，同比增加9.2%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T23:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/saudi-aramco-profit-rises-22-percent-6ba0ff",
-      "reference": [
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "us-midterm-election-wall-street-stocks-mostly-rise-8b4e6a",
       "title": "美国期中选举日华尔街股市多数收高",
       "description": "美国期中选举于11月3日举行，市场等待选举结果。",
@@ -2564,24 +2701,6 @@
       "sources": []
     },
     {
-      "id": "democrats-lead-among-latino-voters-poll-11ab69",
-      "title": "民主党在拉丁裔选民中支持率领先30个百分点",
-      "description": "《纽约时报》与锡耶纳学院近期民调显示，民主党在拉丁裔选民中的支持率领先共和党30个百分点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T14:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/democrats-lead-among-latino-voters-poll-11ab69",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-state-council-finance-report-review-7bba89",
       "title": "全国人大常委会第二十五次会议听取多项报告",
       "description": "十四届全国人大常委会第二十五次会议第二次全体会议11月3日上午在北京人民大会堂举行。",
@@ -2597,24 +2716,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "georgia-early-voting-midterm-record-c78a69",
-      "title": "乔治亚州提前投票人数创期中选举纪录",
-      "description": "乔治亚州今年提前投票人数已刷新期中选举纪录。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T14:20:29+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/georgia-early-voting-midterm-record-c78a69",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2785,24 +2886,6 @@
       "sources": []
     },
     {
-      "id": "zaqy-mohamad-proposes-muslim-court-powers-ca415c",
-      "title": "扎吉哈在国会提出扩大回教法庭权限修正案",
-      "description": "新加坡主管回教事务代部长兼国防部高级政务部长扎吉哈11月3日在国会为《回教法执行（修正）法案》提出二读。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T13:34:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/zaqy-mohamad-proposes-muslim-court-powers-ca415c",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "taliban-bans-female-medical-training-86ea4a",
       "title": "塔利班禁女性接受医疗训练加剧阿富汗孕产就医难",
       "description": "塔利班政府要求女性患者由女医生诊治，却禁止女性接受医疗训练，合格女医生日渐短缺，阿富汗女性怀孕、分娩时更难获得医疗照护。",
@@ -2821,42 +2904,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-defense-drops-reservist-residency-restrictions-ae80b1",
-      "title": "台湾国防部取消后备军人选员户籍地限制",
-      "description": "台湾国防部在民国116年度预算报告中确认，后备军人选充将不再受户籍地限制。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T13:26:02+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/taiwan-defense-drops-reservist-residency-restrictions-ae80b1",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "new-delhi-tightens-pollution-controls-155c83",
-      "title": "新德里加强污染管控应对严重雾霾",
-      "description": "新德里雾霾笼罩，当地政府自11月1日起推出多项污染管控措施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T13:20:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/new-delhi-tightens-pollution-controls-155c83",
-      "reference": [
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "us-residents-fight-grid-expansion-edd8e1",
       "title": "美国居民反对电网扩建维护土地权益",
       "description": "AI数据中心扩张推高用电需求后，美国多州居民反对电力公司升级电网、在私人土地上建设输电设施，并通过诉讼、抗争或协商维护权益。",
@@ -2871,24 +2918,6 @@
         "世界日报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "central-university-student-captures-red-sprites-6bb7a6",
-      "title": "中央大学学生三次拍到罕见红色精灵",
-      "description": "中央大学太空科学与工程学系学生王瞳在2026年5月至9月间三次拍到罕见高空放电现象“红色精灵”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T13:11:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/central-university-student-captures-red-sprites-6bb7a6",
-      "reference": [
-        "公视"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -2964,25 +2993,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "zheng-changsheng-admits-all-charges-dd8a6f",
-      "title": "郑昌圣在韩国女留学生遇害案第二次庭审认罪",
-      "description": "郑昌圣11月2日在大邱地方法院第二次庭审中承认全部指控，对检方证据无异议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T13:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/zheng-changsheng-admits-all-charges-dd8a6f",
-      "reference": [
-        "联合早报",
-        "财新"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3472,24 +3482,6 @@
       "sources": []
     },
     {
-      "id": "carriers-offer-sim-swap-protection-c255f8",
-      "title": "三大运营商提供免费号码防护功能",
-      "description": "AT&T、T-Mobile和Verizon均提供免费的号码安全设置，帮助用户阻止未经授权的SIM卡变更或号码转出。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T06:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/carriers-offer-sim-swap-protection-c255f8",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "chu-couple-gift-harvard-law-record-d5339c",
       "title": "朱钦文夫妇捐3140万元创哈佛法学院纪录",
       "description": "华裔律师朱钦文与妻子黄敏华近日向哈佛大学法学院捐赠3140万元，创下该院历来金额最高的单笔捐赠纪录。",
@@ -3859,24 +3851,6 @@
         "第一财经"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "guo-xueyi-indicted-bribery-graft-6f193a",
-      "title": "中南大学原副校长郭学益被提起公诉",
-      "description": "安徽省六安市人民检察院近日将中南大学原党委常委、副校长郭学益涉嫌受贿、行贿、贪污一案诉至六安市中级人民法院。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T02:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/guo-xueyi-indicted-bribery-graft-6f193a",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
