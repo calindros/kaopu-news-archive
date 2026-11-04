@@ -1,19 +1,39 @@
 {
   "details": {
     "date": "2026-11-04",
-    "timestamp": 1793778189,
+    "timestamp": 1793781119,
     "totalPages": 1,
-    "total": 271
+    "total": 269
   },
   "stories": [
     {
-      "id": "us-midterm-election-congress-control-164251",
-      "title": "美国民主党有望在中期选举中夺回国会两院控制权",
-      "description": "美国民主党有望在2026年期中选举中夺回国会参众两院控制权。",
+      "id": "gaza-stance-shapes-michigan-senate-race-504dc5",
+      "title": "萨伊德计票未完即宣布赢得密歇根州参议员选举",
+      "description": "民主党候选人阿卜杜勒·萨伊德于11月4日凌晨在底特律向支持者宣布，他赢得密歇根州联邦参议员选举。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-04T06:30:00+00:00",
+      "updatedAt": "2026-11-04T07:33:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/gaza-stance-shapes-michigan-senate-race-504dc5",
+      "reference": [
+        "英国广播公司",
+        "世界日报",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "us-midterm-election-congress-control-164251",
+      "title": "美国民主党在期中选举中争夺参议院控制权",
+      "description": "美国民主党在2026年期中选举中争夺参议院控制权，众议院计票尚未结束。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T07:31:07+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-26",
       "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
@@ -24,24 +44,311 @@
         "端传媒"
       ],
       "section": "us",
-      "sourceCount": 142,
+      "sourceCount": 151,
       "sources": []
     },
     {
       "id": "china-stocks-rally-tech-index-surges-baf0f5",
-      "title": "A股午后大幅拉升科创综指涨超9.6%",
-      "description": "11月4日午后，A股主要股指明显上扬。",
+      "title": "A股主要指数集体收涨科创综指涨9.9%",
+      "description": "11月4日，A股主要指数收盘全线上涨，科创综指涨幅最大，达到9.9%。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-04T06:24:00+00:00",
+      "updatedAt": "2026-11-04T07:17:37.972374+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-04",
       "url": "https://kaopu.news/story/2026-11-04/china-stocks-rally-tech-index-surges-baf0f5",
       "reference": [
-        "澎湃新闻"
+        "澎湃新闻",
+        "第一财经"
       ],
       "section": "business",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "binance-freezes-three-billion-hack-assets-ebaf47",
+      "title": "黑客借虚假面试入侵币安转走约63亿美元资产",
+      "description": "币安11月3日公布初步调查报告称，黑客利用虚假招聘面试及被篡改的软件入侵内部系统，于10月29日未经授权转出约63.4亿美元加密资产。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T07:12:22+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/binance-freezes-three-billion-hack-assets-ebaf47",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "韩国国际广播电台",
+        "英国广播公司"
+      ],
+      "section": "business",
+      "sourceCount": 46,
+      "sources": []
+    },
+    {
+      "id": "reserve-bank-australia-rate-hike-decision-1d05ad",
+      "title": "澳大利亚央行加息至4.85%创2008年以来新高",
+      "description": "澳大利亚储备银行11月3日以6票赞成、3票反对通过加息，将现金利率上调25个基点至4.85%，达到2008年以来最高水平。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T07:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/reserve-bank-australia-rate-hike-decision-1d05ad",
+      "reference": [
+        "SBS",
+        "中央通訊社",
+        "联合早报",
+        "法广"
+      ],
+      "section": "business",
+      "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "singapore-orders-ten-firms-disclose-haze-data-be7c20",
+      "title": "新加坡拟修法提高跨境烟霾违法罚款",
+      "description": "新加坡永续发展与环境部长傅海燕11月4日在国会为《跨境烟霾污染法令》修正案提出二读。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T06:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/singapore-orders-ten-firms-disclose-haze-data-be7c20",
+      "reference": [
+        "联合早报",
+        "英国广播公司"
+      ],
+      "section": "asia",
+      "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "iran-envoys-doha-qatar-war-talks-8ddd25",
+      "title": "卡利巴夫称美国中期选举传递反战民意",
+      "description": "伊朗伊斯兰议会议长、对美谈判首席代表穆罕默德·巴盖尔·卡利巴夫11月4日在社交平台X用英文发文，将美国中期选举结果解读为美国民众反对战争的表达，并称伊朗支持这一立场。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T06:44:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/iran-envoys-doha-qatar-war-talks-8ddd25",
+      "reference": [
+        "联合早报",
+        "法广",
+        "澎湃新闻",
+        "韩民族日报"
+      ],
+      "section": "world",
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "najib-unpaid-fine-remains-prison-57954f",
+      "title": "纳吉未缴清5000万令吉罚款仍须留在加影监狱",
+      "description": "截至11月4日，马来西亚前首相纳吉仍未缴清5000万令吉罚款，尚未转为居家服刑，必须继续留在加影监狱服刑。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T06:35:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/najib-unpaid-fine-remains-prison-57954f",
+      "reference": [
+        "联合早报",
+        "当今大马"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "tencent-hunyuan-launches-hy4-open-model-tier-2403ff",
+      "title": "腾讯混元发布Hy4称其首次跻身最强开源模型梯队",
+      "description": "腾讯混元发布新一代大语言模型Hy4，并称该模型首次进入最强开源模型梯队。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T06:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/tencent-hunyuan-launches-hy4-open-model-tier-2403ff",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "oracle-cancels-tencent-chip-lease-trump-pressure-beaec8",
+      "title": "金融时报称甲骨文受特朗普政府施压取消腾讯的芯片租约",
+      "description": "英国《金融时报》称，甲骨文在特朗普政府施压下取消与腾讯的芯片租赁协议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T06:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/oracle-cancels-tencent-chip-lease-trump-pressure-beaec8",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "queens-chinese-american-lawmakers-reelected-e6c43b",
+      "title": "皇后区三名华裔民选官员期中选举成功连任",
+      "description": "皇后区三名华裔现任民选官员在2026年期中选举中连任：孟昭文继续担任联邦众议员，刘醇逸连任州参议员，金兑锡连任州众议员。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T06:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/queens-chinese-american-lawmakers-reelected-e6c43b",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "nikkei-mitsui-chemicals-jsr-acquisition-plan-266563",
+      "title": "日经称三井化学拟逾1.3万亿日元收购JSR",
+      "description": "日经报道称，三井化学计划以超过1.3万亿日元从日本政府系基金产业革新投资机构（JIC）手中收购JSR。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T06:22:18+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/nikkei-mitsui-chemicals-jsr-acquisition-plan-266563",
+      "reference": [
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-labor-department-suspends-perm-applications-bc0613",
+      "title": "美国劳工部暂停微软等八家企业PERM申请",
+      "description": "美国劳工部10月宣布，因调查涉嫌滥用工作签证体系及欺诈行为，暂停受理微软等8家企业的新PERM申请，并暂缓审理这些企业尚未结案的相关申请。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T06:18:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/us-labor-department-suspends-perm-applications-bc0613",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "bay-area-voters-midterm-election-9f60e1",
+      "title": "湾区期中选举结束选民就公职与提案投票",
+      "description": "湾区选民于11月3日结束期中选举投票，围绕联邦、加州及地方公职人选作出选择，并对住房、交通、基础设施和地方财政等提案投票。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T06:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/bay-area-voters-midterm-election-9f60e1",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "los-angeles-chinese-asylum-family-green-card-delay-c12418",
+      "title": "洛杉矶华人一家庇护面谈通过后仍等绿卡",
+      "description": "洛杉矶华人王城（化名）一家三口通过政治庇护面谈后，至今仍未拿到绿卡，近期又收到补交材料通知。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T06:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/los-angeles-chinese-asylum-family-green-card-delay-c12418",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "california-asian-voters-grow-election-influence-3054ba",
+      "title": "加州亚裔选民增长扩大选举影响力",
+      "description": "加州亚裔选民人数快速增加，政治倾向多元，使其在今年选举中的影响力上升，但投票选择难以仅凭族裔身份判断。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T06:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/california-asian-voters-grow-election-influence-3054ba",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "wsj-reports-us-strike-qeshm-island-bdf786",
+      "title": "《华尔街日报》称美军有限打击伊朗格什姆岛",
+      "description": "《华尔街日报》援引美国官员报道，美军于11月2日对伊朗格什姆岛实施有限打击，这是美国近几周对伊朗采取的最新一次此类行动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T06:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/wsj-reports-us-strike-qeshm-island-bdf786",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "法广",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "indonesia-names-three-police-officials-suspects-147916",
+      "title": "印尼警方将前警察总长等三人列为监听案嫌疑人",
+      "description": "当地时间2026年11月3日，印尼警方将前国家警察总长、现任总统办公厅主任里斯提约（Listyo Sigit Prabowo），国家警察法律司司长阿里（Ahrie Sonta Nasution）和总督察埃科（Eko Hadi Santoso）列为嫌疑人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T06:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/indonesia-names-three-police-officials-suspects-147916",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "法广"
+      ],
+      "section": "asia",
       "sourceCount": 4,
       "sources": []
     },
@@ -65,6 +372,24 @@
       "sources": []
     },
     {
+      "id": "nordic-40c-heat-risk-rises-sixfold-f2a6b5",
+      "title": "研究称北欧40℃高温概率升至1981年的六倍",
+      "description": "芬兰气象研究所的一项研究显示，受气候变化影响，芬兰、瑞典和挪威出现40℃及以上高温的概率已达到1981年的约六倍。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T06:09:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/nordic-40c-heat-risk-rises-sixfold-f2a6b5",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "heshun-court-sentences-two-rape-defendants-0ac62c",
       "title": "和顺法院一审判处性侵案两被告12年和10年",
       "description": "11月4日，卜某遭性侵案一审宣判，和顺县人民法院判处两名被告有期徒刑12年和10年。",
@@ -84,24 +409,21 @@
       "sources": []
     },
     {
-      "id": "iran-envoys-doha-qatar-war-talks-8ddd25",
-      "title": "美伊双方间接谈判仍未达成明确协议",
-      "description": "美国与伊朗通过卡塔尔、巴基斯坦等调解方继续进行间接谈判，但截至11月4日，双方尚未就结束冲突或重开霍尔木兹海峡达成明确协议。",
+      "id": "trump-accepts-us-midterm-election-results-2d5ca3",
+      "title": "川普表态愿接受美国期中选举结果",
+      "description": "美国期中选举民主党大胜后，川普表示愿意接受选举结果，并称愿与民主党合作。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-04T06:03:24+00:00",
+      "updatedAt": "2026-11-04T06:02:03+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/iran-envoys-doha-qatar-war-talks-8ddd25",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/trump-accepts-us-midterm-election-results-2d5ca3",
       "reference": [
-        "联合早报",
-        "法广",
-        "澎湃新闻",
-        "韩民族日报"
+        "法广"
       ],
-      "section": "world",
-      "sourceCount": 8,
+      "section": "us",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -120,6 +442,24 @@
       ],
       "section": "china",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "mae-lee-information-gap-hinders-chinese-voters-011d70",
+      "title": "李宝霞称信息不足阻碍华人选民参与",
+      "description": "华人进步会行政总监李宝霞向世界日报表示，选前外展中，住房和生活开支是华人选民最常提出的关切；但关注生活处境并不意味着了解选票内容。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/mae-lee-information-gap-hinders-chinese-voters-011d70",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -900,27 +1240,6 @@
       "sources": []
     },
     {
-      "id": "binance-freezes-three-billion-hack-assets-ebaf47",
-      "title": "币安披露假面试入侵致63亿美元加密资产被盗",
-      "description": "币安披露，针对员工的虚假招聘面试导致公司内部系统遭入侵，攻击者于10月29日转出约63.4亿美元加密资产。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T03:46:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/binance-freezes-three-billion-hack-assets-ebaf47",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "韩国国际广播电台",
-        "英国广播公司"
-      ],
-      "section": "business",
-      "sourceCount": 45,
-      "sources": []
-    },
-    {
       "id": "mainland-skips-taiwan-apec-summit-invitation-436eb7",
       "title": "深圳将于APEC期间对货车实施临时限行",
       "description": "深圳市公安局11月3日发布通告，决定于11月16日至20日在全市部分区域及道路实施货车临时交通管理。",
@@ -1031,24 +1350,6 @@
       "sources": []
     },
     {
-      "id": "los-angeles-chinese-asylum-family-green-card-delay-c12418",
-      "title": "洛杉矶华人一家申请庇护八年仍未获绿卡",
-      "description": "《世界日报》采访的洛杉矶华人王城（化名）一家，申请政治庇护八年后仍未拿到绿卡。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T03:15:45+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/los-angeles-chinese-asylum-family-green-card-delay-c12418",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "nexperia-sues-wingtech-over-2-billion-f6fdd8",
       "title": "安世半导体起诉闻泰科技索赔20亿美元",
       "description": "安世半导体已向荷兰阿姆斯特丹地方法院起诉闻泰科技、闻泰创办人张学政、安世中国和安世上海，索求20亿美元赔偿。",
@@ -1101,62 +1402,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "queens-chinese-american-lawmakers-reelected-e6c43b",
-      "title": "皇后区三名华裔民选官员在期中选举中连任",
-      "description": "2026年11月3日美国期中选举中，皇后区三名华裔现任民选官员孟昭文、刘醇逸和金兑锡均成功连任。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T02:42:17+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/queens-chinese-american-lawmakers-reelected-e6c43b",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "indonesia-names-three-police-officials-suspects-147916",
-      "title": "印尼警方将前警察总长等三人列为监听案嫌疑人",
-      "description": "印尼警方11月3日将前国家警察总长里斯提约、国家警察法律司司长阿里和总督察埃科列为嫌疑人，指三人涉嫌非法监听总统普拉博沃等人；三人已被扣留。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T02:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/indonesia-names-three-police-officials-suspects-147916",
-      "reference": [
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "najib-unpaid-fine-remains-prison-57954f",
-      "title": "媒体称纳吉今日将缴5000万令吉罚款",
-      "description": "《新海峡时报》和《每日新闻》引述消息人士称，纳吉将于11月4日缴付SRC国际公司案5000万令吉罚款。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T02:37:28+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/najib-unpaid-fine-remains-prison-57954f",
-      "reference": [
-        "联合早报",
-        "当今大马"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1535,24 +1780,6 @@
       "sources": []
     },
     {
-      "id": "bay-area-voters-midterm-election-9f60e1",
-      "title": "湾区选民在期中选举投票选举各级官员",
-      "description": "11月3日，湾区进入期中选举投票日。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T01:00:08+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/bay-area-voters-midterm-election-9f60e1",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "pelosi-mcconnell-exit-us-politics-d657d4",
       "title": "佩洛西与麦康奈尔宣布退出美国政坛",
       "description": "美国政界多名资深议员在中期选举前宣布不再寻求连任，南希·佩洛西和米奇·麦康奈尔也将退出政坛。",
@@ -1604,43 +1831,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "gaza-stance-shapes-michigan-senate-race-504dc5",
-      "title": "赛义德竞逐密歇根参议员席位若胜将成美国首位穆斯林",
-      "description": "密歇根州联邦参议员选举于11月3日美国中期选举日举行，民主党候选人阿卜杜勒·埃尔—赛义德与共和党候选人迈克·罗杰斯争夺一个空缺席位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T00:32:57+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/gaza-stance-shapes-michigan-senate-race-504dc5",
-      "reference": [
-        "英国广播公司"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "singapore-orders-ten-firms-disclose-haze-data-be7c20",
-      "title": "新加坡拟修法追查疑涉跨境烟霾企业",
-      "description": "印尼加里曼丹、巴布亚和苏门答腊的野火烟雾飘向新加坡和马来西亚，数周来造成呼吸不适、头痛等影响。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T00:23:42+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/singapore-orders-ten-firms-disclose-haze-data-be7c20",
-      "reference": [
-        "联合早报",
-        "英国广播公司"
-      ],
-      "section": "asia",
-      "sourceCount": 9,
       "sources": []
     },
     {
@@ -2000,27 +2190,6 @@
       "sources": []
     },
     {
-      "id": "reserve-bank-australia-rate-hike-decision-1d05ad",
-      "title": "澳大利亚央行加息至4.85%创18年新高",
-      "description": "澳大利亚储备银行11月3日宣布，将现金利率上调25个基点至4.85%，达到18年来最高水平；这是该行2026年的第五次加息。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T21:21:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/reserve-bank-australia-rate-hike-decision-1d05ad",
-      "reference": [
-        "SBS",
-        "中央通訊社",
-        "联合早报",
-        "法广"
-      ],
-      "section": "business",
-      "sourceCount": 11,
-      "sources": []
-    },
-    {
       "id": "china-slowdown-hits-toyota-suppliers-6b26d5",
       "title": "中国市场低迷拖累丰田系企业业绩",
       "description": "中国市场疲软及原材料、能源和运输成本上升，令丰田系多家主要企业业绩承压，电装、爱信等正采取产能调整、削减固定费用和业务合理化等措施应对。",
@@ -2094,24 +2263,6 @@
         "世界日报"
       ],
       "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-labor-department-suspends-perm-applications-bc0613",
-      "title": "美国劳工部暂停微软等八家企业PERM申请",
-      "description": "美国劳工部10月宣布，因调查相关企业的用工及移民申请情况，暂停微软、Adobe等8家企业的新PERM申请，并暂缓审理已经提交的案件。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T19:35:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/us-labor-department-suspends-perm-applications-bc0613",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -2260,45 +2411,6 @@
       ],
       "section": "us",
       "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "wsj-reports-us-strike-qeshm-island-bdf786",
-      "title": "美军袭击伊朗格什姆岛 特朗普称美方击中一处防空设施",
-      "description": "美军11月2日袭击伊朗格什姆岛。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T15:32:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/wsj-reports-us-strike-qeshm-island-bdf786",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "法广",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "eu-conditionally-approves-jd-ceconomy-deal-4e9ef9",
-      "title": "欧盟委员会附条件批准京东收购Ceconomy",
-      "description": "欧盟委员会11月3日附条件批准京东收购德国零售集团Ceconomy。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T15:23:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/eu-conditionally-approves-jd-ceconomy-deal-4e9ef9",
-      "reference": [
-        "德国之声"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2617,25 +2729,6 @@
       "sources": []
     },
     {
-      "id": "southwest-us-rains-trigger-flood-evacuations-734872",
-      "title": "美国西南部四州洪灾已致一人死亡",
-      "description": "美国西南部亚利桑那等四州遭遇洪灾，已造成1人死亡。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T13:28:08+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/southwest-us-rains-trigger-flood-evacuations-734872",
-      "reference": [
-        "联合早报",
-        "公视"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "taiwan-defense-drops-reservist-residency-restrictions-ae80b1",
       "title": "台湾国防部取消后备军人选员户籍地限制",
       "description": "台湾国防部在民国116年度预算报告中确认，后备军人选充将不再受户籍地限制。",
@@ -2820,27 +2913,6 @@
       "sources": []
     },
     {
-      "id": "trump-democrats-election-eve-rallies-042bf6",
-      "title": "特朗普在倒影池发表期中选举前最后演说",
-      "description": "美国总统特朗普11月2日在华盛顿林肯纪念堂倒影池前发表期中选举投票日前最后一场公开造势演说，重点介绍水池及华盛顿公共区域的翻修工程，并呼吁选民支持共和党。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T12:50:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/trump-democrats-election-eve-rallies-042bf6",
-      "reference": [
-        "法广",
-        "公视",
-        "世界日报",
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "china-western-australia-sign-investment-memorandum-b587da",
       "title": "国家发改委与西澳签署投资合作备忘录",
       "description": "国家发展改革委与西澳大利亚州签署促进投资合作的谅解备忘录。",
@@ -2950,24 +3022,6 @@
       ],
       "section": "china",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "thailand-raises-imported-ev-tax-35-percent-5a40e8",
-      "title": "泰国内阁批准明年起将整车进口电动车税率提至35%",
-      "description": "泰国内阁11月3日批准提高整车进口纯电动车和增程式电动车的消费税。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T12:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/thailand-raises-imported-ev-tax-35-percent-5a40e8",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3118,44 +3172,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "schaeffler-europe-cuts-3460-jobs-a53745",
-      "title": "舍弗勒宣布在欧洲裁减3460个职位",
-      "description": "舍弗勒集团计划在欧洲削减3460个职位，并关闭5处据点，裁员将于2028年前完成，约占其全球近11万名员工的3%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T10:04:05+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/schaeffler-europe-cuts-3460-jobs-a53745",
-      "reference": [
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "icc-president-tomoko-akane-addresses-un-assembly-4037c5",
-      "title": "赤根智子在联大批评美国制裁妨碍司法",
-      "description": "国际刑事法院院长赤根智子11月2日在纽约联合国大会作年度报告。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T09:47:24+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/icc-president-tomoko-akane-addresses-un-assembly-4037c5",
-      "reference": [
-        "共同网",
-        "日本放送协会"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3581,24 +3597,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "singapore-healthcare-clusters-outage-vendor-update-f08ebd",
-      "title": "供应商未完成安全更新致新加坡三大公共医疗集群中断",
-      "description": "新加坡三大公共医疗集群10月13日发生持续九个半小时的系统中断。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T05:43:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/singapore-healthcare-clusters-outage-vendor-update-f08ebd",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -4062,42 +4060,6 @@
         "财新"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "researchers-ai-find-p2pshell-vulnerability-20b581",
-      "title": "CNN称研究人员借助AI发现P2PShell漏洞",
-      "description": "据美国有线电视新闻网（CNN）报道，研究人员近期借助人工智能发现名为“P2PShell”的网络安全漏洞。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T12:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/researchers-ai-find-p2pshell-vulnerability-20b581",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "tokens-become-ai-compute-pricing-unit-55548e",
-      "title": "词元成为人工智能算力计量与结算基础单位",
-      "description": "第一财经刊文系统梳理词元在人工智能服务中的计量、成本和定价机制，并介绍中国大陆部分地区与金融机构将词元消耗和算力服务合同用于企业运营评估的探索。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T11:59:38.627661+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/tokens-become-ai-compute-pricing-unit-55548e",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "ai",
       "sourceCount": 1,
       "sources": []
     },
