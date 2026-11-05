@@ -1,15 +1,166 @@
 {
   "details": {
     "date": "2026-11-05",
-    "timestamp": 1793849648,
+    "timestamp": 1793856380,
     "totalPages": 1,
     "total": 273
   },
   "stories": [
     {
+      "id": "us-midterm-election-congress-control-164251",
+      "title": "美国民主党在中期选举中夺回国会两院控制权",
+      "description": "美国民主党在中期选举中夺回国会参众两院控制权，并翻转多个共和党传统票仓席位。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T04:20:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
+      "reference": [
+        "世界日报",
+        "英国广播公司",
+        "联合早报",
+        "端传媒"
+      ],
+      "section": "us",
+      "sourceCount": 207,
+      "sources": []
+    },
+    {
+      "id": "fox-says-talarico-threatens-texas-senate-seat-49043a",
+      "title": "德州民主党打破32年全州公职选举不胜纪录",
+      "description": "美国中期选举中，德克萨斯州民主党赢得联邦参议员、州长等多个全州性职位，并取得州众议院多数，打破共和党长期主导的局面。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T04:10:57+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-30",
+      "url": "https://kaopu.news/story/2026-10-30/fox-says-talarico-threatens-texas-senate-seat-49043a",
+      "reference": [
+        "世界日报",
+        "公视",
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 17,
+      "sources": []
+    },
+    {
+      "id": "nanjing-high-schools-delay-start-times-2af097",
+      "title": "南京部分高中推迟到校并提前结束晚自习",
+      "description": "南京部分高中自11月1日起调整作息，原先要求学生早上7点前到校的学校，现在多改为7点20分或7点半到校；晚自习通常在晚上9点至9点半结束。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T04:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/nanjing-high-schools-delay-start-times-2af097",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "singapore-scam-youth-sentencing-bill-92ea66",
+      "title": "新加坡提案规定未满21岁涉诈者原则上判监或改造训练",
+      "description": "新加坡内政部11月3日向国会提呈《量刑（诈骗）法案》，拟规定，犯罪时未满21岁的诈骗及协助诈骗罪犯，除特殊情况外，应判处监禁或改造训练，使这两类刑罚成为通常适用的选项。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T04:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/singapore-scam-youth-sentencing-bill-92ea66",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "china-consulate-warns-honolulu-entry-69b532",
+      "title": "中国驻洛杉矶总领馆提醒谨慎经檀香山入境",
+      "description": "中国驻洛杉矶总领馆提醒拟赴美的中国公民谨慎选择从檀香山国际机场入境，并提前了解美国入境规定、做好应对盘查准备。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T04:01:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/china-consulate-warns-honolulu-entry-69b532",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "wangyi-urges-mekong-states-law-enforcement-security-a09c50",
+      "title": "王毅呼吁中国与湄公河国家加强执法安全合作",
+      "description": "中国外交部长王毅呼吁中国与参与澜沧江—湄公河合作的东南亚国家加强执法和安全合作，推动相关协作进一步一体化。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T03:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/wangyi-urges-mekong-states-law-enforcement-security-a09c50",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "singapore-subsidizes-hereditary-breast-ovarian-cancer-43829e",
+      "title": "新加坡12月起补贴遗传性乳腺卵巢癌基因检测",
+      "description": "新加坡保健卫生部宣布，自2026年12月1日起，符合条件的新加坡公民和永久居民可在新加坡国立癌症中心、新加坡国立大学癌症中心及陈笃生医院接受遗传性乳腺癌和卵巢癌（HBOC）基因检测，并按经济状况获得最高七成津贴，男女均适用。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T03:53:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/singapore-subsidizes-hereditary-breast-ovarian-cancer-43829e",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ahmad-zahid-malaysia-prosecute-overseas-cybercriminals-ca83c8",
+      "title": "扎希称马来西亚可依法追究海外网络犯罪分子",
+      "description": "马来西亚副首相阿末扎希表示，针对在海外实施的网络犯罪，只要行为涉及马来西亚境内的系统，或受害者是马来西亚公民，相关人员仍可在马来西亚面临法律行动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T03:43:58+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/ahmad-zahid-malaysia-prosecute-overseas-cybercriminals-ca83c8",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "joshua-wong-national-security-sentencing-803f1d",
-      "title": "香港高等法院判处黄之锋监禁十年",
-      "description": "香港高等法院于2026年11月5日判处前香港众志秘书长黄之锋监禁10年，罪名是串谋勾结外国势力危害国家安全。",
+      "title": "香港高院判黄之锋串谋勾结外国势力罪监禁十年",
+      "description": "香港高等法院11月5日判处黄之锋监禁10年，认定案件属于《香港国安法》规定的“罪行重大”类别。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -25,6 +176,100 @@
       ],
       "section": "china",
       "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "massie-plans-impeachment-resolution-hegseth-1add74",
+      "title": "马西拟提案弹劾赫格塞斯众院最快下周表决",
+      "description": "肯塔基州共和党众议员托马斯·马西计划在国会下周复会首日提出弹劾国防部长赫格塞斯的决议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T03:39:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/massie-plans-impeachment-resolution-hegseth-1add74",
+      "reference": [
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "wellington-koo-says-us-arms-sales-unaffected-c16bc6",
+      "title": "顾立雄称美国对台军售不会受中期选举影响",
+      "description": "台湾防长顾立雄11月5日在前往台湾立法院参加审查今年中央政府总预算追加预算案的联席会议前表示，美国国会两党支持台湾增强防卫能力，因此中期选举结果不会改变美国对台军售。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T03:36:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/wellington-koo-says-us-arms-sales-unaffected-c16bc6",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-admits-iran-war-affects-gop-midterms-cbbf5f",
+      "title": "特朗普承认伊朗战争拖累共和党中期选举",
+      "description": "民主党在11月3日美国中期选举中赢得国会参众两院控制权后，特朗普次日在白宫承认，与伊朗的战争在很大程度上拖累了共和党选情，但他仍为军事行动辩护，称即使重新选择也会采取同样的做法。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T03:33:58+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/trump-admits-iran-war-affects-gop-midterms-cbbf5f",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "财新",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 17,
+      "sources": []
+    },
+    {
+      "id": "china-revises-ecological-product-value-accounting-rules-6f9c9b",
+      "title": "多部门修订规范统一生态产品总值核算方法",
+      "description": "国家发展改革委、自然资源部、国家统计局近日会同有关部门修订《生态产品总值核算规范（试行）》，形成新版《生态产品总值核算规范》。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T03:28:40.253329+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/china-revises-ecological-product-value-accounting-rules-6f9c9b",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "south-korea-plans-cheonghae-escort-duqm-expansion-78e35f",
+      "title": "韩国拟将清海部队护航区延伸至杜库姆周边",
+      "description": "韩国国防部11月5日宣布，计划把清海反海盗部队在中东的护航行动范围向霍尔木兹海峡方向扩大，行动海域拟向东北延伸至阿曼杜库姆港周边，距海峡约650公里。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T03:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/south-korea-plans-cheonghae-escort-duqm-expansion-78e35f",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -44,6 +289,24 @@
       ],
       "section": "us",
       "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "democrats-regain-senate-house-control-055674",
+      "title": "民主党在美国中期选举中夺回国会两院控制权",
+      "description": "民主党在11月3日举行的美国中期选举中夺回参众两院控制权，美东时间当晚午夜前后胜局已定。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T03:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/democrats-regain-senate-house-control-055674",
+      "reference": [
+        "财新"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -85,27 +348,6 @@
       ],
       "section": "asia",
       "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "us-midterm-election-congress-control-164251",
-      "title": "美国民主党赢得国会参众两院控制权",
-      "description": "美国民主党在11月3日举行的中期选举中赢得国会参众两院控制权，新一届国会将从2027年1月起由民主党掌控。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T03:01:36.573805+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
-      "reference": [
-        "世界日报",
-        "英国广播公司",
-        "联合早报",
-        "端传媒"
-      ],
-      "section": "us",
-      "sourceCount": 204,
       "sources": []
     },
     {
@@ -179,6 +421,24 @@
       ],
       "section": "business",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "japan-saury-catch-plunges-record-low-4dc7ab",
+      "title": "日本秋刀鱼捕捞量同比锐减八成创1989年以来新低",
+      "description": "日本全国秋刀鱼舷提网渔协11月4日公布，8至10月捕捞量为8796吨，较上年同期减少八成，降至1989年有记录以来同期最低水平。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T02:32:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/japan-saury-catch-plunges-record-low-4dc7ab",
+      "reference": [
+        "共同网"
+      ],
+      "section": "life",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -436,27 +696,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-admits-iran-war-affects-gop-midterms-cbbf5f",
-      "title": "特朗普承认伊朗战争拖累共和党选情",
-      "description": "美国总统特朗普承认，对伊朗发动战争及其短期内推高油价，是共和党中期选举失利的重要原因之一；但他说，即使重新选择，仍会对伊朗采取军事行动，因为不能让伊朗拥有核武器。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T01:41:38+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/trump-admits-iran-war-affects-gop-midterms-cbbf5f",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "财新",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 16,
       "sources": []
     },
     {
@@ -867,24 +1106,6 @@
       "sources": []
     },
     {
-      "id": "massie-plans-impeachment-resolution-hegseth-1add74",
-      "title": "马西计划提出弹劾赫格塞斯决议案",
-      "description": "肯塔基州共和党众议员托马斯·马西计划在美国国会下周复会首日提出弹劾战争部长赫格塞斯的决议案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T23:56:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/massie-plans-impeachment-resolution-hegseth-1add74",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-issues-resource-conservation-plan-cecc6d",
       "title": "中国多部门印发全面节约战略行动方案",
       "description": "中国国家发展改革委、工业和信息化部等部门联合印发《实施全面节约战略行动方案》。",
@@ -1163,24 +1384,6 @@
       "sources": []
     },
     {
-      "id": "china-consulate-warns-honolulu-entry-69b532",
-      "title": "中国驻洛杉矶总领馆提醒慎选檀香山机场入境",
-      "description": "中国驻洛杉矶总领馆提醒拟赴美中国公民谨慎选择檀香山国际机场入境，并提前了解美国入境规定、做好准备。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T20:45:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/china-consulate-warns-honolulu-entry-69b532",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "eu-publishes-four-accession-roadmaps-0bf0f7",
       "title": "欧委会公布四国未来一年入盟路线图",
       "description": "欧盟委员会11月4日发布年度扩大计划，为乌克兰、黑山、阿尔巴尼亚和摩尔多瓦设定未来一年的阶段性目标，并指出入盟进度取决于改革。",
@@ -1215,27 +1418,6 @@
       ],
       "section": "us",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "fox-says-talarico-threatens-texas-senate-seat-49043a",
-      "title": "民主党赢下德州并夺回美国国会两院",
-      "description": "美国民主党在11月3日的中期选举中赢得德州联邦参议员和州长选举，并夺下总检察长、副州长、铁路专员等多个州级职位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T20:05:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/fox-says-talarico-threatens-texas-senate-seat-49043a",
-      "reference": [
-        "世界日报",
-        "公视",
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 16,
       "sources": []
     },
     {
@@ -2443,47 +2625,6 @@
       "sources": []
     },
     {
-      "id": "tokyo-stocks-nikkei-breaks-below-62000-4d9860",
-      "title": "民主党选情占优日经指数盘中一度跌逾3000点",
-      "description": "东京股市节假日后于11月4日恢复交易。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T10:11:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/tokyo-stocks-nikkei-breaks-below-62000-4d9860",
-      "reference": [
-        "澎湃新闻",
-        "共同网",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 11,
-      "sources": []
-    },
-    {
-      "id": "gaza-stance-shapes-michigan-senate-race-504dc5",
-      "title": "赛义德宣布击败罗杰斯当选密歇根州联邦参议员",
-      "description": "民主党候选人阿卜杜勒·埃尔-赛义德宣布击败共和党候选人迈克·罗杰斯，当选密歇根州联邦参议员。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T10:04:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/gaza-stance-shapes-michigan-senate-race-504dc5",
-      "reference": [
-        "英国广播公司",
-        "世界日报",
-        "联合早报",
-        "财新"
-      ],
-      "section": "us",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "china-coast-guard-vessels-enter-kinmen-waters-exit-4cb847",
       "title": "4艘中国海警船驶入金门禁止水域后驶离",
       "description": "11月4日下午，4艘中国海警船驶入金门禁止水域，台湾海巡署金马澎分署第十二巡防区派出巡防艇跟随监控，并通过无线电要求其离开。",
@@ -2502,24 +2643,6 @@
       "sources": []
     },
     {
-      "id": "malaysia-data-center-local-participation-97b562",
-      "title": "马来西亚要求数据中心项目至少三成本地参与",
-      "description": "马来西亚政府要求当地数据中心项目至少达到30%的本地参与度。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T09:51:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/malaysia-data-center-local-participation-97b562",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "australia-inquiry-urges-aukus-submarine-pact-end-517fad",
       "title": "澳大利亚独立调查呼吁立即终止美英澳核潜艇合作",
       "description": "澳大利亚独立调查委员会发布最终报告，建议政府立即终止美英澳核潜艇合作。",
@@ -2535,43 +2658,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-ransomware-cases-hit-record-fb1e7e",
-      "title": "日本企业勒索软件受害案例今年增至239起",
-      "description": "Macnica统计显示，2026年1月至10月，日本企业因勒索软件攻击受损的案例共239起，超过2025年全年，刷新该公司统计纪录。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T09:39:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/japan-ransomware-cases-hit-record-fb1e7e",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "new-delhi-tightens-pollution-controls-155c83",
-      "title": "新德里部分地区PM2.5浓度超世卫日限值30倍",
-      "description": "新德里空气污染在排灯节前加重。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T09:21:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/new-delhi-tightens-pollution-controls-155c83",
-      "reference": [
-        "公视",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2680,24 +2766,6 @@
         "端传媒"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "wangyi-urges-mekong-states-law-enforcement-security-a09c50",
-      "title": "王毅呼吁澜湄国家加强执法安全合作",
-      "description": "中国外长王毅11月3日至4日在北京主持澜沧江—湄公河合作第十一次外长会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T08:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/wangyi-urges-mekong-states-law-enforcement-security-a09c50",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
@@ -3612,44 +3680,6 @@
       "sources": []
     },
     {
-      "id": "bushby-returns-hull-after-28-year-trek-8e4864",
-      "title": "英国探险家布什比完成28年环球徒步返家",
-      "description": "英国探险家卡尔·布什比历时28年、徒步约5万公里横跨四大洲，于11月2日回到英格兰东北部赫尔的父母家，结束环球徒步旅程。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T14:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/bushby-returns-hull-after-28-year-trek-8e4864",
-      "reference": [
-        "法广",
-        "公视",
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "malaysia-survey-shows-rising-marriage-age-69d608",
-      "title": "马来西亚公布调查报告显示初婚年龄上升",
-      "description": "马来西亚妇女、家庭及社会发展部长南茜苏克利星期二（11月3日）公布第六次马来西亚人口与家庭调查报告。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T13:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/malaysia-survey-shows-rising-marriage-age-69d608",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "marvell-lumentum-stock-acquisition-de78b7",
       "title": "迈威尔以1150亿美元收购Lumentum",
       "description": "美国芯片公司迈威尔科技（Marvell）与光通信企业Lumentum于11月2日宣布达成最终协议，迈威尔将以全股票方式收购后者，交易隐含企业价值约1150亿美元。",
@@ -3668,24 +3698,6 @@
       ],
       "section": "business",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "rui-takahashi-comes-out-encourages-questioning-b0207b",
-      "title": "日本男排选手高桥垒公开出柜鼓励困惑者",
-      "description": "日本男子排球选手高桥垒今年9月公开出柜，并表示希望借自身经历鼓励同样对性倾向感到困惑的人。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T13:37:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/rui-takahashi-comes-out-encourages-questioning-b0207b",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "life",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3761,24 +3773,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "china-western-australia-sign-investment-memorandum-b587da",
-      "title": "国家发改委与西澳签署投资合作备忘录",
-      "description": "国家发展改革委与西澳大利亚州签署促进投资合作的谅解备忘录。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T12:41:38.221156+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/china-western-australia-sign-investment-memorandum-b587da",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "china",
-      "sourceCount": 1,
       "sources": []
     },
     {
