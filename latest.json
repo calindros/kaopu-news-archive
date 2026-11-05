@@ -1,11 +1,91 @@
 {
   "details": {
     "date": "2026-11-05",
-    "timestamp": 1793914321,
+    "timestamp": 1793922107,
     "totalPages": 1,
     "total": 274
   },
   "stories": [
+    {
+      "id": "china-service-growth-slows-to-july-low-ab407d",
+      "title": "中国服务业10月扩张速度降至7月以来最低水平",
+      "description": "瑞霆狗（RatingDog）11月4日公布的非官方调查显示，中国服务业PMI从9月的51.6降至10月的50.8，为7月以来最低；指数仍高于50荣枯线，活动继续扩张。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T23:00:14+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/china-service-growth-slows-to-july-low-ab407d",
+      "reference": [
+        "联合早报",
+        "SBS"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "spain-trains-collide-kill-46-d000d5",
+      "title": "西班牙高铁追尾事故造成69人死亡",
+      "description": "西班牙中部托莱多省乌尔达附近10月28日发生高铁追尾事故，一列Renfe列车撞上停驶的Iryo列车，造成69人死亡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T22:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/spain-trains-collide-kill-46-d000d5",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "法广",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 47,
+      "sources": []
+    },
+    {
+      "id": "pan-gongsheng-backs-capital-market-tools-7a86bd",
+      "title": "潘功胜提出支持中央汇金发挥类平准基金作用",
+      "description": "中国人民银行行长潘功胜11月3日向全国人大常委会作金融工作报告，提出落实支持资本市场的货币政策工具，并支持中央汇金公司发挥类“平准基金”作用。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T22:58:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/pan-gongsheng-backs-capital-market-tools-7a86bd",
+      "reference": [
+        "财新",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "joshua-wong-national-security-sentencing-803f1d",
+      "title": "香港高院判黄之锋勾结外国势力罪监禁十年",
+      "description": "香港高等法院11月5日判处前香港众志秘书长黄之锋监禁10年，罪名涉及串谋请求外国对中国中央政府或香港特区政府采取制裁等行动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T22:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/joshua-wong-national-security-sentencing-803f1d",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "英国广播公司",
+        "端传媒"
+      ],
+      "section": "china",
+      "sourceCount": 26,
+      "sources": []
+    },
     {
       "id": "china-space-station-sets-coldest-matter-record-540331",
       "title": "中国空间站实验刷新人造物质最低温纪录",
@@ -62,8 +142,8 @@
     },
     {
       "id": "newsom-commutes-california-death-sentences-b38440",
-      "title": "纽森宣布将加州548名死刑犯改判为不得假释终身监禁",
-      "description": "加州州长加文·纽森宣布，将该州548名死刑犯的判决改为不得假释的终身监禁。",
+      "title": "纽森将加州548名死刑犯改判不得假释终身监禁",
+      "description": "加州州长加文·纽森宣布依据宪法赦免权，将全州死刑判决改为不得假释的终身监禁，涉及548名死刑犯。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -72,10 +152,11 @@
       "publishedAt": "2026-11-05",
       "url": "https://kaopu.news/story/2026-11-05/newsom-commutes-california-death-sentences-b38440",
       "reference": [
+        "法广",
         "世界日报"
       ],
       "section": "us",
-      "sourceCount": 1,
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -227,27 +308,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "joshua-wong-national-security-sentencing-803f1d",
-      "title": "香港高院判黄之锋危害国家安全罪囚十年",
-      "description": "香港高等法院11月5日判处前香港众志秘书长黄之锋监禁10年，罪名是串谋勾结外国或者境外势力危害国家安全。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T17:19:14.628000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/joshua-wong-national-security-sentencing-803f1d",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "英国广播公司",
-        "端传媒"
-      ],
-      "section": "china",
-      "sourceCount": 25,
       "sources": []
     },
     {
@@ -814,25 +874,6 @@
       "sources": []
     },
     {
-      "id": "pan-gongsheng-backs-capital-market-tools-7a86bd",
-      "title": "潘功胜提出支持汇金发挥类平准基金作用",
-      "description": "11月3日，中国人民银行行长潘功胜向全国人大常委会作金融工作报告时提出，落实支持资本市场的货币政策工具，支持中央汇金公司发挥类“平准基金”作用，同时拓宽中长期资金来源、渠道和入市方式，完善资本市场稳定机制。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T12:36:34.652030+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/pan-gongsheng-backs-capital-market-tools-7a86bd",
-      "reference": [
-        "财新",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "japan-websites-record-cyberattacks-october-a6bd55",
       "title": "日本企业网站10月检出攻击约4.75亿次创纪录",
       "description": "网络安全云统计其服务覆盖的约2万个日本企业等网站后发现，2026年10月监测到的恶意通信约4.75亿次，刷新纪录。",
@@ -1329,27 +1370,6 @@
       ],
       "section": "ai",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "spain-trains-collide-kill-46-d000d5",
-      "title": "日本外务省确认两名日本人在西班牙列车事故中遇难",
-      "description": "西班牙中部托莱多省乌尔达附近发生的Renfe与Iryo高速列车相撞事故已造成69人死亡。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T10:28:18+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-28",
-      "url": "https://kaopu.news/story/2026-10-28/spain-trains-collide-kill-46-d000d5",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "法广",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 46,
       "sources": []
     },
     {
@@ -2643,24 +2663,6 @@
       ],
       "section": "life",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "fed-survey-us-household-wealth-diverges-511069",
-      "title": "美联储调查显示美国家庭财富分化加剧",
-      "description": "美国联邦储备委员会10月9日公布的最新《消费者财务状况调查》显示，2022年至2025年，美国家庭净资产中位数经通胀调整后上升2%，达到约21.6万美元，明显低于2019年至2022年间37%的增幅。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/fed-survey-us-household-wealth-diverges-511069",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
