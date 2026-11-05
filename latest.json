@@ -1,19 +1,38 @@
 {
   "details": {
     "date": "2026-11-05",
-    "timestamp": 1793885782,
+    "timestamp": 1793893246,
     "totalPages": 1,
     "total": 274
   },
   "stories": [
     {
-      "id": "trump-admits-iran-war-affects-gop-midterms-cbbf5f",
-      "title": "万斯将共和党失去国会两院归咎于伊朗战争",
-      "description": "美国共和党在11月3日中期选举中失去众议院和参议院控制权后，副总统J.D.万斯次日在社交媒体发文，把败选主因指向对伊朗战争，并呼吁党内从这一结果出发，坦诚讨论下一步政策方向。",
+      "id": "republicans-midterm-loss-signals-trump-era-end-3a22b4",
+      "title": "美国共和党中期选举惨败冲击特朗普时代",
+      "description": "美国共和党在中期选举中遭遇惨败，结果被视为对总统唐纳德·特朗普的重大挫折。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-05T13:14:00+00:00",
+      "updatedAt": "2026-11-05T14:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/republicans-midterm-loss-signals-trump-era-end-3a22b4",
+      "reference": [
+        "日经",
+        "德国之声"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-admits-iran-war-affects-gop-midterms-cbbf5f",
+      "title": "万斯称伊朗战争导致共和党失去国会两院",
+      "description": "美国民主党在11月3日举行的中期选举中夺回国会参众两院控制权，共和党失去两院多数。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T13:55:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-04",
       "url": "https://kaopu.news/story/2026-11-04/trump-admits-iran-war-affects-gop-midterms-cbbf5f",
@@ -24,17 +43,17 @@
         "法广"
       ],
       "section": "us",
-      "sourceCount": 25,
+      "sourceCount": 26,
       "sources": []
     },
     {
       "id": "joshua-wong-national-security-sentencing-803f1d",
-      "title": "香港高院判黄之锋串谋勾结外国势力罪监禁十年",
-      "description": "香港高等法院11月5日判处前香港众志秘书长黄之锋监禁10年，罪名是串谋勾结外国或者境外势力危害国家安全。",
+      "title": "香港高院判黄之锋串谋勾结外国势力罪10年",
+      "description": "香港高等法院11月5日以串谋勾结外国势力危害国家安全罪判处黄之锋监禁10年。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-05T13:01:57+00:00",
+      "updatedAt": "2026-11-05T13:53:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-03",
       "url": "https://kaopu.news/story/2026-11-03/joshua-wong-national-security-sentencing-803f1d",
@@ -45,7 +64,191 @@
         "端传媒"
       ],
       "section": "china",
-      "sourceCount": 21,
+      "sourceCount": 22,
+      "sources": []
+    },
+    {
+      "id": "suzhou-zhengzhou-land-auctions-premium-bids-f0b314",
+      "title": "中国20城落地住房销售改革细则",
+      "description": "中国商品住房销售制度改革已有20城落地实施细则，各地细则推动现房销售并提高预售要求。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T13:51:27+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/suzhou-zhengzhou-land-auctions-premium-bids-f0b314",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "2027-holiday-calendar-nine-day-spring-festival-e59478",
+      "title": "国务院办公厅公布2027年节假日安排",
+      "description": "国务院办公厅公布2027年部分节假日安排，春节假期定于2月5日（除夕）至2月13日（正月初八），共9天。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T13:46:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/2027-holiday-calendar-nine-day-spring-festival-e59478",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "reuters-china-h200-imports-await-approval-d875ab",
+      "title": "据报60万块英伟达H200芯片暂存香港待运中国大陆",
+      "description": "据德国之声援引路透社报道，两名知情人士称，约60万块英伟达H200人工智能芯片目前存放在香港，等待运往中国大陆。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T13:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/reuters-china-h200-imports-await-approval-d875ab",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "德国之声"
+      ],
+      "section": "china",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "cho-jung-tai-orders-probe-repression-network-dd18e8",
+      "title": "卓荣泰要求严查跨国镇压幕后主使及协力者",
+      "description": "台湾行政院长卓荣泰在治安会报上要求检察、警察、调查、廉政、移民部门及国安单位加强协作，为定于28日举行的地方公职人员选举和全国性公民投票做好安全维护。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T13:30:12+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/cho-jung-tai-orders-probe-repression-network-dd18e8",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "emirates-group-profit-falls-66-percent-eefe56",
+      "title": "阿联酋航空集团上半年利润同比下跌66%",
+      "description": "阿联酋航空集团11月5日宣布，上半年净利润同比减少66%，降至10亿美元，低于去年同期的29亿美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T13:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/emirates-group-profit-falls-66-percent-eefe56",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-stocks-fall-below-42000-68024f",
+      "title": "台股大跌1374点收于41574点",
+      "description": "台湾加权股价指数11月5日收于41574.72点，下跌1374.19点，跌幅3.20%，跌破42000点，为历年第13大收盘跌点，也是7月31日以来的最低收盘位。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T13:25:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/taiwan-stocks-fall-below-42000-68024f",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 25,
+      "sources": []
+    },
+    {
+      "id": "lawrence-wong-updates-government-legacy-systems-e695bf",
+      "title": "黄循财宣布全面更新政府旧系统加快政策落实",
+      "description": "新加坡总理黄循财11月5日在政府科技局成立十周年晚宴上说，政府正全面检视并更新各部门的旧电脑系统，以免系统老化拖慢政策落实，并让政府更快回应公众需求。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T13:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/lawrence-wong-updates-government-legacy-systems-e695bf",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "bank-england-first-rate-hike-four-percent-42c97a",
+      "title": "英国央行逾三年来首次加息25个基点至4%",
+      "description": "英国央行英格兰银行5日将基准利率提高25个基点至4%，这是该行逾三年来首次加息。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T13:16:07+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/bank-england-first-rate-hike-four-percent-42c97a",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "micron-pauses-taoyuan-factory-construction-0f0029",
+      "title": "彭博称美光因桃园劳资纠纷大致暂停新厂施工",
+      "description": "彭博报道，美光因桃园劳资纠纷未解决，已大致暂停桃园新厂施工。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T13:15:05+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/micron-pauses-taoyuan-factory-construction-0f0029",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "tech",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-regulator-announces-eight-vehicle-recalls-5a028b",
+      "title": "市场监管总局集中发布八项车辆召回公告",
+      "description": "国家市场监督管理总局召回中心11月4日集中发布8则公告，涉及6起汽车召回和2起进口摩托车召回。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T12:58:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/china-regulator-announces-eight-vehicle-recalls-5a028b",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -204,25 +407,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-stocks-fall-below-42000-68024f",
-      "title": "台股六连跌重挫1374点失守42000点",
-      "description": "台湾加权指数11月5日连续第六个交易日收跌，收报41574.72点，下跌1374.19点，跌幅3.20%，跌破42000点关口；收盘跌点为历年第13大。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T12:28:58+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/taiwan-stocks-fall-below-42000-68024f",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 24,
-      "sources": []
-    },
-    {
       "id": "sungrow-forecasts-storage-shipments-nearly-double-800b20",
       "title": "阳光电源预计明年储能出货量接近翻倍",
       "description": "阳光电源管理层近日在面向300多位机构投资者的交流会上表示，2027年公司储能出货量较今年可能接近翻倍。",
@@ -311,24 +495,6 @@
         "澎湃新闻"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "reuters-china-h200-imports-await-approval-d875ab",
-      "title": "路透称北京未批H200大规模进口",
-      "description": "据路透社引述知情人士报道，中国政府尚未批准英伟达H200芯片大规模运入中国大陆，约60万颗芯片目前存放在香港，等待运往大陆。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T12:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/reuters-china-h200-imports-await-approval-d875ab",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
@@ -779,24 +945,6 @@
         "日本放送协会"
       ],
       "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "2027-holiday-calendar-nine-day-spring-festival-e59478",
-      "title": "国务院公布2027年放假安排春节连休9天",
-      "description": "国务院办公厅11月5日下午公布2027年节假日安排，春节假期为2月5日至13日，共9天。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T10:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/2027-holiday-calendar-nine-day-spring-festival-e59478",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
       "sourceCount": 2,
       "sources": []
     },
@@ -1568,45 +1716,6 @@
         "澎湃新闻"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "south-korea-plans-cheonghae-escort-duqm-expansion-78e35f",
-      "title": "韩国拟扩大清海部队任务区并增派75人",
-      "description": "韩国政府计划把清海部队的护航任务从索马里亚丁湾延伸至阿曼南部外海，并增加人员和装备。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T07:04:07+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/south-korea-plans-cheonghae-escort-duqm-expansion-78e35f",
-      "reference": [
-        "韩国国际广播电台",
-        "联合早报",
-        "韩民族日报",
-        "法广"
-      ],
-      "section": "asia",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "japan-plans-cyber-rescue-team-e2183f",
-      "title": "共同社称日本政府拟设官民网络救援队",
-      "description": "据共同社报道，日本政府拟在近期制定的网络攻击紧急对策草案中提出组建“官民网络救援队”（暂定名），由官方和民间专业人员组成，派往遭攻击的企业等协助初期处置。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T07:03:37+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/japan-plans-cyber-rescue-team-e2183f",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -2603,62 +2712,6 @@
       "sources": []
     },
     {
-      "id": "democrats-regain-senate-house-control-055674",
-      "title": "民主党在美国中期选举中夺回国会两院控制权",
-      "description": "民主党在11月3日举行的美国中期选举中夺回参众两院控制权，美东时间当晚午夜前后胜局已定。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T03:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/democrats-regain-senate-house-control-055674",
-      "reference": [
-        "财新"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "oil-prices-plunge-eight-percent-d38422",
-      "title": "美国中期选举预测带动国际油价大幅下跌",
-      "description": "美国民主党大胜的预测推动国际油价在11月4日大幅下跌，黄金和白银期货上涨。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T03:06:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/oil-prices-plunge-eight-percent-d38422",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "日经"
-      ],
-      "section": "business",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "vietnam-shifts-investment-toward-technology-transfer-680186",
-      "title": "越南调整外资政策引导投资重视技术转移",
-      "description": "越南共产党最高领导层6月通过第10号决议，越南国会正在审议《投资法》修正案，拟扩大可享受优惠的领域，并依据技术转让等进展调整支持力度。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T02:41:20+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/vietnam-shifts-investment-toward-technology-transfer-680186",
-      "reference": [
-        "日经"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "japan-saury-catch-plunges-record-low-4dc7ab",
       "title": "日本秋刀鱼捕捞量同比锐减八成创1989年以来新低",
       "description": "日本全国秋刀鱼舷提网渔协11月4日公布，8至10月捕捞量为8796吨，较上年同期减少八成，降至1989年有记录以来同期最低水平。",
@@ -2673,24 +2726,6 @@
         "共同网"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "republicans-midterm-loss-signals-trump-era-end-3a22b4",
-      "title": "美国共和党中期选举惨败开启特朗普时代终结",
-      "description": "美国共和党在中期选举中遭遇惨败。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T02:12:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/republicans-midterm-loss-signals-trump-era-end-3a22b4",
-      "reference": [
-        "日经"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -3004,6 +3039,24 @@
       "sources": []
     },
     {
+      "id": "nathan-johnson-elected-texas-attorney-general-d8036b",
+      "title": "民主党籍得克萨斯州参议员强生当选该州检察长",
+      "description": "民主党籍得克萨斯州参议员内森·强生于11月3日当选该州检察长。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T22:56:14+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/nathan-johnson-elected-texas-attorney-general-d8036b",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "eu-publishes-four-accession-roadmaps-0bf0f7",
       "title": "欧委会公布四国未来一年入盟路线图",
       "description": "欧盟委员会11月4日发布年度扩大计划，为乌克兰、黑山、阿尔巴尼亚和摩尔多瓦设定未来一年的阶段性目标，并指出入盟进度取决于改革。",
@@ -3169,24 +3222,6 @@
       ],
       "section": "world",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "international-court-rules-gambia-myanmar-genocide-case-09031b",
-      "title": "国际法院将裁决冈比亚诉缅甸罗兴亚种族灭绝案",
-      "description": "国际法院定于11月19日就冈比亚针对缅甸提出的罗兴亚人种族灭绝诉讼作出终审裁决。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T14:46:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/international-court-rules-gambia-myanmar-genocide-case-09031b",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3629,25 +3664,6 @@
         "世界日报"
       ],
       "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "heshun-court-sentences-two-rape-defendants-0ac62c",
-      "title": "和顺法院一审判处性侵案两被告12年和10年",
-      "description": "11月4日，卜某遭性侵案一审宣判，和顺县人民法院判处两名被告有期徒刑12年和10年。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T06:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/heshun-court-sentences-two-rape-defendants-0ac62c",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "china",
       "sourceCount": 2,
       "sources": []
     },
@@ -4516,24 +4532,6 @@
         "澎湃新闻"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-first-amchepry-parkinsons-transplant-5a7330",
-      "title": "日本首次为帕金森病患者移植Amchepry",
-      "description": "住友制药10月30日宣布，京都大学医学部附属医院于10月初为一名50多岁女性帕金森病患者实施Amchepry移植，这是该产品获批后的首次临床应用。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T06:22:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/japan-first-amchepry-parkinsons-transplant-5a7330",
-      "reference": [
-        "日经"
-      ],
-      "section": "tech",
       "sourceCount": 1,
       "sources": []
     },
