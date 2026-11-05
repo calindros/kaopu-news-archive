@@ -1,11 +1,89 @@
 {
   "details": {
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "timestamp": 1793834403,
     "totalPages": 1,
     "total": 268
   },
   "stories": [
+    {
+      "id": "us-midterm-election-congress-control-164251",
+      "title": "民主党夺回国会两院共和党施压特朗普调整政策",
+      "description": "11月3日举行的美国中期选举中，民主党夺回国会参众两院控制权。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T23:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
+      "reference": [
+        "世界日报",
+        "英国广播公司",
+        "联合早报",
+        "端传媒"
+      ],
+      "section": "us",
+      "sourceCount": 185,
+      "sources": []
+    },
+    {
+      "id": "zhejiang-bank-iran-russia-funds-channel-072f0a",
+      "title": "华尔街日报称稠州银行成伊朗、俄罗斯资金通道",
+      "description": "《华尔街日报》援引美国前官员并依据其查阅的文件称，浙江稠州商业银行近年在涉及伊朗和俄罗斯的金融往来中承担重要的资金中转角色。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T22:57:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/zhejiang-bank-iran-russia-funds-channel-072f0a",
+      "reference": [
+        "端传媒"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nathan-johnson-elected-texas-attorney-general-d8036b",
+      "title": "民主党籍得克萨斯州参议员强生当选该州检察长",
+      "description": "民主党籍得克萨斯州参议员内森·强生于11月3日当选该州检察长。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T22:56:14+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/nathan-johnson-elected-texas-attorney-general-d8036b",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-admits-iran-war-affects-gop-midterms-cbbf5f",
+      "title": "特朗普承认伊朗战争拖累共和党中期选举",
+      "description": "美国总统唐纳德·特朗普11月4日在华盛顿承认，对伊朗采取军事行动拖累共和党在中期选举中的表现。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T22:55:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/trump-admits-iran-war-affects-gop-midterms-cbbf5f",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "财新",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 10,
+      "sources": []
+    },
     {
       "id": "reserve-bank-australia-rate-hike-decision-1d05ad",
       "title": "澳大利亚央行加息至4.85%创18年新高",
@@ -28,6 +106,25 @@
       "sources": []
     },
     {
+      "id": "johnson-wont-run-house-republican-leader-0ac442",
+      "title": "约翰逊据报不竞选众院共和党少数党领袖",
+      "description": "美国众议院议长迈克·约翰逊据报不竞选下一届众议院共和党少数党领袖。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T22:04:05+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/johnson-wont-run-house-republican-leader-0ac442",
+      "reference": [
+        "联合早报",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "democrats-control-congress-immigration-policy-962c2e",
       "title": "民主党掌控国会移民审查短期难松绑",
       "description": "民主党在美国期中选举中取得国会控制权，但移民申请审查未必会因此加快。",
@@ -43,6 +140,25 @@
       ],
       "section": "us",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "oil-prices-plunge-eight-percent-d38422",
+      "title": "投资人押注美伊冲突加快结束国际油价大跌",
+      "description": "11月4日，国际油价大幅下跌。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-04T21:59:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/oil-prices-plunge-eight-percent-d38422",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -101,45 +217,6 @@
       ],
       "section": "world",
       "sourceCount": 62,
-      "sources": []
-    },
-    {
-      "id": "us-midterm-election-congress-control-164251",
-      "title": "美国民主党在中期选举中夺回国会两院",
-      "description": "美国民主党在11月3日举行的中期选举中夺回国会参众两院控制权，并在多个州的选举中取得进展。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T21:34:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
-      "reference": [
-        "世界日报",
-        "英国广播公司",
-        "联合早报",
-        "端传媒"
-      ],
-      "section": "us",
-      "sourceCount": 183,
-      "sources": []
-    },
-    {
-      "id": "oil-prices-plunge-eight-percent-d38422",
-      "title": "国际油价大幅下跌两大原油期货合约跌逾8%",
-      "description": "国际油价4日收盘显著走低。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T21:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/oil-prices-plunge-eight-percent-d38422",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -213,26 +290,6 @@
       ],
       "section": "us",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "trump-admits-iran-war-affects-gop-midterms-cbbf5f",
-      "title": "特朗普承认伊朗战争拖累共和党中期选举表现",
-      "description": "特朗普承认，伊朗战争影响了共和党在中期选举中的表现，也拖累了他的支持率。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T20:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/trump-admits-iran-war-affects-gop-midterms-cbbf5f",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "财新"
-      ],
-      "section": "us",
-      "sourceCount": 7,
       "sources": []
     },
     {
@@ -480,24 +537,6 @@
       ],
       "section": "asia",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "johnson-wont-run-house-republican-leader-0ac442",
-      "title": "据报约翰逊不竞选众议院共和党领袖",
-      "description": "《纽约时报》称，约翰逊在周三（11月4日）上午与共和党工作人员通话时表示，不会参选众议院共和党领袖。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T15:38:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/johnson-wont-run-house-republican-leader-0ac442",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2562,24 +2601,6 @@
       "sources": []
     },
     {
-      "id": "ukraine-prosecutors-charge-mendel-treason-5e8279",
-      "title": "乌克兰检方指控泽连斯基前发言人涉嫌叛国",
-      "description": "乌克兰检方指控总统弗拉基米尔·泽连斯基的前新闻秘书尤利娅·门德尔涉嫌叛国，并被指替俄罗斯对乌克兰的武装侵略辩护。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T05:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/ukraine-prosecutors-charge-mendel-treason-5e8279",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "pappas-defeats-sununu-holds-new-hampshire-senate-seat-013b55",
       "title": "巴帕斯击败苏努努当选新罕布什尔州联邦参议员",
       "description": "民主党籍联邦众议员克里斯·巴帕斯赢得新罕布什尔州联邦参议员选举，击败共和党前参议员约翰·苏努努，为民主党守住该州席位。",
@@ -2760,25 +2781,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "justice-department-deploys-election-monitors-all-states-1e36cf",
-      "title": "美国司法部派千人监督中期选举投票",
-      "description": "美国司法部在中期选举投票日向全美50个州的多个司法辖区派出1000名选举监督员和观察员，称这是该部门历来规模最大的选举监督行动，派员人数约为上一次中期选举的三倍。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T04:00:23+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/justice-department-deploys-election-monitors-all-states-1e36cf",
-      "reference": [
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 3,
       "sources": []
     },
     {
