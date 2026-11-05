@@ -1,15 +1,273 @@
 {
   "details": {
     "date": "2026-11-05",
-    "timestamp": 1793863472,
+    "timestamp": 1793866950,
     "totalPages": 1,
-    "total": 274
+    "total": 271
   },
   "stories": [
     {
+      "id": "joshua-wong-national-security-sentencing-803f1d",
+      "title": "香港高院判黄之锋串谋勾结外国或者境外势力危害国家安全罪囚十年",
+      "description": "香港高等法院11月5日判处前香港众志秘书长黄之锋监禁10年。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T07:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/joshua-wong-national-security-sentencing-803f1d",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "英国广播公司",
+        "端传媒"
+      ],
+      "section": "china",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "us-midterm-election-congress-control-164251",
+      "title": "民主党赢得中期选举掌控美国国会两院",
+      "description": "美国民主党在11月3日举行的中期选举中赢得国会参众两院多数，结束共和党对两院的控制。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T07:15:45+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
+      "reference": [
+        "世界日报",
+        "英国广播公司",
+        "联合早报",
+        "端传媒"
+      ],
+      "section": "us",
+      "sourceCount": 214,
+      "sources": []
+    },
+    {
+      "id": "malaysia-government-signs-confidence-supply-pact-29626c",
+      "title": "马来西亚政府原则同意和解麻坡73万令吉拨款案",
+      "description": "马来西亚联邦政府于11月5日原则上同意与麻坡国会议员赛沙迪及三名麻坡选民达成和解，处理总额73万300令吉的麻坡选区拨款诉讼。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T07:12:22+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/malaysia-government-signs-confidence-supply-pact-29626c",
+      "reference": [
+        "当今大马",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "reuters-ipsos-poll-costs-top-voter-concern-e809c6",
+      "title": "民主党赢得美国中期选举并掌控国会两院",
+      "description": "美国选民11月3日参加中期选举，民主党赢得国会参众两院控制权，共和党失去两院主导地位。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T07:11:07+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/reuters-ipsos-poll-costs-top-voter-concern-e809c6",
+      "reference": [
+        "世界日报",
+        "英国广播公司",
+        "韩民族日报"
+      ],
+      "section": "us",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "south-korea-composite-index-losses-widen-four-percent-524471",
+      "title": "日经225指数与韩国综合指数收盘下跌",
+      "description": "日经225指数和韩国综合指数11月5日收盘均下跌，前者报61077.9点、跌1.79%，后者收于5383.8点、跌5.28%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:41:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/south-korea-composite-index-losses-widen-four-percent-524471",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "singapore-orders-ten-firms-disclose-haze-data-be7c20",
+      "title": "新加坡国会通过烟霾法修正案扩大追责权限",
+      "description": "新加坡国会于2026年11月4日三读通过《跨境烟霾污染法令》修正案，扩大政府调查和追究跨境烟霾责任的权限。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:37:03+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-23",
+      "url": "https://kaopu.news/story/2026-10-23/singapore-orders-ten-firms-disclose-haze-data-be7c20",
+      "reference": [
+        "联合早报",
+        "英国广播公司",
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 17,
+      "sources": []
+    },
+    {
+      "id": "democrats-lead-among-latino-voters-poll-11ab69",
+      "title": "美国中期选举出口民调显示选民转向民主党",
+      "description": "美国中期选举出口民调显示，多个选民群体较2024年更倾向民主党；《纽约时报》估算，民主党在众议院全国普选票中领先约13个百分点，并称这一差距至少是半个世纪以来国会选举中最大的一次。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/democrats-lead-among-latino-voters-poll-11ab69",
+      "reference": [
+        "联合早报",
+        "端传媒",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "trump-warns-democrats-impeachment-will-destroy-party-cf344d",
+      "title": "特朗普称民主党推动弹劾将摧毁自身",
+      "description": "民主党在美国中期选举中夺得国会两院控制权后，特朗普11月4日在白宫回答记者提问时表示，自己不担心遭弹劾；若民主党推动弹劾，他警告称该党将被“摧毁”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/trump-warns-democrats-impeachment-will-destroy-party-cf344d",
+      "reference": [
+        "法广",
+        "日经",
+        "澎湃新闻",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "queens-chinese-american-lawmakers-reelected-e6c43b",
+      "title": "孟昭文称明年亚太裔国会议员至少达22人",
+      "description": "美国期中选举后，国会亚太裔党团主席孟昭文11月4日表示，明年党团至少将有22名亚太裔议员，创下新高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/queens-chinese-american-lawmakers-reelected-e6c43b",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "bottoms-wins-georgia-governor-election-111f2d",
+      "title": "美国明年将首次有五名非裔州长同时在任",
+      "description": "2026年11月3日美国中期选举中，四名非裔候选人赢得州长选举，马里兰州民主党籍州长韦斯·摩尔连任。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/bottoms-wins-georgia-governor-election-111f2d",
+      "reference": [
+        "德国之声",
+        "世界日报",
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 17,
+      "sources": []
+    },
+    {
+      "id": "trump-admits-iran-war-affects-gop-midterms-cbbf5f",
+      "title": "范斯称伊朗战争导致共和党中期选举失利",
+      "description": "美国副总统J.D.范斯11月4日在社交媒体发文，将共和党在中期选举中的失利归因于对伊朗战争。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/trump-admits-iran-war-affects-gop-midterms-cbbf5f",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "财新",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 20,
+      "sources": []
+    },
+    {
+      "id": "us-voters-decide-state-ballot-measures-aeb588",
+      "title": "加州选民通过第3号提案永久延续高收入税率",
+      "description": "加州选民在11月3日举行的期中选举中通过第3号提案，将针对收入最高2%纳税人的较高所得税率从原定2031年到期改为永久实施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:23:52+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/us-voters-decide-state-ballot-measures-aeb588",
+      "reference": [
+        "世界日报",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "california-billionaire-tax-vote-opposition-leads-241b50",
+      "title": "加州亿万富豪税提案开票反对票领先",
+      "description": "加州2026年14项州级公投案开票结果陆续显现。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:23:21+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/california-billionaire-tax-vote-opposition-leads-241b50",
+      "reference": [
+        "法广",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "fox-says-talarico-threatens-texas-senate-seat-49043a",
-      "title": "美国民主党期中选举夺回国会并翻转德州",
-      "description": "美国民主党在11月3日举行的中期选举中赢得国会参众两院，并在多个州取得胜利。",
+      "title": "民主党赢下德州选举打破共和党长期主导",
+      "description": "民主党在11月3日举行的美国中期选举中赢得德州联邦参议员、州长等全州公职，并夺得州众议院多数，改变了该州长期由共和党主导的选举格局。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -28,24 +286,169 @@
       "sources": []
     },
     {
-      "id": "us-midterm-election-congress-control-164251",
-      "title": "美国民主党中期选举夺回国会两院控制权",
-      "description": "美国民主党在11月3日举行的中期选举中夺回参议院和众议院控制权，共和党失去两院多数。",
+      "id": "california-election-wiener-ma-kim-lead-bbfa70",
+      "title": "加州民主党赢得州长及多项州级职位",
+      "description": "加州2026年州级选举开票结果显示，民主党候选人赢得州长及多项州级行政职位，多名亚裔候选人当选或暂时领先。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:22:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/california-election-wiener-ma-kim-lead-bbfa70",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "gold-breaks-4000-after-us-midterms-13135b",
+      "title": "伦敦金价两日反弹逾5%突破4100美元",
+      "description": "伦敦现货金价11月5日亚洲交易时段突破每盎司4100美元，创两周新高；此前两日累计上涨逾200美元，涨幅超过5%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:20:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/gold-breaks-4000-after-us-midterms-13135b",
+      "reference": [
+        "第一财经",
+        "财新",
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "johnson-wont-run-house-republican-leader-0ac442",
+      "title": "约翰逊不竞选新一届众院共和党领袖",
+      "description": "美国众议院议长迈克·约翰逊11月4日告知共和党幕僚，他不会竞逐新一届众议院共和党领袖；其发言人随后确认，他将卸下党团领袖职务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/johnson-wont-run-house-republican-leader-0ac442",
+      "reference": [
+        "联合早报",
+        "法广",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "valkyries-san-francisco-title-parade-23fb6a",
+      "title": "金州女武神夺冠后在旧金山举行庆祝游行",
+      "description": "金州女武神赢下WNBA总决赛第七场，建队第二个赛季便夺得队史首个总冠军。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
       "updatedAt": "2026-11-05T06:19:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/valkyries-san-francisco-title-parade-23fb6a",
       "reference": [
-        "世界日报",
-        "英国广播公司",
-        "联合早报",
-        "端传媒"
+        "世界日报"
+      ],
+      "section": "sports",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "who-dr-congo-cholera-1800-deaths-673562",
+      "title": "世卫称刚果（金）霍乱今年已致约1800人死亡",
+      "description": "世界卫生组织11月4日表示，刚果（金）今年以来报告约6万例霍乱病例，约1800人死亡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/who-dr-congo-cholera-1800-deaths-673562",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ossoff-wins-reelection-2028-betting-odds-rise-fa9184",
+      "title": "乔治亚州奥索夫击败共和党对手成功连任",
+      "description": "乔治亚州民主党联邦参议员乔恩·奥索夫11月3日在中期选举中击败共和党对手迈克·柯林斯，赢得连任。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:18:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/ossoff-wins-reelection-2028-betting-odds-rise-fa9184",
+      "reference": [
+        "世界日报"
       ],
       "section": "us",
-      "sourceCount": 213,
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "ilhan-omar-wins-fifth-house-term-930e43",
+      "title": "伊尔汗·奥马尔击败纳格尔连任明州第五选区众议员",
+      "description": "伊尔汗·奥马尔在11月3日举行的美国中期选举中击败共和党候选人约翰·纳格尔，连任明尼苏达州第五国会选区众议员。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/ilhan-omar-wins-fifth-house-term-930e43",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "democrats-control-congress-trump-linked-probes-5f49ca",
+      "title": "民主党掌控国会两院后涉特朗普企业调查预期升高",
+      "description": "民主党在期中选举中取得美国国会两院控制权后，市场对新一届国会调查特朗普政府相关企业及药价、人工智能等议题的预期升高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/democrats-control-congress-trump-linked-probes-5f49ca",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "unep-estimates-developing-countries-adaptation-needs-420-db4fcd",
+      "title": "联合国估算发展中国家适应年需4200亿美元",
+      "description": "联合国环境规划署11月4日发布分析，估算155个发展中国家未来10年的气候适应资金需求约为每年3050亿美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/unep-estimates-developing-countries-adaptation-needs-420-db4fcd",
+      "reference": [
+        "共同网"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -88,6 +491,133 @@
       "sources": []
     },
     {
+      "id": "south-korean-firms-us-affiliates-triple-1f6086",
+      "title": "韩国大企业在美关联企业十年增至约3.3倍",
+      "description": "CEO Score于11月4日公布的调查显示，韩国排名前30的大企业集团中，具备可比数据的28家，其海外关联企业重心十年间由中国转向美国。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:11:27+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/south-korean-firms-us-affiliates-triple-1f6086",
+      "reference": [
+        "韩民族日报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-police-share-fraud-account-data-886b73",
+      "title": "日本警察厅将与807家金融机构共享涉诈账户信息",
+      "description": "日本警察厅11月5日宣布，计划从11月9日起向全国807家金融机构共享涉诈账户信息。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/japan-police-share-fraud-account-data-886b73",
+      "reference": [
+        "共同网",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "indiechina-festival-holds-new-york-screenings-dffa7a",
+      "title": "朱日坤将在纽约举办第二届中国独立电影节",
+      "description": "第二届中国独立电影节（IndieChina）定于2026年11月10日至15日在纽约举行，放映场地包括曼哈顿的HERE Arts Center和布鲁克林的100 Sutton Studios。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:10:45+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/indiechina-festival-holds-new-york-screenings-dffa7a",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-microdramas-ai-share-exceeds-94-percent-98bd6b",
+      "title": "中国前十个月上线近55万部微短剧超94%为AI剧",
+      "description": "11月4日，国家广播电视总局局长曹淑敏在该局举办的“中国广播电视精品创作大会”上介绍，2026年前十个月新上线微短剧接近55万部，约为2025年全年数量的近17倍；其中AI剧占比超过94%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/china-microdramas-ai-share-exceeds-94-percent-98bd6b",
+      "reference": [
+        "财新"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "state-winners-pledge-medicaid-reform-cce7fa",
+      "title": "美国多州胜选者承诺推动白卡改革",
+      "description": "美国期中选举后，德州、乔治亚州、俄亥俄州和爱阿华州多位胜选者提出扩大或调整医疗补助计划（Medicaid，俗称白卡）、减轻医疗开支的政见。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/state-winners-pledge-medicaid-reform-cce7fa",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "berkeley-student-ice-detained-san-francisco-airport-31af24",
+      "title": "柏克莱学生据报因签证过期在机场遭ICE拘留",
+      "description": "据《世界日报》援引《旧金山纪事报》报道，来自哥伦比亚、现年23岁的柏克莱加大学生保拉·阿尔博诺兹·埃尔南德斯，上周五在旧金山机场等候飞往俄勒冈州波特兰时被美国移民及海关执法局（ICE）拘留。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/berkeley-student-ice-detained-san-francisco-airport-31af24",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "chinese-students-sentenced-elder-fraud-restitution-ea56aa",
+      "title": "三名中国留学生因诈骗美国老人被判刑并责令赔偿",
+      "description": "三名持学生签证的中国公民因参与针对美国老年人的跨州诈骗，于今年10月被判处监禁并被责令赔偿。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/chinese-students-sentenced-elder-fraud-restitution-ea56aa",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "democrats-control-congress-immigration-policy-962c2e",
       "title": "民主党夺回美国国会两院移民政策短期难改",
       "description": "民主党在美国期中选举中夺回联邦参众两院控制权，特朗普将于2027年1月面对民主党主导的新国会。",
@@ -121,6 +651,60 @@
       ],
       "section": "life",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "fed-survey-us-household-wealth-diverges-511069",
+      "title": "美联储调查显示美国家庭财富分化加剧",
+      "description": "美国联邦储备委员会10月9日公布的最新《消费者财务状况调查》显示，2022年至2025年，美国家庭净资产中位数经通胀调整后上升2%，达到约21.6万美元，明显低于2019年至2022年间37%的增幅。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/fed-survey-us-household-wealth-diverges-511069",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "san-gabriel-measure-ps-majority-support-49639e",
+      "title": "圣盖博市永久加征销售税提案获过半支持",
+      "description": "圣盖博市永久加征1个百分点销售税的Measure PS截至4日获得过半支持。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/san-gabriel-measure-ps-majority-support-49639e",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "singapore-announces-first-saf-tender-terms-8c7d55",
+      "title": "新加坡公布首轮可持续航空燃料招标条件",
+      "description": "新加坡民航局公布首轮可持续航空燃料（SAF）采购招标条件，招标计划于2026年12月中旬启动，初步采购2万至3万公吨。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/singapore-announces-first-saf-tender-terms-8c7d55",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -198,27 +782,6 @@
       "sources": []
     },
     {
-      "id": "bottoms-wins-georgia-governor-election-111f2d",
-      "title": "美国中期选举多州选出首位女性及少数族裔州长",
-      "description": "美国2026年中期选举于11月3日举行，州长和国会议员选举结果陆续揭晓。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T05:52:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/bottoms-wins-georgia-governor-election-111f2d",
-      "reference": [
-        "德国之声",
-        "世界日报",
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 15,
-      "sources": []
-    },
-    {
       "id": "sinopac-bank-unauthorized-transfers-419-customers-5d9372",
       "title": "永丰银行418名客户遭异常转账4176万元后已获返还",
       "description": "永丰银行3日发生客户账户异常转账事件，涉及418名客户、427笔汇出记录，合计新台币4176万元；银行称所有款项已于当天返还。",
@@ -275,24 +838,6 @@
       "sources": []
     },
     {
-      "id": "south-korea-composite-index-losses-widen-four-percent-524471",
-      "title": "韩国综合指数跌幅扩大至约5.6%",
-      "description": "11月5日，日经225指数跌幅扩大至2%，韩国综合指数最新跌约5.6%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T05:34:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/south-korea-composite-index-losses-widen-four-percent-524471",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "huang-bo-can-conspiracy-murder-life-sentence-1cba1c",
       "title": "黄博灿共谋谋杀罪成立被判终身监禁",
       "description": "高庭法官许德伦于2026年11月5日裁定，黄博灿共谋谋杀罪成立，判处终身监禁。",
@@ -311,46 +856,6 @@
       "sources": []
     },
     {
-      "id": "reuters-ipsos-poll-costs-top-voter-concern-e809c6",
-      "title": "民主党赢得美国国会参众两院控制权",
-      "description": "民主党在美国中期选举中赢得参众两院控制权，共和党失去国会两院主导地位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T05:30:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/reuters-ipsos-poll-costs-top-voter-concern-e809c6",
-      "reference": [
-        "世界日报",
-        "英国广播公司"
-      ],
-      "section": "us",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "joshua-wong-national-security-sentencing-803f1d",
-      "title": "香港高等法院判黄之锋监禁十年",
-      "description": "香港高等法院11月5日判处前香港众志秘书长黄之锋监禁10年。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T05:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/joshua-wong-national-security-sentencing-803f1d",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "英国广播公司",
-        "端传媒"
-      ],
-      "section": "china",
-      "sourceCount": 9,
-      "sources": []
-    },
-    {
       "id": "hong-kong-protester-release-rebuilding-life-7afe21",
       "title": "香港反送中服刑者获释后重建生活受阻",
       "description": "因参与2019年香港反送中示威而服刑近三年的Kris（化名）获释后，重建生活仍遇阻：其香港专业执照续牌申请迟迟没有结果，2025年递交的澳大利亚学生签证申请截至ABC报道时也没有结果。",
@@ -365,6 +870,24 @@
         "澳大利亚广播公司"
       ],
       "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nasa-swift-observatory-reenters-atmosphere-a67fa0",
+      "title": "NASA雨燕天文台重返大气层后在印尼上空烧毁",
+      "description": "美国国家航空航天局（NASA）服役22年的雨燕天文台于11月4日脱离轨道，在印尼北苏门答腊省上空重返大气层并烧毁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T05:20:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/nasa-swift-observatory-reenters-atmosphere-a67fa0",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "tech",
       "sourceCount": 1,
       "sources": []
     },
@@ -458,25 +981,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "malaysia-government-signs-confidence-supply-pact-29626c",
-      "title": "马来西亚政府与13名议员签约争取预算支持",
-      "description": "马来西亚团结政府10月29日与13名国会议员签署信任与供应协议（CSA），争取他们支持2027年财政预算案及相关改革。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T05:11:15+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/malaysia-government-signs-confidence-supply-pact-29626c",
-      "reference": [
-        "当今大马",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 12,
       "sources": []
     },
     {
@@ -653,27 +1157,6 @@
       ],
       "section": "world",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "trump-admits-iran-war-affects-gop-midterms-cbbf5f",
-      "title": "特朗普承认伊朗战争拖累共和党中期选举",
-      "description": "美国共和党在11月3日举行的中期选举中失利，民主党夺回国会参众两院控制权。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T04:23:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/trump-admits-iran-war-affects-gop-midterms-cbbf5f",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "财新",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 18,
       "sources": []
     },
     {
@@ -893,25 +1376,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-voters-decide-state-ballot-measures-aeb588",
-      "title": "美联社预测加州第3号提案将高收入税永久化",
-      "description": "加州选民在11月3日的期中选举中就第3号提案投票。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T03:16:18+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/us-voters-decide-state-ballot-measures-aeb588",
-      "reference": [
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -1377,24 +1841,6 @@
       "sources": []
     },
     {
-      "id": "valkyries-san-francisco-title-parade-23fb6a",
-      "title": "金州女武士在旧金山举行夺冠游行吸引约40万球迷",
-      "description": "金州女武士在WNBA总决赛第七场决胜战中取胜，在建队第二年夺得总冠军后，于4日中午在旧金山举行冠军游行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T01:13:20+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/valkyries-san-francisco-title-parade-23fb6a",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "kim-yo-jong-says-no-us-talks-9b8eed",
       "title": "金与正称美国须放弃敌对政策才可对话",
       "description": "朝鲜劳动党总务部长金与正11月4日就美国指认朝鲜黑客组织与币安遭袭事件有关发表谈话，否认相关指控，并称朝鲜没有必要与她所说“不可信、怀有敌意”的美国方面谈判。",
@@ -1413,26 +1859,6 @@
       ],
       "section": "asia",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "trump-warns-democrats-impeachment-will-destroy-party-cf344d",
-      "title": "特朗普警告民主党推动弹劾将摧毁该党",
-      "description": "美国总统特朗普11月4日在白宫回答记者提问，这是共和党在中期选举失利、民主党重新掌控国会后，他首次公开露面。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T01:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/trump-warns-democrats-impeachment-will-destroy-party-cf344d",
-      "reference": [
-        "法广",
-        "日经",
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1786,43 +2212,6 @@
       "sources": []
     },
     {
-      "id": "johnson-wont-run-house-republican-leader-0ac442",
-      "title": "约翰逊据报不竞选众院共和党少数党领袖",
-      "description": "美国众议院议长迈克·约翰逊据报不竞选下一届众议院共和党少数党领袖。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T22:04:05+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/johnson-wont-run-house-republican-leader-0ac442",
-      "reference": [
-        "联合早报",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "california-election-wiener-ma-kim-lead-bbfa70",
-      "title": "贝西拉击败共和党对手当选加州州长",
-      "description": "贝西拉已击败共和党候选人希尔顿，当选加州州长。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T21:55:34+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/california-election-wiener-ma-kim-lead-bbfa70",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "witkoff-norway-peace-proposal-talks-6bf424",
       "title": "俄乌美将于阿布扎比举行三方工作层谈判",
       "description": "俄罗斯、乌克兰和美国计划于11月10日至11日在阿联酋首都阿布扎比举行工作层级三方磋商，议题包括安全安排、局势降级、人道主义行动及推动和平的后续步骤。",
@@ -1957,24 +2346,6 @@
       "sources": []
     },
     {
-      "id": "ossoff-wins-reelection-2028-betting-odds-rise-fa9184",
-      "title": "奥索夫高票连任后2028总统投注行情走高",
-      "description": "民主党籍乔治亚州联邦参议员乔恩·奥索夫在11月3日举行的中期选举中击败共和党挑战者迈克·柯林斯，以超过240万票、58.9%的得票率赢得连任。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T16:22:37+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/ossoff-wins-reelection-2028-betting-odds-rise-fa9184",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "trump-accepts-us-midterm-election-results-2d5ca3",
       "title": "特朗普称将接受美国中期选举结果",
       "description": "特朗普在美国中期选举开票期间表示愿意接受选举结果，并称将与民主党合作。",
@@ -1996,43 +2367,6 @@
       "sources": []
     },
     {
-      "id": "singapore-orders-ten-firms-disclose-haze-data-be7c20",
-      "title": "新加坡国会通过烟霾法修正案扩大追责",
-      "description": "新加坡国会11月4日三读通过《跨境烟霾污染法令》修正案，扩大当局调查并追究涉嫌引发或助长境外林火、给新加坡带来烟霾风险的企业和个人的权限。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T15:59:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/singapore-orders-ten-firms-disclose-haze-data-be7c20",
-      "reference": [
-        "联合早报",
-        "英国广播公司"
-      ],
-      "section": "asia",
-      "sourceCount": 16,
-      "sources": []
-    },
-    {
-      "id": "ilhan-omar-wins-fifth-house-term-930e43",
-      "title": "奥马尔击败纳格尔赢得第五个众议员任期",
-      "description": "美国明尼苏达州民主党众议员伊尔汗·奥马尔在11月3日举行的明尼苏达州第五国会选区选举中击败共和党候选人约翰·纳格尔，赢得第五个任期。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T15:49:53+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/ilhan-omar-wins-fifth-house-term-930e43",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "qalibaf-says-iran-highest-defense-readiness-f3f64e",
       "title": "卡利巴夫称伊朗处于最高级别防御状态",
       "description": "当地时间11月3日，伊朗议会议长卡利巴夫在德黑兰一场会议上表示，伊朗已准备好随时参战，防御状态处于最高级别。",
@@ -2048,43 +2382,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "democratic-women-surpass-100-house-seats-895632",
-      "title": "民主党女性当选众议员人数首超百人",
-      "description": "美国中期选举后，民主党籍女性当选众议员者超过100人，创下民主党女性党团纪录。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T15:43:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/democratic-women-surpass-100-house-seats-895632",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "anwar-malaysia-meetings-security-threats-782e4e",
-      "title": "马来西亚将网络安全威胁级别调升至中等",
-      "description": "马来西亚国家网络安全机构已将网络安全威胁级别从低等调升至中等，并要求国家关键信息基础设施实体落实九项防范措施，以减少重要服务受干扰的风险。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T15:42:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/anwar-malaysia-meetings-security-threats-782e4e",
-      "reference": [
-        "联合早报",
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -2184,25 +2481,6 @@
       "sources": []
     },
     {
-      "id": "democrats-lead-among-latino-voters-poll-11ab69",
-      "title": "美国中期选举出口民调显示选民转向民主党",
-      "description": "美国中期选举出口民调显示，黑人、西班牙裔和白人选民对共和党的支持均较2024年下降。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T14:50:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/democrats-lead-among-latino-voters-poll-11ab69",
-      "reference": [
-        "联合早报",
-        "端传媒"
-      ],
-      "section": "us",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "europe-seven-flights-bomb-threats-e708d6",
       "title": "欧洲至少7架客机遭炸弹威胁后安全降落",
       "description": "当地时间11月3日，欧洲多国至少7架客运航班收到炸弹威胁，航线涉及波兰、西班牙、意大利和保加利亚。",
@@ -2224,24 +2502,6 @@
       "sources": []
     },
     {
-      "id": "mark-teixeira-wins-texas-house-seat-04b7ba",
-      "title": "前洋基一垒手提薛拉当选德州联邦众议员",
-      "description": "前纽约洋基队一垒手、共和党人马克·提薛拉在美国期中选举中击败民主党对手克莉丝汀·胡克，当选德克萨斯州第21国会选区联邦众议员，接替不竞选连任的奇普·罗伊。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T14:47:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/mark-teixeira-wins-texas-house-seat-04b7ba",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "international-court-rules-gambia-myanmar-genocide-case-09031b",
       "title": "国际法院将裁决冈比亚诉缅甸罗兴亚种族灭绝案",
       "description": "国际法院定于11月19日就冈比亚针对缅甸提出的罗兴亚人种族灭绝诉讼作出终审裁决。",
@@ -2257,44 +2517,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "queens-chinese-american-lawmakers-reelected-e6c43b",
-      "title": "多名亚裔及台裔候选人当选联邦与纽约州议员",
-      "description": "美国2026年期中选举中，台裔联邦众议员刘云平、孟昭文成功连任，台裔民主党候选人潘君达首次当选；纽约州参议员刘醇逸和州众议员金兑锡也连任。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T14:41:49+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/queens-chinese-american-lawmakers-reelected-e6c43b",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "nexperia-sues-wingtech-over-2-billion-f6fdd8",
-      "title": "安世荷兰起诉闻泰科技索赔20亿美元",
-      "description": "安世荷兰已向荷兰阿姆斯特丹地方法院起诉闻泰科技，索赔20亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T14:35:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/nexperia-sues-wingtech-over-2-billion-f6fdd8",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -2369,43 +2591,6 @@
         "中央通訊社"
       ],
       "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "eurozone-inflation-hits-three-year-high-005cb4",
-      "title": "欧元区10月通胀率升至4%创三年新高",
-      "description": "欧盟统计局公布，欧元区10月通胀年率升至4.0%，高于9月的3.8%，创三年来新高，显著高于欧洲央行2%的目标。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T13:32:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/eurozone-inflation-hits-three-year-high-005cb4",
-      "reference": [
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "china-pacific-insurance-raises-shenhua-h-share-stake-742516",
-      "title": "中国太保增持神华H股触发举牌持股升至5.15%",
-      "description": "中国太保及其关联方增持中国神华H股后，合计持股比例升至5.15%，触发举牌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T13:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/china-pacific-insurance-raises-shenhua-h-share-stake-742516",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -2485,24 +2670,6 @@
       "sources": []
     },
     {
-      "id": "crypto-spending-fails-save-ohio-carolina-seats-2c715d",
-      "title": "加密货币投入逾5000万美元仍未助共和党守住两席",
-      "description": "《世界日报》援引《华尔街日报》报道，加密货币产业在俄亥俄州和南卡罗来纳州投入逾5000万美元支持共和党联邦参议员候选人，但共和党最终未能守住这两席。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T13:15:29+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/crypto-spending-fails-save-ohio-carolina-seats-2c715d",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "kindergarten-eldercare-conversion-stalls-a1f58c",
       "title": "幼儿园改养老项目因产权审批和成本陷入停滞",
       "description": "一项将老城区民办幼儿园部分场地转为养老照护机构的计划陷入停滞。",
@@ -2517,24 +2684,6 @@
         "第一财经"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-iran-escalation-decision-73d89a",
-      "title": "特朗普称将视情况决定是否升级对伊行动",
-      "description": "美国总统特朗普表示，对伊朗行动是否升级将视具体情况而定，并称自己不需要对伊朗使用核武器。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T13:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/trump-iran-escalation-decision-73d89a",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -2554,25 +2703,6 @@
       ],
       "section": "business",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "gold-breaks-4000-after-us-midterms-13135b",
-      "title": "国际金价单日反弹逾2.8%重回4000美元",
-      "description": "国际现货黄金和纽约期货黄金在11月4日大幅回升。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T12:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/gold-breaks-4000-after-us-midterms-13135b",
-      "reference": [
-        "第一财经",
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2691,26 +2821,6 @@
       "sources": []
     },
     {
-      "id": "iran-says-three-tankers-hit-mines-strait-hormuz-b3c7b7",
-      "title": "国际海事组织无法确认霍尔木兹海峡水雷已清除",
-      "description": "国际海事组织秘书长多明格斯11月2日说，组织没有收到霍尔木兹海峡分道通航水域水雷已清除的确认，因此仍不建议船舶驶入。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T11:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/iran-says-three-tankers-hit-mines-strait-hormuz-b3c7b7",
-      "reference": [
-        "联合早报",
-        "法广",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "china-informal-invitation-taiwan-shenzhen-apec-cf45af",
       "title": "台湾抗议中国电邮邀请并要求平等参与APEC",
       "description": "台湾外交部4日要求中国停止将政治因素带入台湾参与APEC经济领导人会议的问题，并按组织规则保障台湾平等、有尊严地参会。",
@@ -2767,42 +2877,6 @@
       "sources": []
     },
     {
-      "id": "aaron-ford-wins-nevada-governor-317f6b",
-      "title": "福特击败隆巴多当选内华达州首名黑人州长",
-      "description": "内华达州总检察长、民主党人福特（Aaron Ford）击败寻求连任的共和党籍州长隆巴多（Joe Lombardo），当选州长，成为该州首名黑人州长，民主党也重新取得州长职位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T10:45:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/aaron-ford-wins-nevada-governor-317f6b",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "troy-jackson-defeats-susan-collins-maine-senate-seat-4caf60",
-      "title": "杰克逊击败柯林斯赢得缅因州参议员席位",
-      "description": "民主党人特洛伊·杰克逊在11月3日举行的缅因州联邦参议员选举中击败共和党人苏珊·柯林斯，赢得席位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T10:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/troy-jackson-defeats-susan-collins-maine-senate-seat-4caf60",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-provinces-enforce-paid-annual-leave-44b2a5",
       "title": "多省份发文推动带薪年休假制度落实",
       "description": "广东省发展改革委11月3日印发《广东省扩大消费实施方案》，要求加强休息休假制度执行，保障劳动者休假权益，并鼓励用人单位把年休假与小长假衔接，灵活安排错峰休假。",
@@ -2835,24 +2909,6 @@
         "澎湃新闻"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "australia-inquiry-urges-aukus-submarine-pact-end-517fad",
-      "title": "澳大利亚独立调查呼吁立即终止美英澳核潜艇合作",
-      "description": "澳大利亚独立调查委员会发布最终报告，建议政府立即终止美英澳核潜艇合作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T09:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/australia-inquiry-urges-aukus-submarine-pact-end-517fad",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -3723,45 +3779,6 @@
       "sources": []
     },
     {
-      "id": "singapore-labor-ministry-explores-layoff-support-ab201e",
-      "title": "新加坡人力部探讨加强被裁员工就业支援",
-      "description": "新加坡人力部正在评估如何扩大对被裁员工和求职者的就业支持，具体安排将在准备就绪后公布。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T15:41:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/singapore-labor-ministry-explores-layoff-support-ab201e",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "xi-meets-german-president-steinmeier-a089ca",
-      "title": "施泰因迈尔称习近平否认筹备乌克兰问题三方峰会",
-      "description": "中国国家主席习近平10月30日在北京人民大会堂会见德国总统施泰因迈尔。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T15:13:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/xi-meets-german-president-steinmeier-a089ca",
-      "reference": [
-        "联合早报",
-        "德国之声",
-        "财新",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 9,
-      "sources": []
-    },
-    {
       "id": "apple-iphone-duo-sells-out-0685d0",
       "title": "苹果首款折叠手机上市一周多即告售罄",
       "description": "苹果首款折叠手机 iPhone Duo 上市一周多后已售罄，公司表示目前仍无法判断何时能够恢复稳定供货。",
@@ -3794,24 +3811,6 @@
         "德国之声"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "singapore-haze-related-medical-visits-rise-242b72",
-      "title": "新加坡疑与烟霾有关病症求诊人次一度上升",
-      "description": "新加坡保健卫生部长王乙康11月3日在国会书面答复中说，9月初至10月中旬，综合诊疗所疑与烟霾有关病症的日均求诊量由约4000人次升至约5000人次，急诊部则由约360人次增至约440人次，分别上升约25%和20%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T14:09:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/singapore-haze-related-medical-visits-rise-242b72",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -4147,24 +4146,6 @@
         "第一财经"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "palantir-q3-revenue-breaks-two-billion-df97cb",
-      "title": "Palantir三季度营收首次突破20亿美元",
-      "description": "Palantir于当地时间11月2日公布2026年第三季度业绩，营收和利润均超过市场预期，美国商业业务收入首次高于美国政府业务收入。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T05:06:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/palantir-q3-revenue-breaks-two-billion-df97cb",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -4628,24 +4609,6 @@
       "sources": []
     },
     {
-      "id": "haiyang-nuclear-unit-five-concrete-pour-418bb1",
-      "title": "海阳核电5号机组核岛浇筑标志三期工程开工",
-      "description": "海阳核电5号机组核岛于10月31日9时37分开始浇筑第一罐混凝土，三期工程由此启动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T07:33:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/haiyang-nuclear-unit-five-concrete-pour-418bb1",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "stanford-exhibition-revisits-point-alones-village-45d2e1",
       "title": "斯坦福特展重访阿隆斯角华人渔村历史",
       "description": "斯坦福大学安德森收藏馆推出艺术家帕蒂·张的特展“surfacing”，通过装置艺术、档案和口述史回望19世纪阿隆斯角华人渔村。",
@@ -4860,24 +4823,6 @@
         "澎湃新闻"
       ],
       "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "phantom-blade-zero-steam-launch-600k-players-1b833a",
-      "title": "《影之刃零》首日Steam在线玩家突破60万",
-      "description": "北京灵游坊开发的武侠动作游戏《影之刃零》于10月29日登陆PC和PlayStation 5，开售后不久登上Steam全球热销榜首。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T14:24:03.092615+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/phantom-blade-zero-steam-launch-600k-players-1b833a",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "culture",
       "sourceCount": 1,
       "sources": []
     },
