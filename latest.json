@@ -1,11 +1,110 @@
 {
   "details": {
     "date": "2026-11-05",
-    "timestamp": 1793871768,
+    "timestamp": 1793873759,
     "totalPages": 1,
-    "total": 272
+    "total": 274
   },
   "stories": [
+    {
+      "id": "san-francisco-fed-el-nino-la-nina-pce-1b69b3",
+      "title": "旧金山联储研究称厄尔尼诺或推高美国明年通胀",
+      "description": "美国旧金山联邦储备银行11月2日发布研究，评估当前强厄尔尼诺对美国物价和就业的影响，并分析其转为拉尼娜后的可能后果。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T09:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/san-francisco-fed-el-nino-la-nina-pce-1b69b3",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-midterm-election-congress-control-164251",
+      "title": "民主党赢得美国国会参众两院多数席位",
+      "description": "美国民主党在11月3日举行的中期选举中赢得国会参众两院多数，预计从2027年1月新一届国会开始履职起掌控两院。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T09:09:42+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
+      "reference": [
+        "世界日报",
+        "英国广播公司",
+        "联合早报",
+        "端传媒"
+      ],
+      "section": "us",
+      "sourceCount": 224,
+      "sources": []
+    },
+    {
+      "id": "tokyo-stocks-nikkei-breaks-below-62000-4d9860",
+      "title": "民主党选情占优令日经指数收跌1.42%",
+      "description": "美国中期选举计票期间，民主党在参众两院选情占优，市场担心其加强人工智能产业监管会影响AI开发和数据中心建设。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T08:49:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/tokyo-stocks-nikkei-breaks-below-62000-4d9860",
+      "reference": [
+        "澎湃新闻",
+        "共同网",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "malaysians-arrested-overseas-suspected-drug-smuggling-41120b",
+      "title": "马来西亚213名公民涉嫌在海外充当毒骡被捕",
+      "description": "2024年至2026年9月，213名马来西亚公民因涉嫌在海外充当毒骡被捕。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T08:39:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/malaysians-arrested-overseas-suspected-drug-smuggling-41120b",
+      "reference": [
+        "当今大马",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "japan-koizumi-urges-nuclear-policy-debate-79cfd4",
+      "title": "共同社称日本政府考虑写入核武入境例外",
+      "description": "据共同社援引未具名相关人士报道，日本政府正研究在年末修订的《国家安全保障战略》中写入“无核三原则”的例外。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T08:33:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/japan-koizumi-urges-nuclear-policy-debate-79cfd4",
+      "reference": [
+        "共同网",
+        "日经",
+        "澎湃新闻"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
+      "sources": []
+    },
     {
       "id": "china-sellers-cut-black-friday-stock-78ae7b",
       "title": "欧盟新增包裹处理费中国卖家削减黑五备货",
@@ -48,8 +147,8 @@
     },
     {
       "id": "joshua-wong-national-security-sentencing-803f1d",
-      "title": "香港高院判黄之锋串谋勾结外国势力罪囚10年",
-      "description": "香港高等法院11月5日判处黄之锋监禁10年，罪名是串谋勾结外国势力危害国家安全。",
+      "title": "香港高等法院判黄之锋监禁十年",
+      "description": "香港高等法院11月5日以串谋勾结外国或者境外势力危害国家安全罪，判处黄之锋监禁10年，并认定案件属“罪行重大”。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -65,6 +164,24 @@
       ],
       "section": "china",
       "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "ogasawara-says-lai-shifts-election-campaign-focus-3384d6",
+      "title": "小笠原欣幸称赖清德选战转向民生议题",
+      "description": "国立清华大学荣誉讲座教授小笠原欣幸近日撰文分析台湾九合一选举，认为台湾总统兼民进党主席赖清德在2025年大罢免失利后，已将竞选重点从亲中、反中立场转向民生。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T08:08:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/ogasawara-says-lai-shifts-election-campaign-focus-3384d6",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -106,6 +223,24 @@
       "sources": []
     },
     {
+      "id": "china-top-courts-release-corruption-cases-9cbfa7",
+      "title": "两高发布六件新型隐性职务犯罪典型案例",
+      "description": "最高人民法院、最高人民检察院11月2日印发通知，公布6件依法惩治新型、隐性职务犯罪典型案例，供各级法院、检察院参考。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T08:01:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/china-top-courts-release-corruption-cases-9cbfa7",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "parmelin-leads-swiss-delegation-china-trade-talks-3f308a",
       "title": "中瑞签署自贸协定升级议定书扩大市场开放",
       "description": "中国与瑞士10月30日在北京签署中瑞自由贸易协定升级议定书，签署仪式由两国元首共同见证。",
@@ -124,6 +259,43 @@
       ],
       "section": "china",
       "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "formosa-smart-energy-plans-nt-13-billion-raise-87f668",
+      "title": "台塑新智能拟增资130亿元支持彰滨扩建",
+      "description": "台塑四宝11月5日召开重大信息发布会，披露旗下投资企业台塑新智能拟进行新台币130亿元现金增资。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T07:59:08+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/formosa-smart-energy-plans-nt-13-billion-raise-87f668",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-links-us-farm-imports-tariff-cuts-b673ae",
+      "title": "黄玲称扩大采购美农产品须待对等降税落地",
+      "description": "中国商务部发言人黄玲11月5日在例行记者会上说，中方愿增加自美国采购农产品，但须先落实中美“300亿对300亿”对等降税安排。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T07:58:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/china-links-us-farm-imports-tariff-cuts-b673ae",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -148,6 +320,60 @@
       "sources": []
     },
     {
+      "id": "china-flash-flood-deaths-incidents-hit-record-low-93b757",
+      "title": "水利部称今年山洪死亡失踪人数及事件数均创历史最低",
+      "description": "中国水利部表示，2026年全国山洪灾害死亡失踪人数和事件总数，均降至2000年有统计记录以来最低。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T07:45:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/china-flash-flood-deaths-incidents-hit-record-low-93b757",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "mainland-buyers-boost-hong-kong-jewelry-sales-54cdcb",
+      "title": "大陆消费者赴港购金推高珠宝钟表销售",
+      "description": "香港珠宝首饰、钟表及名贵礼品今年前九个月销售额同比增长22%，达到458亿港元，创2019年以来新高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T07:42:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/mainland-buyers-boost-hong-kong-jewelry-sales-54cdcb",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "who-estimates-youth-exercise-under-hour-ef1a21",
+      "title": "世卫估计全球四分之一青少年每周运动不足一小时",
+      "description": "世界卫生组织11月4日发布的一项研究估计，全球约四分之一11至17岁青少年每周运动不足一小时，涉及人数约2.4亿。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T07:39:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/who-estimates-youth-exercise-under-hour-ef1a21",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "aramco-third-quarter-profit-jumps-34-percent-41f48a",
       "title": "海湾国家加建输油通道降低霍尔木兹依赖",
       "description": "海湾国家正加建石油运输通道，以降低对霍尔木兹海峡的依赖。",
@@ -165,6 +391,42 @@
       ],
       "section": "business",
       "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "china-water-ministry-plans-2027-flood-defense-dcf602",
+      "title": "水利部提前谋划2027年水旱灾害防御",
+      "description": "中国水利部已提前谋划2027年防汛、防旱和防台风工作。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T07:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/china-water-ministry-plans-2027-flood-defense-dcf602",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-intelligence-team-secretly-collected-citizen-data-0b5d0a",
+      "title": "共同社称陆自情报队隐瞒身份收集市民信息",
+      "description": "共同社采访多名陆上自卫队原队员后报道，驻朝霞的“现地情报队”曾隐瞒身份接触市民，收集个人信息并写入由组织管理的“个人BSD（基础源数据）报告”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T07:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/japan-intelligence-team-secretly-collected-citizen-data-0b5d0a",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -187,6 +449,25 @@
       "sources": []
     },
     {
+      "id": "china-reportedly-blocks-softbank-abb-robotics-deal-505421",
+      "title": "中国据报阻止软银收购ABB全球机器人业务",
+      "description": "据英国《金融时报》援引知情人士报道，中国当局已告知软银，不批准其以54亿美元收购ABB机器人业务的计划。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T07:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/china-reportedly-blocks-softbank-abb-robotics-deal-505421",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "qinghai-five-agencies-require-older-worker-agreements-87930d",
       "title": "青海五部门要求超龄用工落实书面协议",
       "description": "青海省人社厅、省卫健委等5部门近日联合发布通知，要求落实超龄劳动者基本权益保障规定，并规范用工管理。",
@@ -201,45 +482,6 @@
         "澎湃新闻"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-midterm-election-congress-control-164251",
-      "title": "民主党赢得中期选举掌控美国国会两院",
-      "description": "美国民主党在11月3日举行的中期选举中赢得国会参众两院多数，结束共和党对两院的控制。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T07:15:45+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
-      "reference": [
-        "世界日报",
-        "英国广播公司",
-        "联合早报",
-        "端传媒"
-      ],
-      "section": "us",
-      "sourceCount": 214,
-      "sources": []
-    },
-    {
-      "id": "malaysians-arrested-overseas-suspected-drug-smuggling-41120b",
-      "title": "213名马来西亚人在海外涉运毒被捕",
-      "description": "2024年至2026年9月，共有213名马来西亚人在海外因涉嫌运毒被捕。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T07:13:45+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/malaysians-arrested-overseas-suspected-drug-smuggling-41120b",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -354,6 +596,24 @@
         "法广"
       ],
       "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-cabinet-says-public-repays-cash-debt-b01218",
+      "title": "台湾行政院称举债让全民多拿3万元须由全民偿还",
+      "description": "台湾行政院回应国民党方面将投票支持与普发新台币3万元相联系的选举宣传称，政府提出的全民发放1万元方案不会增加实质举债，也不挤压其他政策资源，程序合法合宪；若借款提高发放金额，债务仍须由民众偿还。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T06:52:06+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/taiwan-cabinet-says-public-repays-cash-debt-b01218",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -1613,25 +1873,6 @@
       "sources": []
     },
     {
-      "id": "wellington-koo-says-us-arms-sales-unaffected-c16bc6",
-      "title": "顾立雄称美国对台军售不受中期选举结果影响",
-      "description": "台湾国防部长顾立雄11月5日在台湾立法院受访时表示，美国国会两党支持台湾加强防卫能力；台湾国防部将继续与美国国会议员沟通，并与美国战争部保持联系，确保相关军售按计划进行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T03:36:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/wellington-koo-says-us-arms-sales-unaffected-c16bc6",
-      "reference": [
-        "中央通訊社",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "china-revises-ecological-product-value-accounting-rules-6f9c9b",
       "title": "多部门修订规范统一生态产品总值核算方法",
       "description": "国家发展改革委、自然资源部、国家统计局近日会同有关部门修订《生态产品总值核算规范（试行）》，形成新版《生态产品总值核算规范》。",
@@ -1685,27 +1926,6 @@
       ],
       "section": "business",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "indonesia-names-three-police-officials-suspects-147916",
-      "title": "印尼警方拘留前警察总长等三人涉监听总统",
-      "description": "印尼警方拘留前国家警察总长、总统办公厅主任里斯提约及两名警界高官，指三人涉嫌在2025年至2026年间非法监听总统普拉博沃等人。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T03:02:33+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/indonesia-names-three-police-officials-suspects-147916",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "法广",
-        "财新"
-      ],
-      "section": "asia",
-      "sourceCount": 7,
       "sources": []
     },
     {
@@ -1800,24 +2020,6 @@
       "sources": []
     },
     {
-      "id": "malaysia-finds-officials-skipping-domestic-worker-insurance-0a2e1c",
-      "title": "妇女力量敦促政府平等执法追查显要欠缴帮佣社险",
-      "description": "马来西亚妇女力量（Tenaganita）敦促联邦政府，对未为帮佣缴纳社险的雇主一视同仁执法。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T02:18:44+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/malaysia-finds-officials-skipping-domestic-worker-insurance-0a2e1c",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "republicans-midterm-loss-signals-trump-era-end-3a22b4",
       "title": "美国共和党中期选举惨败开启特朗普时代终结",
       "description": "美国共和党在中期选举中遭遇惨败。",
@@ -1870,24 +2072,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-schools-teacher-shortage-overtime-teaching-e069f7",
-      "title": "台湾中小学师资缺口未补教师超时授课维持教学",
-      "description": "台湾中小学师资缺口仍未补齐。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T01:56:44+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/taiwan-schools-teacher-shortage-overtime-teaching-e069f7",
-      "reference": [
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2183,24 +2367,6 @@
       "sources": []
     },
     {
-      "id": "tian-shan-cement-disclosure-violations-probe-aa67b3",
-      "title": "天山股份因信披违法违规嫌疑被证监会立案",
-      "description": "天山材料股份有限公司（天山股份，000877.SZ）11月4日晚披露，中国证监会已因其涉嫌信息披露违法违规对公司启动立案调查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T00:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/tian-shan-cement-disclosure-violations-probe-aa67b3",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-issues-resource-conservation-plan-cecc6d",
       "title": "中国多部门印发全面节约战略行动方案",
       "description": "中国国家发展改革委、工业和信息化部等部门联合印发《实施全面节约战略行动方案》。",
@@ -2219,24 +2385,6 @@
       "sources": []
     },
     {
-      "id": "china-regulator-fines-stock-manipulation-40m-83b061",
-      "title": "证监会对倍轻松操纵案罚没4047万元",
-      "description": "中国证监会认定，马学军等7人在2023年9月21日至2024年10月24日期间操纵倍轻松股票。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T23:52:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/china-regulator-fines-stock-manipulation-40m-83b061",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "jiading-regulator-probes-audi-promotion-c54c8c",
       "title": "嘉定市场监管局就奥迪促销举报立案调查",
       "description": "上海市嘉定区市场监管局已就上汽奥迪“全系买一赠一”宣传相关举报，对被举报人上海上汽大众汽车销售有限公司立案处理并介入调查。",
@@ -2251,24 +2399,6 @@
         "澎湃新闻"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "suzhou-zhengzhou-land-auctions-premium-bids-f0b314",
-      "title": "苏州郑州核心宅地多轮竞价后溢价成交",
-      "description": "11月4日，苏州和郑州各有住宅地块经过多轮竞价后溢价成交。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T23:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/suzhou-zhengzhou-land-auctions-premium-bids-f0b314",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -3492,24 +3622,6 @@
       "sources": []
     },
     {
-      "id": "market-regulator-issues-penalty-discretion-rules-750cd7",
-      "title": "市场监管总局出台规章统一处罚裁量标准",
-      "description": "市场监管总局近日出台《市场监督管理行政处罚裁量规定》，以部门规章形式系统规范市场监管行政处罚裁量权。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T02:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/market-regulator-issues-penalty-discretion-rules-750cd7",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "amd-smci-earnings-boost-after-hours-shares-576b1a",
       "title": "AMD三季度营收同比增长45%",
       "description": "当地时间11月3日，AMD公布2026年第三季度业绩，营收达133.77亿美元，同比增长45%，高于市场预期的131亿美元。",
@@ -3605,24 +3717,6 @@
       "sources": []
     },
     {
-      "id": "shenyang-machine-tool-executive-detained-8eb6f8",
-      "title": "沈阳机床副总经理陈红海被实施留置",
-      "description": "沈阳机床副总经理陈红海被实施留置，并在同日向公司提交辞职报告，申请辞去副总经理职务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T00:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/shenyang-machine-tool-executive-detained-8eb6f8",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "anthropic-japan-ipo-raise-3-5-billion-633677",
       "title": "Anthropic计划在日本IPO募资至多35亿美元",
       "description": "Anthropic于11月2日表示，将通过在日本进行的首次公开募股最多募集35亿美元。",
@@ -3659,26 +3753,6 @@
       "sources": []
     },
     {
-      "id": "liu-shaoyong-bribery-case-sentenced-fourteen-years-3b1bb8",
-      "title": "东航集团原董事长刘绍勇受贿案一审获刑14年",
-      "description": "辽宁省沈阳市中级人民法院11月3日对中国东方航空集团有限公司原党组书记、董事长刘绍勇受贿案作出一审判决，判处其有期徒刑14年，并处罚金人民币400万元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T23:54:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/liu-shaoyong-bribery-case-sentenced-fourteen-years-3b1bb8",
-      "reference": [
-        "澎湃新闻",
-        "财新",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "china-first-medical-companion-standard-takes-effect-dda53c",
       "title": "首个陪诊国家标准于11月起正式施行",
       "description": "《社会化陪同就医服务基本要求》是首个陪诊国家标准，自2026年11月起实施。",
@@ -3694,27 +3768,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-ndrc-outlines-ai-governance-priorities-39fbf8",
-      "title": "发改委将加强人工智能就业风险监测预警",
-      "description": "11月3日，中国国家发展改革委举行新闻发布会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T23:13:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/china-ndrc-outlines-ai-governance-priorities-39fbf8",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "联合早报",
-        "财新"
-      ],
-      "section": "china",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -3751,24 +3804,6 @@
       "url": "https://kaopu.news/story/2026-11-03/mexico-schools-restrict-student-device-use-93c5b2",
       "reference": [
         "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "amadeus-unauthorized-access-singapore-airlines-bookings-b70ecb",
-      "title": "Amadeus漏洞致新航4.6万条预订记录遭访问",
-      "description": "新加坡航空约4.6万个机票预订记录在旅游科技公司Amadeus的平台遭未经授权访问。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T16:44:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/amadeus-unauthorized-access-singapore-airlines-bookings-b70ecb",
-      "reference": [
-        "联合早报"
       ],
       "section": "life",
       "sourceCount": 1,
