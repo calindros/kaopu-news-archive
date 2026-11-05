@@ -3,9 +3,124 @@
     "date": "2026-11-05",
     "timestamp": 1793878031,
     "totalPages": 1,
-    "total": 274
+    "total": 271
   },
   "stories": [
+    {
+      "id": "china-reportedly-blocks-softbank-abb-robotics-deal-505421",
+      "title": "中国禁止软银收购ABB在华机器人业务",
+      "description": "中国外商投资安全审查工作机制办公室已禁止软银集团收购ABB在华机器人业务，软银收购ABB全球机器人部门的计划因此受阻。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T11:07:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/china-reportedly-blocks-softbank-abb-robotics-deal-505421",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "malaysia-government-signs-confidence-supply-pact-29626c",
+      "title": "安华愿公开与13名议员签署的信任供应协议",
+      "description": "马来西亚团结政府与13名国会议员签署信任与供应协议，争取他们支持政府及2027年财政预算案。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T10:39:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/malaysia-government-signs-confidence-supply-pact-29626c",
+      "reference": [
+        "当今大马",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
+      "id": "moonshot-opens-kimi-k31-pro-weights-aabc1c",
+      "title": "月之暗面开放Kimi K3.1 Pro完整模型权重",
+      "description": "月之暗面于北京时间11月5日凌晨发布Kimi K3.1 Pro完整模型权重。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T10:37:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/moonshot-opens-kimi-k31-pro-weights-aabc1c",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "spain-trains-collide-kill-46-d000d5",
+      "title": "日本外务省确认两名日本人在西班牙列车事故中遇难",
+      "description": "西班牙中部托莱多省乌尔达附近发生的Renfe与Iryo高速列车相撞事故已造成69人死亡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T10:28:18+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-28",
+      "url": "https://kaopu.news/story/2026-10-28/spain-trains-collide-kill-46-d000d5",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "法广",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 46,
+      "sources": []
+    },
+    {
+      "id": "bic-camera-customer-data-exposure-risk-27c279",
+      "title": "邮件发送系统遭非法访问约1580万条会员信息已外泄",
+      "description": "山梨县政府称，负责运营富士山吉田路线预约系统的ASOVIEW所用邮件发送系统遭非法访问，约1580万条会员信息已外泄。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T10:28:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/bic-camera-customer-data-exposure-risk-27c279",
+      "reference": [
+        "共同网",
+        "日本放送协会"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "2027-holiday-calendar-nine-day-spring-festival-e59478",
+      "title": "国务院公布2027年放假安排春节连休9天",
+      "description": "国务院办公厅11月5日下午公布2027年节假日安排，春节假期为2月5日至13日，共9天。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T10:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/2027-holiday-calendar-nine-day-spring-festival-e59478",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
     {
       "id": "pboc-cuts-stock-buyback-loan-rate-80a44d",
       "title": "央行下调股票回购增持再贷款利率至1%",
@@ -25,6 +140,24 @@
       ],
       "section": "business",
       "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "guo-jiakun-responds-reported-japan-security-plan-dba47d",
+      "title": "郭嘉昆回应日本据报拟于12月通过新版安保三文件",
+      "description": "有报道称，日本政府计划于12月通过新版“安保三文件”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T10:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/guo-jiakun-responds-reported-japan-security-plan-dba47d",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -89,6 +222,24 @@
       "sources": []
     },
     {
+      "id": "china-extends-us-propanol-countervailing-duties-e1ab94",
+      "title": "国务院关税税则委员会决定对美进口正丙醇续征反补贴税五年",
+      "description": "商务部11月5日公布对原产于美国的进口正丙醇反补贴措施期终复审结论。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T09:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/china-extends-us-propanol-countervailing-duties-e1ab94",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "china-japan-yttrium-oxide-exports-drop-25ce51",
       "title": "中国对日钇出口骤减促使日本企业多元化采购",
       "description": "中国海关总署数据显示，2026年1至9月，中国对日钇出口仅18吨，较去年同期的887吨减少约98%。",
@@ -147,6 +298,24 @@
       "sources": []
     },
     {
+      "id": "yunnan-xinyao-aoi-five-year-indium-phosphide-supply-1dec4c",
+      "title": "云南鑫耀与AOI签订五年磷化铟供货协议",
+      "description": "云南锗业控股子公司云南鑫耀半导体材料有限公司与美国光通信企业Applied Optoelectronics（AOI）签署长期供货协议和年度合同。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T09:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/yunnan-xinyao-aoi-five-year-indium-phosphide-supply-1dec4c",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "japan-koizumi-urges-nuclear-policy-debate-79cfd4",
       "title": "日政府据报拟在安保战略写入核武运入例外",
       "description": "日本政府据共同社援引的相关人士消息，正研究在年底修订的《国家安全保障战略》中写入核政策例外。",
@@ -184,6 +353,42 @@
       ],
       "section": "china",
       "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "sichuan-university-professor-huo-datong-dies-b2986e",
+      "title": "四川大学教授霍大同因病逝世，享年72岁",
+      "description": "四川大学公共管理学院教授霍大同于2026年11月5日凌晨3时因病去世，享年72岁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T09:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/sichuan-university-professor-huo-datong-dies-b2986e",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "crafty-falcon-ai-hacks-indian-financial-firms-79018d",
+      "title": "狡猾猎鹰利用人工智能入侵印度金融机构",
+      "description": "印度计算机应急响应小组11月4日通报称，名为“狡猾猎鹰”的黑客组织利用人工智能工具入侵印度非银行贷款机构、金融科技公司和加密货币交易所。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-05T09:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/crafty-falcon-ai-hacks-indian-financial-firms-79018d",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -314,24 +519,6 @@
       ],
       "section": "world",
       "sourceCount": 63,
-      "sources": []
-    },
-    {
-      "id": "2027-holiday-calendar-nine-day-spring-festival-e59478",
-      "title": "2027年全年放假安排公布春节假期为9天",
-      "description": "2027年全年放假安排于11月5日下午公布。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T09:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/2027-holiday-calendar-nine-day-spring-festival-e59478",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -786,25 +973,6 @@
       "sources": []
     },
     {
-      "id": "china-reportedly-blocks-softbank-abb-robotics-deal-505421",
-      "title": "中国据报阻止软银收购ABB全球机器人业务",
-      "description": "据英国《金融时报》援引知情人士报道，中国当局已告知软银，不批准其以54亿美元收购ABB机器人业务的计划。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T07:21:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/china-reportedly-blocks-softbank-abb-robotics-deal-505421",
-      "reference": [
-        "中央通訊社",
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "qinghai-five-agencies-require-older-worker-agreements-87930d",
       "title": "青海五部门要求超龄用工落实书面协议",
       "description": "青海省人社厅、省卫健委等5部门近日联合发布通知，要求落实超龄劳动者基本权益保障规定，并规范用工管理。",
@@ -820,25 +988,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "malaysia-government-signs-confidence-supply-pact-29626c",
-      "title": "马来西亚政府原则同意和解麻坡73万令吉拨款案",
-      "description": "马来西亚联邦政府于11月5日原则上同意与麻坡国会议员赛沙迪及三名麻坡选民达成和解，处理总额73万300令吉的麻坡选区拨款诉讼。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T07:12:22+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/malaysia-government-signs-confidence-supply-pact-29626c",
-      "reference": [
-        "当今大马",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 14,
       "sources": []
     },
     {
@@ -1794,24 +1943,6 @@
       "sources": []
     },
     {
-      "id": "north-korea-taekwondo-unesco-listing-6146c3",
-      "title": "韩国韩纸获联合国非遗评审机构建议列入名录",
-      "description": "韩国申报的韩纸制作传统和朝鲜申报的跆拳道，均获联合国教科文组织保护非物质文化遗产政府间委员会评审机构建议列入名录；最终是否入选仍由委员会决定。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T05:20:33+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/north-korea-taekwondo-unesco-listing-6146c3",
-      "reference": [
-        "韩国国际广播电台"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "zhuhai-plans-resources-support-huafa-group-1e5b65",
       "title": "联合资信将珠海华发主体及债项列入负面观察名单",
       "description": "联合资信评估11月4日将珠海华发集团主体及债项列入负面观察名单，同时维持集团主体长期信用等级为AAA、评级展望为稳定。",
@@ -1924,43 +2055,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "south-korea-joins-un-north-korea-rights-bid-f60685",
-      "title": "KBS称韩国政府决定参与联大朝鲜人权决议案联署",
-      "description": "据韩国国际广播电台援引KBS采访报道，一名韩国政府官员称，韩国政府经相关部门协商，决定作为共同提案国参与今年联合国大会朝鲜人权决议案联署。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T04:41:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/south-korea-joins-un-north-korea-rights-bid-f60685",
-      "reference": [
-        "韩国国际广播电台"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "cho-jung-tai-seeks-budget-approval-ee3ba9",
-      "title": "台湾立法院追加预算提案全数保留交院会协商",
-      "description": "台湾立法院多个委员会联席会议11月5日审查2026年度中央政府追加预算案时，围绕台湾电力公司、台湾中油公司的补助及中油增资等预算提案，朝野立委未能达成共识。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T04:26:52+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/cho-jung-tai-seeks-budget-approval-ee3ba9",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 9,
       "sources": []
     },
     {
@@ -2313,24 +2407,6 @@
         "共同网"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-biopharma-licensing-shifts-global-value-9652c0",
-      "title": "中国创新药出海竞争转向差异化与全球价值兑现",
-      "description": "中国创新药对外授权交易总额在2026年前三季度达到1300亿美元，接近2025年全年1357亿美元的历史高点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T01:51:54.907058+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/china-biopharma-licensing-shifts-global-value-9652c0",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -2962,26 +3038,6 @@
       "sources": []
     },
     {
-      "id": "bangladesh-forms-wage-committee-garment-workers-60360d",
-      "title": "孟加拉成衣工人持续罢工要求提高最低工资",
-      "description": "孟加拉成衣工人因低薪和生活成本上涨，自10月31日起在达卡及周边工业城镇示威、罢工，要求提高最低月薪。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T13:25:49+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/bangladesh-forms-wage-committee-garment-workers-60360d",
-      "reference": [
-        "联合早报",
-        "法广",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "china-e-bike-certification-rule-requires-factory-assembly-0f6c16",
       "title": "电动自行车3C认证新规要求整车厂内安装检验",
       "description": "国家认监委修订的电动自行车强制性认证规则已于11月1日起施行。",
@@ -3258,24 +3314,6 @@
       "sources": []
     },
     {
-      "id": "bic-camera-customer-data-exposure-risk-27c279",
-      "title": "必客家美乐称约1490万条客户信息可能外泄",
-      "description": "必客家美乐集团表示，受其委托发送电子邮件杂志的服务系统遭非法访问，客户电子邮件地址等约1490万条信息可能被泄露。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T07:56:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/bic-camera-customer-data-exposure-risk-27c279",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-research-ship-kaohsiung-monitored-3f255b",
       "title": "中国科研船高雄外海施放不明仪器遭台湾海巡监控",
       "description": "中国科研船“海洋地质8号”3日在高雄港西南约61海里处与4艘中国籍民兵渔船一同活动，并从船尾放出不明探测设备。",
@@ -3547,24 +3585,6 @@
         "澎湃新闻"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "xiamen-kinmen-route-traffic-sets-record-7f2837",
-      "title": "厦金小三通客流创2023年复航以来年度新高",
-      "description": "厦门边检总站高崎边检站的统计显示，截至10月26日，厦金“小三通”今年累计出入境旅客已超过174万人次，高于2025年全年总量，达到2023年复航后的年度最高水平。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T04:34:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/xiamen-kinmen-route-traffic-sets-record-7f2837",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
@@ -4182,43 +4202,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-ai-cybersecurity-risk-response-team-3537a0",
-      "title": "台湾数位发展部成立先进AI资安风险因应小组",
-      "description": "台湾数位发展部已成立先进AI资安风险因应小组。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T05:52:30+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/taiwan-ai-cybersecurity-risk-response-team-3537a0",
-      "reference": [
-        "公视",
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "orlik-says-private-capital-chases-us-ai-assets-fd3ba1",
-      "title": "欧乐鹰称私人资本追逐美国AI风险资产",
-      "description": "彭博全球首席经济学家欧乐鹰在接受第一财经专访时表示，东亚顺差经济体流入美国的资金，正更多由私人资本主导并投向包括AI在内的风险资产，而非像二十年前那样主要由官方外汇储备买入美国国债。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T05:30:35.888039+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/orlik-says-private-capital-chases-us-ai-assets-fd3ba1",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "gmo-requests-active-cyber-defense-cc7ba4",
       "title": "GMO承认安全应对不力",
       "description": "GMO互联网集团11月2日首次就旗下外汇保证金交易相关云服务遭非法访问召开记者会，承认此前应对系统安全隐患不充分，并公布后续安排。",
@@ -4510,24 +4493,6 @@
         "第一财经"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "wiikwemkoong-builds-data-center-cultural-archives-a70fed",
-      "title": "维克韦米孔建成资料中心保存原住民文化数据",
-      "description": "维克韦米孔未割让领地建成一座小型数据中心，将分散各地的历史照片、录音和长者讲述传统语言的视频集中保存，并由当地独立服务器存储和管理相关数据，不再依赖多伦多的微软服务器或第三方机构。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T02:46:28+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/wiikwemkoong-builds-data-center-cultural-archives-a70fed",
-      "reference": [
-        "公视"
-      ],
-      "section": "tech",
       "sourceCount": 1,
       "sources": []
     },
@@ -4837,24 +4802,6 @@
       ],
       "section": "culture",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "china-platforms-remove-wukong-daiyu-romance-videos-0f171b",
-      "title": "中国多家平台下架孙悟空与林黛玉情侣视频",
-      "description": "中国多家网络平台10月表示，已下架数千条将孙悟空与林黛玉塑造成情侣的视频。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T04:25:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/china-platforms-remove-wukong-daiyu-romance-videos-0f171b",
-      "reference": [
-        "纽约时报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
       "sources": []
     },
     {
