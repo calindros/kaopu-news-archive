@@ -3,9 +3,126 @@
     "date": "2026-11-06",
     "timestamp": 1793999974,
     "totalPages": 1,
-    "total": 266
+    "total": 265
   },
   "stories": [
+    {
+      "id": "paraguay-president-pena-resigns-f8e66e",
+      "title": "巴拉圭国会通过弹劾案解除培尼亚总统职务",
+      "description": "巴拉圭国会6日通过对总统圣地亚哥·培尼亚的弹劾议案，并解除其总统职务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T22:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/paraguay-president-pena-resigns-f8e66e",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "trump-iran-escalation-decision-73d89a",
+      "title": "特朗普表示美国正在与伊朗进行沟通",
+      "description": "美国总统唐纳德·特朗普11月6日表示，美国正在与伊朗沟通。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T21:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/trump-iran-escalation-decision-73d89a",
+      "reference": [
+        "联合早报",
+        "日本放送协会",
+        "财新",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "china-csrc-slow-ai-chip-ipos-913fe8",
+      "title": "消息人士称中国证监会要求放缓AI及芯片IPO",
+      "description": "据联合早报报道，消息人士本周称，中国证监会已向投行作出窗口指导，要求放慢人工智能和芯片企业的IPO进程。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T21:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/china-csrc-slow-ai-chip-ipos-913fe8",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "joshua-wong-national-security-sentencing-803f1d",
+      "title": "香港高等法院就国安案判黄之锋十年监禁",
+      "description": "香港高等法院11月5日判前香港众志秘书长黄之锋监禁10年，认定案件属于《香港国安法》规定的“罪行重大”类别。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T21:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/joshua-wong-national-security-sentencing-803f1d",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "英国广播公司",
+        "端传媒"
+      ],
+      "section": "china",
+      "sourceCount": 34,
+      "sources": []
+    },
+    {
+      "id": "microsoft-phases-out-oracle-ai-computing-f46193",
+      "title": "彭博称微软逐步停用甲骨文AI计算资源",
+      "description": "据彭博援引知情人士报道，微软正逐步停止租用甲骨文的人工智能计算资源，此举是重新评估双方数十亿美元云合作计划的一部分。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T20:25:45+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/microsoft-phases-out-oracle-ai-computing-f46193",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-measles-cases-hit-35-year-high-1168c7",
+      "title": "美国麻疹病例升至5182例创35年新高",
+      "description": "美国疾病控制与预防中心（CDC）更新数据显示，2026年以来美国已确诊5182例麻疹病例，创该机构自1991年以来的最高纪录。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T20:15:30+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/us-measles-cases-hit-35-year-high-1168c7",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "us-home-inheritances-hit-record-costs-1a707b",
       "title": "美国房屋继承量创新高继承人面临维修税费负担",
@@ -308,27 +425,6 @@
       ],
       "section": "us",
       "sourceCount": 240,
-      "sources": []
-    },
-    {
-      "id": "joshua-wong-national-security-sentencing-803f1d",
-      "title": "香港高等法院判民主派人士黄之锋监禁十年",
-      "description": "香港高等法院11月5日判处民主派人士黄之锋监禁10年，罪名是串谋勾结外国或者境外势力危害国家安全。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T14:57:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/joshua-wong-national-security-sentencing-803f1d",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "英国广播公司",
-        "端传媒"
-      ],
-      "section": "china",
-      "sourceCount": 33,
       "sources": []
     },
     {
@@ -1100,27 +1196,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "trump-iran-escalation-decision-73d89a",
-      "title": "特朗普称伊朗重建国家恐需长达25年",
-      "description": "美国总统特朗普5日在白宫表示，伊朗重建国家恐怕需要长达25年。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T12:34:52+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/trump-iran-escalation-decision-73d89a",
-      "reference": [
-        "联合早报",
-        "日本放送协会",
-        "财新",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -2441,27 +2516,6 @@
       "sources": []
     },
     {
-      "id": "paraguay-president-pena-resigns-f8e66e",
-      "title": "巴拉圭总统培尼亚辞职未获国会接受",
-      "description": "巴拉圭总统圣地亚哥·培尼亚11月5日宣布辞去总统职务，但国会未能批准辞呈，他暂时留任；众议院随后通过对他的弹劾指控，案件将交由参议院审理。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T07:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/paraguay-president-pena-resigns-f8e66e",
-      "reference": [
-        "澎湃新闻",
-        "法广",
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 8,
-      "sources": []
-    },
-    {
       "id": "myanmar-election-commission-schedules-55-seat-byelection-cb5c06",
       "title": "缅甸选委会定于2027年4月4日补选55个议席",
       "description": "缅甸军方任命的选举委员会宣布，国会补选定于2027年4月4日举行，将填补55个选区的议席空缺；缅甸官方媒体《缅甸环球新光报》报道了这一安排。",
@@ -3310,24 +3364,6 @@
       "sources": []
     },
     {
-      "id": "bitcoin-price-falls-below-76000-041b31",
-      "title": "比特币价格一度跌破7.6万美元关口",
-      "description": "11月6日，加密货币市场大幅下跌，比特币一度跌破7.6万美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T02:09:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/bitcoin-price-falls-below-76000-041b31",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "zhang-shengyi-helps-tsmc-suppliers-phoenix-df9b5f",
       "title": "张圣仪助台积电供应商扎根凤凰城",
       "description": "张圣仪在凤凰城协助台积电及相关供应商寻找工业用地、厂房和办公空间，并为赴美台商及迁居当地的家庭提供住房支持。",
@@ -3541,24 +3577,6 @@
         "联合早报"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-broadcast-regulator-sets-microdrama-rules-eb172c",
-      "title": "广电总局明确微短剧创作治理方向",
-      "description": "国家广播电视总局相关负责人在11月5日于北京举行的2026中国广播电视精品创作大会微短剧论坛上重申，监管方向是“扶持真人剧，规范AI剧”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T13:53:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/china-broadcast-regulator-sets-microdrama-rules-eb172c",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -4078,24 +4096,6 @@
       "sources": []
     },
     {
-      "id": "tsinghua-team-proposes-algebraic-world-model-e216e9",
-      "title": "姚期智团队提出可验证的代数世界模型",
-      "description": "由姚期智、袁洋带领的清华团队近日公布一项研究，论文题为《代数世界模型：从探索走向证明》，提出代数世界模型（AWM）。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T10:14:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/tsinghua-team-proposes-algebraic-world-model-e216e9",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "synthetic-biology-salon-targets-commercialization-153c3c",
       "title": "好望角科学沙龙聚焦合成生物产业化难题",
       "description": "好望角科学沙龙第十五期围绕合成生物学产业化展开讨论，议题包括中试放大、监管准入和成本控制。",
@@ -4147,24 +4147,6 @@
         "中央通訊社"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "apple-china-ai-developer-trial-e2798a",
-      "title": "苹果在中国启动自研AI工具开发者试推",
-      "description": "苹果公司11月4日在中国启动自研人工智能系统Apple Intelligence的开发者试推，较其在美国等市场推出晚约两年。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T06:42:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/apple-china-ai-developer-trial-e2798a",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "ai",
       "sourceCount": 1,
       "sources": []
     },
