@@ -1,11 +1,374 @@
 {
   "details": {
     "date": "2026-11-06",
-    "timestamp": 1793947417,
+    "timestamp": 1793950681,
     "totalPages": 1,
-    "total": 269
+    "total": 268
   },
   "stories": [
+    {
+      "id": "democratic-women-surpass-100-house-seats-895632",
+      "title": "民主党女性众议员席次首次突破百席",
+      "description": "美国期中选举结果显示，民主党女性众议员席次首次超过100席。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T06:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/democratic-women-surpass-100-house-seats-895632",
+      "reference": [
+        "联合早报",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-consulate-warns-honolulu-entry-69b532",
+      "title": "中国驻洛杉矶总领馆提醒慎选檀香山入境口岸",
+      "description": "中国驻洛杉矶总领馆提醒中国公民谨慎选择从夏威夷檀香山丹尼尔·K·井上国际机场入境美国，称近期有中国旅客在该口岸遭美国边境执法人员盘查，部分人被撤销签证并遣返。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T06:18:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/china-consulate-warns-honolulu-entry-69b532",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "世界日报"
+      ],
+      "section": "china",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "trump-admits-iran-war-affects-gop-midterms-cbbf5f",
+      "title": "范斯将共和党中期选举失利归因于伊朗战争",
+      "description": "11月3日举行的美国中期选举中，民主党夺回国会参众两院控制权，共和党失去两院多数。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T06:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/trump-admits-iran-war-affects-gop-midterms-cbbf5f",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "财新",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 32,
+      "sources": []
+    },
+    {
+      "id": "najib-unpaid-fine-remains-prison-57954f",
+      "title": "纳吉在吉隆坡高等法院缴清5000万令吉罚款",
+      "description": "马来西亚前首相纳吉因SRC国际公司案被判处的5000万令吉罚款，已于11月6日在吉隆坡高等法院缴清。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T06:09:19+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/najib-unpaid-fine-remains-prison-57954f",
+      "reference": [
+        "联合早报",
+        "当今大马"
+      ],
+      "section": "world",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "europe-seven-flights-bomb-threats-e708d6",
+      "title": "欧洲35个航班遭虚假炸弹威胁",
+      "description": "欧洲多国航班本周接连收到虚假炸弹威胁，部分飞机改道或由战机护航，落地后接受安全检查。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T06:04:30+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/europe-seven-flights-bomb-threats-e708d6",
+      "reference": [
+        "公视",
+        "联合早报",
+        "法广",
+        "财新"
+      ],
+      "section": "world",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "paraguay-president-pena-resigns-f8e66e",
+      "title": "巴拉圭总统贝尼亚辞职副总统阿里亚纳将接任",
+      "description": "巴拉圭总统贝尼亚当地时间11月5日上午宣布辞职，称此举是为了维护国家稳定、社会和平和民主制度。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T06:03:58+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/paraguay-president-pena-resigns-f8e66e",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "fifth-circuit-hears-chinese-challenge-texas-property-ban-44cc13",
+      "title": "第五巡回法院听取两名海外华人挑战德州置产禁令陈述",
+      "description": "联邦第五巡回上诉法院于11月2日听取黄敏、戴琼一方的律师意见。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/fifth-circuit-hears-chinese-challenge-texas-property-ban-44cc13",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "new-york-flu-season-arrives-early-406a10",
+      "title": "纽约州流感提前37天进入广泛流行期",
+      "description": "纽约州卫生厅10月26日宣布，该州流感已进入广泛流行期，比上一季提前37天。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/new-york-flu-season-arrives-early-406a10",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "san-francisco-ai-rent-surge-ef8d25",
+      "title": "AI人才涌入推高旧金山公寓租金",
+      "description": "旧金山一居室公寓租金大幅上涨。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/san-francisco-ai-rent-surge-ef8d25",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ma-youde-dies-nanjing-aged-96-e893d6",
+      "title": "二胡演奏家马友德在南京逝世，享年96岁",
+      "description": "二胡演奏家、教育家马友德因病医治无效，于11月5日14时48分在南京逝世，享年96岁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T05:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/ma-youde-dies-nanjing-aged-96-e893d6",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "central-offices-report-three-burden-relief-cases-aab1df",
+      "title": "中央通报三起整治形式主义典型问题",
+      "description": "中央层面整治形式主义为基层减负专项工作机制办公室会同中央纪委办公厅11月6日通报三起典型问题，涉及河北沧州、内蒙古包头市昆都仑区和中国邮政集团有限公司黑龙江省分公司。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T05:53:51.410354+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/central-offices-report-three-burden-relief-cases-aab1df",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "shih-chung-liang-warns-welfare-law-premium-pressure-97252c",
+      "title": "石崇良称老人福利法修法有严重瑕疵呼吁缓推",
+      "description": "台湾立法院10月16日三读通过《老人福利法》第22条修正案，扩大由中央全额补助长者健保费。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T05:50:15+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/shih-chung-liang-warns-welfare-law-premium-pressure-97252c",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "nikkei-225-breaks-below-59000-losses-widen-0353bf",
+      "title": "台股重挫1873点创史上第四大收盘跌点",
+      "description": "台湾加权股价指数11月6日大幅下挫，收盘下跌1873.08点，报39701.64点，跌幅4.51%，创历史第四大收盘跌点。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T05:48:23+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/nikkei-225-breaks-below-59000-losses-widen-0353bf",
+      "reference": [
+        "澎湃新闻",
+        "共同网",
+        "中央通訊社",
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 45,
+      "sources": []
+    },
+    {
+      "id": "phantom-blade-zero-sales-top-four-million-dafa0d",
+      "title": "灵游坊宣布《影之刃零》72小时售出逾400万份",
+      "description": "中国游戏开发商灵游坊（S-Game）11月2日在社交媒体宣布，动作游戏《影之刃零》发售72小时内全球销量超过400万份。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T05:39:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/phantom-blade-zero-sales-top-four-million-dafa0d",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-midterm-election-congress-control-164251",
+      "title": "美国民主党赢得中期选举并夺回国会两院",
+      "description": "美国民主党在中期选举中夺回参议院和众议院控制权，并在多个共和党传统优势地区胜出。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T05:35:37+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
+      "reference": [
+        "世界日报",
+        "英国广播公司",
+        "联合早报",
+        "端传媒"
+      ],
+      "section": "us",
+      "sourceCount": 234,
+      "sources": []
+    },
+    {
+      "id": "six-agencies-advance-smart-eldercare-products-3afb49",
+      "title": "六部门推动智慧适老产品加快在养老领域应用",
+      "description": "民政部等六部门印发《关于培育多元场景 促进适老用品产品消费的若干措施》，提出推动智慧适老产品用于养老服务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T05:32:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/six-agencies-advance-smart-eldercare-products-3afb49",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "singapore-airlines-upgrades-long-haul-cabins-fa2ee5",
+      "title": "新航斥资逾20亿元升级长途客机客舱",
+      "description": "新加坡航空11月6日宣布，将投入逾20亿元更新长途客机各等级客舱，并发布经济舱、优选经济舱、商务舱和头等舱的新设计。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T05:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/singapore-airlines-upgrades-long-haul-cabins-fa2ee5",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-cyberspace-regulator-cracks-down-ai-celebrity-2beae3",
+      "title": "网信部门整治AI仿冒公众人物处置3961个账号",
+      "description": "网信部门近日要求网站平台集中整治利用AI假冒、仿冒知名公众人物进行虚假带货、吸粉引流和误导网民的行为。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T05:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/china-cyberspace-regulator-cracks-down-ai-celebrity-2beae3",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ted-lieu-seeks-house-democratic-caucus-chair-43b0f4",
+      "title": "刘云平宣布竞逐众院民主党党团主席",
+      "description": "美国联邦众议员刘云平于11月5日宣布竞逐众院民主党党团主席。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T05:25:15+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/ted-lieu-seeks-house-democratic-caucus-chair-43b0f4",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "putin-orders-russian-management-jti-subsidiaries-c4b3ab",
       "title": "普京签令将日本烟草俄业务交俄方临时管理",
@@ -25,6 +388,42 @@
       ],
       "section": "world",
       "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "shanghai-firms-plan-buyback-loans-5a150f",
+      "title": "沪市10家公司披露拟使用回购增持贷款",
+      "description": "11月6日午间，沪市10家公司披露拟使用回购增持贷款。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T05:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/shanghai-firms-plan-buyback-loans-5a150f",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "beijing-tianjin-hebei-demand-airline-ticket-reforms-62bb8b",
+      "title": "京津冀消协敦促15家企业限期整改退改签问题",
+      "description": "京津冀三地消协组织11月6日召开通报会，公布机票退改签专项调查结果，并要求10家航空公司、5家线上售票平台自查整改，最迟于12月10日前反馈整改情况。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T05:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/beijing-tianjin-hebei-demand-airline-ticket-reforms-62bb8b",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -49,27 +448,6 @@
       "sources": []
     },
     {
-      "id": "nikkei-225-breaks-below-59000-losses-widen-0353bf",
-      "title": "美股科技股抛售蔓延亚洲股市大跌",
-      "description": "美国科技股重挫后，抛售潮于11月6日传至亚洲，日本日经225指数、韩国综合股价指数（KOSPI）和台湾加权指数均大幅下跌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T05:06:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/nikkei-225-breaks-below-59000-losses-widen-0353bf",
-      "reference": [
-        "澎湃新闻",
-        "共同网",
-        "中央通訊社",
-        "日经"
-      ],
-      "section": "business",
-      "sourceCount": 38,
-      "sources": []
-    },
-    {
       "id": "trump-iran-escalation-decision-73d89a",
       "title": "特朗普称将决定是否对伊朗采取进一步行动",
       "description": "美国总统特朗普11月5日在白宫谈及伊朗时称，将决定是否采取进一步行动，答案很快揭晓；他说，若有选择，他不愿进一步摧毁伊朗，但也许不得不如此。",
@@ -89,9 +467,27 @@
       "sources": []
     },
     {
+      "id": "france-largest-autumn-protests-41cd3f",
+      "title": "法国多地举行今秋最大规模抗议示威",
+      "description": "法国多座城市11月5日举行今秋规模最大的一轮抗议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T05:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/france-largest-autumn-protests-41cd3f",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "joshua-wong-national-security-sentencing-803f1d",
-      "title": "香港高等法院判黄之锋串谋勾结外国势力罪监禁十年",
-      "description": "香港高等法院11月5日判处民主派人士、前香港众志秘书长黄之锋监禁10年，罪名是串谋勾结外国或境外势力危害国家安全。",
+      "title": "香港高等法院判黄之锋监禁10年",
+      "description": "香港高等法院11月5日判处前香港众志秘书长、民主派人士黄之锋监禁10年。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -106,28 +502,7 @@
         "端传媒"
       ],
       "section": "china",
-      "sourceCount": 28,
-      "sources": []
-    },
-    {
-      "id": "trump-admits-iran-war-affects-gop-midterms-cbbf5f",
-      "title": "特朗普承认伊朗战争拖累共和党失去国会两院",
-      "description": "美国民主党在11月3日中期选举中夺回国会参众两院控制权。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T05:05:43+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/trump-admits-iran-war-affects-gop-midterms-cbbf5f",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "财新",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 31,
+      "sourceCount": 29,
       "sources": []
     },
     {
@@ -147,6 +522,24 @@
       ],
       "section": "life",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "iren-delays-microsoft-data-center-delivery-dfab59",
+      "title": "IREN延后微软数据中心基础设施交付",
+      "description": "IREN 11月5日表示，将延后部分为微软建设的数据中心基础设施交付，并预计本财年剩余期间资本支出约150亿美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T04:59:38+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/iren-delays-microsoft-data-center-delivery-dfab59",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -226,25 +619,6 @@
       "sources": []
     },
     {
-      "id": "najib-unpaid-fine-remains-prison-57954f",
-      "title": "纳吉在巫统协助下缴付5000万令吉罚款",
-      "description": "《当今大马》报道，纳吉在巫统帮助下缴付了SRC案的5000万令吉罚款，即将离开监狱返家服刑。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T04:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/najib-unpaid-fine-remains-prison-57954f",
-      "reference": [
-        "联合早报",
-        "当今大马"
-      ],
-      "section": "world",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "hong-kong-customs-seizes-taiwan-books-d05985",
       "title": "香港国安处拘捕涉输入煽动书籍男子",
       "description": "香港警方国安处11月5日上午在旺角拘捕一名34岁男子，指他涉嫌于10月从台湾输入书籍到香港店铺出售，涉嫌违反《维护国家安全条例》中的“输入具煽动意图的刊物”罪。",
@@ -299,6 +673,24 @@
       ],
       "section": "asia",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "philippines-september-unemployment-rate-rises-54f061",
+      "title": "菲律宾9月失业率升至5.4%高于去年同期",
+      "description": "菲律宾统计署公布9月劳动力调查结果，失业率为5.4%，高于8月的5.3%和2025年同期的3.8%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T04:01:44+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/philippines-september-unemployment-rate-rises-54f061",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -805,26 +1197,6 @@
       "sources": []
     },
     {
-      "id": "paraguay-president-pena-resigns-f8e66e",
-      "title": "巴拉圭总统培尼亚辞职副总统阿利亚纳将接任",
-      "description": "巴拉圭总统圣地亚哥·培尼亚11月5日宣布辞职，副总统佩德罗·阿利亚纳将接任。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T02:25:22+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/paraguay-president-pena-resigns-f8e66e",
-      "reference": [
-        "澎湃新闻",
-        "法广",
-        "中央通訊社"
-      ],
-      "section": "world",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "china-passes-cross-border-corruption-law-50f9d5",
       "title": "全国人大常委会通过反跨境腐败法",
       "description": "十四届全国人大常委会第二十五次会议11月6日通过《反跨境腐败法》。",
@@ -844,27 +1216,6 @@
       "sources": []
     },
     {
-      "id": "europe-seven-flights-bomb-threats-e708d6",
-      "title": "欧洲至少27架次航班遭虚假炸弹威胁",
-      "description": "11月3日至5日，欧洲多国至少27架次航班遭遇虚假炸弹威胁，部分飞机改道或由战斗机护航。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T02:13:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/europe-seven-flights-bomb-threats-e708d6",
-      "reference": [
-        "公视",
-        "联合早报",
-        "法广",
-        "财新"
-      ],
-      "section": "world",
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
       "id": "bitcoin-price-falls-below-76000-041b31",
       "title": "比特币价格一度跌破7.6万美元关口",
       "description": "11月6日，加密货币市场大幅下跌，比特币一度跌破7.6万美元。",
@@ -880,44 +1231,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "shih-chung-liang-warns-welfare-law-premium-pressure-97252c",
-      "title": "石崇良称老人福利法修法有严重瑕疵吁勿仓促推动",
-      "description": "台湾立法院10月16日三读通过《老人福利法》第22条修正案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T02:06:05+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/shih-chung-liang-warns-welfare-law-premium-pressure-97252c",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "china-consulate-warns-honolulu-entry-69b532",
-      "title": "中领馆提醒中国公民慎从檀香山机场入境",
-      "description": "中国驻洛杉矶总领馆11月3日发布旅行提醒，建议计划赴美的中国公民慎选檀香山国际机场作为入境口岸。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T02:05:34+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/china-consulate-warns-honolulu-entry-69b532",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "世界日报"
-      ],
-      "section": "china",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -940,24 +1253,6 @@
       "sources": []
     },
     {
-      "id": "fifth-circuit-hears-chinese-challenge-texas-property-ban-44cc13",
-      "title": "第五巡回法院听取两名中国公民挑战德州置产禁令陈述",
-      "description": "美国联邦第五巡回上诉法院11月2日听取两名居住海外的中国公民对德州SB 17置产禁令提出挑战的陈述，审理焦点是两人是否具备在联邦法院起诉的法律主体资格。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T01:55:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/fifth-circuit-hears-chinese-challenge-texas-property-ban-44cc13",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "iran-submits-nuclear-proposal-via-qatar-bf7812",
       "title": "路透称伊朗经卡塔尔向美国递交核提案",
       "description": "韩国国际广播电台转述路透社援引一名伊朗高级官员称，伊朗已通过卡塔尔向美国递交核提案；美方满足伊朗七项要求后，伊方才会讨论，提案正由美国政府审议。",
@@ -973,27 +1268,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-midterm-election-congress-control-164251",
-      "title": "美国民主党夺回国会参众两院控制权",
-      "description": "美国民主党在11月3日举行的中期选举中赢得参议院和众议院多数，共和党失去对国会两院的控制。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T01:39:29+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
-      "reference": [
-        "世界日报",
-        "英国广播公司",
-        "联合早报",
-        "端传媒"
-      ],
-      "section": "us",
-      "sourceCount": 233,
       "sources": []
     },
     {
@@ -1183,24 +1457,6 @@
         "日经"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "central-offices-report-three-burden-relief-cases-aab1df",
-      "title": "中央部门通报三起基层减负典型问题",
-      "description": "中央层面整治形式主义为基层减负专项工作机制办公室会同中央纪委办公厅近日通报河北沧州、内蒙古包头昆都仑区和中国邮政集团有限公司黑龙江省分公司的三起典型问题，涉及统计数据失实、虚假申报国债项目和营业收入造假。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T01:02:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/central-offices-report-three-burden-relief-cases-aab1df",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
@@ -2393,24 +2649,6 @@
       "sources": []
     },
     {
-      "id": "solar-stocks-rebound-amid-heavy-losses-1353ec",
-      "title": "光伏板块反弹7.17%主产业链三季报净亏314亿元",
-      "description": "光伏板块11月5日普遍上涨，Wind光伏指数收涨7.17%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T11:45:36.639197+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/solar-stocks-rebound-amid-heavy-losses-1353ec",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "taiwan-foreign-investor-outflows-record-3105f2",
       "title": "外陆资10月净汇出64.61亿美元创同期新高",
       "description": "台湾金管会公布，外资及陆资10月净汇出64.61亿美元，创历史同期最高纪录；当月净卖出台湾上市、上柜股票新台币9421.80亿元，为近五年来单月及同期最大卖超。",
@@ -2421,24 +2659,6 @@
       "occurredAt": "",
       "publishedAt": "2026-11-05",
       "url": "https://kaopu.news/story/2026-11-05/taiwan-foreign-investor-outflows-record-3105f2",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "thunder-tiger-wins-six-drone-contract-categories-7d89bb",
-      "title": "雷虎科技拿下无人机组共同供应契约六大品项",
-      "description": "台湾无人系统制造商雷虎科技取得台湾银行采购部代内政部办理的无人机组共同供应契约全部六个品项，涵盖训练、空拍、初阶巡检、高阶巡检、远距监视及运输。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T11:42:17+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/thunder-tiger-wins-six-drone-contract-categories-7d89bb",
       "reference": [
         "中央通訊社"
       ],
@@ -2462,27 +2682,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "wellington-koo-says-us-arms-sales-unaffected-c16bc6",
-      "title": "顾立雄称美国国会跨党派支持台湾增强防卫力量",
-      "description": "美国民主党在中期选举中赢得联邦参众两院控制权后，台湾国防部长顾立雄11月5日在台湾立法院受访时表示，美国国会长期有跨党派力量支持台湾增强防卫能力。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T11:31:52+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/wellington-koo-says-us-arms-sales-unaffected-c16bc6",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "德国之声",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -2574,27 +2773,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "pboc-cuts-stock-buyback-loan-rate-80a44d",
-      "title": "央行下调股票回购增持再贷款利率至1%",
-      "description": "中国人民银行自11月4日起将股票回购增持再贷款利率再降0.25个百分点，调整至1%，这是该工具推出以来的最低水平。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T10:11:04.212520+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/pboc-cuts-stock-buyback-loan-rate-80a44d",
-      "reference": [
-        "澎湃新闻",
-        "财新",
-        "联合早报",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -3186,24 +3364,6 @@
       "sources": []
     },
     {
-      "id": "jeffries-runs-house-speaker-first-black-speaker-3f8d44",
-      "title": "杰佛瑞斯宣布竞选众院议长若当选将成首位非裔议长",
-      "description": "民主党在期中选举中赢得美国众议院多数后，民主党众议院党团领袖哈基姆·杰佛瑞斯于11月4日宣布竞选众议院议长。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T06:21:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/jeffries-runs-house-speaker-first-black-speaker-3f8d44",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "gold-breaks-4000-after-us-midterms-13135b",
       "title": "伦敦金价两日反弹逾5%突破4100美元",
       "description": "伦敦现货金价11月5日亚洲交易时段突破每盎司4100美元，创两周新高；此前两日累计上涨逾200美元，涨幅超过5%。",
@@ -3224,26 +3384,6 @@
       "sources": []
     },
     {
-      "id": "johnson-wont-run-house-republican-leader-0ac442",
-      "title": "约翰逊不竞选新一届众院共和党领袖",
-      "description": "美国众议院议长迈克·约翰逊11月4日告知共和党幕僚，他不会竞逐新一届众议院共和党领袖；其发言人随后确认，他将卸下党团领袖职务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T06:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/johnson-wont-run-house-republican-leader-0ac442",
-      "reference": [
-        "联合早报",
-        "法广",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "valkyries-san-francisco-title-parade-23fb6a",
       "title": "金州女武神夺冠后在旧金山举行庆祝游行",
       "description": "金州女武神赢下WNBA总决赛第七场，建队第二个赛季便夺得队史首个总冠军。",
@@ -3259,24 +3399,6 @@
       ],
       "section": "sports",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "who-dr-congo-cholera-1800-deaths-673562",
-      "title": "世卫称刚果（金）霍乱今年已致约1800人死亡",
-      "description": "世界卫生组织11月4日表示，刚果（金）今年以来报告约6万例霍乱病例，约1800人死亡。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T06:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/who-dr-congo-cholera-1800-deaths-673562",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3607,24 +3729,6 @@
       "sources": []
     },
     {
-      "id": "jiading-regulator-probes-audi-promotion-c54c8c",
-      "title": "嘉定市场监管局就奥迪促销举报立案调查",
-      "description": "上海市嘉定区市场监管局已就上汽奥迪“全系买一赠一”宣传相关举报，对被举报人上海上汽大众汽车销售有限公司立案处理并介入调查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T23:46:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/jiading-regulator-probes-audi-promotion-c54c8c",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "herbert-blomstedt-dies-gothenburg-aged-99-151fca",
       "title": "指挥家布隆斯泰特在哥德堡逝世享年99岁",
       "description": "德国慕尼黑加斯泰格艺术家经纪事务所（KSG）和莱比锡布商大厦管弦乐团于11月4日发布讣告。",
@@ -3680,24 +3784,6 @@
       "sources": []
     },
     {
-      "id": "china-regulators-ban-sulfur-treated-bamboo-shoots-f4b8c2",
-      "title": "多地监管部门发布禁令整治硫磺熏笋",
-      "description": "多地市场监管部门和地方政府近日针对硫磺熏笋问题发布禁令、开展排查，要求禁止用硫磺处理鲜笋等生鲜食用农产品。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T13:46:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/china-regulators-ban-sulfur-treated-bamboo-shoots-f4b8c2",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "tenerife-striker-dies-after-goalkeeper-collision-99c85e",
       "title": "特内里费前锋德米格尔遭撞击后去世",
       "description": "西乙特内里费队30岁前锋赫苏斯·德米格尔在11月2日对阵安道尔的比赛中与门将奥沃诺发生猛烈碰撞，送医后于次日上午去世。",
@@ -3715,43 +3801,6 @@
       ],
       "section": "sports",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "china-e-bike-certification-rule-requires-factory-assembly-0f6c16",
-      "title": "电动自行车3C认证新规要求整车厂内安装检验",
-      "description": "国家认监委修订的电动自行车强制性认证规则已于11月1日起施行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T13:20:37.896206+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/china-e-bike-certification-rule-requires-factory-assembly-0f6c16",
-      "reference": [
-        "财新",
-        "第一财经"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "kindergarten-eldercare-conversion-stalls-a1f58c",
-      "title": "幼儿园改养老项目因产权审批和成本陷入停滞",
-      "description": "一项将老城区民办幼儿园部分场地转为养老照护机构的计划陷入停滞。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T13:08:36.982026+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/kindergarten-eldercare-conversion-stalls-a1f58c",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "life",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3810,24 +3859,6 @@
       ],
       "section": "ai",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "china-provinces-enforce-paid-annual-leave-44b2a5",
-      "title": "多省份发文推动带薪年休假制度落实",
-      "description": "广东省发展改革委11月3日印发《广东省扩大消费实施方案》，要求加强休息休假制度执行，保障劳动者休假权益，并鼓励用人单位把年休假与小长假衔接，灵活安排错峰休假。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T10:17:37.774124+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/china-provinces-enforce-paid-annual-leave-44b2a5",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "life",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -4126,24 +4157,6 @@
       "sources": []
     },
     {
-      "id": "anthropic-japan-ipo-raise-3-5-billion-633677",
-      "title": "Anthropic计划在日本IPO募资至多35亿美元",
-      "description": "Anthropic于11月2日表示，将通过在日本进行的首次公开募股最多募集35亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T00:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/anthropic-japan-ipo-raise-3-5-billion-633677",
-      "reference": [
-        "共同网"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "adam-cohen-directs-leonard-cohen-tribute-63fb53",
       "title": "亚当·科恩将执导父亲逝世十周年致敬演出",
       "description": "亚当·科恩策划并执导的致敬音乐会《每个人都知道莱昂纳德·科恩》（Everybody Knows Leonard Cohen）将于2026年11月在加拿大各地上演，以现场演出结合珍贵档案影像，纪念莱昂纳德·科恩逝世十周年。",
@@ -4194,24 +4207,6 @@
         "联合早报"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "merz-urges-germany-become-ai-nation-2030-7289ca",
-      "title": "德国政府报告提出到2030年建设人工智能国家",
-      "description": "德国总理弗里德里希·默茨在柏林数字峰会上敦促德国和欧洲加快人工智能发展，争取成为技术领域的领导者。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T14:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/merz-urges-germany-become-ai-nation-2030-7289ca",
-      "reference": [
-        "德国之声"
-      ],
-      "section": "ai",
       "sourceCount": 1,
       "sources": []
     },
@@ -4818,24 +4813,6 @@
       ],
       "section": "culture",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "woodward-memoir-reveals-watergate-sources-fc682d",
-      "title": "据报伍德沃德回忆录将披露水门案线人",
-      "description": "据《华盛顿邮报》报道，资深记者鲍勃·伍德沃德的新回忆录《秘密：一位记者的回忆录》（暂译）定于11月24日出版，书中将揭示多名曾协助他报道重大新闻的秘密消息来源，并讲述他获知水门案末期尼克松痛哭祈祷一事的经过。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-31T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-31",
-      "url": "https://kaopu.news/story/2026-10-31/woodward-memoir-reveals-watergate-sources-fc682d",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "culture",
-      "sourceCount": 1,
       "sources": []
     },
     {
