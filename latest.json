@@ -1,19 +1,61 @@
 {
   "details": {
     "date": "2026-11-06",
-    "timestamp": 1793943413,
+    "timestamp": 1793947417,
     "totalPages": 1,
     "total": 269
   },
   "stories": [
     {
-      "id": "nikkei-225-breaks-below-59000-losses-widen-0353bf",
-      "title": "美股科技股抛售拖累亚太股市大幅下跌",
-      "description": "美国中期选举后，投资者担心民主党收紧人工智能（AI）产业监管、放缓数据中心建设，美股科技股遭到集中抛售，跌势随后蔓延至亚太市场。",
+      "id": "putin-orders-russian-management-jti-subsidiaries-c4b3ab",
+      "title": "普京签令将日本烟草俄业务交俄方临时管理",
+      "description": "俄罗斯总统普京11月5日签署总统令，将日本烟草国际（JTI）在俄罗斯的业务及四处生产基地交由俄方企业临时管理。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-06T04:16:13.006458+00:00",
+      "updatedAt": "2026-11-06T05:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/putin-orders-russian-management-jti-subsidiaries-c4b3ab",
+      "reference": [
+        "日经",
+        "共同网",
+        "日本放送协会",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "美众院三名共和党主席要求黄仁勋闭门说明",
+      "description": "美国众议院三名共和党委员会负责人要求英伟达首席执行官黄仁勋自愿参加定于11月18日举行的闭门简报，说明他与Megaspeed高管黄乐的往来，以及英伟达防范外国情报活动的安全政策。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T05:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 24,
+      "sources": []
+    },
+    {
+      "id": "nikkei-225-breaks-below-59000-losses-widen-0353bf",
+      "title": "美股科技股抛售蔓延亚洲股市大跌",
+      "description": "美国科技股重挫后，抛售潮于11月6日传至亚洲，日本日经225指数、韩国综合股价指数（KOSPI）和台湾加权指数均大幅下跌。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T05:06:36+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-06",
       "url": "https://kaopu.news/story/2026-11-06/nikkei-225-breaks-below-59000-losses-widen-0353bf",
@@ -24,7 +66,182 @@
         "日经"
       ],
       "section": "business",
-      "sourceCount": 36,
+      "sourceCount": 38,
+      "sources": []
+    },
+    {
+      "id": "trump-iran-escalation-decision-73d89a",
+      "title": "特朗普称将决定是否对伊朗采取进一步行动",
+      "description": "美国总统特朗普11月5日在白宫谈及伊朗时称，将决定是否采取进一步行动，答案很快揭晓；他说，若有选择，他不愿进一步摧毁伊朗，但也许不得不如此。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T05:06:12+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/trump-iran-escalation-decision-73d89a",
+      "reference": [
+        "联合早报",
+        "日本放送协会"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "joshua-wong-national-security-sentencing-803f1d",
+      "title": "香港高等法院判黄之锋串谋勾结外国势力罪监禁十年",
+      "description": "香港高等法院11月5日判处民主派人士、前香港众志秘书长黄之锋监禁10年，罪名是串谋勾结外国或境外势力危害国家安全。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T05:05:51+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/joshua-wong-national-security-sentencing-803f1d",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "英国广播公司",
+        "端传媒"
+      ],
+      "section": "china",
+      "sourceCount": 28,
+      "sources": []
+    },
+    {
+      "id": "trump-admits-iran-war-affects-gop-midterms-cbbf5f",
+      "title": "特朗普承认伊朗战争拖累共和党失去国会两院",
+      "description": "美国民主党在11月3日中期选举中夺回国会参众两院控制权。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T05:05:43+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/trump-admits-iran-war-affects-gop-midterms-cbbf5f",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "财新",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 31,
+      "sources": []
+    },
+    {
+      "id": "second-china-built-cruise-ship-delivered-shanghai-ffa7ec",
+      "title": "第二艘国产大型邮轮“爱达·花城号”在上海交付",
+      "description": "中国船舶集团旗下上海外高桥造船有限公司建造的第二艘国产大型邮轮“爱达·花城号”11月6日在上海交付。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T05:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/second-china-built-cruise-ship-delivered-shanghai-ffa7ec",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "south-korea-delays-digital-asset-tax-1e7f68",
+      "title": "韩国政府将虚拟资产所得税推迟至2029年",
+      "description": "韩国政府决定将虚拟资产所得税延至2029年实施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T04:54:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/south-korea-delays-digital-asset-tax-1e7f68",
+      "reference": [
+        "中央通訊社",
+        "韩国国际广播电台"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "tinto-brass-dies-rome-aged-93-f41cb5",
+      "title": "意大利导演丁度·巴拉斯在罗马去世，享年93岁",
+      "description": "意大利导演丁度·巴拉斯11月4日在罗马去世，终年93岁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T04:44:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/tinto-brass-dies-rome-aged-93-f41cb5",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "macau-court-sentences-au-kam-san-fd966e",
+      "title": "澳门首宗国安案宣判区锦新获刑十二年半",
+      "description": "澳门初级法院11月6日对澳门首宗国家安全案件作出判决，前立法会议员区锦新四项罪名成立，数罪并罚后被判处有期徒刑12年6个月。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T04:33:14+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/macau-court-sentences-au-kam-san-fd966e",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "英国广播公司",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "pla-daily-urges-army-fix-leadership-readiness-problems-3fd502",
+      "title": "解放军报要求军队着力解决领导备战管党突出问题",
+      "description": "《解放军报》11月5日在头版刊出系列评论员文章第六篇，题为《当前和今后一个时期全党的重大政治任务——六谈认真学习贯彻党的二十届五中全会精神》。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T04:32:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/pla-daily-urges-army-fix-leadership-readiness-problems-3fd502",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "najib-unpaid-fine-remains-prison-57954f",
+      "title": "纳吉在巫统协助下缴付5000万令吉罚款",
+      "description": "《当今大马》报道，纳吉在巫统帮助下缴付了SRC案的5000万令吉罚款，即将离开监狱返家服刑。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T04:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/najib-unpaid-fine-remains-prison-57954f",
+      "reference": [
+        "联合早报",
+        "当今大马"
+      ],
+      "section": "world",
+      "sourceCount": 4,
       "sources": []
     },
     {
@@ -48,23 +265,21 @@
       "sources": []
     },
     {
-      "id": "macau-court-sentences-au-kam-san-fd966e",
-      "title": "澳门初级法院判处区锦新12年6个月徒刑",
-      "description": "澳门初级法院11月6日裁定前立法会议员区锦新四项危害国家安全相关罪名成立，合并判处有期徒刑12年6个月。",
+      "id": "china-air-fuel-surcharge-increases-eae06d",
+      "title": "中国境内航线燃油附加费上调至80元和140元",
+      "description": "中国境内航线旅客燃油附加费自11月5日起调整。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-06T04:12:59+00:00",
+      "updatedAt": "2026-11-06T04:09:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/macau-court-sentences-au-kam-san-fd966e",
+      "url": "https://kaopu.news/story/2026-11-06/china-air-fuel-surcharge-increases-eae06d",
       "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "英国广播公司"
+        "财新"
       ],
-      "section": "china",
-      "sourceCount": 4,
+      "section": "life",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -102,27 +317,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-admits-iran-war-affects-gop-midterms-cbbf5f",
-      "title": "特朗普承认伊朗战争拖累共和党选情",
-      "description": "民主党在11月3日举行的美国中期选举中夺回国会参众两院后，特朗普承认，对伊朗战争及其推高油价是共和党失利的部分原因，但仍为开战决定辩护；副总统J.D.万斯则把败选直接归因于战争。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T03:49:33+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/trump-admits-iran-war-affects-gop-midterms-cbbf5f",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "财新",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 30,
       "sources": []
     },
     {
@@ -611,27 +805,6 @@
       "sources": []
     },
     {
-      "id": "joshua-wong-national-security-sentencing-803f1d",
-      "title": "香港高院判黄之锋串谋勾结外国势力罪十年",
-      "description": "香港高等法院11月5日判处民主派人士、前香港众志秘书长黄之锋监禁10年，罪名是串谋勾结外国势力危害国家安全。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T02:29:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/joshua-wong-national-security-sentencing-803f1d",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "英国广播公司",
-        "端传媒"
-      ],
-      "section": "china",
-      "sourceCount": 27,
-      "sources": []
-    },
-    {
       "id": "paraguay-president-pena-resigns-f8e66e",
       "title": "巴拉圭总统培尼亚辞职副总统阿利亚纳将接任",
       "description": "巴拉圭总统圣地亚哥·培尼亚11月5日宣布辞职，副总统佩德罗·阿利亚纳将接任。",
@@ -767,25 +940,6 @@
       "sources": []
     },
     {
-      "id": "putin-orders-russian-management-jti-subsidiaries-c4b3ab",
-      "title": "普京签令将日本烟草俄业务交由俄企临时管理",
-      "description": "俄罗斯总统普京11月5日签署总统令，将日本烟草国际（JTI）在俄四家当地法人交由俄罗斯企业临时管理，涉及“JTI顿河烟草”等。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T02:00:20+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/putin-orders-russian-management-jti-subsidiaries-c4b3ab",
-      "reference": [
-        "日经",
-        "共同网"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "fifth-circuit-hears-chinese-challenge-texas-property-ban-44cc13",
       "title": "第五巡回法院听取两名中国公民挑战德州置产禁令陈述",
       "description": "美国联邦第五巡回上诉法院11月2日听取两名居住海外的中国公民对德州SB 17置产禁令提出挑战的陈述，审理焦点是两人是否具备在联邦法院起诉的法律主体资格。",
@@ -801,45 +955,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "second-china-built-cruise-ship-delivered-shanghai-ffa7ec",
-      "title": "国产第二艘大型邮轮爱达·花城号在上海正式交付",
-      "description": "中国第二艘国产大型邮轮“爱达·花城号”11月6日在上海外高桥造船有限公司交付。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T01:54:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/second-china-built-cruise-ship-delivered-shanghai-ffa7ec",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "三名共和党主席要求黄仁勋出席闭门简报会",
-      "description": "美国众议院三名共和党委员会主席11月5日要求英伟达首席执行官黄仁勋于11月18日参加闭门简报会，说明他与Megaspeed高管黄乐的往来，以及英伟达防范外国对手间谍活动的安全政策。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T01:51:53+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 23,
       "sources": []
     },
     {
@@ -2371,24 +2486,6 @@
       "sources": []
     },
     {
-      "id": "zang-youxia-election-interference-bail-88a0f8",
-      "title": "退役少将臧幼侠涉介选获70万元交保",
-      "description": "台湾退役少将、前国民党黄复兴党部主委臧幼侠11月5日被高雄地检署依《反渗透法》申请羁押，法院裁定其缴纳70万元保证金后获释，并限制出境、出海。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T11:28:51+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/zang-youxia-election-interference-bail-88a0f8",
-      "reference": [
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "nanjing-high-schools-delay-start-times-2af097",
       "title": "江阴公布中小学推迟到校时间方案",
       "description": "江阴市于2026年11月5日公布中小学（含高中）到校时间调整方案：小学到校时间为8:00，初中为7:40，高中为7:20。",
@@ -3183,24 +3280,6 @@
       "sources": []
     },
     {
-      "id": "ossoff-wins-reelection-2028-betting-odds-rise-fa9184",
-      "title": "乔治亚州奥索夫击败共和党对手成功连任",
-      "description": "乔治亚州民主党联邦参议员乔恩·奥索夫11月3日在中期选举中击败共和党对手迈克·柯林斯，赢得连任。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T06:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/ossoff-wins-reelection-2028-betting-odds-rise-fa9184",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "japan-police-share-fraud-account-data-886b73",
       "title": "日本警察厅将与807家金融机构共享涉诈账户信息",
       "description": "日本警察厅11月5日宣布，计划从11月9日起向全国807家金融机构共享涉诈账户信息。",
@@ -3256,24 +3335,6 @@
       "sources": []
     },
     {
-      "id": "chinese-students-sentenced-elder-fraud-restitution-ea56aa",
-      "title": "三名中国留学生因诈骗美国老人被判刑并责令赔偿",
-      "description": "三名持学生签证的中国公民因参与针对美国老年人的跨州诈骗，于今年10月被判处监禁并被责令赔偿。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/chinese-students-sentenced-elder-fraud-restitution-ea56aa",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "edmond-wong-wins-queens-civil-judge-seat-e38b5b",
       "title": "王毅竣当选纽约皇后区民事法院法官",
       "description": "纽约州选民在11月3日普选中选出王毅竣（Edmond Wong）为皇后区全区民事法院法官；陈志坚（Christopher Chin）赢得曼哈顿第一司法区州高等法院法官选举。",
@@ -3325,27 +3386,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "russia-ukraine-oleshky-ceasefire-agreement-6fd59b",
-      "title": "乌克兰授予梅拉尼娅一等奥尔加公主勋章",
-      "description": "乌克兰总统府公布的法令显示，总统泽连斯基11月4日签署命令，授予美国第一夫人梅拉尼娅·特朗普一等奥尔加公主勋章，以表彰她在人道主义援助、人权和慈善领域的贡献。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T05:34:07+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-23",
-      "url": "https://kaopu.news/story/2026-10-23/russia-ukraine-oleshky-ceasefire-agreement-6fd59b",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "日本放送协会",
-        "德国之声"
-      ],
-      "section": "world",
-      "sourceCount": 23,
       "sources": []
     },
     {
@@ -3860,24 +3900,6 @@
         "中央通訊社"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "qingtian-girl-reunion-unfamiliar-family-479bbe",
-      "title": "青田女孩赴欧与父母团聚后面对陌生家庭",
-      "description": "端传媒记者孙漫漫走访西班牙一座海滨小镇，记录青田移民小芮与舅妈英姐的生活，以及小芮赴欧与父母团聚后的处境。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T08:27:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/qingtian-girl-reunion-unfamiliar-family-479bbe",
-      "reference": [
-        "端传媒"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -4811,24 +4833,6 @@
       "url": "https://kaopu.news/story/2026-10-31/woodward-memoir-reveals-watergate-sources-fc682d",
       "reference": [
         "世界日报"
-      ],
-      "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "choi-bul-am-korean-actor-dies-8aae14",
-      "title": "韩国资深演员崔佛岩去世享年87岁",
-      "description": "韩国资深演员崔佛岩（原名崔英汉）于昨晚10时许在首尔江西区一家医院去世，享年87岁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-30T14:16:18+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/choi-bul-am-korean-actor-dies-8aae14",
-      "reference": [
-        "中央通訊社"
       ],
       "section": "culture",
       "sourceCount": 1,
