@@ -1,15 +1,148 @@
 {
   "details": {
     "date": "2026-11-06",
-    "timestamp": 1793953486,
+    "timestamp": 1793956630,
     "totalPages": 1,
     "total": 268
   },
   "stories": [
     {
+      "id": "guo-jiakun-responds-reported-japan-security-plan-dba47d",
+      "title": "陈曦称日本借军产策略加速推进再军事化",
+      "description": "日本政府据报拟于12月通过新版“安保三文件”，拟将防卫与经济的良性循环列为修订重点。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T08:09:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/guo-jiakun-responds-reported-japan-security-plan-dba47d",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "joint-list-recommends-eisenkot-prime-minister-303777",
+      "title": "以色列总统赫尔佐格将于8日授权议员组阁",
+      "description": "以色列总统艾萨克·赫尔佐格当地时间11月5日晚结束与第26届议会各当选党派代表的磋商后宣布，定于11月8日授权一名议员组建新政府。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T08:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/joint-list-recommends-eisenkot-prime-minister-303777",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "judge-bars-trump-arch-construction-9be5b5",
+      "title": "联邦法官下令特朗普凯旋门工程暂缓动工两周",
+      "description": "美国联邦地区法官塔尼娅·丘特坎11月6日颁布临时限制令，禁止特朗普政府在未来14天内启动阿灵顿国家公墓附近的巨型凯旋门工程，以便法院审理针对该计划的法律挑战。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T08:07:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/judge-bars-trump-arch-construction-9be5b5",
+      "reference": [
+        "联合早报",
+        "法广",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "najib-unpaid-fine-remains-prison-57954f",
+      "title": "巫统替纳吉缴清SRC案5000万令吉罚款",
+      "description": "马来西亚巫统于11月6日上午在吉隆坡高等法院为前首相纳吉缴清SRC国际公司案所判处的5000万令吉罚款。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T08:05:58+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/najib-unpaid-fine-remains-prison-57954f",
+      "reference": [
+        "联合早报",
+        "当今大马"
+      ],
+      "section": "world",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "singapore-malaysia-cross-border-taxi-quotas-rise-245f0b",
+      "title": "新加坡马来西亚将把跨境出租车配额各增至500辆",
+      "description": "新加坡和马来西亚将从11月16日起，把跨境出租车计划的配额分别从300辆提高到500辆。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T07:34:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/singapore-malaysia-cross-border-taxi-quotas-rise-245f0b",
+      "reference": [
+        "联合早报",
+        "当今大马"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-military-social-media-accounts-shut-down-54d892",
+      "title": "中国军地职能部门关闭一批涉军违规自媒体账号",
+      "description": "中国军地职能部门近日依法依规关闭一批发布涉军违法违规有害信息的自媒体账号，并通报五类典型案例，涉及AI生成涉军虚假信息、违规营销军考培训、借涉军话题牟利、炒作负面信息及违规售卖军品等问题。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T07:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/china-military-social-media-accounts-shut-down-54d892",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "kao-chin-su-mei-indicted-14-years-8a4a6d",
+      "title": "台湾检方起诉高金素梅并求处14年徒刑",
+      "description": "台湾高等检察署11月6日以涉嫌违反《国家安全法》及贪污相关法律，起诉无党籍立委高金素梅、其办公室主任张俊杰和助理陈智葟、林怡君。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T07:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/kao-chin-su-mei-indicted-14-years-8a4a6d",
+      "reference": [
+        "公视",
+        "澎湃新闻",
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
       "id": "us-midterm-election-congress-control-164251",
-      "title": "美国中期选举民主党夺回国会两院多数",
-      "description": "美国民主党在11月3日举行的中期选举中赢得国会参众两院多数，共和党失去两院控制权。",
+      "title": "美国民主党在中期选举后夺回国会两院控制权",
+      "description": "美国民主党在11月3日举行的中期选举中夺回国会参众两院控制权，并在得克萨斯州等共和党传统票仓和多个摇摆州获胜，共和党失去两院多数。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -25,6 +158,81 @@
       ],
       "section": "us",
       "sourceCount": 236,
+      "sources": []
+    },
+    {
+      "id": "japan-ruling-party-seeks-food-tax-bill-passage-9999fa",
+      "title": "日本众议院通过食品消费税减税法案",
+      "description": "日本众议院全体会议11月6日通过食品消费税减税法案，执政党凭多数赞成票推动法案过关；国民民主党、公明党等在野党均投反对票。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T07:18:22+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/japan-ruling-party-seeks-food-tax-bill-passage-9999fa",
+      "reference": [
+        "共同网",
+        "日经"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "china-forecasts-warmer-winter-temperatures-1cb436",
+      "title": "超强厄尔尼诺将明显影响中国今冬气候",
+      "description": "中国气象局预测，超强厄尔尼诺将显著影响中国2026/2027年冬季。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T07:16:07+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/china-forecasts-warmer-winter-temperatures-1cb436",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "韩国国际广播电台"
+      ],
+      "section": "life",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "china-plans-oil-gas-security-15302e",
+      "title": "中国规划“十五五”油气安全保障举措",
+      "description": "中国国家发展改革委11月6日在“奋进‘十五五’”系列新闻发布会第三场介绍油气安全保障安排，提出增加本土供应、拓展多元进口并推进消费替代。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T07:05:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/china-plans-oil-gas-security-15302e",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "south-korea-stocks-trigger-trading-halts-f78bad",
+      "title": "韩国股市大跌触发熔断及卖出暂停机制",
+      "description": "韩国综合股价指数6日收报5059.69点，较前一交易日下跌324.11点，跌幅6.02%；科斯达克指数收报644.27点，下跌34.14点，跌幅5.03%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T07:02:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/south-korea-stocks-trigger-trading-halts-f78bad",
+      "reference": [
+        "韩国国际广播电台"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -112,6 +320,24 @@
       "sources": []
     },
     {
+      "id": "myanmar-election-commission-schedules-55-seat-byelection-cb5c06",
+      "title": "缅甸选委会定于2027年4月4日补选55个议席",
+      "description": "缅甸军方任命的选举委员会宣布，国会补选定于2027年4月4日举行，将填补55个选区的议席空缺；缅甸官方媒体《缅甸环球新光报》报道了这一安排。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T06:46:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/myanmar-election-commission-schedules-55-seat-byelection-cb5c06",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "micron-pauses-taoyuan-factory-construction-0f0029",
       "title": "彭博称美光拟暂缓桃园厂扩建计划",
       "description": "彭博援引知情人士称，美光已通知台湾官员及一家供应商，拟暂停桃园厂扩建工程；该项目预算为30亿至45亿美元，约合新台币1480亿元。",
@@ -128,6 +354,24 @@
       ],
       "section": "tech",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "bmw-warns-fake-recall-scam-e5a11d",
+      "title": "宝马中国提醒车主防范虚假召回诈骗",
+      "description": "宝马中国11月6日提醒车主，近期有人冒充官方，以车辆召回为名实施电信诈骗。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T06:34:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/bmw-warns-fake-recall-scam-e5a11d",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -150,6 +394,24 @@
       "sources": []
     },
     {
+      "id": "new-york-selective-schools-education-resources-5520ec",
+      "title": "纽约华人家长教师指出甄选争议背后有资源短板",
+      "description": "纽约华人家长、教师及教育组织围绕特殊高中甄选与校园融合展开讨论，指出争议还牵涉教育资源、师资、升学信息落差及学生基础学力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/new-york-selective-schools-education-resources-5520ec",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
       "title": "美众议院三委员会要求黄仁勋闭门说明",
       "description": "美国众议院外交事务委员会、众议院中共问题特别委员会和众议院情报委员会的共和党主席，11月4日联名致函英伟达首席执行官黄仁勋，要求他于11月18日自愿参加闭门简报，说明与Megaspeed前高管黄乐的往来，以及公司防范外国对手间谍活动的安全政策。",
@@ -168,6 +430,24 @@
       ],
       "section": "china",
       "sourceCount": 25,
+      "sources": []
+    },
+    {
+      "id": "democrats-split-over-trump-strategy-bebee9",
+      "title": "民主党重掌国会后对特朗普路线出现分歧",
+      "description": "民主党在期中选举中同时取得美国国会众议院和参议院多数，党内随之就特朗普任期最后两年的国会策略出现分歧。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T06:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/democrats-split-over-trump-strategy-bebee9",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -230,6 +510,42 @@
       "sources": []
     },
     {
+      "id": "guo-cairong-property-tax-nears-15000-063e9b",
+      "title": "郭彩荣今年房产税升至近1.5万美元",
+      "description": "南加州河滨县东谷市屋主郭彩荣今年房产税达到1万4916.28美元，较上一年度增加2800多美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T06:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/guo-cairong-property-tax-nears-15000-063e9b",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "dhillon-resigns-doj-civil-rights-chief-55acbc",
+      "title": "迪隆辞去美国司法部民权司司长职务",
+      "description": "美国司法部民权司司长哈米特·迪隆于11月5日辞职。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T06:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/dhillon-resigns-doj-civil-rights-chief-55acbc",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "fox-says-talarico-threatens-texas-senate-seat-49043a",
       "title": "德州民主党打破共和党长期主导格局",
       "description": "11月3日举行的美国中期选举中，德州民主党赢得联邦参议员和州长选举，并取得州众议院多数，终结共和党长期主导该州政坛的局面。",
@@ -248,6 +564,24 @@
       ],
       "section": "us",
       "sourceCount": 22,
+      "sources": []
+    },
+    {
+      "id": "california-voters-approve-homebuyer-aid-589bc0",
+      "title": "加州选民通过第37号提案设立新屋购房援助计划",
+      "description": "据《纽约邮报》报道，加州选民通过第37号提案，为符合条件的购房者设立新屋援助计划。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T06:18:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/california-voters-approve-homebuyer-aid-589bc0",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -328,6 +662,24 @@
       "sources": []
     },
     {
+      "id": "san-jose-watchdog-reports-force-rise-d60c57",
+      "title": "圣荷西监察报告指警员使用武力事件连涨四年",
+      "description": "圣荷西市独立警察监察办公室近日发布年度报告，指出圣荷西警察局2025年记录598起警员使用武力事件，比2024年增加约5%，连续第四年走高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T06:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/san-jose-watchdog-reports-force-rise-d60c57",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "trump-admits-iran-war-affects-gop-midterms-cbbf5f",
       "title": "范斯将共和党中期选举失利归因于伊朗战争",
       "description": "11月3日举行的美国中期选举中，民主党夺回国会参众两院控制权，共和党失去两院多数。",
@@ -346,6 +698,24 @@
       ],
       "section": "us",
       "sourceCount": 32,
+      "sources": []
+    },
+    {
+      "id": "justice-department-sues-penn-state-tuition-policy-e71326",
+      "title": "美国司法部起诉宾州州立大学无证生学费优惠",
+      "description": "美国司法部11月5日向宾州中部联邦地区法院起诉宾州州立大学，指控该校允许符合条件的无证学生按州内居民标准缴纳学费，却没有向来自其他州的美国公民提供同等优惠。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-06T06:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/justice-department-sues-penn-state-tuition-policy-e71326",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -382,25 +752,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "najib-unpaid-fine-remains-prison-57954f",
-      "title": "纳吉在吉隆坡高等法院缴清5000万令吉罚款",
-      "description": "马来西亚前首相纳吉因SRC国际公司案被判处的5000万令吉罚款，已于11月6日在吉隆坡高等法院缴清。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T06:09:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/najib-unpaid-fine-remains-prison-57954f",
-      "reference": [
-        "联合早报",
-        "当今大马"
-      ],
-      "section": "world",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -694,26 +1045,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "kao-chin-su-mei-indicted-14-years-8a4a6d",
-      "title": "台湾检方起诉高金素梅求刑14年",
-      "description": "台湾高等检察署11月6日以涉嫌违反《国家安全法》《贪污治罪条例》等罪名，起诉无党籍立法委员高金素梅及办公室主任张俊杰、助理林怡君和陈智葟。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T05:10:53+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/kao-chin-su-mei-indicted-14-years-8a4a6d",
-      "reference": [
-        "公视",
-        "澎湃新闻",
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -1029,42 +1360,6 @@
       ],
       "section": "life",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "singapore-malaysia-cross-border-taxi-quotas-rise-245f0b",
-      "title": "新马跨境出租车配额将各增至500辆",
-      "description": "新加坡和马来西亚将于11月16日起，把各自的跨境出租车配额从300辆提高到500辆。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T03:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/singapore-malaysia-cross-border-taxi-quotas-rise-245f0b",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-ruling-party-seeks-food-tax-bill-passage-9999fa",
-      "title": "日本众院委员会通过减税和补贴法案",
-      "description": "日本众议院财务金融委员会11月6日凭执政党多数支持，通过涉及食品饮料消费税减税和收入挂钩现金补贴“就业者减负支援金”的法案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T03:29:02+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/japan-ruling-party-seeks-food-tax-bill-passage-9999fa",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1533,24 +1828,6 @@
       ],
       "section": "us",
       "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "joint-list-recommends-eisenkot-prime-minister-303777",
-      "title": "以色列正直党拒绝与内塔尼亚胡联合执政",
-      "description": "以色列正直党代表11月5日表示，该党拒绝与总理内塔尼亚胡联合执政，并称以色列需要“新的领导层”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T01:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/joint-list-recommends-eisenkot-prime-minister-303777",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -2486,24 +2763,6 @@
       "sources": []
     },
     {
-      "id": "cho-jung-tai-orders-probe-repression-network-dd18e8",
-      "title": "卓荣泰要求严查跨国镇压幕后主使及协力者",
-      "description": "台湾行政院长卓荣泰在治安会报上要求检察、警察、调查、廉政、移民部门及国安单位加强协作，为定于28日举行的地方公职人员选举和全国性公民投票做好安全维护。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T13:30:12+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/cho-jung-tai-orders-probe-repression-network-dd18e8",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "emirates-group-profit-falls-66-percent-eefe56",
       "title": "阿联酋航空集团上半年利润同比下跌66%",
       "description": "阿联酋航空集团11月5日宣布，上半年净利润同比减少66%，降至10亿美元，低于去年同期的29亿美元。",
@@ -2519,25 +2778,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-stocks-fall-below-42000-68024f",
-      "title": "台股大跌1374点收于41574点",
-      "description": "台湾加权股价指数11月5日收于41574.72点，下跌1374.19点，跌幅3.20%，跌破42000点，为历年第13大收盘跌点，也是7月31日以来的最低收盘位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T13:25:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/taiwan-stocks-fall-below-42000-68024f",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 25,
       "sources": []
     },
     {
@@ -2596,24 +2836,6 @@
       "sources": []
     },
     {
-      "id": "panasonic-hukou-fire-five-hospitalized-two-missing-28b8d6",
-      "title": "台湾松下湖口厂爆炸火灾寻获两具遗体",
-      "description": "台湾松下多层材料公司新竹县湖口乡厂房发生爆炸火灾，寻获两具遗体。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T12:38:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/panasonic-hukou-fire-five-hospitalized-two-missing-28b8d6",
-      "reference": [
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "japan-websites-record-cyberattacks-october-a6bd55",
       "title": "日本企业网站10月检出攻击约4.75亿次创纪录",
       "description": "网络安全云统计其服务覆盖的约2万个日本企业等网站后发现，2026年10月监测到的恶意通信约4.75亿次，刷新纪录。",
@@ -2666,24 +2888,6 @@
       ],
       "section": "us",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "trump-asks-hegseth-stay-defense-chief-6c92c9",
-      "title": "美媒曝特朗普询问赫格塞斯是否留任国防部长",
-      "description": "据财新援引美媒消息，美国东部时间11月4日下午，特朗普致电身边人士，询问赫格塞斯是否应继续担任美国国防部长；当时距离共和党在中期选举中惨败还不到24小时。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T12:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/trump-asks-hegseth-stay-defense-chief-6c92c9",
-      "reference": [
-        "财新"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3152,45 +3356,6 @@
       "sources": []
     },
     {
-      "id": "trump-accepts-us-midterm-election-results-2d5ca3",
-      "title": "美国民主党赢得国会参众两院控制权",
-      "description": "美国2026年期中选举于11月3日举行，民主党赢得国会参众两院控制权。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T07:50:27+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/trump-accepts-us-midterm-election-results-2d5ca3",
-      "reference": [
-        "法广",
-        "公视",
-        "澎湃新闻",
-        "日本放送协会"
-      ],
-      "section": "us",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "china-flash-flood-deaths-incidents-hit-record-low-93b757",
-      "title": "水利部称今年山洪死亡失踪人数及事件数均创历史最低",
-      "description": "中国水利部表示，2026年全国山洪灾害死亡失踪人数和事件总数，均降至2000年有统计记录以来最低。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T07:45:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/china-flash-flood-deaths-incidents-hit-record-low-93b757",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "who-estimates-youth-exercise-under-hour-ef1a21",
       "title": "世卫估计全球四分之一青少年每周运动不足一小时",
       "description": "世界卫生组织11月4日发布的一项研究估计，全球约四分之一11至17岁青少年每周运动不足一小时，涉及人数约2.4亿。",
@@ -3227,24 +3392,6 @@
       "sources": []
     },
     {
-      "id": "china-water-ministry-plans-2027-flood-defense-dcf602",
-      "title": "水利部提前谋划2027年水旱灾害防御",
-      "description": "中国水利部已提前谋划2027年防汛、防旱和防台风工作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T07:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/china-water-ministry-plans-2027-flood-defense-dcf602",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "qinghai-five-agencies-require-older-worker-agreements-87930d",
       "title": "青海五部门要求超龄用工落实书面协议",
       "description": "青海省人社厅、省卫健委等5部门近日联合发布通知，要求落实超龄劳动者基本权益保障规定，并规范用工管理。",
@@ -3260,25 +3407,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "washington-dc-voters-back-foie-gras-ban-e68c33",
-      "title": "华盛顿特区选民以73%支持禁售鹅鸭肝酱",
-      "description": "11月4日公投的初步结果显示，华盛顿特区选民中有73%支持86号提案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T07:02:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/washington-dc-voters-back-foie-gras-ban-e68c33",
-      "reference": [
-        "世界日报",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3317,65 +3445,6 @@
       ],
       "section": "asia",
       "sourceCount": 17,
-      "sources": []
-    },
-    {
-      "id": "democrats-lead-among-latino-voters-poll-11ab69",
-      "title": "美国中期选举出口民调显示选民转向民主党",
-      "description": "美国中期选举出口民调显示，多个选民群体较2024年更倾向民主党；《纽约时报》估算，民主党在众议院全国普选票中领先约13个百分点，并称这一差距至少是半个世纪以来国会选举中最大的一次。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T06:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/democrats-lead-among-latino-voters-poll-11ab69",
-      "reference": [
-        "联合早报",
-        "端传媒",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "trump-warns-democrats-impeachment-will-destroy-party-cf344d",
-      "title": "特朗普称民主党推动弹劾将摧毁自身",
-      "description": "民主党在美国中期选举中夺得国会两院控制权后，特朗普11月4日在白宫回答记者提问时表示，自己不担心遭弹劾；若民主党推动弹劾，他警告称该党将被“摧毁”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T06:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/trump-warns-democrats-impeachment-will-destroy-party-cf344d",
-      "reference": [
-        "法广",
-        "日经",
-        "澎湃新闻",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "queens-chinese-american-lawmakers-reelected-e6c43b",
-      "title": "孟昭文称明年亚太裔国会议员至少达22人",
-      "description": "美国期中选举后，国会亚太裔党团主席孟昭文11月4日表示，明年党团至少将有22名亚太裔议员，创下新高。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T06:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/queens-chinese-american-lawmakers-reelected-e6c43b",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -3592,79 +3661,6 @@
       "url": "https://kaopu.news/story/2026-11-05/singapore-subsidizes-hereditary-breast-ovarian-cancer-43829e",
       "reference": [
         "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-saury-catch-plunges-record-low-4dc7ab",
-      "title": "日本秋刀鱼捕捞量同比锐减八成创1989年以来新低",
-      "description": "日本全国秋刀鱼舷提网渔协11月4日公布，8至10月捕捞量为8796吨，较上年同期减少八成，降至1989年有记录以来同期最低水平。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T02:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/japan-saury-catch-plunges-record-low-4dc7ab",
-      "reference": [
-        "共同网"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-japanese-births-rise-first-half-7e0ebc",
-      "title": "日本上半年日籍新生儿人数11年来首次增长",
-      "description": "日本厚生劳动省11月4日公布的人口动态统计概数显示，2026年1月至6月，在日本出生的日本人为320,458人，比上年同期增加0.4%，这是上半年人数自2015年以来首次同比上升。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T01:51:07+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/japan-japanese-births-rise-first-half-7e0ebc",
-      "reference": [
-        "共同网",
-        "日经"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "dementia-care-advance-planning-8ffa60",
-      "title": "游阿嬷一家讲述失智照护中的预先安排",
-      "description": "93岁的游阿嬷患有轻度失智症，与外籍看护Ema相处一年多，仍常记不起对方的名字。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T01:35:16+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/dementia-care-advance-planning-8ffa60",
-      "reference": [
-        "公视"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taoyuan-dementia-music-care-autonomy-db534a",
-      "title": "桃园日照中心以音乐训练支持失智者自主生活",
-      "description": "桃园稻香日照中心通过音乐课程，让失智长者在安全照护下继续参与日常生活。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T01:30:20+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/taoyuan-dementia-music-care-autonomy-db534a",
-      "reference": [
-        "公视"
       ],
       "section": "life",
       "sourceCount": 1,
