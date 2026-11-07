@@ -1,40 +1,81 @@
 {
   "details": {
     "date": "2026-11-07",
-    "timestamp": 1794021980,
+    "timestamp": 1794030280,
     "totalPages": 1,
     "total": 267
   },
   "stories": [
     {
-      "id": "trump-names-miller-white-house-chief-42c7ae",
-      "title": "特朗普任命米勒接替威尔斯出任白宫幕僚长",
-      "description": "美国总统唐纳德·特朗普11月6日宣布，白宫副幕僚长史蒂芬·米勒将于11月9日起接任白宫幕僚长，苏西·威尔斯当天结束这一职务。",
+      "id": "paraguay-president-pena-resigns-f8e66e",
+      "title": "巴拉圭参议院弹劾总统培尼亚并解除其职务",
+      "description": "11月6日，巴拉圭参议院以44票赞成、1人缺席通过对总统圣地亚哥·培尼亚的弹劾案。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-07T03:02:29+00:00",
+      "updatedAt": "2026-11-07T04:53:46+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/trump-names-miller-white-house-chief-42c7ae",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/paraguay-president-pena-resigns-f8e66e",
       "reference": [
         "澎湃新闻",
-        "联合早报",
-        "财新",
-        "世界日报"
+        "法广",
+        "中央通訊社",
+        "公视"
       ],
-      "section": "us",
-      "sourceCount": 4,
+      "section": "world",
+      "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "giant-pandas-debut-at-atlanta-zoo-f73467",
+      "title": "平平福双在亚特兰大动物园正式亮相",
+      "description": "亚特兰大动物园11月6日为亚瑟·布兰克大熊猫馆举行开馆仪式，中国大熊猫“平平”和“福双”结束一个多月的适应期，正式向公众开放。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-07T04:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/giant-pandas-debut-at-atlanta-zoo-f73467",
+      "reference": [
+        "世界日报",
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "state-local-elections-shape-data-centers-70335c",
+      "title": "民主党赢得国会两院令美国数据中心扩建前景生变",
+      "description": "美国中期选举后，民主党赢得国会参众两院控制权，并拿下得克萨斯州、俄亥俄州等地的州长选举。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-07T04:03:57+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/state-local-elections-shape-data-centers-70335c",
+      "reference": [
+        "世界日报",
+        "第一财经",
+        "端传媒",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 19,
       "sources": []
     },
     {
       "id": "us-treasury-expands-cuba-sanctions-8a3723",
-      "title": "中国商务部敦促美国改正涉古巴制裁中企做法",
-      "description": "中国商务部11月7日就美国制裁两家中国企业作出回应，反对美方以涉及第三方为由对中国企业采取单边措施，并要求美国尽快改正相关做法。",
+      "title": "中国商务部要求美国纠正涉古巴制裁中企做法",
+      "description": "中国商务部11月7日回应美国将两家中国企业纳入涉古巴制裁名单，明确表示反对，并要求美方纠正做法。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-07T03:02:00+00:00",
+      "updatedAt": "2026-11-07T04:02:39+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-05",
       "url": "https://kaopu.news/story/2026-11-05/us-treasury-expands-cuba-sanctions-8a3723",
@@ -45,7 +86,197 @@
         "第一财经"
       ],
       "section": "world",
-      "sourceCount": 6,
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "china-regulator-releases-tests-detect-diet-food-additives-9448f8",
+      "title": "市场监管总局发布两项方法识别减肥食品新型非法添加物",
+      "description": "市场监管总局近日推出两项食品补充检验方法，针对食品中非法添加的酚丁（酚汀）类、比沙可啶类新型衍生物进行检测。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-07T03:53:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-07",
+      "url": "https://kaopu.news/story/2026-11-07/china-regulator-releases-tests-detect-diet-food-additives-9448f8",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tsmc-plans-3d-dram-nvidia-request-5081bd",
+      "title": "台积电据报应英伟达要求规划3D DRAM制造",
+      "description": "台积电应最大客户英伟达要求，近期开始规划生产3D DRAM。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-07T03:52:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/tsmc-plans-3d-dram-nvidia-request-5081bd",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "tech",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-newborn-vitamin-k-refusal-bleeding-risk-fcda9f",
+      "title": "美国新生儿维生素K拒打增加出血风险",
+      "description": "美国新生儿维生素K针剂接种率下降，维生素K缺乏性出血病例增加。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-07T03:52:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-07",
+      "url": "https://kaopu.news/story/2026-11-07/us-newborn-vitamin-k-refusal-bleeding-risk-fcda9f",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-closes-papua-new-guinea-office-d9ac7d",
+      "title": "台湾外交部决定关闭驻巴布亚新几内亚代表处",
+      "description": "台湾外交部11月6日宣布，决定关闭驻巴布亚新几内亚代表处并撤回全部派驻人员，同时终止对巴新的技术合作与援助；台湾此前已停止采购巴新液化天然气现货。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-07T03:47:55+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/taiwan-closes-papua-new-guinea-office-d9ac7d",
+      "reference": [
+        "中央通訊社",
+        "公视",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "us-centcom-offers-reward-iran-nuclear-intelligence-084feb",
+      "title": "美军悬赏最高2000万美元征集伊朗核计划情报",
+      "description": "美军中央司令部11月6日通过社交平台X公布“正义奖赏”线索征集行动，面向伊朗核计划相关情报提供最高2000万美元赏金。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-07T03:47:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-07",
+      "url": "https://kaopu.news/story/2026-11-07/us-centcom-offers-reward-iran-nuclear-intelligence-084feb",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "he-lifeng-hosts-second-canada-economic-financial-dialogue-b7559e",
+      "title": "中加定于11月9日重启经济财金战略对话",
+      "description": "中加将于11月9日在加拿大举行第二次经济财金战略对话，中国国务院副总理何立峰、加拿大财政部长商鹏飞和国际贸易部长辛都将共同主持。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-07T03:39:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-07",
+      "url": "https://kaopu.news/story/2026-11-07/he-lifeng-hosts-second-canada-economic-financial-dialogue-b7559e",
+      "reference": [
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-gold-reserves-rise-24-months-7a6115",
+      "title": "中国央行黄金储备连续24个月增加",
+      "description": "中国人民银行11月7日公布的数据显示，截至2026年10月末，中国黄金储备达到7830万盎司，较9月末增加83万盎司。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-07T03:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-07",
+      "url": "https://kaopu.news/story/2026-11-07/china-gold-reserves-rise-24-months-7a6115",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-names-miller-white-house-chief-42c7ae",
+      "title": "特朗普任命米勒接替怀尔斯出任白宫幕僚长",
+      "description": "美国总统特朗普11月6日在社交媒体宣布白宫人事调整：现任副幕僚长史蒂芬·米勒将于11月9日接任白宫幕僚长，接替苏茜·怀尔斯。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-07T03:29:53+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/trump-names-miller-white-house-chief-42c7ae",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "财新",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "anti-ai-protests-hit-50-us-cities-d9ede4",
+      "title": "美国逾50座城市出现反人工智能示威",
+      "description": "10月下旬，美国超过50座城市出现反人工智能示威。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-07T03:29:23+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-07",
+      "url": "https://kaopu.news/story/2026-11-07/anti-ai-protests-hit-50-us-cities-d9ede4",
+      "reference": [
+        "公视"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "najib-unpaid-fine-remains-prison-57954f",
+      "title": "马来西亚总检察署暂缓纳吉居家服刑",
+      "description": "马来西亚总检察署11月6日暂缓前首相纳吉转为居家服刑的安排。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-07T03:28:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/najib-unpaid-fine-remains-prison-57954f",
+      "reference": [
+        "联合早报",
+        "当今大马",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 15,
       "sources": []
     },
     {
@@ -68,23 +299,24 @@
       "sources": []
     },
     {
-      "id": "najib-unpaid-fine-remains-prison-57954f",
-      "title": "马来西亚检署暂缓纳吉居家服刑安排",
-      "description": "马来西亚总检察署11月6日决定暂不办理前首相纳吉转入居家服刑，称须厘清有条件特赦令与高等法院释放令各自的法律效力及衔接方式。",
+      "id": "nikkei-225-breaks-below-59000-losses-widen-0353bf",
+      "title": "台湾股市创最大盘中跌点并收于四万点下方",
+      "description": "台湾股市11月6日遭遇大幅抛售，加权指数盘中一度跌至37837.05点，最多下跌3737.67点，创历史最大盘中跌点。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-07T02:36:17+00:00",
+      "updatedAt": "2026-11-07T02:32:03+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/najib-unpaid-fine-remains-prison-57954f",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/nikkei-225-breaks-below-59000-losses-widen-0353bf",
       "reference": [
-        "联合早报",
-        "当今大马",
-        "法广"
+        "澎湃新闻",
+        "共同网",
+        "中央通訊社",
+        "日经"
       ],
-      "section": "world",
-      "sourceCount": 14,
+      "section": "business",
+      "sourceCount": 71,
       "sources": []
     },
     {
@@ -242,47 +474,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-closes-papua-new-guinea-office-d9ac7d",
-      "title": "台湾决定关闭驻巴新代表处并撤回人员",
-      "description": "台湾决定关闭驻巴布亚新几内亚代表处，撤回全部派驻人员，并停止对巴新的技术合作与援助，以及液化天然气现货采购。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T01:57:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/taiwan-closes-papua-new-guinea-office-d9ac7d",
-      "reference": [
-        "中央通訊社",
-        "公视",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "state-local-elections-shape-data-centers-70335c",
-      "title": "民主党赢得国会两院数据中心扩建面临严格审查",
-      "description": "美国民主党在11月3日中期选举中赢得国会参众两院控制权，并拿下多个州长职位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T01:52:38+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/state-local-elections-shape-data-centers-70335c",
-      "reference": [
-        "世界日报",
-        "第一财经",
-        "端传媒",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 18,
-      "sources": []
-    },
-    {
       "id": "china-tax-collection-law-draft-seeks-public-comment-5e1ffd",
       "title": "税收征管法修订草案拟为滞纳金设两倍上限",
       "description": "《中华人民共和国税收征收管理法（修订草案）》经十四届全国人大常委会第二十五次会议初次审议后，于11月6日全文公布并向社会征求意见。",
@@ -299,24 +490,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "he-lifeng-hosts-second-canada-economic-financial-dialogue-b7559e",
-      "title": "何立峰将赴加拿大主持第二次中加经济财金战略对话",
-      "description": "中国国务院副总理何立峰将于11月9日赴加拿大，与加拿大财政部长商鹏飞和国际贸易部长西杜共同主持第二次中加经济财金战略对话。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T01:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/he-lifeng-hosts-second-canada-economic-financial-dialogue-b7559e",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -357,27 +530,6 @@
       "sources": []
     },
     {
-      "id": "paraguay-president-pena-resigns-f8e66e",
-      "title": "巴拉圭参议院弹劾并解除潘尼亚总统职务",
-      "description": "巴拉圭参议院11月6日以44票赞成、1人缺席通过对总统圣地亚哥·潘尼亚的弹劾。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T01:02:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/paraguay-president-pena-resigns-f8e66e",
-      "reference": [
-        "澎湃新闻",
-        "法广",
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 13,
-      "sources": []
-    },
-    {
       "id": "wsj-reports-us-strike-qeshm-island-bdf786",
       "title": "特朗普称美军打击摧毁伊朗格什姆岛防空装置",
       "description": "美军于11月2日打击伊朗格什姆岛上的防空设施。",
@@ -396,24 +548,6 @@
       ],
       "section": "world",
       "sourceCount": 10,
-      "sources": []
-    },
-    {
-      "id": "us-centcom-offers-reward-iran-nuclear-intelligence-084feb",
-      "title": "美军中央司令部悬赏征集伊朗核计划情报",
-      "description": "美军中央司令部6日在社交媒体发布悬赏信息，征集与伊朗核计划有关的情报，悬赏金额最高为2000万美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T00:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/us-centcom-offers-reward-iran-nuclear-intelligence-084feb",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -643,25 +777,6 @@
       "sources": []
     },
     {
-      "id": "giant-pandas-debut-at-atlanta-zoo-f73467",
-      "title": "亚特兰大熊猫馆开馆两只大熊猫正式亮相",
-      "description": "11月6日，亚特兰大动物园举行大熊猫馆开馆仪式，“平平”和“福双”结束一个多月的适应期，正式与公众见面。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T23:17:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/giant-pandas-debut-at-atlanta-zoo-f73467",
-      "reference": [
-        "世界日报",
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "guardian-reports-us-student-ice-detained-released-b18455",
       "title": "《卫报》披露美公民高中生遭ICE制伏后获释",
       "description": "据《卫报》披露的现场视频及相关说法，10月21日，美国加州圣塔玛丽亚市20岁美国公民高中生埃里克·泽佩达沿平常路线步行上学时，被移民与海关执法局（ICE）探员制伏、戴上手铐并带走；ICE核实其身份后将他释放。",
@@ -846,24 +961,6 @@
       ],
       "section": "world",
       "sourceCount": 66,
-      "sources": []
-    },
-    {
-      "id": "tsmc-plans-3d-dram-nvidia-request-5081bd",
-      "title": "据报台积电应英伟达要求规划3D DRAM制造",
-      "description": "据中央社转述的The Information报道，台积电近期应英伟达要求开始规划3D DRAM制造计划；该报道援引两名知情人士。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T17:22:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/tsmc-plans-3d-dram-nvidia-request-5081bd",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1437,27 +1534,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "nikkei-225-breaks-below-59000-losses-widen-0353bf",
-      "title": "台湾股市大跌收盘失守四万点关口",
-      "description": "台湾股市11月6日大幅下挫，收盘跌破4万点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T13:23:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/nikkei-225-breaks-below-59000-losses-widen-0353bf",
-      "reference": [
-        "澎湃新闻",
-        "共同网",
-        "中央通訊社",
-        "日经"
-      ],
-      "section": "business",
-      "sourceCount": 70,
       "sources": []
     },
     {
@@ -3471,24 +3547,6 @@
       "sources": []
     },
     {
-      "id": "zhang-shengyi-helps-tsmc-suppliers-phoenix-df9b5f",
-      "title": "张圣仪助台积电供应商扎根凤凰城",
-      "description": "张圣仪在凤凰城协助台积电及相关供应商寻找工业用地、厂房和办公空间，并为赴美台商及迁居当地的家庭提供住房支持。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T01:22:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/zhang-shengyi-helps-tsmc-suppliers-phoenix-df9b5f",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "aska-mhb018a-japan-exclusive-rights-6af25f",
       "title": "ASKA制药获MHB018A日本独家开发销售权",
       "description": "ASKA制药与中国明慧医药达成许可协议，取得甲状腺眼病候选药MHB018A在日本的独家开发和销售权。",
@@ -3503,24 +3561,6 @@
         "日经"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-health-poverty-report-4d0c4d",
-      "title": "国家卫健委刊文介绍健康扶贫五年攻坚成果",
-      "description": "国家卫生健康委近日刊文介绍《柳叶刀》中国健康扶贫委员会的一份重大报告。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T01:00:37.149160+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/china-health-poverty-report-4d0c4d",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -4163,25 +4203,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "openai-anthropic-launch-election-war-rooms-72d74b",
-      "title": "OpenAI与Anthropic设立选举监控中心防范AI滥用",
-      "description": "OpenAI和Anthropic在美国中期选举前设立专门监控中心，防止ChatGPT、Claude等工具被用于传播选举虚假信息或干扰选举。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T11:56:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/openai-anthropic-launch-election-war-rooms-72d74b",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "ai",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -4966,24 +4987,6 @@
       "occurredAt": "",
       "publishedAt": "2026-10-25",
       "url": "https://kaopu.news/story/2026-10-25/chen-yi-beats-miwa-harimoto-wins-asian-title-1a5f8f",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "yao-juan-coaches-chinese-para-athletes-98cbf4",
-      "title": "姚娟以全职教练身份指导中国残疾人运动员",
-      "description": "姚娟以全职教练身份带训中国年轻残疾人运动员，并在爱知·名古屋亚残运会现场为队员助威。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-24T04:59:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-24",
-      "url": "https://kaopu.news/story/2026-10-24/yao-juan-coaches-chinese-para-athletes-98cbf4",
       "reference": [
         "澎湃新闻"
       ],
