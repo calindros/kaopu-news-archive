@@ -1,29 +1,276 @@
 {
   "details": {
     "date": "2026-11-08",
-    "timestamp": 1794119828,
+    "timestamp": 1794123803,
     "totalPages": 1,
-    "total": 265
+    "total": 266
   },
   "stories": [
     {
-      "id": "japan-shizuoka-m57-quake-chita-shindo-five-plus-4319a2",
-      "title": "静冈县西部地震已致20余人受伤",
-      "description": "日本静冈县西部8日凌晨发生里氏5.7级地震，爱知县知多市测得日本震度5强，爱知、静冈两县多人受伤。",
+      "id": "trump-names-miller-white-house-chief-42c7ae",
+      "title": "特朗普任命米勒接替怀尔斯出任白宫幕僚长",
+      "description": "美国总统唐纳德·特朗普11月6日宣布，白宫副幕僚长斯蒂芬·米勒将接替苏西·怀尔斯担任白宫幕僚长，任命定于11月9日生效。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-08T05:08:11+00:00",
+      "updatedAt": "2026-11-08T06:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/trump-names-miller-white-house-chief-42c7ae",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "财新",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "secret-service-arrests-armed-man-near-white-house-5472a3",
+      "title": "委内瑞拉男子携三支枪在白宫附近被捕",
+      "description": "美国特勤局特工11月5日晚在白宫附近逮捕委内瑞拉籍男子奇里诺斯（Ronny Yordrix Guanipa Chrinos）。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T06:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-07",
+      "url": "https://kaopu.news/story/2026-11-07/secret-service-arrests-armed-man-near-white-house-5472a3",
+      "reference": [
+        "世界日报",
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "3m-settles-afff-pfas-injury-lawsuit-bd7d47",
+      "title": "3M同意支付73.5亿美元和解消防泡沫诉讼",
+      "description": "3M于11月3日宣布，已就含PFAS的AFFF消防泡沫相关人体健康伤害诉讼达成和解，同意在九年内支付73.5亿元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T06:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/3m-settles-afff-pfas-injury-lawsuit-bd7d47",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "aapi-voters-favor-democrats-two-to-one-113707",
+      "title": "ACoM民调显示多族裔选民更支持民主党",
+      "description": "美国社区媒体（ACoM）在选后座谈中公布一项全国民调：众议院选举中，非裔受访者有85%支持民主党候选人，拉丁裔为67%，亚太裔64%，原住民57%；451名华裔受访者中，63%支持民主党候选人，35%支持共和党候选人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-07",
+      "url": "https://kaopu.news/story/2026-11-07/aapi-voters-favor-democrats-two-to-one-113707",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "aarp-study-caregiver-costs-exceed-10000-4e8454",
+      "title": "AARP研究显示照护患病亲友年均支出逾万元",
+      "description": "美国退休人员协会（AARP）一项研究显示，照护患病成年亲属或朋友的人士平均每年支出1万1508美元，约占一般家庭收入的31%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/aarp-study-caregiver-costs-exceed-10000-4e8454",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "new-york-prosecutors-charge-ai-fraud-suspects-c06012",
+      "title": "纽约检方起诉三人指控AI诈骗逾1.29亿元",
+      "description": "纽约南区联邦检察官办公室起诉雅各布·索尔、莎朗·哈赞和盖伊·希特里特，指控三人参与一项跨国诈骗计划。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/new-york-prosecutors-charge-ai-fraud-suspects-c06012",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-gold-reserves-rise-24-months-7a6115",
+      "title": "中国央行连续24个月增持黄金储备",
+      "description": "中国人民银行11月7日公布的数据显示，2026年10月末中国黄金储备为7830万盎司，较9月末增加83万盎司，约合26吨。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T05:58:37.193112+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-07",
+      "url": "https://kaopu.news/story/2026-11-07/china-gold-reserves-rise-24-months-7a6115",
+      "reference": [
+        "联合早报",
+        "第一财经",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "india-electric-three-wheelers-largest-market-7db70b",
+      "title": "印度电动三轮车销量增长至全球市场第一",
+      "description": "印度电动三轮车市场快速扩张，2026年9月新售三轮车中电动车占比超过一半，印度由此成为全球最大的电动三轮车市场。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T05:54:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/india-electric-three-wheelers-largest-market-7db70b",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "gaza-storms-flood-displaced-tents-054191",
+      "title": "加沙暴雨淹没约七万顶流离失所者帐篷",
+      "description": "当地时间11月7日，加沙政府媒体办公室称，强降雨引发洪水，12小时内约7万顶流离失所者帐篷被淹，部分居民受伤；中北部营地数百个家庭被迫转移。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T05:48:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-07",
+      "url": "https://kaopu.news/story/2026-11-07/gaza-storms-flood-displaced-tents-054191",
+      "reference": [
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "japan-shizuoka-m57-quake-chita-shindo-five-plus-4319a2",
+      "title": "静冈县西部5.7级地震致至少24人受伤",
+      "description": "日本静冈县西部当地时间11月8日凌晨1时04分左右发生5.7级地震，震源深约41公里。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T05:48:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-07",
       "url": "https://kaopu.news/story/2026-11-07/japan-shizuoka-m57-quake-chita-shindo-five-plus-4319a2",
       "reference": [
         "共同网",
         "联合早报",
-        "日本放送协会"
+        "日本放送协会",
+        "澎湃新闻"
       ],
       "section": "asia",
-      "sourceCount": 5,
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "najib-unpaid-fine-remains-prison-57954f",
+      "title": "纳吉缴清罚款后居家服刑安排仍被暂缓",
+      "description": "马来西亚前首相纳吉缴清SRC案5000万令吉罚款后，居家服刑安排仍未启动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T05:42:02+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/najib-unpaid-fine-remains-prison-57954f",
+      "reference": [
+        "联合早报",
+        "当今大马",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 23,
+      "sources": []
+    },
+    {
+      "id": "china-coal-power-share-below-half-9542f6",
+      "title": "中国上半年煤电发电量占比首次低于五成",
+      "description": "中国企业改革与发展研究会发布的《全球能源转型报告（2026）》称，2026年上半年中国煤电发电量占比降至49.7%，首次低于50%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T05:40:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/china-coal-power-share-below-half-9542f6",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "joint-list-recommends-eisenkot-prime-minister-303777",
+      "title": "赫尔佐格优先授权埃森科特组建新政府",
+      "description": "以色列总统赫尔佐格11月7日宣布，将优先授权正直党领导人、以色列国防军前总参谋长加迪·埃森科特组建新政府。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T05:34:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/joint-list-recommends-eisenkot-prime-minister-303777",
+      "reference": [
+        "澎湃新闻",
+        "公视",
+        "法广",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "berkshire-third-quarter-profit-falls-90bd79",
+      "title": "伯克希尔三季度净利润同比下降28%",
+      "description": "伯克希尔·哈撒韦当地时间周六公布2026年第三季度业绩，净利润同比减少28%至221.12亿美元，上年同期为307.96亿美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T05:14:39.168780+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/berkshire-third-quarter-profit-falls-90bd79",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -200,6 +447,45 @@
       "sources": []
     },
     {
+      "id": "china-new-energy-vehicle-exports-top-five-million-7a90d4",
+      "title": "周令坤预测中国新能源汽车2026年出口超500万辆",
+      "description": "中国新能源汽车出口快速增长；据中国新闻周刊报道，玲珑轮胎总裁周令坤预测，2026年出口将超过500万辆。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T04:56:21+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/china-new-energy-vehicle-exports-top-five-million-7a90d4",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-midterm-election-congress-control-164251",
+      "title": "民主党夺回国会两院 年轻选民支持成胜选关键",
+      "description": "美国民主党在11月3日举行的中期选举中夺回国会参众两院控制权，18至29岁选民对民主党的支持率明显领先共和党。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T04:32:08+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
+      "reference": [
+        "世界日报",
+        "英国广播公司",
+        "联合早报",
+        "端传媒"
+      ],
+      "section": "us",
+      "sourceCount": 244,
+      "sources": []
+    },
+    {
       "id": "orlins-hegseth-paparo-may-visit-china-7abc1c",
       "title": "欧伦斯称赫格塞斯与帕帕罗可能访华",
       "description": "美中关系全国委员会会长欧伦斯11月6日通过视频参加海南三亚海洋合作与治理论坛时表示，美国战争部长赫格塞斯和美国太平洋司令部司令帕帕罗可能近期访华。",
@@ -282,26 +568,6 @@
       "sources": []
     },
     {
-      "id": "najib-unpaid-fine-remains-prison-57954f",
-      "title": "马来西亚检署暂缓纳吉居家服刑待司法厘清",
-      "description": "马来西亚总检察署暂缓执行前首相纳吉的居家服刑安排，称吉隆坡高庭释放令与国家元首有条件特赦令之间的法律关系尚待厘清。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T03:33:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/najib-unpaid-fine-remains-prison-57954f",
-      "reference": [
-        "联合早报",
-        "当今大马",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 22,
-      "sources": []
-    },
-    {
       "id": "new-york-times-h200-china-shell-firms-c7f166",
       "title": "纽约时报称获批经手H200企业情况存疑",
       "description": "《纽约时报》调查发现，多家获美国商务部批准经手辉达H200芯片的中国企业，登记地址和实际运营情况存疑；部分企业还被发现与美国列入黑名单的机构或中国军方相关单位存在联系，令审批对象及国安审查是否充分受到质疑。",
@@ -317,27 +583,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "joint-list-recommends-eisenkot-prime-minister-303777",
-      "title": "赫尔佐格将授权埃森科特组建新政府",
-      "description": "以色列总统艾萨克·赫尔佐格决定于11月8日正式授权正直党领导人、以军前总参谋长加迪·埃森科特组建新一届政府。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T03:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/joint-list-recommends-eisenkot-prime-minister-303777",
-      "reference": [
-        "澎湃新闻",
-        "公视",
-        "法广",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 10,
       "sources": []
     },
     {
@@ -380,27 +625,6 @@
       ],
       "section": "world",
       "sourceCount": 18,
-      "sources": []
-    },
-    {
-      "id": "us-midterm-election-congress-control-164251",
-      "title": "美国民主党中期选举大胜夺回国会两院",
-      "description": "美国民主党在11月3日举行的中期选举中取得大胜，重新夺回国会参议院和众议院的控制权。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T02:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
-      "reference": [
-        "世界日报",
-        "英国广播公司",
-        "联合早报",
-        "端传媒"
-      ],
-      "section": "us",
-      "sourceCount": 243,
       "sources": []
     },
     {
@@ -537,24 +761,6 @@
       ],
       "section": "china",
       "sourceCount": 40,
-      "sources": []
-    },
-    {
-      "id": "3m-settles-afff-pfas-injury-lawsuit-bd7d47",
-      "title": "3M同意支付73.5亿元和解消防泡沫伤害诉讼",
-      "description": "3M于11月3日宣布，就AFFF消防泡沫所涉人体健康伤害诉讼达成和解，同意支付73.5亿元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T02:16:15+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/3m-settles-afff-pfas-injury-lawsuit-bd7d47",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -946,25 +1152,6 @@
       "sources": []
     },
     {
-      "id": "secret-service-arrests-armed-man-near-white-house-5472a3",
-      "title": "自称要刺杀特朗普的委内瑞拉男子白宫附近被捕",
-      "description": "一名委内瑞拉籍男子克里诺斯因涉嫌携带枪械、声称要刺杀美国总统特朗普，11月5日在白宫附近被美国特勤局逮捕。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T14:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/secret-service-arrests-armed-man-near-white-house-5472a3",
-      "reference": [
-        "世界日报",
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "china-reportedly-blocks-softbank-abb-robotics-deal-505421",
       "title": "中国叫停软银收购ABB在华机器人业务",
       "description": "中国监管部门禁止软银收购ABB在华机器人业务，使软银拟以约54亿美元收购ABB全球机器人部门的交易受阻。",
@@ -983,24 +1170,6 @@
       ],
       "section": "business",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "gaza-storms-flood-displaced-tents-054191",
-      "title": "加沙暴雨淹没至少七万顶流离失所者帐篷",
-      "description": "加沙连场暴雨已淹没至少7万顶流离失所者帐篷，数万名居民受影响。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T13:34:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/gaza-storms-flood-displaced-tents-054191",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1041,27 +1210,6 @@
       ],
       "section": "tech",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "trump-names-miller-white-house-chief-42c7ae",
-      "title": "特朗普任命米勒接替怀尔斯出任白宫幕僚长",
-      "description": "美国总统唐纳德·特朗普11月6日在社交媒体宣布，白宫副幕僚长兼国土安全顾问斯蒂芬·米勒将接替苏西·怀尔斯担任白宫幕僚长，任命定于11月9日生效。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T13:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/trump-names-miller-white-house-chief-42c7ae",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "财新",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 13,
       "sources": []
     },
     {
@@ -1195,26 +1343,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-gold-reserves-rise-24-months-7a6115",
-      "title": "中国央行10月增持黄金约26吨创近三年最大增幅",
-      "description": "11月7日公布的官方储备数据显示，中国黄金储备截至10月末为7830万盎司，较9月末增加83万盎司，折合约26吨。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T12:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/china-gold-reserves-rise-24-months-7a6115",
-      "reference": [
-        "联合早报",
-        "第一财经",
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1971,24 +2099,6 @@
       ],
       "section": "us",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "aapi-voters-favor-democrats-two-to-one-113707",
-      "title": "美国亚裔等选民约以二比一支持民主党候选人",
-      "description": "美国社群媒体（ACoM）11月6日在线上简报会上公布2026年期中选举民调结果。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/aapi-voters-favor-democrats-two-to-one-113707",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3072,24 +3182,6 @@
       "sources": []
     },
     {
-      "id": "ge-aerospace-signs-129-billion-deal-d4c68e",
-      "title": "GE航空航天签署超129亿美元航空合作协议",
-      "description": "第九届中国国际进口博览会期间，GE航空航天与中国东方航空、珠海摩天宇签署多项销售与服务合作协议，总额超过129亿美元，约合860亿元人民币。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T12:00:40.239463+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/ge-aerospace-signs-129-billion-deal-d4c68e",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "small-town-remedy-boosts-jinzhou-tourism-399465",
       "title": "《小城良方》带动锦州旅游热度上升",
       "description": "据媒体报道，电视剧《小城良方》播出后，锦州石桥子早市人流量大增，古塔公园也成为游客到访拍照的地点，剧集热度带动当地旅游人气上升。",
@@ -3181,25 +3273,6 @@
       "sources": []
     },
     {
-      "id": "inner-mongolia-nurse-convicted-after-prosecutor-intervention-2b82b1",
-      "title": "内蒙古男护士猥亵14岁患者被判刑一年二个月",
-      "description": "内蒙古一名男护士在14岁女患者术后猥亵她，检察机关监督公安机关刑事立案并提起公诉后，法院判处其有期徒刑一年二个月。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T11:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/inner-mongolia-nurse-convicted-after-prosecutor-intervention-2b82b1",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "china-six-cities-household-deposits-exceed-3-trillion-774824",
       "title": "中国统计年鉴显示六城住户存款超3万亿元",
       "description": "近日出版的《中国统计年鉴2026》列出36个省会城市和计划单列市2025年末的住户存款余额。",
@@ -3232,24 +3305,6 @@
         "联合早报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "spacex-tesla-lose-456-billion-after-election-05cc8e",
-      "title": "SpaceX和特斯拉选后市值蒸发4560亿美元",
-      "description": "美国期中选举后，SpaceX和特斯拉股价在11月5日大幅下跌：前者收跌9.05%，后者下挫10.77%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T10:59:56+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/spacex-tesla-lose-456-billion-after-election-05cc8e",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -3526,24 +3581,6 @@
       ],
       "section": "ai",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "guo-cairong-property-tax-nears-15000-063e9b",
-      "title": "郭彩荣今年房产税升至近1.5万美元",
-      "description": "南加州河滨县东谷市屋主郭彩荣今年房产税达到1万4916.28美元，较上一年度增加2800多美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T06:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/guo-cairong-property-tax-nears-15000-063e9b",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -4089,24 +4126,6 @@
         "共同网"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "openai-acquires-pierre-codex-infrastructure-5d2a89",
-      "title": "OpenAI收购Pierre强化Codex基础设施",
-      "description": "OpenAI于当地时间11月4日宣布收购开发者工具初创公司Pierre Computer Company，未披露交易金额。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T04:16:37.315778+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/openai-acquires-pierre-codex-infrastructure-5d2a89",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "ai",
       "sourceCount": 1,
       "sources": []
     },
