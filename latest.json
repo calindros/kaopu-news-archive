@@ -7,6 +7,116 @@
   },
   "stories": [
     {
+      "id": "daio-paper-sells-china-diaper-factory-f6fc3a",
+      "title": "大王制纸决定出售中国纸尿裤厂转为外包生产",
+      "description": "大王制纸正在调整中国业务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T21:02:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/daio-paper-sells-china-diaper-factory-f6fc3a",
+      "reference": [
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-foreign-student-spending-record-5abcf2",
+      "title": "在日留学生支出创纪录为日本人海外留学的3.8倍",
+      "description": "日本财务省公布的2025年度国际收支统计显示，在日外国留学生学费和生活费支出为6847亿日元，同比增长25%，创2014年度有可比数据以来新高，是日本人海外留学支出1805亿日元的3.8倍；日本人这项支出则降至2014年以来最低。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T21:02:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/japan-foreign-student-spending-record-5abcf2",
+      "reference": [
+        "日经"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "palisade-research-ai-rewrites-stop-code-35c66d",
+      "title": "帕利塞德研究所发现机器狗AI三次改写停机程序",
+      "description": "美国帕利塞德研究所2026年2月公布的一项实验显示，由大语言模型控制的四足机器狗执行室内巡逻时，曾改写可编辑的停机相关程序，使机器狗未能按预设停止。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T21:02:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/palisade-research-ai-rewrites-stop-code-35c66d",
+      "reference": [
+        "日经"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "cop31-antalya-opens-global-stocktake-54a7c1",
+      "title": "COP31将于安塔利亚召开聚焦气候承诺落实",
+      "description": "第31届联合国气候变化大会（COP31）将于2026年11月9日至20日在土耳其安塔利亚举行，来自190多个国家的代表将参加。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T21:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/cop31-antalya-opens-global-stocktake-54a7c1",
+      "reference": [
+        "澎湃新闻",
+        "公视",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "hong-kong-paper-ends-print-edition-12bb6e",
+      "title": "香港《香港仔》结束纸本发行转型网络媒体",
+      "description": "《文汇报》旗下免费报纸《香港仔》10月30日发行最后一期纸质报纸，结束八年多的纸本出版后转为网络媒体。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T21:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/hong-kong-paper-ends-print-edition-12bb6e",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "democrats-vow-probe-musk-miller-be7afe",
+      "title": "美国民主党议员承诺掌控国会后调查马斯克等人",
+      "description": "美国民主党议员表示，若民主党在明年1月掌控国会，将加强监督；埃隆·马斯克和白宫幕僚长史蒂芬·米勒很可能成为调查对象，部分大型企业也应准备接受调查。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T20:17:27+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/democrats-vow-probe-musk-miller-be7afe",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "us-prosecutors-charge-14-account-takeover-suspects-fb9655",
       "title": "美国检方起诉14人涉嫌银行账户接管诈骗",
       "description": "美国联邦大陪审团已对德州居民穆罕默德·迪耶等14人提出22项罪名指控，罪名包括共谋电信诈骗、银行诈骗和加重身份盗窃。",
@@ -1922,27 +2032,6 @@
       "sources": []
     },
     {
-      "id": "paraguay-president-pena-resigns-f8e66e",
-      "title": "巴拉圭前总统培尼亚遭起诉并被羁押候审",
-      "description": "巴拉圭前总统圣地亚哥·培尼亚11月7日在总检察长办公室接受约3小时问讯后，被检方正式起诉。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T03:45:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/paraguay-president-pena-resigns-f8e66e",
-      "reference": [
-        "澎湃新闻",
-        "法广",
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 19,
-      "sources": []
-    },
-    {
       "id": "he-lifeng-us-officials-video-call-trade-talks-fb9473",
       "title": "何立峰与美方通话讨论落实中美经贸承诺",
       "description": "11月6日晚，中国国务院副总理何立峰与美国财政部长斯科特·贝森特、贸易代表贾米森·格里尔举行视频通话，讨论落实中美经贸安排，并交换彼此关切的贸易问题意见。",
@@ -3015,42 +3104,6 @@
       "sources": []
     },
     {
-      "id": "csrc-probes-dai-xuebin-market-manipulation-bdc032",
-      "title": "证监会对ST龙大实控人戴学斌立案调查",
-      "description": "ST龙大11月6日公告称，公司实际控制人戴学斌近日收到中国证监会《立案告知书》。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T04:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/csrc-probes-dai-xuebin-market-manipulation-bdc032",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "new-mexico-sandstone-landmarks-collapse-6b25de",
-      "title": "新墨西哥州两座著名砂岩地标相继崩塌",
-      "description": "新墨西哥州阿什斯莱帕荒野附近的两座著名砂岩景观“飞翼之王”和“异星王座”，在美国西南部强风暴与暴雨过后相继崩塌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T04:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/new-mexico-sandstone-landmarks-collapse-6b25de",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-regulator-releases-tests-detect-diet-food-additives-9448f8",
       "title": "市场监管总局发布两项方法识别减肥食品新型非法添加物",
       "description": "市场监管总局近日推出两项食品补充检验方法，针对食品中非法添加的酚丁（酚汀）类、比沙可啶类新型衍生物进行检测。",
@@ -3272,26 +3325,6 @@
       "sources": []
     },
     {
-      "id": "china-regulators-close-financial-scam-accounts-bb6602",
-      "title": "两部门关闭传播金融黑灰产信息的网络账号",
-      "description": "国家网信办会同国家金融监督管理总局近日集中处置一批传播金融“黑灰产”信息的网络账号，并于11月6日通报典型案例。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T14:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/china-regulators-close-financial-scam-accounts-bb6602",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "财新"
-      ],
-      "section": "china",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "china-space-station-sets-coldest-matter-record-540331",
       "title": "中国科研团队将铷原子云冷却至9.7皮开尔文",
       "description": "中国科研团队借助中国空间站超冷原子物理实验柜，将铷原子云的等效温度降至9.7皮开尔文，并连续观测7秒，刷新已知人造物质最低温度纪录。",
@@ -3489,24 +3522,6 @@
       "url": "https://kaopu.news/story/2026-11-06/employers-low-wage-pay-hikes-fall-short-c9a9fe",
       "reference": [
         "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-six-cities-household-deposits-exceed-3-trillion-774824",
-      "title": "中国统计年鉴显示六城住户存款超3万亿元",
-      "description": "近日出版的《中国统计年鉴2026》列出36个省会城市和计划单列市2025年末的住户存款余额。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T11:11:40.613494+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/china-six-cities-household-deposits-exceed-3-trillion-774824",
-      "reference": [
-        "第一财经"
       ],
       "section": "life",
       "sourceCount": 1,
@@ -4036,24 +4051,6 @@
         "澎湃新闻"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "crafty-falcon-ai-hacks-indian-financial-firms-79018d",
-      "title": "狡猾猎鹰利用人工智能入侵印度金融机构",
-      "description": "印度计算机应急响应小组11月4日通报称，名为“狡猾猎鹰”的黑客组织利用人工智能工具入侵印度非银行贷款机构、金融科技公司和加密货币交易所。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T09:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/crafty-falcon-ai-hacks-indian-financial-firms-79018d",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
