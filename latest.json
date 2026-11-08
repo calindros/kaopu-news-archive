@@ -1,11 +1,220 @@
 {
   "details": {
     "date": "2026-11-08",
-    "timestamp": 1794130074,
+    "timestamp": 1794137337,
     "totalPages": 1,
-    "total": 267
+    "total": 269
   },
   "stories": [
+    {
+      "id": "barnier-warns-uk-must-accept-four-freedoms-da6f8d",
+      "title": "巴尼耶警告英国重返单一市场须接受四大自由",
+      "description": "欧盟前脱欧谈判代表米歇尔·巴尼耶在接受BBC《劳拉·昆斯伯格周日访谈》采访时警告，英国若重新加入单一市场，就必须遵守与其他成员相同的规则，不能自行挑选参与内容。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T09:58:02+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/barnier-warns-uk-must-accept-four-freedoms-da6f8d",
+      "reference": [
+        "英国广播公司"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-midterm-election-congress-control-164251",
+      "title": "美国民主党赢得国会参众两院多数",
+      "description": "美国民主党在11月3日举行的中期选举中赢得国会参议院和众议院多数席位，将从2027年1月起掌控两院。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T09:57:36.111337+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
+      "reference": [
+        "世界日报",
+        "英国广播公司",
+        "联合早报",
+        "端传媒"
+      ],
+      "section": "us",
+      "sourceCount": 245,
+      "sources": []
+    },
+    {
+      "id": "putin-orders-russian-management-jti-subsidiaries-c4b3ab",
+      "title": "普京将JT在俄七家法人纳入俄企临时管理",
+      "description": "俄罗斯总统普京先后签署两项总统令，将日本烟草产业（JT）在俄罗斯的业务相关法人交由俄罗斯企业临时管理。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T09:37:30+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/putin-orders-russian-management-jti-subsidiaries-c4b3ab",
+      "reference": [
+        "日经",
+        "共同网",
+        "日本放送协会",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "singapore-agency-commissions-nuclear-safety-consultants-bf8161",
+      "title": "新加坡环境局委托顾问加强核能安全监管能力",
+      "description": "新加坡国家环境局已委托三家顾问公司参与核能相关能力建设，工作涉及安全、监管和环境保护，并将借鉴国际经验。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T09:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/singapore-agency-commissions-nuclear-safety-consultants-bf8161",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "eu-finds-tiktok-recommendation-system-violates-dsa-c73274",
+      "title": "欧盟初步认定TikTok推荐机制违反数字服务法案",
+      "description": "欧盟委员会当地时间11月6日初步认定，TikTok推荐机制违反《数字服务法案》。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T09:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/eu-finds-tiktok-recommendation-system-violates-dsa-c73274",
+      "reference": [
+        "财新"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "yellow-vests-call-concorde-rally-defying-ban-56abc2",
+      "title": "法国第四周反生活成本示威在巴黎爆发冲突",
+      "description": "法国各地7日举行连续第四个周末的示威，民众抗议生活成本上升和公共服务缩水。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T09:18:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-07",
+      "url": "https://kaopu.news/story/2026-11-07/yellow-vests-call-concorde-rally-defying-ban-56abc2",
+      "reference": [
+        "联合早报",
+        "法广",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "japan-considers-overseas-property-tax-21793f",
+      "title": "日经亚洲称日本拟向海外房产经营者征地方税",
+      "description": "据联合早报援引日经亚洲报道，日本政府正考虑将个人事业税扩至在日本经营房地产租赁或停车场业务的海外居民。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T09:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/japan-considers-overseas-property-tax-21793f",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "cambodia-shuts-972-scam-compounds-c2ae92",
+      "title": "柬埔寨清剿诈骗园区后前从业者返乡受阻",
+      "description": "柬埔寨加大清剿网络诈骗园区力度后，数万名曾在园区工作的外籍人员离开据点，但不少人仍面临拘留、无处居住和返乡困难。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T08:39:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-07",
+      "url": "https://kaopu.news/story/2026-11-07/cambodia-shuts-972-scam-compounds-c2ae92",
+      "reference": [
+        "联合早报",
+        "德国之声"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "india-confirms-arunachal-border-standoffs-96271a",
+      "title": "印度证实中印军队在阿鲁纳恰尔邦多地对峙",
+      "description": "印度当局证实，印度与中国军队近日在阿鲁纳恰尔邦沿实际控制线多处地点发生对峙。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T08:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/india-confirms-arunachal-border-standoffs-96271a",
+      "reference": [
+        "德国之声"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "hengdian-launches-paid-short-drama-experience-163f32",
+      "title": "横店影视城推出付费微短剧拍摄体验",
+      "description": "横店影视城正在拓展游客付费参与微短剧拍摄的体验项目。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T08:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/hengdian-launches-paid-short-drama-experience-163f32",
+      "reference": [
+        "德国之声"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-f16v-jets-depart-us-factory-f2997c",
+      "title": "台湾空军第二批三架F-16V战机抵达台东",
+      "description": "台湾空军向美国采购的第二批3架F-16V（Block 70）战机于11月8日上午抵达台东志航基地。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T08:08:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/taiwan-f16v-jets-depart-us-factory-f2997c",
+      "reference": [
+        "中央通訊社",
+        "公视",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 8,
+      "sources": []
+    },
     {
       "id": "sean-stein-us-firms-china-global-competitiveness-137af0",
       "title": "谭森称美企在华投资着眼全球竞争力",
@@ -134,6 +343,63 @@
       "sources": []
     },
     {
+      "id": "gaza-storms-flood-displaced-tents-054191",
+      "title": "加沙暴雨淹没约七万顶流离失所者帐篷",
+      "description": "当地时间11月7日，加沙地带强降雨引发洪水，约7万顶流离失所者帐篷被淹，数以万计居民受到影响。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T07:04:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-07",
+      "url": "https://kaopu.news/story/2026-11-07/gaza-storms-flood-displaced-tents-054191",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "iran-tankers-hit-mines-hormuz-fire-48d449",
+      "title": "伊朗称两艘违规油轮在霍尔木兹海峡触雷起火",
+      "description": "伊朗革命卫队称，两艘被其认定违规的油轮在霍尔木兹海峡触雷后起火：一艘位于海峡东部，另一艘在海峡内，火势均十分猛烈。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T07:04:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/iran-tankers-hit-mines-hormuz-fire-48d449",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "pope-leo-xiv-starts-south-america-tour-bdee8e",
+      "title": "教宗良十四世在乌拉圭谴责毒品暴力伤害儿童",
+      "description": "11月8日，教宗良十四世到访乌拉圭首都蒙得维的亚的卡萨瓦耶地区，在严密安保下步行走访，并谴责毒品暴力对儿童造成的伤害。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T07:04:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/pope-leo-xiv-starts-south-america-tour-bdee8e",
+      "reference": [
+        "联合早报",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "taiwan-financial-holdings-overseas-exposure-record-f9e8c5",
       "title": "金控集团海外风险敞口升至33万亿元创新高",
       "description": "台湾金管会公布的统计显示，金控集团2026年第三季度海外风险敞口达33.0373万亿元新台币，环比增长4.95%、同比增长16.35%，创历史新高。",
@@ -168,26 +434,6 @@
       ],
       "section": "world",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "taiwan-f16v-jets-depart-us-factory-f2997c",
-      "title": "台湾第二批三架F-16V战机抵达台东志航基地",
-      "description": "台湾空军向美国采购的第二批3架F-16V（Block 70）战机于11月8日上午降落台东志航基地，编号为6729、6731和6732。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T06:51:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/taiwan-f16v-jets-depart-us-factory-f2997c",
-      "reference": [
-        "中央通訊社",
-        "公视",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 7,
       "sources": []
     },
     {
@@ -721,25 +967,6 @@
       "sources": []
     },
     {
-      "id": "gaza-storms-flood-displaced-tents-054191",
-      "title": "加沙暴雨淹没约七万顶流离失所者帐篷",
-      "description": "当地时间11月7日，加沙政府媒体办公室称，强降雨引发洪水，12小时内约7万顶流离失所者帐篷被淹，部分居民受伤；中北部营地数百个家庭被迫转移。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T05:48:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/gaza-storms-flood-displaced-tents-054191",
-      "reference": [
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "japan-shizuoka-m57-quake-chita-shindo-five-plus-4319a2",
       "title": "静冈县西部5.7级地震致20余人受伤",
       "description": "日本静冈县西部8日凌晨1时4分左右发生5.7级地震，震源深度约41公里。",
@@ -894,27 +1121,6 @@
       "sources": []
     },
     {
-      "id": "putin-orders-russian-management-jti-subsidiaries-c4b3ab",
-      "title": "普京将日本烟草七家俄法人交由俄企临时管理",
-      "description": "俄罗斯总统普京于11月5日至6日签署总统令，将日本烟草产业集团（JT）在俄业务涉及的七家当地法人暂时交由俄罗斯企业管理。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T04:59:08+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/putin-orders-russian-management-jti-subsidiaries-c4b3ab",
-      "reference": [
-        "日经",
-        "共同网",
-        "日本放送协会",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
       "id": "macau-court-sentences-au-kam-san-fd966e",
       "title": "澳门法院判处前议员区锦新12年半徒刑",
       "description": "澳门初级法院11月6日判处前立法会议员区锦新有期徒刑12年6个月，这是澳门实施《维护国家安全法》以来首宗作出判决的国安案件。",
@@ -1006,27 +1212,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-midterm-election-congress-control-164251",
-      "title": "民主党夺回国会两院 年轻选民支持成胜选关键",
-      "description": "美国民主党在11月3日举行的中期选举中夺回国会参众两院控制权，18至29岁选民对民主党的支持率明显领先共和党。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T04:32:08+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
-      "reference": [
-        "世界日报",
-        "英国广播公司",
-        "联合早报",
-        "端传媒"
-      ],
-      "section": "us",
-      "sourceCount": 244,
       "sources": []
     },
     {
@@ -1227,6 +1412,27 @@
       "sources": []
     },
     {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "美众院共和党领袖要求黄仁勋参加闭门简报",
+      "description": "美国众议院外交事务委员会主席布赖恩·马斯特、美中战略竞争特别委员会主席约翰·穆勒纳尔和众议院情报委员会主席里克·克劳福德，要求英伟达首席执行官黄仁勋参加定于11月18日举行的闭门简报，说明他与新加坡数据中心企业Megaspeed前高管黄乐（Alice Huang）的往来，并介绍英伟达防止外国势力获取技术和敏感信息的措施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T01:58:43+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 31,
+      "sources": []
+    },
+    {
       "id": "us-disables-gulf-oman-cargo-ship-8b396c",
       "title": "美军在阿曼湾打击货船使其丧失航行能力",
       "description": "美国中央司令部称，美军在阿曼湾打击一艘试图违反美国对伊朗海上封锁的货船，使其丧失航行能力。",
@@ -1242,24 +1448,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "yellow-vests-call-concorde-rally-defying-ban-56abc2",
-      "title": "法国第四个周末示威巴黎里昂发生警民冲突",
-      "description": "法国各地11月7日举行连续第四个周末的反政府示威，数万民众上街抗议生活成本上涨。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T00:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/yellow-vests-call-concorde-rally-defying-ban-56abc2",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1636,27 +1824,6 @@
       "sources": []
     },
     {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "美众院三名共和党主席要求黄仁勋出席闭门简报",
-      "description": "美国众议院三名共和党委员会主席于11月4日致函英伟达首席执行官黄仁勋，要求他在11月18日参加闭门简报会，说明其与新加坡数据中心企业Megaspeed前高管黄乐的往来，以及公司防范外国间谍获取技术和信息的安全措施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T12:07:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 30,
-      "sources": []
-    },
-    {
       "id": "china-financial-law-draft-seeks-comments-63b7f9",
       "title": "金融法草案二审稿公布并征求意见",
       "description": "金融法草案二次审议稿于2026年11月6日公布，并向社会征求意见。",
@@ -1727,27 +1894,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ireland-media-bomb-threat-evacuations-54c9ce",
-      "title": "爱尔兰多家媒体遭炸弹威胁后疏散",
-      "description": "2026年11月6日，爱尔兰国家广播电视台（RTÉ）、鲍尔媒体集团、维珍媒体集团等多家媒体机构收到炸弹威胁，部分办公场所疏散，广播节目一度中断。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T11:09:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/ireland-media-bomb-threat-evacuations-54c9ce",
-      "reference": [
-        "法广",
-        "联合早报",
-        "澎湃新闻",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -1847,26 +1993,6 @@
       "sources": []
     },
     {
-      "id": "us-centcom-offers-reward-iran-nuclear-intelligence-084feb",
-      "title": "美国国务院悬赏最高2000万美元征集伊朗核计划情报",
-      "description": "美国国务院通过“正义赏金”计划征集伊朗核计划相关情报，符合条件的提供者最高可获2000万美元，并可能得到重新安置协助。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T09:52:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/us-centcom-offers-reward-iran-nuclear-intelligence-084feb",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "dhillon-resigns-doj-civil-rights-chief-55acbc",
       "title": "美国司法部三名高官中期选举后相继辞职",
       "description": "美国司法部三名高级官员在中期选举结束后相继辞职。",
@@ -1896,24 +2022,6 @@
       "occurredAt": "",
       "publishedAt": "2026-11-07",
       "url": "https://kaopu.news/story/2026-11-07/indonesia-restores-central-kalimantan-peatlands-330068",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "cambodia-shuts-972-scam-compounds-c2ae92",
-      "title": "柬埔寨一年多取缔972个电诈据点",
-      "description": "柬埔寨打击网络诈骗委员会公布，2025年7月至2026年10月间，当局取缔972个电信网络诈骗据点，并遣返2万3760名涉案外籍人员。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T09:09:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/cambodia-shuts-972-scam-compounds-c2ae92",
       "reference": [
         "联合早报"
       ],
@@ -2908,27 +3016,6 @@
       "sources": []
     },
     {
-      "id": "japan-ruling-party-seeks-food-tax-bill-passage-9999fa",
-      "title": "日本众议院通过食品消费税减税法案",
-      "description": "日本众议院11月6日以执政党多数赞成，通过高市早苗政府提出的食品消费税减税法案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T14:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/japan-ruling-party-seeks-food-tax-bill-passage-9999fa",
-      "reference": [
-        "共同网",
-        "日经",
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "china-regulators-close-financial-scam-accounts-bb6602",
       "title": "两部门关闭传播金融黑灰产信息的网络账号",
       "description": "国家网信办会同国家金融监督管理总局近日集中处置一批传播金融“黑灰产”信息的网络账号，并于11月6日通报典型案例。",
@@ -3539,42 +3626,6 @@
       "sources": []
     },
     {
-      "id": "bmw-warns-fake-recall-scam-e5a11d",
-      "title": "宝马中国提醒车主防范虚假召回诈骗",
-      "description": "宝马中国11月6日提醒车主，近期有人冒充官方，以车辆召回为名实施电信诈骗。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T06:34:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/bmw-warns-fake-recall-scam-e5a11d",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "new-york-selective-schools-education-resources-5520ec",
-      "title": "纽约华人家长教师指出甄选争议背后有资源短板",
-      "description": "纽约华人家长、教师及教育组织围绕特殊高中甄选与校园融合展开讨论，指出争议还牵涉教育资源、师资、升学信息落差及学生基础学力。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T06:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/new-york-selective-schools-education-resources-5520ec",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "gates-warns-trump-inaction-ai-risk-regulation-38e09c",
       "title": "盖茨警告人工智能滥用威胁全球生物安全",
       "description": "比尔·盖茨11月4日在英国《金融时报》举办的人工智能高峰会上警告，人工智能被恶意利用制造生物武器，可能造成远超新冠疫情的破坏。",
@@ -4064,24 +4115,6 @@
         "世界日报"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-microdramas-ai-share-exceeds-94-percent-98bd6b",
-      "title": "中国前十个月上线近55万部微短剧超94%为AI剧",
-      "description": "11月4日，国家广播电视总局局长曹淑敏在该局举办的“中国广播电视精品创作大会”上介绍，2026年前十个月新上线微短剧接近55万部，约为2025年全年数量的近17倍；其中AI剧占比超过94%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T06:06:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/china-microdramas-ai-share-exceeds-94-percent-98bd6b",
-      "reference": [
-        "财新"
-      ],
-      "section": "ai",
       "sourceCount": 1,
       "sources": []
     },
