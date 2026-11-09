@@ -1,11 +1,262 @@
 {
   "details": {
     "date": "2026-11-09",
-    "timestamp": 1794202197,
+    "timestamp": 1794206314,
     "totalPages": 1,
-    "total": 270
+    "total": 269
   },
   "stories": [
+    {
+      "id": "taiyuan-apartment-fire-kills-five-e019b6",
+      "title": "太原豪生国际公寓火灾已致14人死亡",
+      "description": "山西省太原市迎泽区柳巷街道豪生国际公寓11月8日发生火灾。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T05:42:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/taiyuan-apartment-fire-kills-five-e019b6",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "英伟达董事会调查黄仁勋是否成为外国情报目标",
+      "description": "英伟达董事会11月8日宣布成立独立董事委员会，在外部独立律师协助下调查首席执行官黄仁勋是否成为外国情报行动的目标，并审查国家安全信息或公司机密是否受到影响。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T05:16:41+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 62,
+      "sources": []
+    },
+    {
+      "id": "japan-vietnam-plan-energy-cooperation-49eaec",
+      "title": "共同社、NHK称日越拟发表能源矿产合作声明",
+      "description": "日本首相高市早苗与越南最高领导人、越共中央总书记兼国家主席苏林定于11月9日晚在东京举行首脑会谈。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T05:16:24+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-07",
+      "url": "https://kaopu.news/story/2026-11-07/japan-vietnam-plan-energy-cooperation-49eaec",
+      "reference": [
+        "共同网",
+        "日本放送协会",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "riyadh-financial-district-attack-aramco-building-damaged-403bcb",
+      "title": "胡塞袭击利雅得拦截碎片致阿美办公楼受损",
+      "description": "胡塞武装称，11月8日袭击了沙特首都利雅得等地。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T05:16:20+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/riyadh-financial-district-attack-aramco-building-damaged-403bcb",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "朝鲜日报",
+        "日本放送协会"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "cop31-antalya-opens-global-stocktake-54a7c1",
+      "title": "COP31在安塔利亚开幕聚焦气候行动",
+      "description": "《联合国气候变化框架公约》第31次缔约方会议（COP31）11月9日在土耳其安塔利亚开幕，会期至11月20日。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T05:15:49+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/cop31-antalya-opens-global-stocktake-54a7c1",
+      "reference": [
+        "澎湃新闻",
+        "公视",
+        "联合早报",
+        "SBS"
+      ],
+      "section": "world",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "wang-jianlin-returns-wanda-commercial-chairman-e4434d",
+      "title": "王健林时隔14年重任万达商管董事长",
+      "description": "大连万达商业管理集团股份有限公司近日发生工商登记变更，72岁的王健林接任董事长，陈洪涛卸任。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T05:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/wang-jianlin-returns-wanda-commercial-chairman-e4434d",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-launches-disaster-management-agency-542a0f",
+      "title": "日本防灾厅正式运行强化国家防灾救援体系",
+      "description": "日本首相高市早苗11月2日宣布，新设的防灾厅正式成立运行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T04:58:35+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/japan-launches-disaster-management-agency-542a0f",
+      "reference": [
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-microdrama-firms-lead-overseas-charts-d3b3f9",
+      "title": "中国微短剧企业加速出海占据海外榜单前列",
+      "description": "中国微短剧企业正扩大海外市场份额。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T04:51:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/china-microdrama-firms-lead-overseas-charts-d3b3f9",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "bloomberg-hackers-russia-statistics-war-deaths-888e81",
+      "title": "彭博称黑客组织窃取俄数据指向近39万战争死亡",
+      "description": "据彭博社报道，白罗斯反对派黑客组织“网络游击队”和乌克兰黑客组织“沉默乌鸦”称，已从俄罗斯联邦统计局取得逾1100万份死亡证明并交给媒体。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T04:48:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/bloomberg-hackers-russia-statistics-war-deaths-888e81",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ispace-us-subsidiary-nasa-lunar-transport-bids-a0ebf5",
+      "title": "ispace美国子公司获NASA月表运载竞标资格",
+      "description": "美国国家航空航天局（NASA）11月7日宣布，选定日本航天企业ispace在科罗拉多州丹佛的美国子公司，作为未来月表开发民间运载业务的发包对象。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T04:38:03+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/ispace-us-subsidiary-nasa-lunar-transport-bids-a0ebf5",
+      "reference": [
+        "共同网"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-legislature-raises-farmers-allowance-15000-e9157f",
+      "title": "台湾立法院三读提高老农津贴至每月1.5万元",
+      "description": "台湾立法院11月6日三读通过修正《老年农民福利津贴暂行条例》，将老年农民福利津贴从每月新台币8110元提高至1万5000元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T04:34:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/taiwan-legislature-raises-farmers-allowance-15000-e9157f",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "taiwan-closes-papua-new-guinea-office-d9ac7d",
+      "title": "台湾宣布关闭驻巴布亚新几内亚代表处",
+      "description": "台湾外交部11月6日宣布，主动关闭驻巴布亚新几内亚代表处，撤回所有派驻人员并停止驻处业务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T04:31:05+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/taiwan-closes-papua-new-guinea-office-d9ac7d",
+      "reference": [
+        "中央通訊社",
+        "公视",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "new-york-times-h200-china-shell-firms-c7f166",
+      "title": "纽时称美批准背景可疑中企经手H200芯片",
+      "description": "美国商务部今年批准多家中国企业采购、经手或组装英伟达H200芯片。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T04:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/new-york-times-h200-china-shell-firms-c7f166",
+      "reference": [
+        "世界日报",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 3,
+      "sources": []
+    },
     {
       "id": "massie-plans-impeachment-resolution-hegseth-1add74",
       "title": "共和党交接前仍掌国会多数 马西推动弹劾赫格塞斯",
@@ -28,24 +279,21 @@
       "sources": []
     },
     {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "英伟达董事会启动调查黄仁勋是否成外国情报目标",
-      "description": "英伟达董事会11月8日宣布成立独立委员会，调查首席执行官黄仁勋是否成为外国情报行动的目标，并核查相关国家安全疑虑。",
+      "id": "china-extends-us-ship-port-fee-suspension-72c1d3",
+      "title": "中国延长对美船舶特别港务费暂停至2027年1月",
+      "description": "中国交通运输部11月9日宣布，针对美国船舶的特别港务费暂不恢复征收，暂停安排延续到2027年1月10日。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-09T04:10:54+00:00",
+      "updatedAt": "2026-11-09T04:08:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/china-extends-us-ship-port-fee-suspension-72c1d3",
       "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
+        "联合早报"
       ],
       "section": "china",
-      "sourceCount": 55,
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -67,6 +315,24 @@
       ],
       "section": "us",
       "sourceCount": 38,
+      "sources": []
+    },
+    {
+      "id": "korea-kdi-ai-investment-growth-568fb1",
+      "title": "韩国开发研究院称AI投资推动韩国经济增长",
+      "description": "韩国开发研究院发布11月经济动向报告，称AI基础设施投资相关产业带动韩国经济保持良好增长，但景气改善尚未明显传导至居民家庭。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T04:06:49+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/korea-kdi-ai-investment-growth-568fb1",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -186,25 +452,6 @@
       "sources": []
     },
     {
-      "id": "taiyuan-apartment-fire-kills-five-e019b6",
-      "title": "太原豪生国际公寓火灾致14人死亡",
-      "description": "山西太原市迎泽区柳巷街道豪生国际公寓11月8日下午发生火灾。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T03:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/taiyuan-apartment-fire-kills-five-e019b6",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "climate-risk-assessment-rates-reefs-critical-85ba1f",
       "title": "气候风险评估将96%浅水珊瑚礁生态系统列为极危",
       "description": "10月发表于《自然》的一项研究和世界自然保护联盟同期发布的评估显示，海洋升温与热浪给全球造礁珊瑚及浅水珊瑚礁生态系统带来严重风险。",
@@ -241,24 +488,21 @@
       "sources": []
     },
     {
-      "id": "cop31-antalya-opens-global-stocktake-54a7c1",
-      "title": "COP31在安塔利亚举行聚焦气候承诺落实",
-      "description": "第31届联合国气候变化大会（COP31）于11月9日至20日在土耳其安塔利亚举行，来自190多个国家的代表将参加会议。",
+      "id": "drone-strike-khor-mor-gas-field-halts-production-93fb83",
+      "title": "法广称无人机袭击霍尔莫尔气田致停产",
+      "description": "据法广报道，消息人士称，一架载有炸药的无人机击中伊拉克库德族自治区霍尔莫尔气田，袭中液化石油气储罐并引发大火，气田随后暂停生产。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-09T03:02:06+00:00",
+      "updatedAt": "2026-11-09T03:02:08+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/cop31-antalya-opens-global-stocktake-54a7c1",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/drone-strike-khor-mor-gas-field-halts-production-93fb83",
       "reference": [
-        "澎湃新闻",
-        "公视",
-        "联合早报",
-        "SBS"
+        "法广"
       ],
       "section": "world",
-      "sourceCount": 6,
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -280,26 +524,6 @@
       ],
       "section": "us",
       "sourceCount": 21,
-      "sources": []
-    },
-    {
-      "id": "japan-vietnam-plan-energy-cooperation-49eaec",
-      "title": "共同社称高市早苗与苏林将确认深化日越合作",
-      "description": "日本首相高市早苗与越南最高领导人、越共中央总书记兼国家主席苏林定于11月9日举行首脑会谈，并拟发表联合声明。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T02:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/japan-vietnam-plan-energy-cooperation-49eaec",
-      "reference": [
-        "共同网",
-        "日本放送协会",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -508,26 +732,6 @@
       ],
       "section": "ai",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "riyadh-financial-district-attack-aramco-building-damaged-403bcb",
-      "title": "胡塞武装向利雅得发射导弹阿美办公楼受损",
-      "description": "当地时间11月8日，也门胡塞武装向沙特首都利雅得发射导弹等发射体，阿卜杜拉国王金融区内一栋沙特阿美办公楼受损。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T01:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/riyadh-financial-district-attack-aramco-building-damaged-403bcb",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "朝鲜日报"
-      ],
-      "section": "world",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -2041,24 +2245,6 @@
       "sources": []
     },
     {
-      "id": "iran-executes-three-men-accused-us-israel-fe13cc",
-      "title": "伊朗处决三名被指为美以执行任务的男子",
-      "description": "伊朗当局11月8日处决三名男子。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T06:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/iran-executes-three-men-accused-us-israel-fe13cc",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "houston-mayor-limits-ice-notices-booking-cases-1c88fb",
       "title": "休斯敦市长签令收紧警方联系ICE条件",
       "description": "休斯敦市长约翰·惠特迈尔11月6日签署行政命令，限定市警局联系美国移民及海关执法局（ICE）的情形：当事人因可能判处监禁的罪名被捕，或ICE已向其签发行政逮捕令。",
@@ -2073,24 +2259,6 @@
         "世界日报"
       ],
       "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "new-york-times-h200-china-shell-firms-c7f166",
-      "title": "纽时调查称部分中国H200获批企业疑似空壳",
-      "description": "《纽约时报》调查发现，获美国商务部批准购买或经手英伟达H200芯片的部分中国企业，登记地址看不到实际运营迹象；另一些企业与被美国列入贸易黑名单的机构，或曾为军方承包商提供服务的公司有关。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T06:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/new-york-times-h200-china-shell-firms-c7f166",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "china",
       "sourceCount": 2,
       "sources": []
     },
@@ -2767,26 +2935,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-closes-papua-new-guinea-office-d9ac7d",
-      "title": "台湾外交部决定关闭驻巴新代表处",
-      "description": "台湾外交部11月6日宣布，台湾将主动关闭驻巴布亚新几内亚代表处，撤回全部派驻人员，并终止对巴纽的技术合作与援助项目。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T20:31:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/taiwan-closes-papua-new-guinea-office-d9ac7d",
-      "reference": [
-        "中央通訊社",
-        "公视",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 8,
-      "sources": []
-    },
-    {
       "id": "guangzhou-students-costume-returns-platform-rules-240f41",
       "title": "广州22名学生穿演出服退货引发平台规则争议",
       "description": "澎湃新闻报道，广州一所职业学院22名学生网购演出服参加歌唱比赛后，穿着服装参赛并申请七天无理由退货。",
@@ -2937,61 +3085,6 @@
       "sources": []
     },
     {
-      "id": "china-financial-law-draft-seeks-comments-63b7f9",
-      "title": "金融法草案二审稿公布并征求意见",
-      "description": "金融法草案二次审议稿于2026年11月6日公布，并向社会征求意见。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T12:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/china-financial-law-draft-seeks-comments-63b7f9",
-      "reference": [
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-ibaraki-5-6-earthquake-tokyo-felt-9602c8",
-      "title": "日本茨城县近海发生5.6级地震",
-      "description": "日本茨城县附近海域11月7日发生地震，首都东京有震感。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T11:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/japan-ibaraki-5-6-earthquake-tokyo-felt-9602c8",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "chen-minxin-wins-youth-olympic-table-tennis-gold-e065b7",
-      "title": "陈忞昕夺得台湾首枚青奥乒乓球金牌",
-      "description": "台湾选手陈忞昕当地时间11月5日在2026年达卡青年奥运会乒乓球女单决赛中，以4比2战胜新加坡选手黎明映，夺得台湾代表团本届赛事首枚金牌，也为台湾队拿下队史首枚青奥乒乓球金牌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T11:21:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/chen-minxin-wins-youth-olympic-table-tennis-gold-e065b7",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "seafood-livestream-sales-consumer-rights-867823",
       "title": "央媒调查揭示直播水产销售乱象致维权难",
       "description": "据中央广播电视总台中国之声报道，其调查发现，直播间销售黑虎虾、鲍鱼等水产存在净含量不足、规格与宣传不符、以假充真等问题，消费者收货后常面临举证和维权困难。",
@@ -3007,26 +3100,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "shih-chung-liang-warns-welfare-law-premium-pressure-97252c",
-      "title": "台湾行政院决定不副署老人福利法修正案",
-      "description": "台湾行政院11月6日决定不副署立法院通过的《老人福利法》第22条修正案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T11:06:58+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/shih-chung-liang-warns-welfare-law-premium-pressure-97252c",
-      "reference": [
-        "中央通訊社",
-        "公视",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 15,
       "sources": []
     },
     {
@@ -3438,25 +3511,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "he-lifeng-hosts-second-canada-economic-financial-dialogue-b7559e",
-      "title": "中加定于11月9日重启经济财金战略对话",
-      "description": "中加将于11月9日在加拿大举行第二次经济财金战略对话，中国国务院副总理何立峰、加拿大财政部长商鹏飞和国际贸易部长辛都将共同主持。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T03:39:50+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/he-lifeng-hosts-second-canada-economic-financial-dialogue-b7559e",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -4081,24 +4135,6 @@
       "sources": []
     },
     {
-      "id": "moonshot-opens-kimi-k31-pro-weights-aabc1c",
-      "title": "月之暗面开放Kimi K3.1 Pro完整模型权重",
-      "description": "月之暗面于北京时间11月5日凌晨发布Kimi K3.1 Pro完整模型权重。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T10:37:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/moonshot-opens-kimi-k31-pro-weights-aabc1c",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "yunnan-xinyao-aoi-five-year-indium-phosphide-supply-1dec4c",
       "title": "云南鑫耀与AOI签订五年磷化铟供货协议",
       "description": "云南锗业控股子公司云南鑫耀半导体材料有限公司与美国光通信企业Applied Optoelectronics（AOI）签署长期供货协议和年度合同。",
@@ -4559,27 +4595,6 @@
       "sources": []
     },
     {
-      "id": "marvell-lumentum-stock-acquisition-de78b7",
-      "title": "迈威尔以1150亿美元收购Lumentum",
-      "description": "美国芯片公司迈威尔科技（Marvell）与光通信企业Lumentum于11月2日宣布达成最终协议，迈威尔将以全股票方式收购后者，交易隐含企业价值约1150亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T13:47:34.903651+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/marvell-lumentum-stock-acquisition-de78b7",
-      "reference": [
-        "澎湃新闻",
-        "财新",
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "business",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "china-mens-table-tennis-grand-slam-semifinals-fall-a6ba34",
       "title": "中国男乒大满贯四强席位一年降至两席",
       "description": "中国乒乓球男队今年在四站WTT大满贯中只取得两个男单四强席位，较2025年的九席减少七席。",
@@ -4888,24 +4903,6 @@
       "sources": []
     },
     {
-      "id": "heritage-home-repair-approval-funding-741ee3",
-      "title": "低级别民居文物修缮面临审批资金难题",
-      "description": "低级别民居类文物在认定告知、修缮审批和资金支持方面遭遇障碍。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T23:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/heritage-home-repair-approval-funding-741ee3",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "golden-state-valkyries-win-wnba-title-6a0e24",
       "title": "金州女武神击败美梦首夺WNBA总冠军",
       "description": "10月31日，金州女武神在WNBA总冠军赛第七战以68比63战胜亚特兰大美梦，首次夺得队史总冠军。",
@@ -5013,24 +5010,6 @@
       ],
       "section": "sports",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "china-gymnastics-worlds-seven-medals-second-30ea2f",
-      "title": "中国体操队以七枚奖牌收获世锦赛第二",
-      "description": "中国体操队在荷兰鹿特丹举行的2026年体操世锦赛取得3金2银2铜，以7枚奖牌位列奖牌榜第二；美国队以3金3银2铜排名第一。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T04:49:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/china-gymnastics-worlds-seven-medals-second-30ea2f",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "sports",
-      "sourceCount": 1,
       "sources": []
     }
   ]
