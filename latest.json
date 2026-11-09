@@ -1,11 +1,129 @@
 {
   "details": {
     "date": "2026-11-09",
-    "timestamp": 1794231377,
+    "timestamp": 1794238685,
     "totalPages": 1,
-    "total": 269
+    "total": 270
   },
   "stories": [
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "英伟达董事会启动调查黄仁勋是否成为外国情报行动目标",
+      "description": "英伟达董事会11月8日宣布，就媒体有关首席执行官黄仁勋与黄乐关系密切、可能涉及外国情报行动的报道展开独立调查。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T14:03:12+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 86,
+      "sources": []
+    },
+    {
+      "id": "witkoff-norway-peace-proposal-talks-6bf424",
+      "title": "俄乌美将于阿布扎比重启和平会谈",
+      "description": "俄罗斯、乌克兰和美国定于11月10日至11日在阿联酋首都阿布扎比举行和平会谈。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T14:03:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
+      "reference": [
+        "法广",
+        "澎湃新闻",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 74,
+      "sources": []
+    },
+    {
+      "id": "ccp-deploys-21st-congress-delegate-election-1a466e",
+      "title": "中共中央部署二十一大代表选举并确定名额",
+      "description": "中共中央已部署中国共产党第二十一次全国代表大会代表选举工作，确定代表名额为2360名，较二十大增加60名，由38个选举单位产生。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T13:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-07",
+      "url": "https://kaopu.news/story/2026-11-07/ccp-deploys-21st-congress-delegate-election-1a466e",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "中央通訊社",
+        "第一财经"
+      ],
+      "section": "china",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "wang-jianlin-returns-wanda-commercial-chairman-e4434d",
+      "title": "王健林时隔14年重任万达商管董事长",
+      "description": "工商信息显示，大连万达商业管理集团股份有限公司近日变更董事长，王健林接替陈洪涛出任该职。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T13:41:39.401871+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/wang-jianlin-returns-wanda-commercial-chairman-e4434d",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "apple-intelligence-completes-china-filing-1ce098",
+      "title": "苹果生成式人工智能服务完成中国备案",
+      "description": "上海网信部门11月9日表示，苹果的生成式人工智能服务Apple Intelligence已完成中国境内备案，可用于平板电脑和电脑。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T13:35:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/apple-intelligence-completes-china-filing-1ce098",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ioc-shifts-olympic-review-to-disciplines-917410",
+      "title": "国际奥委会发布新规将按分项评估奥运项目",
+      "description": "国际奥委会近日正式发布《奥运会项目政策》，为今后奥运会的项目筛选和决策制定程序。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T13:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/ioc-shifts-olympic-review-to-disciplines-917410",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "sports",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "china-coast-guard-dengbu-patrols-diaoyu-islands-cdd5c7",
       "title": "四艘中国海警船驶入日方所称尖阁诸岛领海后驶离",
@@ -89,6 +207,24 @@
       "sources": []
     },
     {
+      "id": "us-extends-china-tariff-exemptions-9a081a",
+      "title": "美国将178项中国商品关税豁免延至2027年1月9日",
+      "description": "美国贸易代表办公室11月6日宣布，将原定11月9日到期的178项中国商品对华301关税豁免延至2027年1月9日。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T13:18:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/us-extends-china-tariff-exemptions-9a081a",
+      "reference": [
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "guo-jiakun-rejects-china-spy-claims-9b7417",
       "title": "郭嘉昆驳斥黄仁勋婚外情涉华间谍说法",
       "description": "中国外交部发言人郭嘉昆11月9日在例行记者会上回应有关黄仁勋婚外情对象涉中国情报活动的说法，称所谓“中国间谍”论调是捕风捉影、污蔑抹黑。",
@@ -110,6 +246,42 @@
       "sources": []
     },
     {
+      "id": "dalian-yingbo-beats-tianjin-wins-title-edf8d8",
+      "title": "大连英博击败天津津门虎首夺中超冠军",
+      "description": "大连英博在末轮击败天津津门虎，凭借与成都蓉城的相互战绩优势，夺得队史首个中超冠军。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T13:12:35.212356+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/dalian-yingbo-beats-tianjin-wins-title-edf8d8",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "sports",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "space-computing-firm-launches-hefei-694716",
+      "title": "中科星云在合肥正式成立并投入运营",
+      "description": "中科星云太空智能科技（合肥）有限公司11月9日在合肥举行的2026太空云产业生态大会暨成立大会上正式成立并投入运营，公司将推进太空算力产业化。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T13:11:35.212784+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/space-computing-firm-launches-hefei-694716",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "china-auto-exports-rise-october-0cec63",
       "title": "中国汽车10月出口同比大增68.2%",
       "description": "中国乘联分会公布的数据显示，10月中国广义乘用车出口93.2万辆，同比增长68.2%；今年前10个月，汽车出口同比增长75%。",
@@ -128,27 +300,6 @@
       "sources": []
     },
     {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "英伟达董事会调查黄仁勋是否成为情报目标",
-      "description": "英伟达董事会于11月8日宣布成立独立董事委员会，调查首席执行官黄仁勋是否成为外国情报行动的目标，并审查相关信息。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T12:57:57+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 85,
-      "sources": []
-    },
-    {
       "id": "eztravel-data-breach-over-690000-people-4eae83",
       "title": "易游网遭攻击逾69万人个人资料外泄",
       "description": "易游网遭骇。",
@@ -163,6 +314,24 @@
         "公视"
       ],
       "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "google-says-australia-law-may-block-gmail-minors-bc45a3",
+      "title": "谷歌称澳大利亚法案或迫使未成年人停用Gmail",
+      "description": "谷歌旗下YouTube澳大利亚及新西兰政策主管瑞秋·洛德在澳大利亚参议院听证会上表示，拟议中的《数字注意义务》法案可能迫使谷歌限制未满18岁者使用Gmail等服务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T12:52:21+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/google-says-australia-law-may-block-gmail-minors-bc45a3",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -458,6 +627,24 @@
       "sources": []
     },
     {
+      "id": "senegal-migrant-boat-sinks-35-dead-9ff7d2",
+      "title": "塞内加尔外海移民船沉没至少34人死亡",
+      "description": "塞内加尔外海一艘载有移民的船只沉没。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T11:34:12+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/senegal-migrant-boat-sinks-35-dead-9ff7d2",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "joint-list-recommends-eisenkot-prime-minister-303777",
       "title": "以色列总统授权埃森科特组建新政府",
       "description": "以色列总统伊萨克·赫尔佐格11月8日授权正直党领导人、前国防军总参谋长加迪·埃森科特组建新一届政府。",
@@ -703,27 +890,6 @@
       ],
       "section": "us",
       "sourceCount": 41,
-      "sources": []
-    },
-    {
-      "id": "witkoff-norway-peace-proposal-talks-6bf424",
-      "title": "克宫称阿布扎比会谈将仅由俄乌美参加",
-      "description": "俄罗斯、乌克兰和美国定于11月10日至11日在阿联酋阿布扎比举行乌克兰问题会谈。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T10:38:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
-      "reference": [
-        "法广",
-        "澎湃新闻",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 73,
       "sources": []
     },
     {
@@ -1939,24 +2105,6 @@
       "sources": []
     },
     {
-      "id": "wang-jianlin-returns-wanda-commercial-chairman-e4434d",
-      "title": "王健林时隔14年重任万达商管董事长",
-      "description": "大连万达商业管理集团股份有限公司近日发生工商登记变更，72岁的王健林接任董事长，陈洪涛卸任。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T05:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/wang-jianlin-returns-wanda-commercial-chairman-e4434d",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "japan-launches-disaster-management-agency-542a0f",
       "title": "日本防灾厅正式运行强化国家防灾救援体系",
       "description": "日本首相高市早苗11月2日宣布，新设的防灾厅正式成立运行。",
@@ -2436,42 +2584,6 @@
         "公视"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "laos-monsoon-wind-supplies-vietnam-8d376d",
-      "title": "老挝季风风电项目投运向越南供电",
-      "description": "老挝南部季风风电项目于2025年8月开始运行，电力经专用输电线路直接送入越南国家电网。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T01:00:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/laos-monsoon-wind-supplies-vietnam-8d376d",
-      "reference": [
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "lula-defeats-bolsonaro-wins-brazil-reelection-20829b",
-      "title": "鲁拉击败小波索纳洛赢得巴西总统连任",
-      "description": "巴西总统鲁拉在10月25日的第二轮投票中以近52%的得票率击败小波索纳洛，赢得连任，取得第四个总统任期。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T01:00:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/lula-defeats-bolsonaro-wins-brazil-reelection-20829b",
-      "reference": [
-        "公视"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -3086,25 +3198,6 @@
       "sources": []
     },
     {
-      "id": "china-seven-agencies-advance-shipping-insurance-02eb99",
-      "title": "七部门印发意见推出航运保险发展17项举措",
-      "description": "国家金融监督管理总局、交通运输部、国家发展改革委、财政部、商务部、中国人民银行和国务院国资委于11月6日联合印发《关于加快航运保险高质量发展的指导意见》，从五个方面提出17项举措，目标是构建自主可控、保障有力、服务高效、竞争有序的现代航运保险体系。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T11:21:35.715479+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/china-seven-agencies-advance-shipping-insurance-02eb99",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "yunnan-blueberry-farming-cuts-prices-ba7cfd",
       "title": "云南蓝莓规模化种植推动价格同比下降约五成",
       "description": "云南蓝莓种植扩张、产量增加，今年产区价格较去年回落约50%。",
@@ -3385,27 +3478,6 @@
       "sources": []
     },
     {
-      "id": "ccp-deploys-21st-congress-delegate-election-1a466e",
-      "title": "中共中央部署二十一大代表选举工作",
-      "description": "中共中央近日印发通知，部署中国共产党第二十一次全国代表大会代表选举工作；中央组织部随后召开会议作出安排。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T06:13:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/ccp-deploys-21st-congress-delegate-election-1a466e",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "中央通訊社",
-        "第一财经"
-      ],
-      "section": "china",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "aarp-study-caregiver-costs-exceed-10000-4e8454",
       "title": "AARP研究显示照护患病亲友年均支出逾万元",
       "description": "美国退休人员协会（AARP）一项研究显示，照护患病成年亲属或朋友的人士平均每年支出1万1508美元，约占一般家庭收入的31%。",
@@ -3457,25 +3529,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "wang-fuzhi-dies-dalian-aged-104-49a84d",
-      "title": "最后一位开国将军王扶之在大连病逝",
-      "description": "原乌鲁木齐军区副司令员王扶之于11月7日在辽宁大连病逝，享年104岁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T05:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/wang-fuzhi-dies-dalian-aged-104-49a84d",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3953,25 +4006,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "gates-warns-trump-inaction-ai-risk-regulation-38e09c",
-      "title": "盖茨警告人工智能滥用威胁全球生物安全",
-      "description": "比尔·盖茨11月4日在英国《金融时报》举办的人工智能高峰会上警告，人工智能被恶意利用制造生物武器，可能造成远超新冠疫情的破坏。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T06:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/gates-warns-trump-inaction-ai-risk-regulation-38e09c",
-      "reference": [
-        "联合早报",
-        "世界日报"
-      ],
-      "section": "ai",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -4597,24 +4631,6 @@
         "澎湃新闻"
       ],
       "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "apple-iphone-duo-sells-out-0685d0",
-      "title": "苹果首款折叠手机上市一周多即告售罄",
-      "description": "苹果首款折叠手机 iPhone Duo 上市一周多后已售罄，公司表示目前仍无法判断何时能够恢复稳定供货。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-03T14:35:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/apple-iphone-duo-sells-out-0685d0",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "tech",
       "sourceCount": 1,
       "sources": []
     },
