@@ -3,26 +3,454 @@
     "date": "2026-11-09",
     "timestamp": 1794187200,
     "totalPages": 1,
-    "total": 267
+    "total": 268
   },
   "stories": [
     {
-      "id": "nvidia-board-launches-independent-security-probe-ecb015",
-      "title": "黄仁勋承认婚外情英伟达启动独立调查",
-      "description": "英伟达首席执行官黄仁勋11月8日向员工发信，承认对妻子不忠，并向家人和公司同事致歉。",
+      "id": "joint-list-recommends-eisenkot-prime-minister-303777",
+      "title": "以色列总统赫尔佐格授权埃森科特组建新政府",
+      "description": "以色列总统伊萨克·赫尔佐格当地时间11月8日17时正式授权反对派正直党领导人、以军前总参谋长加迪·埃森科特组建新政府。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-09T00:09:49+00:00",
+      "updatedAt": "2026-11-09T02:12:42+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/joint-list-recommends-eisenkot-prime-minister-303777",
+      "reference": [
+        "澎湃新闻",
+        "公视",
+        "法广",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 19,
+      "sources": []
+    },
+    {
+      "id": "trump-invites-dana-white-white-house-press-secretary-d21b67",
+      "title": "特朗普称邀请UFC总裁任白宫新闻秘书是玩笑",
+      "description": "美国总统特朗普11月7日在社交平台Truth Social发文，邀请UFC总裁达纳·怀特出任白宫新闻秘书，并希望怀特带六名现任或前UFC选手担任助手。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T01:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-07",
+      "url": "https://kaopu.news/story/2026-11-07/trump-invites-dana-white-white-house-press-secretary-d21b67",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "联合早报",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "russia-strikes-kyiv-energy-blackouts-5aff02",
+      "title": "俄军袭击乌能源设施泽连斯基称发现朝鲜导弹",
+      "description": "俄罗斯军队在11月6日晚至7日凌晨袭击乌克兰能源基础设施，基辅等地供电、供水和集中供暖受到影响。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T01:05:57+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-07",
+      "url": "https://kaopu.news/story/2026-11-07/russia-strikes-kyiv-energy-blackouts-5aff02",
+      "reference": [
+        "德国之声",
+        "韩国国际广播电台"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "美众院共和党主席要求黄仁勋参加闭门简报",
+      "description": "美国众议院三名共和党委员会主席要求英伟达首席执行官黄仁勋参加定于11月18日举行的闭门简报，说明他与新加坡数据中心企业Megaspeed前高管黄乐的往来，以及公司防止外国对手获取敏感技术和信息的安全措施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T01:02:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 32,
+      "sources": []
+    },
+    {
+      "id": "trump-names-miller-white-house-chief-42c7ae",
+      "title": "特朗普任命米勒接替威尔斯出任白宫幕僚长",
+      "description": "美国总统唐纳德·特朗普宣布，白宫副幕僚长斯蒂芬·米勒将接替苏西·威尔斯出任白宫幕僚长，任命定于11月9日生效。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T01:02:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/trump-names-miller-white-house-chief-42c7ae",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "财新",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 20,
+      "sources": []
+    },
+    {
+      "id": "benex-daily-goods-prizes-revenue-growth-456546",
+      "title": "日本Benex改用民生用品奖品后营收增2.6倍",
+      "description": "日本连锁游乐中心Benex从2024年起将夹娃娃机奖品换成白米、沙拉油、卫生纸、洗面乳和鲜鸡蛋等生活用品，以吸引顾客，把娱乐与采购结合。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T01:00:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/benex-daily-goods-prizes-revenue-growth-456546",
+      "reference": [
+        "公视"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "karl-bushby-swims-channel-returns-home-722f01",
+      "title": "英国探险家布希比历时28年徒步环球后游渡海峡返乡",
+      "description": "英国探险家布希比10月初游渡英吉利海峡，随后步行回到英格兰赫尔的家乡，结束历时28年、行程约5万公里的环球旅程。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T01:00:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/karl-bushby-swims-channel-returns-home-722f01",
+      "reference": [
+        "公视"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "laos-monsoon-wind-supplies-vietnam-8d376d",
+      "title": "老挝季风风电项目投运向越南供电",
+      "description": "老挝南部季风风电项目于2025年8月开始运行，电力经专用输电线路直接送入越南国家电网。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T01:00:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/laos-monsoon-wind-supplies-vietnam-8d376d",
+      "reference": [
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "lula-defeats-bolsonaro-wins-brazil-reelection-20829b",
+      "title": "鲁拉击败小波索纳洛赢得巴西总统连任",
+      "description": "巴西总统鲁拉在10月25日的第二轮投票中以近52%的得票率击败小波索纳洛，赢得连任，取得第四个总统任期。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T01:00:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/lula-defeats-bolsonaro-wins-brazil-reelection-20829b",
+      "reference": [
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "melania-to-meet-russia-ukraine-envoys-32f103",
+      "title": "梅拉尼娅白宫会见俄乌代表呼吁持久和平",
+      "description": "美国第一夫人梅拉尼娅·特朗普11月5日在白宫会见俄罗斯和乌克兰代表，介绍她斡旋推动的奥列什基人道停火，并呼吁双方把短期停火转化为更持久的和平。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T01:00:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/melania-to-meet-russia-ukraine-envoys-32f103",
+      "reference": [
+        "法广",
+        "澎湃新闻",
+        "公视",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "us-midterm-election-congress-control-164251",
+      "title": "美国民主党夺回国会参众两院控制权",
+      "description": "美国民主党在11月3日举行的中期选举中夺回国会参议院和众议院控制权，共和党失去两院多数。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T01:00:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
+      "reference": [
+        "世界日报",
+        "英国广播公司",
+        "联合早报",
+        "端传媒"
+      ],
+      "section": "us",
+      "sourceCount": 246,
+      "sources": []
+    },
+    {
+      "id": "dakar-youth-olympics-debut-africa-5ae7d8",
+      "title": "达卡青年奥运会开赛成为非洲首场奥运赛事",
+      "description": "塞内加尔首都达卡的2026年青年奥林匹克运动会已经开赛，成为首次在非洲举办的奥运赛事。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T01:00:08+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/dakar-youth-olympics-debut-africa-5ae7d8",
+      "reference": [
+        "公视"
+      ],
+      "section": "sports",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "title": "特朗普预计在深圳APEC期间会晤习近平和普京",
+      "description": "美国总统特朗普11月8日表示，他预计在深圳举行的亚太经合组织（APEC）领导人会议期间与中国国家主席习近平、俄罗斯总统普京会面。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T00:58:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "日经",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "bitcoin-price-falls-below-76000-041b31",
+      "title": "比特币和以太币跌至两个多月新低",
+      "description": "加密货币市场晚间下跌，比特币和以太币均触及8月以来低位。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T00:55:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/bitcoin-price-falls-below-76000-041b31",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-iran-talks-progress-strike-risk-low-506dae",
+      "title": "特朗普称谈判有进展时重启对伊战事可能性极低",
+      "description": "特朗普11月8日接受CNN电话采访称，若围绕伊朗核计划及霍尔木兹海峡的谈判取得进展，美方重启对伊军事行动的可能性“极低”；能否签署有力协议是关键，必要时仍会动武。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T00:50:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/trump-iran-talks-progress-strike-risk-low-506dae",
+      "reference": [
+        "澎湃新闻",
+        "日经"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "spot-gold-breaks-4100-per-ounce-7de3a9",
+      "title": "现货黄金价格突破每盎司4100美元",
+      "description": "现货黄金价格于11月9日升至每盎司4100美元上方，当日涨幅为0.76%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T00:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/spot-gold-breaks-4100-per-ounce-7de3a9",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nvidia-board-launches-independent-security-probe-ecb015",
+      "title": "黄仁勋承认婚外情英伟达董事会调查安全风险",
+      "description": "英伟达首席执行官黄仁勋在致员工信中承认对妻子不忠，称自己的行为伤害了妻子和孩子，没有借口，并表示愿意承担责任、接受批评。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T00:46:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-08",
       "url": "https://kaopu.news/story/2026-11-08/nvidia-board-launches-independent-security-probe-ecb015",
       "reference": [
         "世界日报",
-        "联合早报"
+        "联合早报",
+        "澎湃新闻",
+        "中央通訊社"
       ],
       "section": "tech",
-      "sourceCount": 7,
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "us-disables-gulf-oman-cargo-ship-8b396c",
+      "title": "美军击中胡达号货船使其失去航行能力",
+      "description": "美军在阿曼湾击中货船胡达号并使其失去航行能力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T00:40:42+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/us-disables-gulf-oman-cargo-ship-8b396c",
+      "reference": [
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "nikkei-225-breaks-below-59000-losses-widen-0353bf",
+      "title": "台湾国安基金启动护盘应对台股月跌逾万点",
+      "description": "台湾股市一个月内从历史高位回落逾万点后，台湾国安基金于11月6日决定执行市场安定任务；台湾金管会宣布的五项稳市措施从11月9日起实施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T00:34:54+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/nikkei-225-breaks-below-59000-losses-widen-0353bf",
+      "reference": [
+        "澎湃新闻",
+        "共同网",
+        "中央通訊社",
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 73,
+      "sources": []
+    },
+    {
+      "id": "egypt-giza-train-derailment-four-dead-88-injured-8d3c59",
+      "title": "埃及两列客运列车追撞致至少7死125伤",
+      "description": "埃及吉萨省阿亚特路段当地时间11月8日上午8时至9时左右发生两列客运列车追撞。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T00:29:47+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/egypt-giza-train-derailment-four-dead-88-injured-8d3c59",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "chinese-microdramas-enter-uk-mainstream-4f62f1",
+      "title": "中国微短剧加速进入英国主流市场",
+      "description": "中国兴起的微短剧正在英国扩大受众，并吸引本地制作公司和流媒体平台参与。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T00:20:25+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/chinese-microdramas-enter-uk-mainstream-4f62f1",
+      "reference": [
+        "英国广播公司"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "mystery-lockbox-qr-leads-health-marketing-6fd188",
+      "title": "不明密码箱快递二维码引向养生营销渠道",
+      "description": "中青报·中青网记者调查发现，不明来历的密码箱快递通过箱面二维码将收件人引入养生课程和保健品销售流程。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T00:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/mystery-lockbox-qr-leads-health-marketing-6fd188",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "private-channel-drug-scam-investigation-9a37b4",
+      "title": "调查揭示私域“神药”屡查屡犯的原因",
+      "description": "私域“神药”营销中，商家通过封闭社群、直播等渠道夸大产品功效，消费者维权则常遇到经营者难以查找、宣传证据难以留存等问题。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T00:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/private-channel-drug-scam-investigation-9a37b4",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -83,27 +511,6 @@
       "sources": []
     },
     {
-      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "title": "特朗普预计在APEC期间会晤习近平和普京",
-      "description": "美国总统特朗普11月8日对记者说，他预计将在深圳举行的亚太经合组织（APEC）领导人会议期间，与中国国家主席习近平和俄罗斯总统弗拉基米尔·普京会晤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T23:59:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "reference": [
-        "韩国国际广播电台",
-        "联合早报",
-        "日经",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 11,
-      "sources": []
-    },
-    {
       "id": "south-korea-primary-intake-enters-200000s-ec809c",
       "title": "韩国2027年小学入学人数将首次跌入20万区间",
       "description": "韩国2027年小学入学人数预计将首次跌入20万区间。",
@@ -119,27 +526,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "trump-names-miller-white-house-chief-42c7ae",
-      "title": "特朗普宣布米勒将接任白宫办公厅主任",
-      "description": "美国总统特朗普11月6日宣布，现任白宫副办公厅主任斯蒂芬·米勒将接替苏茜·怀尔斯担任白宫办公厅主任，任命定于11月9日生效。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T23:35:56+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/trump-names-miller-white-house-chief-42c7ae",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "财新",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 19,
       "sources": []
     },
     {
@@ -195,27 +581,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "joint-list-recommends-eisenkot-prime-minister-303777",
-      "title": "赫尔佐格授权埃森科特组建以色列新政府",
-      "description": "以色列总统艾萨克·赫尔佐格11月8日正式授权正直党领导人、以色列国防军前总参谋长加迪·埃森科特组建新政府。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T23:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/joint-list-recommends-eisenkot-prime-minister-303777",
-      "reference": [
-        "澎湃新闻",
-        "公视",
-        "法广",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 17,
       "sources": []
     },
     {
@@ -366,24 +731,6 @@
       "sources": []
     },
     {
-      "id": "trump-iran-talks-progress-strike-risk-low-506dae",
-      "title": "特朗普称美伊谈判若有进展再打击可能性极低",
-      "description": "美国总统特朗普表示，若围绕伊朗核计划及恢复霍尔木兹海峡通航的谈判取得进展，美国再次打击伊朗的可能性将很低；关键在于伊朗是否愿意签署一项“非常有力的协议”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T19:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/trump-iran-talks-progress-strike-risk-low-506dae",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "dia-releases-china-spaceplane-satellite-docking-photo-3eec16",
       "title": "美国国防情报局公布中国太空飞机对接卫星照片",
       "description": "美国国防情报局在10月26日公布的2026年版《太空安全挑战》报告中，公开一张中国无人太空飞机在轨与卫星对接的清晰影像。",
@@ -491,25 +838,6 @@
       "occurredAt": "",
       "publishedAt": "2026-11-08",
       "url": "https://kaopu.news/story/2026-11-08/riyadh-financial-district-attack-aramco-building-damaged-403bcb",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "egypt-giza-train-derailment-four-dead-88-injured-8d3c59",
-      "title": "埃及吉萨两列客运列车追尾致4死88伤",
-      "description": "埃及吉萨省两列客运列车11月8日发生追尾，造成4人死亡、88人受伤，数节车厢脱轨。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T15:56:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/egypt-giza-train-derailment-four-dead-88-injured-8d3c59",
       "reference": [
         "澎湃新闻",
         "联合早报"
@@ -1115,27 +1443,6 @@
       "sources": []
     },
     {
-      "id": "us-midterm-election-congress-control-164251",
-      "title": "美国民主党赢得国会参众两院多数",
-      "description": "美国民主党在11月3日举行的中期选举中赢得国会参议院和众议院多数席位，将从2027年1月起掌控两院。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T09:57:36.111337+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
-      "reference": [
-        "世界日报",
-        "英国广播公司",
-        "联合早报",
-        "端传媒"
-      ],
-      "section": "us",
-      "sourceCount": 245,
-      "sources": []
-    },
-    {
       "id": "putin-orders-russian-management-jti-subsidiaries-c4b3ab",
       "title": "普京将JT在俄七家法人纳入俄企临时管理",
       "description": "俄罗斯总统普京先后签署两项总统令，将日本烟草产业（JT）在俄罗斯的业务相关法人交由俄罗斯企业临时管理。",
@@ -1566,27 +1873,6 @@
       "sources": []
     },
     {
-      "id": "trump-invites-dana-white-white-house-press-secretary-d21b67",
-      "title": "特朗普邀请UFC总裁怀特出任白宫新闻秘书",
-      "description": "美国总统特朗普7日在Truth Social发文，邀请UFC总裁兼首席执行官达娜·怀特出任白宫新闻秘书，并请他带六名现任或前任UFC选手加入白宫担任助手。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T06:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/trump-invites-dana-white-white-house-press-secretary-d21b67",
-      "reference": [
-        "澎湃新闻",
-        "法广",
-        "联合早报",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "manhattan-judge-orders-screened-shelter-records-ice-935eb6",
       "title": "曼哈顿法官令纽约市向ICE提供经特别专员筛选的收容所资料",
       "description": "曼哈顿联邦法官路易斯·卡普兰近日裁定，纽约市佐兰·马姆达尼政府须配合美国移民与海关执法局（ICE）调取布朗克斯布鲁克纳收容所男性住民的身份资料，但资料须先交由法院指定的特别专员筛查，只有涉及八类特定严重犯罪记录者的信息可转交ICE，供其调查是否有人符合遣返条件。",
@@ -1959,26 +2245,6 @@
       "sources": []
     },
     {
-      "id": "najib-unpaid-fine-remains-prison-57954f",
-      "title": "纳吉缴清罚款后居家服刑安排仍被暂缓",
-      "description": "马来西亚前首相纳吉缴清SRC案5000万令吉罚款后，居家服刑安排仍未启动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T05:42:02+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/najib-unpaid-fine-remains-prison-57954f",
-      "reference": [
-        "联合早报",
-        "当今大马",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 23,
-      "sources": []
-    },
-    {
       "id": "china-coal-power-share-below-half-9542f6",
       "title": "中国上半年煤电发电量占比首次低于五成",
       "description": "中国企业改革与发展研究会发布的《全球能源转型报告（2026）》称，2026年上半年中国煤电发电量占比降至49.7%，首次低于50%。",
@@ -1994,25 +2260,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "tajani-pro-russian-hackers-leak-data-dcf29e",
-      "title": "塔加尼称亲俄黑客将其个人信息发布至暗网",
-      "description": "意大利副总理兼外长塔加尼11月7日在X称，自己因公开支持乌克兰自由与独立而成为亲俄黑客攻击目标。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T05:32:06+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/tajani-pro-russian-hackers-leak-data-dcf29e",
-      "reference": [
-        "联合早报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2089,24 +2336,6 @@
       ],
       "section": "china",
       "sourceCount": 16,
-      "sources": []
-    },
-    {
-      "id": "russian-airstrike-zaporizhzhia-aid-site-55-dead-27ab6e",
-      "title": "俄军空袭扎波罗热援助点致55人死亡",
-      "description": "11月2日，俄罗斯军队空袭乌克兰南部扎波罗热州一处地下人道主义援助物资发放点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T04:58:33+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/russian-airstrike-zaporizhzhia-aid-site-55-dead-27ab6e",
-      "reference": [
-        "日本放送协会"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2241,27 +2470,6 @@
       "sources": []
     },
     {
-      "id": "nikkei-225-breaks-below-59000-losses-widen-0353bf",
-      "title": "台股一个月急跌逾万点失守四万点",
-      "description": "台湾股市上周累计下跌5510.19点，跌幅12.18%；加权指数11月6日收于39701.64点，下跌4.51%，失守4万点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T02:35:52+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/nikkei-225-breaks-below-59000-losses-widen-0353bf",
-      "reference": [
-        "澎湃新闻",
-        "共同网",
-        "中央通訊社",
-        "日经"
-      ],
-      "section": "business",
-      "sourceCount": 72,
-      "sources": []
-    },
-    {
       "id": "singapore-police-prostitution-raids-arrest-195-380b15",
       "title": "新加坡警方全岛扫黄逮捕195人",
       "description": "新加坡警察部队在全岛61处地点展开打击卖淫活动的联合突击行动，逮捕195人，并冻结存有逾60万元的银行户头。",
@@ -2277,27 +2485,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "美众院共和党领袖要求黄仁勋参加闭门简报",
-      "description": "美国众议院外交事务委员会主席布赖恩·马斯特、美中战略竞争特别委员会主席约翰·穆勒纳尔和众议院情报委员会主席里克·克劳福德，要求英伟达首席执行官黄仁勋参加定于11月18日举行的闭门简报，说明他与新加坡数据中心企业Megaspeed前高管黄乐（Alice Huang）的往来，并介绍英伟达防止外国势力获取技术和敏感信息的措施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T01:58:43+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 31,
       "sources": []
     },
     {
@@ -3068,27 +3255,6 @@
       "sources": []
     },
     {
-      "id": "us-october-jobs-beat-forecasts-60cd23",
-      "title": "美国10月新增就业16.5万人超出预期",
-      "description": "美国劳工统计局11月6日公布的10月就业报告显示，非农就业人数增加16.5万人，失业率降至4.1%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T06:17:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/us-october-jobs-beat-forecasts-60cd23",
-      "reference": [
-        "中央通訊社",
-        "法广",
-        "第一财经",
-        "世界日报"
-      ],
-      "section": "business",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "democrats-control-congress-trump-linked-probes-5f49ca",
       "title": "民主党掌控国会后拟调查特朗普关联企业",
       "description": "民主党在2026年期中选举后取得美国国会两院控制权。",
@@ -3122,44 +3288,6 @@
       ],
       "section": "us",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "illinois-voters-reject-most-tax-hikes-83130a",
-      "title": "伊利诺伊州选民否决多数直接加税公投",
-      "description": "2026年期中选举期间，伊利诺伊州公投结果呈现分化：库克郡和芝加哥的咨询提案均获多数支持，全州地方层面直接提高房产税或销售税的公投则有更多遭到否决。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/illinois-voters-reject-most-tax-hikes-83130a",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-japan-yttrium-oxide-exports-drop-25ce51",
-      "title": "中国对日氧化钇出口前九月骤降98%",
-      "description": "中国海关总署数据显示，2026年前9个月，中国对日本出口氧化钇仅18吨，较上年同期的887吨减少98%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T05:41:54+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/china-japan-yttrium-oxide-exports-drop-25ce51",
-      "reference": [
-        "共同网",
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -3365,24 +3493,6 @@
       "sources": []
     },
     {
-      "id": "us-home-inheritances-hit-record-costs-1a707b",
-      "title": "美国房屋继承量创新高继承人面临维修税费负担",
-      "description": "美国通过继承转移的房屋数量创下纪录。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T19:53:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/us-home-inheritances-hit-record-costs-1a707b",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "xie-yingying-dies-beijing-translator-b5e0ad",
       "title": "澎湃新闻报道翻译家谢莹莹逝世，享年88岁",
       "description": "据澎湃新闻报道，翻译家、北京外国语大学德语学院教授及博士生导师谢莹莹因病去世，于2026年11月3日在北京逝世，享年88岁。",
@@ -3419,24 +3529,6 @@
       "sources": []
     },
     {
-      "id": "indonesia-gas-cuts-singapore-energy-autonomy-06d80c",
-      "title": "印尼减供天然气促新加坡审视能源自主",
-      "description": "联合早报近日报道称，印度尼西亚减少对新加坡的天然气出口，并称如果价格不合适，就不会向新加坡出口电力。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T13:43:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/indonesia-gas-cuts-singapore-energy-autonomy-06d80c",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-cyberspace-regulator-cracks-down-ai-celebrity-2beae3",
       "title": "中国网信部门整治AI冒名带货处置3961个账号",
       "description": "中国网信部门近日督促网站平台治理借助人工智能假冒公众人物营销、吸引关注或误导用户的行为，累计清除违法违规信息4.7万余条，处置账号3961个。",
@@ -3454,43 +3546,6 @@
       ],
       "section": "ai",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "japan-boosts-regional-tourism-repeat-visitors-443630",
-      "title": "日本拟提升地方景点吸引力争取各地回头客",
-      "description": "中国大陆访日游客大幅减少后，日本政府计划提升地方景点吸引力，争取让其他国家和地区的游客再次赴日。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T13:17:15+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/japan-boosts-regional-tourism-repeat-visitors-443630",
-      "reference": [
-        "共同网"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "botubarani-whale-shark-tourism-feeding-concerns-100818",
-      "title": "印尼渔村鲸鲨旅游因投喂引发生态担忧",
-      "description": "印尼苏拉威西岛博图巴拉尼渔村以近距离观赏鲸鲨发展旅游，游客可乘透明小船观赏，也可乘船接近鲸鲨；部分行程由导游喂食鲸鲨。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T12:59:30+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/botubarani-whale-shark-tourism-feeding-concerns-100818",
-      "reference": [
-        "联合早报",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -4809,24 +4864,6 @@
       "sources": []
     },
     {
-      "id": "andrew-ng-says-ai-risks-overstated-12ef51",
-      "title": "吴恩达认为人工智能风险被过度夸大",
-      "description": "美国科学家、斯坦福大学兼职教授吴恩达在接受日经采访时表示，许多关于人工智能风险的说法被夸大，AI带来的益处大于弊端。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T21:01:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/andrew-ng-says-ai-risks-overstated-12ef51",
-      "reference": [
-        "日经"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "golden-state-valkyries-win-wnba-title-6a0e24",
       "title": "金州女武神击败美梦首夺WNBA总冠军",
       "description": "10月31日，金州女武神在WNBA总冠军赛第七战以68比63战胜亚特兰大美梦，首次夺得队史总冠军。",
@@ -4947,24 +4984,6 @@
       "occurredAt": "",
       "publishedAt": "2026-10-26",
       "url": "https://kaopu.news/story/2026-10-26/china-gymnastics-worlds-seven-medals-second-30ea2f",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-u17-women-beat-us-advance-1315f7",
-      "title": "中国U17女足击败美国全胜晋级16强",
-      "description": "10月25日，中国U17女足在世界杯E组末轮以3比2战胜美国队，凭借小组赛三连胜、积9分的成绩获得小组第一，晋级16强。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-26T00:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/china-u17-women-beat-us-advance-1315f7",
       "reference": [
         "澎湃新闻"
       ],
