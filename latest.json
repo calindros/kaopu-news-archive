@@ -3,13 +3,246 @@
     "date": "2026-11-09",
     "timestamp": 1794223306,
     "totalPages": 1,
-    "total": 269
+    "total": 268
   },
   "stories": [
     {
+      "id": "cop31-antalya-opens-global-stocktake-54a7c1",
+      "title": "联合国气候大会COP31在安塔利亚开幕",
+      "description": "《联合国气候变化框架公约》第31次缔约方大会（COP31）当地时间11月9日在土耳其安塔利亚开幕，会期至11月20日。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T11:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/cop31-antalya-opens-global-stocktake-54a7c1",
+      "reference": [
+        "澎湃新闻",
+        "公视",
+        "联合早报",
+        "SBS"
+      ],
+      "section": "world",
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
+      "id": "indonesia-names-three-police-officials-suspects-147916",
+      "title": "印尼政府考虑搜查总统府排查监听设备",
+      "description": "印度尼西亚政府正考虑排查总统府内是否藏有监听设备，并加强对国家机构持有的监听器材的管理。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T11:18:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-03",
+      "url": "https://kaopu.news/story/2026-11-03/indonesia-names-three-police-officials-suspects-147916",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "法广",
+        "财新"
+      ],
+      "section": "asia",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "trump-names-miller-white-house-chief-42c7ae",
+      "title": "特朗普任命米勒接掌白宫办公厅主任",
+      "description": "美国总统特朗普在共和党中期选举失利、民主党赢得国会参众两院控制权后，任命白宫副办公厅主任斯蒂芬·米勒接替苏茜·怀尔斯，出任白宫办公厅主任。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T11:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/trump-names-miller-white-house-chief-42c7ae",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "财新",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 23,
+      "sources": []
+    },
+    {
+      "id": "global-carmakers-deepen-china-strategy-ddf515",
+      "title": "美国车企借进博会深化在华产业合作",
+      "description": "特斯拉、通用汽车和福特在第九届中国国际进口博览会上展示产品及在华合作成果。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T11:01:16.183619+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/global-carmakers-deepen-china-strategy-ddf515",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-blames-republican-loss-ballot-absence-b15a8b",
+      "title": "特朗普称共和党中期选举失利首因是自己未列入选票",
+      "description": "美国总统唐纳德·特朗普在哥伦比亚广播公司《60分钟》专访中谈到共和党中期选举失利，将自己没有出现在选票上视为首要原因。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T11:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/trump-blames-republican-loss-ballot-absence-b15a8b",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "october-passenger-car-sales-two-gasoline-models-549c4e",
+      "title": "10月乘用车零售前十仅有两款燃油车",
+      "description": "懂车帝数据显示，2026年10月乘用车零售销量前十中，燃油车仅占两席：RAV4荣放售出17750辆，排名第七；星越L售出16376辆，排名第十，其余八款均为新能源车型。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T10:59:16.184009+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/october-passenger-car-sales-two-gasoline-models-549c4e",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "andrew-yao-team-launches-tcs-llm-benchmark-70f6a1",
+      "title": "姚期智团队推出理论计算机科学全链条大模型评测",
+      "description": "近日，姚期智团队联合月之暗面（Kimi）创始人杨植麟等发表论文《TCSEXAM：在TCS研究的全范围内评估前沿大型语言模型》，推出名为TCSExam的统一评测，覆盖理论计算机科学研究的完整链条。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T10:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/andrew-yao-team-launches-tcs-llm-benchmark-70f6a1",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-admits-iran-war-affects-gop-midterms-cbbf5f",
+      "title": "共和党败选后MAGA阵营质疑特朗普领导地位",
+      "description": "美国共和党在中期选举中失去国会参众两院控制权后，党内及MAGA阵营围绕败选原因、特朗普的领导地位和运动未来路线出现分歧。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T10:48:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-04",
+      "url": "https://kaopu.news/story/2026-11-04/trump-admits-iran-war-affects-gop-midterms-cbbf5f",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "财新",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 41,
+      "sources": []
+    },
+    {
+      "id": "taiwan-stocks-rebound-retake-40000-ef0417",
+      "title": "台湾股市收涨1960点创史上第二大涨点",
+      "description": "台湾加权指数周一强劲反弹，收于41661.70点，上涨1960.06点，涨幅4.94%，创历史第二大收盘涨点。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T10:46:07+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/taiwan-stocks-rebound-retake-40000-ef0417",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "公视"
+      ],
+      "section": "business",
+      "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "witkoff-norway-peace-proposal-talks-6bf424",
+      "title": "克宫称欧洲不会参加阿布扎比三方会谈",
+      "description": "俄罗斯、乌克兰和美国代表定于11月10日至11日在阿联酋首都阿布扎比举行三方和平会谈。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T10:38:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
+      "reference": [
+        "法广",
+        "澎湃新闻",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 72,
+      "sources": []
+    },
+    {
+      "id": "taiwan-october-exports-hit-record-high-8c76f7",
+      "title": "台湾10月出口额首破900亿美元创单月新高",
+      "description": "台湾财政部公布10月海关贸易初步统计，出口额达967.6亿美元，同比增长58.9%，首次超过900亿美元，连续第36个月同比增长。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T10:36:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/taiwan-october-exports-hit-record-high-8c76f7",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "takaichi-to-attend-asean-apec-summits-4edebc",
+      "title": "高市早苗拟出席东盟及APEC峰会仍需国会同意",
+      "description": "日本首相高市早苗11月9日在自民党高层会议上说明，她计划参加11月中旬在菲律宾举行的东盟首脑会议，并赴中国出席亚太经合组织（APEC）首脑会议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T10:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/takaichi-to-attend-asean-apec-summits-4edebc",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "russia-strikes-ukraine-energy-infrastructure-blackouts-ac7d07",
-      "title": "俄军袭击乌克兰能源设施致逾60万人断电",
-      "description": "俄罗斯军队袭击乌克兰能源设施，导致第聂伯罗彼得罗夫斯克州超过60万居民断电。",
+      "title": "俄罗斯袭击乌克兰能源设施致12地部分用户断电",
+      "description": "乌克兰能源部副部长涅克拉索夫周一（11月9日）称，俄方过去24小时打击乌克兰能源设施，造成12个地区部分用户供电中断。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -23,6 +256,45 @@
       ],
       "section": "world",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "massie-plans-impeachment-resolution-hegseth-1add74",
+      "title": "马西计划推动众院表决弹劾国防部长赫格塞思",
+      "description": "美国众议员托马斯·马西计划于11月9日推动众议院就弹劾国防部长皮特·赫格塞思进行表决。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T10:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/massie-plans-impeachment-resolution-hegseth-1add74",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "公视",
+        "朝鲜日报"
+      ],
+      "section": "us",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "knot-willing-new-tools-europe-debt-crisis-49e666",
+      "title": "欧洲央行候选人诺特愿开发工具应对债务危机",
+      "description": "欧洲央行行长候选人、荷兰央行前行长克拉斯·诺特在接受《金融时报》采访时表示，若获任，他愿为应对未来可能出现的欧洲债务危机制定新工具；必要时也准备动用欧洲央行现有措施，包括购买债券、干预债市。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T10:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/knot-willing-new-tools-europe-debt-crisis-49e666",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -44,6 +316,46 @@
       ],
       "section": "world",
       "sourceCount": 15,
+      "sources": []
+    },
+    {
+      "id": "philippines-q3-gdp-growth-slows-2-1-percent-8ea207",
+      "title": "菲律宾第三季度经济增速降至2.1%",
+      "description": "菲律宾统计署11月9日公布，2026年第三季度国内生产总值同比增长2.1%，低于第二季度的2.4%和去年同期的4%，为2021年第一季度以来最弱表现。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T10:09:41+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/philippines-q3-gdp-growth-slows-2-1-percent-8ea207",
+      "reference": [
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "英伟达董事会调查黄仁勋是否遭外国情报锁定",
+      "description": "英伟达董事会11月8日宣布成立由独立董事组成的委员会，在外部独立律师协助下审查相关信息，调查首席执行官黄仁勋是否成为外国情报行动的目标，以及相关国家安全和公司机密风险。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T10:02:28+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 77,
       "sources": []
     },
     {
@@ -84,6 +396,24 @@
       ],
       "section": "world",
       "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "china-coast-guard-ships-expelled-kinmen-waters-4bef23",
+      "title": "中国4艘海警船进入金门限制水域后被驱离",
+      "description": "11月9日下午，中国4艘海警船进入金门限制水域。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T09:54:21+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/china-coast-guard-ships-expelled-kinmen-waters-4bef23",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -128,6 +458,24 @@
       "sources": []
     },
     {
+      "id": "li-qiang-promulgates-traditional-medicine-protection-rules-fd19c1",
+      "title": "李强签署条例加强中医药传统知识保护",
+      "description": "国务院总理李强近日签署国务院令，公布《中医药传统知识保护条例》。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T09:36:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/li-qiang-promulgates-traditional-medicine-protection-rules-fd19c1",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "trump-democrats-undocumented-immigrants-legal-status-deal-b563be",
       "title": "特朗普承认移民驱逐政策过严损害共和党选情",
       "description": "美国总统特朗普在CBS《60分钟》11月8日播出的专访中承认，政府大规模驱逐无证移民的做法“可能过于强硬”，并称这项政策有利有弊，也损害了共和党的中期选举表现。",
@@ -148,18 +496,18 @@
       "sources": []
     },
     {
-      "id": "takaichi-to-attend-asean-apec-summits-4edebc",
-      "title": "日本首相高市早苗将出席两场首脑会议",
-      "description": "日本首相高市早苗表示，她将出席本月中旬在菲律宾举行的东盟首脑会议，并参加在中国举行的亚太经合组织（APEC）首脑会议。",
+      "id": "korea-fines-coupang-market-abuse-86cf23",
+      "title": "韩国公平交易委员会对酷澎处以3009亿韩元罚款",
+      "description": "韩国公平交易委员会11月9日以酷澎滥用餐饮外卖市场主导地位为由，对其处以3009亿韩元（约合2.2059亿美元）罚款。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-09T09:35:44+00:00",
+      "updatedAt": "2026-11-09T09:35:04+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/takaichi-to-attend-asean-apec-summits-4edebc",
+      "url": "https://kaopu.news/story/2026-11-09/korea-fines-coupang-market-abuse-86cf23",
       "reference": [
-        "共同网"
+        "中央通訊社"
       ],
       "section": "asia",
       "sourceCount": 1,
@@ -261,24 +609,6 @@
       "sources": []
     },
     {
-      "id": "philippines-q3-gdp-growth-slows-2-1-percent-8ea207",
-      "title": "菲律宾三季度经济同比增速降至2.1%",
-      "description": "菲律宾统计局11月9日公布，第三季度国内生产总值同比增长2.1%，低于第二季度的2.4%，也不及彭博社和路透社分析师约3%的预期。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T09:06:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/philippines-q3-gdp-growth-slows-2-1-percent-8ea207",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "japan-ruling-party-seeks-food-tax-bill-passage-9999fa",
       "title": "日本众议院通过食品消费税降至1%法案",
       "description": "日本众议院通过高市早苗政府提出的食品消费税减税法案，拟从2027年4月起将食品饮料税率由8%降至1%，期限为两年。",
@@ -355,69 +685,6 @@
       ],
       "section": "world",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "witkoff-norway-peace-proposal-talks-6bf424",
-      "title": "俄美乌将于阿布扎比重启停滞九个月的会谈",
-      "description": "俄罗斯、美国和乌克兰定于11月10日至11日在阿联酋首都阿布扎比举行三方会谈，恢复今年2月停滞后中断的面对面磋商。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T08:57:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
-      "reference": [
-        "法广",
-        "澎湃新闻",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 71,
-      "sources": []
-    },
-    {
-      "id": "cop31-antalya-opens-global-stocktake-54a7c1",
-      "title": "COP31在安塔利亚开幕推动气候承诺落实",
-      "description": "当地时间11月9日，《联合国气候变化框架公约》第31次缔约方大会（COP31）在土耳其安塔利亚开幕，会期至11月20日，来自190多个缔约方的代表将参加。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T08:54:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/cop31-antalya-opens-global-stocktake-54a7c1",
-      "reference": [
-        "澎湃新闻",
-        "公视",
-        "联合早报",
-        "SBS"
-      ],
-      "section": "world",
-      "sourceCount": 12,
-      "sources": []
-    },
-    {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "英伟达董事会调查黄仁勋是否遭外国情报锁定",
-      "description": "英伟达董事会11月8日宣布，针对首席执行官黄仁勋是否成为外国情报行动目标成立独立董事委员会，并聘请外部律师协助审查所有可获得的信息。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T08:47:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 76,
       "sources": []
     },
     {
@@ -532,24 +799,6 @@
       ],
       "section": "business",
       "sourceCount": 74,
-      "sources": []
-    },
-    {
-      "id": "taiwan-october-exports-hit-record-high-8c76f7",
-      "title": "台湾10月出口额首破900亿美元创单月纪录",
-      "description": "台湾财政部9日公布的海关进出口初步统计显示，10月出口额为967.6亿美元，同比增长58.9%，首次超过900亿美元，刷新单月纪录。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T08:14:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/taiwan-october-exports-hit-record-high-8c76f7",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -764,27 +1013,6 @@
       "sources": []
     },
     {
-      "id": "trump-admits-iran-war-affects-gop-midterms-cbbf5f",
-      "title": "共和党败选后MAGA支持者质疑特朗普领导地位",
-      "description": "民主党在11月3日美国中期选举中夺回国会参众两院控制权后，共和党内部围绕败选责任和未来路线的争论加剧，特朗普领导的“让美国再次伟大”（MAGA）运动也出现对其领导地位的质疑。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T07:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/trump-admits-iran-war-affects-gop-midterms-cbbf5f",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "财新",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 40,
-      "sources": []
-    },
-    {
       "id": "najib-unpaid-fine-remains-prison-57954f",
       "title": "马来西亚检长称纳吉居家服刑文件出错不应发生",
       "description": "据《每日新闻》报道，马来西亚总检察长杜苏基回应纳吉居家服刑相关文件被指有瑕疵时说，官方司法文件不应出现错误；如果处理各环节足够谨慎，本可避免不必要的问题。",
@@ -802,26 +1030,6 @@
       ],
       "section": "world",
       "sourceCount": 24,
-      "sources": []
-    },
-    {
-      "id": "taiwan-stocks-rebound-retake-40000-ef0417",
-      "title": "台股收涨1960点创史上第二大收盘涨点",
-      "description": "台湾股市在国安基金宣布获授权实施第十次护盘、美国科技股反弹等因素带动下，周一（11月9日）大幅回升。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T07:10:21+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/taiwan-stocks-rebound-retake-40000-ef0417",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "公视"
-      ],
-      "section": "business",
-      "sourceCount": 13,
       "sources": []
     },
     {
@@ -1150,27 +1358,6 @@
       ],
       "section": "life",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "massie-plans-impeachment-resolution-hegseth-1add74",
-      "title": "马西拟推动众院就弹劾赫格塞斯表决",
-      "description": "美国肯塔基州共和党众议员托马斯·马西计划于11月9日推动众议院就弹劾国防部长皮特·赫格塞斯进行投票。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T06:17:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/massie-plans-impeachment-resolution-hegseth-1add74",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "公视",
-        "朝鲜日报"
-      ],
-      "section": "us",
-      "sourceCount": 7,
       "sources": []
     },
     {
@@ -1805,27 +1992,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-names-miller-white-house-chief-42c7ae",
-      "title": "特朗普任命米勒接替怀尔斯任白宫办公厅主任",
-      "description": "美国总统唐纳德·特朗普在共和党中期选举失利后调整白宫高层人事。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T02:53:23+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/trump-names-miller-white-house-chief-42c7ae",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "财新",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 21,
       "sources": []
     },
     {
@@ -2595,25 +2761,6 @@
       "sources": []
     },
     {
-      "id": "iran-tankers-hit-mines-hormuz-fire-48d449",
-      "title": "伊朗革命卫队称霍尔木兹海峡三艘油轮爆炸起火",
-      "description": "伊朗革命卫队称，三艘油轮从11月8日凌晨起在霍尔木兹海峡发生爆炸并起火。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T13:45:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/iran-tankers-hit-mines-hormuz-fire-48d449",
-      "reference": [
-        "法广",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "us-young-voters-shift-democrats-midterms-a9db60",
       "title": "美国青年选民中期选举明显转向民主党",
       "description": "美国年轻选民在本届中期选举中明显转向民主党，一些人改投民主党候选人，另一些人则没有参加投票。",
@@ -2977,43 +3124,6 @@
       "sources": []
     },
     {
-      "id": "japan-considers-overseas-property-tax-21793f",
-      "title": "日经亚洲称日本拟向海外房产经营者征地方税",
-      "description": "据联合早报援引日经亚洲报道，日本政府正考虑将个人事业税扩至在日本经营房地产租赁或停车场业务的海外居民。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T09:17:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/japan-considers-overseas-property-tax-21793f",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "cambodia-shuts-972-scam-compounds-c2ae92",
-      "title": "柬埔寨清剿诈骗园区后前从业者返乡受阻",
-      "description": "柬埔寨加大清剿网络诈骗园区力度后，数万名曾在园区工作的外籍人员离开据点，但不少人仍面临拘留、无处居住和返乡困难。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T08:39:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/cambodia-shuts-972-scam-compounds-c2ae92",
-      "reference": [
-        "联合早报",
-        "德国之声"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "india-confirms-arunachal-border-standoffs-96271a",
       "title": "印度证实中印军队在阿鲁纳恰尔邦多地对峙",
       "description": "印度当局证实，印度与中国军队近日在阿鲁纳恰尔邦沿实际控制线多处地点发生对峙。",
@@ -3064,24 +3174,6 @@
         "第一财经"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "global-carmakers-deepen-china-strategy-ddf515",
-      "title": "外资车企借进博会展示中国战略新变化",
-      "description": "第九届进博会汽车展区，大众、丰田、通用、奥迪、现代、日产等外资车企展出电动化车型和技术，并释放长期投资中国市场的信号。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T07:59:35.639599+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/global-carmakers-deepen-china-strategy-ddf515",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -3160,24 +3252,6 @@
       ],
       "section": "china",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "manhattan-judge-orders-screened-shelter-records-ice-935eb6",
-      "title": "曼哈顿法官令纽约市向ICE提供经特别专员筛选的收容所资料",
-      "description": "曼哈顿联邦法官路易斯·卡普兰近日裁定，纽约市佐兰·马姆达尼政府须配合美国移民与海关执法局（ICE）调取布朗克斯布鲁克纳收容所男性住民的身份资料，但资料须先交由法院指定的特别专员筛查，只有涉及八类特定严重犯罪记录者的信息可转交ICE，供其调查是否有人符合遣返条件。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T06:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/manhattan-judge-orders-screened-shelter-records-ice-935eb6",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3296,24 +3370,6 @@
       "sources": []
     },
     {
-      "id": "india-electric-three-wheelers-largest-market-7db70b",
-      "title": "印度电动三轮车销量增长至全球市场第一",
-      "description": "印度电动三轮车市场快速扩张，2026年9月新售三轮车中电动车占比超过一半，印度由此成为全球最大的电动三轮车市场。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T05:54:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/india-electric-three-wheelers-largest-market-7db70b",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-coal-power-share-below-half-9542f6",
       "title": "中国上半年煤电发电量占比首次低于五成",
       "description": "中国企业改革与发展研究会发布的《全球能源转型报告（2026）》称，2026年上半年中国煤电发电量占比降至49.7%，首次低于50%。",
@@ -3351,27 +3407,6 @@
       "sources": []
     },
     {
-      "id": "macau-court-sentences-au-kam-san-fd966e",
-      "title": "澳门法院判处前议员区锦新12年半徒刑",
-      "description": "澳门初级法院11月6日判处前立法会议员区锦新有期徒刑12年6个月，这是澳门实施《维护国家安全法》以来首宗作出判决的国安案件。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T04:58:52+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/macau-court-sentences-au-kam-san-fd966e",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "英国广播公司",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 16,
-      "sources": []
-    },
-    {
       "id": "ai-biotech-firms-build-integrated-drug-platform-390f48",
       "title": "AI药企与创新药企转向共建一体化研发体系",
       "description": "部分AI制药企业与创新药企正把合作从单个项目外包转向共同建设研发基础设施，将模型、数据、实验验证和候选药物开发纳入同一体系。",
@@ -3387,25 +3422,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "orlins-hegseth-paparo-may-visit-china-7abc1c",
-      "title": "欧伦斯称赫格塞斯与帕帕罗可能访华",
-      "description": "美中关系全国委员会会长欧伦斯11月6日通过视频参加海南三亚海洋合作与治理论坛时表示，美国战争部长赫格塞斯和美国太平洋司令部司令帕帕罗可能近期访华。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T04:10:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/orlins-hegseth-paparo-may-visit-china-7abc1c",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3514,24 +3530,6 @@
         "中央通訊社"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "seafood-livestream-sales-consumer-rights-867823",
-      "title": "央媒调查揭示直播水产销售乱象致维权难",
-      "description": "据中央广播电视总台中国之声报道，其调查发现，直播间销售黑虎虾、鲍鱼等水产存在净含量不足、规格与宣传不符、以假充真等问题，消费者收货后常面临举证和维权困难。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T11:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/seafood-livestream-sales-consumer-rights-867823",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -3955,24 +3953,6 @@
         "澎湃新闻"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "iren-delays-microsoft-data-center-delivery-dfab59",
-      "title": "IREN延后微软数据中心基础设施交付",
-      "description": "IREN 11月5日表示，将延后部分为微软建设的数据中心基础设施交付，并预计本财年剩余期间资本支出约150亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T04:59:38+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/iren-delays-microsoft-data-center-delivery-dfab59",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "ai",
       "sourceCount": 1,
       "sources": []
     },
