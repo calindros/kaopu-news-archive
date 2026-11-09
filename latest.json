@@ -1,27 +1,131 @@
 {
   "details": {
-    "date": "2026-11-08",
+    "date": "2026-11-09",
     "timestamp": 1794179911,
     "totalPages": 1,
     "total": 267
   },
   "stories": [
     {
-      "id": "nvidia-board-launches-independent-security-probe-ecb015",
-      "title": "辉达董事会将成立独立委员会调查国安疑虑",
-      "description": "辉达董事会于11月8日宣布将成立独立委员会，在外部法律顾问协助下调查相关报道引发的国家安全疑虑。",
+      "id": "li-qiang-china-state-council-economic-measures-15c14b",
+      "title": "国常会部署完善稳市机制增强股市稳定性",
+      "description": "中国国务院总理李强主持的国务院常务会议于11月6日部署近期重点工作，提出完善资本市场稳市机制、增强股市内在稳定性，并要求加快重大项目建设、加强就业和民生保障。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-08T21:49:28+00:00",
+      "updatedAt": "2026-11-09T00:09:37.977145+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/li-qiang-china-state-council-economic-measures-15c14b",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "第一财经",
+        "财新"
+      ],
+      "section": "china",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "title": "特朗普预计在APEC期间会晤习近平和普京",
+      "description": "美国总统特朗普11月8日对记者说，他预计将在深圳举行的亚太经合组织（APEC）领导人会议期间，与中国国家主席习近平和俄罗斯总统弗拉基米尔·普京会晤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T23:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "日经",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "trump-names-miller-white-house-chief-42c7ae",
+      "title": "特朗普宣布米勒将接任白宫办公厅主任",
+      "description": "美国总统特朗普11月6日宣布，现任白宫副办公厅主任斯蒂芬·米勒将接替苏茜·怀尔斯担任白宫办公厅主任，任命定于11月9日生效。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T23:35:56+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/trump-names-miller-white-house-chief-42c7ae",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "财新",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 19,
+      "sources": []
+    },
+    {
+      "id": "democrats-vow-probe-musk-miller-be7afe",
+      "title": "美国民主党计划调查马斯克和白宫幕僚长米勒",
+      "description": "民主党在中期选举中获胜后，议员表示，该党预计于2027年1月掌控国会，届时将调查亿万富豪马斯克和白宫幕僚长史蒂芬·米勒，并支持弹劾战争部长皮特·赫格塞斯。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T23:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/democrats-vow-probe-musk-miller-be7afe",
+      "reference": [
+        "世界日报",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "nvidia-board-launches-independent-security-probe-ecb015",
+      "title": "英伟达董事会调查黄仁勋是否成为外国情报行动目标",
+      "description": "英伟达董事会11月8日宣布，设立由独立董事组成的委员会，并聘请外部独立法律顾问，调查首席执行官黄仁勋是否曾成为外国情报行动目标，以及美国国家安全和英伟达机密信息是否受到影响。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T23:09:50+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-08",
       "url": "https://kaopu.news/story/2026-11-08/nvidia-board-launches-independent-security-probe-ecb015",
       "reference": [
-        "世界日报"
+        "世界日报",
+        "联合早报"
       ],
       "section": "tech",
-      "sourceCount": 2,
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "joint-list-recommends-eisenkot-prime-minister-303777",
+      "title": "赫尔佐格授权埃森科特组建以色列新政府",
+      "description": "以色列总统艾萨克·赫尔佐格11月8日正式授权正直党领导人、以色列国防军前总参谋长加迪·埃森科特组建新政府。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T23:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/joint-list-recommends-eisenkot-prime-minister-303777",
+      "reference": [
+        "澎湃新闻",
+        "公视",
+        "法广",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 17,
       "sources": []
     },
     {
@@ -41,27 +145,6 @@
       ],
       "section": "world",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "joint-list-recommends-eisenkot-prime-minister-303777",
-      "title": "以色列总统授权埃森科特组建新政府",
-      "description": "以色列总统伊萨克·赫尔佐格11月8日正式授权正直党领导人、以军前总参谋长加迪·埃森科特组建新一届政府。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T21:28:23+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/joint-list-recommends-eisenkot-prime-minister-303777",
-      "reference": [
-        "澎湃新闻",
-        "公视",
-        "法广",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 16,
       "sources": []
     },
     {
@@ -171,24 +254,6 @@
         "联合早报"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "democrats-vow-probe-musk-miller-be7afe",
-      "title": "美国民主党议员承诺掌控国会后调查马斯克等人",
-      "description": "美国民主党议员表示，若民主党在明年1月掌控国会，将加强监督；埃隆·马斯克和白宫幕僚长史蒂芬·米勒很可能成为调查对象，部分大型企业也应准备接受调查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T20:17:27+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/democrats-vow-probe-musk-miller-be7afe",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -595,26 +660,6 @@
       "sources": []
     },
     {
-      "id": "li-qiang-china-state-council-economic-measures-15c14b",
-      "title": "国常会要求完善资本市场稳市机制增强股市稳定性",
-      "description": "中国国务院总理李强11月6日主持召开国务院常务会议，围绕经济工作、资本市场和社会救助作出部署。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T13:19:32.748447+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/li-qiang-china-state-council-economic-measures-15c14b",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "第一财经"
-      ],
-      "section": "china",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "rate-pricing-mechanism-adds-three-core-members-46ae57",
       "title": "利率定价自律机制核心成员增至18家",
       "description": "市场利率定价自律机制近日公布2026年成员名单。",
@@ -630,27 +675,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-names-miller-white-house-chief-42c7ae",
-      "title": "特朗普任命米勒接替威尔斯出任白宫幕僚长",
-      "description": "美国总统唐纳德·特朗普11月6日宣布，任命白宫副幕僚长斯蒂芬·米勒接替苏西·威尔斯出任白宫幕僚长，任命定于11月9日生效。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T12:20:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/trump-names-miller-white-house-chief-42c7ae",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "财新",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 18,
       "sources": []
     },
     {
@@ -2028,24 +2052,6 @@
         "中央通訊社"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "erdogan-plans-azerbaijan-visit-repair-ties-4309ff",
-      "title": "埃尔多安计划访阿塞拜疆修复双边关系",
-      "description": "土耳其总统埃尔多安计划于11月8日访问阿塞拜疆，寻求修复两国因校园头巾限制而出现的紧张关系。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T04:32:07+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/erdogan-plans-azerbaijan-visit-repair-ties-4309ff",
-      "reference": [
-        "法广"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
