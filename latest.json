@@ -1,15 +1,234 @@
 {
   "details": {
     "date": "2026-11-09",
-    "timestamp": 1794223306,
+    "timestamp": 1794231377,
     "totalPages": 1,
     "total": 268
   },
   "stories": [
     {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "黄仁勋承认婚外关系后英伟达董事会启动独立调查",
+      "description": "英伟达董事会于11月8日启动独立调查，审查首席执行官黄仁勋是否成为外国情报行动的目标，以及国家安全或公司机密是否受到影响。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T12:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 81,
+      "sources": []
+    },
+    {
+      "id": "trump-names-miller-white-house-chief-42c7ae",
+      "title": "特朗普任命米勒接任白宫幕僚长",
+      "description": "美国总统唐纳德·特朗普任命白宫副幕僚长史蒂芬·米勒接替苏茜·怀尔斯担任白宫幕僚长，任命于11月9日生效。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T12:10:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/trump-names-miller-white-house-chief-42c7ae",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "财新",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 24,
+      "sources": []
+    },
+    {
+      "id": "gaza-storms-flood-displaced-tents-054191",
+      "title": "加沙暴雨淹没七万顶流离失所者帐篷",
+      "description": "加沙11月7日遭遇冬季暴雨。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T12:09:54+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-07",
+      "url": "https://kaopu.news/story/2026-11-07/gaza-storms-flood-displaced-tents-054191",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "法广",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "china-elderly-population-surpasses-children-014ab7",
+      "title": "中国老年人口2025年首次超过少儿人口",
+      "description": "中国65岁及以上人口在2025年首次超过14岁及以下人口，老年抚养比也首次高于少儿抚养比。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T11:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/china-elderly-population-surpasses-children-014ab7",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "guo-jiakun-rejects-china-spy-claims-9b7417",
+      "title": "郭嘉昆驳斥黄仁勋婚外情涉华间谍指控",
+      "description": "中国外交部发言人郭嘉昆11月9日在例行记者会上回应有关黄仁勋婚外情对象涉嫌为中国情报机构工作的提问，称所谓中国间谍论调是“捕风捉影、污蔑抹黑”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T11:47:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/guo-jiakun-rejects-china-spy-claims-9b7417",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "china-statistics-bureau-adds-five-departments-eadcc7",
+      "title": "国家统计局调整内设机构并新设五个统计司",
+      "description": "国家统计局新的“三定”规定于2026年10月28日起施行，11月6日在中国机构编制网公布。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T11:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/china-statistics-bureau-adds-five-departments-eadcc7",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "财新"
+      ],
+      "section": "china",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "trump-democrats-undocumented-immigrants-legal-status-deal-b563be",
+      "title": "特朗普承认强硬遣返政策或拖累共和党选情",
+      "description": "美国总统特朗普在共和党期中选举失利后，于11月8日播出的CBS《60分钟》专访中承认，政府强硬驱逐无证移民的做法可能拖累共和党选情，并表示愿与民主党协商移民政策。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T11:40:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/trump-democrats-undocumented-immigrants-legal-status-deal-b563be",
+      "reference": [
+        "世界日报",
+        "法广",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "joint-list-recommends-eisenkot-prime-minister-303777",
+      "title": "以色列总统授权埃森科特组建新政府",
+      "description": "以色列总统伊萨克·赫尔佐格11月8日授权正直党领导人、前国防军总参谋长加迪·埃森科特组建新一届政府。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T11:33:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/joint-list-recommends-eisenkot-prime-minister-303777",
+      "reference": [
+        "澎湃新闻",
+        "公视",
+        "法广",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 21,
+      "sources": []
+    },
+    {
+      "id": "taiwan-pauses-malaysia-trade-talks-79cd87",
+      "title": "日经亚洲称台湾搁置与马来西亚贸易会谈",
+      "description": "日经亚洲援引马来西亚政府消息人士称，台湾政府搁置了原定10月下旬与马来西亚举行的扩大双边贸易会谈。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T11:31:35+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/taiwan-pauses-malaysia-trade-talks-79cd87",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "byd-raises-overseas-sales-target-1800000-2e4fc8",
+      "title": "比亚迪上调今年海外销量预期至180万辆",
+      "description": "据第一财经报道，比亚迪集团品牌及公关处总经理李云飞近日接受媒体采访时表示，公司预计今年海外销量达到180万辆，较年初预期的130万辆高近40%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T11:27:36.798911+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/byd-raises-overseas-sales-target-1800000-2e4fc8",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "najib-unpaid-fine-remains-prison-57954f",
+      "title": "马来西亚律政署将请法庭厘清纳吉庭令",
+      "description": "马来西亚律政署将于11月10日把吉隆坡高庭就纳吉居家服刑发出的庭令交由法庭厘清，确认其要求是把纳吉的服刑地点改为住家，还是要求当局立即释放他。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T11:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/najib-unpaid-fine-remains-prison-57954f",
+      "reference": [
+        "联合早报",
+        "当今大马",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 25,
+      "sources": []
+    },
+    {
       "id": "cop31-antalya-opens-global-stocktake-54a7c1",
       "title": "联合国气候大会COP31在安塔利亚开幕",
-      "description": "《联合国气候变化框架公约》第31次缔约方大会（COP31）当地时间11月9日在土耳其安塔利亚开幕，会期至11月20日。",
+      "description": "第31届联合国气候变化框架公约缔约方大会（COP31）当地时间11月9日在土耳其安塔利亚开幕，会期至11月20日，来自190多个国家的代表将就温室气体减排、气候适应和融资等议题展开磋商。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -24,7 +243,7 @@
         "SBS"
       ],
       "section": "world",
-      "sourceCount": 15,
+      "sourceCount": 16,
       "sources": []
     },
     {
@@ -49,24 +268,39 @@
       "sources": []
     },
     {
-      "id": "trump-names-miller-white-house-chief-42c7ae",
-      "title": "特朗普任命米勒接掌白宫办公厅主任",
-      "description": "美国总统特朗普在共和党中期选举失利、民主党赢得国会参众两院控制权后，任命白宫副办公厅主任斯蒂芬·米勒接替苏茜·怀尔斯，出任白宫办公厅主任。",
+      "id": "sega-customer-email-addresses-leaked-5406d4",
+      "title": "世嘉称219万余个顾客邮箱地址遭泄露",
+      "description": "世嘉11月9日公布，2,196,044个顾客电子邮箱地址遭泄露。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-09T11:14:00+00:00",
+      "updatedAt": "2026-11-09T11:12:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/trump-names-miller-white-house-chief-42c7ae",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/sega-customer-email-addresses-leaked-5406d4",
       "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "财新",
-        "世界日报"
+        "共同网"
       ],
-      "section": "us",
-      "sourceCount": 23,
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "india-european-signaling-system-japan-displeasure-5b2293",
+      "title": "共同社称印度计划引进欧洲信号系统令日方不满",
+      "description": "共同社报道称，印度计划在艾哈迈达巴德至孟买的高铁项目中采用欧洲信号系统，并让印度制造的列车先行运营。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T11:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/india-european-signaling-system-japan-displeasure-5b2293",
+      "reference": [
+        "共同网"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -184,8 +418,8 @@
     },
     {
       "id": "witkoff-norway-peace-proposal-talks-6bf424",
-      "title": "克宫称欧洲不会参加阿布扎比三方会谈",
-      "description": "俄罗斯、乌克兰和美国代表定于11月10日至11日在阿联酋首都阿布扎比举行三方和平会谈。",
+      "title": "克宫称阿布扎比会谈将仅由俄乌美参加",
+      "description": "俄罗斯、乌克兰和美国定于11月10日至11日在阿联酋阿布扎比举行乌克兰问题会谈。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -200,7 +434,7 @@
         "公视"
       ],
       "section": "world",
-      "sourceCount": 72,
+      "sourceCount": 73,
       "sources": []
     },
     {
@@ -219,6 +453,24 @@
       ],
       "section": "asia",
       "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "kontroll-reports-aron-orban-trafficking-detention-eff317",
+      "title": "媒体称前总理奥班的兄弟涉人口贩运被拘留",
+      "description": "匈牙利新闻网站Kontroll率先披露，前总理奥班的兄弟艾朗·奥班因涉嫌人口贩运被拘留。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T10:32:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/kontroll-reports-aron-orban-trafficking-detention-eff317",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -335,27 +587,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "英伟达董事会调查黄仁勋是否遭外国情报锁定",
-      "description": "英伟达董事会11月8日宣布成立由独立董事组成的委员会，在外部独立律师协助下审查相关信息，调查首席执行官黄仁勋是否成为外国情报行动的目标，以及相关国家安全和公司机密风险。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T10:02:28+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 77,
       "sources": []
     },
     {
@@ -476,26 +707,6 @@
       "sources": []
     },
     {
-      "id": "trump-democrats-undocumented-immigrants-legal-status-deal-b563be",
-      "title": "特朗普承认移民驱逐政策过严损害共和党选情",
-      "description": "美国总统特朗普在CBS《60分钟》11月8日播出的专访中承认，政府大规模驱逐无证移民的做法“可能过于强硬”，并称这项政策有利有弊，也损害了共和党的中期选举表现。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T09:36:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/trump-democrats-undocumented-immigrants-legal-status-deal-b563be",
-      "reference": [
-        "世界日报",
-        "法广",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "korea-fines-coupang-market-abuse-86cf23",
       "title": "韩国公平交易委员会对酷澎处以3009亿韩元罚款",
       "description": "韩国公平交易委员会11月9日以酷澎滥用餐饮外卖市场主导地位为由，对其处以3009亿韩元（约合2.2059亿美元）罚款。",
@@ -570,6 +781,27 @@
       ],
       "section": "business",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "riyadh-financial-district-attack-aramco-building-damaged-403bcb",
+      "title": "胡塞袭击利雅得拦截碎片致阿美办公楼受损",
+      "description": "胡塞武装11月8日袭击沙特首都利雅得等地。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T09:32:16+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/riyadh-financial-district-attack-aramco-building-damaged-403bcb",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "朝鲜日报",
+        "日本放送协会"
+      ],
+      "section": "world",
+      "sourceCount": 6,
       "sources": []
     },
     {
@@ -707,26 +939,6 @@
       "sources": []
     },
     {
-      "id": "gaza-storms-flood-displaced-tents-054191",
-      "title": "加沙暴雨致收容中心沙土堤崩塌造成五人死亡",
-      "description": "加沙地带自11月7日起遭强降雨袭击，洪水淹没大批流离失所者帐篷。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T08:32:07+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/gaza-storms-flood-displaced-tents-054191",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "japan-shelves-xue-jian-expulsion-571765",
       "title": "读卖称日本曾拟驱逐薛剑后因中方警告暂缓",
       "description": "日本政府曾考虑将中国驻大阪总领事薛剑驱逐出境，但在中方警告将驱逐两名日本外交官后暂缓行动。",
@@ -741,24 +953,6 @@
         "中央通訊社"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-elderly-population-surpasses-children-014ab7",
-      "title": "中国65岁及以上人口首次超过0至14岁人口",
-      "description": "2025年，中国65岁及以上人口约2.24亿，首次超过0至14岁人口的2.12亿，是1949年以来老年人口数量首次高于儿童。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T08:22:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/china-elderly-population-surpasses-children-014ab7",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -817,26 +1011,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "guo-jiakun-rejects-china-spy-claims-9b7417",
-      "title": "郭嘉昆驳斥黄仁勋婚外情涉华间谍说法",
-      "description": "11月9日，中国外交部发言人郭嘉昆在例行记者会上回应美国官员此前称英伟达首席执行官黄仁勋的婚外情对象为中国情报机构工作人员的说法，称所谓中国间谍论调是捕风捉影、污蔑抹黑。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T08:10:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/guo-jiakun-rejects-china-spy-claims-9b7417",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -989,47 +1163,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "joint-list-recommends-eisenkot-prime-minister-303777",
-      "title": "以色列总统授权埃森科特组建新政府",
-      "description": "以色列总统伊萨克·赫尔佐格11月8日正式授权反对派正直党领导人、前国防军总参谋长加迪·埃森科特组建新一届政府。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T07:21:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/joint-list-recommends-eisenkot-prime-minister-303777",
-      "reference": [
-        "澎湃新闻",
-        "公视",
-        "法广",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 20,
-      "sources": []
-    },
-    {
-      "id": "najib-unpaid-fine-remains-prison-57954f",
-      "title": "马来西亚检长称纳吉居家服刑文件出错不应发生",
-      "description": "据《每日新闻》报道，马来西亚总检察长杜苏基回应纳吉居家服刑相关文件被指有瑕疵时说，官方司法文件不应出现错误；如果处理各环节足够谨慎，本可避免不必要的问题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T07:14:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/najib-unpaid-fine-remains-prison-57954f",
-      "reference": [
-        "联合早报",
-        "当今大马",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 24,
       "sources": []
     },
     {
@@ -1632,27 +1765,6 @@
         "联合早报"
       ],
       "section": "asia",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "riyadh-financial-district-attack-aramco-building-damaged-403bcb",
-      "title": "胡塞袭击利雅得拦截碎片致阿美办公楼受损",
-      "description": "胡塞武装称，11月8日袭击了沙特首都利雅得等地。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T05:16:20+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/riyadh-financial-district-attack-aramco-building-damaged-403bcb",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "朝鲜日报",
-        "日本放送协会"
-      ],
-      "section": "world",
       "sourceCount": 5,
       "sources": []
     },
@@ -2330,26 +2442,6 @@
       "sources": []
     },
     {
-      "id": "egypt-giza-train-derailment-four-dead-88-injured-8d3c59",
-      "title": "埃及两列客运列车追撞致至少7死125伤",
-      "description": "埃及吉萨省阿亚特路段当地时间11月8日上午8时至9时左右发生两列客运列车追撞。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T00:29:47+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/egypt-giza-train-derailment-four-dead-88-injured-8d3c59",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "chinese-microdramas-enter-uk-mainstream-4f62f1",
       "title": "中国微短剧加速进入英国主流市场",
       "description": "中国兴起的微短剧正在英国扩大受众，并吸引本地制作公司和流媒体平台参与。",
@@ -2664,27 +2756,6 @@
       "sources": []
     },
     {
-      "id": "yellow-vests-call-concorde-rally-defying-ban-56abc2",
-      "title": "法国连续第四周抗议巴黎发生警民冲突",
-      "description": "法国民众于11月7日在多地举行连续第四个周末的抗议，关注生活成本上涨、公共服务缩减和教育问题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T15:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/yellow-vests-call-concorde-rally-defying-ban-56abc2",
-      "reference": [
-        "联合早报",
-        "法广",
-        "澎湃新闻",
-        "德国之声"
-      ],
-      "section": "world",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "china-csrc-slow-ai-chip-ipos-913fe8",
       "title": "中国AI股降温促多家企业放缓上市计划",
       "description": "中国人工智能相关股票行情转弱，多家企业放慢或推迟上市安排。",
@@ -2902,24 +2973,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "philippines-foreign-ministry-warns-statements-undermine-ea0a7e",
-      "title": "菲律宾外交部警告官员涉华言论可能削弱谈判地位",
-      "description": "菲律宾外交部11月8日公开批评部分政府官员围绕中国及南中国海问题发表的言论，警告这些表态可能损害菲律宾的国际信誉和谈判地位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T11:43:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/philippines-foreign-ministry-warns-statements-undermine-ea0a7e",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3178,24 +3231,6 @@
       "sources": []
     },
     {
-      "id": "pop-mart-sales-drop-labubu-fad-cools-5d16e3",
-      "title": "泡泡玛特销售下滑显示Labubu热度减退",
-      "description": "泡泡玛特公布，截至9月底的三个月全球销售额同比下降最多50%，美国市场收入跌幅至少70%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T07:35:18+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/pop-mart-sales-drop-labubu-fad-cools-5d16e3",
-      "reference": [
-        "英国广播公司"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "giant-pandas-debut-at-atlanta-zoo-f73467",
       "title": "大熊猫平平福双在亚特兰大动物园首次亮相",
       "description": "当地时间11月6日，亚特兰大动物园为亚瑟·布兰克大熊猫馆举行开馆仪式。",
@@ -3273,25 +3308,6 @@
       ],
       "section": "world",
       "sourceCount": 24,
-      "sources": []
-    },
-    {
-      "id": "china-statistics-bureau-adds-five-departments-eadcc7",
-      "title": "中国国家统计局调整内设机构并新设五个司",
-      "description": "中国机构编制网公布新的职能与机构编制安排，国家统计局内设部门作出调整并增设五个司级机构。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T06:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/china-statistics-bureau-adds-five-departments-eadcc7",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3455,24 +3471,6 @@
       "url": "https://kaopu.news/story/2026-11-07/singapore-hospitals-clinicians-principal-doctor-model-2dde62",
       "reference": [
         "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "guangzhou-students-costume-returns-platform-rules-240f41",
-      "title": "广州22名学生穿演出服退货引发平台规则争议",
-      "description": "澎湃新闻报道，广州一所职业学院22名学生网购演出服参加歌唱比赛后，穿着服装参赛并申请七天无理由退货。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T18:51:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/guangzhou-students-costume-returns-platform-rules-240f41",
-      "reference": [
-        "澎湃新闻"
       ],
       "section": "life",
       "sourceCount": 1,
