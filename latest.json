@@ -1,19 +1,142 @@
 {
   "details": {
     "date": "2026-11-09",
-    "timestamp": 1794216902,
+    "timestamp": 1794221005,
     "totalPages": 1,
-    "total": 266
+    "total": 267
   },
   "stories": [
     {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "英伟达董事会启动独立调查审查黄仁勋涉情报风险",
-      "description": "英伟达董事会于11月8日宣布启动独立调查，核查首席执行官黄仁勋是否成为外国情报行动的目标，以及相关事件是否危及美国国家安全或公司机密。",
+      "id": "trump-democrats-undocumented-immigrants-legal-status-deal-b563be",
+      "title": "特朗普承认移民驱逐政策过严损害共和党选情",
+      "description": "美国总统特朗普在CBS《60分钟》11月8日播出的专访中承认，政府大规模驱逐无证移民的做法“可能过于强硬”，并称这项政策有利有弊，也损害了共和党的中期选举表现。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-09T08:40:53+00:00",
+      "updatedAt": "2026-11-09T09:36:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/trump-democrats-undocumented-immigrants-legal-status-deal-b563be",
+      "reference": [
+        "世界日报",
+        "法广",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "krakow-shooting-kills-five-injures-ten-9a964d",
+      "title": "克拉科夫枪击案致六死十五伤枪手死亡",
+      "description": "波兰克拉科夫中央集市广场附近11月7日下午发生枪击，一名24岁波兰男子驾车闯入后，从车内向人群开火。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T09:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-07",
+      "url": "https://kaopu.news/story/2026-11-07/krakow-shooting-kills-five-injures-ten-9a964d",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "公视",
+        "中央通訊社"
+      ],
+      "section": "world",
+      "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "tokyo-police-arrest-chinese-man-fake-base-station-1ea0b5",
+      "title": "东京警方将涉嫌伪基站干扰通信的中国男子移送检方",
+      "description": "东京警视厅将31岁中国籍男子于海移送检方，指他在银座一辆停放的乘用车内使用伪基站发射电波，干扰NTT都科摩通信并发送诈骗短信。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T09:02:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/tokyo-police-arrest-chinese-man-fake-base-station-1ea0b5",
+      "reference": [
+        "共同网",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-iron-gate-task-force-iran-transport-d20f21",
+      "title": "美军成立铁门特遣部队封堵伊朗陆路运输",
+      "description": "美国中央司令部11月7日宣布成立“铁门”特遣部队，由司令布拉德·库珀下令组建，任务是配合对伊朗港口实施的海上封锁，阻止武器和其他受限制物资经伊朗陆地边境及里海流通。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T09:01:08+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-07",
+      "url": "https://kaopu.news/story/2026-11-07/us-iron-gate-task-force-iran-transport-d20f21",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "法广",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "witkoff-norway-peace-proposal-talks-6bf424",
+      "title": "俄美乌将于阿布扎比重启停滞九个月的会谈",
+      "description": "俄罗斯、美国和乌克兰定于11月10日至11日在阿联酋首都阿布扎比举行三方会谈，恢复今年2月停滞后中断的面对面磋商。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T08:57:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
+      "reference": [
+        "法广",
+        "澎湃新闻",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 71,
+      "sources": []
+    },
+    {
+      "id": "cop31-antalya-opens-global-stocktake-54a7c1",
+      "title": "COP31在安塔利亚开幕推动气候承诺落实",
+      "description": "当地时间11月9日，《联合国气候变化框架公约》第31次缔约方大会（COP31）在土耳其安塔利亚开幕，会期至11月20日，来自190多个缔约方的代表将参加。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T08:54:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/cop31-antalya-opens-global-stocktake-54a7c1",
+      "reference": [
+        "澎湃新闻",
+        "公视",
+        "联合早报",
+        "SBS"
+      ],
+      "section": "world",
+      "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "英伟达董事会调查黄仁勋是否遭外国情报锁定",
+      "description": "英伟达董事会11月8日宣布，针对首席执行官黄仁勋是否成为外国情报行动目标成立独立董事委员会，并聘请外部律师协助审查所有可获得的信息。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T08:47:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-29",
       "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
@@ -24,26 +147,142 @@
         "公视"
       ],
       "section": "china",
-      "sourceCount": 75,
+      "sourceCount": 76,
+      "sources": []
+    },
+    {
+      "id": "china-extends-suspension-us-entity-list-measures-31ff1a",
+      "title": "中国继续暂停对11家美国实体采取清单措施两个月",
+      "description": "中国商务部表示，新一轮为期两个月的暂停将于2026年11月10日启动，涉及2025年被列入不可靠实体清单的11家美国实体。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T08:45:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/china-extends-suspension-us-entity-list-measures-31ff1a",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "ningbo-anonymous-donor-donates-1110000-yuan-284a9a",
+      "title": "“顺其自然”捐111万元累计善款达1907万元",
+      "description": "11月9日，宁波市慈善总会收到匿名捐款人“顺其自然”捐赠的111万元，署名为“其自”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T08:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/ningbo-anonymous-donor-donates-1110000-yuan-284a9a",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "nikkei-225-breaks-below-59000-losses-widen-0353bf",
+      "title": "台股一周重挫逾12%失守四万点",
+      "description": "台湾股市在11月2日至6日这一周累计下跌5510.19点，跌幅12.19%；6日收于39701.64点，跌破4万点关口。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T08:15:15+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/nikkei-225-breaks-below-59000-losses-widen-0353bf",
+      "reference": [
+        "澎湃新闻",
+        "共同网",
+        "中央通訊社",
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 74,
+      "sources": []
+    },
+    {
+      "id": "taiwan-october-exports-hit-record-high-8c76f7",
+      "title": "台湾10月出口额首破900亿美元创单月纪录",
+      "description": "台湾财政部9日公布的海关进出口初步统计显示，10月出口额为967.6亿美元，同比增长58.9%，首次超过900亿美元，刷新单月纪录。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T08:14:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/taiwan-october-exports-hit-record-high-8c76f7",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "democrats-retake-arizona-legislature-581f41",
+      "title": "民主党夺回亚利桑那州议会两院控制权",
+      "description": "美国期中选举中，民主党不仅取得国会两院绝对多数，也在亚利桑那州赢得州长和州议会两院选举。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T08:10:58+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/democrats-retake-arizona-legislature-581f41",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
       "id": "guo-jiakun-rejects-china-spy-claims-9b7417",
       "title": "郭嘉昆驳斥黄仁勋婚外情涉华间谍说法",
-      "description": "中国外交部发言人郭嘉昆11月9日在例行记者会上回应黄仁勋婚外情对象被指与中国情报机构有关一事，称所谓“中国间谍”论调“纯属捕风捉影、污蔑抹黑”。",
+      "description": "11月9日，中国外交部发言人郭嘉昆在例行记者会上回应美国官员此前称英伟达首席执行官黄仁勋的婚外情对象为中国情报机构工作人员的说法，称所谓中国间谍论调是捕风捉影、污蔑抹黑。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-09T08:02:00+00:00",
+      "updatedAt": "2026-11-09T08:10:09+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-09",
       "url": "https://kaopu.news/story/2026-11-09/guo-jiakun-rejects-china-spy-claims-9b7417",
       "reference": [
         "联合早报",
-        "澎湃新闻"
+        "澎湃新闻",
+        "中央通訊社"
       ],
       "section": "china",
-      "sourceCount": 3,
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "trump-invites-dana-white-white-house-press-secretary-d21b67",
+      "title": "特朗普称邀请怀特出任白宫新闻秘书是在开玩笑",
+      "description": "特朗普11月9日在佛罗里达州以自己名字命名的机场停机坪接受媒体采访时说，他邀请UFC总裁兼首席执行官达纳·怀特出任白宫新闻秘书是在开玩笑，并称怀特很喜欢这个想法。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T08:04:12+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-07",
+      "url": "https://kaopu.news/story/2026-11-07/trump-invites-dana-white-white-house-press-secretary-d21b67",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "联合早报",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 8,
       "sources": []
     },
     {
@@ -108,41 +347,38 @@
       "sources": []
     },
     {
-      "id": "cop31-antalya-opens-global-stocktake-54a7c1",
-      "title": "COP31在安塔利亚开幕聚焦气候承诺落实",
-      "description": "联合国气候变化框架公约第31次缔约方大会（COP31）当地时间11月9日在土耳其安塔利亚开幕，会期至11月20日，来自190多个缔约方的代表将磋商减排、气候适应和融资等议题。",
+      "id": "fbi-yaroch-pleads-guilty-crypto-theft-1bc5bf",
+      "title": "前FBI探员亚罗奇承认盗取240万美元加密货币",
+      "description": "前美国联邦调查局（FBI）反情报督察探员帕特里克·亚罗奇11月5日在弗吉尼亚州亚历山大市联邦地方法院承认电信欺诈和洗钱罪。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-09T07:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/cop31-antalya-opens-global-stocktake-54a7c1",
-      "reference": [
-        "澎湃新闻",
-        "公视",
-        "联合早报",
-        "SBS"
-      ],
-      "section": "world",
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
-      "id": "trump-democrats-undocumented-immigrants-legal-status-deal-b563be",
-      "title": "特朗普称与民主党协商无证移民合法身份可行",
-      "description": "美国总统特朗普在11月8日播出的CBS《60分钟》专访中表示，与民主党达成协议、让部分无证移民获得合法身份“做得到”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T07:25:30+00:00",
+      "updatedAt": "2026-11-09T07:40:09+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/trump-democrats-undocumented-immigrants-legal-status-deal-b563be",
+      "url": "https://kaopu.news/story/2026-11-09/fbi-yaroch-pleads-guilty-crypto-theft-1bc5bf",
       "reference": [
         "世界日报"
       ],
       "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-copyright-officials-report-pirated-book-cases-4fb9c8",
+      "title": "国家版权局等公布十起制售盗版图书案件",
+      "description": "国家版权局与全国“扫黄打非”办公室近日公布十起制售侵权盗版图书典型案件。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T07:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/china-copyright-officials-report-pirated-book-cases-4fb9c8",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
@@ -243,24 +479,6 @@
         "共同网"
       ],
       "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "tokyo-police-arrest-chinese-man-fake-base-station-1ea0b5",
-      "title": "东京警方逮捕涉嫌伪基站干扰通信的中国男子",
-      "description": "东京警视厅保安课称，住在东京都北区的无业人员于海（31岁）于11月7日被捕。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T07:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/tokyo-police-arrest-chinese-man-fake-base-station-1ea0b5",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -557,27 +775,6 @@
       "sources": []
     },
     {
-      "id": "krakow-shooting-kills-five-injures-ten-9a964d",
-      "title": "波兰克拉科夫枪击案致六死十五伤",
-      "description": "波兰南部城市克拉科夫的中央集市广场11月7日下午发生枪击。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T06:17:21+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/krakow-shooting-kills-five-injures-ten-9a964d",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "公视",
-        "中央通訊社"
-      ],
-      "section": "world",
-      "sourceCount": 11,
-      "sources": []
-    },
-    {
       "id": "ai-fake-lost-pet-photos-extort-owners-dca0e9",
       "title": "诈骗者用AI伪造走失宠物伤照勒索主人",
       "description": "佛罗里达州和加利福尼亚州出现利用人工智能伪造走失宠物伤照、向主人索要钱款的诈骗。",
@@ -814,6 +1011,27 @@
       ],
       "section": "ai",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "title": "特朗普称拟在深圳APEC期间会晤习近平和普京",
+      "description": "美国总统特朗普11月8日说，他预计将出席定于11月18日至19日在深圳举行的亚太经合组织（APEC）领导人会议，并计划在会议期间与中国国家主席习近平、俄罗斯总统普京会面。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T06:02:08+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "日经",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 13,
       "sources": []
     },
     {
@@ -1140,26 +1358,6 @@
       "sources": []
     },
     {
-      "id": "us-iron-gate-task-force-iran-transport-d20f21",
-      "title": "美军组建铁门特遣部队阻断伊朗陆路运输",
-      "description": "美国中央司令部成立约20人的“铁门”特遣部队，配合对伊朗港口的海上封锁，阻止先进武器、受制裁物资和非法资金经伊朗陆地边境及里海流动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T04:02:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/us-iron-gate-task-force-iran-transport-d20f21",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "china-extends-us-tariff-suspension-9bb20e",
       "title": "中国将继续暂停对美24%加征关税两个月",
       "description": "中国国务院关税税则委员会11月9日公告称，经国务院批准，自11月10日13时01分起，调整税委会公告2025年第4号规定的对美加征关税措施。",
@@ -1384,27 +1582,6 @@
       "sources": []
     },
     {
-      "id": "trump-invites-dana-white-white-house-press-secretary-d21b67",
-      "title": "特朗普称邀请UFC总裁任白宫新闻秘书是玩笑",
-      "description": "美国总统特朗普11月7日在社交平台Truth Social发文，邀请UFC总裁达纳·怀特出任白宫新闻秘书，并希望怀特带六名现任或前UFC选手担任助手。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T01:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/trump-invites-dana-white-white-house-press-secretary-d21b67",
-      "reference": [
-        "澎湃新闻",
-        "法广",
-        "联合早报",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
       "id": "albanese-accepts-further-spending-cuts-70cdaf",
       "title": "阿尔巴尼斯接受进一步节支应对通胀压力",
       "description": "澳大利亚总理阿尔巴尼斯11月9日在堪培拉表示，工党政府“完全接受”有必要进一步节省开支。",
@@ -1612,27 +1789,6 @@
       "sources": []
     },
     {
-      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "title": "特朗普预计在深圳APEC期间会晤习近平和普京",
-      "description": "美国总统特朗普11月8日表示，他预计在深圳举行的亚太经合组织（APEC）领导人会议期间与中国国家主席习近平、俄罗斯总统普京会面。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T00:58:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "reference": [
-        "韩国国际广播电台",
-        "联合早报",
-        "日经",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 12,
-      "sources": []
-    },
-    {
       "id": "bitcoin-price-falls-below-76000-041b31",
       "title": "比特币和以太币跌至两个多月新低",
       "description": "加密货币市场晚间下跌，比特币和以太币均触及8月以来低位。",
@@ -1686,27 +1842,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "nikkei-225-breaks-below-59000-losses-widen-0353bf",
-      "title": "台湾国安基金启动护盘应对台股月跌逾万点",
-      "description": "台湾股市一个月内从历史高位回落逾万点后，台湾国安基金于11月6日决定执行市场安定任务；台湾金管会宣布的五项稳市措施从11月9日起实施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T00:34:54+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/nikkei-225-breaks-below-59000-losses-widen-0353bf",
-      "reference": [
-        "澎湃新闻",
-        "共同网",
-        "中央通訊社",
-        "日经"
-      ],
-      "section": "business",
-      "sourceCount": 73,
       "sources": []
     },
     {
@@ -2020,27 +2155,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "witkoff-norway-peace-proposal-talks-6bf424",
-      "title": "法国称欧洲代表将参加阿布扎比三方会谈",
-      "description": "法国外交部长巴罗11月8日表示，欧洲将派代表参加定于11月10日至11日在阿联酋首都阿布扎比举行的俄美乌三方会谈，法国也将派代表前往。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T15:52:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
-      "reference": [
-        "法广",
-        "澎湃新闻",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 69,
       "sources": []
     },
     {
@@ -2913,24 +3027,6 @@
       "sources": []
     },
     {
-      "id": "new-york-sunset-park-fire-kills-six-779a62",
-      "title": "纽约市议会将举行听证调查锂电池火灾激增",
-      "description": "纽约市议会议长朱莉·梅宁宣布，市议会将于11月20日召开紧急监督听证会，调查锂电池相关火灾增加的问题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T06:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/new-york-sunset-park-fire-kills-six-779a62",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "state-local-elections-shape-data-centers-70335c",
       "title": "民主党拟掌控国会后收紧人工智能与数据中心监管",
       "description": "美国民主党在中期选举中赢得国会两院多数后，计划于2027年1月掌控国会时推动一批针对人工智能系统和数据中心的新法案。",
@@ -2949,24 +3045,6 @@
       ],
       "section": "world",
       "sourceCount": 24,
-      "sources": []
-    },
-    {
-      "id": "new-york-medicaid-spending-rises-7b54e5",
-      "title": "纽约州白卡支出预计五年增近五成至1337亿元",
-      "description": "纽约州预算处公布的2027财年中期财政计划更新显示，州内白卡支出预计达到1337亿元，较2022财年增加约444亿元，五年增幅接近50%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T06:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/new-york-medicaid-spending-rises-7b54e5",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3233,25 +3311,6 @@
       "sources": []
     },
     {
-      "id": "china-weather-bureau-activates-level-four-snow-response-082872",
-      "title": "秦皇岛市气象台发布暴雪红色预警信号",
-      "description": "秦皇岛市气象台于11月8日0时22分发布暴雪红色预警信号。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T02:41:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/china-weather-bureau-activates-level-four-snow-response-082872",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "experts-define-employer-health-report-access-dd5bdd",
       "title": "专家称企业查阅员工体检报告须守岗位相关边界",
       "description": "澎湃新闻采访发现，部分用人单位组织员工福利体检后，会查看个人报告、登记异常项目，或要求员工将报告交人事部门。",
@@ -3320,24 +3379,6 @@
         "澎湃新闻"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "wuhan-police-crack-elderly-collectibles-scam-f44ead",
-      "title": "武汉警方打掉涉千万元老年收藏诈骗团伙",
-      "description": "武汉市公安局洪山区分局近日侦办一个针对老年收藏者的诈骗团伙。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T14:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/wuhan-police-crack-elderly-collectibles-scam-f44ead",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
@@ -3450,24 +3491,6 @@
       ],
       "section": "tech",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "visa-free-travel-brings-tourists-chinese-cities-58b428",
-      "title": "过境免签推动外国游客走进中国中小城市",
-      "description": "过境免签等便利化措施推动外国游客在中国的旅行和购物目的地从一线城市扩展至更多中小城市。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T09:03:38.347696+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/visa-free-travel-brings-tourists-chinese-cities-58b428",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "life",
-      "sourceCount": 1,
       "sources": []
     },
     {
