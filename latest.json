@@ -7,6 +7,66 @@
   },
   "stories": [
     {
+      "id": "cop31-antalya-opens-global-stocktake-54a7c1",
+      "title": "COP31在安塔利亚开幕聚焦落实气候承诺",
+      "description": "联合国气候变化框架公约第三十一次缔约方大会（COP31）当地时间11月9日在土耳其安塔利亚开幕，会期至11月20日。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T18:05:59.003000+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/cop31-antalya-opens-global-stocktake-54a7c1",
+      "reference": [
+        "澎湃新闻",
+        "公视",
+        "联合早报",
+        "SBS"
+      ],
+      "section": "world",
+      "sourceCount": 17,
+      "sources": []
+    },
+    {
+      "id": "trump-questions-us-midterm-election-fairness-46b1df",
+      "title": "特朗普发帖质疑美国中期选举公正性",
+      "description": "美国总统特朗普11月9日在社交媒体发文，质疑美国中期选举是否公正，但没有提供相关证据。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T17:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/trump-questions-us-midterm-election-fairness-46b1df",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "英伟达董事会调查黄仁勋是否成为外国情报目标",
+      "description": "英伟达董事会于11月8日宣布成立独立董事委员会，在外部法律顾问协助下调查有关首席执行官黄仁勋及其与黄乐关系的报道和指控，重点查明他是否成为外国情报行动目标，以及是否存在国家安全或公司机密风险。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T17:25:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 100,
+      "sources": []
+    },
+    {
       "id": "car-crashes-lafayette-park-sign-d3e43e",
       "title": "轿车冲上白宫旁拉法叶公园人行道撞上告示牌",
       "description": "据《纽约邮报》报道，一辆轿车周一驶上拉法叶公园北侧、面向白宫的人行道，撞上一块信息告示牌。",
@@ -42,27 +102,6 @@
       ],
       "section": "china",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "黄仁勋承认婚外情后英伟达董事会启动调查",
-      "description": "英伟达董事会11月8日宣布成立由独立董事组成的委员会，调查首席执行官黄仁勋是否成为外国情报行动的目标，以及相关往来是否带来国家安全或公司机密风险；委员会将由外部法律顾问协助。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T16:00:32.894000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 99,
       "sources": []
     },
     {
@@ -971,27 +1010,6 @@
       ],
       "section": "world",
       "sourceCount": 25,
-      "sources": []
-    },
-    {
-      "id": "cop31-antalya-opens-global-stocktake-54a7c1",
-      "title": "联合国气候大会COP31在安塔利亚开幕",
-      "description": "第31届联合国气候变化框架公约缔约方大会（COP31）当地时间11月9日在土耳其安塔利亚开幕，会期至11月20日，来自190多个国家的代表将就温室气体减排、气候适应和融资等议题展开磋商。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T11:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/cop31-antalya-opens-global-stocktake-54a7c1",
-      "reference": [
-        "澎湃新闻",
-        "公视",
-        "联合早报",
-        "SBS"
-      ],
-      "section": "world",
-      "sourceCount": 16,
       "sources": []
     },
     {
@@ -3300,24 +3318,6 @@
         "第一财经"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-orders-doj-probe-democrats-6c699f",
-      "title": "特朗普指控民主党敲诈并下令司法部调查",
-      "description": "美国总统唐纳德·特朗普星期六（11月7日）指控民主党人以弹劾威胁政府官员，并扬言监禁共和党捐助者，称这属于“最高级的敲诈行为”，下令美国司法部调查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T11:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/trump-orders-doj-probe-democrats-6c699f",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
