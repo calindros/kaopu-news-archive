@@ -1,11 +1,30 @@
 {
   "details": {
     "date": "2026-11-09",
-    "timestamp": 1794179911,
+    "timestamp": 1794187200,
     "totalPages": 1,
     "total": 267
   },
   "stories": [
+    {
+      "id": "nvidia-board-launches-independent-security-probe-ecb015",
+      "title": "黄仁勋承认婚外情英伟达启动独立调查",
+      "description": "英伟达首席执行官黄仁勋11月8日向员工发信，承认对妻子不忠，并向家人和公司同事致歉。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T00:09:49+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/nvidia-board-launches-independent-security-probe-ecb015",
+      "reference": [
+        "世界日报",
+        "联合早报"
+      ],
+      "section": "tech",
+      "sourceCount": 7,
+      "sources": []
+    },
     {
       "id": "li-qiang-china-state-council-economic-measures-15c14b",
       "title": "国常会部署完善稳市机制增强股市稳定性",
@@ -25,6 +44,42 @@
       ],
       "section": "china",
       "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "apps-target-seniors-through-misleading-popups-d2787d",
+      "title": "部分应用弹窗诱导老年用户误触消费",
+      "description": "澎湃新闻调查发现，部分应用借助快应用、悬浮窗等方式向老年手机用户频繁推送弹窗广告，相关投诉中出现误触后进入付费页面的情况。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T00:02:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/apps-target-seniors-through-misleading-popups-d2787d",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "app-splash-ads-trigger-too-easily-7d4e9f",
+      "title": "澎湃新闻实测发现多款APP开屏广告易误触",
+      "description": "澎湃新闻近日实测20余款常用APP，发现百度地图、百度网盘、WiFi万能钥匙和掌通家园等应用的部分开屏广告触发灵敏，手机轻微移动就可能跳转。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T00:01:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/app-splash-ads-trigger-too-easily-7d4e9f",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -49,6 +104,24 @@
       "sources": []
     },
     {
+      "id": "south-korea-primary-intake-enters-200000s-ec809c",
+      "title": "韩国2027年小学入学人数将首次跌入20万区间",
+      "description": "韩国2027年小学入学人数预计将首次跌入20万区间。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T23:37:06+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/south-korea-primary-intake-enters-200000s-ec809c",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "trump-names-miller-white-house-chief-42c7ae",
       "title": "特朗普宣布米勒将接任白宫办公厅主任",
       "description": "美国总统特朗普11月6日宣布，现任白宫副办公厅主任斯蒂芬·米勒将接替苏茜·怀尔斯担任白宫办公厅主任，任命定于11月9日生效。",
@@ -67,6 +140,24 @@
       ],
       "section": "us",
       "sourceCount": 19,
+      "sources": []
+    },
+    {
+      "id": "cambridge-ai-bird-flu-vaccine-animal-trials-32824f",
+      "title": "剑桥团队研发的广谱禽流感疫苗动物实验显效",
+      "description": "剑桥大学团队利用人工智能设计的一款广谱禽流感候选疫苗，在小鼠和雪貂实验中对多种病毒变异株显示防护效果。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T23:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/cambridge-ai-bird-flu-vaccine-animal-trials-32824f",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -89,22 +180,21 @@
       "sources": []
     },
     {
-      "id": "nvidia-board-launches-independent-security-probe-ecb015",
-      "title": "英伟达董事会调查黄仁勋是否成为外国情报行动目标",
-      "description": "英伟达董事会11月8日宣布，设立由独立董事组成的委员会，并聘请外部独立法律顾问，调查首席执行官黄仁勋是否曾成为外国情报行动目标，以及美国国家安全和英伟达机密信息是否受到影响。",
+      "id": "china-weather-agency-renews-cold-wind-alerts-c9d614",
+      "title": "中央气象台继续发布寒潮和大风蓝色预警",
+      "description": "中央气象台于11月9日6时继续发出寒潮、大风两项蓝色预警。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-08T23:09:50+00:00",
+      "updatedAt": "2026-11-08T23:08:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/nvidia-board-launches-independent-security-probe-ecb015",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/china-weather-agency-renews-cold-wind-alerts-c9d614",
       "reference": [
-        "世界日报",
-        "联合早报"
+        "澎湃新闻"
       ],
-      "section": "tech",
-      "sourceCount": 4,
+      "section": "china",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2824,25 +2914,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-legislature-raises-farmers-allowance-15000-e9157f",
-      "title": "台湾立法院修法将老农津贴提高至每月1.5万元",
-      "description": "台湾立法院11月6日通过修正《老年农民福利津贴暂行条例》，将老农津贴从每月新台币8110元提高至1万5000元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T07:38:27+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/taiwan-legislature-raises-farmers-allowance-15000-e9157f",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
       "id": "us-measles-cases-hit-35-year-high-1168c7",
       "title": "美国麻疹病例升至5182例创35年新高",
       "description": "美国疾病控制与预防中心（CDC）11月6日更新的数据显示，2026年全美累计报告5182例麻疹确诊病例，为1991年以来最高；病例数已超过2025年全年报告的2289例，分布于45个州和华盛顿特区。",
@@ -3312,26 +3383,6 @@
       "sources": []
     },
     {
-      "id": "yu-yanhong-surrenders-investigation-2c7145",
-      "title": "余艳红主动投案接受纪律审查和监察调查",
-      "description": "国家中医药管理局原党组书记、局长余艳红主动投案，因涉嫌严重违纪违法，正接受中央纪委国家监委纪律审查和监察调查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T15:06:22+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/yu-yanhong-surrenders-investigation-2c7145",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "xie-yingying-dies-beijing-translator-b5e0ad",
       "title": "澎湃新闻报道翻译家谢莹莹逝世，享年88岁",
       "description": "据澎湃新闻报道，翻译家、北京外国语大学德语学院教授及博士生导师谢莹莹因病去世，于2026年11月3日在北京逝世，享年88岁。",
@@ -3480,24 +3531,6 @@
       "sources": []
     },
     {
-      "id": "small-town-remedy-boosts-jinzhou-tourism-399465",
-      "title": "《小城良方》带动锦州旅游热度上升",
-      "description": "据媒体报道，电视剧《小城良方》播出后，锦州石桥子早市人流量大增，古塔公园也成为游客到访拍照的地点，剧集热度带动当地旅游人气上升。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T11:53:40.239980+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/small-town-remedy-boosts-jinzhou-tourism-399465",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-southern-power-grid-embodied-ai-pilot-hurdles-90f207",
       "title": "南方电网推动具身智能试点规模化仍需跨越三道关卡",
       "description": "南方电网已在多个电力站点开展具身智能试点，但机器人要在电力现场规模化应用仍面临技术和验证门槛。",
@@ -3532,24 +3565,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "employers-low-wage-pay-hikes-fall-short-c9a9fe",
-      "title": "逾六成企业给低薪雇员加薪未达建议标准",
-      "description": "人力部代部长兼数码发展及新闻部高级政务部长刘洁敏11月3日在国会书面答复三巴旺集选区议员佳馥梅时披露，去年为低薪雇员调薪的企业中，逾六成的涨幅低于全国工资理事会建议区间。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T11:34:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/employers-low-wage-pay-hikes-fall-short-c9a9fe",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -4002,24 +4017,6 @@
       "url": "https://kaopu.news/story/2026-11-05/singapore-builds-platform-monitor-government-ai-agents-8f06a1",
       "reference": [
         "联合早报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "moonshot-opens-kimi-k31-pro-weights-aabc1c",
-      "title": "月之暗面开放Kimi K3.1 Pro完整模型权重",
-      "description": "月之暗面于北京时间11月5日凌晨发布Kimi K3.1 Pro完整模型权重。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T10:37:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/moonshot-opens-kimi-k31-pro-weights-aabc1c",
-      "reference": [
-        "澎湃新闻"
       ],
       "section": "ai",
       "sourceCount": 1,
