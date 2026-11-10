@@ -3,17 +3,38 @@
     "date": "2026-11-10",
     "timestamp": 1794273867,
     "totalPages": 1,
-    "total": 271
+    "total": 270
   },
   "stories": [
     {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "英伟达董事会调查黄仁勋是否成为外国情报目标",
-      "description": "英伟达董事会11月8日启动独立调查，核查首席执行官黄仁勋是否成为外国情报活动的目标及相关风险。",
+      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "title": "据报美中俄深圳会晤安排出现分歧",
+      "description": "美国、中国和俄罗斯正就三国元首在深圳亚太经合组织（APEC）领导人会议期间会晤保持沟通，但会晤尚未正式确定。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-10T00:21:00+00:00",
+      "updatedAt": "2026-11-10T01:21:04+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "日经",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 17,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "英伟达董事会调查黄仁勋是否成为外国情报目标",
+      "description": "英伟达董事会成立由独立董事组成的委员会，并在外部法律顾问协助下调查首席执行官黄仁勋是否成为外国情报行动的目标。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T01:12:34+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-29",
       "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
@@ -24,7 +45,145 @@
         "公视"
       ],
       "section": "china",
-      "sourceCount": 108,
+      "sourceCount": 114,
+      "sources": []
+    },
+    {
+      "id": "trump-iran-talks-progress-strike-risk-low-506dae",
+      "title": "特朗普称结束冲突势头显现",
+      "description": "美国总统特朗普11月9日在白宫会见斡旋美伊停战谈判的卡塔尔首相穆罕默德后举行记者会。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T01:12:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/trump-iran-talks-progress-strike-risk-low-506dae",
+      "reference": [
+        "澎湃新闻",
+        "日经",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "us-midterm-election-congress-control-164251",
+      "title": "美国民主党夺回国会参众两院控制权",
+      "description": "美国民主党在11月3日举行的中期选举中赢得国会参众两院多数，夺回两院控制权。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T01:03:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
+      "reference": [
+        "世界日报",
+        "英国广播公司",
+        "联合早报",
+        "端传媒"
+      ],
+      "section": "us",
+      "sourceCount": 248,
+      "sources": []
+    },
+    {
+      "id": "senegal-migrant-boat-sinks-35-dead-9ff7d2",
+      "title": "塞内加尔外海移民船沉没致39人死亡",
+      "description": "一艘载有试图前往西班牙加纳利群岛移民的船只在塞内加尔西北部外海沉没，死亡人数升至39人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T00:59:57+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/senegal-migrant-boat-sinks-35-dead-9ff7d2",
+      "reference": [
+        "法广",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "nvidia-lawyer-contact-probe-doj-transfer-212723",
+      "title": "纽时称辉达法务长联系探员后芯片案转交司法部",
+      "description": "据《纽约时报》援引美国政府官员和知情人士报道，辉达（Nvidia）法务长泰特于2025年8月联系美国商务部工业与安全局的承办探员索取调查信息，并称商务部次长凯斯勒已准许他与局内员工沟通。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T00:46:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/nvidia-lawyer-contact-probe-doj-transfer-212723",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "iran-submits-nuclear-proposal-via-qatar-bf7812",
+      "title": "伊朗外交部为两天内重启和谈方案辩护",
+      "description": "伊朗外交部发言人巴盖伊11月9日为德黑兰提出的和谈方案辩护，称美国应在谈判启动前解除制裁和海上封锁，并停止各条战线的战事；他认为这些要求合乎情理。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T00:41:27+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/iran-submits-nuclear-proposal-via-qatar-bf7812",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "taiwan-stocks-rebound-retake-40000-ef0417",
+      "title": "台湾股市收涨1960点创史上第二大涨点",
+      "description": "台湾加权股价指数在国安基金获授权第十次进场护盘、台湾金管会推出限制做空等稳市措施，以及美国科技股反弹提振下，于2026年11月9日大幅上涨。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T00:36:25+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/taiwan-stocks-rebound-retake-40000-ef0417",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "公视"
+      ],
+      "section": "business",
+      "sourceCount": 16,
+      "sources": []
+    },
+    {
+      "id": "he-lifeng-hosts-second-canada-economic-financial-dialogue-b7559e",
+      "title": "中加举行第二次经济财金战略对话并达成合作共识",
+      "description": "中国国务院副总理何立峰、加拿大财政部长商鹏飞和国际贸易部长西杜当地时间11月9日在温哥华共同主持第二次中加经济财金战略对话。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T00:32:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-07",
+      "url": "https://kaopu.news/story/2026-11-07/he-lifeng-hosts-second-canada-economic-financial-dialogue-b7559e",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 4,
       "sources": []
     },
     {
@@ -45,6 +204,42 @@
       ],
       "section": "tech",
       "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "south-korea-minister-warns-china-competition-8558ba",
+      "title": "金正官感叹中国发展速度并追问韩国是否有紧迫感",
+      "description": "韩国韩国产业通商部部长金正官近日结束访华行程后在社交媒体发文说，亲眼看到中国的发展速度，让他感到强烈危机感，并反问韩国是否有足够紧迫感。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T00:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/south-korea-minister-warns-china-competition-8558ba",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "samsung-ai-glasses-preorders-korea-us-af5e46",
+      "title": "东亚日报称三星AI眼镜将于12日开启预售",
+      "description": "据《东亚日报》援引业界消息，三星电子与谷歌、韩国眼镜品牌Gentle Monster及美国Warby Parker合作开发的AI眼镜“Intelligent Eyewear”将于11月12日在韩国和美国启动预售。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T00:10:47+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/samsung-ai-glasses-preorders-korea-us-af5e46",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -237,27 +432,6 @@
       ],
       "section": "us",
       "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "us-midterm-election-congress-control-164251",
-      "title": "美国民主党夺回国会参众两院控制权",
-      "description": "美国民主党在中期选举中夺回国会参众两院控制权。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T22:59:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
-      "reference": [
-        "世界日报",
-        "英国广播公司",
-        "联合早报",
-        "端传媒"
-      ],
-      "section": "us",
-      "sourceCount": 247,
       "sources": []
     },
     {
@@ -486,26 +660,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "he-lifeng-hosts-second-canada-economic-financial-dialogue-b7559e",
-      "title": "中加第二次经济财金战略对话达成多项共识",
-      "description": "中国国务院副总理何立峰与加拿大财政部长商鹏飞、国际贸易部长西杜11月9日在温哥华共同主持第二次中加经济财金战略对话。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T16:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/he-lifeng-hosts-second-canada-economic-financial-dialogue-b7559e",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1050,46 +1204,6 @@
       "sources": []
     },
     {
-      "id": "trump-iran-talks-progress-strike-risk-low-506dae",
-      "title": "特朗普称谈判推进时重启对伊打击可能性极低",
-      "description": "美国总统特朗普11月8日接受美国有线电视新闻网（CNN）电话采访时表示，只要美伊围绕伊朗核计划及重新开放霍尔木兹海峡的谈判取得进展，并能签署一份“非常强有力的协议”，美国再次对伊朗发动军事打击的可能性就“极低”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T12:42:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/trump-iran-talks-progress-strike-risk-low-506dae",
-      "reference": [
-        "澎湃新闻",
-        "日经",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "iran-submits-nuclear-proposal-via-qatar-bf7812",
-      "title": "伊朗经卡塔尔递交核提案并将和谈期限缩至两天",
-      "description": "伊朗称已通过卡塔尔向美国递交核提案，并要求美方先落实七项条件，之后才讨论方案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T12:38:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/iran-submits-nuclear-proposal-via-qatar-bf7812",
-      "reference": [
-        "韩国国际广播电台",
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "iea-forecasts-renewable-capacity-growth-4800gw-2f17a0",
       "title": "IEA预测全球可再生能源装机六年增近4800吉瓦",
       "description": "国际能源署（IEA）11月6日发布《2026年可再生能源》报告，预测2026年至2031年全球可再生能源装机将增加约4800吉瓦，比前一个六年周期高57%。",
@@ -1105,26 +1219,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-stocks-rebound-retake-40000-ef0417",
-      "title": "台湾股市收涨1960点创史上第二大收盘涨点",
-      "description": "台湾加权指数周一（11月9日）在国安基金宣布第十次护盘、金管会推出限制卖空等措施，以及美国半导体股回升带动下大幅反弹，收报41661.70点，上涨1960.06点，涨幅4.94%，创史上第二大收盘涨点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T12:36:33+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/taiwan-stocks-rebound-retake-40000-ef0417",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "公视"
-      ],
-      "section": "business",
-      "sourceCount": 15,
       "sources": []
     },
     {
@@ -1239,24 +1333,6 @@
       ],
       "section": "china",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "senegal-migrant-boat-sinks-35-dead-9ff7d2",
-      "title": "塞内加尔外海移民船沉没至少34人死亡",
-      "description": "塞内加尔外海一艘载有移民的船只沉没。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T11:34:12+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/senegal-migrant-boat-sinks-35-dead-9ff7d2",
-      "reference": [
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1555,27 +1631,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "title": "特朗普称预计在深圳会晤习近平和普京",
-      "description": "美国总统特朗普11月8日表示，他下周访问中国期间，预计将与中国国家主席习近平和俄罗斯总统普京会晤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T10:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "reference": [
-        "韩国国际广播电台",
-        "联合早报",
-        "日经",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 15,
       "sources": []
     },
     {
@@ -2848,24 +2903,6 @@
       "sources": []
     },
     {
-      "id": "tokyo-students-doubt-foreign-growth-benefits-54f575",
-      "title": "首都圈四成初中生不认同外国人增多有益社会",
-      "description": "东京大学社会学教授仁平典宏分析首都圈公立初中调查数据发现，2025年有41.5%的学生认为，居住在日本的外国人增加对社会裨益不大；这一比例在2022年为22.2%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T03:11:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/tokyo-students-doubt-foreign-growth-benefits-54f575",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "byd-japan-october-sales-reach-785-ddaf41",
       "title": "比亚迪10月在日销量同比增至2.4倍",
       "description": "比亚迪10月在日本售出785辆汽车，达到上年同期的2.4倍。",
@@ -2972,27 +3009,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "melania-to-meet-russia-ukraine-envoys-32f103",
-      "title": "梅拉尼娅白宫会见俄乌代表呼吁持久和平",
-      "description": "美国第一夫人梅拉尼娅·特朗普11月5日在白宫会见俄罗斯和乌克兰代表，介绍她斡旋推动的奥列什基人道停火，并呼吁双方把短期停火转化为更持久的和平。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T01:00:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/melania-to-meet-russia-ukraine-envoys-32f103",
-      "reference": [
-        "法广",
-        "澎湃新闻",
-        "公视",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 7,
       "sources": []
     },
     {
@@ -4012,24 +4028,6 @@
       "sources": []
     },
     {
-      "id": "singapore-agencies-issue-ai-agent-safety-guide-b89237",
-      "title": "新加坡三部门发布个人AI代理安全指南",
-      "description": "新加坡网络安全局、新加坡政府科技局和资讯通信媒体发展局11月5日联合发布个人AI代理安全指南，建议用户限制代理权限、管控重要操作，并留意数据使用和异常行为。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T10:37:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/singapore-agencies-issue-ai-agent-safety-guide-b89237",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "singapore-shanghai-museums-open-lim-tze-peng-exhibition-064018",
       "title": "新加坡国家美术馆与上海美术馆推出林子平特展",
       "description": "新加坡国家美术馆与上海美术馆合作推出的“墨韵星洲：新加坡艺术家林子平特展”于2026年11月6日傍晚在上海美术馆（中华艺术宫）开幕，展期至2027年4月7日，结束后将巡回深圳美术馆和福建美术馆。",
@@ -4081,25 +4079,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "gates-warns-trump-inaction-ai-risk-regulation-38e09c",
-      "title": "盖茨警告人工智能滥用威胁全球生物安全",
-      "description": "比尔·盖茨11月4日在英国《金融时报》举办的人工智能高峰会上警告，人工智能被恶意利用制造生物武器，可能造成远超新冠疫情的破坏。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T06:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/gates-warns-trump-inaction-ai-risk-regulation-38e09c",
-      "reference": [
-        "联合早报",
-        "世界日报"
-      ],
-      "section": "ai",
-      "sourceCount": 3,
       "sources": []
     },
     {
