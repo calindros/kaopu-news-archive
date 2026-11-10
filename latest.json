@@ -7,6 +7,81 @@
   },
   "stories": [
     {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "黄仁勋承认婚外情后英伟达董事会启动调查",
+      "description": "英伟达首席执行官黄仁勋承认对妻子不忠后，公司董事会启动独立调查，以查明他是否成为外国情报活动的目标。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T21:11:12+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 166,
+      "sources": []
+    },
+    {
+      "id": "john-liu-proposes-regents-voucher-control-2a87b9",
+      "title": "刘醇逸提案拟将教育券决定权交州教育理事会",
+      "description": "纽约州参议员刘醇逸近日提出议案，建议纽约是否参加特朗普政府的联邦教育券计划，由州教育理事会按年度审议，而非由州长主导。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T20:49:35+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/john-liu-proposes-regents-voucher-control-2a87b9",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "jim-jordan-elected-house-republican-leader-23ff2f",
+      "title": "吉姆·乔丹当选下一届众议院共和党领袖",
+      "description": "澎湃新闻援引央视记者消息称，美国众议院共和党人当地时间11月10日举行党内投票，吉姆·乔丹以106票对73票击败现任多数党领袖史蒂夫·斯卡利斯，当选下一届众议院共和党领袖。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T20:42:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/jim-jordan-elected-house-republican-leader-23ff2f",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "google-k12-search-ai-default-b4bfee",
+      "title": "谷歌将K-12学校搜索默认设为AI版本",
+      "description": "谷歌计划自2027年1月起，将面向K-12学校的搜索服务默认设为整合人工智能（AI）的Guided Learning版本。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T20:13:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/google-k12-search-ai-default-b4bfee",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "iran-submits-nuclear-proposal-via-qatar-bf7812",
       "title": "雷扎伊称美方至今未回应伊朗提议",
       "description": "伊朗最高国家安全委员会秘书雷扎伊当地时间11月10日晚表示，伊方要求美国对其提议作出明确、直接的答复，但美方至今没有回应。",
@@ -24,6 +99,27 @@
       ],
       "section": "world",
       "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "trump-iran-talks-progress-strike-risk-low-506dae",
+      "title": "鲁比奥称经济施压使美国暂无需重启对伊大规模行动",
+      "description": "美国国务卿鲁比奥11月10日在巴黎七国集团（G7）外长会议结束后表示，美国对伊朗实施的经济制裁和海上封锁已产生显著效果，因此特朗普政府目前认为无需恢复对伊朗的大规模军事行动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T19:32:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/trump-iran-talks-progress-strike-risk-low-506dae",
+      "reference": [
+        "澎湃新闻",
+        "日经",
+        "联合早报",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 15,
       "sources": []
     },
     {
@@ -137,27 +233,6 @@
       ],
       "section": "world",
       "sourceCount": 22,
-      "sources": []
-    },
-    {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "英伟达董事会就黄仁勋是否成为外国情报行动目标启动独立调查",
-      "description": "英伟达董事会11月8日宣布启动独立调查，调查首席执行官黄仁勋是否成为外国情报行动的目标，并审查所有可获得的信息。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T18:08:58+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 164,
       "sources": []
     },
     {
@@ -305,27 +380,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-iran-talks-progress-strike-risk-low-506dae",
-      "title": "特朗普称美伊战事军事上已事实上结束",
-      "description": "美国总统特朗普11月9日在白宫表示，从军事角度看，美伊战事已“事实上结束”，目前没有必要恢复对伊朗的大规模军事行动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T15:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/trump-iran-talks-progress-strike-risk-low-506dae",
-      "reference": [
-        "澎湃新闻",
-        "日经",
-        "联合早报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 14,
       "sources": []
     },
     {
@@ -3528,27 +3582,6 @@
       "sources": []
     },
     {
-      "id": "trump-names-miller-white-house-chief-42c7ae",
-      "title": "特朗普任命米勒接任白宫幕僚长",
-      "description": "美国总统唐纳德·特朗普任命白宫副幕僚长史蒂芬·米勒接替苏茜·怀尔斯担任白宫幕僚长，任命于11月9日生效。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T12:10:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/trump-names-miller-white-house-chief-42c7ae",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "财新",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 24,
-      "sources": []
-    },
-    {
       "id": "china-elderly-population-surpasses-children-014ab7",
       "title": "中国老年人口2025年首次超过少儿人口",
       "description": "中国65岁及以上人口在2025年首次超过14岁及以下人口，老年抚养比也首次高于少儿抚养比。",
@@ -3620,24 +3653,6 @@
         "第一财经"
       ],
       "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "trump-blames-republican-loss-ballot-absence-b15a8b",
-      "title": "特朗普称共和党中期选举失利首因是自己未列入选票",
-      "description": "美国总统唐纳德·特朗普在哥伦比亚广播公司《60分钟》专访中谈到共和党中期选举失利，将自己没有出现在选票上视为首要原因。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T11:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/trump-blames-republican-loss-ballot-absence-b15a8b",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "us",
       "sourceCount": 2,
       "sources": []
     },
@@ -4057,27 +4072,6 @@
       ],
       "section": "ai",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "reuters-china-h200-imports-await-approval-d875ab",
-      "title": "路透称约60万颗英伟达H200芯片暂存香港",
-      "description": "路透社援引知情人士称，约60万颗英伟达H200人工智能芯片目前存放在香港，等待运往中国大陆。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T06:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/reuters-china-h200-imports-await-approval-d875ab",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "德国之声",
-        "世界日报"
-      ],
-      "section": "china",
-      "sourceCount": 5,
       "sources": []
     },
     {
