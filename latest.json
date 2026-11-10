@@ -1,42 +1,25 @@
 {
   "details": {
     "date": "2026-11-10",
-    "timestamp": 1794281216,
+    "timestamp": 1794287858,
     "totalPages": 1,
-    "total": 271
+    "total": 270
   },
   "stories": [
     {
-      "id": "china-ndrc-adjusts-education-resources-dff3f6",
-      "title": "发改委将按学龄人口变化调整教育资源配置",
-      "description": "国家发展改革委在“奋进‘十五五’”系列新闻发布会上介绍学龄人口变化及教育资源安排。",
+      "id": "pentagon-removes-wuxi-apptec-1260h-list-c4ee3d",
+      "title": "美国国防部依法院裁决将药明康德移出名单",
+      "description": "美国国防部依照法院命令，将药明康德从1260H项下的“中国军工企业名单”（CMC）中移除。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-10T03:37:00+00:00",
+      "updatedAt": "2026-11-10T04:13:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/china-ndrc-adjusts-education-resources-dff3f6",
+      "url": "https://kaopu.news/story/2026-11-10/pentagon-removes-wuxi-apptec-1260h-list-c4ee3d",
       "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "section": "life",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "china-ndrc-bans-unlisted-service-fees-de3256",
-      "title": "国家发改委明确公共服务收费清单外一律不得收取",
-      "description": "国家发展改革委价格司副司长张璐琴11月10日在“奋进‘十五五’”系列新闻发布会第四场介绍，未来将通过收费目录清单规范公共服务机构收费。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T03:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/china-ndrc-bans-unlisted-service-fees-de3256",
-      "reference": [
+        "联合早报",
+        "第一财经",
         "澎湃新闻"
       ],
       "section": "china",
@@ -45,12 +28,12 @@
     },
     {
       "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "英伟达董事会调查黄仁勋是否遭外国情报锁定",
-      "description": "英伟达董事会11月8日启动独立调查，核查首席执行官黄仁勋是否成为外国情报行动目标，以及相关情况是否影响公司。",
+      "title": "英伟达董事会就黄仁勋情报疑云启动独立调查",
+      "description": "英伟达董事会8日宣布启动独立调查，核查首席执行官黄仁勋与新加坡数据中心企业Megaspeed前高管黄乐的关系，以及相关外国情报指控。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-10T03:03:15+00:00",
+      "updatedAt": "2026-11-10T04:12:36+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-29",
       "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
@@ -61,7 +44,274 @@
         "公视"
       ],
       "section": "china",
-      "sourceCount": 119,
+      "sourceCount": 122,
+      "sources": []
+    },
+    {
+      "id": "china-expands-eldercare-childcare-services-a7408f",
+      "title": "国家发改委部署扩大养老托育服务供给",
+      "description": "国家发展改革委在“奋进‘十五五’”系列新闻发布会上介绍养老、托育和银发经济工作安排，提出增加服务供给、完善价格管理，并提升养老机构照护能力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T04:09:37.745838+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/china-expands-eldercare-childcare-services-a7408f",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "life",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "china-ndrc-adjusts-education-resources-dff3f6",
+      "title": "发改委将增加高中和高等教育学位供给",
+      "description": "中国国家发展和改革委员会提出，将根据学龄人口变化调整教育资源配置，并增加普通高中和高等教育学位。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T04:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/china-ndrc-adjusts-education-resources-dff3f6",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "najib-unpaid-fine-remains-prison-57954f",
+      "title": "马来西亚律政署暂缓纳吉居家服刑安排",
+      "description": "马来西亚律政署暂缓前首相纳吉转为居家服刑的安排，并要求吉隆坡高庭厘清释放令的法律含义。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T03:57:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/najib-unpaid-fine-remains-prison-57954f",
+      "reference": [
+        "联合早报",
+        "当今大马",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 27,
+      "sources": []
+    },
+    {
+      "id": "massie-plans-impeachment-resolution-hegseth-1add74",
+      "title": "马西提出八项弹劾条款指控美国防长海格塞斯",
+      "description": "美国肯塔基州共和党众议员托马斯·马西11月9日向众议院提交决议，提出八项弹劾条款，指控国防部长皮特·海格塞斯违反联邦法律和宪法、滥用职权。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T03:55:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/massie-plans-impeachment-resolution-hegseth-1add74",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "公视",
+        "朝鲜日报"
+      ],
+      "section": "us",
+      "sourceCount": 16,
+      "sources": []
+    },
+    {
+      "id": "japan-vietnam-plan-energy-cooperation-49eaec",
+      "title": "高市早苗与苏林发布声明深化日越合作",
+      "description": "日本首相高市早苗与越南共产党中央总书记兼国家主席苏林11月9日在东京举行会谈，并发布《日本—越南共同愿景声明》，确认在能源、核能、人工智能和安全等领域加强合作。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T03:52:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-07",
+      "url": "https://kaopu.news/story/2026-11-07/japan-vietnam-plan-energy-cooperation-49eaec",
+      "reference": [
+        "共同网",
+        "日本放送协会",
+        "联合早报",
+        "日经"
+      ],
+      "section": "asia",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "nvidia-lawyer-contact-probe-doj-transfer-212723",
+      "title": "纽时报称美商务部将Megaspeed案移交司法部",
+      "description": "《纽约时报》披露，美国商务部于2025年暂停对新加坡数据中心公司Megaspeed的调查，并应司法部要求将案件移交司法部；司法部目前正对该公司进行刑事调查。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T03:43:30+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/nvidia-lawyer-contact-probe-doj-transfer-212723",
+      "reference": [
+        "世界日报",
+        "纽约时报"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "taiwan-population-declines-34-months-219429",
+      "title": "台湾10月总人口连续34个月负增长",
+      "description": "台湾内政部公布2026年10月户口统计。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T03:36:20+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/taiwan-population-declines-34-months-219429",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "youth-wing-urges-respect-weeknd-concert-art-caba61",
+      "title": "社青团促当局尊重威肯演唱会舞台艺术",
+      "description": "加拿大歌手威肯的演唱会被指涉嫌宗教崇拜，目前正接受政府调查。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T03:26:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/youth-wing-urges-respect-weeknd-concert-art-caba61",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "witkoff-norway-peace-proposal-talks-6bf424",
+      "title": "俄乌美代表团将在阿布扎比重启停滞九个月的谈判",
+      "description": "俄罗斯、乌克兰和美国代表团定于11月10日至11日在阿联酋首都阿布扎比举行三方会谈，重启今年2月谈判停滞后约九个月未进行的面对面磋商。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T03:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
+      "reference": [
+        "法广",
+        "澎湃新闻",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 76,
+      "sources": []
+    },
+    {
+      "id": "japan-household-spending-falls-6point8-percent-013710",
+      "title": "日本家庭9月实际消费支出同比下降6.8%",
+      "description": "日本总务省11月10日公布的家庭收支调查显示，两人以上家庭户均消费支出为28.9536万日元，扣除物价变动后同比下降6.8%，已连续10个月减少。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T03:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/japan-household-spending-falls-6point8-percent-013710",
+      "reference": [
+        "共同网"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "fed-officials-inflation-further-rate-hike-5f3a11",
+      "title": "美联储官员称通胀压力要求进一步加息",
+      "description": "多位美联储官员近日谈及通胀和利率路径，认为通胀压力尚未消退。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T03:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/fed-officials-inflation-further-rate-hike-5f3a11",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nvidia-lacks-clear-huang-successor-a517c7",
+      "title": "世界日报援引纽约时报称辉达暂无黄仁勋明确接班人选",
+      "description": "世界日报援引《纽约时报》报道，辉达目前没有明确的黄仁勋接班人选。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T03:13:53+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/nvidia-lacks-clear-huang-successor-a517c7",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-defense-research-bases-01bf55",
+      "title": "日本政府计划设立防卫技术研究基地",
+      "description": "日本政府计划在2031年度前，于大学及国立研究开发法人设立研究基地，重点研究人工智能、太空等领域，为未来可供自卫队使用的装备开展基础研究。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T03:07:44+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/japan-defense-research-bases-01bf55",
+      "reference": [
+        "日经"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-parents-pressure-schools-change-grades-e8fe97",
+      "title": "越来越多美国家长施压学校修改孩子成绩",
+      "description": "美国越来越多家长因孩子的成绩或教师评语向学校施压，要求更改评定，部分人进一步提起诉讼。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T03:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/us-parents-pressure-schools-change-grades-e8fe97",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -102,24 +352,21 @@
       "sources": []
     },
     {
-      "id": "massie-plans-impeachment-resolution-hegseth-1add74",
-      "title": "梅西提交决议弹劾美国防长赫格塞思",
-      "description": "美国肯塔基州共和党众议员托马斯·梅西当地时间11月9日向众议院提交弹劾决议，要求追究国防部长皮特·赫格塞思的责任。",
+      "id": "motegi-rubio-discuss-icc-sanctions-c2e636",
+      "title": "茂木与鲁比奥会谈就国际刑事法院制裁交换意见",
+      "description": "日本外相茂木敏充当地时间11月9日在巴黎会见美国国务卿鲁比奥，双方围绕美国对国际刑事法院采取制裁措施交换看法。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
       "updatedAt": "2026-11-10T03:00:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/massie-plans-impeachment-resolution-hegseth-1add74",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/motegi-rubio-discuss-icc-sanctions-c2e636",
       "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "公视",
-        "朝鲜日报"
+        "共同网"
       ],
-      "section": "us",
-      "sourceCount": 14,
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -223,22 +470,23 @@
       "sources": []
     },
     {
-      "id": "nvidia-lawyer-contact-probe-doj-transfer-212723",
-      "title": "纽时称美商务部暂停Megaspeed调查",
-      "description": "《纽约时报》报道，美国商务部在2025年年底暂停对新加坡数据中心公司Megaspeed的调查，并把案件移交司法部进行刑事调查。",
+      "id": "taiwan-stocks-rebound-retake-40000-ef0417",
+      "title": "台湾股市收涨1960点后盘中升破43000点",
+      "description": "台湾股市11月9日在美国科技股反弹、台湾国安基金获授权第十次进场及金管会限制做空等措施带动下大幅回升。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-10T02:30:25+00:00",
+      "updatedAt": "2026-11-10T02:33:16+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/nvidia-lawyer-contact-probe-doj-transfer-212723",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/taiwan-stocks-rebound-retake-40000-ef0417",
       "reference": [
-        "世界日报",
-        "纽约时报"
+        "中央通訊社",
+        "联合早报",
+        "公视"
       ],
-      "section": "us",
-      "sourceCount": 2,
+      "section": "business",
+      "sourceCount": 17,
       "sources": []
     },
     {
@@ -273,25 +521,6 @@
       "reference": [
         "澎湃新闻",
         "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "pentagon-removes-wuxi-apptec-1260h-list-c4ee3d",
-      "title": "美国国防部将药明康德移出1260H名单",
-      "description": "药明康德称，11月9日获悉美国国防部决定将其移出1260H项下中国军工企业名单。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T02:22:47.469970+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/pentagon-removes-wuxi-apptec-1260h-list-c4ee3d",
-      "reference": [
-        "联合早报",
-        "第一财经"
       ],
       "section": "china",
       "sourceCount": 2,
@@ -787,26 +1016,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-stocks-rebound-retake-40000-ef0417",
-      "title": "台湾股市收涨1960点创史上第二大涨点",
-      "description": "台湾加权股价指数在国安基金获授权第十次进场护盘、台湾金管会推出限制做空等稳市措施，以及美国科技股反弹提振下，于2026年11月9日大幅上涨。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T00:36:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/taiwan-stocks-rebound-retake-40000-ef0417",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "公视"
-      ],
-      "section": "business",
-      "sourceCount": 16,
-      "sources": []
-    },
-    {
       "id": "tsmc-plans-3d-dram-nvidia-request-5081bd",
       "title": "据报台积电应英伟达要求规划3D DRAM制造",
       "description": "台积电据报应英伟达要求，近期开始规划3D DRAM制造方案。",
@@ -1088,26 +1297,6 @@
       "sources": []
     },
     {
-      "id": "najib-unpaid-fine-remains-prison-57954f",
-      "title": "马内政部称纳吉居家服刑争议应由法庭裁决",
-      "description": "马来西亚内政部表示，纳吉缴清SRC国际公司案罚款后，居家服刑安排涉及的法律争议应交由法庭裁决；争议厘清前，他仍留在加影监狱。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T20:46:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/najib-unpaid-fine-remains-prison-57954f",
-      "reference": [
-        "联合早报",
-        "当今大马",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 26,
-      "sources": []
-    },
-    {
       "id": "justice-department-ghost-student-fraud-157f22",
       "title": "美国司法部揭露幽灵学生诈骗涉款超2亿美元",
       "description": "美国司法部近日公布“抓鬼行动”首轮成果，称犯罪网络盗用美国公民身份，冒名申请联邦学生援助，骗取助学金和学生贷款。",
@@ -1123,27 +1312,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "witkoff-norway-peace-proposal-talks-6bf424",
-      "title": "美俄乌将于阿布扎比举行三方会谈",
-      "description": "俄罗斯、乌克兰和美国定于当地时间11月10日至11日在阿联酋首都阿布扎比举行三方会谈，讨论结束战争及相关安排。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T19:41:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
-      "reference": [
-        "法广",
-        "澎湃新闻",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 75,
       "sources": []
     },
     {
@@ -1364,26 +1532,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-vietnam-plan-energy-cooperation-49eaec",
-      "title": "日越首脑会谈确认深化多领域合作",
-      "description": "越南国家主席兼越共中央总书记苏林与日本首相高市早苗在东京举行会谈。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T14:34:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/japan-vietnam-plan-energy-cooperation-49eaec",
-      "reference": [
-        "共同网",
-        "日本放送协会",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 7,
       "sources": []
     },
     {
@@ -2271,24 +2419,6 @@
       "sources": []
     },
     {
-      "id": "suncable-finalizes-australia-singapore-cable-route-710fcb",
-      "title": "SunCable基本敲定澳洲至新加坡海底电缆路线",
-      "description": "据《联合早报》报道，澳大利亚可再生能源企业SunCable已大致确定一条从澳大利亚经印度尼西亚水域通往新加坡的海底电缆路线，目标是在2035年前后向新加坡输送低碳电力。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T09:34:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/suncable-finalizes-australia-singapore-cable-route-710fcb",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "riyadh-financial-district-attack-aramco-building-damaged-403bcb",
       "title": "胡塞袭击利雅得拦截碎片致阿美办公楼受损",
       "description": "胡塞武装11月8日袭击沙特首都利雅得等地。",
@@ -2615,24 +2745,6 @@
       "sources": []
     },
     {
-      "id": "ocac-strengthen-overseas-community-defenses-297d69",
-      "title": "侨务委员会将强化海外侨社心防应对中国渗透",
-      "description": "台湾侨务委员会11月9日在立法院报告称，将加强海外侨社风险宣导与防卫韧性建设，以应对中国法律战和渗透。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T06:48:49+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/ocac-strengthen-overseas-community-defenses-297d69",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "aapi-voters-favor-democrats-two-to-one-113707",
       "title": "民调显示63%华裔选民支持民主党众院候选人",
       "description": "亚美公义促进中心（AAJC）、亚太裔投票联盟（APIAVote）和BSP Research联合开展的2026年期中选举选民民调显示，全美华裔受访者中，63%表示支持民主党众议院候选人。",
@@ -2667,42 +2779,6 @@
       ],
       "section": "china",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "japan-seeks-china-assurance-takaichi-equal-treatment-44a69c",
-      "title": "彭博称日本官员向中国寻求高市同等礼遇保证",
-      "description": "彭博社援引知情人士称，日本官员已向中国方面寻求保证，希望中国国家主席习近平在定于11月18日至19日在深圳举行的亚太经合组织（APEC）领导人会议期间，给予日本首相高市早苗与其他国家领导人相同的礼遇。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T06:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/japan-seeks-china-assurance-takaichi-equal-treatment-44a69c",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "mitsui-chemicals-dbj-acquires-jsr-d096ba",
-      "title": "三井化学联手日本政策投资银行收购JSR",
-      "description": "三井化学宣布将与日本政策投资银行（DBJ）共同收购产业革新投资机构（JIC）持有的半导体材料企业JSR。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T06:22:37+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/mitsui-chemicals-dbj-acquires-jsr-d096ba",
-      "reference": [
-        "日经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2960,24 +3036,6 @@
       "sources": []
     },
     {
-      "id": "ivan-ice-detained-after-release-86dbb5",
-      "title": "MPR称Ivan获准释放后再遭ICE拘留",
-      "description": "据明尼苏达公共广播电台（MPR News）报道，27岁的危地马拉籍男子Ivan通过人身保护令程序获法官批准释放后，在惠普联邦大楼办完释放手续、取回个人物品，尚未离开大楼便被等候在场的5名联邦探员重新上铐。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T06:13:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/ivan-ice-detained-after-release-86dbb5",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "irvine-housing-costs-hiring-challenges-3eeecc",
       "title": "刘令淳称尔湾高房价令橙县企业难招人才",
       "description": "橙县住房资金信托主席、尔湾市议员刘令淳接受《世界日报》采访时表示，尔湾房价高企让橙县企业招募人才困难，连年薪数十万美元的医生也难以从外州聘来。",
@@ -3011,24 +3069,6 @@
       ],
       "section": "life",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "japan-ibaraki-offshore-quake-tokyo-felt-353dca",
-      "title": "日本茨城县东部近海出现5.9级地震",
-      "description": "日本茨城县东侧海域出现5.9级地震，东京也感受到震动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T06:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/japan-ibaraki-offshore-quake-tokyo-felt-353dca",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3454,6 +3494,24 @@
       "sources": []
     },
     {
+      "id": "hong-kong-paper-ends-print-edition-12bb6e",
+      "title": "香港《香港仔》结束纸本发行转型网络媒体",
+      "description": "《文汇报》旗下免费报纸《香港仔》10月30日发行最后一期纸质报纸，结束八年多的纸本出版后转为网络媒体。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-08T21:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/hong-kong-paper-ends-print-edition-12bb6e",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "ai-drama-surpasses-120-billion-views-d0922d",
       "title": "红果AI短剧《持械入宋》播放量突破120亿",
       "description": "红果AI短剧《持械入宋》制作方称，截至11月7日，该剧全网播放量已突破120亿。",
@@ -3592,24 +3650,6 @@
       "occurredAt": "",
       "publishedAt": "2026-11-08",
       "url": "https://kaopu.news/story/2026-11-08/yellow-ribbon-cooking-reality-show-prisoners-1d2ded",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "singapore-agency-commissions-nuclear-safety-consultants-bf8161",
-      "title": "新加坡环境局委托顾问加强核能安全监管能力",
-      "description": "新加坡国家环境局已委托三家顾问公司参与核能相关能力建设，工作涉及安全、监管和环境保护，并将借鉴国际经验。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T09:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/singapore-agency-commissions-nuclear-safety-consultants-bf8161",
       "reference": [
         "联合早报"
       ],
@@ -4005,24 +4045,6 @@
         "澎湃新闻"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-southern-power-grid-embodied-ai-pilot-hurdles-90f207",
-      "title": "南方电网推动具身智能试点规模化仍需跨越三道关卡",
-      "description": "南方电网已在多个电力站点开展具身智能试点，但机器人要在电力现场规模化应用仍面临技术和验证门槛。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T11:42:39.836221+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/china-southern-power-grid-embodied-ai-pilot-hurdles-90f207",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "ai",
       "sourceCount": 1,
       "sources": []
     },
@@ -4608,45 +4630,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "apple-ios-beta-enables-china-intelligence-53afe9",
-      "title": "苹果iOS 27.3测试版新增繁体中文Siri",
-      "description": "苹果于2026年11月4日释出iOS 27.3开发者测试版，为Siri AI新增繁体中文支持并开放测试。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T03:56:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/apple-ios-beta-enables-china-intelligence-53afe9",
-      "reference": [
-        "中央通訊社",
-        "澎湃新闻"
-      ],
-      "section": "tech",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "amd-smci-earnings-boost-after-hours-shares-576b1a",
-      "title": "AMD三季度营收同比增长45%",
-      "description": "当地时间11月3日，AMD公布2026年第三季度业绩，营收达133.77亿美元，同比增长45%，高于市场预期的131亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-04T01:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-04",
-      "url": "https://kaopu.news/story/2026-11-04/amd-smci-earnings-boost-after-hours-shares-576b1a",
-      "reference": [
-        "中央通訊社",
-        "第一财经",
-        "澎湃新闻"
-      ],
-      "section": "tech",
-      "sourceCount": 3,
       "sources": []
     },
     {
