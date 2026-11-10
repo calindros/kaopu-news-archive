@@ -1,11 +1,103 @@
 {
   "details": {
     "date": "2026-11-10",
-    "timestamp": 1794346371,
+    "timestamp": 1794354140,
     "totalPages": 1,
-    "total": 265
+    "total": 266
   },
   "stories": [
+    {
+      "id": "ding-xiangli-china-hydropower-history-f0e198",
+      "title": "丁祥利梳理中国水电发展史与毛时代遗产",
+      "description": "环境史学者丁祥利在端传媒专访中回顾中国水电的发展，并讨论毛时代遗产与当代转向。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T23:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/ding-xiangli-china-hydropower-history-f0e198",
+      "reference": [
+        "端传媒"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-stocks-close-lower-nasdaq-falls-most-f2fbb4",
+      "title": "美国主要股指收跌纳指跌幅最大",
+      "description": "11月10日，美国主要股指收跌。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T22:32:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/us-stocks-close-lower-nasdaq-falls-most-f2fbb4",
+      "reference": [
+        "中央通訊社",
+        "法广"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "diplomacy-hopes-push-oil-prices-to-august-low-7302a0",
+      "title": "特朗普称无须再攻伊朗后油价下跌",
+      "description": "特朗普称无须再对伊朗发动攻击，战事降温预期推动原油遭抛售，技术因素加重跌势。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T22:00:48+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/diplomacy-hopes-push-oil-prices-to-august-low-7302a0",
+      "reference": [
+        "中央通訊社",
+        "法广"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "nassau-independent-voters-overtake-republicans-ea61e0",
+      "title": "纳苏郡独立选民首次超过共和党选民",
+      "description": "纽约州选举局最新选民登记数据显示，截至11月1日，纳苏郡独立选民约31万3876人，超过共和党选民的30万6837人，这是至少20年来首次。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T21:38:45+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/nassau-independent-voters-overtake-republicans-ea61e0",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "john-thune-reelected-senate-gop-leader-cdf9a0",
+      "title": "约翰·图恩连任美国参议院共和党领袖",
+      "description": "美国参议院共和党人当地时间11月10日选举领导层，约翰·图恩连任。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T21:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/john-thune-reelected-senate-gop-leader-cdf9a0",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
       "title": "黄仁勋承认婚外情后英伟达董事会启动调查",
@@ -25,6 +117,24 @@
       ],
       "section": "china",
       "sourceCount": 166,
+      "sources": []
+    },
+    {
+      "id": "bella-coola-grizzly-bears-killed-a85cb9",
+      "title": "贝拉库拉致命袭击涉事四头灰熊已被捕杀",
+      "description": "法医鉴定确认，一头母灰熊和它的三只幼崽参与了卑诗省贝拉库拉附近造成两名女性死亡的袭击，四头熊已被捕杀。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T21:06:37.016000+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/bella-coola-grizzly-bears-killed-a85cb9",
+      "reference": [
+        "加拿大国际广播电台"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1629,25 +1739,6 @@
       "sources": []
     },
     {
-      "id": "diplomacy-hopes-push-oil-prices-to-august-low-7302a0",
-      "title": "布伦特原油跌破每桶90美元关口",
-      "description": "国际油价走低，布伦特原油下跌3.1%至每桶89.66美元，自2026年8月以来首次跌破90美元；美国西德州中质原油下跌2.3%，报每桶84.86美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T10:02:14+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/diplomacy-hopes-push-oil-prices-to-august-low-7302a0",
-      "reference": [
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "tech-stocks-lift-south-korea-shares-1a98c0",
       "title": "科技股反弹带动亚洲多地股市收高",
       "description": "亚洲多地股市在科技股带动下收高，延续华尔街科技板块反弹势头。",
@@ -3137,25 +3228,6 @@
       "sources": []
     },
     {
-      "id": "us-uk-philippines-chinese-agent-allegations-a8e1a3",
-      "title": "美英菲多起涉华女性间谍疑案出现司法进展",
-      "description": "美国、英国和菲律宾近年接连出现涉及中国女性的疑似间谍或未登记代理人案件，进展包括美国起诉与审判、英国情报警告争议，以及菲律宾的刑事定罪。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T02:03:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/us-uk-philippines-chinese-agent-allegations-a8e1a3",
-      "reference": [
-        "中央通訊社",
-        "世界日报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "dai-beifang-hainan-prosecutors-file-bribery-case-021976",
       "title": "戴北方涉嫌受贿案被海南检方提起公诉",
       "description": "戴北方涉嫌受贿案近日由海南省人民检察院第一分院提起公诉，案件已提交海南省第一中级人民法院。",
@@ -3227,24 +3299,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "us-states-add-low-income-aca-subsidies-007414",
-      "title": "美国11州据报为低收入ACA投保者加补贴",
-      "description": "据世界日报援引CNBC报道，美国11个州决定动用州级资金，为低收入《平价医疗法》（ACA）投保者提供联邦补贴之外的额外保费援助。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T01:22:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/us-states-add-low-income-aca-subsidies-007414",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3506,25 +3560,6 @@
       ],
       "section": "china",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "democrats-win-migrants-return-us-border-c34aff",
-      "title": "中南美移民选后在墨西哥南部集结北上赴美",
-      "description": "美国期中选举后，一批来自多个国家的中南美洲移民于11月8日抵达墨西哥南部恰帕斯州，准备继续北上前往美国。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T13:19:43+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/democrats-win-migrants-return-us-border-c34aff",
-      "reference": [
-        "世界日报",
-        "公视"
-      ],
-      "section": "us",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -4838,24 +4873,6 @@
       "url": "https://kaopu.news/story/2026-11-02/wang-di-book-reexamines-paoge-origins-41c8d8",
       "reference": [
         "澎湃新闻"
-      ],
-      "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "you-can-see-everything-tops-box-office-ea4e06",
-      "title": "《你能看见一切》以1060万美元登顶北美票房",
-      "description": "纪录片《你能看见一切》在万圣节周末以1060万美元北美票房位居榜首。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-02T05:09:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/you-can-see-everything-tops-box-office-ea4e06",
-      "reference": [
-        "中央通訊社"
       ],
       "section": "culture",
       "sourceCount": 1,
