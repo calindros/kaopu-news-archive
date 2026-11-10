@@ -3,13 +3,75 @@
     "date": "2026-11-10",
     "timestamp": 1794310750,
     "totalPages": 1,
-    "total": 271
+    "total": 269
   },
   "stories": [
     {
+      "id": "space-computing-firm-launches-hefei-694716",
+      "title": "中科星云成立并启动太空算力计划",
+      "description": "中国科学院空天信息创新研究院与多家中国科技企业共同推出“星云星座计划”；中科星云太空智能科技（合肥）有限公司由16家发起主体共同设立。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T11:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/space-computing-firm-launches-hefei-694716",
+      "reference": [
+        "第一财经",
+        "财新",
+        "联合早报"
+      ],
+      "section": "tech",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "giant-pandas-debut-at-atlanta-zoo-f73467",
+      "title": "平平和福双在亚特兰大动物园首次向公众亮相",
+      "description": "大熊猫“平平”和“福双”于2026年11月6日在亚特兰大动物园翻新的亚瑟·布兰克大熊猫馆首次正式向公众亮相，动物园当天举行开馆仪式。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T11:19:39.643401+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/giant-pandas-debut-at-atlanta-zoo-f73467",
+      "reference": [
+        "世界日报",
+        "澎湃新闻",
+        "联合早报",
+        "第一财经"
+      ],
+      "section": "life",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "cop31-antalya-opens-global-stocktake-54a7c1",
+      "title": "COP31在安塔利亚开幕聚焦落实气候承诺",
+      "description": "联合国气候变化框架公约第三十一次缔约方大会（COP31）当地时间11月9日在土耳其安塔利亚开幕，会期至11月20日，来自190多个国家的代表将参加。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T11:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/cop31-antalya-opens-global-stocktake-54a7c1",
+      "reference": [
+        "澎湃新闻",
+        "公视",
+        "联合早报",
+        "SBS"
+      ],
+      "section": "world",
+      "sourceCount": 26,
+      "sources": []
+    },
+    {
       "id": "musk-trump-shenzhen-apec-summit-8ee9f5",
-      "title": "消息称马斯克将随特朗普赴深圳出席APEC峰会",
-      "description": "据《联合早报》援引《南华早报》及消息人士的报道，特斯拉和SpaceX首席执行官埃隆·马斯克、万事达卡首席执行官迈克尔·米巴赫预计将随美国总统唐纳德·特朗普前往深圳，参加11月18日至19日举行的亚太经合组织（APEC）峰会。",
+      "title": "消息称马斯克预计随特朗普赴深圳出席APEC峰会",
+      "description": "特朗普预计将出席定于11月18日至19日在深圳举行的亚太经合组织（APEC）经济领袖会议。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -26,9 +88,50 @@
       "sources": []
     },
     {
+      "id": "state-local-elections-shape-data-centers-70335c",
+      "title": "民主党赢得国会两院引发AI基建监管担忧",
+      "description": "美国民主党在11月3日中期选举中赢得国会参众两院，并在多州州长选举中获胜。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T10:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/state-local-elections-shape-data-centers-70335c",
+      "reference": [
+        "世界日报",
+        "第一财经",
+        "端传媒",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 25,
+      "sources": []
+    },
+    {
+      "id": "trump-questions-us-midterm-election-fairness-46b1df",
+      "title": "共和党失去两院控制后特朗普质疑选举公正性",
+      "description": "共和党在中期选举中失去国会参众两院控制权后，特朗普于11月9日在社交媒体质疑选举是否公正。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T10:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/trump-questions-us-midterm-election-fairness-46b1df",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
       "id": "najib-unpaid-fine-remains-prison-57954f",
-      "title": "吉隆坡高庭令纳吉居家服刑至2028年",
-      "description": "马来西亚吉隆坡高庭11月10日撤销此前针对前首相纳吉的庭令，改发新令，要求他即日起居家服刑至2028年8月23日。",
+      "title": "吉隆坡高庭下令纳吉居家服刑至2028年",
+      "description": "马来西亚吉隆坡高庭11月10日撤销此前发出的庭令，法官阿斯兰听取控辩双方陈词后，改令前首相纳吉在住所居家服刑，完成SRC国际公司案剩余刑期，期限至2028年8月23日。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -47,8 +150,8 @@
     },
     {
       "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "英伟达董事会调查黄仁勋是否成外国情报目标",
-      "description": "英伟达董事会11月8日宣布启动独立调查，核查首席执行官黄仁勋是否成为外国情报活动的目标及相关风险。",
+      "title": "英伟达董事会启动调查核实黄仁勋是否成为外国情报目标",
+      "description": "英伟达董事会11月8日宣布启动独立调查，审查首席执行官黄仁勋是否成为外国情报活动目标及相关情况。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -86,21 +189,39 @@
       "sources": []
     },
     {
-      "id": "space-computing-firm-launches-hefei-694716",
-      "title": "中科星云成立并启动太空算力产业化",
-      "description": "11月9日，中科星云太空智能科技（合肥）有限公司在合肥成立并投入运营；大会同时发布“星云星座计划”，承接“太空云”专项技术积累，推进太空算力产业化。",
+      "id": "gibran-tells-prabowo-he-plans-to-resign-76a178",
+      "title": "据路透社报道印尼副总统吉布兰表达辞职意愿",
+      "description": "据路透社报道，印尼总统发言人普拉塞蒂奥说，吉布兰在11月10日与总统普拉博沃会谈时表示，鉴于局势变化，他打算辞职。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-10T10:00:37.814981+00:00",
+      "updatedAt": "2026-11-10T10:04:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/space-computing-firm-launches-hefei-694716",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/gibran-tells-prabowo-he-plans-to-resign-76a178",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "chinese-motorcycle-brands-enter-mainstream-europe-d62547",
+      "title": "中国摩托车品牌加速进入欧洲主流市场",
+      "description": "中国摩托车品牌正凭借产品升级和品牌建设加快进入欧洲主流市场。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T10:03:37.814698+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/chinese-motorcycle-brands-enter-mainstream-europe-d62547",
       "reference": [
         "第一财经"
       ],
-      "section": "tech",
-      "sourceCount": 2,
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -121,6 +242,24 @@
       ],
       "section": "business",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "qixing-network-plans-almaden-control-d9a5b2",
+      "title": "骑形网络拟斥资6.8亿元入主亚玛顿",
+      "description": "亚玛顿科技与上海骑形网络签订股份转让协议，拟向后者转让亚玛顿3861.25万股，占公司总股本20%，每股作价17.61元，交易总价6.8亿元（含税）。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T09:58:35.987304+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/qixing-network-plans-almaden-control-d9a5b2",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -145,6 +284,24 @@
       "sources": []
     },
     {
+      "id": "tech-stocks-lift-south-korea-shares-1a98c0",
+      "title": "科技股提振韩国股市收盘大涨逾4%",
+      "description": "亚洲多地股市在美国科技股上涨、逢低买盘和油价下跌的带动下收高，韩国股市涨幅超过4%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T09:50:30+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/tech-stocks-lift-south-korea-shares-1a98c0",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "witkoff-norway-peace-proposal-talks-6bf424",
       "title": "俄美乌在阿布扎比重启面对面和平谈判",
       "description": "俄罗斯、乌克兰和美国代表团10日在阿联酋阿布扎比重启面对面和平磋商，讨论乌克兰问题的解决安排及战后欧洲安全架构。",
@@ -166,6 +323,24 @@
       "sources": []
     },
     {
+      "id": "waller-favors-december-fed-rate-hike-e52463",
+      "title": "沃勒倾向支持美联储12月加息25个基点",
+      "description": "美联储理事克里斯托弗·沃勒表示，即使10月CPI有所改善，他仍倾向于在12月议息会议支持加息25个基点；若10月核心CPI环比涨幅约为0.3%或更高，则应考虑加息50个基点。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T09:46:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/waller-favors-december-fed-rate-hike-e52463",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "us-midterm-election-congress-control-164251",
       "title": "美国中期选举民主党夺回国会两院控制权",
       "description": "美国民主党在2026年11月3日举行的中期选举中赢得国会参众两院多数，共和党失去两院控制权。",
@@ -184,6 +359,24 @@
       ],
       "section": "us",
       "sourceCount": 249,
+      "sources": []
+    },
+    {
+      "id": "taipei-fubon-seoul-branch-upgrade-application-ad9c76",
+      "title": "台湾金管会同意北富银申请首尔办事处升格分行",
+      "description": "台湾金融监督管理委员会11月10日同意台北富邦商业银行向韩国主管机关申请，将首尔代表人办事处升格为分行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T09:44:21+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/taipei-fubon-seoul-branch-upgrade-application-ad9c76",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -564,27 +757,6 @@
       ],
       "section": "asia",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "cop31-antalya-opens-global-stocktake-54a7c1",
-      "title": "COP31在安塔利亚开幕聚焦气候承诺落实",
-      "description": "第31届联合国气候变化大会（COP31）11月9日在土耳其南部城市安塔利亚开幕，会期至11月20日，来自190多个国家的代表参加。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T08:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/cop31-antalya-opens-global-stocktake-54a7c1",
-      "reference": [
-        "澎湃新闻",
-        "公视",
-        "联合早报",
-        "SBS"
-      ],
-      "section": "world",
-      "sourceCount": 24,
       "sources": []
     },
     {
@@ -1849,24 +2021,6 @@
       "sources": []
     },
     {
-      "id": "yang-chin-long-foreign-funds-outflow-10-billion-34d3ae",
-      "title": "杨金龙称11月外资汇出约100亿美元",
-      "description": "台湾中央银行总裁杨金龙在立法院答询时表示，11月以来约有100亿美元外资从台湾汇出，主要是将其在台湾取得的收益配置到国际市场。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T04:12:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/yang-chin-long-foreign-funds-outflow-10-billion-34d3ae",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-expands-eldercare-childcare-services-a7408f",
       "title": "中国国家发改委部署提升养老托育服务能力",
       "description": "中国国家发展改革委11月10日在“奋进‘十五五’”系列新闻发布会第四场介绍养老托育和银发经济部署，提出扩大服务供给、完善价格管理，并继续提升养老服务能力。",
@@ -1960,42 +2114,6 @@
       ],
       "section": "china",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "japan-household-spending-falls-6point8-percent-013710",
-      "title": "日本家庭9月实际消费支出同比下降6.8%",
-      "description": "日本总务省11月10日公布的家庭收支调查显示，两人以上家庭户均消费支出为28.9536万日元，扣除物价变动后同比下降6.8%，已连续10个月减少。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T03:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/japan-household-spending-falls-6point8-percent-013710",
-      "reference": [
-        "共同网"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "fed-officials-inflation-further-rate-hike-5f3a11",
-      "title": "美联储官员称通胀压力要求进一步加息",
-      "description": "多位美联储官员近日谈及通胀和利率路径，认为通胀压力尚未消退。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T03:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/fed-officials-inflation-further-rate-hike-5f3a11",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2612,25 +2730,6 @@
       "sources": []
     },
     {
-      "id": "trump-questions-us-midterm-election-fairness-46b1df",
-      "title": "特朗普发文质疑美国中期选举公正性",
-      "description": "特朗普在真实社群发文质疑美国中期选举是否公正，并追问民调与选举结果为何相差如此之大。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T18:04:15+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/trump-questions-us-midterm-election-fairness-46b1df",
-      "reference": [
-        "澎湃新闻",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "car-crashes-lafayette-park-sign-d3e43e",
       "title": "轿车冲上白宫旁拉法叶公园人行道撞上告示牌",
       "description": "据《纽约邮报》报道，一辆轿车周一驶上拉法叶公园北侧、面向白宫的人行道，撞上一块信息告示牌。",
@@ -2913,24 +3012,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-antidumping-cases-industry-harm-b9e8f9",
-      "title": "台湾经济部认定两案涉及台湾产业损害",
-      "description": "台湾经济部9日召开贸易救济审议会，审查韩国及中国大陆冷轧非取向电磁钢产品反倾销案，以及中国大陆特定铝箔反倾销税实施满五年后的日落调查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T13:20:39+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/taiwan-antidumping-cases-industry-harm-b9e8f9",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "democrats-win-migrants-return-us-border-c34aff",
       "title": "中南美移民选后在墨西哥南部集结北上赴美",
       "description": "美国期中选举后，一批来自多个国家的中南美洲移民于11月8日抵达墨西哥南部恰帕斯州，准备继续北上前往美国。",
@@ -3004,24 +3085,6 @@
       "sources": []
     },
     {
-      "id": "poland-f16-pilot-shortage-expansion-9d8f28",
-      "title": "波兰扩军被曝遭遇F-16飞行员短缺",
-      "description": "波兰军队被曝面临F-16飞行员短缺，首批韩国制K-2GF坦克也有较多车辆因故障停修。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T12:52:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/poland-f16-pilot-shortage-expansion-9d8f28",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "german-artists-reflect-wall-fall-unity-4f9319",
       "title": "三位德国创作者回望柏林墙倒塌37年后的统一经历",
       "description": "三位来自德国东部和西部的作家、艺术家，在柏林墙倒塌37年后回顾两德统一的个人经历，并谈及东西部差异、共同历史和年轻一代的关切。",
@@ -3058,24 +3121,6 @@
       ],
       "section": "us",
       "sourceCount": 24,
-      "sources": []
-    },
-    {
-      "id": "taiwan-bans-chinese-funded-yachts-d11299",
-      "title": "台湾航港局修规禁中资游艇来台违者最高罚30万元",
-      "description": "台湾交通部航港局近期修订游艇来台审批规定，新增禁止中资所属游艇来台的条款；违规者最高罚款30万元，并须立即离港。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T12:10:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/taiwan-bans-chinese-funded-yachts-d11299",
-      "reference": [
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3375,24 +3420,6 @@
       ],
       "section": "china",
       "sourceCount": 13,
-      "sources": []
-    },
-    {
-      "id": "fbi-yaroch-pleads-guilty-crypto-theft-1bc5bf",
-      "title": "前FBI探员亚罗奇承认盗取240万美元加密货币",
-      "description": "前美国联邦调查局（FBI）反情报督察探员帕特里克·亚罗奇11月5日在弗吉尼亚州亚历山大市联邦地方法院承认电信欺诈和洗钱罪。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T07:40:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/fbi-yaroch-pleads-guilty-crypto-theft-1bc5bf",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3777,24 +3804,6 @@
       "sources": []
     },
     {
-      "id": "private-channel-drug-scam-investigation-9a37b4",
-      "title": "调查揭示私域“神药”屡查屡犯的原因",
-      "description": "私域“神药”营销中，商家通过封闭社群、直播等渠道夸大产品功效，消费者维权则常遇到经营者难以查找、宣传证据难以留存等问题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T00:13:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/private-channel-drug-scam-investigation-9a37b4",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "cambridge-ai-bird-flu-vaccine-animal-trials-32824f",
       "title": "剑桥团队研发的广谱禽流感疫苗动物实验显效",
       "description": "剑桥大学团队利用人工智能设计的一款广谱禽流感候选疫苗，在小鼠和雪貂实验中对多种病毒变异株显示防护效果。",
@@ -3923,27 +3932,6 @@
       ],
       "section": "china",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "state-local-elections-shape-data-centers-70335c",
-      "title": "民主党拟掌控国会后收紧人工智能与数据中心监管",
-      "description": "美国民主党在中期选举中赢得国会两院多数后，计划于2027年1月掌控国会时推动一批针对人工智能系统和数据中心的新法案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T06:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/state-local-elections-shape-data-centers-70335c",
-      "reference": [
-        "世界日报",
-        "第一财经",
-        "端传媒",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 24,
       "sources": []
     },
     {
@@ -4127,25 +4115,6 @@
       ],
       "section": "sports",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-regulator-tackles-short-drama-vulgarity-homogeneity-b89abb",
-      "title": "广电总局开展两个月微短剧专项治理",
-      "description": "国家广播电视总局自11月1日起开展为期两个月的微短剧低俗化、同质化专项治理，行动持续至12月31日，目前正在进行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T05:21:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/china-regulator-tackles-short-drama-vulgarity-homogeneity-b89abb",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 2,
       "sources": []
     },
     {
