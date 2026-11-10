@@ -1,11 +1,74 @@
 {
   "details": {
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "timestamp": 1794267860,
     "totalPages": 1,
     "total": 270
   },
   "stories": [
+    {
+      "id": "massie-plans-impeachment-resolution-hegseth-1add74",
+      "title": "马西计划推动弹劾赫格塞斯",
+      "description": "美国肯塔基州共和党众议员托马斯·马西计划推动弹劾战争部长皮特·赫格塞斯。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T23:12:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/massie-plans-impeachment-resolution-hegseth-1add74",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "公视",
+        "朝鲜日报"
+      ],
+      "section": "us",
+      "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "paraguay-president-pena-resigns-f8e66e",
+      "title": "巴拉圭国会弹劾罢免总统培尼亚",
+      "description": "巴拉圭国会11月6日通过对总统圣地亚哥·培尼亚的弹劾案，解除其职务；副总统佩德罗·阿利亚纳宣誓接任，完成培尼亚剩余任期。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T23:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/paraguay-president-pena-resigns-f8e66e",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 21,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "英伟达董事会调查黄仁勋是否成为情报目标",
+      "description": "英伟达董事会已启动独立调查，核查首席执行官黄仁勋是否成为外国情报行动目标，以及相关国家安全和公司机密风险。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T23:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 103,
+      "sources": []
+    },
     {
       "id": "trump-democrats-undocumented-immigrants-legal-status-deal-b563be",
       "title": "特朗普承认移民执法过严损害共和党选情",
@@ -67,6 +130,24 @@
       ],
       "section": "world",
       "sourceCount": 18,
+      "sources": []
+    },
+    {
+      "id": "diplomacy-hopes-push-oil-prices-to-august-low-7302a0",
+      "title": "市场看好外交斡旋前景推动国际油价跌至8月来低点",
+      "description": "尽管中东地区战事仍在进行、攻击行动没有停止，市场仍看好外交斡旋结束战争的前景，推动国际油价跌至8月以来最低水平。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T21:37:46+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/diplomacy-hopes-push-oil-prices-to-august-low-7302a0",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -180,48 +261,6 @@
       ],
       "section": "world",
       "sourceCount": 26,
-      "sources": []
-    },
-    {
-      "id": "massie-plans-impeachment-resolution-hegseth-1add74",
-      "title": "梅西提交弹劾决议推动众院表决赫格塞思去留",
-      "description": "美国肯塔基州共和党籍众议员托马斯·梅西11月9日向众议院递交针对国防部长皮特·赫格塞思的弹劾决议，要求全院就弹劾案进行表决。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T20:42:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/massie-plans-impeachment-resolution-hegseth-1add74",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "公视",
-        "朝鲜日报"
-      ],
-      "section": "us",
-      "sourceCount": 11,
-      "sources": []
-    },
-    {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "英伟达董事会启动对黄仁勋的独立调查",
-      "description": "英伟达董事会已成立由独立董事组成的委员会，在外部法律顾问协助下调查首席执行官黄仁勋是否成为外国情报行动的目标，以及相关指控对公司和美国国家安全的影响。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T20:35:05+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 101,
       "sources": []
     },
     {
@@ -2600,27 +2639,6 @@
       "sources": []
     },
     {
-      "id": "paraguay-president-pena-resigns-f8e66e",
-      "title": "巴拉圭警方搜查前总统培尼亚住宅",
-      "description": "巴拉圭警方近日搜查前总统圣地亚哥·培尼亚位于亚松森郊外的住宅。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T04:32:06+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/paraguay-president-pena-resigns-f8e66e",
-      "reference": [
-        "澎湃新闻",
-        "法广",
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 20,
-      "sources": []
-    },
-    {
       "id": "taiwan-closes-papua-new-guinea-office-d9ac7d",
       "title": "台湾宣布关闭驻巴布亚新几内亚代表处",
       "description": "台湾外交部11月6日宣布，主动关闭驻巴布亚新几内亚代表处，撤回所有派驻人员并停止驻处业务。",
@@ -2937,24 +2955,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "spot-gold-breaks-4100-per-ounce-7de3a9",
-      "title": "现货黄金价格突破每盎司4100美元",
-      "description": "现货黄金价格于11月9日升至每盎司4100美元上方，当日涨幅为0.76%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T00:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/spot-gold-breaks-4100-per-ounce-7de3a9",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
