@@ -1,11 +1,347 @@
 {
   "details": {
     "date": "2026-11-11",
-    "timestamp": 1794378669,
+    "timestamp": 1794383021,
     "totalPages": 1,
-    "total": 265
+    "total": 262
   },
   "stories": [
+    {
+      "id": "state-local-elections-shape-data-centers-70335c",
+      "title": "美国中期选举后逾四成数据中心规划容量面临政策风险",
+      "description": "美国有九个州的州长现任者或候选人承诺暂停新建数据中心，或已采取暂停措施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T06:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/state-local-elections-shape-data-centers-70335c",
+      "reference": [
+        "世界日报",
+        "第一财经",
+        "端传媒",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 27,
+      "sources": []
+    },
+    {
+      "id": "us-labor-proposes-five-weekly-job-search-activities-31b8b2",
+      "title": "美国劳工部拟设失业金每周求职五项门槛",
+      "description": "美国劳工部提出失业保险求职新规草案，拟建立全国统一的最低标准：申领者每周须完成至少五项合格求职活动，或通过拟议积分制累计五分。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T06:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/us-labor-proposes-five-weekly-job-search-activities-31b8b2",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "south-korea-financial-security-hack-data-leak-a75c6b",
+      "title": "韩国金融安全院遭黑客攻击致员工信息外泄",
+      "description": "韩国金融安全院运营的信息保护常态化评估支持系统遭黑客攻击，金融公司员工个人信息外泄。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T06:09:22+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/south-korea-financial-security-hack-data-leak-a75c6b",
+      "reference": [
+        "韩国国际广播电台",
+        "韩民族日报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "cudahy-crowd-mistakes-police-ice-cars-damaged-e2dd6b",
+      "title": "库达海人群误认缉毒警为ICE并破坏警车",
+      "description": "芳塔那市警局便衣警员日前在洛杉矶县库达海一处住宅执行毒品搜索令时，被部分民众误认为是美国移民与海关执法局（ICE）人员，现场一度聚集近百人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/cudahy-crowd-mistakes-police-ice-cars-damaged-e2dd6b",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "federal-judge-orders-hernandez-release-3b1bea",
+      "title": "联邦法官下令释放遭ICE拘留的伯克利学生",
+      "description": "美国联邦地区法院法官科金斯11月9日下令，要求美国移民及海关执法局（ICE）立即释放加州大学伯克利分校学生埃尔南德斯。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/federal-judge-orders-hernandez-release-3b1bea",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "john-liu-proposes-regents-voucher-control-2a87b9",
+      "title": "刘醇逸提案将教育券参与决定权交给州教育理事会",
+      "description": "纽约州参议员刘醇逸近日提出提案，拟由州教育理事会按年度决定纽约州是否参加联邦教育券计划，并由该理事会认定哪些奖学金发放机构符合资格。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/john-liu-proposes-regents-voucher-control-2a87b9",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "noreaster-forecast-us-northeast-f0291d",
+      "title": "美东预报将受东北风暴影响并出现雨雪强风",
+      "description": "美国东北部及新英格兰本周后半段预计将受一场潜在东北风暴影响，带来大范围降雨、局部降雪和强风。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/noreaster-forecast-us-northeast-f0291d",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "bessent-reportedly-moves-military-base-over-iran-threat-939252",
+      "title": "纽约时报称贝森特因伊朗威胁迁居美军基地",
+      "description": "《纽约时报》援引两名知情人士称，美国财长斯科特·贝森特近期因伊朗人身威胁，从华盛顿住所迁至美军基地；威胁程度未明。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T05:57:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/bessent-reportedly-moves-military-base-over-iran-threat-939252",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "cop31-antalya-opens-global-stocktake-54a7c1",
+      "title": "COP31在土耳其安塔利亚开幕",
+      "description": "联合国气候变化框架公约第三十一次缔约方大会（COP31）于11月9日在土耳其安塔利亚开幕，会期至11月20日，来自190多个国家和地区的代表及国际组织、企业、科研机构和社会组织参与。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T05:51:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/cop31-antalya-opens-global-stocktake-54a7c1",
+      "reference": [
+        "澎湃新闻",
+        "公视",
+        "联合早报",
+        "SBS"
+      ],
+      "section": "world",
+      "sourceCount": 28,
+      "sources": []
+    },
+    {
+      "id": "irs-raises-2027-tax-deductions-credits-42de51",
+      "title": "美国国税局上调2027纳税年度多项税收额度",
+      "description": "美国国税局（IRS）11月5日公布2027纳税年度通胀调整方案，部分扣除额和税收抵免将提高，新额度适用于2028年提交的报税单。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T05:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/irs-raises-2027-tax-deductions-credits-42de51",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-tax-collection-law-draft-seeks-public-comment-5e1ffd",
+      "title": "税收征管法修订草案全文公开征求意见",
+      "description": "十四届全国人大常委会第二十五次会议完成对《税收征收管理法（修订草案）》的初次审议后，草案全文于11月6日公布，向社会征求意见，期限为30天。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T05:49:41.740257+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/china-tax-collection-law-draft-seeks-public-comment-5e1ffd",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "china",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "bloomberg-iran-produces-50-ballistic-missiles-monthly-95f48a",
+      "title": "彭博社称伊朗每月仍生产约50枚弹道导弹",
+      "description": "据彭博社报道，西方情报机构评估认为，伊朗经历数月空袭后，每月仍可生产约50枚弹道导弹，约为战前产能的一半。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T05:39:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/bloomberg-iran-produces-50-ballistic-missiles-monthly-95f48a",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "英伟达董事会聘律师调查黄仁勋涉外国情报疑云",
+      "description": "英伟达董事会已聘请外部法律顾问，调查首席执行官黄仁勋与Megaspeed前高管黄乐的关系，以及黄仁勋是否成为外国情报行动的目标。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T05:30:55+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 183,
+      "sources": []
+    },
+    {
+      "id": "tsmc-invests-up-to-billion-anthropic-openai-shares-0381fa",
+      "title": "台积电宣布最高10亿美元认购两家AI公司股份",
+      "description": "台积电董事会后宣布，将分别以最高5亿美元认购Anthropic普通股和OpenAI特别股，合计投资上限为10亿美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T05:28:43+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/tsmc-invests-up-to-billion-anthropic-openai-shares-0381fa",
+      "reference": [
+        "公视"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "fiona-ma-wins-california-lieutenant-governor-ed469f",
+      "title": "马世云击败罗梅洛当选加州副州长",
+      "description": "加州财务长马世云在11月3日的期中选举中击败共和党候选人罗梅洛，当选副州长，成为加州首位亚裔副州长。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T05:17:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/fiona-ma-wins-california-lieutenant-governor-ed469f",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tsmc-kumamoto-phase-two-3nm-process-42ae2c",
+      "title": "张晓强称台积电熊本二期将导入3纳米制程",
+      "description": "台积电资深副总经理张晓强11月11日在东京参加由日本经济新闻社组织的“世界经营者会议”时表示，台积电将扩大熊本生产基地，并在第二阶段引入3纳米制程。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T05:13:44+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/tsmc-kumamoto-phase-two-3nm-process-42ae2c",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "south-korea-chip-surge-nears-trillion-85d4f4",
+      "title": "韩国半导体出口激增推动累计出口逼近万亿美元",
+      "description": "韩国关税厅公布的初步统计显示，韩国11月1日至10日出口额为335亿美元，同比增加111.9%，创历年同期新高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T05:07:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/south-korea-chip-surge-nears-trillion-85d4f4",
+      "reference": [
+        "韩国国际广播电台"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-security-strategy-revision-framework-plan-c99be2",
+      "title": "共同社披露日本拟年内修订安保战略框架方案",
+      "description": "据共同社报道，日本政府计划年内修改《国家安全保障战略》的框架方案已曝光。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T05:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/japan-security-strategy-revision-framework-plan-c99be2",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "anthropic-withdraws-ipo-pricing-file-1ae025",
       "title": "Anthropic启动IPO路演估值最高达1.4万亿美元",
@@ -25,27 +361,6 @@
       ],
       "section": "ai",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "英伟达董事会启动调查黄仁勋涉谍疑云",
-      "description": "英伟达董事会已启动独立调查，核查黄仁勋是否成为外国情报行动的目标，以及美国国家安全或英伟达机密是否受到影响。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T04:54:38+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 180,
       "sources": []
     },
     {
@@ -130,6 +445,27 @@
       ],
       "section": "asia",
       "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "massie-plans-impeachment-resolution-hegseth-1add74",
+      "title": "美国众议院将赫格塞思弹劾案移交司法委员会",
+      "description": "美国众议院11月10日以211票赞成、204票反对通过程序性动议，将针对国防部长皮特·赫格塞思的弹劾决议交由众议院司法委员会审议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T04:48:15+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/massie-plans-impeachment-resolution-hegseth-1add74",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "公视",
+        "朝鲜日报"
+      ],
+      "section": "us",
+      "sourceCount": 31,
       "sources": []
     },
     {
@@ -397,27 +733,6 @@
       ],
       "section": "life",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "massie-plans-impeachment-resolution-hegseth-1add74",
-      "title": "美国众议院将赫格塞思弹劾案移交委员会",
-      "description": "美国众议院当地时间11月10日以211票赞成、204票反对，通过将针对国防部长皮特·赫格塞思的弹劾决议交由众议院司法委员会审议的程序性动议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T03:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/massie-plans-impeachment-resolution-hegseth-1add74",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "公视",
-        "朝鲜日报"
-      ],
-      "section": "us",
-      "sourceCount": 30,
       "sources": []
     },
     {
@@ -745,24 +1060,6 @@
       "sources": []
     },
     {
-      "id": "bessent-reportedly-moves-military-base-over-iran-threat-939252",
-      "title": "美财长贝森特被曝因伊朗威胁迁入军事基地居住",
-      "description": "美国财政部长贝森特近期被曝因受到来自伊朗的威胁，已离开住所，转至一处军事基地居住。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T01:45:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/bessent-reportedly-moves-military-base-over-iran-threat-939252",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-auto-exports-rise-october-0cec63",
       "title": "中国乘用车10月零售同比下降27.1%",
       "description": "中国乘用车市场10月零售明显下滑，出口保持快速增长。",
@@ -797,24 +1094,6 @@
         "联合早报"
       ],
       "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "south-korea-financial-security-hack-data-leak-a75c6b",
-      "title": "韩国金融安全院遭黑客攻击致部分信息外泄",
-      "description": "韩国金融安全院11月9日遭黑客攻击，信息保护常态化评估支持系统受到侵入。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T01:34:29+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/south-korea-financial-security-hack-data-leak-a75c6b",
-      "reference": [
-        "韩国国际广播电台"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -1362,24 +1641,6 @@
       "sources": []
     },
     {
-      "id": "john-liu-proposes-regents-voucher-control-2a87b9",
-      "title": "刘醇逸提案拟将教育券决定权交州教育理事会",
-      "description": "纽约州参议员刘醇逸近日提出议案，建议纽约是否参加特朗普政府的联邦教育券计划，由州教育理事会按年度审议，而非由州长主导。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T20:49:35+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/john-liu-proposes-regents-voucher-control-2a87b9",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "google-k12-search-ai-default-b4bfee",
       "title": "谷歌将K-12学校搜索默认设为AI版本",
       "description": "谷歌计划自2027年1月起，将面向K-12学校的搜索服务默认设为整合人工智能（AI）的Guided Learning版本。",
@@ -1599,24 +1860,6 @@
         "澎湃新闻"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-labor-proposes-five-weekly-job-search-activities-31b8b2",
-      "title": "美国劳工部拟要求失业者每周完成五项求职活动",
-      "description": "美国劳工部提出失业保险规则草案，拟要求申领者每周完成至少五项合格求职活动，并在领取当周给付前向州政府申报记录。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T15:38:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/us-labor-proposes-five-weekly-job-search-activities-31b8b2",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -2325,24 +2568,6 @@
       "sources": []
     },
     {
-      "id": "british-royal-navy-forms-first-uncrewed-squadron-ea2721",
-      "title": "英国皇家海军成立首支无人艇中队",
-      "description": "英国皇家海军已组建史上首支无人艇中队。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T11:39:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/british-royal-navy-forms-first-uncrewed-squadron-ea2721",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "developers-retool-for-completed-home-sales-0e0d80",
       "title": "房企重排全链条经营流程适应现房销售",
       "description": "在“828新政”推动房地产从预售转向现房销售后，多家房企正在调整客户研究、产品设计、施工、营销和社区运营等环节，销售越来越依赖建成后的实景和交付品质。",
@@ -2479,63 +2704,6 @@
       "sources": []
     },
     {
-      "id": "cop31-antalya-opens-global-stocktake-54a7c1",
-      "title": "COP31在安塔利亚开幕聚焦落实气候承诺",
-      "description": "联合国气候变化框架公约第三十一次缔约方大会（COP31）当地时间11月9日在土耳其安塔利亚开幕，会期至11月20日，来自190多个国家的代表将参加。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T11:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/cop31-antalya-opens-global-stocktake-54a7c1",
-      "reference": [
-        "澎湃新闻",
-        "公视",
-        "联合早报",
-        "SBS"
-      ],
-      "section": "world",
-      "sourceCount": 26,
-      "sources": []
-    },
-    {
-      "id": "singapore-launches-asia-climate-resilience-plan-bd60b1",
-      "title": "新加坡推出五亿美元亚洲气候韧性计划",
-      "description": "11月10日，第31届联合国气候变化大会（COP31）新加坡馆开幕。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T11:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/singapore-launches-asia-climate-resilience-plan-bd60b1",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "myanmar-junta-urges-us-investment-challenge-china-995346",
-      "title": "缅甸军政府敦促美国加快稀土投资抗衡中国",
-      "description": "缅甸军政府敦促美国加快恢复与缅甸的接触，并扩大对当地稀土产业的投资，以挑战中国在稀土领域的主导地位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T10:57:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/myanmar-junta-urges-us-investment-challenge-china-995346",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "changsha-inspects-pharmacies-mcn-agencies-79aaa5",
       "title": "长沙三部门连夜检查涉事药店及MCN机构",
       "description": "总台11月9日披露，部分MCN机构与线下药房借私域社群诱导老人高价购药。",
@@ -2551,27 +2719,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "state-local-elections-shape-data-centers-70335c",
-      "title": "民主党赢得国会两院引发AI基建监管担忧",
-      "description": "美国民主党在11月3日中期选举中赢得国会参众两院，并在多州州长选举中获胜。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T10:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/state-local-elections-shape-data-centers-70335c",
-      "reference": [
-        "世界日报",
-        "第一财经",
-        "端传媒",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 25,
       "sources": []
     },
     {
@@ -2687,27 +2834,6 @@
       "sources": []
     },
     {
-      "id": "japan-vietnam-plan-energy-cooperation-49eaec",
-      "title": "高市早苗与苏林发布日越共同愿景声明",
-      "description": "日本首相高市早苗与越共中央总书记、国家主席苏林11月9日在东京迎宾馆举行约50分钟会谈，会后发布《日本—越南共同愿景声明》，确定推进安全、能源和经济等领域合作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T09:14:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/japan-vietnam-plan-energy-cooperation-49eaec",
-      "reference": [
-        "共同网",
-        "日本放送协会",
-        "联合早报",
-        "日经"
-      ],
-      "section": "asia",
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
       "id": "ecommerce-platforms-free-shipping-singapore-market-3f91b9",
       "title": "海外电商以低价包邮争夺新加坡市场",
       "description": "海外电商平台正以“一件包邮”等优惠争夺新加坡市场。",
@@ -2758,42 +2884,6 @@
         "澎湃新闻"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "cho-jung-tai-flagged-account-relief-mechanism-22a811",
-      "title": "台湾行政院长卓荣泰将推动建立误列警示账户解除机制",
-      "description": "台湾行政院长卓荣泰表示，将请政务委员林明昕召集法务部、内政部、金管会和财政部，建立协助善意第三人解除警示账户的机制，并为解除警示设定期限。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T08:28:34+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/cho-jung-tai-flagged-account-relief-mechanism-22a811",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-nuclear-policy-referendum-election-eeb5f0",
-      "title": "台湾九合一选举将举行废除非核家园公投",
-      "description": "台湾定于2026年11月28日举行九合一选举，并在投票日同步举行由国民党立法院党团提出的“废除非核家园”公投。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T08:19:24+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/taiwan-nuclear-policy-referendum-election-eeb5f0",
-      "reference": [
-        "公视"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -3135,60 +3225,6 @@
       "sources": []
     },
     {
-      "id": "brian-chesky-pledges-100-million-san-francisco-parks-7ddeb8",
-      "title": "切斯基承诺捐赠1亿美元改善旧金山公园",
-      "description": "旧金山市政府9日宣布，Airbnb共同创办人兼首席执行官布莱恩·切斯基承诺捐赠1亿美元，用于改善市内公园。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T06:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/brian-chesky-pledges-100-million-san-francisco-parks-7ddeb8",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "oakland-chinatown-lincoln-square-center-rebuild-d7b489",
-      "title": "奥克兰唐人街林肯广场康乐中心启动防灾重建",
-      "description": "奥克兰市政府已启动唐人街林肯广场康乐中心重建，旧馆拆除工作从4日起展开。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T06:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/oakland-chinatown-lincoln-square-center-rebuild-d7b489",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "supreme-court-allows-big-bend-wall-506453",
-      "title": "美国最高法院准许德州大弯边境墙继续施工",
-      "description": "美国最高法院11月9日裁定，特朗普政府可以在诉讼期间继续推进德州大弯地区边境墙工程。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T06:17:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/supreme-court-allows-big-bend-wall-506453",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "irs-savers-match-notices-taxpayers-38c9b4",
       "title": "美国国税局寄信提示部分纳税人可能符合退休补助资格",
       "description": "美国国税局近日向部分纳税人寄发通知，根据收件人以往的联邦报税资料，提示他们可能符合2027年启动的Saver’s Match退休储蓄配比补助条件，并鼓励提前规划储蓄。",
@@ -3203,42 +3239,6 @@
         "世界日报"
       ],
       "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "ice-detains-elderly-man-school-fears-de4575",
-      "title": "ICE在小学外拘留男子引发家长恐惧",
-      "description": "11月4日上午，莫瑞诺谷桑尼米德小学外发生一起拘留事件：据《世界日报》援引ABC7报道，ICE人员在学生陆续到校时拘留了一名年长男子。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T06:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/ice-detains-elderly-man-school-fears-de4575",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "noreaster-forecast-us-northeast-f0291d",
-      "title": "纽约邮报称东北风暴或给美国东北部带来雨雪",
-      "description": "《纽约邮报》报道称，气象预报显示，一场潜在的东北风暴可能于11月12日至14日影响美国东北部和新英格兰，带来降雨、局部降雪和强风。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T06:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/noreaster-forecast-us-northeast-f0291d",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 2,
       "sources": []
     },
@@ -3726,24 +3726,6 @@
       "sources": []
     },
     {
-      "id": "cui-xianfeng-beijing-church-fraud-arrest-db2f4d",
-      "title": "德媒称佳全教会创始人崔献峰涉诈骗被捕",
-      "description": "德国之声援引美联社报道，北京佳全教会创办人崔献峰于10月23日被捕。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T15:07:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/cui-xianfeng-beijing-church-fraud-arrest-db2f4d",
-      "reference": [
-        "德国之声"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "ji-yongzhi-veteran-dies-aged-109-7cf883",
       "title": "澎湃新闻称抗日女战士嵇永智逝世，享年109岁",
       "description": "澎湃新闻援引相关方面消息称，抗日女战士、黄埔老兵嵇永智于2026年11月8日因病去世，享年109岁。",
@@ -4088,25 +4070,6 @@
       "sources": []
     },
     {
-      "id": "menlo-report-chinese-models-us-open-source-spending-507776",
-      "title": "中国模型占美国企业开源AI支出89%",
-      "description": "Menlo Ventures于当地时间11月4日发布的《2026企业AI现状》报告显示，美国企业用于开源AI模型的支出中，89%流向中国模型。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T01:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/menlo-report-chinese-models-us-open-source-spending-507776",
-      "reference": [
-        "澎湃新闻",
-        "朝鲜日报"
-      ],
-      "section": "ai",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "dakar-youth-olympics-debut-africa-5ae7d8",
       "title": "达卡青年奥运会开赛成为非洲首场奥运赛事",
       "description": "塞内加尔首都达卡的2026年青年奥林匹克运动会已经开赛，成为首次在非洲举办的奥运赛事。",
@@ -4342,24 +4305,6 @@
         "联合早报"
       ],
       "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "xuwei-chilong-one-reactor-concrete-poured-9d156e",
-      "title": "徐圩“炽龙一号”核岛完成首罐混凝土浇筑",
-      "description": "江苏徐圩核能供热发电厂“炽龙一号”高温气冷堆核岛于11月6日浇筑第一罐混凝土，3号机组核岛施工正在推进。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T10:46:34.650687+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/xuwei-chilong-one-reactor-concrete-poured-9d156e",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "tech",
       "sourceCount": 1,
       "sources": []
     },
