@@ -1,11 +1,95 @@
 {
   "details": {
     "date": "2026-11-11",
-    "timestamp": 1794354140,
+    "timestamp": 1794360675,
     "totalPages": 1,
-    "total": 266
+    "total": 265
   },
   "stories": [
+    {
+      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "title": "美中俄据报磋商深圳APEC三方会晤安排",
+      "description": "中国、美国和俄罗斯正就习近平、特朗普与普京在深圳APEC期间举行三方会晤保持沟通，但会晤尚未正式确认，议程和会谈方式仍有分歧。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T00:19:19+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "日经",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 22,
+      "sources": []
+    },
+    {
+      "id": "taiyuan-apartment-fire-kills-five-e019b6",
+      "title": "太原豪生国际公寓火灾造成14人遇难",
+      "description": "山西太原迎泽区柳巷街道豪生国际公寓11月8日发生火灾，造成14人遇难、25人受伤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T00:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-08",
+      "url": "https://kaopu.news/story/2026-11-08/taiyuan-apartment-fire-kills-five-e019b6",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 13,
+      "sources": []
+    },
+    {
+      "id": "massie-plans-impeachment-resolution-hegseth-1add74",
+      "title": "美国众议院移交赫格塞思弹劾案使弹劾行动受阻",
+      "description": "美国众议院11月10日以211票赞成、204票反对，通过将共和党众议员托马斯·马西提出的弹劾战争部长皮特·赫格塞思决议移交司法委员会审议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T00:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/massie-plans-impeachment-resolution-hegseth-1add74",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "公视",
+        "朝鲜日报"
+      ],
+      "section": "us",
+      "sourceCount": 26,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "英伟达聘律所调查黄仁勋相关安全风险",
+      "description": "英伟达11月10日宣布，聘请沃奇尔·立普顿律师事务所主导独立调查，核查黄仁勋是否成为外国情报活动的目标，以及相关事件是否带来安全风险。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T23:58:51+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 167,
+      "sources": []
+    },
     {
       "id": "wangyi-urges-france-boost-eu-trade-046572",
       "title": "王毅与法国外长通话讨论中欧合作",
@@ -62,6 +146,24 @@
       ],
       "section": "us",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "schumer-urges-china-ai-chip-controls-325a10",
+      "title": "舒默促国会立法收紧中国获取先进AI芯片限制",
+      "description": "美国参议院民主党领袖舒默于11月10日敦促国会通过多项法案，进一步限制中国获取先进人工智能芯片。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T23:42:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/schumer-urges-china-ai-chip-controls-325a10",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -174,27 +276,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "黄仁勋承认婚外情后英伟达董事会启动调查",
-      "description": "英伟达首席执行官黄仁勋承认对妻子不忠后，公司董事会启动独立调查，以查明他是否成为外国情报活动的目标。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T21:11:12+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 166,
       "sources": []
     },
     {
@@ -421,27 +502,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "massie-plans-impeachment-resolution-hegseth-1add74",
-      "title": "马西提交八项弹劾条款指控赫格塞思",
-      "description": "肯塔基州共和党众议员托马斯·马西于11月9日向美国众议院提交针对国防部长皮特·赫格塞思的八项弹劾条款，指控他滥用职权、未经国会授权对伊朗采取军事行动，并违反《战争权力决议》。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T16:59:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/massie-plans-impeachment-resolution-hegseth-1add74",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "公视",
-        "朝鲜日报"
-      ],
-      "section": "us",
-      "sourceCount": 22,
       "sources": []
     },
     {
@@ -892,27 +952,6 @@
       ],
       "section": "life",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "taiyuan-apartment-fire-kills-five-e019b6",
-      "title": "太原豪生国际公寓火灾造成14人死亡",
-      "description": "山西太原迎泽区柳巷街道豪生国际公寓11月8日发生火灾，造成14人死亡，另有25人在医院接受治疗。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T13:18:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/taiyuan-apartment-fire-kills-five-e019b6",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 11,
       "sources": []
     },
     {
@@ -2003,27 +2042,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "title": "中方称正沟通中美俄元首会晤安排",
-      "description": "中国外交部10日表示，中方正与相关方就中、美、俄领导人会晤安排保持沟通，但目前没有可提供的具体信息。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T08:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "reference": [
-        "韩国国际广播电台",
-        "联合早报",
-        "日经",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 21,
       "sources": []
     },
     {
@@ -3251,24 +3269,6 @@
       "sources": []
     },
     {
-      "id": "zohran-mamdani-funds-nyc-winter-response-bd1152",
-      "title": "曼达尼宣布投入2500万元强化纽约冬季应急",
-      "description": "纽约市长曼达尼9日宣布，市府将投入2500万元扩大严寒应急计划“蓝色警报”，根据寒冷程度和持续时间安排应对资源。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T01:49:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/zohran-mamdani-funds-nyc-winter-response-bd1152",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "shih-chung-liang-warns-welfare-law-premium-pressure-97252c",
       "title": "台湾行政院拒绝副署老人福利法修正案",
       "description": "台湾行政院11月6日决定不副署立法院通过的《老人福利法》第22条修正案。",
@@ -4091,24 +4091,6 @@
       "url": "https://kaopu.news/story/2026-11-08/anthropic-generator-purchase-deal-8819c8",
       "reference": [
         "中央通訊社"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "eu-finds-tiktok-recommendation-system-violates-dsa-c73274",
-      "title": "欧盟初步认定TikTok推荐机制违反数字服务法案",
-      "description": "欧盟委员会当地时间11月6日初步认定，TikTok推荐机制违反《数字服务法案》。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-08T09:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-08",
-      "url": "https://kaopu.news/story/2026-11-08/eu-finds-tiktok-recommendation-system-violates-dsa-c73274",
-      "reference": [
-        "财新"
       ],
       "section": "ai",
       "sourceCount": 1,
