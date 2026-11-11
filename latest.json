@@ -1,15 +1,113 @@
 {
   "details": {
     "date": "2026-11-11",
-    "timestamp": 1794368453,
+    "timestamp": 1794374215,
     "totalPages": 1,
-    "total": 265
+    "total": 266
   },
   "stories": [
     {
+      "id": "hong-kong-clears-alibaba-t-head-listing-214985",
+      "title": "阿里巴巴拟分拆平头哥赴港独立上市",
+      "description": "阿里巴巴11月10日晚间宣布，拟分拆旗下芯片公司平头哥，在香港联交所主板独立上市。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T04:08:39.976012+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/hong-kong-clears-alibaba-t-head-listing-214985",
+      "reference": [
+        "联合早报",
+        "第一财经",
+        "日经",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "huawei-announces-osta-subbrand-0cb676",
+      "title": "余承东宣布华为将推出OSTA星芒子品牌",
+      "description": "余承东在社交媒体宣布，华为将推出名为OSTA星芒的全新子品牌。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T04:04:39.977268+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/huawei-announces-osta-subbrand-0cb676",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "英伟达启动独立调查黄仁勋与涉谍高管关系",
+      "description": "英伟达此前宣布，对首席执行官黄仁勋与Megaspeed前高管黄乐的关系展开独立调查，调查由公司独立董事监督，并由外部独立法律顾问协助。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T04:03:01+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 178,
+      "sources": []
+    },
+    {
+      "id": "sinopac-bank-hackers-exploit-security-flaw-b45148",
+      "title": "永丰银行遭骇客利用供应商安全漏洞发生异常转账",
+      "description": "台湾永丰银行11月3日发生多名客户账户异常转账，骇客利用供应商安全设置漏洞实施攻击，台湾金融监督管理委员会当天收到该行重大偶发事件通报。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T03:34:22+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/sinopac-bank-hackers-exploit-security-flaw-b45148",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-insurance-releases-medical-clauses-drug-list-bbcc43",
+      "title": "中保协发布商保示范条款和58款药械清单",
+      "description": "中国保险行业协会11月10日发布短期一般商业医疗保险、长期一般商业医疗保险和城市定制型商业医疗保险三类示范条款，并公布首版商业健康保险药品保障推荐清单。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T03:27:41.110746+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/china-insurance-releases-medical-clauses-drug-list-bbcc43",
+      "reference": [
+        "财新",
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "life",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
       "id": "massie-plans-impeachment-resolution-hegseth-1add74",
-      "title": "美国众议院移交赫格塞思弹劾案使程序停摆",
-      "description": "美国众议院当地时间11月10日以211票赞成、204票反对通过程序性动议，将针对国防部长皮特·赫格塞思的弹劾决议移交司法委员会审议。",
+      "title": "美国众议院将赫格塞思弹劾案移交委员会",
+      "description": "美国众议院当地时间11月10日以211票赞成、204票反对，通过将针对国防部长皮特·赫格塞思的弹劾决议交由众议院司法委员会审议的程序性动议。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -24,7 +122,7 @@
         "朝鲜日报"
       ],
       "section": "us",
-      "sourceCount": 29,
+      "sourceCount": 30,
       "sources": []
     },
     {
@@ -162,24 +260,21 @@
       "sources": []
     },
     {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "英伟达董事会启动独立调查黄仁勋",
-      "description": "英伟达董事会已启动对首席执行官黄仁勋的独立调查，调查将由董事会独立董事组成的委员会监督，并由外部独立法律顾问协助。",
+      "id": "leo-xiv-urges-faithful-keep-zeal-947e67",
+      "title": "教宗良十四世术后劝人不因病痛失去热忱",
+      "description": "教宗良十四世在拉美访问期间在哥多华向天主教神职人员发表演说，表示年龄增长或身体受限不应使人失去热忱，并告诫人们不要沉迷名利、外貌和享乐。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-11T02:41:36+00:00",
+      "updatedAt": "2026-11-11T02:32:08+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/leo-xiv-urges-faithful-keep-zeal-947e67",
       "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
+        "法广"
       ],
-      "section": "china",
-      "sourceCount": 172,
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -217,6 +312,24 @@
         "联合早报"
       ],
       "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "taiwan-us-double-tax-bill-passage-619794",
+      "title": "台湾争取美会期结束前通过避免双重课税法案",
+      "description": "台湾财政部长庄翠云11日在台湾立法院表示，驻美代表处希望在2026年12月20日前推动美国参议院通过台美避免双重课税法案，并正寻找可供参众两院共同通过的立法载体。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T02:25:18+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/taiwan-us-double-tax-bill-passage-619794",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
       "sourceCount": 2,
       "sources": []
     },
@@ -298,26 +411,6 @@
       ],
       "section": "world",
       "sourceCount": 89,
-      "sources": []
-    },
-    {
-      "id": "hong-kong-clears-alibaba-t-head-listing-214985",
-      "title": "阿里巴巴宣布平头哥获准推进香港独立上市",
-      "description": "阿里巴巴11月10日宣布，香港联交所已确认旗下芯片子公司平头哥可推进在主板独立上市。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T02:01:15+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/hong-kong-clears-alibaba-t-head-listing-214985",
-      "reference": [
-        "联合早报",
-        "第一财经",
-        "日经"
-      ],
-      "section": "business",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -470,6 +563,25 @@
       ],
       "section": "asia",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "uk-police-arrest-us-soldier-russia-spying-67e111",
+      "title": "美军士兵涉嫌为俄从事间谍活动在英国被捕",
+      "description": "英国警方11月10日在英格兰西部格洛斯特附近逮捕一名41岁美国陆军士兵，怀疑其为俄罗斯从事间谍活动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T01:32:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/uk-police-arrest-us-soldier-russia-spying-67e111",
+      "reference": [
+        "联合早报",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -770,24 +882,6 @@
         "中央通訊社"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "uk-police-arrest-us-soldier-russia-spying-67e111",
-      "title": "英国警方逮捕涉嫌协助俄情报机构的美军士兵",
-      "description": "英国警方11月10日在英格兰西部格罗斯特附近逮捕一名41岁的美国陆军士兵，指其涉嫌协助俄罗斯情报机构。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T00:48:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/uk-police-arrest-us-soldier-russia-spying-67e111",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -1893,25 +1987,6 @@
       "sources": []
     },
     {
-      "id": "china-insurance-releases-medical-clauses-drug-list-bbcc43",
-      "title": "中保协发布商保医疗险示范条款及药品清单",
-      "description": "中国保险行业协会发布短期、长期一般商业医疗保险和城市定制型商业医疗保险三类示范条款，并推出首版商保药品推荐清单。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T12:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/china-insurance-releases-medical-clauses-drug-list-bbcc43",
-      "reference": [
-        "财新",
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "lenovo-zhangjiakou-token-factory-launch-01d78e",
       "title": "联想在张家口落地首个词元工厂母本",
       "description": "联想集团11月10日在张家口启动万全混合词元工厂的首个母本项目，尝试把算力资源转化为按使用量计量、能够交付的词元服务，而不只提供机柜或计算能力。",
@@ -2627,24 +2702,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-us-double-tax-bill-passage-619794",
-      "title": "台湾外交部力争台美避免双重课税法案会期前通过",
-      "description": "台湾立法院就台美避免双重课税法案在美国国会的推进情况提出质询。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T08:11:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/taiwan-us-double-tax-bill-passage-619794",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "macau-court-sentences-au-kam-san-fd966e",
       "title": "澳门法院判前议员区锦新有期徒刑12年半",
       "description": "澳门初级法院11月6日判处前立法会议员区锦新有期徒刑12年6个月。",
@@ -2826,26 +2883,6 @@
       ],
       "section": "tech",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "lee-yong-cheol-justice-minister-nominee-1f3421",
-      "title": "李镕喆农地集装箱申报遭质疑筹备团称已申报",
-      "description": "韩国总统李在明于11月6日提名时任防卫事业厅厅长李镕喆为法务部长官候选人后，国民力量党议员朱晋佑质疑他在京畿道广州市农地上放置集装箱，并将该设施不实申报为“动植物相关设施”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T06:56:54+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/lee-yong-cheol-justice-minister-nominee-1f3421",
-      "reference": [
-        "东亚日报",
-        "朝鲜日报",
-        "韩国国际广播电台"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -4425,24 +4462,6 @@
         "澎湃新闻"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "grab-punggol-autonomous-car-nearly-hits-girl-90abe5",
-      "title": "Grab自动驾驶车左转险撞榜鹅女童",
-      "description": "一辆Grab自动驾驶车11月5日上午在新加坡榜鹅场径一处路口左转时，险些撞上一名准备过街的女童。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T03:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/grab-punggol-autonomous-car-nearly-hits-girl-90abe5",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "tech",
       "sourceCount": 1,
       "sources": []
     },
