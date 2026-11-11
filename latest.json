@@ -1,11 +1,68 @@
 {
   "details": {
     "date": "2026-11-11",
-    "timestamp": 1794383021,
+    "timestamp": 1794386611,
     "totalPages": 1,
     "total": 262
   },
   "stories": [
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "英伟达董事会聘外部律师调查黄仁勋是否成为外国情报行动目标",
+      "description": "英伟达董事会已聘请外部法律顾问，对首席执行官黄仁勋与黄乐的关系及相关间谍疑虑展开独立调查，审查所有可获得的信息。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T07:38:47+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 186,
+      "sources": []
+    },
+    {
+      "id": "new-york-drops-regents-graduation-exam-requirement-e2ba7d",
+      "title": "纽约州将取消州会考及格作为高中毕业门槛",
+      "description": "纽约州将从2027至2028学年起取消州会考及格作为高中毕业条件，改以六项能力标准作为毕业依据。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T06:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/new-york-drops-regents-graduation-exam-requirement-e2ba7d",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "mamdani-signs-community-purchase-law-ef58c7",
+      "title": "纽约市长曼达尼签署社区购买机会法",
+      "description": "纽约市长曼达尼于11月10日签署《社区购买机会法》（COPA）。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T06:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/mamdani-signs-community-purchase-law-ef58c7",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
     {
       "id": "state-local-elections-shape-data-centers-70335c",
       "title": "美国中期选举后逾四成数据中心规划容量面临政策风险",
@@ -25,6 +82,62 @@
       ],
       "section": "world",
       "sourceCount": 27,
+      "sources": []
+    },
+    {
+      "id": "jim-jordan-elected-house-republican-leader-23ff2f",
+      "title": "乔丹当选美国众议院共和党少数党领袖",
+      "description": "美国众议院共和党人11月10日举行无记名投票，选出俄亥俄州众议员吉姆·乔丹担任新一届国会共和党少数党领袖。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T06:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/jim-jordan-elected-house-republican-leader-23ff2f",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "boebert-trails-laubacher-colorado-house-race-bac7c2",
+      "title": "CNN预测劳巴赫赢得科州第四选区席位",
+      "description": "民主党挑战者艾琳·劳巴赫在科罗拉多州联邦众议院第四选区选举中领先共和党现任议员萝伦·布波特。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T06:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/boebert-trails-laubacher-colorado-house-race-bac7c2",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "google-k12-search-ai-default-b4bfee",
+      "title": "谷歌明年起将AI版搜索设为K-12学校默认项",
+      "description": "谷歌计划从2027年1月起，将面向美国K-12学校的搜索默认设为AI产品Guided Learning。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T06:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/google-k12-search-ai-default-b4bfee",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -62,6 +175,26 @@
       ],
       "section": "asia",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "uk-police-arrest-us-soldier-russia-spying-67e111",
+      "title": "英国警方逮捕涉嫌协助俄情报机构的美军军官",
+      "description": "英国警方11月10日在英格兰格洛斯特附近逮捕一名41岁的美国陆军高级军官，指其涉嫌协助俄罗斯情报机构，并擅自提供受保护的敏感信息。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T06:03:53+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/uk-police-arrest-us-soldier-russia-spying-67e111",
+      "reference": [
+        "联合早报",
+        "法广",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -177,6 +310,24 @@
       "sources": []
     },
     {
+      "id": "kuomintang-launches-nuclear-referendum-website-b8b317",
+      "title": "台湾环保团体批国民党核电宣传误导并呼吁投不同意票",
+      "description": "台湾环保团体在重启核电公投首场辩论前，高喊口号，批评台湾国民党宣传中的“有核电才有AI”“核电是国际趋势”“核电等于绿电”等说法误导公众，并呼吁选民投下不同意票。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-11T05:50:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/kuomintang-launches-nuclear-referendum-website-b8b317",
+      "reference": [
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "irs-raises-2027-tax-deductions-credits-42de51",
       "title": "美国国税局上调2027纳税年度多项税收额度",
       "description": "美国国税局（IRS）11月5日公布2027纳税年度通胀调整方案，部分扣除额和税收抵免将提高，新额度适用于2028年提交的报税单。",
@@ -229,27 +380,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "英伟达董事会聘律师调查黄仁勋涉外国情报疑云",
-      "description": "英伟达董事会已聘请外部法律顾问，调查首席执行官黄仁勋与Megaspeed前高管黄乐的关系，以及黄仁勋是否成为外国情报行动的目标。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T05:30:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 183,
       "sources": []
     },
     {
@@ -466,27 +596,6 @@
       ],
       "section": "us",
       "sourceCount": 31,
-      "sources": []
-    },
-    {
-      "id": "schumer-urges-china-ai-chip-controls-325a10",
-      "title": "黄仁勋风波推高美国三项芯片管制法案通过率",
-      "description": "黄仁勋承认婚外情、相关对象黄乐被指疑似与中国情报活动有关后，美国国会两党要求加强对华先进芯片出口管制的声音增多。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T04:46:27+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/schumer-urges-china-ai-chip-controls-325a10",
-      "reference": [
-        "联合早报",
-        "朝鲜日报",
-        "韩民族日报",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -1098,25 +1207,6 @@
       "sources": []
     },
     {
-      "id": "uk-police-arrest-us-soldier-russia-spying-67e111",
-      "title": "美军士兵涉嫌为俄从事间谍活动在英国被捕",
-      "description": "英国警方11月10日在英格兰西部格洛斯特附近逮捕一名41岁美国陆军士兵，怀疑其为俄罗斯从事间谍活动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T01:32:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/uk-police-arrest-us-soldier-russia-spying-67e111",
-      "reference": [
-        "联合早报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "trump-invites-dana-white-white-house-press-secretary-d21b67",
       "title": "UFC总裁怀特当面拒绝特朗普邀任白宫新闻秘书",
       "description": "美国UFC总裁兼首席执行官达纳·怀特11月9日到访白宫，与美国总统唐纳德·特朗普共同出席记者会。",
@@ -1529,26 +1619,6 @@
       "sources": []
     },
     {
-      "id": "jim-jordan-elected-house-republican-leader-23ff2f",
-      "title": "乔丹当选下一届众议院共和党领袖",
-      "description": "美国众议院共和党人11月10日投票选出俄亥俄州众议员吉姆·乔丹担任下一届国会共和党领袖。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T23:43:42+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/jim-jordan-elected-house-republican-leader-23ff2f",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "miit-approves-ten-firms-700-number-trial-9a832d",
       "title": "工信部批准10家企业试点700号码保护服务",
       "description": "中国工业和信息化部11月10日公布，已批准10家企业开展号码保护服务试点，并为相关企业核配700专用码号资源。",
@@ -1641,24 +1711,6 @@
       "sources": []
     },
     {
-      "id": "google-k12-search-ai-default-b4bfee",
-      "title": "谷歌将K-12学校搜索默认设为AI版本",
-      "description": "谷歌计划自2027年1月起，将面向K-12学校的搜索服务默认设为整合人工智能（AI）的Guided Learning版本。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T20:13:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/google-k12-search-ai-default-b4bfee",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "iran-submits-nuclear-proposal-via-qatar-bf7812",
       "title": "雷扎伊称美方至今未回应伊朗提议",
       "description": "伊朗最高国家安全委员会秘书雷扎伊当地时间11月10日晚表示，伊方要求美国对其提议作出明确、直接的答复，但美方至今没有回应。",
@@ -1733,24 +1785,6 @@
       "sources": []
     },
     {
-      "id": "new-york-drops-regents-graduation-exam-requirement-e2ba7d",
-      "title": "纽约州取消州会考及格作为高中毕业门槛",
-      "description": "纽约州决定从2027至2028学年起取消通过州会考作为高中毕业条件。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T18:51:44+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/new-york-drops-regents-graduation-exam-requirement-e2ba7d",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "nvidia-shares-hit-seven-month-low-2c51f0",
       "title": "黄仁勋承认婚外情后英伟达市值跌至全球第三",
       "description": "黄仁勋承认婚外情、英伟达董事会对其展开独立调查的消息传出后，英伟达股价在11月10日大幅下跌，市值排名降至全球第三，落后于苹果和微软。",
@@ -1789,24 +1823,6 @@
       ],
       "section": "world",
       "sourceCount": 22,
-      "sources": []
-    },
-    {
-      "id": "mamdani-signs-community-purchase-law-ef58c7",
-      "title": "曼达尼签署法案赋予社区组织优先购楼机会",
-      "description": "纽约市长曼达尼于11月10日签署《社区购买机会法》（COPA）。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T17:49:21+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/mamdani-signs-community-purchase-law-ef58c7",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2255,24 +2271,6 @@
       ],
       "section": "asia",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "boebert-trails-laubacher-colorado-house-race-bac7c2",
-      "title": "布波特竞选连任暂时落后民主党挑战者劳巴赫",
-      "description": "科罗拉多州第四选区众议员选举仍在计票，共和党籍现任众议员萝伦·布波特暂时落后民主党挑战者艾琳·劳巴赫。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T12:37:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/boebert-trails-laubacher-colorado-house-race-bac7c2",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2816,24 +2814,6 @@
       "sources": []
     },
     {
-      "id": "kim-yo-jong-accuses-guterres-korea-bias-bd4cf1",
-      "title": "金与正指责古特雷斯呼吁对话时偏袒韩国",
-      "description": "朝鲜劳动党中央委员会副部长金与正11月10日指责联合国秘书长古特雷斯呼吁朝韩恢复对话时偏向韩国，称他的态度有失公正且不负责任。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T09:23:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/kim-yo-jong-accuses-guterres-korea-bias-bd4cf1",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "ecommerce-platforms-free-shipping-singapore-market-3f91b9",
       "title": "海外电商以低价包邮争夺新加坡市场",
       "description": "海外电商平台正以“一件包邮”等优惠争夺新加坡市场。",
@@ -3217,6 +3197,24 @@
       "occurredAt": "",
       "publishedAt": "2026-11-10",
       "url": "https://kaopu.news/story/2026-11-10/silicon-valley-tech-funds-moderate-democrats-a558dc",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "brian-chesky-pledges-100-million-san-francisco-parks-7ddeb8",
+      "title": "切斯基承诺捐赠1亿美元改善旧金山公园",
+      "description": "旧金山市政府9日宣布，Airbnb共同创办人兼首席执行官布莱恩·切斯基承诺捐赠1亿美元，用于改善市内公园。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T06:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/brian-chesky-pledges-100-million-san-francisco-parks-7ddeb8",
       "reference": [
         "世界日报"
       ],
@@ -3925,24 +3923,6 @@
       "sources": []
     },
     {
-      "id": "kuomintang-launches-nuclear-referendum-website-b8b317",
-      "title": "中国国民党推出核能公投网站主张重启核电",
-      "description": "中国国民党推出核能公投宣传网站，称将以科学数据和国际趋势说明核能，并号召民众在11月28日的公投中投赞成票。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T06:57:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/kuomintang-launches-nuclear-referendum-website-b8b317",
-      "reference": [
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "ai-fake-lost-pet-photos-extort-owners-dca0e9",
       "title": "诈骗者用AI伪造走失宠物伤照勒索主人",
       "description": "佛罗里达州和加利福尼亚州出现利用人工智能伪造走失宠物伤照、向主人索要钱款的诈骗。",
@@ -4067,6 +4047,25 @@
       ],
       "section": "tech",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "menlo-report-chinese-models-us-open-source-spending-507776",
+      "title": "中国模型占美国企业开源AI支出89%",
+      "description": "Menlo Ventures于当地时间11月4日发布的《2026企业AI现状》报告显示，美国企业用于开源AI模型的支出中，89%流向中国模型。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-09T01:03:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/menlo-report-chinese-models-us-open-source-spending-507776",
+      "reference": [
+        "澎湃新闻",
+        "朝鲜日报"
+      ],
+      "section": "ai",
+      "sourceCount": 3,
       "sources": []
     },
     {
