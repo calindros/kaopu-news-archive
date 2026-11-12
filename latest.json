@@ -1,19 +1,19 @@
 {
   "details": {
     "date": "2026-11-12",
-    "timestamp": 1794454358,
+    "timestamp": 1794462013,
     "totalPages": 1,
-    "total": 271
+    "total": 272
   },
   "stories": [
     {
       "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "沃伦与库恩斯要求特朗普政府保存涉英伟达记录",
-      "description": "美国参议员伊丽莎白·沃伦和克里斯·库恩斯致函特朗普政府，要求保存涉及英伟达对华芯片出口、首席执行官黄仁勋及相关国家安全疑虑的记录，要求特朗普政府妥善保存相关记录。",
+      "title": "英伟达董事会据报寻找黄仁勋继任者",
+      "description": "《纽约时报》援引五名前英伟达员工称，黄仁勋曾与直接向他汇报的医疗保健业务副总裁金伯莉·鲍威尔发展婚外情，两人均已婚。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-12T03:36:45+00:00",
+      "updatedAt": "2026-11-12T04:26:17+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-29",
       "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
@@ -24,12 +24,189 @@
         "公视"
       ],
       "section": "china",
-      "sourceCount": 234,
+      "sourceCount": 240,
+      "sources": []
+    },
+    {
+      "id": "us-midterm-election-congress-control-164251",
+      "title": "科洛姆击败海德史密斯赢得密西西比州参议员席位",
+      "description": "民主党候选人斯科特·科洛姆在密西西比州联邦参议员选举中击败共和党现任参议员辛迪·海德史密斯，赢得该州参议院席位。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T04:17:46+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
+      "reference": [
+        "世界日报",
+        "英国广播公司",
+        "联合早报",
+        "端传媒"
+      ],
+      "section": "us",
+      "sourceCount": 254,
+      "sources": []
+    },
+    {
+      "id": "hegseth-arlington-guard-reprimand-7bef14",
+      "title": "赫格塞斯一行在无名战士冢前谈笑遭卫兵喝止",
+      "description": "11月11日退伍军人节仪式在阿灵顿国家公墓结束后，美国国防部长皮特·赫格塞斯与妻子及随行顾问来到无名战士冢前拍照，附近传出交谈和笑声。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T04:12:16+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/hegseth-arlington-guard-reprimand-7bef14",
+      "reference": [
+        "联合早报",
+        "法广",
+        "澎湃新闻",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "china-canada-yuan-green-sovereign-bond-issue-ecdef5",
+      "title": "中国财政部在多伦多发行40亿元人民币绿色主权债",
+      "description": "中国财政部代表中国中央政府于11月9日在加拿大多伦多发行40亿元人民币绿色主权债券。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T04:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/china-canada-yuan-green-sovereign-bond-issue-ecdef5",
+      "reference": [
+        "第一财经",
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "najib-unpaid-fine-remains-prison-57954f",
+      "title": "吉隆坡高庭准纳吉居家服完剩余刑期",
+      "description": "吉隆坡高庭11月10日撤销此前庭令并发出新令，准许马来西亚前首相纳吉在吉隆坡大使花园住家服完SRC国际公司案剩余刑期，至2028年8月23日。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T03:54:37+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-01",
+      "url": "https://kaopu.news/story/2026-11-01/najib-unpaid-fine-remains-prison-57954f",
+      "reference": [
+        "联合早报",
+        "当今大马",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 45,
+      "sources": []
+    },
+    {
+      "id": "south-korea-us-surplus-nears-140-billion-882ac2",
+      "title": "韩民族日报称韩国对美顺差料逼近1400亿美元",
+      "description": "韩国对美贸易顺差快速扩大，韩民族日报按当前走势测算，全年顺差将超过1300亿美元、接近1400亿美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T03:51:39+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/south-korea-us-surplus-nears-140-billion-882ac2",
+      "reference": [
+        "韩民族日报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "putin-orders-russian-management-jti-subsidiaries-c4b3ab",
+      "title": "普京将JT在俄七家公司纳入临时管理",
+      "description": "俄罗斯总统普京于11月5日签署总统令，将日本烟草产业（JT）在俄4家生产企业纳入临时管理；11月6日又将3家相关公司纳入，累计涉及7家，其中包括“佩列斯拉夫尔烟草”，还有一家为休眠公司。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T03:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/putin-orders-russian-management-jti-subsidiaries-c4b3ab",
+      "reference": [
+        "日经",
+        "共同网",
+        "日本放送协会",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "broadcasters-expand-ai-dramas-tv-monetization-0167d3",
+      "title": "广电系企业加快AI剧制作探索大屏变现",
+      "description": "芒果超媒、华数传媒、海看股份、东方明珠等广电系企业正在加快制作和播出AI剧，并探索在电视大屏实现商业回报。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T03:41:37.983487+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/broadcasters-expand-ai-dramas-tv-monetization-0167d3",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "saifuddin-proposes-declassifying-najib-pardon-board-minutes-ce9266",
+      "title": "赛夫丁将向内阁提议解密纳吉居家服刑特赦局会议记录",
+      "description": "内政部长赛夫丁纳苏丁表示，他将于明日向内阁提出解密建议，公开与批准前首相纳吉居家服刑有关的特赦局会议记录。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T03:41:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/saifuddin-proposes-declassifying-najib-pardon-board-minutes-ce9266",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "wang-yi-rubio-call-china-us-stability-3e887e",
+      "title": "鲁比奥王毅通话协调中美元首会晤安排",
+      "description": "美国国务卿鲁比奥与中国外长王毅11月11日通电话，讨论中美关系及两国元首互动，并交换高层接触安排的意见。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T03:37:52+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/wang-yi-rubio-call-china-us-stability-3e887e",
+      "reference": [
+        "澎湃新闻",
+        "财新",
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 6,
       "sources": []
     },
     {
       "id": "cop31-antalya-opens-global-stocktake-54a7c1",
-      "title": "COP31领导人峰会开幕呼吁落实气候承诺",
+      "title": "韩正出席COP31峰会呼吁落实气候承诺",
       "description": "COP31领导人峰会11月11日在土耳其安塔利亚开幕，主题为“迈向可持续、有韧性且公平的未来”。",
       "context": "",
       "keyFacts": [],
@@ -49,9 +226,126 @@
       "sources": []
     },
     {
+      "id": "nature-study-rethinks-obesity-diagnosis-385092",
+      "title": "《自然》研究建议肥胖诊断不再单靠BMI",
+      "description": "一项发表于《自然》的研究建议改革肥胖诊断方式：除BMI外，还应测量体脂，并检查体重是否已造成器官功能障碍。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T03:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/nature-study-rethinks-obesity-diagnosis-385092",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-agencies-push-megaspeed-listing-delay-e5d17e",
+      "title": "据报贝森特质问卢特尼克未限制Megaspeed购芯",
+      "description": "据《纽约时报》援引听取相关简报的知情人士称，2026年11月5日，美国财政部长斯科特·贝森特在白宫质问商务部长霍华德·卢特尼克，要求说明商务部为何尚未限制新加坡公司Megaspeed购买美国先进人工智能芯片。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T03:30:56+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/us-agencies-push-megaspeed-listing-delay-e5d17e",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "ni-runfeng-dies-aged-82-df70a5",
+      "title": "长虹原董事长倪润峰因病去世，享年82岁",
+      "description": "倪润峰因病医治无效，于11月11日15时55分在绵阳市中心医院逝世，享年82岁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T03:27:38.311794+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/ni-runfeng-dies-aged-82-df70a5",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "malaysia-bar-challenges-najib-home-detention-fbd2e5",
+      "title": "马来西亚律师公会申请司法检讨挑战纳吉居家服刑",
+      "description": "马来西亚律师公会向吉隆坡高等法院申请司法检讨准令，挑战纳吉以居家服刑方式服完SRC案剩余刑期的安排。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T03:26:49+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/malaysia-bar-challenges-najib-home-detention-fbd2e5",
+      "reference": [
+        "联合早报",
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-finance-ministry-unveils-fraud-plan-b74297",
+      "title": "财政部部署未来五年严厉打击财务造假",
+      "description": "11月11日，财政部印发《会计改革与发展“十五五”规划》，部署2026年至2030年强化会计监管。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T03:26:38.312160+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/china-finance-ministry-unveils-fraud-plan-b74297",
+      "reference": [
+        "财新",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "fda-requires-glp1-drugs-blindness-warning-e07118",
+      "title": "美国FDA要求GLP-1药品标注视神经病变风险",
+      "description": "美国食品药品监督管理局（FDA）11月9日要求相关药品厂商在说明书的“警告与注意事项”部分加入非动脉炎性前部缺血性视神经病变（NAION）风险提示。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T03:24:38.312443+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/fda-requires-glp1-drugs-blindness-warning-e07118",
+      "reference": [
+        "世界日报",
+        "澎湃新闻",
+        "公视",
+        "第一财经"
+      ],
+      "section": "life",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
       "id": "spain-national-strike-disrupts-transport-487685",
-      "title": "西班牙工会发起全国大罢工抗议住房与生活成本",
-      "description": "西班牙主要工会11月11日发起全国性大罢工，抗议住房危机和生活成本上涨。",
+      "title": "西班牙工会因住房危机发起全国大罢工",
+      "description": "西班牙主要工会11月11日发起全国性24小时大罢工，抗议住房负担沉重和生活成本上涨。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -66,7 +360,7 @@
         "公视"
       ],
       "section": "world",
-      "sourceCount": 5,
+      "sourceCount": 6,
       "sources": []
     },
     {
@@ -89,6 +383,45 @@
       "sources": []
     },
     {
+      "id": "baidu-launches-large-model-token-marketplace-80dc29",
+      "title": "百度正式推出大模型交易平台词元所",
+      "description": "百度在11月12日的百度世界2026开幕式上推出大模型交易平台“词元所”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T03:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/baidu-launches-large-model-token-marketplace-80dc29",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "paraguay-president-pena-resigns-f8e66e",
+      "title": "巴拉圭央行称181万余名合格存户已获部分退款",
+      "description": "巴拉圭央行11月11日表示，Ueno Bank遭接管后，所有符合存款保障基金理赔条件的客户都已至少收到部分退款，累计涉及1,812,348人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T03:05:43+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/paraguay-president-pena-resigns-f8e66e",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 26,
+      "sources": []
+    },
+    {
       "id": "byd-yangwang-dingyao-abu-dhabi-launch-3df40b",
       "title": "比亚迪在阿布扎比全球首发仰望鼎曜",
       "description": "11月初，比亚迪在阿布扎比展示仰望U9X以503.17公里/小时跑出的成绩，并为仰望鼎曜举行全球首发。",
@@ -107,24 +440,21 @@
       "sources": []
     },
     {
-      "id": "paraguay-president-pena-resigns-f8e66e",
-      "title": "巴拉圭银行危机导致总统培尼亚遭弹劾罢免",
-      "description": "巴拉圭Ueno Bank遭央行接管后引发的金融危机，最终演变为总统圣地亚哥·培尼亚被弹劾罢免、继而遭刑事起诉并羁押候审。",
+      "id": "yen-falls-159-midrange-mimura-warns-f831c2",
+      "title": "日元跌至159日元后半区间三村淳警示波动过快",
+      "description": "东京外汇市场日元兑美元在11月12日上午跌入每美元159日元后半区间。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-12T02:46:54+00:00",
+      "updatedAt": "2026-11-12T02:57:33+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/paraguay-president-pena-resigns-f8e66e",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/yen-falls-159-midrange-mimura-warns-f831c2",
       "reference": [
-        "澎湃新闻",
-        "法广",
-        "中央通訊社",
-        "公视"
+        "共同网"
       ],
-      "section": "world",
-      "sourceCount": 25,
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -316,6 +646,24 @@
       "sources": []
     },
     {
+      "id": "mlb-owners-lockout-labor-talks-stall-c1ec5b",
+      "title": "美媒称MLB资方可能在协议到期后封馆",
+      "description": "美国职棒大联盟（MLB）劳资谈判陷入僵局。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T02:13:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/mlb-owners-lockout-labor-talks-stall-c1ec5b",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "sports",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "us-ai-stocks-diverge-after-midterms-579269",
       "title": "美国AI股票在中期选举后一周走势分化",
       "description": "美国中期选举后一周，AI相关股票走势分化：大型云服务商股价较11月3日投票日回升，半导体股则下跌。",
@@ -370,26 +718,6 @@
       "sources": []
     },
     {
-      "id": "hegseth-arlington-guard-reprimand-7bef14",
-      "title": "美国防长赫格塞斯一行墓前谈笑被哨兵喝止",
-      "description": "11月11日退伍军人节当天，美国国防部长皮特·赫格塞斯与妻子及数名顾问在阿灵顿国家公墓无名烈士墓前交谈、合影。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T01:56:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/hegseth-arlington-guard-reprimand-7bef14",
-      "reference": [
-        "联合早报",
-        "法广",
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "global-carbon-project-forecasts-emissions-rise-575a5e",
       "title": "全球碳计划预计今年全球碳排放总量上升",
       "description": "全球碳计划发布《2026年全球碳预算》，预计2026年化石燃料相关二氧化碳排放同比减少0.4%，降至382亿吨；但计入土地利用变化排放后，全球二氧化碳排放总量将从去年的428亿吨升至今年的433亿吨。",
@@ -426,43 +754,6 @@
       "sources": []
     },
     {
-      "id": "china-finance-ministry-unveils-fraud-plan-b74297",
-      "title": "财政部公布规划要求严查财务造假",
-      "description": "中国财政部11月11日公布《会计改革与发展“十五五”规划》，提出在2026年至2030年持续检查国计民生重点行业和关键领域的会计信息质量，并严肃查处财务造假。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T01:45:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/china-finance-ministry-unveils-fraud-plan-b74297",
-      "reference": [
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ni-runfeng-dies-aged-82-df70a5",
-      "title": "四川长虹原董事局主席倪润峰逝世，享年82岁",
-      "description": "原四川长虹电子集团有限公司党委书记、董事局主席倪润峰因病逝世，享年82岁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T01:36:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/ni-runfeng-dies-aged-82-df70a5",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "us-iron-gate-task-force-iran-transport-d20f21",
       "title": "美军组建铁门特遣部队封堵伊朗陆路运输",
       "description": "美国中央司令部11月7日宣布成立“铁门”特遣部队，配合对伊朗的封锁行动，限制武器及其他受制裁物资经伊朗陆地边境和里海运输。",
@@ -481,27 +772,6 @@
       ],
       "section": "world",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "us-midterm-election-congress-control-164251",
-      "title": "媒体预测民主党人科洛姆赢得密西西比州参议员选举",
-      "description": "美国民主党候选人斯科特·科洛姆有望赢得密西西比州联邦参议员选举，击败共和党现任参议员辛迪·海德-史密斯。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T01:35:43+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
-      "reference": [
-        "世界日报",
-        "英国广播公司",
-        "联合早报",
-        "端传媒"
-      ],
-      "section": "us",
-      "sourceCount": 253,
       "sources": []
     },
     {
@@ -655,26 +925,6 @@
       "sources": []
     },
     {
-      "id": "wang-yi-rubio-call-china-us-stability-3e887e",
-      "title": "王毅与鲁比奥通话讨论中美关系和元首互动",
-      "description": "中国外长王毅11日与美国国务卿鲁比奥通电话，讨论中美关系和两国元首互动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T00:35:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/wang-yi-rubio-call-china-us-stability-3e887e",
-      "reference": [
-        "澎湃新闻",
-        "财新",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "labor-insurance-rate-rises-13-percent-ef88ee",
       "title": "劳保费率明年起将上调至13%",
       "description": "劳保费率将于2027年起调涨至13%。",
@@ -708,25 +958,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-agencies-push-megaspeed-listing-delay-e5d17e",
-      "title": "美媒称卢特尼克拖延将Megaspeed列入实体清单",
-      "description": "美国商务部长霍华德·卢特尼克被指拖延将新加坡企业Megaspeed列入出口管制实体清单。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T00:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/us-agencies-push-megaspeed-listing-delay-e5d17e",
-      "reference": [
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1157,44 +1388,6 @@
         "加拿大国际广播电台"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "najib-unpaid-fine-remains-prison-57954f",
-      "title": "吉隆坡高庭改令纳吉居家服完SRC案余刑",
-      "description": "吉隆坡高庭11月10日撤销此前庭令，改令马来西亚前首相纳吉即日起从加影监狱转往吉隆坡大使花园住所，居家服完SRC国际公司案剩余刑期。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T16:53:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/najib-unpaid-fine-remains-prison-57954f",
-      "reference": [
-        "联合早报",
-        "当今大马",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 43,
-      "sources": []
-    },
-    {
-      "id": "malaysia-bar-challenges-najib-home-detention-fbd2e5",
-      "title": "据报马来西亚律师公会申请司法检讨挑战纳吉居家服刑",
-      "description": "据自由今日大马报道，马来西亚律师公会于2026年11月10日通过Amir & Rajpal Ghai律师楼向吉隆坡高庭提交司法检讨准令申请，要求审查联邦直辖区特赦局于2026年9月18日就纳吉居家服刑安排进行的审议、决定及相关行动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T16:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/malaysia-bar-challenges-najib-home-detention-fbd2e5",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -1816,26 +2009,6 @@
       "sources": []
     },
     {
-      "id": "fda-requires-glp1-drugs-blindness-warning-e07118",
-      "title": "FDA要求GLP-1药品说明书加入视神经风险警示",
-      "description": "美国FDA于9日要求GLP-1受体激动剂类药物的上市申请持有人，在说明书“警告与注意事项”部分加入非动脉炎性前部缺血性视神经病变（NAION）风险提示。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T12:26:07+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/fda-requires-glp1-drugs-blindness-warning-e07118",
-      "reference": [
-        "世界日报",
-        "澎湃新闻",
-        "公视"
-      ],
-      "section": "life",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "tsmc-invests-up-to-billion-anthropic-openai-shares-0381fa",
       "title": "台积电拟向两家AI企业投资至多10亿美元",
       "description": "台积电在11月10日董事会后宣布，拟分别以不超过5亿美元认购Anthropic普通股和OpenAI特别股，两笔投资总额上限为10亿美元。",
@@ -1909,26 +2082,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-military-withdraws-12-aircraft-mildenhall-a20d1e",
-      "title": "美国司法部起诉三人涉策划近20起袭击",
-      "description": "美国司法部11月10日公开一份列有八项罪名的起诉书，起诉三名男子，指他们涉嫌在美国和欧洲策划近20起恐怖袭击及未遂袭击，其中包括针对英国费尔福德皇家空军基地的阴谋。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T12:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/us-military-withdraws-12-aircraft-mildenhall-a20d1e",
-      "reference": [
-        "法广",
-        "英国广播公司",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -2041,24 +2194,6 @@
       "sources": []
     },
     {
-      "id": "china-internet-finance-association-names-eight-apps-41bc86",
-      "title": "中国互联网金融协会要求八款低门槛宣传App整改",
-      "description": "中国互联网金融协会11月2日发布《金融产品网络营销管理办法》生效后的首份自律通报，点名8款使用“低门槛”宣传用语的App，包括耀享花、有道分期、小象钱包、58好借等。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T10:55:38.250077+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/china-internet-finance-association-names-eight-apps-41bc86",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "malaysia-cabinet-approves-palm-oil-price-subsidy-70e4fa",
       "title": "马来西亚内阁批准每月补贴维持瓶装棕榈油顶价",
       "description": "马来西亚内阁批准实施食用油价格管控机制（MKHMM），政府将每月拨出约1500万令吉补贴，用于维持瓶装纯棕榈食用油的价格上限并保障供应稳定。",
@@ -2073,60 +2208,6 @@
         "当今大马"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-canada-yuan-green-sovereign-bond-issue-ecdef5",
-      "title": "中国财政部在加拿大发行40亿元离岸人民币绿色主权债",
-      "description": "中国财政部近日在加拿大发行40亿元离岸人民币绿色主权债券。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T10:50:33.436288+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/china-canada-yuan-green-sovereign-bond-issue-ecdef5",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "wistron-reports-record-quarterly-results-072818",
-      "title": "纬创第三季度营收与净利润创单季新高",
-      "description": "纬创公布2026年第三季度业绩，营收和归属于母公司股东的净利润均刷新单季纪录。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T10:49:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/wistron-reports-record-quarterly-results-072818",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "brands-shift-double-eleven-profit-user-retention-f9a78a",
-      "title": "品牌商家将双11经营重心转向利润与留存",
-      "description": "今年双11期间，多家品牌商家把经营目标从大促销量扩展到利润控制、新客获取和长期用户留存，部分品牌在夏季便启动产品规划、备货和流量积累，投放效果也开始按更细的用户指标衡量。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T10:43:33.437725+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/brands-shift-double-eleven-profit-user-retention-f9a78a",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -2777,24 +2858,6 @@
       ],
       "section": "asia",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "anwar-urges-anti-corruption-activists-demand-jail-ac6f4e",
-      "title": "安华呼吁反贪人士要求贪污者入狱",
-      "description": "首相安华当天在社交媒体发文，敦促反贪人士更积极发声，要求贪污者面对牢狱之灾。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T07:24:39+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/anwar-urges-anti-corruption-activists-demand-jail-ac6f4e",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3871,24 +3934,6 @@
       "sources": []
     },
     {
-      "id": "lenovo-zhangjiakou-token-factory-launch-01d78e",
-      "title": "联想在张家口落地首个词元工厂母本",
-      "description": "联想集团11月10日在张家口启动万全混合词元工厂的首个母本项目，尝试把算力资源转化为按使用量计量、能够交付的词元服务，而不只提供机柜或计算能力。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T12:11:40.454929+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/lenovo-zhangjiakou-token-factory-launch-01d78e",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "peltokoski-hong-kong-philharmonic-mahler-eighth-844db8",
       "title": "贝托祺携港乐首次演出马勒第八交响曲",
       "description": "芬兰指挥家贝托祺于11月7日、8日携香港管弦乐团在香港文化中心音乐厅演出马勒《第八交响曲》。",
@@ -4105,24 +4150,6 @@
       "url": "https://kaopu.news/story/2026-11-10/sph-media-cyberattacks-data-leak-a58cdf",
       "reference": [
         "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "iman-research-survey-ethnic-chinese-youth-insecurity-a2b0f1",
-      "title": "伊曼研究报告指华裔青年对教育就业缺乏安全感",
-      "description": "伊曼研究发布题为《我们也是这里的人：华裔青年与民主归属感——务实主义与公平的政治》的调查报告。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T07:19:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/iman-research-survey-ethnic-chinese-youth-insecurity-a2b0f1",
-      "reference": [
-        "当今大马"
       ],
       "section": "life",
       "sourceCount": 1,
