@@ -1,11 +1,241 @@
 {
   "details": {
     "date": "2026-11-12",
-    "timestamp": 1794483032,
+    "timestamp": 1794490393,
     "totalPages": 1,
-    "total": 267
+    "total": 265
   },
   "stories": [
+    {
+      "id": "nytimes-rubio-briefed-trump-huang-spy-link-931360",
+      "title": "纽时称鲁比奥简报黄仁勋情报 特朗普仍邀其访华",
+      "description": "《纽约时报》援引知情人士报道称，2026年5月特朗普乘“空军一号”赴华途中，国务卿兼国家安全顾问马可·鲁比奥在得知英伟达首席执行官黄仁勋将在阿拉斯加加入行程后，向特朗普通报了黄仁勋与黄乐的关系，以及美国方面掌握的有关黄乐的情报。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T12:10:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/nytimes-rubio-briefed-trump-huang-spy-link-931360",
+      "reference": [
+        "世界日报",
+        "纽约时报"
+      ],
+      "section": "world",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "gibran-tells-prabowo-he-plans-to-resign-76a178",
+      "title": "印尼总统普拉博沃接受副总统吉布兰辞呈",
+      "description": "印度尼西亚副总统吉布兰·拉卡布明·拉卡11月12日向人民协商会议主席穆扎尼递交辞呈，辞去副总统职务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T12:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/gibran-tells-prabowo-he-plans-to-resign-76a178",
+      "reference": [
+        "联合早报",
+        "公视",
+        "法广",
+        "财新"
+      ],
+      "section": "asia",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "us-midterm-election-congress-control-164251",
+      "title": "美国民主党赢得国会两院多数席位",
+      "description": "美国民主党在11月3日举行的中期选举中赢得参众两院控制权，重新成为国会多数党。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T12:01:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
+      "reference": [
+        "世界日报",
+        "英国广播公司",
+        "联合早报",
+        "端传媒"
+      ],
+      "section": "us",
+      "sourceCount": 256,
+      "sources": []
+    },
+    {
+      "id": "iman-research-arts-sports-youth-refuge-304655",
+      "title": "伊曼研究报告称艺术体育让印裔青年暂避歧视",
+      "description": "智库伊曼研究发布《我们也是这里的人》（Kami Orang Sini Juga），探讨马来西亚印裔青年的民主归属感。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T11:58:20+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/iman-research-arts-sports-youth-refuge-304655",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "france-plans-international-defense-ai-center-f69da0",
+      "title": "法国国防部拟设国际中心推动国防人工智能应用",
+      "description": "法国国防部提出设立国际中心的方案，目标是支持人工智能更多用于国防领域。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T11:53:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/france-plans-international-defense-ai-center-f69da0",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "takaichi-to-attend-asean-apec-summits-4edebc",
+      "title": "高市将访问菲律宾和中国出席两场峰会",
+      "description": "日本首相高市早苗将于11月16日至19日访问菲律宾和中国，参加东盟峰会及相关会议，并赴深圳出席亚太经合组织（APEC）领导人会议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T11:51:18+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/takaichi-to-attend-asean-apec-summits-4edebc",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "日经",
+        "日本放送协会"
+      ],
+      "section": "asia",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "china-releases-skills-assessment-draft-regulation-39d952",
+      "title": "人社部就技能人才评价条例草案公开征求意见",
+      "description": "中国人力资源和社会保障部11月12日公布《技能人才评价条例（征求意见稿）》，意见征集将持续至12月12日。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T11:38:00.775683+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/china-releases-skills-assessment-draft-regulation-39d952",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "英伟达董事会据报讨论撤换黄仁勋",
+      "description": "英伟达董事会据报于11月11日前后开会，讨论是否撤换首席执行官黄仁勋，并评估接班安排。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T11:38:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 263,
+      "sources": []
+    },
+    {
+      "id": "nvidia-jensen-huang-removal-report-nikkei-falls-032821",
+      "title": "据报英伟达拟罢免黄仁勋日经指数跌0.7%",
+      "description": "据共同社报道，有消息称英伟达董事会正推进罢免首席执行官黄仁勋的准备工作。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T11:35:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/nvidia-jensen-huang-removal-report-nikkei-falls-032821",
+      "reference": [
+        "共同网"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "beijing-releases-embodied-intelligence-robot-plan-3c2211",
+      "title": "北京发布具身智能机器人产业发展行动方案",
+      "description": "北京市11月11日发布《北京市具身智能机器人产业高质量发展行动方案（2026—2028年）》，提出到2028年培育至少5家国际一流、10家国内领先的人形机器人整机企业。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T11:21:33.647286+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/beijing-releases-embodied-intelligence-robot-plan-3c2211",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-ndrc-supports-new-research-universities-fb9e7a",
+      "title": "国家发改委将支持地方新办多所新型研究型大学",
+      "description": "国家发展改革委表示，将支持具备条件的地方创办一批新型研究型大学。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T11:10:33.648405+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/china-ndrc-supports-new-research-universities-fb9e7a",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-parties-propose-coal-retirement-bill-f9599d",
+      "title": "国民党民众党提案限台中电厂燃煤机组2028年底退场",
+      "description": "台湾国民党立委与民众党团于2026年11月10日提出《空污法》第28条、第30条修正案，要求台中电厂燃煤机组在2028年底前全部退出，并限制退役机组转作紧急备用。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T11:08:16+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/taiwan-parties-propose-coal-retirement-bill-f9599d",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
     {
       "id": "najib-unpaid-fine-remains-prison-57954f",
       "title": "赛夫丁公布纳吉居家服刑限制条件",
@@ -27,27 +257,6 @@
       "sources": []
     },
     {
-      "id": "gibran-tells-prabowo-he-plans-to-resign-76a178",
-      "title": "印尼副总统吉布兰递交辞呈辞去职务",
-      "description": "印度尼西亚副总统吉布兰·拉卡布明·拉卡11月12日亲自向人民协商会议主席艾哈迈德·穆扎尼递交辞呈，辞去副总统职务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T11:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/gibran-tells-prabowo-he-plans-to-resign-76a178",
-      "reference": [
-        "联合早报",
-        "公视",
-        "法广",
-        "财新"
-      ],
-      "section": "asia",
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
       "id": "xiangxue-creditors-seek-bankruptcy-restructuring-f1ec1c",
       "title": "*ST香雪被两家债权人申请破产重整",
       "description": "*ST香雪近日披露，广州农商行等两家债权人以公司未能清偿到期债务、但具备重整条件和价值为由，向广州中院申请对其进行破产重整。",
@@ -60,6 +269,24 @@
       "url": "https://kaopu.news/story/2026-11-12/xiangxue-creditors-seek-bankruptcy-restructuring-f1ec1c",
       "reference": [
         "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "germany-dax-hits-record-high-cbd7d3",
+      "title": "德国DAX指数首破27000点创历史新高",
+      "description": "人工智能热潮重新提振市场乐观情绪，全球科技相关股票走高，德国DAX指数在法兰克福早盘首次突破27000点，创下历史新高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T10:59:07+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/germany-dax-hits-record-high-cbd7d3",
+      "reference": [
+        "中央通訊社"
       ],
       "section": "business",
       "sourceCount": 1,
@@ -269,6 +496,24 @@
       "sources": []
     },
     {
+      "id": "taiwan-fsc-stock-stability-measures-exit-timing-1e8482",
+      "title": "台湾金管会暂不设台股稳定措施退场时间",
+      "description": "台湾金管会自11月9日起实施五项稳定股市措施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T10:20:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/taiwan-fsc-stock-stability-measures-exit-timing-1e8482",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "united-airlines-restricts-unauthorized-ai-agents-825448",
       "title": "美联航限制未经授权的第三方AI助手访问服务",
       "description": "美联航当地时间11月11日在官网宣布，正采取措施限制未经授权的第三方个人AI智能体或AI助手使用其服务。",
@@ -305,27 +550,6 @@
       ],
       "section": "world",
       "sourceCount": 39,
-      "sources": []
-    },
-    {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "英伟达董事会据报将再议黄仁勋去留",
-      "description": "英伟达董事会据报于11月11日讨论首席执行官黄仁勋的去留。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T10:10:24+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 258,
       "sources": []
     },
     {
@@ -700,24 +924,6 @@
       "url": "https://kaopu.news/story/2026-11-12/china-criminal-procedure-draft-narrows-designated-residence-01c143",
       "reference": [
         "第一财经"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-releases-skills-assessment-draft-regulation-39d952",
-      "title": "人社部发布技能人才评价条例征求意见稿",
-      "description": "中国人力资源社会保障部11月12日公布《技能人才评价条例（征求意见稿）》，征求意见至12月12日。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T08:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/china-releases-skills-assessment-draft-regulation-39d952",
-      "reference": [
-        "澎湃新闻"
       ],
       "section": "china",
       "sourceCount": 1,
@@ -1120,24 +1326,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-parties-propose-coal-retirement-bill-f9599d",
-      "title": "国民党立委民众党团提案要求煤电机组提前退役",
-      "description": "台湾立法院国民党籍立委与民众党党团11月10日提出修正《空污法》第28条、第30条的提案，要求燃煤机组提前除役，并限制除役机组转作紧急备用。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T06:34:07+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/taiwan-parties-propose-coal-retirement-bill-f9599d",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "noreaster-forecast-us-northeast-f0291d",
       "title": "低压系统将使纽约周末转入湿冷天气",
       "description": "纽约地区将从11月12日下午起受到低压系统影响，降雨、内陆高地降雪和沿岸阵风将接踵而至，随后气温明显下降。",
@@ -1174,27 +1362,6 @@
       ],
       "section": "us",
       "sourceCount": 10,
-      "sources": []
-    },
-    {
-      "id": "us-midterm-election-congress-control-164251",
-      "title": "科洛姆击败海德-史密斯赢得密西西比州参议员席位",
-      "description": "民主党候选人斯科特·科洛姆击败寻求连任的共和党联邦参议员辛迪·海德-史密斯，赢得密西西比州联邦参议员席位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T06:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/us-midterm-election-congress-control-164251",
-      "reference": [
-        "世界日报",
-        "英国广播公司",
-        "联合早报",
-        "端传媒"
-      ],
-      "section": "us",
-      "sourceCount": 255,
       "sources": []
     },
     {
@@ -1270,25 +1437,6 @@
       ],
       "section": "world",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "nytimes-rubio-briefed-trump-huang-spy-link-931360",
-      "title": "华邮称特朗普获安全警告后仍与黄仁勋密切往来",
-      "description": "美国掌握的情报显示，中国情报部门已将英伟达首席执行官黄仁勋列为目标，《华盛顿邮报》报道称。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T06:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/nytimes-rubio-briefed-trump-huang-spy-link-931360",
-      "reference": [
-        "世界日报",
-        "纽约时报"
-      ],
-      "section": "world",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -1812,27 +1960,6 @@
       ],
       "section": "asia",
       "sourceCount": 8,
-      "sources": []
-    },
-    {
-      "id": "takaichi-to-attend-asean-apec-summits-4edebc",
-      "title": "高市早苗将于11月16日起访问菲律宾和中国",
-      "description": "日本首相高市早苗将于11月16日至19日访问菲律宾和中国，出席东盟峰会及相关会议，并赴深圳参加亚太经合组织（APEC）领导人会议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T05:00:47+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/takaichi-to-attend-asean-apec-summits-4edebc",
-      "reference": [
-        "共同网",
-        "联合早报",
-        "日经",
-        "日本放送协会"
-      ],
-      "section": "asia",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -2461,24 +2588,6 @@
       "sources": []
     },
     {
-      "id": "global-carbon-project-forecasts-emissions-rise-575a5e",
-      "title": "全球碳计划预计今年全球碳排放总量上升",
-      "description": "全球碳计划发布《2026年全球碳预算》，预计2026年化石燃料相关二氧化碳排放同比减少0.4%，降至382亿吨；但计入土地利用变化排放后，全球二氧化碳排放总量将从去年的428亿吨升至今年的433亿吨。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T01:47:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/global-carbon-project-forecasts-emissions-rise-575a5e",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "japan-court-finds-vote-gap-unconstitutional-0371a6",
       "title": "日本最高法院认定2025年参院选举处于违宪状态",
       "description": "日本最高法院大法庭11月11日就2025年7月参议院选举诉讼作出统一判决，认定选举处于“违宪状态”，但驳回律师团体要求宣告选举无效的请求。",
@@ -2574,24 +2683,6 @@
       "sources": []
     },
     {
-      "id": "korea-us-nuclear-cooperation-strengthens-security-a804ca",
-      "title": "康京和称韩美核合作进展将巩固双边安全关系",
-      "description": "韩国驻美国大使康京和11日在《华盛顿邮报》发表署名文章提出，若美国支持韩国核动力潜艇项目，且韩美民用核能合作取得进展，两国安全伙伴关系将更加稳固。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T00:38:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/korea-us-nuclear-cooperation-strengthens-security-a804ca",
-      "reference": [
-        "韩国国际广播电台"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "labor-insurance-rate-rises-13-percent-ef88ee",
       "title": "劳保费率明年起将上调至13%",
       "description": "劳保费率将于2027年起调涨至13%。",
@@ -2606,24 +2697,6 @@
         "公视"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "korea-democratic-party-plans-low-pbr-tax-hike-3ad1e9",
-      "title": "韩国共同民主党拟加重低市净率企业股权继承赠与税",
-      "description": "韩国共同民主党已决定在12月初前推动修订《继承税及赠与税法》，计划筛选股价相对净资产价值偏低的上市公司，并提高大股东继承或受赠相关股份时的税负。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T00:07:52+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/korea-democratic-party-plans-low-pbr-tax-hike-3ad1e9",
-      "reference": [
-        "东亚日报"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -2664,44 +2737,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-baowu-simandou-north-mine-operation-a13c3d",
-      "title": "中国宝武控股西芒杜北部矿山全产业链投产",
-      "description": "宝赢西芒杜矿山一系列投产满一周年之际，二系列CS区下运胶带系统完成全线重负荷试车，二系列随之建成投产。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T23:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/china-baowu-simandou-north-mine-operation-a13c3d",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "four-agencies-exclude-innovative-drugs-fee-growth-metrics-0ba4ed",
-      "title": "四部门明确目录内1类新药不计入多项考核",
-      "description": "国家卫健委、国家医保局、国家中医药局和国家疾控局11月10日联合印发《关于进一步做好创新药安全合理配备使用工作的通知》，就创新药院内配备、临床使用和支付管理作出安排。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T23:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/four-agencies-exclude-innovative-drugs-fee-growth-metrics-0ba4ed",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -3548,60 +3583,6 @@
       "sources": []
     },
     {
-      "id": "new-york-drops-regents-graduation-exam-requirement-e2ba7d",
-      "title": "纽约州将取消州会考及格作为高中毕业门槛",
-      "description": "纽约州将从2027至2028学年起取消州会考及格作为高中毕业条件，改以六项能力标准作为毕业依据。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T06:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/new-york-drops-regents-graduation-exam-requirement-e2ba7d",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "anthropic-admits-unauthorized-access-data-leak-4b36b9",
-      "title": "Anthropic承认系统遭未授权访问，企业账号信息泄露",
-      "description": "美国人工智能企业Anthropic承认，其内部系统在安全检查期间遭未经授权访问，部分全球企业账号信息外泄，其中包括100多个韩国企业账号。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T06:25:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/anthropic-admits-unauthorized-access-data-leak-4b36b9",
-      "reference": [
-        "韩国国际广播电台"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "huang-le-kang-wei-nvidia-gpu-promise-98be65",
-      "title": "黄乐、康伟据报承诺为数据中心取得英伟达GPU",
-      "description": "据《金融时报》报道，两名听取过投资提案的人士称，2025年初，黄乐与康伟向中国投资人寻求资金，计划在东南亚兴建大型数据中心。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T06:24:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/huang-le-kang-wei-nvidia-gpu-promise-98be65",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "state-local-elections-shape-data-centers-70335c",
       "title": "美国中期选举后逾四成数据中心规划容量面临政策风险",
       "description": "美国有九个州的州长现任者或候选人承诺暂停新建数据中心，或已采取暂停措施。",
@@ -3658,24 +3639,6 @@
       ],
       "section": "us",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "metr-anthropic-model-capability-speed-nearly-doubles-4ba505",
-      "title": "METR估计Anthropic提升模型能力速度近乎翻倍",
-      "description": "据美联社报道，独立机构模型评估与威胁研究（METR）审查Anthropic内部数据并访谈员工后估计，该公司提升模型执行“特定任务”能力的速度较一年前快近一倍。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T06:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/metr-anthropic-model-capability-speed-nearly-doubles-4ba505",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
       "sources": []
     },
     {
