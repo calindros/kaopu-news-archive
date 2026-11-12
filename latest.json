@@ -1,11 +1,105 @@
 {
   "details": {
     "date": "2026-11-12",
-    "timestamp": 1794469441,
+    "timestamp": 1794471376,
     "totalPages": 1,
-    "total": 269
+    "total": 268
   },
   "stories": [
+    {
+      "id": "baldwin-proposes-medicare-age-50-da7679",
+      "title": "鲍德温提案拟将红蓝卡参保年龄降至50岁",
+      "description": "美国联邦参议员塔米·鲍德温于11月10日提出《50岁参加红蓝卡法案》，拟将联邦医疗保险Medicare的参保年龄门槛从65岁降至50岁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/baldwin-proposes-medicare-age-50-da7679",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "bessent-us-china-superintelligence-dialogue-e38d72",
+      "title": "贝森特称美中已建立超级智能对话机制",
+      "description": "美国财政部长斯科特·贝森特表示，美国和中国政府已经建立围绕“超级智能”的对话机制，讨论人工智能模型安全，并在发生严重事件时互相通报。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/bessent-us-china-superintelligence-dialogue-e38d72",
+      "reference": [
+        "联合早报",
+        "世界日报"
+      ],
+      "section": "ai",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "nyu-forum-experts-ice-ai-tracks-immigrants-8d4726",
+      "title": "纽约大学论坛专家称ICE借AI整合数据追踪移民",
+      "description": "纽约大学移民研究网络近日举办“人工智能与移民政策”论坛。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T06:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/nyu-forum-experts-ice-ai-tracks-immigrants-8d4726",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "ai",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "us-agencies-push-megaspeed-listing-delay-e5d17e",
+      "title": "据报特朗普授权管制Megaspeed商务部仍未执行",
+      "description": "美国总统特朗普据报于11月5日批准对新加坡公司Megaspeed采取行动，原因是美国官员怀疑该公司将英伟达先进人工智能芯片转运至中国。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T06:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/us-agencies-push-megaspeed-listing-delay-e5d17e",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "nytimes-rubio-briefed-trump-huang-spy-link-931360",
+      "title": "华邮称特朗普获安全警告后仍与黄仁勋密切往来",
+      "description": "美国掌握的情报显示，中国情报部门已将英伟达首席执行官黄仁勋列为目标，《华盛顿邮报》报道称。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T06:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/nytimes-rubio-briefed-trump-huang-spy-link-931360",
+      "reference": [
+        "世界日报",
+        "纽约时报"
+      ],
+      "section": "world",
+      "sourceCount": 6,
+      "sources": []
+    },
     {
       "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
       "title": "美中俄据报磋商深圳APEC三方会晤安排",
@@ -25,6 +119,103 @@
       ],
       "section": "world",
       "sourceCount": 27,
+      "sources": []
+    },
+    {
+      "id": "wang-yi-rubio-call-china-us-stability-3e887e",
+      "title": "王毅与鲁比奥通话讨论中美关系和峰会安排",
+      "description": "中国外交部长王毅11日与美国国务卿鲁比奥通电话，讨论中美关系和两国元首互动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T06:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/wang-yi-rubio-call-china-us-stability-3e887e",
+      "reference": [
+        "澎湃新闻",
+        "财新",
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "new-york-court-orders-chen-release-64b134",
+      "title": "纽约东区法院下令释放遭ICE拘留的中国公民",
+      "description": "纽约东区联邦法院认定，美国移民及海关执法局（ICE）对中国公民陈明航的拘留评估存在严重程序问题，命令立即释放。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T06:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/new-york-court-orders-chen-release-64b134",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "hegseth-arlington-guard-reprimand-7bef14",
+      "title": "赫塞斯一行在无名战士冢谈笑遭哨兵喝止",
+      "description": "美国国防部长皮特·赫塞斯与妻子及幕僚在阿灵顿国家公墓无名战士冢旁合影、交谈并发出笑声，巡逻哨兵随后高声要求访客保持肃静与尊重。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T06:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/hegseth-arlington-guard-reprimand-7bef14",
+      "reference": [
+        "联合早报",
+        "法广",
+        "澎湃新闻",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "taiwan-pauses-malaysia-trade-talks-79cd87",
+      "title": "安华称台商暂无撤资或取消投资迹象",
+      "description": "马来西亚首相安华11月12日在国会下议院表示，目前没有迹象显示台湾企业正在撤出马来西亚，或取消在当地的投资计划。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T06:16:18+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/taiwan-pauses-malaysia-trade-talks-79cd87",
+      "reference": [
+        "中央通訊社",
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "binance-warns-ios-flaw-risks-wallet-data-b6c243",
+      "title": "币安警告iOS漏洞可泄露应用和钱包数据",
+      "description": "币安11月10日警告，名为“Worse_Query”的iOS漏洞可让恶意应用绕过应用间的数据隔离，读取其他应用资料，使加密货币钱包信息面临被窃风险。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T06:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/binance-warns-ios-flaw-risks-wallet-data-b6c243",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "tech",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -463,27 +654,6 @@
       "sources": []
     },
     {
-      "id": "wang-yi-rubio-call-china-us-stability-3e887e",
-      "title": "王毅与鲁比奥通话协调中美元首会晤",
-      "description": "中国外交部长王毅与美国国务卿鲁比奥11月11日通电话，讨论中美关系和两国元首互动，也谈及峰会期间的会晤安排。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T05:01:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/wang-yi-rubio-call-china-us-stability-3e887e",
-      "reference": [
-        "澎湃新闻",
-        "财新",
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
       "id": "takaichi-to-attend-asean-apec-summits-4edebc",
       "title": "高市早苗将于11月16日起访问菲律宾和中国",
       "description": "日本首相高市早苗将于11月16日至19日访问菲律宾和中国，出席东盟峰会及相关会议，并赴深圳参加亚太经合组织（APEC）领导人会议。",
@@ -578,24 +748,6 @@
         "当今大马"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "binance-warns-ios-flaw-risks-wallet-data-b6c243",
-      "title": "币安警告iOS漏洞或致隐私和加密钱包信息泄露",
-      "description": "币安11月10日发出安全警告称，部分iOS系统存在名为“Worse_Query”的漏洞，恶意应用可能借此读取手机中其他应用的私人资料，甚至获取加密货币钱包信息。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T04:57:31+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/binance-warns-ios-flaw-risks-wallet-data-b6c243",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "tech",
       "sourceCount": 1,
       "sources": []
     },
@@ -727,27 +879,6 @@
       ],
       "section": "us",
       "sourceCount": 254,
-      "sources": []
-    },
-    {
-      "id": "hegseth-arlington-guard-reprimand-7bef14",
-      "title": "赫格塞斯一行在无名战士冢前谈笑遭卫兵喝止",
-      "description": "11月11日退伍军人节仪式在阿灵顿国家公墓结束后，美国国防部长皮特·赫格塞斯与妻子及随行顾问来到无名战士冢前拍照，附近传出交谈和笑声。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T04:12:16+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/hegseth-arlington-guard-reprimand-7bef14",
-      "reference": [
-        "联合早报",
-        "法广",
-        "澎湃新闻",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -899,26 +1030,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-agencies-push-megaspeed-listing-delay-e5d17e",
-      "title": "据报贝森特质问卢特尼克未限制Megaspeed购芯",
-      "description": "据《纽约时报》援引听取相关简报的知情人士称，2026年11月5日，美国财政部长斯科特·贝森特在白宫质问商务部长霍华德·卢特尼克，要求说明商务部为何尚未限制新加坡公司Megaspeed购买美国先进人工智能芯片。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T03:30:56+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/us-agencies-push-megaspeed-listing-delay-e5d17e",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报"
-      ],
-      "section": "world",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -1808,24 +1919,6 @@
       "sources": []
     },
     {
-      "id": "new-york-court-orders-chen-release-64b134",
-      "title": "纽约联邦法院下令释放ICE拘押的陈明航",
-      "description": "纽约东区联邦法院10月1日裁定，美国移民及海关执法局（ICE）对中国公民陈明航所作的拘留评估存在严重程序缺陷，并命令政府立即释放他。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T21:26:24+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/new-york-court-orders-chen-release-64b134",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "zelensky-arrives-dublin-european-political-community-meeting-8d16b8",
       "title": "泽连斯基抵达都柏林参加欧洲政治共同体会议",
       "description": "乌克兰总统泽连斯基表示，他已抵达都柏林，将参加第九届欧洲政治共同体领导人会议，并计划会见美国总统特使威特科夫和美国总统特朗普的女婿库什纳。",
@@ -1898,24 +1991,6 @@
       "sources": []
     },
     {
-      "id": "nyu-forum-experts-ice-ai-tracks-immigrants-8d4726",
-      "title": "纽约大学论坛专家称ICE借AI追踪移民",
-      "description": "纽约大学移民研究网络近日举行“人工智能与移民政策”论坛。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T19:54:39+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/nyu-forum-experts-ice-ai-tracks-immigrants-8d4726",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "tnt-chino-hills-store-opens-b60d23",
       "title": "大统华奇诺冈店将于12月10日开业",
       "description": "加拿大连锁亚洲超市大统华宣布，奇诺冈分店将于12月10日开业，成为该品牌南加州首店。",
@@ -1930,24 +2005,6 @@
         "世界日报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "baldwin-proposes-medicare-age-50-da7679",
-      "title": "鲍德温提案拟将红蓝卡参保年龄降至50岁",
-      "description": "美国威斯康星州联邦参议员塔米·鲍德温于11月10日提出《50岁参加红蓝卡法案》，拟将联邦医疗保险（Medicare，俗称“红蓝卡”）的参保年龄门槛从65岁降至50岁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T18:16:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/baldwin-proposes-medicare-age-50-da7679",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -2177,46 +2234,6 @@
       "sources": []
     },
     {
-      "id": "joint-list-recommends-eisenkot-prime-minister-303777",
-      "title": "以色列反对派提交限总理任期及废司法改革法案",
-      "description": "以色列第26届议会11月10日举行首次会议，120名议员宣誓就职，其中46人首次当选。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T14:41:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/joint-list-recommends-eisenkot-prime-minister-303777",
-      "reference": [
-        "澎湃新闻",
-        "公视",
-        "法广",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 23,
-      "sources": []
-    },
-    {
-      "id": "nytimes-rubio-briefed-trump-huang-spy-link-931360",
-      "title": "纽时报称鲁比奥通报黄仁勋涉谍情报时特朗普仍按计划接其访华",
-      "description": "《纽约时报》援引知情人士称，特朗普今年5月乘空军一号赴华途中，国务卿兼国家安全顾问鲁比奥向他简报了一项涉及英伟达首席执行官黄仁勋的敏感情报：黄仁勋与黄乐存在恋爱关系，美国官员认定黄乐为中国国家安全部工作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T14:36:40+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/nytimes-rubio-briefed-trump-huang-spy-link-931360",
-      "reference": [
-        "世界日报",
-        "纽约时报"
-      ],
-      "section": "world",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "opcw-delegation-urges-japan-destroy-weapons-f84241",
       "title": "禁化武组织代表团第七次访华督促日本销毁遗化武",
       "description": "禁止化学武器组织执理会代表团近期第七次访华，实地考察日本遗留在中国的化学武器处理情况，并敦促日本履行销毁义务。",
@@ -2252,25 +2269,6 @@
       ],
       "section": "asia",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "taiwan-pauses-malaysia-trade-talks-79cd87",
-      "title": "台湾暂缓台马经济合作委员会投资协商",
-      "description": "台湾暂缓推动与马来西亚的双边投资协商。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T13:54:41+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/taiwan-pauses-malaysia-trade-talks-79cd87",
-      "reference": [
-        "中央通訊社",
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -2510,25 +2508,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "bessent-us-china-superintelligence-dialogue-e38d72",
-      "title": "特朗普与习近平深圳会晤将推进人工智能安全对话",
-      "description": "美国财政部长斯科特·贝森特表示，特朗普与中国国家主席习近平将在11月18日至19日于深圳举行的亚太经合组织领导人峰会期间会面，并继续推进人工智能安全对话。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T11:06:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/bessent-us-china-superintelligence-dialogue-e38d72",
-      "reference": [
-        "联合早报",
-        "世界日报"
-      ],
-      "section": "ai",
-      "sourceCount": 3,
       "sources": []
     },
     {
