@@ -1,15 +1,15 @@
 {
   "details": {
     "date": "2026-11-13",
-    "timestamp": 1794526518,
+    "timestamp": 1794533155,
     "totalPages": 1,
-    "total": 273
+    "total": 272
   },
   "stories": [
     {
       "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "黄仁勋辞去英伟达首席执行官职务",
-      "description": "英伟达董事会11月12日宣布，联合创始人黄仁勋辞去公司总裁、首席执行官和董事职务，决定即刻生效。",
+      "title": "黄仁勋辞去英伟达总裁、首席执行官及董事职务",
+      "description": "英伟达联合创始人黄仁勋于11月12日辞去公司总裁、首席执行官和董事职务，辞职即日生效，结束了他对公司的33年领导。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -24,26 +24,99 @@
         "公视"
       ],
       "section": "china",
-      "sourceCount": 307,
+      "sourceCount": 315,
       "sources": []
     },
     {
       "id": "alice-huang-manhattan-supermicro-smuggling-probe-cfea5d",
-      "title": "彭博称曼哈顿检方调查黄乐关联实体涉美超微走私",
-      "description": "彭博援引知情人士称，曼哈顿联邦检察官正在调查与黄乐有关的实体是否参与将美超微电脑（Super Micro Computer）产品走私至中国。",
+      "title": "美国司法部据报调查黄乐关联实体涉超微走私",
+      "description": "据彭博社援引一名匿名知情人士报道，美国司法部正在调查黄乐及与她有关联的实体，核查它们是否参与将超微电脑产品走私至中国。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-12T23:00:00+00:00",
+      "updatedAt": "2026-11-13T00:18:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-12",
       "url": "https://kaopu.news/story/2026-11-12/alice-huang-manhattan-supermicro-smuggling-probe-cfea5d",
       "reference": [
         "世界日报",
-        "端传媒"
+        "端传媒",
+        "联合早报"
       ],
       "section": "us",
-      "sourceCount": 3,
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "white-house-weighs-lutnick-ouster-d71279",
+      "title": "路透社称白宫权衡是否迫使卢特尼克离职",
+      "description": "据路透社报道，两名知情人士周四透露，白宫高级官员正在商议是否迫使商务部长卢特尼克离职。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T23:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/white-house-weighs-lutnick-ouster-d71279",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-lithuania-delegation-talks-ties-550e71",
+      "title": "中国大陆代表团与立陶宛会晤讨论恢复官方关系",
+      "description": "中国大陆外交官代表团到访立陶宛，这是中立两国关系因立陶宛支持台湾而陷入僵局以来，中方首次在当地直接接触。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T23:33:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/china-lithuania-delegation-talks-ties-550e71",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "kashgar-youth-football-training-base-b3e389",
+      "title": "深喀青少年足球基地为喀什少年提供系统训练",
+      "description": "在深圳援疆力量支持下，喀什市深喀青少年足球训练基地建成并投入运营，为当地青少年提供系统训练、赛事交流和足球人才培养平台。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T23:33:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/kashgar-youth-football-training-base-b3e389",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nvidia-huang-departure-succession-governance-test-2e175d",
+      "title": "彭博记者称黄仁勋离任考验英伟达接班与治理",
+      "description": "彭博资深记者张秀春在彭博科技频道Bloomberg Tech的访谈中表示，黄仁勋辞去英伟达首席执行官后，公司依靠其个人政商关系和以他为中心的管理架构，将面对接班与治理难题。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T23:16:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/nvidia-huang-departure-succession-governance-test-2e175d",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3764,43 +3837,6 @@
       "sources": []
     },
     {
-      "id": "china-csrc-slow-ai-chip-ipos-913fe8",
-      "title": "长江存储据报争取明年首季登陆科创板",
-      "description": "据彭博社11月11日引述知情人士报道，长江存储仍在推进科创板首次公开募股，目标最早于2027年第一季度在上海证券交易所挂牌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T08:48:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/china-csrc-slow-ai-chip-ipos-913fe8",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "china-marriage-registrations-fall-quarterly-4489ee",
-      "title": "前三季度结婚登记量同比下降且季度降幅扩大",
-      "description": "民政部11月4日公布，2026年前三季度全国结婚登记464.8万对，同比减少50.4万对，降幅约9.8%；比2024年同期少9.9万对。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T08:46:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/china-marriage-registrations-fall-quarterly-4489ee",
-      "reference": [
-        "财新"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "li-qiang-attend-china-asean-summit-7f1fe9",
       "title": "李强将赴马尼拉出席中国—东盟领导人会议",
       "description": "中国总理李强将于11月15日至16日赴菲律宾马尼拉，参加第29次中国—东盟领导人会议。",
@@ -3909,24 +3945,6 @@
       "sources": []
     },
     {
-      "id": "us-judge-rejects-bbc-dismissal-bid-e1f7b0",
-      "title": "美国联邦法官驳回BBC撤销特朗普诽谤案申请",
-      "description": "美国联邦地区法院法官杰弗里·T·康兹驳回BBC要求撤销特朗普诽谤诉讼的申请，但未受理特朗普依据佛罗里达州消费者保护法提出的另一项指控。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T07:34:12+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/us-judge-rejects-bbc-dismissal-bid-e1f7b0",
-      "reference": [
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "teco-gmi-cloud-japan-modular-data-center-a60fd3",
       "title": "东元与GMI Cloud将在日本建设模块化数据中心",
       "description": "东元将与人工智能云服务商GMI Cloud及日本凯信数基株式会社（KSDI），在日本九州鹿儿岛县萨摩川内市建设模块化数据中心。",
@@ -3963,24 +3981,6 @@
       ],
       "section": "world",
       "sourceCount": 27,
-      "sources": []
-    },
-    {
-      "id": "hong-kong-gazette-sex-offences-bill-1069eb",
-      "title": "香港特区政府拟刊宪公布性罪行修订草案",
-      "description": "据星岛头条报道，香港特区政府计划于2026年11月13日在宪报刊登《2026年性罪行法例（修订）条例草案》。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T06:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/hong-kong-gazette-sex-offences-bill-1069eb",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -5039,24 +5039,6 @@
       "url": "https://kaopu.news/story/2026-11-01/golden-state-valkyries-win-wnba-title-6a0e24",
       "reference": [
         "中央通訊社"
-      ],
-      "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-u17-women-eliminate-france-quarterfinals-496da2",
-      "title": "中国U17女足点球淘汰法国首进世界杯八强",
-      "description": "北京时间10月30日凌晨进行的U17女足世界杯1/8决赛中，中国队与法国队常规时间均未破门，随后进入点球决胜。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-10-29T23:57:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-30",
-      "url": "https://kaopu.news/story/2026-10-30/china-u17-women-eliminate-france-quarterfinals-496da2",
-      "reference": [
-        "澎湃新闻"
       ],
       "section": "sports",
       "sourceCount": 1,
