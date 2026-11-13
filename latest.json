@@ -1,11 +1,257 @@
 {
   "details": {
     "date": "2026-11-13",
-    "timestamp": 1794569051,
+    "timestamp": 1794576307,
     "totalPages": 1,
-    "total": 265
+    "total": 268
   },
   "stories": [
+    {
+      "id": "gibran-tells-prabowo-he-plans-to-resign-76a178",
+      "title": "普拉博沃接受吉布兰辞职，印尼将选新副总统",
+      "description": "印度尼西亚总统普拉博沃已接受副总统吉布兰的辞呈。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T12:12:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/gibran-tells-prabowo-he-plans-to-resign-76a178",
+      "reference": [
+        "联合早报",
+        "公视",
+        "法广",
+        "财新"
+      ],
+      "section": "asia",
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
+      "id": "trump-urged-huang-stay-nvidia-ceo-42590e",
+      "title": "黄仁勋辞去英伟达总裁及首席执行官职务",
+      "description": "英伟达11月12日宣布，黄仁勋即刻辞去公司总裁、首席执行官及董事会成员职务，琼斯（Harvey Jones）出任董事会主席。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T12:07:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/trump-urged-huang-stay-nvidia-ceo-42590e",
+      "reference": [
+        "纽约时报",
+        "德国之声"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "mercedes-benz-freezes-german-plant-investment-13a563",
+      "title": "奔驰暂停德国厂区投资并称成本难改将评估关厂",
+      "description": "梅赛德斯-奔驰周四决定暂停对德国各厂区的全部后续投资，并表示如果成本结构无法改变，公司将评估哪些厂区需要关闭。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T12:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/mercedes-benz-freezes-german-plant-investment-13a563",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "德国之声"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "storage-chip-prices-raise-laptop-costs-748f6f",
+      "title": "存储芯片涨价推高笔记本电脑线上均价至7759元",
+      "description": "洛图科技数据显示，2026年第三季度，中国主流电商平台笔记本电脑销售均价为7759元，同比上涨13.4%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T11:59:33.336559+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/storage-chip-prices-raise-laptop-costs-748f6f",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ding-gangqiang-zhang-qifa-urge-early-diabetes-prevention-8a8690",
+      "title": "丁钢强张启发主张糖尿病防控关口前移",
+      "description": "中国疾控中心营养学首席专家丁钢强和华中农业大学教授张启发在中国特殊食品大会上谈及糖尿病防控，主张提前识别风险，并关注胰岛素抵抗和主食结构。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T11:58:33.337139+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/ding-gangqiang-zhang-qifa-urge-early-diabetes-prevention-8a8690",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-fa-appoints-chang-weiwei-womens-coach-cf1161",
+      "title": "中国足协聘常卫魏出任国家女足主教练",
+      "description": "中国足协经选聘专家组评议，聘常卫魏任国家女足主教练、王军任第一助教，备战洛杉矶奥运会亚洲区预选赛和巴西女足世界杯。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T11:51:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/china-fa-appoints-chang-weiwei-womens-coach-cf1161",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "sports",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-congress-requests-huang-briefing-314756",
+      "title": "美国国会要求黄仁勋和卢特尼克就芯片出口作证",
+      "description": "美国国会多个委员会要求英伟达创办人黄仁勋接受问询，参议院银行委员会主席蒂姆·斯科特则要求黄仁勋和商务部长霍华德·卢特尼克接受问询，重点涉及英伟达芯片输往中国、出口管制执行及相关国家安全疑虑。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T11:51:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/us-congress-requests-huang-briefing-314756",
+      "reference": [
+        "公视",
+        "世界日报",
+        "联合早报",
+        "法广"
+      ],
+      "section": "ai",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "tcl-panel-costs-rise-material-prices-0c5b69",
+      "title": "赵军称原材料涨价推高面板成本",
+      "description": "TCL科技集团高级副总裁、TCL华星CEO赵军11月12日接受第一财经等媒体采访时表示，上游原材料涨价及汇率因素加重了公司成本负担，TCL华星不得不通过提价释放部分压力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T11:48:38.464512+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/tcl-panel-costs-rise-material-prices-0c5b69",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "south-korea-sado-mine-memorial-f40ac7",
+      "title": "韩国政府连续第三年单独举行佐渡金山劳工悼念仪式",
+      "description": "韩国政府在新潟县世界遗产“佐渡岛的金山”附近为战时遇难的朝鲜半岛劳工举行悼念仪式，韩国驻日大使李赫和9名遗属出席。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T11:33:19+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/south-korea-sado-mine-memorial-f40ac7",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-repurposes-idle-schools-eldercare-13e294",
+      "title": "多地推进闲置校舍改作养老服务设施",
+      "description": "第一财经梳理国家统计局编著出版的《中国统计年鉴2026》发现，2025年有17个省份65岁及以上人口多于0—14岁人口。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T11:26:55.406487+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/china-repurposes-idle-schools-eldercare-13e294",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "chow-sang-sang-unauthorized-data-access-082a39",
+      "title": "周生生称系统遭未经授权访问客户及员工信息或被提取",
+      "description": "周生生公告称，集团系统遭未经授权访问，初步调查发现，会员系统和官方电商渠道受到影响，部分客户及员工个人信息曾被访问，且可能已被提取。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T11:26:55.405606+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/chow-sang-sang-unauthorized-data-access-082a39",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "witkoff-norway-peace-proposal-talks-6bf424",
+      "title": "阿布扎比会谈后俄乌同意欧洲参加下轮谈判",
+      "description": "美国斡旋的俄美乌新一轮会谈在阿联酋阿布扎比举行，并于11月12日结束。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T11:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
+      "reference": [
+        "法广",
+        "澎湃新闻",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 114,
+      "sources": []
+    },
+    {
+      "id": "catl-signs-exclusive-evtol-battery-deal-f6bd2a",
+      "title": "宁德时代与亿维特签约成为独家电池伙伴",
+      "description": "宁德时代11月12日宣布与亿维特（杭州）航空科技有限公司签署协议，将成为其载人、载物电动垂直起降飞行器（eVTOL）的独家电池合作伙伴，为相关机型提供航空动力电池。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T11:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/catl-signs-exclusive-evtol-battery-deal-f6bd2a",
+      "reference": [
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "shanghai-gene-editing-study-investigation-34f989",
       "title": "上海通报交大基因编辑研究违规及处理结果",
@@ -85,6 +331,60 @@
       ],
       "section": "asia",
       "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "spacex-tesla-merger-announcement-b4d546",
+      "title": "知情人士称SpaceX与特斯拉最快12月宣布合并",
+      "description": "据澎湃新闻援引知情人士消息，马斯克旗下SpaceX与特斯拉的合并谈判仍在推进，双方董事会及顾问正敲定交易条款和合并后治理安排。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T10:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/spacex-tesla-merger-announcement-b4d546",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "israel-bars-msf-mask-materials-gaza-treatment-ec35e3",
+      "title": "以色列禁止无国界医生运入面罩材料致治疗受阻",
+      "description": "以色列禁止无国界医生组织向加沙运入制作定制烧伤面罩所需材料。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T10:49:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/israel-bars-msf-mask-materials-gaza-treatment-ec35e3",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "hainan-airlines-charges-jia-refund-fee-0b4f4a",
+      "title": "贾先生误购海航机票几分钟后退票被扣1万元",
+      "description": "江苏消费者贾先生向央广网反映，他在2026年8月8日凌晨误买两张海南航空飞往墨尔本的国际联程商务舱机票，票款共23576元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T10:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/hainan-airlines-charges-jia-refund-fee-0b4f4a",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -494,27 +794,6 @@
       "sources": []
     },
     {
-      "id": "us-congress-requests-huang-briefing-314756",
-      "title": "美国国会要求黄仁勋和卢特尼克就芯片出口作证",
-      "description": "美国参议院银行委员会主席蒂姆·斯科特于11月12日致函英伟达创办人黄仁勋和美国商务部长霍华德·卢特尼克，要求两人就英伟达对华人工智能芯片出口及相关国家安全疑虑出席委员会听证会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T09:15:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/us-congress-requests-huang-briefing-314756",
-      "reference": [
-        "公视",
-        "世界日报",
-        "联合早报",
-        "法广"
-      ],
-      "section": "ai",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "asian-games-container-homes-kumamoto-quake-relief-fe59c8",
       "title": "亚运及亚残运集装箱设施启程赴熊本改作临时住宅",
       "description": "亚运会和亚残运会期间供运动员等使用的集装箱式住宿设施，11月12日从名古屋市港区花园码头启程前往熊本县，拟改作7月熊本地震灾民临时住宅。",
@@ -530,27 +809,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "gibran-tells-prabowo-he-plans-to-resign-76a178",
-      "title": "印尼人协拟12月2日选出新副总统",
-      "description": "印度尼西亚副总统吉布兰·拉卡布明·拉卡于11月12日向总统普拉博沃和人民协商会议递交辞呈。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T09:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/gibran-tells-prabowo-he-plans-to-resign-76a178",
-      "reference": [
-        "联合早报",
-        "公视",
-        "法广",
-        "财新"
-      ],
-      "section": "asia",
-      "sourceCount": 14,
       "sources": []
     },
     {
@@ -1166,25 +1424,6 @@
       ],
       "section": "ai",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "mercedes-benz-freezes-german-plant-investment-13a563",
-      "title": "梅赛德斯-奔驰暂停德国投资并评估关厂",
-      "description": "梅赛德斯-奔驰董事会已共同决定，暂停对德国厂区的所有进一步投资。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T07:03:42+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/mercedes-benz-freezes-german-plant-investment-13a563",
-      "reference": [
-        "澎湃新闻",
-        "法广"
-      ],
-      "section": "business",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2266,24 +2505,6 @@
       "sources": []
     },
     {
-      "id": "trump-urged-huang-stay-nvidia-ceo-42590e",
-      "title": "纽约时报称特朗普曾劝黄仁勋争取留任英伟达CEO",
-      "description": "《纽约时报》援引两名了解通话情况的人士称，黄仁勋离开英伟达首席执行官职位前，特朗普曾在周二打电话劝他继续争取留下。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T03:24:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/trump-urged-huang-stay-nvidia-ceo-42590e",
-      "reference": [
-        "纽约时报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "lee-jae-myung-proposes-capital-market-reforms-63ffdc",
       "title": "李在明赴韩国交易所提出资本市场改革措施",
       "description": "韩国总统李在明13日访问韩国交易所并主持资本市场政策座谈会，这是他就任总统后第二次到访该交易所。",
@@ -2314,24 +2535,6 @@
       "url": "https://kaopu.news/story/2026-11-13/smic-ai-semiconductor-shortage-through-2027-762175",
       "reference": [
         "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "cisco-raises-annual-revenue-forecast-af56f1",
-      "title": "思科上调全年营收预测至748亿至758亿美元",
-      "description": "思科11月12日公布第一季度业绩，营收和调整后每股收益均超过市场预期，并提高2027会计年度营收预测。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T03:07:08+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/cisco-raises-annual-revenue-forecast-af56f1",
-      "reference": [
-        "中央通訊社"
       ],
       "section": "business",
       "sourceCount": 1,
@@ -2527,25 +2730,6 @@
       "sources": []
     },
     {
-      "id": "jensen-huang-exit-nvidia-fall-us-stocks-bb2872",
-      "title": "美国三大股指周四收盘均小幅下跌",
-      "description": "美东时间11月12日，美国三大股指收跌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T00:33:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/jensen-huang-exit-nvidia-fall-us-stocks-bb2872",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "south-korea-proposes-finance-ceo-reelection-threshold-673b53",
       "title": "韩国执政党政府拟提高金融控股公司首席执行官连任门槛",
       "description": "韩国执政党和政府11月12日提出金融公司治理改革方案，拟提高金融控股公司首席执行官连任所需支持度，并调整高管继任提名机制。",
@@ -2579,27 +2763,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "spain-national-strike-disrupts-transport-487685",
-      "title": "西班牙两大工会发起全国总罢工抗议住房危机",
-      "description": "西班牙两大主要工会11月11日发起为期24小时的全国总罢工，抗议住房成本高企、生活开支上涨和工资购买力下降。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T00:26:44+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/spain-national-strike-disrupts-transport-487685",
-      "reference": [
-        "澎湃新闻",
-        "法广",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -2693,25 +2856,6 @@
       "sources": []
     },
     {
-      "id": "saudi-energy-attacks-lift-oil-prices-63fd6b",
-      "title": "沙特能源设施遇袭加剧推高国际油价",
-      "description": "沙特阿拉伯能源基础设施遇袭情况加重，霍尔木兹海峡航运受阻，全球石油运输受到威胁，国际油价于11月12日上涨。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T21:13:06+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/saudi-energy-attacks-lift-oil-prices-63fd6b",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "kioxia-sandisk-plan-five-trillion-yen-nand-expansion-abfa65",
       "title": "铠侠与闪迪计划到2032年投资5万亿日元扩产",
       "description": "铠侠与美国闪迪计划到2032年累计投入5万亿日元，在日本扩建NAND闪存生产设施，投资将用于岩手县北上市的北上工厂和三重县四日市市的四日市工厂。",
@@ -2767,24 +2911,6 @@
       ],
       "section": "us",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "malaysia-police-arrest-932-scam-center-workers-1ab0c5",
-      "title": "马来西亚警方13天逮捕932名诈骗团伙成员",
-      "description": "马来西亚警方于2026年10月19日至31日开展全国打击行动，清查112个诈骗团伙呼叫中心，13天内逮捕932人。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T16:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/malaysia-police-arrest-932-scam-center-workers-1ab0c5",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3697,60 +3823,6 @@
       "sources": []
     },
     {
-      "id": "us-renters-homeowners-moving-rates-fall-13ea1e",
-      "title": "加州租客搬迁率下降，全美家庭搬迁率创低",
-      "description": "加州租客搬迁率下降，2024年全美家庭搬迁率创下新低，租客更多选择留在原住处续租，房价与房贷负担也使购房计划延后。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T06:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/us-renters-homeowners-moving-rates-fall-13ea1e",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "new-york-court-approves-home-care-settlement-5d12f7",
-      "title": "纽约法院批准居家护理员1.62亿美元和解案",
-      "description": "纽约东区联邦法院11月10日批准一项总额1.62亿美元的集体诉讼和解，解决四名居家护理员针对薪资管理公司Public Partnerships LLC（PPL）提出的欠薪及福利争议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/new-york-court-approves-home-care-settlement-5d12f7",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "queens-library-ransomware-public-computers-restored-086abd",
-      "title": "皇后区图书馆遭勒索软件攻击七处分馆电脑恢复",
-      "description": "皇后区公共图书馆系统11月4日发生网络故障，随后确认故障由勒索软件攻击造成，波及全区66个分馆。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/queens-library-ransomware-public-computers-restored-086abd",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "mlb-owners-lockout-labor-talks-stall-c1ec5b",
       "title": "美媒称MLB资方可能在协议到期后封馆",
       "description": "美国职棒大联盟（MLB）劳资谈判陷入僵局。",
@@ -4259,26 +4331,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "space-computing-firm-launches-hefei-694716",
-      "title": "空天院联合企业发布星云星座计划",
-      "description": "中国科学院空天信息创新研究院与企业联合推出“星云星座计划”，并在合肥成立中科星云太空智能科技（合肥）有限公司。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T11:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/space-computing-firm-launches-hefei-694716",
-      "reference": [
-        "第一财经",
-        "财新",
-        "联合早报"
-      ],
-      "section": "tech",
-      "sourceCount": 4,
       "sources": []
     },
     {
