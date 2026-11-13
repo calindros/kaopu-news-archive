@@ -3,13 +3,13 @@
     "date": "2026-11-13",
     "timestamp": 1794533155,
     "totalPages": 1,
-    "total": 272
+    "total": 271
   },
   "stories": [
     {
       "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "黄仁勋辞去英伟达总裁、首席执行官及董事职务",
-      "description": "英伟达联合创始人黄仁勋于11月12日辞去公司总裁、首席执行官和董事职务，辞职即日生效，结束了他对公司的33年领导。",
+      "title": "黄仁勋辞任英伟达总裁及首席执行官",
+      "description": "英伟达11月12日宣布，联合创始人黄仁勋辞去公司总裁、首席执行官及董事职务，辞职即刻生效。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -24,7 +24,199 @@
         "公视"
       ],
       "section": "china",
-      "sourceCount": 315,
+      "sourceCount": 319,
+      "sources": []
+    },
+    {
+      "id": "white-house-weighs-lutnick-ouster-d71279",
+      "title": "白宫高层据报讨论迫使卢特尼克离职",
+      "description": "路透社援引两名知情人士报道，白宫高级官员曾讨论是否应迫使商务部长霍华德·卢特尼克离职。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T01:13:06+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/white-house-weighs-lutnick-ouster-d71279",
+      "reference": [
+        "联合早报",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "carney-urges-xi-china-noninterference-65234e",
+      "title": "卡尼将赴深圳会晤习近平讨论贸易与电动车投资",
+      "description": "加拿大总理马克·卡尼计划11月17日在深圳会晤中国国家主席习近平，商谈扩大双边贸易及电动汽车制造。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T00:52:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/carney-urges-xi-china-noninterference-65234e",
+      "reference": [
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "taiwan-closes-papua-new-guinea-office-d9ac7d",
+      "title": "台湾决定关闭驻巴布亚新几内亚代表处",
+      "description": "台湾已启动撤离驻巴布亚新几内亚代表处人员的工作，计划在11月底前完成。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T00:52:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/taiwan-closes-papua-new-guinea-office-d9ac7d",
+      "reference": [
+        "中央通訊社",
+        "公视",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "jensen-huang-exit-nvidia-fall-us-stocks-bb2872",
+      "title": "美国三大股指周四收盘均小幅下跌",
+      "description": "美东时间11月12日，美国三大股指收跌。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T00:33:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/jensen-huang-exit-nvidia-fall-us-stocks-bb2872",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "microsoft-outage-disrupts-us-users-connectors-72c8f7",
+      "title": "微软Outlook大规模故障影响全球用户",
+      "description": "微软旗下Outlook、Microsoft 365及Teams于美东时间11月12日下午1时左右发生大规模故障，全球用户收发邮件和使用相关服务受到影响。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T00:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/microsoft-outage-disrupts-us-users-connectors-72c8f7",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "tech",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "south-korea-proposes-finance-ceo-reelection-threshold-673b53",
+      "title": "韩国执政党政府拟提高金融控股公司首席执行官连任门槛",
+      "description": "韩国执政党和政府11月12日提出金融公司治理改革方案，拟提高金融控股公司首席执行官连任所需支持度，并调整高管继任提名机制。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T00:27:39+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/south-korea-proposes-finance-ceo-reelection-threshold-673b53",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "south-korea-rates-inclusive-finance-performance-3b6e6b",
+      "title": "韩国政府宣布评估金融公司普惠金融业绩",
+      "description": "韩国政府上月宣布，将评估金融公司的普惠金融业绩。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T00:27:27+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/south-korea-rates-inclusive-finance-performance-3b6e6b",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "spain-national-strike-disrupts-transport-487685",
+      "title": "西班牙两大工会发起全国总罢工抗议住房危机",
+      "description": "西班牙两大主要工会11月11日发起为期24小时的全国总罢工，抗议住房成本高企、生活开支上涨和工资购买力下降。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T00:26:44+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/spain-national-strike-disrupts-transport-487685",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "changan-avatr-equity-transfer-993e2b",
+      "title": "长安汽车挂牌转让阿维塔10%股权",
+      "description": "长安汽车11月12日晚启动转让阿维塔科技10%股权，拟挂牌转让30651.4667万股，底价为31.828亿元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T00:24:46.917226+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/changan-avatr-equity-transfer-993e2b",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "washington-logan-circle-shooting-five-people-shot-47c504",
+      "title": "华盛顿健身房枪击致一死四伤，枪手自尽",
+      "description": "美国华盛顿特区洛根圆环附近一家Vida Fitness健身俱乐部11月12日上午8时左右发生枪击，造成一人死亡、四人受伤；枪手随后躲进附近公寓，与警方对峙超过一小时，并在警方破门前开枪自尽，送医后死亡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T00:22:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/washington-logan-circle-shooting-five-people-shot-47c504",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "世界日报",
+        "公视"
+      ],
+      "section": "us",
+      "sourceCount": 4,
       "sources": []
     },
     {
@@ -45,24 +237,6 @@
       ],
       "section": "us",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "white-house-weighs-lutnick-ouster-d71279",
-      "title": "路透社称白宫权衡是否迫使卢特尼克离职",
-      "description": "据路透社报道，两名知情人士周四透露，白宫高级官员正在商议是否迫使商务部长卢特尼克离职。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T23:43:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/white-house-weighs-lutnick-ouster-d71279",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -177,25 +351,6 @@
       "sources": []
     },
     {
-      "id": "jensen-huang-exit-nvidia-fall-us-stocks-bb2872",
-      "title": "中央社称黄仁勋离任后辉达下跌拖累美股",
-      "description": "美国三大指数收跌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T21:42:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/jensen-huang-exit-nvidia-fall-us-stocks-bb2872",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "saudi-energy-attacks-lift-oil-prices-63fd6b",
       "title": "沙特能源设施遇袭加剧推高国际油价",
       "description": "沙特阿拉伯能源基础设施遇袭情况加重，霍尔木兹海峡航运受阻，全球石油运输受到威胁，国际油价于11月12日上涨。",
@@ -268,24 +423,6 @@
         "世界日报"
       ],
       "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "microsoft-outage-disrupts-us-users-connectors-72c8f7",
-      "title": "微软多项服务中断影响美国用户和AI连接器",
-      "description": "微软365、Outlook和Teams于11月12日发生服务中断，数以千计美国用户受到影响，OpenAI和Anthropic使用的微软连接器也出现问题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T20:40:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/microsoft-outage-disrupts-us-users-connectors-72c8f7",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "tech",
       "sourceCount": 1,
       "sources": []
     },
@@ -397,26 +534,6 @@
       ],
       "section": "ai",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "washington-logan-circle-shooting-five-people-shot-47c504",
-      "title": "华府洛根圆环健身房枪击致两死四伤",
-      "description": "华盛顿特区洛根圆环附近的Vida Fitness健身房11月12日上午发生枪击，一人当场死亡、四人受伤；嫌犯随后躲入附近公寓并纵火，在与警方对峙一个多小时后开枪自尽。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T17:54:42+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/washington-logan-circle-shooting-five-people-shot-47c504",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1687,24 +1804,6 @@
       "sources": []
     },
     {
-      "id": "mongolia-submits-diplomatic-notes-altantuya-justice-4d1f44",
-      "title": "蒙古政府递交外交照会为阿旦杜亚家属寻求正义",
-      "description": "蒙古特使赞丹沙塔尔表示，蒙古政府已启动正式外交行动，目标是为阿旦杜亚家属查明案件真相、厘清责任并争取公正。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T10:30:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/mongolia-submits-diplomatic-notes-altantuya-justice-4d1f44",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "democrats-win-congress-bank-stocks-fall-89de86",
       "title": "民主党赢得国会两院后美国银行股下跌",
       "description": "民主党赢得美国国会参众两院后，美国银行股下跌。",
@@ -1776,27 +1875,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "cop31-antalya-opens-global-stocktake-54a7c1",
-      "title": "COP31领导人峰会呼吁加快气候行动",
-      "description": "联合国气候变化大会COP31领导人峰会11月11日在土耳其安塔利亚开幕，为期两天，90多个国家的领导人出席。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T10:10:27+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/cop31-antalya-opens-global-stocktake-54a7c1",
-      "reference": [
-        "澎湃新闻",
-        "公视",
-        "联合早报",
-        "SBS"
-      ],
-      "section": "world",
-      "sourceCount": 39,
       "sources": []
     },
     {
@@ -2658,25 +2736,6 @@
       "sources": []
     },
     {
-      "id": "saudi-oil-output-hits-high-since-february-1ce9f3",
-      "title": "海湾六国原油日产量升至美伊冲突以来新高",
-      "description": "OPEC 11月11日公布的月报显示，除伊朗和缺少相关数据的卡塔尔外，海湾六国10月原油日产量合计2080万桶，环比增200万桶，创美伊军事冲突以来新高；与冲突前2月的2130万桶相比仍少约50万桶。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T05:52:34+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/saudi-oil-output-hits-high-since-february-1ce9f3",
-      "reference": [
-        "联合早报",
-        "日经"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "south-korea-allows-prescription-medicine-entry-9683e8",
       "title": "韩国允许个人携带海外自用处方药入境",
       "description": "韩国自11月12日起允许个人将通过海外正规医疗体系获得处方并购买的自用治疗药品随身带入境。",
@@ -2752,26 +2811,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-closes-papua-new-guinea-office-d9ac7d",
-      "title": "台湾决定关闭驻巴布亚新几内亚代表处",
-      "description": "台湾外交部决定关闭驻巴布亚新几内亚代表处，撤回所有派驻人员，并终止对该国的技术合作与援助项目。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T05:35:51+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/taiwan-closes-papua-new-guinea-office-d9ac7d",
-      "reference": [
-        "中央通訊社",
-        "公视",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 11,
-      "sources": []
-    },
-    {
       "id": "taiwan-ministry-warns-air-law-impact-ff23fe",
       "title": "台湾工总呼吁立法院维持燃煤机组管理机制",
       "description": "台湾全国工业总会11月12日呼吁台湾立法院不通过《空气污染防制法》修正草案，维持现行第28条和第30条规定。",
@@ -2805,25 +2844,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "allianz-trade-us-iran-war-gulf-losses-044a6b",
-      "title": "安联贸易预计海湾国家战争损失将达7900亿美元",
-      "description": "安联贸易11月11日发布评估报告称，美国和以色列对伊朗的战争已给海湾地区造成超过2000亿美元实体损失。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T05:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/allianz-trade-us-iran-war-gulf-losses-044a6b",
-      "reference": [
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2956,24 +2976,6 @@
       "sources": []
     },
     {
-      "id": "south-korea-us-surplus-nears-140-billion-882ac2",
-      "title": "韩民族日报称韩国对美顺差料逼近1400亿美元",
-      "description": "韩国对美贸易顺差快速扩大，韩民族日报按当前走势测算，全年顺差将超过1300亿美元、接近1400亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T03:51:39+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/south-korea-us-surplus-nears-140-billion-882ac2",
-      "reference": [
-        "韩民族日报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "broadcasters-expand-ai-dramas-tv-monetization-0167d3",
       "title": "广电系企业加快AI剧制作探索大屏变现",
       "description": "芒果超媒、华数传媒、海看股份、东方明珠等广电系企业正在加快制作和播出AI剧，并探索在电视大屏实现商业回报。",
@@ -3028,24 +3030,6 @@
       ],
       "section": "life",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "taiwan-official-vows-defend-sovereignty-bbea09",
-      "title": "邱垂正称台湾政府将坚定捍卫主权安全",
-      "description": "台湾立法院内政委员会11月12日邀请台湾陆委会、海基会作业务报告并备质询。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T03:13:41+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/taiwan-official-vows-defend-sovereignty-bbea09",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
