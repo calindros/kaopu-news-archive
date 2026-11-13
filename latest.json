@@ -1,15 +1,15 @@
 {
   "details": {
     "date": "2026-11-13",
-    "timestamp": 1794540641,
+    "timestamp": 1794547164,
     "totalPages": 1,
-    "total": 269
+    "total": 270
   },
   "stories": [
     {
       "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "黄仁勋辞任英伟达首席执行官克雷斯临时接任",
-      "description": "英伟达联合创始人黄仁勋于11月12日辞去公司总裁、首席执行官及董事职务，辞职当日生效，结束自1993年共同创办公司以来长达33年的执掌。",
+      "title": "黄仁勋辞职结束执掌英伟达长达33年",
+      "description": "英伟达联合创始人兼首席执行官黄仁勋于11月12日辞职，结束对公司的33年领导。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -24,7 +24,346 @@
         "公视"
       ],
       "section": "china",
-      "sourceCount": 333,
+      "sourceCount": 338,
+      "sources": []
+    },
+    {
+      "id": "microsoft-outage-disrupts-us-users-connectors-72c8f7",
+      "title": "微软多项服务全球中断波及多国用户",
+      "description": "微软旗下Microsoft 365及多项相关服务从11月12日起发生全球性大规模中断，Outlook、Exchange Online、Teams和OneDrive等受到影响。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T04:20:46+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/microsoft-outage-disrupts-us-users-connectors-72c8f7",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "澎湃新闻",
+        "SBS"
+      ],
+      "section": "tech",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "fed-cuts-2027-rate-decisions-to-seven-1b1432",
+      "title": "美联储将2027年利率决策会议减至七次",
+      "description": "多名美联储官员主张进一步收紧货币政策之际，美联储当地时间11月12日公布2027年会议安排：全年仍计划召开8次会议，但10月26日至27日将专门讨论货币政策战略，不作联邦基金利率决定，利率决策会议因此减为7次。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T04:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/fed-cuts-2027-rate-decisions-to-seven-1b1432",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-defense-institute-china-navy-c76da6",
+      "title": "日本防卫研究所发布报告称中国强化远海作战能力",
+      "description": "日本防卫省智库防卫研究所11月13日公布《中国安全保障报告2027》，称中国海军正在增强远离本土海域的作战能力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T04:02:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/japan-defense-institute-china-navy-c76da6",
+      "reference": [
+        "共同网",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "han-song-china-resources-bribery-prosecution-c2df78",
+      "title": "华润集团原副总经理韩嵩被提起公诉",
+      "description": "湖南省郴州市人民检察院近日将华润（集团）有限公司原党委委员、副总经理韩嵩涉嫌受贿案起诉至郴州市中级人民法院。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T03:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/han-song-china-resources-bribery-prosecution-c2df78",
+      "reference": [
+        "澎湃新闻",
+        "财新"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "usps-raises-parcel-fuel-surcharge-11-percent-c6f706",
+      "title": "美国邮政拟将包裹燃油附加费永久上调至11%",
+      "description": "美国邮政总局（USPS）11月12日表示，计划从2027年1月起将包裹和快递邮件燃油附加费从8%提高至11%，并将这项临时收费改为永久收费。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T03:50:47+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/usps-raises-parcel-fuel-surcharge-11-percent-c6f706",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "offshore-trust-tax-reports-exceed-1600-billion-yuan-670fb4",
+      "title": "离岸信托个税累计申报金额超过1600亿元",
+      "description": "中国国家税务总局11月11日公布，离岸信托收益个人所得税90天过渡期已于10月22日结束。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T03:42:43.507240+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/offshore-trust-tax-reports-exceed-1600-billion-yuan-670fb4",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "联合早报",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "takaichi-to-attend-asean-apec-summits-4edebc",
+      "title": "高市早苗将于16日至19日访菲赴华",
+      "description": "日本政府宣布，首相高市早苗将于11月16日至19日访问菲律宾和中国，先赴菲律宾出席东盟相关首脑会议，再前往深圳参加定于11月18日至19日举行的亚太经合组织（APEC）峰会。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T03:42:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/takaichi-to-attend-asean-apec-summits-4edebc",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "日经",
+        "日本放送协会"
+      ],
+      "section": "asia",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "yen-falls-159-midrange-mimura-warns-f831c2",
+      "title": "日元一度跌至160.03后回升",
+      "description": "日元在纽约外汇市场走弱，11月12日一度跌至1美元兑160.03日元，为9月上旬以来近两个半月低位。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T03:41:29+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/yen-falls-159-midrange-mimura-warns-f831c2",
+      "reference": [
+        "共同网",
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "iran-submits-nuclear-proposal-via-qatar-bf7812",
+      "title": "雷扎伊称伊朗将把浓缩铀留在境内",
+      "description": "伊朗最高国家安全委员会秘书雷扎伊在11月11日播出的黎巴嫩媒体采访中表示，伊朗不会允许浓缩核材料离开本国。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T03:39:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/iran-submits-nuclear-proposal-via-qatar-bf7812",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "澎湃新闻",
+        "共同网"
+      ],
+      "section": "world",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "brazil-amazon-municipalities-drought-emergency-2fe422",
+      "title": "巴西亚马孙州50个市镇进入干旱紧急状态",
+      "description": "巴西亚马孙州旱情加剧，62个市镇中有50个进入干旱紧急状态。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T03:38:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/brazil-amazon-municipalities-drought-emergency-2fe422",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-exam-registrations-reach-347-million-c0418a",
+      "title": "2027年全国硕士研究生招生考试报名人数为347万",
+      "description": "据教育部消息，2027年全国硕士研究生招生考试报名人数为347万。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T03:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/china-exam-registrations-reach-347-million-c0418a",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "umno-chief-warns-pact-collapse-return-power-6ddb1f",
+      "title": "巫统总秘书阿斯拉夫警告协议失效或须还政于民",
+      "description": "巫统总秘书阿斯拉夫警告，若国阵与希盟任何一方不遵守双方的政治协议，协议可能失效，届时或须还政于民。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T03:30:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/umno-chief-warns-pact-collapse-return-power-6ddb1f",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "shi-bingzhe-companies-charged-server-purchases-e8d1fa",
+      "title": "施炳哲及两家公司涉购涉诈服务器被控",
+      "description": "中国籍施炳哲与NJ Global Financial、Superphi两家公司11月13日在新加坡被控。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T03:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/shi-bingzhe-companies-charged-server-purchases-e8d1fa",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-demands-japan-fund-troop-costs-684b6e",
+      "title": "共同社称美要求日本五年承担逾3万亿日元驻军费",
+      "description": "共同社援引多名日美外交消息人士报道，美国政府要求日本承担2027年度起五年超过3万亿日元的驻日美军经费，约为现行水平的三倍。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T03:24:30+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/us-demands-japan-fund-troop-costs-684b6e",
+      "reference": [
+        "共同网"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-urged-huang-stay-nvidia-ceo-42590e",
+      "title": "纽约时报称特朗普曾劝黄仁勋争取留任英伟达CEO",
+      "description": "《纽约时报》援引两名了解通话情况的人士称，黄仁勋离开英伟达首席执行官职位前，特朗普曾在周二打电话劝他继续争取留下。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T03:24:19+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/trump-urged-huang-stay-nvidia-ceo-42590e",
+      "reference": [
+        "纽约时报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "chinese-student-ice-los-angeles-voluntary-departure-a14e3b",
+      "title": "世界日报称中国留学生遭ICE羁押后获准自愿离境",
+      "description": "据世界日报报道，一名在美国生活近10年的中国留学生从旧金山乘机抵达洛杉矶国际机场后，在机场接受检查时被拦下，随后移交美国移民及海关执法局（ICE）羁押。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T03:22:23+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/chinese-student-ice-los-angeles-voluntary-departure-a14e3b",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "smic-ai-semiconductor-shortage-through-2027-762175",
+      "title": "中芯国际称AI半导体供应链紧张将延续至2027年",
+      "description": "中芯国际联席首席执行官赵海军11月13日在第三季度业绩会上表示，数据中心和私有云需求使AI算力及配套芯片供不应求，供应链紧张将延续至2027年。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T03:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/smic-ai-semiconductor-shortage-through-2027-762175",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-plans-nationalize-aging-equipment-901749",
+      "title": "日本经产省拟将重要物资老旧设备收归国有",
+      "description": "日本经济产业省已启动讨论，拟由国家出资收购生产重要化工产品、铸件等的民营设备并进行更新，以维持日本境内的生产基础。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T03:09:58+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/japan-plans-nationalize-aging-equipment-901749",
+      "reference": [
+        "日经"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -46,6 +385,42 @@
       "sources": []
     },
     {
+      "id": "cisco-raises-annual-revenue-forecast-af56f1",
+      "title": "思科上调全年营收预测至748亿至758亿美元",
+      "description": "思科11月12日公布第一季度业绩，营收和调整后每股收益均超过市场预期，并提高2027会计年度营收预测。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T03:07:08+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/cisco-raises-annual-revenue-forecast-af56f1",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "jensen-huang-exit-taiwan-stocks-rally-5fb878",
+      "title": "台股大涨近1400点收复前一交易日跌幅",
+      "description": "台湾股市13日开盘走高，加权指数盘中最高升至44489.48点，较前一交易日上涨1397.61点，收复前一交易日跌点。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T02:59:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/jensen-huang-exit-taiwan-stocks-rally-5fb878",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
       "id": "child-abuse-accomplice-sentenced-13-years-e7cf5e",
       "title": "蔡若思参与虐童弃尸案被判监禁13年",
       "description": "高庭11月13日判处蔡若思监禁13年。",
@@ -64,24 +439,24 @@
       "sources": []
     },
     {
-      "id": "takaichi-to-attend-asean-apec-summits-4edebc",
-      "title": "高市早苗将访菲律宾和中国出席两场峰会",
-      "description": "日本官房副长官尾崎正直11月13日宣布，首相高市早苗将于11月16日至19日访问菲律宾和中国，出席在菲律宾举行的东盟相关首脑会议，并前往中国深圳参加11月18日至19日的亚太经合组织（APEC）领导人会议。",
+      "id": "alice-huang-manhattan-supermicro-smuggling-probe-cfea5d",
+      "title": "彭博称美司法部调查黄乐关联实体涉美超微产品走私",
+      "description": "据彭博社援引一名知情人士报道，美国司法部正在调查与黄乐有关联的实体是否参与将美超微电脑产品走私至中国，调查由纽约曼哈顿联邦检察官办公室主导。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-13T02:40:48+00:00",
+      "updatedAt": "2026-11-13T02:43:44+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/takaichi-to-attend-asean-apec-summits-4edebc",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/alice-huang-manhattan-supermicro-smuggling-probe-cfea5d",
       "reference": [
-        "共同网",
+        "世界日报",
+        "端传媒",
         "联合早报",
-        "日经",
-        "日本放送协会"
+        "中央通訊社"
       ],
-      "section": "asia",
-      "sourceCount": 10,
+      "section": "us",
+      "sourceCount": 5,
       "sources": []
     },
     {
@@ -99,6 +474,24 @@
         "世界日报"
       ],
       "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "paraguay-searches-former-president-pena-home-005cc3",
+      "title": "巴拉圭当局搜查前总统潘尼亚私人住宅",
+      "description": "巴拉圭当局11月9日搜查前总统潘尼亚位于首都亚松森的私人住宅，查扣包括手机和电脑在内的文件。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T02:31:39+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/paraguay-searches-former-president-pena-home-005cc3",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -214,64 +607,6 @@
       "sources": []
     },
     {
-      "id": "yen-falls-159-midrange-mimura-warns-f831c2",
-      "title": "日元纽约汇市一度跌入160日元区间",
-      "description": "11月12日，日元兑美元在纽约外汇市场一度跌入1美元兑160日元区间，触及9月上旬以来约两个半月低位，随后回升至159.50日元左右。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T02:12:33+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/yen-falls-159-midrange-mimura-warns-f831c2",
-      "reference": [
-        "共同网",
-        "日经"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "microsoft-outage-disrupts-us-users-connectors-72c8f7",
-      "title": "微软多项服务宕机数小时影响全球用户",
-      "description": "微软旗下Outlook、Microsoft 365、Teams等服务于美东时间11月12日下午发生大范围故障，持续数小时。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T02:09:05+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/microsoft-outage-disrupts-us-users-connectors-72c8f7",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "澎湃新闻",
-        "SBS"
-      ],
-      "section": "tech",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "jensen-huang-exit-taiwan-stocks-rally-5fb878",
-      "title": "黄仁勋去职消息传出台股早盘大涨逾千点",
-      "description": "黄仁勋辞去辉达总裁、首席执行官等职务，财务长克瑞斯（Colette Kress）接任临时首席执行官。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T02:06:28+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/jensen-huang-exit-taiwan-stocks-rally-5fb878",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "ai",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "state-local-elections-shape-data-centers-70335c",
       "title": "霍尔舍当选堪萨斯州长并主张暂停新建数据中心",
       "description": "美国中期选举后，民主党赢得国会两院，并在多个州取得胜利。",
@@ -362,24 +697,6 @@
         "世界日报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-defense-institute-china-navy-c76da6",
-      "title": "日本防卫研究所报告指中国海军强化远洋作战能力",
-      "description": "日本防卫研究所公布《中国安全保障报告2027》。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T01:12:37+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/japan-defense-institute-china-navy-c76da6",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -571,26 +888,6 @@
         "澎湃新闻",
         "世界日报",
         "公视"
-      ],
-      "section": "us",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "alice-huang-manhattan-supermicro-smuggling-probe-cfea5d",
-      "title": "美国司法部据报调查黄乐关联实体涉超微走私",
-      "description": "据彭博社援引一名匿名知情人士报道，美国司法部正在调查黄乐及与她有关联的实体，核查它们是否参与将超微电脑产品走私至中国。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T00:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/alice-huang-manhattan-supermicro-smuggling-probe-cfea5d",
-      "reference": [
-        "世界日报",
-        "端传媒",
-        "联合早报"
       ],
       "section": "us",
       "sourceCount": 4,
@@ -1357,24 +1654,6 @@
       "sources": []
     },
     {
-      "id": "us-demands-japan-fund-troop-costs-684b6e",
-      "title": "美方据报要求日本承担超3万亿日元驻军费",
-      "description": "共同社援引日美外交消息人士称，这些人士于11月12日披露，美国政府要求日本政府承担自2027年度起连续五年的驻日美军驻留经费。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T12:47:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/us-demands-japan-fund-troop-costs-684b6e",
-      "reference": [
-        "共同网"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-central-bank-easing-growth-target-461a18",
       "title": "央行报告提出加大逆周期调节力度",
       "description": "中国人民银行11月11日发布《2026年第三季度货币政策执行报告》，表示将继续实施适度宽松的货币政策，加大逆周期调节力度，并推动存量政策与增量政策协同发力，努力完成全年经济社会发展目标任务。",
@@ -1863,25 +2142,6 @@
       "sources": []
     },
     {
-      "id": "israel-strikes-nasser-hospital-six-dead-13d7cd",
-      "title": "以军空袭加沙纳瑟医院造成六死二十多人伤",
-      "description": "以军11月12日空袭加沙南部汗尤尼斯的纳瑟医院，造成6人死亡、20多人受伤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T11:33:37+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/israel-strikes-nasser-hospital-six-dead-13d7cd",
-      "reference": [
-        "联合早报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "germany-dax-hits-record-high-cbd7d3",
       "title": "德国DAX指数首次突破27000点创下历史新高",
       "description": "德国股市基准指数DAX早盘首次升破27000点，刷新历史纪录。",
@@ -1952,26 +2212,6 @@
       ],
       "section": "asia",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "najib-unpaid-fine-remains-prison-57954f",
-      "title": "赛夫丁公布纳吉居家服刑限制条件",
-      "description": "马来西亚内政部长赛夫丁在国会说明，前首相纳吉居家服刑期间须遵守的同住、通讯、探访和行为规定；违反条件将被送回监狱。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T11:04:40+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/najib-unpaid-fine-remains-prison-57954f",
-      "reference": [
-        "联合早报",
-        "当今大马",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 48,
       "sources": []
     },
     {
@@ -2050,24 +2290,6 @@
       "sources": []
     },
     {
-      "id": "china-pistachio-prices-rise-imports-699b68",
-      "title": "中国市场开心果批发零售价格大幅上涨",
-      "description": "中国市场开心果批发和零售价格近期明显上涨。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T10:36:36.770404+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/china-pistachio-prices-rise-imports-699b68",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "shinjuku-tourist-scam-complaints-triple-de656c",
       "title": "新宿外国游客被宰求助同比增至三倍",
       "description": "今年1月至10月，东京新宿警署接到外国游客遭“宰客”的求助约240起，约为去年同期三倍。",
@@ -2082,24 +2304,6 @@
         "共同网"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "democrats-win-congress-bank-stocks-fall-89de86",
-      "title": "民主党赢得国会两院后美国银行股下跌",
-      "description": "民主党赢得美国国会参众两院后，美国银行股下跌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T10:22:38.241215+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/democrats-win-congress-bank-stocks-fall-89de86",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -2253,25 +2457,6 @@
       "sources": []
     },
     {
-      "id": "china-fuel-retail-price-cut-forecast-38f15e",
-      "title": "国家发改委宣布汽柴油今晚24时起下调",
-      "description": "中国国家发展和改革委员会宣布，中国大陆汽油、柴油标准品价格将于11月12日24时起每吨分别下调645元和625元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T08:46:45.625697+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/china-fuel-retail-price-cut-forecast-38f15e",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "childbirth-complications-cause-years-long-health-problems-0f91f6",
       "title": "分娩并发症让女性多年后仍受病痛困扰",
       "description": "分娩和剖宫产造成的部分并发症，可能在产后多年持续，甚至多年后才显现。",
@@ -2305,24 +2490,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "foxconn-raises-annual-outlook-fourth-quarter-growth-ad0705",
-      "title": "鸿海上调全年运营展望预计第四季度强劲增长",
-      "description": "鸿海董事长刘扬伟11月12日在实体法人说明会上表示，公司对今年运营的判断较8月改善，已调高四大产品线全年预期，并预计第四季度整体运营将较上一季度和去年同期强劲增长。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T08:28:17+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/foxconn-raises-annual-outlook-fourth-quarter-growth-ad0705",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2958,27 +3125,6 @@
       "sources": []
     },
     {
-      "id": "indonesia-names-three-police-officials-suspects-147916",
-      "title": "印尼警方拟以叛国罪起诉四名涉监听总统警官",
-      "description": "印度尼西亚国家警察11月12日表示，针对四名涉嫌非法监听总统普拉博沃等人的高级警官，警方已掌握充足的初步证据，准备以叛国罪起诉。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T05:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-03",
-      "url": "https://kaopu.news/story/2026-11-03/indonesia-names-three-police-officials-suspects-147916",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "法广",
-        "财新"
-      ],
-      "section": "asia",
-      "sourceCount": 12,
-      "sources": []
-    },
-    {
       "id": "hong-kong-proposes-national-security-teaching-ban-95cb90",
       "title": "香港拟修法禁止被裁定犯国安罪行者在校任教",
       "description": "香港特区政府11月12日公布《2026年教育（修订）条例草案》，拟通过修法防止被裁定犯危害国家安全罪行者在学校任教。",
@@ -2994,42 +3140,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-executive-yuan-weighs-pension-bill-response-b6162d",
-      "title": "台湾行政院将依法研议老农津贴修法应对",
-      "description": "台湾行政院收到立法院三读通过的《老年农民福利津贴暂行条例》修正案后，表示正研究在宪法和法律职权范围内采取应对措施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T05:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/taiwan-executive-yuan-weighs-pension-bill-response-b6162d",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-ministry-warns-air-law-impact-ff23fe",
-      "title": "台湾工总呼吁立法院维持燃煤机组管理机制",
-      "description": "台湾全国工业总会11月12日呼吁台湾立法院不通过《空气污染防制法》修正草案，维持现行第28条和第30条规定。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T05:31:47+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/taiwan-ministry-warns-air-law-impact-ff23fe",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3304,24 +3414,6 @@
         "澎湃新闻"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "han-song-china-resources-bribery-prosecution-c2df78",
-      "title": "华润集团原副总经理韩嵩涉嫌受贿案被提起公诉",
-      "description": "韩嵩涉嫌受贿案近日由湖南省郴州市人民检察院起诉至郴州市中级人民法院。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T02:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/han-song-china-resources-bribery-prosecution-c2df78",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
@@ -3603,24 +3695,6 @@
       "sources": []
     },
     {
-      "id": "rubio-government-jet-florida-game-controversy-282163",
-      "title": "华邮称鲁比欧多次乘军机看儿子比赛引争议",
-      "description": "《华盛顿邮报》报道，美国国务卿马可·鲁比欧多次乘坐政府军机前往佛罗里达州，观看儿子安东尼参加佛罗里达大学短吻鳄队的比赛，相关行程引发公款是否用于私人活动的争议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T13:30:35+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/rubio-government-jet-florida-game-controversy-282163",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-youth-jobseekers-japan-work-1a8a88",
       "title": "中国青年就业压力下，部分人赴日本工作",
       "description": "中国青年就业压力下，部分人选择赴日本工作；日本工厂也依靠中国员工补充人手。",
@@ -3729,43 +3803,6 @@
       "sources": []
     },
     {
-      "id": "nvidia-analysts-split-ahead-earnings-e2c85a",
-      "title": "英伟达财报前机构预测与风险判断分化",
-      "description": "英伟达最新财报发布前，机构对其业绩前景、股价估值及黄仁勋相关管理层风险的看法分化。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T10:40:34.595609+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/nvidia-analysts-split-ahead-earnings-e2c85a",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "tech-stocks-lift-south-korea-shares-1a98c0",
-      "title": "AI交易乐观情绪推动亚洲多数股市收涨",
-      "description": "人工智能交易乐观情绪回升，带动亚洲多数股市11日收涨。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T10:32:14+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/tech-stocks-lift-south-korea-shares-1a98c0",
-      "reference": [
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "business",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "stephanie-case-antarctic-100-mile-first-woman-0187e5",
       "title": "加拿大跑手凯斯成首位完成南极百英里赛的女性",
       "description": "加拿大超级马拉松选手史蒂芬妮·凯斯成为首位完成南极洲极限100英里（约160公里）赛事的女性。",
@@ -3835,24 +3872,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "linyi-factory-sells-substandard-farm-film-3fd409",
-      "title": "临沂市场监管部门对非标农膜产销立案调查",
-      "description": "临沂市市场监管局已就非标农用地膜涉嫌违法生产、销售立案调查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T09:53:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/linyi-factory-sells-substandard-farm-film-3fd409",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 2,
       "sources": []
     },
     {
