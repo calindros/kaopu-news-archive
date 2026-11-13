@@ -1,19 +1,78 @@
 {
   "details": {
     "date": "2026-11-13",
-    "timestamp": 1794557814,
+    "timestamp": 1794562762,
     "totalPages": 1,
-    "total": 274
+    "total": 273
   },
   "stories": [
     {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "黄仁勋辞去英伟达总裁、首席执行官及董事职务",
-      "description": "英伟达董事会于11月12日宣布，联合创始人黄仁勋辞去公司总裁、首席执行官和董事职务，辞职即刻生效。",
+      "id": "microsoft-outage-disrupts-us-users-connectors-72c8f7",
+      "title": "微软365全球故障导致多项服务中断逾十小时",
+      "description": "北京时间11月13日凌晨0时后，微软Microsoft 365发生全球大面积服务故障，Outlook、Teams、OneDrive和Microsoft 365 Copilot等出现连接或功能异常，部分用户无法正常收发邮件、访问文件或使用协作功能。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-13T07:18:05+00:00",
+      "updatedAt": "2026-11-13T08:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/microsoft-outage-disrupts-us-users-connectors-72c8f7",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "澎湃新闻",
+        "SBS"
+      ],
+      "section": "tech",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "state-council-safety-office-summons-11-cities-3e8617",
+      "title": "国务院安委办约谈11个市州政府负责人",
+      "description": "国务院安委会办公室近日依据安全生产约谈实施办法，对来自7个省（自治区）的11个市（州）政府主要负责人开展约谈。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T07:55:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/state-council-safety-office-summons-11-cities-3e8617",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "zelensky-arrives-dublin-european-political-community-meeting-8d16b8",
+      "title": "泽连斯基称欧洲将加入下一轮乌美俄会谈",
+      "description": "乌克兰总统泽连斯基11月12日在爱尔兰首都都柏林会见美国总统特使威特科夫和特朗普女婿库什纳后表示，欧洲代表将直接参与下一轮乌、美、俄三方会谈，并能在谈判中表达意见。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T07:52:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/zelensky-arrives-dublin-european-political-community-meeting-8d16b8",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "黄仁勋辞去英伟达总裁、首席执行官及董事职务",
+      "description": "英伟达11月12日宣布，联合创始人黄仁勋辞去公司总裁、首席执行官和董事职务，即日生效，结束约33年的执掌任期。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T07:45:36.090508+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-29",
       "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
@@ -24,7 +83,64 @@
         "公视"
       ],
       "section": "china",
-      "sourceCount": 372,
+      "sourceCount": 373,
+      "sources": []
+    },
+    {
+      "id": "jd-completes-ceconomy-majority-stake-3968eb",
+      "title": "京东完成收购Ceconomy并取得近六成股权",
+      "description": "京东已完成对欧洲消费电子零售集团Ceconomy的收购，取得其59.8%的股本及投票权。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T07:33:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/jd-completes-ceconomy-majority-stake-3968eb",
+      "reference": [
+        "联合早报",
+        "德国之声"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
+      "title": "习近平将主持深圳APEC领导人非正式会议",
+      "description": "中国外交部介绍，习近平将于11月18日至19日在广东深圳主持亚太经合组织（APEC）第三十三次领导人非正式会议并发表讲话。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T07:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "gobind-singh-criticizes-zahid-parliament-dissolution-call-febc40",
+      "title": "哥宾星要求扎希不信任安华就辞去副首相职务",
+      "description": "数码部长兼行动党主席哥宾星批评副首相兼巫统主席阿末扎希建议解散国会、而非改组内阁，并表示若扎希不再信任首相安华，应辞去副首相职务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T07:18:51+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/gobind-singh-criticizes-zahid-parliament-dissolution-call-febc40",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -43,6 +159,46 @@
         "联合早报"
       ],
       "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "takaichi-to-attend-asean-apec-summits-4edebc",
+      "title": "高市早苗将赴菲律宾和中国出席峰会",
+      "description": "日本政府宣布，高市早苗将于11月16日至19日到访菲律宾和中国，参加东盟相关首脑会议及亚太经合组织（APEC）峰会。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T07:03:43+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/takaichi-to-attend-asean-apec-summits-4edebc",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "日经",
+        "日本放送协会"
+      ],
+      "section": "asia",
+      "sourceCount": 13,
+      "sources": []
+    },
+    {
+      "id": "mercedes-benz-freezes-german-plant-investment-13a563",
+      "title": "梅赛德斯-奔驰暂停德国投资并评估关厂",
+      "description": "梅赛德斯-奔驰董事会已共同决定，暂停对德国厂区的所有进一步投资。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T07:03:42+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/mercedes-benz-freezes-german-plant-investment-13a563",
+      "reference": [
+        "澎湃新闻",
+        "法广"
+      ],
+      "section": "business",
       "sourceCount": 2,
       "sources": []
     },
@@ -67,21 +223,39 @@
       "sources": []
     },
     {
-      "id": "zelensky-arrives-dublin-european-political-community-meeting-8d16b8",
-      "title": "泽连斯基称欧洲将参与下一轮乌美俄会谈",
-      "description": "乌克兰总统泽连斯基12日在都柏林会见美国总统特使威特科夫和特朗普女婿库什纳后表示，欧洲代表将参加下一轮乌美俄会谈并在谈判中发言。",
+      "id": "japan-taps-reserve-funds-winter-energy-subsidies-f172f2",
+      "title": "日本政府动用6518亿日元预备费补贴冬季能源",
+      "description": "日本政府13日在内阁会议上决定，从2026年度补充预算的“中东局势等应对预备费”中拨出6518亿日元，用于减轻冬季能源开支并支持地方应对能源费用。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-13T06:51:00+00:00",
+      "updatedAt": "2026-11-13T06:59:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/zelensky-arrives-dublin-european-political-community-meeting-8d16b8",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/japan-taps-reserve-funds-winter-energy-subsidies-f172f2",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "xu-aizhen-volunteer-soldier-dies-aged-94-5f6a57",
+      "title": "志愿军女战士徐霭贞因病去世享年94岁",
+      "description": "志愿军女战士徐霭贞于2026年11月11日因病去世，终年94岁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T06:49:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/xu-aizhen-volunteer-soldier-dies-aged-94-5f6a57",
       "reference": [
         "澎湃新闻"
       ],
-      "section": "world",
-      "sourceCount": 2,
+      "section": "life",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -100,6 +274,48 @@
       ],
       "section": "asia",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "democrats-win-migrants-return-us-border-c34aff",
+      "title": "特朗普要求墨西哥拦截移民车队否则加倍关税",
+      "description": "美国总统特朗普11月12日在社交平台“真实社群”发文，要求墨西哥立即阻止中美洲移民车队继续北上，并警告若墨方不采取行动，美国将把对墨关税提高一倍。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T06:31:39+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/democrats-win-migrants-return-us-border-c34aff",
+      "reference": [
+        "世界日报",
+        "公视",
+        "联合早报",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "hegseth-arlington-guard-reprimand-7bef14",
+      "title": "赫格塞斯向喝止自己的哨兵颁发勋章",
+      "description": "11月11日退伍军人节，美国战争部长皮特·赫格塞斯在阿灵顿国家公墓无名战士冢前与妻子及幕僚合影、交谈，现场传出笑声。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T06:31:39+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/hegseth-arlington-guard-reprimand-7bef14",
+      "reference": [
+        "联合早报",
+        "法广",
+        "澎湃新闻",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 8,
       "sources": []
     },
     {
@@ -157,6 +373,24 @@
       ],
       "section": "life",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "white-house-weighs-lutnick-removal-c37b75",
+      "title": "知情人士称白宫讨论撤换商务部长卢特尼克",
+      "description": "据路透社援引知情人士消息，白宫高层12日讨论是否撤换商务部长卢特尼克。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T06:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/white-house-weighs-lutnick-removal-c37b75",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -329,27 +563,6 @@
       "sources": []
     },
     {
-      "id": "democrats-win-migrants-return-us-border-c34aff",
-      "title": "特朗普要求墨西哥拦截移民否则对墨关税加倍",
-      "description": "美国总统特朗普11月12日在社交平台“真实社群”发文，要求墨西哥立即阻止一支向北行进的中美洲移民队伍，并威胁称，如果墨方不采取行动，美国将立即把对墨西哥的关税提高一倍。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T06:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/democrats-win-migrants-return-us-border-c34aff",
-      "reference": [
-        "世界日报",
-        "公视",
-        "联合早报",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "washington-logan-circle-shooting-five-people-shot-47c504",
       "title": "华盛顿特区健身房枪击造成一死四伤",
       "description": "美国华盛顿特区洛根圆环附近的Vida Fitness健身房11月12日上午发生枪击，造成一人死亡、四人受伤。",
@@ -461,27 +674,6 @@
       "sources": []
     },
     {
-      "id": "hegseth-arlington-guard-reprimand-7bef14",
-      "title": "赫格塞斯向要求肃静的阿灵顿哨兵授勋",
-      "description": "美国国防部长皮特·赫格塞斯11月12日在五角大厦向阿灵顿国家公墓无名战士冢的值勤哨兵托马斯·伊格莱西亚斯颁发联合勤务嘉奖勋章。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T06:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/hegseth-arlington-guard-reprimand-7bef14",
-      "reference": [
-        "联合早报",
-        "法广",
-        "澎湃新闻",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
       "id": "essex-agrees-deposit-lawsuit-settlement-bd408d",
       "title": "Essex房产信托同意以1925万美元和解押金诉讼",
       "description": "Essex Property Trust同意以1925万美元与前租客解决退租押金集体诉讼，并免除租客累计870万美元的退租欠款。",
@@ -571,27 +763,6 @@
       ],
       "section": "ai",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "microsoft-outage-disrupts-us-users-connectors-72c8f7",
-      "title": "微软旗下Microsoft 365故障波及全球用户",
-      "description": "微软旗下Microsoft 365于美东时间11月12日发生全球性服务故障，Outlook、Exchange Online、Teams和OneDrive等服务受到影响。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T06:02:34+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/microsoft-outage-disrupts-us-users-connectors-72c8f7",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "澎湃新闻",
-        "SBS"
-      ],
-      "section": "tech",
-      "sourceCount": 10,
       "sources": []
     },
     {
@@ -719,24 +890,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "mercedes-benz-freezes-german-plant-investment-13a563",
-      "title": "梅赛德斯-奔驰冻结德国工厂后续投资",
-      "description": "梅赛德斯-奔驰11月12日宣布，决定暂停对德国工厂的所有进一步投资，并由布丽塔·泽格表示，领导层必须具体审视德国哪些生产基地仍有能力维持运营；关闭工厂的方案也已进入讨论。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T05:23:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/mercedes-benz-freezes-german-plant-investment-13a563",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1044,24 +1197,6 @@
       "sources": []
     },
     {
-      "id": "jd-completes-ceconomy-majority-stake-3968eb",
-      "title": "京东完成收购Ceconomy并取得59.8%股权",
-      "description": "京东通过全资间接子公司完成对德国消费电子零售集团Ceconomy的收购，取得其59.8%的股本和投票权，交易于11月12日完成。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T04:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/jd-completes-ceconomy-majority-stake-3968eb",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "fed-cuts-2027-rate-decisions-to-seven-1b1432",
       "title": "美联储将2027年利率决策会议减至七次",
       "description": "多名美联储官员主张进一步收紧货币政策之际，美联储当地时间11月12日公布2027年会议安排：全年仍计划召开8次会议，但10月26日至27日将专门讨论货币政策战略，不作联邦基金利率决定，利率决策会议因此减为7次。",
@@ -1096,27 +1231,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "takaichi-to-attend-asean-apec-summits-4edebc",
-      "title": "高市早苗将赴菲律宾和中国出席峰会",
-      "description": "日本政府宣布，首相高市早苗定于11月16日至19日访问菲律宾和中国，出席东盟相关首脑会议及在深圳举行的亚太经合组织（APEC）领导人会议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T03:59:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/takaichi-to-attend-asean-apec-summits-4edebc",
-      "reference": [
-        "共同网",
-        "联合早报",
-        "日经",
-        "日本放送协会"
-      ],
-      "section": "asia",
-      "sourceCount": 12,
       "sources": []
     },
     {
@@ -1321,24 +1435,6 @@
       "sources": []
     },
     {
-      "id": "state-council-safety-office-summons-11-cities-3e8617",
-      "title": "国务院安委办对11个市州开展安全生产约谈",
-      "description": "国务院安委会办公室近日对7个省（自治区）的11个市（州）政府主要负责人开展安全生产约谈。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T03:09:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/state-council-safety-office-summons-11-cities-3e8617",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "cisco-raises-annual-revenue-forecast-af56f1",
       "title": "思科上调全年营收预测至748亿至758亿美元",
       "description": "思科11月12日公布第一季度业绩，营收和调整后每股收益均超过市场预期，并提高2027会计年度营收预测。",
@@ -1447,25 +1543,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
-      "title": "习近平将主持深圳APEC第三十三次领导人非正式会议",
-      "description": "中国外交部宣布，亚太经合组织第三十三次领导人非正式会议将于11月18日至19日在广东深圳举行，习近平将主持会议并发表讲话。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T02:21:31+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2842,24 +2919,6 @@
       "sources": []
     },
     {
-      "id": "gobind-singh-criticizes-zahid-parliament-dissolution-call-febc40",
-      "title": "哥宾星批扎希解散国会建议有失尊重",
-      "description": "马来西亚数码部长哥宾星批评副首相阿末扎希建议安华解散国会而非改组内阁，认为这项建议对首相不够尊重。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T08:53:07+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/gobind-singh-criticizes-zahid-parliament-dissolution-call-febc40",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "dongguan-health-bureau-orders-doctor-pay-restoration-bf17d1",
       "title": "东莞卫健局叫停欠费扣医生绩效并责令医院补发",
       "description": "东莞市卫健局已介入广东医科大学附属东莞第一医院因患者欠费扣减医生绩效薪酬一事，成立专项工作组核查，并要求医院立即停止相关管理办法。",
@@ -2947,25 +3006,6 @@
         "澎湃新闻"
       ],
       "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "cho-hyun-visits-china-meets-wang-yi-7ebf79",
-      "title": "韩国外长赵显将赴华与王毅举行会谈",
-      "description": "韩国外长赵显将于2026年11月13日至14日访问中国，并定于13日同中国外长王毅会谈、共进晚餐。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T07:48:29+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/cho-hyun-visits-china-meets-wang-yi-7ebf79",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "asia",
       "sourceCount": 2,
       "sources": []
     },
@@ -3672,26 +3712,6 @@
       "sources": []
     },
     {
-      "id": "ait-tecro-launch-taiwan-fellowship-fccda0",
-      "title": "台美签署备忘录启动台湾学人计划",
-      "description": "台湾驻美代表俞大㵢与美国在台协会（AIT）华盛顿总部执行理事蓝莺11月10日在美国弗吉尼亚州阿灵顿签署合作备忘录，正式启动“台湾学人计划”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T02:39:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/ait-tecro-launch-taiwan-fellowship-fccda0",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
       "id": "hong-kong-police-arrest-22-money-laundering-suspects-dc6f86",
       "title": "香港警方侦破跨境洗钱集团拘捕22人",
       "description": "香港警方11日宣布侦破一个跨境洗钱集团，并在行动中拘捕22人，其中20人为中国人，另有2人为香港人。",
@@ -3857,24 +3877,6 @@
       "sources": []
     },
     {
-      "id": "tnt-chino-hills-store-opens-b60d23",
-      "title": "大统华奇诺冈店将于12月10日开业",
-      "description": "加拿大连锁亚洲超市大统华宣布，奇诺冈分店将于12月10日开业，成为该品牌南加州首店。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T19:12:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/tnt-chino-hills-store-opens-b60d23",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "canada-post-issues-chinese-wwii-unit-stamp-2a0864",
       "title": "加拿大邮政推出华裔二战特别任务部队纪念邮票",
       "description": "加拿大邮政在今年老兵纪念日前推出纪念邮票，主题是二战期间受训、准备深入日军后方执行任务的华裔士兵。",
@@ -3943,24 +3945,6 @@
         "澎湃新闻"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "thailand-expert-us-gpu-monitoring-data-center-supply-919d3f",
-      "title": "泰国专家称美国或加强GPU监控影响数据中心芯片供应",
-      "description": "围绕黄仁勋婚外情的争议，使辉达芯片经东南亚流入中国的疑虑受到关注。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T12:30:06+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/thailand-expert-us-gpu-monitoring-data-center-supply-919d3f",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "ai",
       "sourceCount": 1,
       "sources": []
     },
