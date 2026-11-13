@@ -3,9 +3,181 @@
     "date": "2026-11-13",
     "timestamp": 1794605568,
     "totalPages": 1,
-    "total": 268
+    "total": 269
   },
   "stories": [
+    {
+      "id": "microsoft-outage-disrupts-us-users-connectors-72c8f7",
+      "title": "微软Microsoft 365故障影响数百万用户",
+      "description": "微软Microsoft 365发生全球性服务中断，Outlook、Teams、OneDrive和Copilot等应用出现无法使用或连接异常，数百万用户及多国机构受到影响。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T22:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/microsoft-outage-disrupts-us-users-connectors-72c8f7",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "澎湃新闻",
+        "SBS"
+      ],
+      "section": "tech",
+      "sourceCount": 19,
+      "sources": []
+    },
+    {
+      "id": "faa-orders-us-departure-ground-stop-2eeef2",
+      "title": "FAA因空管通信故障暂停全美航班起飞",
+      "description": "美国联邦航空管理局（FAA）因空中交通管制通信设备故障，要求全美尚未起飞的航班暂停离地。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T21:52:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/faa-orders-us-departure-ground-stop-2eeef2",
+      "reference": [
+        "澎湃新闻",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "atlantic-asphalt-hits-american-heritage-533199",
+      "title": "油轮撞上新奥尔良停靠游轮 约129名乘客在船",
+      "description": "据《纽约邮报》报道，当地时间13日中午12时30分左右，油轮“Atlantic Asphalt”在新奥尔良港行政大楼外撞上停靠中的“American Heritage”号游轮。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T21:41:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/atlantic-asphalt-hits-american-heritage-533199",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "australia-rethinks-working-holiday-visa-limits-cda0e5",
+      "title": "据报澳大利亚政府重审打工度假签证限制",
+      "description": "据SBS报道，在农业、旅游和酒店餐饮行业团体提出顾虑后，澳大利亚联邦政府正重新审视拟议中的打工度假签证限制。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T21:25:40+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/australia-rethinks-working-holiday-visa-limits-cda0e5",
+      "reference": [
+        "SBS"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-producer-prices-hit-four-year-high-09f689",
+      "title": "美国10月生产者价格年涨6.5%创四年新高",
+      "description": "美国劳工统计局公布的数据显示，美国10月生产者物价指数（PPI）同比上涨6.5%，创四年来新高；环比上涨0.3%，符合分析师预期，低于修正后的9月1.4%涨幅。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T21:03:39+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/us-producer-prices-hit-four-year-high-09f689",
+      "reference": [
+        "中央通訊社",
+        "法广"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "lo-ta-yu-urges-taiwanese-to-act-f0b3e0",
+      "title": "罗大佑批评民进党并呼吁台湾民众站出来",
+      "description": "台湾音乐人罗大佑11月10日接受唐湘龙广播专访，谈政治逾半小时，批评民进党及文化政策，呼吁台湾民众为下一代觉醒、站出来。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T21:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/lo-ta-yu-urges-taiwanese-to-act-f0b3e0",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "culture",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "bessent-reportedly-moves-military-base-over-iran-threat-939252",
+      "title": "贝森特因死亡威胁迁入军事基地",
+      "description": "美国财政部长斯科特·贝森特11月13日接受美国消费者新闻与商业频道（CNBC）采访时证实，他已依照美国特勤局的安全建议，离开华盛顿乔治城住所，迁入一处名称未公开的军事基地。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T20:43:30+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/bessent-reportedly-moves-military-base-over-iran-threat-939252",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "朝鲜日报",
+        "日经"
+      ],
+      "section": "us",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "white-house-denies-hassett-departure-report-2b1256",
+      "title": "白宫否认哈西特未来几周离开特朗普政府",
+      "description": "当地时间11月13日，白宫否认国家经济委员会主任凯文·哈西特将在未来几周离职的消息。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T20:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/white-house-denies-hassett-departure-report-2b1256",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tang-yuanjun-gets-three-years-probation-7e4d39",
+      "title": "旅美民运人士唐元隽被判三年缓刑免于入狱",
+      "description": "旅美民运人士唐元隽于11月12日在纽约曼哈顿联邦法院被判三年刑期并获缓刑，无需入狱服刑。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T20:24:17+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/tang-yuanjun-gets-three-years-probation-7e4d39",
+      "reference": [
+        "世界日报",
+        "中央通訊社"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
     {
       "id": "zamir-urges-delay-iran-strike-f38907",
       "title": "澎湃新闻称扎米尔主张暂缓对伊朗动武遭高官反对",
@@ -43,6 +215,27 @@
       "sources": []
     },
     {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "金融时报称英伟达接洽安谋CEO哈斯列为接班人选",
+      "description": "英伟达董事会已接洽安谋首席执行官勒内·哈斯，并将他列为接替黄仁勋的潜在人选之一。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T19:15:18+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 394,
+      "sources": []
+    },
+    {
       "id": "us-justice-department-english-only-guidance-70049f",
       "title": "美国司法部要求联邦机构尽可能以英语运作",
       "description": "美国司法部近日发布新指引，要求联邦机构尽力以英语运作，并在可行情况下用英语提供政府资料和服务。",
@@ -58,27 +251,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "microsoft-outage-disrupts-us-users-connectors-72c8f7",
-      "title": "微软服务故障波及全球数百万用户",
-      "description": "微软旗下Microsoft 365多项服务于美国东部时间11月12日下午发生全球性中断，Outlook、Teams和Copilot等在至少70个国家和地区一度无法正常使用，数百万用户受到影响。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T18:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/microsoft-outage-disrupts-us-users-connectors-72c8f7",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "澎湃新闻",
-        "SBS"
-      ],
-      "section": "tech",
-      "sourceCount": 18,
       "sources": []
     },
     {
@@ -100,27 +272,6 @@
       ],
       "section": "world",
       "sourceCount": 119,
-      "sources": []
-    },
-    {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "黄仁勋辞去英伟达总裁、首席执行官及董事职务",
-      "description": "英伟达共同创办人黄仁勋于11月12日辞去公司总裁、首席执行官及董事职务，辞职立即生效，结束了长达33年的执掌任期。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T17:28:12+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 393,
       "sources": []
     },
     {
@@ -487,27 +638,6 @@
       "sources": []
     },
     {
-      "id": "bessent-reportedly-moves-military-base-over-iran-threat-939252",
-      "title": "贝森特称因伊朗死亡威胁迁居军事基地",
-      "description": "美国财政部长贝森特11月13日接受美国消费者新闻与商业频道（CNBC）采访时证实，他已离开华盛顿住所，遵照美国特勤局的安全建议搬到一处军事基地居住。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T14:21:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/bessent-reportedly-moves-military-base-over-iran-threat-939252",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "朝鲜日报",
-        "日经"
-      ],
-      "section": "us",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "bloomberg-huang-longteng-h800-servers-shanghai-ai-8b9e8e",
       "title": "彭博称黄乐创办中企服务器现身上海AI设施",
       "description": "彭博查阅的中国政府申报材料显示，黄乐创办的上海龙腾智慧数据集团旗下子公司列出一批搭载英伟达H800芯片的服务器，并显示相关硬件被安装在上海一处大型AI设施的193台服务器中。",
@@ -766,25 +896,6 @@
         "联合早报"
       ],
       "section": "ai",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "tang-yuanjun-gets-three-years-probation-7e4d39",
-      "title": "唐元隽受中国政府指使监视异议人士获判三年缓刑",
-      "description": "美国曼哈顿联邦法院11月12日判处前中国民运人士唐元隽三年缓刑，他无需入狱。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T13:05:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/tang-yuanjun-gets-three-years-probation-7e4d39",
-      "reference": [
-        "世界日报",
-        "中央通訊社"
-      ],
-      "section": "us",
       "sourceCount": 2,
       "sources": []
     },
@@ -3616,44 +3727,6 @@
       "sources": []
     },
     {
-      "id": "democrats-retake-congress-push-immigration-reform-36750c",
-      "title": "民主党夺回国会两院后拟推动移民改革",
-      "description": "美国民主党在中期选举中夺回国会参众两院后，议员着手推动移民立法并筹划调查国土安全部。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T09:14:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/democrats-retake-congress-push-immigration-reform-36750c",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-ndrc-adjusts-education-resources-dff3f6",
-      "title": "多地扩充普通高中学位应对高中学龄人口增长",
-      "description": "国家发展改革委将继续支持普通高中扩建教学楼、宿舍、食堂和操场等设施，多地也在增加学位，并探索登记入学、贯通培养等升学方式，以应对高中阶段学龄人口增长。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T09:01:35.122240+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/china-ndrc-adjusts-education-resources-dff3f6",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
       "id": "dongguan-health-bureau-orders-doctor-pay-restoration-bf17d1",
       "title": "东莞卫健局叫停欠费扣医生绩效并责令医院补发",
       "description": "东莞市卫健局已介入广东医科大学附属东莞第一医院因患者欠费扣减医生绩效薪酬一事，成立专项工作组核查，并要求医院立即停止相关管理办法。",
@@ -3743,63 +3816,6 @@
       ],
       "section": "tech",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "lo-ta-yu-urges-taiwanese-to-act-f0b3e0",
-      "title": "罗大佑呼吁台湾民众为下一代觉醒站出来",
-      "description": "11月10日，音乐人罗大佑接受媒体人唐湘龙主持的广播节目专访，批评民进党当局在政治、文化政策和社会氛围方面的表现。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T06:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/lo-ta-yu-urges-taiwanese-to-act-f0b3e0",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "noreaster-forecast-us-northeast-f0291d",
-      "title": "低压系统将使纽约周末转入湿冷天气",
-      "description": "纽约地区将从11月12日下午起受到低压系统影响，降雨、内陆高地降雪和沿岸阵风将接踵而至，随后气温明显下降。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T06:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/noreaster-forecast-us-northeast-f0291d",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "trump-democrats-undocumented-immigrants-legal-status-deal-b563be",
-      "title": "特朗普承认遣返政策过严影响共和党选情",
-      "description": "特朗普在中期选举后接受美国哥伦比亚广播公司（CBS）《60分钟》专访，承认政府遣返有正当工作的移民，做法可能过于严厉，并称移民政策对共和党选情有利也有弊。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T06:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/trump-democrats-undocumented-immigrants-legal-status-deal-b563be",
-      "reference": [
-        "世界日报",
-        "法广",
-        "联合早报",
-        "财新"
-      ],
-      "section": "us",
-      "sourceCount": 10,
       "sources": []
     },
     {
