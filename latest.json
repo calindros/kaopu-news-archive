@@ -1,15 +1,15 @@
 {
   "details": {
     "date": "2026-11-13",
-    "timestamp": 1794533155,
+    "timestamp": 1794540641,
     "totalPages": 1,
     "total": 271
   },
   "stories": [
     {
       "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "黄仁勋辞任英伟达总裁及首席执行官",
-      "description": "英伟达11月12日宣布，联合创始人黄仁勋辞去公司总裁、首席执行官及董事职务，辞职即刻生效。",
+      "title": "黄仁勋辞去英伟达总裁首席执行官及董事职务",
+      "description": "英伟达11月12日宣布，联合创始人黄仁勋辞去总裁、首席执行官和董事职务，决定即刻生效，结束了他自1993年参与创办公司以来长达33年的领导任期。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -24,7 +24,144 @@
         "公视"
       ],
       "section": "china",
-      "sourceCount": 319,
+      "sourceCount": 328,
+      "sources": []
+    },
+    {
+      "id": "yen-falls-159-midrange-mimura-warns-f831c2",
+      "title": "日元纽约汇市一度跌入160日元区间",
+      "description": "11月12日，日元兑美元在纽约外汇市场一度跌入1美元兑160日元区间，触及9月上旬以来约两个半月低位，随后回升至159.50日元左右。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T02:12:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/yen-falls-159-midrange-mimura-warns-f831c2",
+      "reference": [
+        "共同网",
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "microsoft-outage-disrupts-us-users-connectors-72c8f7",
+      "title": "微软多项服务宕机数小时影响全球用户",
+      "description": "微软旗下Outlook、Microsoft 365、Teams等服务于美东时间11月12日下午发生大范围故障，持续数小时。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T02:09:05+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/microsoft-outage-disrupts-us-users-connectors-72c8f7",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "澎湃新闻",
+        "SBS"
+      ],
+      "section": "tech",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "state-local-elections-shape-data-centers-70335c",
+      "title": "霍尔舍当选堪萨斯州长并主张暂停新建数据中心",
+      "description": "美国中期选举后，民主党赢得国会两院，并在多个州取得胜利。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T02:04:29+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/state-local-elections-shape-data-centers-70335c",
+      "reference": [
+        "世界日报",
+        "第一财经",
+        "端传媒",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 28,
+      "sources": []
+    },
+    {
+      "id": "singapore-high-court-hears-appeal-0de769",
+      "title": "新加坡高庭开审长成工程前高管无罪裁决上诉",
+      "description": "新加坡高庭11月12日启动为期两天的审讯，依据原审记录审理控方针对长成工程前董事白朝荣、前董事经理白连源无罪裁决提出的上诉。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T02:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/singapore-high-court-hears-appeal-0de769",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-doj-huang-le-spy-status-8f8084",
+      "title": "美国司法部尚未认定黄乐是否为中国间谍",
+      "description": "美国司法部尚未认定中国女商人黄乐是否为中国间谍。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T01:41:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/us-doj-huang-le-spy-status-8f8084",
+      "reference": [
+        "纽约时报",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "hud-public-housing-rule-requires-status-proof-86486d",
+      "title": "美国住房补助新规要求住户证明公民或合格移民身份",
+      "description": "美国住房和城市发展部（HUD）于11月12日公布公共住房补助新规，要求领取补助的居民及家庭成员提交美国公民或合格移民身份的证明。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T01:30:02+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/hud-public-housing-rule-requires-status-proof-86486d",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "takaichi-to-attend-asean-apec-summits-4edebc",
+      "title": "高市将赴菲律宾和中国出席东盟与APEC峰会",
+      "description": "日本首相高市早苗将于11月16日至19日访问菲律宾和中国，出席在菲律宾举行的东盟相关首脑会议，以及在中国深圳举行的亚太经合组织（APEC）领导人会议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T01:19:07+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/takaichi-to-attend-asean-apec-summits-4edebc",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "日经",
+        "日本放送协会"
+      ],
+      "section": "asia",
+      "sourceCount": 9,
       "sources": []
     },
     {
@@ -44,6 +181,60 @@
       ],
       "section": "us",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
+      "title": "习近平将主持深圳APEC领导人非正式会议",
+      "description": "中国外交部发言人宣布，中国国家主席习近平将于2026年11月18日至19日在广东深圳主持亚太经合组织第三十三次领导人非正式会议并发表讲话。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T01:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "japan-defense-institute-china-navy-c76da6",
+      "title": "日本防卫研究所报告指中国海军强化远洋作战能力",
+      "description": "日本防卫研究所公布《中国安全保障报告2027》。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T01:12:37+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/japan-defense-institute-china-navy-c76da6",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "spacex-plans-full-starship-recovery-5f9d5f",
+      "title": "SpaceX计划完整回收星舰助推器和飞船",
+      "description": "SpaceX计划在星舰试飞中，尝试让超重型助推器Super Heavy和二级飞船都返回发射场，以检验整套发射体的重复使用能力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T00:53:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/spacex-plans-full-starship-recovery-5f9d5f",
+      "reference": [
+        "朝鲜日报"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -102,25 +293,6 @@
       ],
       "section": "business",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "microsoft-outage-disrupts-us-users-connectors-72c8f7",
-      "title": "微软Outlook大规模故障影响全球用户",
-      "description": "微软旗下Outlook、Microsoft 365及Teams于美东时间11月12日下午1时左右发生大规模故障，全球用户收发邮件和使用相关服务受到影响。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T00:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/microsoft-outage-disrupts-us-users-connectors-72c8f7",
-      "reference": [
-        "中央通訊社",
-        "联合早报"
-      ],
-      "section": "tech",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -537,24 +709,6 @@
       "sources": []
     },
     {
-      "id": "jensen-huang-agrees-testify-congress-45c115",
-      "title": "黄仁勋同意感恩节前赴美国国会作证",
-      "description": "据雅虎财经报道，美国众议院外交委员会共和党籍主席布赖恩·马斯特12日对媒体表示，国会威胁发出传票后，英伟达创办人黄仁勋于11日晚同意在感恩节前赴国会，就芯片出口管制问题作证。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T16:56:58+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/jensen-huang-agrees-testify-congress-45c115",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "malaysia-police-arrest-932-scam-center-workers-1ab0c5",
       "title": "马来西亚警方13天逮捕932名诈骗团伙成员",
       "description": "马来西亚警方于2026年10月19日至31日开展全国打击行动，清查112个诈骗团伙呼叫中心，13天内逮捕932人。",
@@ -905,27 +1059,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "takaichi-to-attend-asean-apec-summits-4edebc",
-      "title": "共同社称高市拟在东盟峰会提AI安全框架",
-      "description": "据共同社援引日本政府相关人士报道，日本首相高市早苗已基本决定在本月于菲律宾举行的日本与东盟首脑会议上提出AI安全合作框架。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T13:10:40+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/takaichi-to-attend-asean-apec-summits-4edebc",
-      "reference": [
-        "共同网",
-        "联合早报",
-        "日经",
-        "日本放送协会"
-      ],
-      "section": "asia",
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -1768,24 +1901,6 @@
       "sources": []
     },
     {
-      "id": "turkey-central-bank-raises-2026-inflation-forecast-53e4a7",
-      "title": "土耳其央行上调2026年底通胀预测至29.5%",
-      "description": "土耳其央行总裁卡拉汉在央行今年最后一份通胀报告发布会上说，央行已将2026年底通胀预测上调至29.5%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T10:35:41+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/turkey-central-bank-raises-2026-inflation-forecast-53e4a7",
-      "reference": [
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "shinjuku-tourist-scam-complaints-triple-de656c",
       "title": "新宿外国游客被宰求助同比增至三倍",
       "description": "今年1月至10月，东京新宿警署接到外国游客遭“宰客”的求助约240起，约为去年同期三倍。",
@@ -2227,27 +2342,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "putin-orders-russian-management-jti-subsidiaries-c4b3ab",
-      "title": "普京将JT在俄七家公司纳入临时管理",
-      "description": "俄罗斯总统普京11月5日签署总统令，将日本烟草产业（JT）在俄业务纳入俄罗斯企业临时管理；6日又签令扩大范围，涉及公司增至7家。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T07:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/putin-orders-russian-management-jti-subsidiaries-c4b3ab",
-      "reference": [
-        "日经",
-        "共同网",
-        "日本放送协会",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 15,
       "sources": []
     },
     {
@@ -2886,24 +2980,6 @@
       "sources": []
     },
     {
-      "id": "anwar-warns-gst-could-burden-consumers-b07ac6",
-      "title": "安华称重启消费税恐加重消费者税务负担",
-      "description": "马来西亚首相兼财政部长安华在国会下议院答复伊党本同国会议员阿旺哈欣质询时说，支持恢复消费税的主要会是雇主和大型商家。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T04:58:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/anwar-warns-gst-could-burden-consumers-b07ac6",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "culture-association-says-luo-dayou-not-chair-e9b3df",
       "title": "中国传统文化促进会称罗大友非茶文化专委会主任",
       "description": "澎湃新闻11月12日报道，中国传统文化促进会工作人员表示，罗大友并非该会茶文化专业委员会主任，也未在该委员会担任其他职务。",
@@ -2919,24 +2995,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "chiang-wan-an-puma-shen-campaign-leave-a6aa75",
-      "title": "蒋万安沈伯洋请假投入台北市长选战",
-      "description": "台北市长候选人蒋万安、沈伯洋于11月12日请假投入选战，分别在木栅市场和地铁中正纪念堂站开展竞选活动，并公布交通与市民空间规划。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T04:43:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/chiang-wan-an-puma-shen-campaign-leave-a6aa75",
-      "reference": [
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3803,21 +3861,22 @@
       "sources": []
     },
     {
-      "id": "china-provinces-raise-minimum-wages-65573f",
-      "title": "多地上调最低工资标准全国首档均超过2000元",
-      "description": "江苏、浙江、广东、山西、陕西、云南和新疆今年已上调最低工资标准，四川、贵州则公布了调整征求意见稿。",
+      "id": "china-csrc-slow-ai-chip-ipos-913fe8",
+      "title": "长江存储据报争取明年首季登陆科创板",
+      "description": "据彭博社11月11日引述知情人士报道，长江存储仍在推进科创板首次公开募股，目标最早于2027年第一季度在上海证券交易所挂牌。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-11T08:54:00+00:00",
+      "updatedAt": "2026-11-11T08:48:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/china-provinces-raise-minimum-wages-65573f",
+      "publishedAt": "2026-11-06",
+      "url": "https://kaopu.news/story/2026-11-06/china-csrc-slow-ai-chip-ipos-913fe8",
       "reference": [
-        "澎湃新闻"
+        "联合早报",
+        "中央通訊社"
       ],
-      "section": "life",
-      "sourceCount": 1,
+      "section": "business",
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -3911,24 +3970,6 @@
       "sources": []
     },
     {
-      "id": "perdue-says-huang-affair-tests-us-china-ties-cf5a7e",
-      "title": "庞德伟称黄仁勋婚外情风波考验美中关系",
-      "description": "美国驻华大使庞德伟11日在上海花旗中国峰会期间接受彭博电视采访时说，英伟达首席执行官黄仁勋与一名被指为中国间谍的女子之间的婚外情风波提醒美国保持警惕，也使美中往来出现波折。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T07:38:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/perdue-says-huang-affair-tests-us-china-ties-cf5a7e",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "teco-gmi-cloud-japan-modular-data-center-a60fd3",
       "title": "东元与GMI Cloud将在日本建设模块化数据中心",
       "description": "东元将与人工智能云服务商GMI Cloud及日本凯信数基株式会社（KSDI），在日本九州鹿儿岛县萨摩川内市建设模块化数据中心。",
@@ -3944,27 +3985,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "state-local-elections-shape-data-centers-70335c",
-      "title": "美国中期选举后逾四成数据中心规划容量面临政策风险",
-      "description": "美国有九个州的州长现任者或候选人承诺暂停新建数据中心，或已采取暂停措施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T06:21:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/state-local-elections-shape-data-centers-70335c",
-      "reference": [
-        "世界日报",
-        "第一财经",
-        "端传媒",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 27,
       "sources": []
     },
     {
@@ -4368,24 +4388,6 @@
         "日经"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "semiconductor-equipment-firms-china-sales-share-falls-891654",
-      "title": "四家主要半导体设备商在华销售占比均下滑",
-      "description": "全球四家主要半导体设备企业今年第三季度在华销售额占比均较上年同期下降。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T01:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/semiconductor-equipment-firms-china-sales-share-falls-891654",
-      "reference": [
-        "朝鲜日报"
-      ],
-      "section": "tech",
       "sourceCount": 1,
       "sources": []
     },
