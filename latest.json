@@ -1,11 +1,244 @@
 {
   "details": {
     "date": "2026-11-13",
-    "timestamp": 1794565937,
+    "timestamp": 1794569051,
     "totalPages": 1,
-    "total": 273
+    "total": 268
   },
   "stories": [
+    {
+      "id": "waller-favors-december-fed-rate-hike-e52463",
+      "title": "沃勒释放50基点信号市场上调加息预期",
+      "description": "美联储理事克里斯托弗·沃勒本周二表示，12月政策会议可能需要加息50个基点。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T10:09:39.598131+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/waller-favors-december-fed-rate-hike-e52463",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "china-bond-stock-financing-surpasses-loans-4e8275",
+      "title": "央行数据显示前十个月股债融资占比超过贷款",
+      "description": "中国人民银行公布的2026年10月金融数据显示，前十个月社会融资增量中，债券和股票融资合计占比高于贷款。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T10:09:39.597050+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/china-bond-stock-financing-surpasses-loans-4e8275",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "beijing-officials-hong-kong-government-transition-4d910b",
+      "title": "港媒称北京官员赴港了解下届政府组成",
+      "description": "据星岛头条报道，近期有北京官员赴香港调研并约见不同界别人士，了解营商环境、经济前景及下一届特区政府的施政重点，也询问各方对新一届政府组成的看法。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T09:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/beijing-officials-hong-kong-government-transition-4d910b",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "takaichi-to-attend-asean-apec-summits-4edebc",
+      "title": "高市将访菲律宾和中国出席东盟及APEC峰会",
+      "description": "日本政府13日宣布，首相高市早苗定于11月16日至19日访问菲律宾和中国，出席东盟相关首脑会议及在深圳举行的亚太经合组织（APEC）领导人会议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T09:57:23+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/takaichi-to-attend-asean-apec-summits-4edebc",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "日经",
+        "日本放送协会"
+      ],
+      "section": "asia",
+      "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "microsoft-outage-disrupts-us-users-connectors-72c8f7",
+      "title": "微软服务器意外离线致Microsoft 365全球中断",
+      "description": "微软多台服务器意外离线，导致Microsoft 365多个地区的服务中断。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T09:57:20+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/microsoft-outage-disrupts-us-users-connectors-72c8f7",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "澎湃新闻",
+        "SBS"
+      ],
+      "section": "tech",
+      "sourceCount": 13,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "黄仁勋辞职结束执掌英伟达33年任期",
+      "description": "英伟达共同创办人黄仁勋于11月12日即刻辞去公司总裁、首席执行官和董事职务，结束约33年的执掌生涯。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T09:51:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 382,
+      "sources": []
+    },
+    {
+      "id": "finance-ministry-issues-offshore-trust-income-tax-guidance-ec7f3d",
+      "title": "财政部发布离岸信托个人所得税处理规则问答",
+      "description": "中国财政部11月13日在官网发布离岸信托个人所得税政策口径问答，说明相关财产原值如何确认、税款如何追征及外币所得如何换算，并回应受托人变更、信托纳税年度和特定股票交易等问题。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T09:46:34.323013+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/finance-ministry-issues-offshore-trust-income-tax-guidance-ec7f3d",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "shanghai-gene-editing-study-investigation-34f989",
+      "title": "上海调查组通报交大医学院基因编辑研究处理结果",
+      "description": "上海市调查处置工作组11月13日公布上海交通大学医学院基因编辑研究事件调查结论。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T09:29:57.873942+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/shanghai-gene-editing-study-investigation-34f989",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "saifuddin-proposes-declassifying-najib-pardon-board-minutes-ce9266",
+      "title": "马来西亚内阁未讨论解密纳吉特赦记录提议",
+      "description": "马来西亚联邦政府发言人法米表示，内阁当日没有讨论解密涉及前首相纳吉居家服刑决定的特赦局会议记录一事。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T09:27:45+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/saifuddin-proposes-declassifying-najib-pardon-board-minutes-ce9266",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "tsmc-subsidies-hit-record-first-three-quarters-ecd5a6",
+      "title": "台积电前三季获政府补助1675.86亿元创新高",
+      "description": "台积电财报显示，第三季度获得政府补助新台币1669.96亿元，前三季度累计达1675.86亿元，创历史新高；今年上半年相关金额为5.9亿元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T09:23:58+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/tsmc-subsidies-hit-record-first-three-quarters-ecd5a6",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-congress-requests-huang-briefing-314756",
+      "title": "斯科特致函要求黄仁勋和卢特尼克就芯片出口作证",
+      "description": "南卡罗来纳州共和党参议员蒂姆·斯科特致函要求英伟达创办人黄仁勋和美国商务部长霍华德·卢特尼克作证；众议院三个委员会则要求黄仁勋接受闭门问询。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T09:15:48+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/us-congress-requests-huang-briefing-314756",
+      "reference": [
+        "公视",
+        "世界日报",
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "asian-games-container-homes-kumamoto-quake-relief-fe59c8",
+      "title": "亚运及亚残运集装箱设施启程赴熊本改作临时住宅",
+      "description": "亚运会和亚残运会期间供运动员等使用的集装箱式住宿设施，11月12日从名古屋市港区花园码头启程前往熊本县，拟改作7月熊本地震灾民临时住宅。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T09:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/asian-games-container-homes-kumamoto-quake-relief-fe59c8",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "gibran-tells-prabowo-he-plans-to-resign-76a178",
       "title": "印尼人协拟12月2日选出新副总统",
@@ -49,6 +282,45 @@
       "sources": []
     },
     {
+      "id": "japan-defense-institute-china-navy-c76da6",
+      "title": "日本防卫研究所报告指中国强化远海作战能力",
+      "description": "日本防卫研究所于2026年11月13日发布《中国安全保障报告2027》，称中国海军正在增强远离本土海域的作战能力，并将南海视为应对美国介入台湾问题的重要战略依托。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T08:56:24+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/japan-defense-institute-china-navy-c76da6",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "日本放送协会",
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "us-nonprofits-sue-five-firms-halt-ai-development-a5dbfa",
+      "title": "美国非营利组织起诉五家企业要求叫停先进AI研发",
+      "description": "美国多个非营利组织11月12日在旧金山起诉OpenAI、谷歌、Anthropic、Meta及SpaceX旗下人工智能部门，申请法院阻止这些企业继续开发最先进的AI模型；申请范围还包括ChatGPT、Gemini和Claude。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T08:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/us-nonprofits-sue-five-firms-halt-ai-development-a5dbfa",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "china-accesses-nvidia-compute-via-data-centers-55044c",
       "title": "美据报拟限制中企远程使用海外先进芯片算力",
       "description": "据The Information援引两名知情人士报道，美国商务部正与其他政府部门磋商一项新规，拟限制中国人工智能企业通过设在其他国家的数据中心远程使用先进芯片算力。",
@@ -67,6 +339,114 @@
       ],
       "section": "ai",
       "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "gods-dont-give-gifts-us-theatrical-release-7a001f",
+      "title": "纯AI动画长片《神无赐福》定档美国院线",
+      "description": "由美国导演扎克·伦敦编剧并执导的动画长片《神无赐福》（Gods Don't Give Gifts）定于12月4日在美国传统院线上映。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T08:52:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/gods-dont-give-gifts-us-theatrical-release-7a001f",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "singapore-cyber-reports-triple-since-september-70c9b6",
+      "title": "新加坡网安局称9月以来月均事故通报增至三倍",
+      "description": "新加坡网络安全局称，9月以来每月接获的网络安全事故通报量，达到今年前八个月月均值的三倍。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T08:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/singapore-cyber-reports-triple-since-september-70c9b6",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "uk-weighs-under25-youth-benefit-cuts-955b84",
+      "title": "路透社称英国政府考虑收紧25岁以下青年福利",
+      "description": "据路透社报道，英国政府正考虑收紧25岁以下青年可领取的部分疾病及残障福利，以筹资扩大就业援助计划。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T08:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/uk-weighs-under25-youth-benefit-cuts-955b84",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "hong-kong-growth-accelerates-52-percent-20f83a",
+      "title": "香港第三季度经济增速升至5.2%",
+      "description": "香港政府经济顾问11月13日公布第三季度经济表现，香港经济增速从第二季度的4.2%升至5.2%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T08:48:17+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/hong-kong-growth-accelerates-52-percent-20f83a",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "luo-wenjia-urges-caution-china-travel-d4995f",
+      "title": "罗文嘉提醒台湾民众赴中国大陆评估风险",
+      "description": "海峡交流基金会秘书长罗文嘉13日在背景说明会上谈及台湾民众赴中国大陆后遭盘查、留置乃至逮捕的案例，提醒民众留意风险，并以“危邦不入”呼吁谨慎前往。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T08:44:15+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/luo-wenjia-urges-caution-china-travel-d4995f",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "embodied-ai-experts-confront-costs-deployment-cd3675",
+      "title": "具身智能从业者直面迭代成本与落地难题",
+      "description": "2026百度世界大会相关论坛上，具身智能从业者讨论了模型和数据迭代的高昂成本，以及机器人进入真实场景后的稳定性和商业化问题。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T08:41:47.171580+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/embodied-ai-experts-confront-costs-deployment-cd3675",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -90,24 +470,57 @@
       "sources": []
     },
     {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "英伟达宣布黄仁勋辞去首席执行官职务",
-      "description": "英伟达11月12日宣布，联合创始人黄仁勋辞去公司总裁、首席执行官及董事职务，辞职即刻生效。",
+      "id": "bbc-exposes-uk-talent-visa-fraud-114b39",
+      "title": "BBC调查揭露中介涉嫌造假助人申请英国人才签证",
+      "description": "BBC卧底调查发现，iCareer Consultancy UK顾问关世龙向记者提出收费88万元人民币（约9.8万英镑）的签证服务，称即使申请人没有艺术背景，也能安排制作作品集、展览及媒体报道，协助申请英国全球人才签证。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-13T08:25:13+00:00",
+      "updatedAt": "2026-11-13T08:27:53+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/bbc-exposes-uk-talent-visa-fraud-114b39",
       "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
+        "英国广播公司"
       ],
-      "section": "china",
-      "sourceCount": 374,
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "am-best-climate-risk-widens-insurance-gap-9b8758",
+      "title": "贝氏评级称气候风险扩大巨灾保险保障缺口",
+      "description": "贝氏评级人士认为，气候变化正扩大巨灾保险保障缺口，中国财险公司需要调整再保险风险分担方式，并加快探索巨灾风险证券化。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T08:27:36.455077+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/am-best-climate-risk-widens-insurance-gap-9b8758",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "dji-raises-prices-select-products-bbe68c",
+      "title": "大疆宣布部分产品11月18日起上调建议零售价",
+      "description": "大疆于11月13日发布调价说明，称半导体、存储器等关键零部件成本显著增加，经评估，将从2026年11月18日零时起提高部分产品的建议零售价。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T08:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/dji-raises-prices-select-products-bbe68c",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -145,27 +558,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "microsoft-outage-disrupts-us-users-connectors-72c8f7",
-      "title": "微软服务器离线致Microsoft 365全球中断",
-      "description": "微软Microsoft 365多项服务在北京时间11月13日凌晨0时后发生全球性故障，Outlook、Teams、OneDrive及Microsoft 365 Copilot等受到影响。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T08:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/microsoft-outage-disrupts-us-users-connectors-72c8f7",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "澎湃新闻",
-        "SBS"
-      ],
-      "section": "tech",
-      "sourceCount": 12,
       "sources": []
     },
     {
@@ -462,27 +854,6 @@
       "sources": []
     },
     {
-      "id": "takaichi-to-attend-asean-apec-summits-4edebc",
-      "title": "高市早苗将赴菲律宾和中国出席峰会",
-      "description": "日本政府宣布，高市早苗将于11月16日至19日到访菲律宾和中国，参加东盟相关首脑会议及亚太经合组织（APEC）峰会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T07:03:43+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/takaichi-to-attend-asean-apec-summits-4edebc",
-      "reference": [
-        "共同网",
-        "联合早报",
-        "日经",
-        "日本放送协会"
-      ],
-      "section": "asia",
-      "sourceCount": 13,
-      "sources": []
-    },
-    {
       "id": "mercedes-benz-freezes-german-plant-investment-13a563",
       "title": "梅赛德斯-奔驰暂停德国投资并评估关厂",
       "description": "梅赛德斯-奔驰董事会已共同决定，暂停对德国厂区的所有进一步投资。",
@@ -499,26 +870,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "us-congress-requests-huang-briefing-314756",
-      "title": "美国国会要求黄仁勋和卢特尼克就芯片出口作证",
-      "description": "参议员蒂姆·斯科特要求英伟达前首席执行官黄仁勋和美国商务部长卢特尼克，就对华人工智能芯片出口及相关国家安全问题出席参议院银行委员会听证会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T07:02:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/us-congress-requests-huang-briefing-314756",
-      "reference": [
-        "公视",
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "ai",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1287,26 +1638,6 @@
       "sources": []
     },
     {
-      "id": "japan-defense-institute-china-navy-c76da6",
-      "title": "日本防卫研究所报告称中国强化远海作战能力",
-      "description": "日本防卫省防卫研究所11月13日发布《中国安全保障报告2027》，主题涉及中国与南海。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T05:07:07+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/japan-defense-institute-china-navy-c76da6",
-      "reference": [
-        "共同网",
-        "联合早报",
-        "日本放送协会"
-      ],
-      "section": "asia",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "kihara-urges-russia-release-hokkaido-journalist-e545b6",
       "title": "俄罗斯拘押北海道新闻记者今井裕纪满月",
       "description": "俄罗斯联邦安全局以涉嫌间谍活动为由拘押《北海道新闻》记者今井裕纪。",
@@ -1770,24 +2101,6 @@
       "sources": []
     },
     {
-      "id": "beijing-officials-hong-kong-government-transition-4d910b",
-      "title": "港媒称北京官员赴港了解下届港府组成人选",
-      "description": "中央社援引《星岛日报》报道称，北京方面近期派官员赴香港调研，为明年特区政府换届收集意见，并接触不同人士，询问他们是否愿意出任政治任命官员，或能否推荐合适人选。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T02:31:37+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/beijing-officials-hong-kong-government-transition-4d910b",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "tang-yuanjun-gets-three-years-probation-7e4d39",
       "title": "唐元隽未登记中国代理人获判三年缓刑",
       "description": "纽约曼哈顿联邦法院11月12日判处69岁的唐元隽三年缓刑，不必入狱。",
@@ -2162,24 +2475,6 @@
       "sources": []
     },
     {
-      "id": "dollar-strength-drives-gold-silver-lower-c8d176",
-      "title": "美元走强令黄金与白银期价大幅下跌",
-      "description": "12日，美国通胀延续及美联储收紧预期推高美元和美债收益率，金银期货大幅下跌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T20:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/dollar-strength-drives-gold-silver-lower-c8d176",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "trump-urges-vance-probe-democratic-cities-ac861e",
       "title": "特朗普要求万斯调查民主党主政地区腐败",
       "description": "特朗普11月12日在社交媒体指称加利福尼亚州、明尼苏达州、伊利诺伊州等民主党执政州治理失当、腐败严重，并要求副总统万斯全力调查当地犯罪与腐败。",
@@ -2271,118 +2566,6 @@
       "sources": []
     },
     {
-      "id": "us-agencies-push-megaspeed-listing-delay-e5d17e",
-      "title": "民主党参议员要求政府保存英伟达往来资料",
-      "description": "美国民主党参议员伊丽莎白·沃伦和克里斯·库恩斯11日晚致函特朗普政府，要求保存政府与英伟达的往来资料。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T15:20:57+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/us-agencies-push-megaspeed-listing-delay-e5d17e",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报"
-      ],
-      "section": "world",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "katz-says-military-action-needs-no-opposition-approval-b7788f",
-      "title": "以色列看守防长称新军事行动无须反对派批准",
-      "description": "以色列看守国防部长卡茨星期四（11月12日）在社交媒体表示，以军在任何行动区域发动袭击，无须反对派或法律机构批准。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T14:45:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/katz-says-military-action-needs-no-opposition-approval-b7788f",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "huali-group-plans-o-net-stake-ae27a4",
-      "title": "华利集团拟不超过5亿美元入股O-Net不超25%股权",
-      "description": "华利集团拟以不超过5亿美元投资O-Net Technologies Group Limited，取得不超过25%的股权。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T14:28:38.069414+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/huali-group-plans-o-net-stake-ae27a4",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "zelensky-says-starshield-speed-limits-ukraine-bd6a0b",
-      "title": "泽连斯基称乌军星盾网络遭系统性限速",
-      "description": "乌克兰总统泽连斯基12日在社交媒体称，乌军近几天持续记录到星盾卫星网络在乌克兰境内遭系统性限速；他表示，这不是随机故障，并使拦截俄罗斯喷气式无人机更加困难。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T14:09:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/zelensky-says-starshield-speed-limits-ukraine-bd6a0b",
-      "reference": [
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "china-central-bank-launches-bond-redemption-facility-002027",
-      "title": "中国央行阐明债市非银互换便利适用规则",
-      "description": "中国人民银行11日发布2026年三季度《中国货币政策执行报告》，说明近期设立的债市非银大额赎回互换便利（BNSF）的目的、适用情境和操作原则，并提出坚持实施适度宽松的货币政策。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T13:51:38.840772+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/china-central-bank-launches-bond-redemption-facility-002027",
-      "reference": [
-        "财新",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "middle-east-conflict-eurozone-debt-risk-repricing-72cca1",
-      "title": "中东冲突推动欧元区高负债国债券风险重估",
-      "description": "中东冲突推高通胀与融资成本，欧元区主权债市场对高负债国家重新定价，法国和比利时成为投资者重点审视的对象，德国等较安全的借款国与它们之间的市场表现出现分化。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T13:51:38.839870+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/middle-east-conflict-eurozone-debt-risk-repricing-72cca1",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "asean-china-south-china-sea-code-delay-7dadb7",
       "title": "据报亚细安与中国年内难完成南中国海准则谈判",
       "description": "据联合早报援引三名了解谈判的东南亚资深外交官称，亚细安与中国对拟议中的《南中国海行为准则》约八成条款已有初步共识，但谈判仍可能无法在今年内完成。",
@@ -2437,24 +2620,6 @@
       "sources": []
     },
     {
-      "id": "guo-shuqing-urges-inheritance-gift-tax-legislation-0f0dad",
-      "title": "郭树清建议启动遗产和赠与税立法补助养老金",
-      "description": "郭树清建议尽快启动遗产税和赠与税立法，并将相关新增税收用于基本养老金补助。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T13:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/guo-shuqing-urges-inheritance-gift-tax-legislation-0f0dad",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "hong-kong-vfo-imports-nvidia-chips-indonesia-978ee6",
       "title": "港媒称黄乐曾控股的香港公司从印尼进口英伟达芯片",
       "description": "据中央社转述香港01的报道，香港公司VFO International于2024年从MegaSpeed的印尼子公司PT Megaspeed International Indonesia进口英伟达芯片及其他数据中心设备，并运至香港。",
@@ -2473,24 +2638,6 @@
       "sources": []
     },
     {
-      "id": "satellite-chemical-plans-207-billion-propylene-project-9feefe",
-      "title": "卫星化学拟投207亿元建设丙烯及高端新材料项目",
-      "description": "卫星化学与国家东中西区域合作示范区（连云港徐圩新区）管委会11月11日签署投资合作协议，计划在徐圩新区投入约207亿元，建设丙烯及下游高端新材料项目。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T13:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/satellite-chemical-plans-207-billion-propylene-project-9feefe",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "hong-kong-legislature-passes-northern-metropolis-bill-3ff1ac",
       "title": "香港立法会通过北部都会区发展条例草案",
       "description": "香港立法会11月12日通过《北部都会区发展条例草案》，为北部都会区土地开发和工程建设简化部分程序。",
@@ -2505,42 +2652,6 @@
         "联合早报"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-roosevelt-carrier-middle-east-deployment-77703c",
-      "title": "美军调派罗斯福号赴中东筹备三航母部署",
-      "description": "美国海军“罗斯福”号航母已于11月9日启程前往中东，目前进入印度洋安达曼海海域。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T13:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/us-roosevelt-carrier-middle-east-deployment-77703c",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "mahmood-hongkong-protest-convictions-visas-13bc13",
-      "title": "马穆德称参与抗议被定罪不应阻碍港人申请签证",
-      "description": "英国内政大臣马穆德表示，港人若因参加2019年民主抗议被定罪，不应因此失去申请英国签证的机会；只要其他条件合格，申请就应按有利于申请人的原则审理。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T13:05:38+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/mahmood-hongkong-protest-convictions-visas-13bc13",
-      "reference": [
-        "法广"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -2788,24 +2899,6 @@
       "sources": []
     },
     {
-      "id": "cpdc-shuts-kaohsiung-cpl-line-bc41a2",
-      "title": "中石化停产小港厂CPL线台湾本土产能归零",
-      "description": "中石化董事会11月12日决定停运并除役高雄小港厂一条年产能20万吨的己内酰胺（CPL）生产线。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T12:00:46+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/cpdc-shuts-kaohsiung-cpl-line-bc41a2",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "france-plans-international-defense-ai-center-f69da0",
       "title": "法国国防部拟设国际中心推动国防人工智能应用",
       "description": "法国国防部提出设立国际中心的方案，目标是支持人工智能更多用于国防领域。",
@@ -2916,24 +3009,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-parties-propose-coal-retirement-bill-f9599d",
-      "title": "国民党民众党提案限台中电厂燃煤机组2028年底退场",
-      "description": "台湾国民党立委与民众党团于2026年11月10日提出《空污法》第28条、第30条修正案，要求台中电厂燃煤机组在2028年底前全部退出，并限制退役机组转作紧急备用。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T11:08:16+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/taiwan-parties-propose-coal-retirement-bill-f9599d",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "qin-bin-appointed-beijing-discipline-chief-cf24df",
       "title": "秦斌出任北京市委常委及市纪委书记",
       "description": "中共中央近日批准秦斌出任中共北京市委委员、常委和北京市纪委书记。",
@@ -2948,24 +3023,6 @@
         "澎湃新闻"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "shinjuku-tourist-scam-complaints-triple-de656c",
-      "title": "新宿外国游客被宰求助同比增至三倍",
-      "description": "今年1月至10月，东京新宿警署接到外国游客遭“宰客”的求助约240起，约为去年同期三倍。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T10:32:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/shinjuku-tourist-scam-complaints-triple-de656c",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -3566,24 +3623,6 @@
       "sources": []
     },
     {
-      "id": "brookshire-farm-e-coli-outbreak-death-b1a422",
-      "title": "加州农场大肠杆菌疫情致一死三童重症",
-      "description": "加州圣路易奥比斯波县布鲁克希尔农场相关的大肠杆菌疫情已造成一名男子死亡，三名儿童因重症接受儿科重症监护。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/brookshire-farm-e-coli-outbreak-death-b1a422",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "new-york-court-approves-home-care-settlement-5d12f7",
       "title": "纽约法院批准居家护理员1.62亿美元和解案",
       "description": "纽约东区联邦法院11月10日批准一项总额1.62亿美元的集体诉讼和解，解决四名居家护理员针对薪资管理公司Public Partnerships LLC（PPL）提出的欠薪及福利争议。",
@@ -3746,81 +3785,6 @@
       "sources": []
     },
     {
-      "id": "fda-requires-glp1-drugs-blindness-warning-e07118",
-      "title": "美国FDA要求GLP-1药品标注视神经病变风险",
-      "description": "美国食品药品监督管理局（FDA）11月9日要求相关药品厂商在说明书的“警告与注意事项”部分加入非动脉炎性前部缺血性视神经病变（NAION）风险提示。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T03:24:38.312443+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/fda-requires-glp1-drugs-blindness-warning-e07118",
-      "reference": [
-        "世界日报",
-        "澎湃新闻",
-        "公视",
-        "第一财经"
-      ],
-      "section": "life",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "baidu-launches-large-model-token-marketplace-80dc29",
-      "title": "百度正式推出大模型交易平台词元所",
-      "description": "百度在11月12日的百度世界2026开幕式上推出大模型交易平台“词元所”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T03:06:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/baidu-launches-large-model-token-marketplace-80dc29",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nvidia-ai-financing-network-commitments-063d9c",
-      "title": "辉达数千亿美元承诺使其成为人工智能融资网络核心",
-      "description": "辉达通过采购、担保和信贷支持等安排，成为人工智能基础设施融资网络的重要一环。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T03:01:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/nvidia-ai-financing-network-commitments-063d9c",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-tightens-japan-rare-earth-controls-yttrium-prices-bd61e1",
-      "title": "中国收紧对日稀土管制令钇价大涨",
-      "description": "钇及其原料氧化钇价格大幅上涨，日本氧化钇进口骤减，库存耗尽的担忧浮现，部分企业已提高对后续采购的警惕。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T02:42:38+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/china-tightens-japan-rare-earth-controls-yttrium-prices-bd61e1",
-      "reference": [
-        "日经"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "mlb-owners-lockout-labor-talks-stall-c1ec5b",
       "title": "美媒称MLB资方可能在协议到期后封馆",
       "description": "美国职棒大联盟（MLB）劳资谈判陷入僵局。",
@@ -3835,24 +3799,6 @@
         "中央通訊社"
       ],
       "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-ai-stocks-diverge-after-midterms-579269",
-      "title": "美国AI股票在中期选举后一周走势分化",
-      "description": "美国中期选举后一周，AI相关股票走势分化：大型云服务商股价较11月3日投票日回升，半导体股则下跌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T02:12:35+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/us-ai-stocks-diverge-after-midterms-579269",
-      "reference": [
-        "日经"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -4406,24 +4352,6 @@
       "sources": []
     },
     {
-      "id": "nih-pfas-er-negative-breast-cancer-study-70b4a3",
-      "title": "研究发现两种PFAS浓度较高女性雌激素受体阴性乳腺癌率较高",
-      "description": "美国国家卫生研究院一项研究发现，血液中全氟辛酸（PFOA）和全氟辛烷磺酸（PFOS）浓度较高的女性，雌激素受体阴性乳腺癌发生率相对较高。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/nih-pfas-er-negative-breast-cancer-study-70b4a3",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "harrison-wins-booker-prize-end-everything-862fee",
       "title": "81岁科幻作家哈里森获2026年布克奖",
       "description": "当地时间11月9日，2026年布克奖在英国伦敦揭晓。",
@@ -4857,24 +4785,6 @@
       ],
       "section": "sports",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "indiechina-festival-holds-new-york-screenings-dffa7a",
-      "title": "朱日坤将在纽约举办第二届中国独立电影节",
-      "description": "第二届中国独立电影节（IndieChina）定于2026年11月10日至15日在纽约举行，放映场地包括曼哈顿的HERE Arts Center和布鲁克林的100 Sutton Studios。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T06:10:45+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/indiechina-festival-holds-new-york-screenings-dffa7a",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "culture",
-      "sourceCount": 1,
       "sources": []
     },
     {
