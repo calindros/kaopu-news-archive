@@ -1,15 +1,15 @@
 {
   "details": {
-    "date": "2026-11-12",
+    "date": "2026-11-13",
     "timestamp": 1794526518,
     "totalPages": 1,
-    "total": 274
+    "total": 273
   },
   "stories": [
     {
       "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "黄仁勋辞任英伟达首席执行官克雷斯临时接任",
-      "description": "英伟达董事会11月12日宣布，联合创始人兼首席执行官黄仁勋辞去公司总裁、首席执行官和董事职务，辞职即刻生效。",
+      "title": "黄仁勋辞去英伟达首席执行官职务",
+      "description": "英伟达董事会11月12日宣布，联合创始人黄仁勋辞去公司总裁、首席执行官和董事职务，决定即刻生效。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -24,17 +24,72 @@
         "公视"
       ],
       "section": "china",
-      "sourceCount": 299,
+      "sourceCount": 307,
+      "sources": []
+    },
+    {
+      "id": "alice-huang-manhattan-supermicro-smuggling-probe-cfea5d",
+      "title": "彭博称曼哈顿检方调查黄乐关联实体涉美超微走私",
+      "description": "彭博援引知情人士称，曼哈顿联邦检察官正在调查与黄乐有关的实体是否参与将美超微电脑（Super Micro Computer）产品走私至中国。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T23:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/alice-huang-manhattan-supermicro-smuggling-probe-cfea5d",
+      "reference": [
+        "世界日报",
+        "端传媒"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "shenzhen-bay-books-seized-6ce4d7",
+      "title": "小树经深圳湾返广州时三本繁体书遭海关没收",
+      "description": "据端传媒报道，数年前，读者小树从香港经深圳湾返回广州时，海关检查她的行李，并没收其中三本《通识词典》。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T23:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/shenzhen-bay-books-seized-6ce4d7",
+      "reference": [
+        "端传媒"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ai-altered-foreigners-singing-chinese-songs-b16501",
+      "title": "澎湃明查发现多条唱中文歌视频被AI改编",
+      "description": "澎湃明查核查发现，社交平台上多条“外国人偶遇中国游客后唱中文歌”的视频，使用真实影像并通过人工智能改动人物外貌、口型或演唱内容，呈现出海外偶遇的情节。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T22:52:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/ai-altered-foreigners-singing-chinese-songs-b16501",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
       "sources": []
     },
     {
       "id": "brooklyn-building-collapse-one-dead-ten-injured-8b8300",
-      "title": "纽约布鲁克林三层公寓倒塌致8死17伤",
-      "description": "纽约布鲁克林弗莱布许一栋三层公寓楼11日下午倒塌，楼体坠入相邻工地的开挖基坑。",
+      "title": "纽约布鲁克林住宅楼倒塌致8死17伤",
+      "description": "纽约市布鲁克林区弗莱布许一栋三层住宅楼11日下午约4时倒塌，整栋楼坠入相邻工地的开挖基坑。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-12T19:48:15+00:00",
+      "updatedAt": "2026-11-12T22:21:52+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-12",
       "url": "https://kaopu.news/story/2026-11-12/brooklyn-building-collapse-one-dead-ten-injured-8b8300",
@@ -45,7 +100,138 @@
         "法广"
       ],
       "section": "us",
-      "sourceCount": 8,
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "jensen-huang-exit-nvidia-fall-us-stocks-bb2872",
+      "title": "中央社称黄仁勋离任后辉达下跌拖累美股",
+      "description": "美国三大指数收跌。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T21:42:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/jensen-huang-exit-nvidia-fall-us-stocks-bb2872",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "saudi-energy-attacks-lift-oil-prices-63fd6b",
+      "title": "沙特能源设施遇袭加剧推高国际油价",
+      "description": "沙特阿拉伯能源基础设施遇袭情况加重，霍尔木兹海峡航运受阻，全球石油运输受到威胁，国际油价于11月12日上涨。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T21:13:06+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/saudi-energy-attacks-lift-oil-prices-63fd6b",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "kioxia-sandisk-plan-five-trillion-yen-nand-expansion-abfa65",
+      "title": "铠侠与闪迪计划到2032年投资5万亿日元扩产",
+      "description": "铠侠与美国闪迪计划到2032年累计投入5万亿日元，在日本扩建NAND闪存生产设施，投资将用于岩手县北上市的北上工厂和三重县四日市市的四日市工厂。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T21:02:24+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/kioxia-sandisk-plan-five-trillion-yen-nand-expansion-abfa65",
+      "reference": [
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ccp-deploys-21st-congress-delegate-election-1a466e",
+      "title": "中共中央启动二十一大代表选举工作",
+      "description": "中共中央近日印发《关于党的二十一大代表选举工作的通知》，启动党的二十一大代表选举工作；中央组织部随后作出部署。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T21:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-07",
+      "url": "https://kaopu.news/story/2026-11-07/ccp-deploys-21st-congress-delegate-election-1a466e",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "中央通訊社",
+        "第一财经"
+      ],
+      "section": "china",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "us-agrees-restore-student-sevis-records-ca9610",
+      "title": "美国政府同意追溯恢复留学生SEVIS记录",
+      "description": "华美维权同盟（CALDA）代表中国留学生提起的联邦诉讼达成和解。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T20:59:53+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/us-agrees-restore-student-sevis-records-ca9610",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "microsoft-outage-disrupts-us-users-connectors-72c8f7",
+      "title": "微软多项服务中断影响美国用户和AI连接器",
+      "description": "微软365、Outlook和Teams于11月12日发生服务中断，数以千计美国用户受到影响，OpenAI和Anthropic使用的微软连接器也出现问题。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T20:40:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/microsoft-outage-disrupts-us-users-connectors-72c8f7",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "dollar-strength-drives-gold-silver-lower-c8d176",
+      "title": "美元走强令黄金与白银期价大幅下跌",
+      "description": "12日，美国通胀延续及美联储收紧预期推高美元和美债收益率，金银期货大幅下跌。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T20:40:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/dollar-strength-drives-gold-silver-lower-c8d176",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -80,6 +266,24 @@
       "url": "https://kaopu.news/story/2026-11-12/iranian-official-source-sirik-enemy-military-attack-8d6e02",
       "reference": [
         "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "uae-fujairah-truck-crash-fire-14-dead-64733b",
+      "title": "阿联酋富查伊哈卡车翻覆起火致14死30伤",
+      "description": "阿联酋富查伊哈邦入口处一条道路在午夜前后发生严重交通事故，造成14人死亡、30人受伤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T19:01:42+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/uae-fujairah-truck-crash-fire-14-dead-64733b",
+      "reference": [
+        "法广"
       ],
       "section": "world",
       "sourceCount": 1,
@@ -1542,24 +1746,6 @@
       "sources": []
     },
     {
-      "id": "singapore-world-bank-carbon-market-plan-900af7",
-      "title": "新加坡与世行签署三年行动方案助发展中国家完善碳市场",
-      "description": "新加坡与世界银行在第31届联合国气候变化大会（COP31）期间签署未来三年的行动方案，将于2027年至2029年协助发展中国家完善碳市场、解决小型减排项目融资难题并培训专业人才。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T10:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/singapore-world-bank-carbon-market-plan-900af7",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "democrats-retake-congress-push-immigration-reform-36750c",
       "title": "民主党夺回国会两院后拟推动移民改革",
       "description": "美国民主党在中期选举中夺回国会参众两院后，议员着手推动移民立法并筹划调查国土安全部。",
@@ -1650,27 +1836,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "spain-national-strike-disrupts-transport-487685",
-      "title": "西班牙住房抗议引发14年来首次全国大罢工",
-      "description": "西班牙工会11日发动全国性大罢工，住房权益团体参与其中，抗议住房成本上涨和生活开支加重，要求提高工资、扩大公共住房供给。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T08:46:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/spain-national-strike-disrupts-transport-487685",
-      "reference": [
-        "澎湃新闻",
-        "法广",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 7,
       "sources": []
     },
     {
@@ -2700,25 +2865,6 @@
       "sources": []
     },
     {
-      "id": "china-canada-yuan-green-sovereign-bond-issue-ecdef5",
-      "title": "中国财政部在多伦多发行40亿元人民币绿色主权债",
-      "description": "中国财政部代表中国中央政府于11月9日在加拿大多伦多发行40亿元人民币绿色主权债券。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T04:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/china-canada-yuan-green-sovereign-bond-issue-ecdef5",
-      "reference": [
-        "第一财经",
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "taiwan-convenience-store-worker-conditions-162d8a",
       "title": "公视调查揭示便利店扩张背后的劳动困境",
       "description": "台湾公视专题调查指出，便利店门店和服务项目扩大的同时，一线员工面临多工、低薪和休息不足，加盟店主也承受经营成本与总部管理压力，部分经营风险还会落到员工身上。",
@@ -2862,24 +3008,6 @@
         "中央通訊社"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "korean-semiconductor-faces-us-pressure-risk-ae3311",
-      "title": "韩媒警示韩国半导体业面临美国施压风险",
-      "description": "韩国存储芯片价格飙升之际，韩民族日报分析称，韩国半导体业面临美国施压，突出的市场份额也可能带来经济安全风险；但韩国企业主导的HBM与服务器DRAM是美国科技巨头建设人工智能基础设施所需，令当前局势不同于1986年的美日半导体争端。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T02:43:21+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/korean-semiconductor-faces-us-pressure-risk-ae3311",
-      "reference": [
-        "韩民族日报"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -3673,26 +3801,6 @@
       "sources": []
     },
     {
-      "id": "reuters-microsoft-urges-trump-delay-china-transceiver-ban-18cec3",
-      "title": "据报微软联手企业游说特朗普搁置中国光模块禁令",
-      "description": "微软与其他企业及行业组织正游说特朗普政府撤回限制中国光模块进口的计划，称禁令可能带来供应链挑战并拖慢美国人工智能数据中心建设。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T08:23:21+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/reuters-microsoft-urges-trump-delay-china-transceiver-ban-18cec3",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "世界日报"
-      ],
-      "section": "ai",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "li-qiang-attend-china-asean-summit-7f1fe9",
       "title": "李强将赴马尼拉出席中国—东盟领导人会议",
       "description": "中国总理李强将于11月15日至16日赴菲律宾马尼拉，参加第29次中国—东盟领导人会议。",
@@ -3725,24 +3833,6 @@
         "澎湃新闻"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "spain-youth-children-ministry-seeks-tiktok-suspension-9a2961",
-      "title": "西班牙青年与儿童事务部请求暂停TikTok运营",
-      "description": "西班牙青年与儿童事务部11月10日请求西班牙数据保护局（AEPD）暂停TikTok在西班牙运营，作为临时干预措施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T08:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/spain-youth-children-ministry-seeks-tiktok-suspension-9a2961",
-      "reference": [
-        "财新"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -3855,42 +3945,6 @@
       "sources": []
     },
     {
-      "id": "nassau-independent-voters-overtake-republicans-ea61e0",
-      "title": "纽约纳苏郡独立选民人数20年来首超共和党",
-      "description": "纽约州选举局最新登记数据显示，长岛纳苏郡独立选民人数已超过共和党登记选民，这是至少20年来首次；苏福克郡独立选民人数则与共和党相当。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T06:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/nassau-independent-voters-overtake-republicans-ea61e0",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "usda-proposes-ending-tanf-snap-automatic-eligibility-36a3fc",
-      "title": "美国农业部拟取消TANF家庭自动获SNAP资格",
-      "description": "美国农业部宣布一项拟议规则，计划取消领取贫困家庭临时援助计划（TANF）现金补助的家庭自动取得补充营养援助计划（SNAP）资格的安排。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T06:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/usda-proposes-ending-tanf-snap-automatic-eligibility-36a3fc",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "state-local-elections-shape-data-centers-70335c",
       "title": "美国中期选举后逾四成数据中心规划容量面临政策风险",
       "description": "美国有九个州的州长现任者或候选人承诺暂停新建数据中心，或已采取暂停措施。",
@@ -3927,25 +3981,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-tax-collection-law-draft-seeks-public-comment-5e1ffd",
-      "title": "税收征管法修订草案全文公开征求意见",
-      "description": "十四届全国人大常委会第二十五次会议完成对《税收征收管理法（修订草案）》的初次审议后，草案全文于11月6日公布，向社会征求意见，期限为30天。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T05:49:41.740257+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/china-tax-collection-law-draft-seeks-public-comment-5e1ffd",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "section": "china",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -4006,25 +4041,6 @@
       "sources": []
     },
     {
-      "id": "wangyi-urges-france-boost-eu-trade-046572",
-      "title": "王毅通话呼吁法国推动中欧经贸合作",
-      "description": "中国外交部长王毅11月10日应约同法国外交部长巴罗通电话，讨论中法关系、中欧经贸合作及国际事务协调。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T03:41:28+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/wangyi-urges-france-boost-eu-trade-046572",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "tsmc-october-revenue-hits-record-high-56f567",
       "title": "台积电10月营收创下单月历史新高",
       "description": "台积电11月10日公布，2026年10月营收为新台币5868.9亿元，创单月新高，环比增长14.7%、同比增长59.7%。",
@@ -4042,27 +4058,6 @@
       ],
       "section": "business",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "ccp-deploys-21st-congress-delegate-election-1a466e",
-      "title": "中共中央将新就业群体纳入二十一大代表构成",
-      "description": "中共中央近日印发通知，部署中国共产党第二十一次全国代表大会代表选举工作，并首次将新就业群体明确列入代表构成范围。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T02:19:12+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/ccp-deploys-21st-congress-delegate-election-1a466e",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "中央通訊社",
-        "第一财经"
-      ],
-      "section": "china",
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -4408,26 +4403,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "tsmc-plans-3d-dram-nvidia-request-5081bd",
-      "title": "据报台积电应英伟达要求规划3D DRAM制造",
-      "description": "台积电据报应英伟达要求，近期开始规划3D DRAM制造方案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T00:11:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/tsmc-plans-3d-dram-nvidia-request-5081bd",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "东亚日报"
-      ],
-      "section": "tech",
-      "sourceCount": 4,
       "sources": []
     },
     {
