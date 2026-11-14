@@ -2,7 +2,7 @@
   "details": {
     "date": "2026-11-12",
     "totalPages": 0,
-    "total": 175
+    "total": 180
   },
   "stories": [
     {
@@ -82,6 +82,22 @@
       "url": "https://kaopu.news/story/2026-11-12/ai-altered-foreigners-singing-chinese-songs-b16501",
       "reference": [],
       "section": "ai",
+      "sourceCount": "",
+      "sources": []
+    },
+    {
+      "id": "brooklyn-building-collapse-one-dead-ten-injured-8b8300",
+      "title": "纽约布鲁克林住宅楼倒塌致8死17伤",
+      "description": "纽约市布鲁克林区弗莱布许一栋三层住宅楼11日下午约4时倒塌，整栋楼坠入相邻工地的开挖基坑。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T22:21:52+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/brooklyn-building-collapse-one-dead-ten-injured-8b8300",
+      "reference": [],
+      "section": "us",
       "sourceCount": "",
       "sources": []
     },
@@ -210,6 +226,22 @@
       "url": "https://kaopu.news/story/2026-11-10/poilievre-criticizes-canada-immigration-targets-3094db",
       "reference": [],
       "section": "world",
+      "sourceCount": "",
+      "sources": []
+    },
+    {
+      "id": "united-airlines-restricts-unauthorized-ai-agents-825448",
+      "title": "美联航禁止第三方AI代理代客订票",
+      "description": "美国联合航空11月11日宣布，禁止未经授权的第三方人工智能代理代旅客订票、变更行程或办理相关交易。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T18:30:52+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/united-airlines-restricts-unauthorized-ai-agents-825448",
+      "reference": [],
+      "section": "ai",
       "sourceCount": "",
       "sources": []
     },
@@ -354,6 +386,22 @@
       "url": "https://kaopu.news/story/2026-11-12/zelensky-says-starshield-speed-limits-ukraine-bd6a0b",
       "reference": [],
       "section": "world",
+      "sourceCount": "",
+      "sources": []
+    },
+    {
+      "id": "democrats-win-migrants-return-us-border-c34aff",
+      "title": "特朗普威胁墨西哥不拦移民将加倍关税",
+      "description": "美国总统特朗普11月12日在社交平台“真实社群”发文，要求墨西哥政府立即阻止一支向北移动的移民队伍，并称队伍成员不会获准进入美国。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T14:03:40+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/democrats-win-migrants-return-us-border-c34aff",
+      "reference": [],
+      "section": "us",
       "sourceCount": "",
       "sources": []
     },
@@ -658,6 +706,22 @@
       "url": "https://kaopu.news/story/2026-11-12/nasdaq-tech-etf-halts-over-high-premium-26ff4e",
       "reference": [],
       "section": "business",
+      "sourceCount": "",
+      "sources": []
+    },
+    {
+      "id": "zaozhuang-police-crack-antiquities-trafficking-case-b7ed64",
+      "title": "枣庄警方破获跨省倒卖文物案追回2000余件文物",
+      "description": "枣庄市公安局破获一起跨省倒卖文物案，抓获20余名犯罪嫌疑人，追回涉案文物2000余件，其中包括多件国家一级、二级、三级珍贵文物。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T12:41:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/zaozhuang-police-crack-antiquities-trafficking-case-b7ed64",
+      "reference": [],
+      "section": "china",
       "sourceCount": "",
       "sources": []
     },
@@ -1110,6 +1174,38 @@
       "sources": []
     },
     {
+      "id": "autumn-breaks-boost-november-travel-020258",
+      "title": "多地中小学秋假带热11月旅游淡季",
+      "description": "多地中小学秋假安排集中在11月中旬，带动传统旅游淡季的亲子出游、主题乐园和研学活动增加。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T10:48:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/autumn-breaks-boost-november-travel-020258",
+      "reference": [],
+      "section": "life",
+      "sourceCount": "",
+      "sources": []
+    },
+    {
+      "id": "china-accesses-nvidia-compute-via-data-centers-55044c",
+      "title": "据报美国拟限制中企远程使用先进芯片算力",
+      "description": "美国商务部正在制定新一轮先进人工智能芯片出口管制，拟将相关许可要求扩展至7个国家，并限制中国AI企业通过其他国家的数据中心远程调用受限芯片算力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T10:42:37+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/china-accesses-nvidia-compute-via-data-centers-55044c",
+      "reference": [],
+      "section": "ai",
+      "sourceCount": "",
+      "sources": []
+    },
+    {
       "id": "qin-bin-appointed-beijing-discipline-chief-cf24df",
       "title": "秦斌出任北京市委常委及市纪委书记",
       "description": "中共中央近日批准秦斌出任中共北京市委委员、常委和北京市纪委书记。",
@@ -1314,6 +1410,22 @@
       "url": "https://kaopu.news/story/2026-11-10/china-ndrc-adjusts-education-resources-dff3f6",
       "reference": [],
       "section": "life",
+      "sourceCount": "",
+      "sources": []
+    },
+    {
+      "id": "gobind-singh-criticizes-zahid-parliament-dissolution-call-febc40",
+      "title": "哥宾星批扎希解散国会建议有失尊重",
+      "description": "马来西亚数码部长哥宾星批评副首相阿末扎希建议安华解散国会而非改组内阁，认为这项建议对首相不够尊重。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-12T08:53:07+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/gobind-singh-criticizes-zahid-parliament-dissolution-call-febc40",
+      "reference": [],
+      "section": "asia",
       "sourceCount": "",
       "sources": []
     },
@@ -2294,22 +2406,6 @@
       "sources": []
     },
     {
-      "id": "saifuddin-proposes-declassifying-najib-pardon-board-minutes-ce9266",
-      "title": "赛夫丁将向内阁提议解密纳吉居家服刑特赦局会议记录",
-      "description": "内政部长赛夫丁纳苏丁表示，他将于明日向内阁提出解密建议，公开与批准前首相纳吉居家服刑有关的特赦局会议记录。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T03:41:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/saifuddin-proposes-declassifying-najib-pardon-board-minutes-ce9266",
-      "reference": [],
-      "section": "world",
-      "sourceCount": "",
-      "sources": []
-    },
-    {
       "id": "nature-study-rethinks-obesity-diagnosis-385092",
       "title": "《自然》研究建议肥胖诊断不再单靠BMI",
       "description": "一项发表于《自然》的研究建议改革肥胖诊断方式：除BMI外，还应测量体脂，并检查体重是否已造成器官功能障碍。",
@@ -2674,22 +2770,6 @@
       "url": "https://kaopu.news/story/2026-11-11/japan-court-finds-vote-gap-unconstitutional-0371a6",
       "reference": [],
       "section": "asia",
-      "sourceCount": "",
-      "sources": []
-    },
-    {
-      "id": "waller-favors-december-fed-rate-hike-e52463",
-      "title": "美国通胀超预期促市场上调美联储加息预期",
-      "description": "美国10月消费者价格指数（CPI）高于预期后，市场上调对美联储后续加息的押注。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T01:02:38.523420+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/waller-favors-december-fed-rate-hike-e52463",
-      "reference": [],
-      "section": "us",
       "sourceCount": "",
       "sources": []
     },
