@@ -1,11 +1,259 @@
 {
   "details": {
     "date": "2026-11-14",
-    "timestamp": 1794647953,
+    "timestamp": 1794651427,
     "totalPages": 1,
     "total": 272
   },
   "stories": [
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "黄仁勋辞职结束英伟达33年执掌",
+      "description": "英伟达共同创办人黄仁勋的辞职于11月12日生效，他同时卸下总裁、首席执行官和董事职务，结束执掌公司33年的任期。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T09:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 406,
+      "sources": []
+    },
+    {
+      "id": "china-nhsa-to-release-dual-drug-catalogs-5877bb",
+      "title": "新版国家医保目录新增107种药品含51种1类创新药",
+      "description": "国家医保局和人力资源社会保障部11月14日在苏州公布2026年国家医保药品目录及商业健康保险创新药品目录调整结果。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T09:10:40.183510+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/china-nhsa-to-release-dual-drug-catalogs-5877bb",
+      "reference": [
+        "第一财经",
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "witkoff-norway-peace-proposal-talks-6bf424",
+      "title": "欧洲领导人敲定俄乌和谈代表团队",
+      "description": "欧洲领导人敲定由英国、法国、德国、意大利、波兰及欧盟机构组成的代表团队，拟参加下一轮俄乌和平谈判。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T09:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
+      "reference": [
+        "法广",
+        "澎湃新闻",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 122,
+      "sources": []
+    },
+    {
+      "id": "regions-announce-school-snow-holiday-plans-1d3bd8",
+      "title": "多地公布中小学雪假时间及免费配套安排",
+      "description": "河北张家口、吉林、内蒙古呼伦贝尔和新疆阿勒泰已公布中小学雪假或冰雪假期方案，部分地区将提供免费冰雪体验、场馆开放及托管服务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T08:57:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/regions-announce-school-snow-holiday-plans-1d3bd8",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "fed-report-ai-boosts-stock-valuations-5d9875",
+      "title": "美联储报告将人工智能列为金融稳定首要隐忧",
+      "description": "美联储11月13日发布半年一度的《金融稳定报告》。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T08:53:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/fed-report-ai-boosts-stock-valuations-5d9875",
+      "reference": [
+        "第一财经",
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "tofersen-enters-national-commercial-insurance-drug-list-428757",
+      "title": "国家医保局已将托夫生纳入商保创新药目录",
+      "description": "国家医保局11月14日发布第二版商保创新药目录，托夫生注射液被纳入。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T08:49:35.503923+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/tofersen-enters-national-commercial-insurance-drug-list-428757",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "iugs-adds-three-chinese-geosites-fb5872",
+      "title": "国际地质科学联合会公布中国新增三处地质遗产地",
+      "description": "国际地质科学联合会于14日发布第三批中国入选地质遗产地名单，新增重庆云阳中侏罗世恐龙化石群、四川鲜水河断裂和安徽大别山三叠纪超高压变质带。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T08:47:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/iugs-adds-three-chinese-geosites-fb5872",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
+      "title": "习近平将主持深圳APEC会议并发表讲话",
+      "description": "亚太经合组织（APEC）第三十三次领导人非正式会议定于11月18日至19日在深圳举行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T08:44:42+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "澎湃新闻",
+        "共同网"
+      ],
+      "section": "china",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "modi-office-summons-telecom-secretary-fake-court-orders-7a4d4f",
+      "title": "据报莫迪办公室召见电信部秘书解释假庭令封锁网站",
+      "description": "据联合早报援引路透社对两名知情政府官员的报道，印度总理办公室11月14日要求电信部秘书阿格拉瓦尔到场说明部门依据伪造法院命令封锁网站一事；他为此压缩了在其他邦的出差安排。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T08:37:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/modi-office-summons-telecom-secretary-fake-court-orders-7a4d4f",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "wmo-report-global-climate-records-f043df",
+      "title": "世界气象组织称2026年将跻身有记录以来最暖前四",
+      "description": "世界气象组织11月9日在《联合国气候变化框架公约》第三十一次缔约方大会开幕当天发布《2026年气候状况最新通报》。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T08:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/wmo-report-global-climate-records-f043df",
+      "reference": [
+        "第一财经",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "wmo-reports-record-earth-energy-imbalance-3f9991",
+      "title": "世界气象组织报告地球能量失衡创纪录",
+      "description": "世界气象组织近日发布《2026年气候状况最新通报》，指出地球能量失衡、海洋储热和全球平均海平面均达到观测以来的纪录水平。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T08:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/wmo-reports-record-earth-energy-imbalance-3f9991",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "french-protesters-plan-fifth-weekend-protest-c46b3d",
+      "title": "法国示威者将举行第五个周末抗议集会",
+      "description": "法国示威者计划于11月14日举行连续第五个周末的抗议集会，诉求包括加强儿童权益保护，以及反对赋予开枪警员“正当防卫推定”的法案。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T08:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/french-protesters-plan-fifth-weekend-protest-c46b3d",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "hong-kong-police-enable-facial-recognition-6e0d62",
+      "title": "香港警方将于11月16日启用锐眼人脸识别",
+      "description": "香港警务处处长周一鸣11月14日宣布，“锐眼计划”将于11月16日启用人脸识别功能。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T08:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/hong-kong-police-enable-facial-recognition-6e0d62",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "shenzhen-trade-tops-five-trillion-yuan-9ec40d",
       "title": "深圳成为中国大陆首个外贸进出口超五万亿元城市",
@@ -23,47 +271,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "china-nhsa-to-release-dual-drug-catalogs-5877bb",
-      "title": "国家医保目录首次纳入CAR-T药品瑞基奥仑赛",
-      "description": "中国国家医保局11月14日在苏州公布2026年国家医保药品目录和商业健康保险创新药品目录调整结果。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T08:06:37.490095+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/china-nhsa-to-release-dual-drug-catalogs-5877bb",
-      "reference": [
-        "第一财经",
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 11,
-      "sources": []
-    },
-    {
-      "id": "witkoff-norway-peace-proposal-talks-6bf424",
-      "title": "俄乌阿布扎比会谈达成大规模换俘协议",
-      "description": "美国斡旋的俄罗斯、乌克兰三方会谈11月11日在阿联酋阿布扎比结束，双方同意进行大规模被俘人员交换。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T08:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-20",
-      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
-      "reference": [
-        "法广",
-        "澎湃新闻",
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 121,
       "sources": []
     },
     {
@@ -204,27 +411,6 @@
       "sources": []
     },
     {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "黄仁勋辞去英伟达总裁首席执行官及董事职务",
-      "description": "英伟达11月12日宣布，联合创始人黄仁勋辞去公司总裁、首席执行官和董事职务，决定即时生效，结束他执掌公司约33年的任期。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T07:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 405,
-      "sources": []
-    },
-    {
       "id": "singapore-studies-specialist-doctors-egypt-gaza-aid-07e5b4",
       "title": "新加坡将研究派专科医生和援助组织赴埃及支援加沙",
       "description": "新加坡政府正研究派遣专科医生，并协调非政府组织前往埃及，为因战事流离失所的加沙民众提供援助。",
@@ -264,8 +450,8 @@
     },
     {
       "id": "faa-orders-us-departure-ground-stop-2eeef2",
-      "title": "美国FAA因空管通信故障暂停全国航班起飞逾四小时",
-      "description": "美国联邦航空管理局（FAA）11月13日因空中交通管制通信系统故障，要求全美机场暂停航班起飞。",
+      "title": "FAA因空管通信故障暂停全美航班起飞",
+      "description": "美国联邦航空管理局（FAA）因空中交通管制通信系统故障，于美东时间11月13日15时53分至54分左右下令全美机场暂停出港航班起飞。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -280,7 +466,7 @@
         "财新"
       ],
       "section": "us",
-      "sourceCount": 28,
+      "sourceCount": 29,
       "sources": []
     },
     {
@@ -300,6 +486,27 @@
       ],
       "section": "world",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "paraguay-president-pena-resigns-f8e66e",
+      "title": "巴拉圭检方寻求以犯罪共谋罪起诉前总统培尼亚",
+      "description": "巴拉圭检方寻求以犯罪共谋罪起诉前总统圣地亚哥·培尼亚，指控他操控5名中央银行官员组成犯罪集团，为Ueno Bank提供庇护。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T06:31:40+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/paraguay-president-pena-resigns-f8e66e",
+      "reference": [
+        "澎湃新闻",
+        "法广",
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 27,
       "sources": []
     },
     {
@@ -326,7 +533,7 @@
     {
       "id": "us-agencies-push-megaspeed-listing-delay-e5d17e",
       "title": "贝森特指责商务部迟未列管Megaspeed",
-      "description": "美国财政部长斯科特·贝森特称，多个部门数月来支持将新加坡公司Megaspeed International列入出口管制实体清单，但商务部迟迟没有采取行动。",
+      "description": "美国财政部长斯科特·贝森特11月13日指责美国商务部迟迟未将新加坡公司Megaspeed International列入出口管制名单，并称多个联邦部门数月来支持对该公司实施限制。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -341,7 +548,7 @@
         "法广"
       ],
       "section": "world",
-      "sourceCount": 10,
+      "sourceCount": 11,
       "sources": []
     },
     {
@@ -603,24 +810,6 @@
       "sources": []
     },
     {
-      "id": "tofersen-enters-national-commercial-insurance-drug-list-428757",
-      "title": "托夫生注射液纳入国家商保创新药目录",
-      "description": "2026年国家商保创新药目录于11月14日正式公布，托夫生注射液（商品名凯盛迪）列入目录，为SOD1-ALS患者获得创新治疗增加一条支付保障渠道。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T06:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/tofersen-enters-national-commercial-insurance-drug-list-428757",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "hong-kong-growth-accelerates-52-percent-20f83a",
       "title": "香港政府上调全年经济增长预测至4.8%",
       "description": "香港政府星期五（11月13日）将2026年全年经济增长预测上调至4.8%，高于此前3.5%至4.5%的区间。",
@@ -637,6 +826,27 @@
       ],
       "section": "business",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "title": "特朗普习近平普京定于深圳举行首次三方会谈",
+      "description": "美国总统特朗普、中国国家主席习近平和俄罗斯总统普京定于11月19日在深圳举行首次正式三方首脑会谈。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T06:03:41+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "日经",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 36,
       "sources": []
     },
     {
@@ -786,47 +996,6 @@
       "sources": []
     },
     {
-      "id": "xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
-      "title": "习近平将主持深圳APEC领导人非正式会议",
-      "description": "中国国家主席习近平将于11月18日至19日在深圳主持亚太经合组织（APEC）第三十三次领导人非正式会议并发表讲话。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T05:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "title": "特朗普、习近平和普京定于深圳举行首次三方会谈",
-      "description": "美国白宫11月13日宣布，美国总统特朗普、中国国家主席习近平和俄罗斯总统普京定于11月19日在深圳举行三方首脑会谈，会议安排在亚太经济合作组织（APEC）领导人会议期间。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T05:25:41+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "reference": [
-        "韩国国际广播电台",
-        "联合早报",
-        "日经",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 35,
-      "sources": []
-    },
-    {
       "id": "iranian-official-source-sirik-enemy-military-attack-8d6e02",
       "title": "伊朗革命卫队称摧毁美军巴林预警雷达",
       "description": "伊朗革命卫队称，伊朗战机11月13日摧毁美军在巴林岛上的预警雷达。",
@@ -932,24 +1101,6 @@
         "中央通訊社"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "fed-report-ai-boosts-stock-valuations-5d9875",
-      "title": "美联储报告称人工智能热情助推美股高估值",
-      "description": "美联储周五发布下半年《金融稳定报告》，称市场对人工智能的热情是美国股票估值维持高位的推动因素之一。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T04:10:39.914871+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/fed-report-ai-boosts-stock-valuations-5d9875",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -2490,24 +2641,6 @@
       "sources": []
     },
     {
-      "id": "ukrainian-drones-kill-nine-russia-23e518",
-      "title": "乌克兰无人机袭击致俄罗斯多地9人死亡",
-      "description": "俄罗斯多地地方当局报告称，乌克兰无人机夜间袭击造成9人死亡。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T12:01:40+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/ukrainian-drones-kill-nine-russia-23e518",
-      "reference": [
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "ding-gangqiang-zhang-qifa-urge-early-diabetes-prevention-8a8690",
       "title": "丁钢强张启发主张糖尿病防控关口前移",
       "description": "中国疾控中心营养学首席专家丁钢强和华中农业大学教授张启发在中国特殊食品大会上谈及糖尿病防控，主张提前识别风险，并关注胰岛素抵抗和主食结构。",
@@ -2523,25 +2656,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "tepco-fukushima-water-discharge-round-25-a22a67",
-      "title": "福岛核电站完成第25批含氚废水排放",
-      "description": "东京电力公司完成福岛第一核电站第25批含氚废水排放。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T11:52:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/tepco-fukushima-water-discharge-round-25-a22a67",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2620,24 +2734,6 @@
       "sources": []
     },
     {
-      "id": "israel-bars-msf-mask-materials-gaza-treatment-ec35e3",
-      "title": "以色列禁止无国界医生运入面罩材料致治疗受阻",
-      "description": "以色列禁止无国界医生组织向加沙运入制作定制烧伤面罩所需材料。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T10:49:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/israel-bars-msf-mask-materials-gaza-treatment-ec35e3",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "hainan-airlines-charges-jia-refund-fee-0b4f4a",
       "title": "贾先生误购海航机票几分钟后退票被扣1万元",
       "description": "江苏消费者贾先生向央广网反映，他在2026年8月8日凌晨误买两张海南航空飞往墨尔本的国际联程商务舱机票，票款共23576元。",
@@ -2652,24 +2748,6 @@
         "澎湃新闻"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "iaea-urges-iran-allow-nuclear-inspections-a35e9b",
-      "title": "国际原子能机构敦促伊朗开放关键核设施核查",
-      "description": "路透社和法新社引述一份机密报告称，国际原子能机构对伊朗高浓缩铀库存去向不明及一处未受核查的浓缩设施表示严重关切，并敦促德黑兰尽快恢复核查人员对重要核设施的检查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T10:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/iaea-urges-iran-allow-nuclear-inspections-a35e9b",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -3224,24 +3302,6 @@
       "sources": []
     },
     {
-      "id": "gobind-singh-criticizes-zahid-parliament-dissolution-call-febc40",
-      "title": "哥宾星要求扎希不信任安华就辞去副首相职务",
-      "description": "数码部长兼行动党主席哥宾星批评副首相兼巫统主席阿末扎希建议解散国会、而非改组内阁，并表示若扎希不再信任首相安华，应辞去副首相职务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T07:18:51+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/gobind-singh-criticizes-zahid-parliament-dissolution-call-febc40",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "trump-says-china-hates-jimmy-lai-release-unlikely-caa0bd",
       "title": "特朗普称习近平不太可能释放黎智英",
       "description": "美国总统特朗普11月12日接受塞勒姆新闻频道采访时表示，他不看好中国国家主席习近平会同意释放香港壹传媒创始人黎智英。",
@@ -3759,24 +3819,6 @@
       "sources": []
     },
     {
-      "id": "china-exam-registrations-reach-347-million-c0418a",
-      "title": "2027年全国硕士研究生招生考试报名人数为347万",
-      "description": "据教育部消息，2027年全国硕士研究生招生考试报名人数为347万。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T03:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/china-exam-registrations-reach-347-million-c0418a",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "smic-ai-semiconductor-shortage-through-2027-762175",
       "title": "中芯国际称AI半导体供应链紧张将延续至2027年",
       "description": "中芯国际联席首席执行官赵海军11月13日在第三季度业绩会上表示，数据中心和私有云需求使AI算力及配套芯片供不应求，供应链紧张将延续至2027年。",
@@ -3888,27 +3930,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ccp-deploys-21st-congress-delegate-election-1a466e",
-      "title": "中共中央启动二十一大代表选举工作",
-      "description": "中共中央近日印发《关于党的二十一大代表选举工作的通知》，启动党的二十一大代表选举工作；中央组织部随后作出部署。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T21:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-07",
-      "url": "https://kaopu.news/story/2026-11-07/ccp-deploys-21st-congress-delegate-election-1a466e",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "中央通訊社",
-        "第一财经"
-      ],
-      "section": "china",
-      "sourceCount": 9,
       "sources": []
     },
     {
@@ -4836,24 +4857,6 @@
       "url": "https://kaopu.news/story/2026-11-06/annie-dillard-dies-aged-81-fd60db",
       "reference": [
         "第一财经"
-      ],
-      "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ma-youde-dies-nanjing-aged-96-e893d6",
-      "title": "二胡演奏家马友德在南京逝世，享年96岁",
-      "description": "二胡演奏家、教育家马友德因病医治无效，于11月5日14时48分在南京逝世，享年96岁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T05:59:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/ma-youde-dies-nanjing-aged-96-e893d6",
-      "reference": [
-        "澎湃新闻"
       ],
       "section": "culture",
       "sourceCount": 1,
