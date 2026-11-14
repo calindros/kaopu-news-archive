@@ -1,15 +1,111 @@
 {
   "details": {
     "date": "2026-11-14",
-    "timestamp": 1794670305,
+    "timestamp": 1794678325,
     "totalPages": 1,
     "total": 269
   },
   "stories": [
     {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "黄仁勋辞去英伟达职务克雷斯暂代首席执行官",
+      "description": "英伟达共同创办人黄仁勋于11月12日辞去公司总裁、首席执行官及董事职务，结束约33年的执掌。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T17:14:58+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 410,
+      "sources": []
+    },
+    {
+      "id": "gan-kim-yong-asean-integration-2d6d69",
+      "title": "颜金勇称新加坡明年将推动亚细安一体化",
+      "description": "新加坡副总理颜金勇在马尼拉接受新加坡媒体联访，谈到新加坡明年担任亚细安轮值主席国的工作方向。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T16:07:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/gan-kim-yong-asean-integration-2d6d69",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "jensen-huang-shenzhen-trump-xi-tech-security-8100c1",
+      "title": "黄仁勋风波为深圳习特会增添科技安全疑虑",
+      "description": "黄仁勋相关风波为特朗普与习近平定于11月19日在深圳举行的会晤增添科技安全疑虑。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T15:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/jensen-huang-shenzhen-trump-xi-tech-security-8100c1",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "pakistan-climate-minister-attends-india-sco-civilization-dde71f",
+      "title": "巴基斯坦气候部长将赴印度出席上合文明对话大会",
+      "description": "巴基斯坦气候变化部长马利克将于本月晚些时候前往新德里，出席上海合作组织文明对话大会。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T15:38:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/pakistan-climate-minister-attends-india-sco-civilization-dde71f",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "faa-orders-us-departure-ground-stop-2eeef2",
+      "title": "FAA通信故障致全美航班停飞逾四小时",
+      "description": "美国联邦航空管理局（FAA）因空中交通管制通信故障，于当地时间11月13日下午下令全美机场暂停航班起飞，约四小时后解除。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T15:24:03.054000+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/faa-orders-us-departure-ground-stop-2eeef2",
+      "reference": [
+        "澎湃新闻",
+        "世界日报",
+        "联合早报",
+        "财新"
+      ],
+      "section": "us",
+      "sourceCount": 33,
+      "sources": []
+    },
+    {
       "id": "zelensky-says-us-raised-donbas-withdrawal-nato-f4ebd1",
-      "title": "泽连斯基称美方询问乌方是否愿从顿巴斯撤军换北约资格",
-      "description": "乌克兰总统弗拉基米尔·泽连斯基11月14日说，在美国斡旋的俄乌新一轮阿布扎比会谈后，美方代表询问乌克兰是否愿意从顿巴斯撤军，以换取加入北约。",
+      "title": "泽连斯基称美方首次询问撤出顿巴斯换取北约资格",
+      "description": "乌克兰总统泽连斯基说，美国谈判代表在阿布扎比新一轮俄乌会谈后，询问乌方是否愿意在加入北约的条件下撤出顿巴斯。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -20,10 +116,29 @@
       "reference": [
         "联合早报",
         "澎湃新闻",
+        "法广",
         "德国之声"
       ],
       "section": "world",
-      "sourceCount": 4,
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "paho-revokes-us-measles-elimination-status-49259c",
+      "title": "华尔街日报称泛美卫生组织撤销美国麻疹消除认证",
+      "description": "《华尔街日报》援引知情人士称，泛美卫生组织已撤销美国的麻疹消除认证，理由是美国未能阻止麻疹病毒连续传播超过一年。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T15:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/paho-revokes-us-measles-elimination-status-49259c",
+      "reference": [
+        "德国之声"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -192,27 +307,6 @@
       "sources": []
     },
     {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "黄仁勋辞职英伟达启动继任者遴选",
-      "description": "英伟达11月12日宣布，联合创始人黄仁勋辞去公司总裁、首席执行官和董事职务，决定即刻生效，结束其执掌公司33年的任期。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T13:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 408,
-      "sources": []
-    },
-    {
       "id": "myanmar-military-airstrike-rakhine-camp-12-dead-436a07",
       "title": "法新社称缅甸军方空袭若开邦营地致12死18伤",
       "description": "法新社援引目击者和救援人员称，缅甸军方星期五（11月13日）晚间空袭若开邦蓬那遵镇比亚拉流离失所者营地，造成至少12人死亡、18人受伤。",
@@ -249,27 +343,6 @@
       ],
       "section": "world",
       "sourceCount": 14,
-      "sources": []
-    },
-    {
-      "id": "faa-orders-us-departure-ground-stop-2eeef2",
-      "title": "美国空管通信故障致全国航班停飞逾四小时",
-      "description": "美东时间2026年11月13日下午，美国空中交通管制雷达和通信系统出现不稳定。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T13:13:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/faa-orders-us-departure-ground-stop-2eeef2",
-      "reference": [
-        "澎湃新闻",
-        "世界日报",
-        "联合早报",
-        "财新"
-      ],
-      "section": "us",
-      "sourceCount": 32,
       "sources": []
     },
     {
@@ -2286,24 +2359,6 @@
       "sources": []
     },
     {
-      "id": "zamir-urges-delay-iran-strike-f38907",
-      "title": "澎湃新闻称扎米尔主张暂缓对伊朗动武遭高官反对",
-      "description": "据澎湃新闻援引以色列方面消息，以军总参谋长扎米尔反对立即重启对伊朗军事行动，主张暂缓打击；内塔尼亚胡及多名由其任命的高级安全官员反对这一立场。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T19:59:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/zamir-urges-delay-iran-strike-f38907",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "essex-agrees-deposit-lawsuit-settlement-bd408d",
       "title": "Essex就押金诉讼达成1925万美元和解",
       "description": "加州房地产公司Essex Property Trust近日与前租客就押金扣款及退租收费争议达成集体诉讼和解，协议包括支付1925万美元，并免除租客累计870万美元的退租欠款，仍待法院批准。",
@@ -3673,24 +3728,6 @@
       "sources": []
     },
     {
-      "id": "ice-immigration-enforcement-record-high-95260e",
-      "title": "ICE报告称移民执法规模创成立以来新高",
-      "description": "美国移民与海关执法局（ICE）11月12日发布2026财年报告。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T06:14:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/ice-immigration-enforcement-record-high-95260e",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "sue-ling-gin-trust-donates-casl-immigration-aid-2901f6",
       "title": "甄素莲基金会捐200万美元扩大华咨处移民服务",
       "description": "甄素莲基金会信托近日向芝加哥华人咨询服务处捐赠200万美元，资助该机构扩大“移民公正计划”。",
@@ -3856,24 +3893,6 @@
       "sources": []
     },
     {
-      "id": "smic-ai-semiconductor-shortage-through-2027-762175",
-      "title": "中芯国际称AI半导体供应链紧张将延续至2027年",
-      "description": "中芯国际联席首席执行官赵海军11月13日在第三季度业绩会上表示，数据中心和私有云需求使AI算力及配套芯片供不应求，供应链紧张将延续至2027年。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T03:17:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/smic-ai-semiconductor-shortage-through-2027-762175",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "alice-huang-manhattan-supermicro-smuggling-probe-cfea5d",
       "title": "彭博称美司法部调查黄乐关联实体涉美超微产品走私",
       "description": "据彭博社援引一名知情人士报道，美国司法部正在调查与黄乐有关联的实体是否参与将美超微电脑产品走私至中国，调查由纽约曼哈顿联邦检察官办公室主导。",
@@ -3892,24 +3911,6 @@
       ],
       "section": "us",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "china-lithuania-delegation-talks-ties-550e71",
-      "title": "中国大陆代表团与立陶宛会晤讨论恢复官方关系",
-      "description": "中国大陆外交官代表团到访立陶宛，这是中立两国关系因立陶宛支持台湾而陷入僵局以来，中方首次在当地直接接触。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T23:33:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/china-lithuania-delegation-talks-ties-550e71",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 1,
       "sources": []
     },
     {
