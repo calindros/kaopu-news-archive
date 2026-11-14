@@ -1,11 +1,349 @@
 {
   "details": {
     "date": "2026-11-14",
-    "timestamp": 1794619245,
+    "timestamp": 1794626440,
     "totalPages": 1,
     "total": 270
   },
   "stories": [
+    {
+      "id": "faa-orders-us-departure-ground-stop-2eeef2",
+      "title": "美国联邦航空管理局解除全国航班停飞令",
+      "description": "美国联邦航空管理局（FAA）在美国中部时间11月13日下午因空中交通管制通信故障，对全国机场实施地面停飞；约四小时后解除指令，航班开始恢复。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T02:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/faa-orders-us-departure-ground-stop-2eeef2",
+      "reference": [
+        "澎湃新闻",
+        "世界日报",
+        "联合早报",
+        "财新"
+      ],
+      "section": "us",
+      "sourceCount": 19,
+      "sources": []
+    },
+    {
+      "id": "akutagawa-grove-manuscript-found-7b4197",
+      "title": "东京北区发现芥川龙之介《竹林中》亲笔原稿",
+      "description": "东京都北区政府11月12日宣布，已确认找到芥川龙之介小说《竹林中》的亲笔原稿。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T02:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/akutagawa-grove-manuscript-found-7b4197",
+      "reference": [
+        "共同网"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-bond-stock-financing-surpasses-loans-4e8275",
+      "title": "中国金融机构10月人民币贷款净减少1000亿元",
+      "description": "中国人民银行11月13日公布的数据显示，2026年10月社会融资规模增加1.15万亿元，低于市场预期的1.45万亿元，但高于去年同期的8180亿元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T01:57:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/china-bond-stock-financing-surpasses-loans-4e8275",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "财新",
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "wz-7-drone-scarborough-shoal-deterrence-patrol-acd082",
+      "title": "无人机赴黄岩岛威慑巡航画面首次公开",
+      "description": "空军某部无人机赴黄岩岛执行威慑巡航的相关画面首次公开，澎湃新闻转引央视新闻客户端11月14日消息作出上述报道。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T01:57:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/wz-7-drone-scarborough-shoal-deterrence-patrol-acd082",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "starship-booster-splashes-down-gulf-fire-c4ef20",
+      "title": "星舰第15次试飞入轨并部署26颗卫星",
+      "description": "SpaceX“星舰”于美国中部时间11月13日下午实施第15次试飞，飞船S42进入地球轨道并部署26颗星链V3卫星。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T01:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/starship-booster-splashes-down-gulf-fire-c4ef20",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "第一财经",
+        "中央通訊社"
+      ],
+      "section": "tech",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "atlantic-asphalt-hits-american-heritage-533199",
+      "title": "市长称油轮失控后撞上新奥尔良游船致其部分沉没",
+      "description": "密西西比河新奥尔良港附近发生船只碰撞，一艘油轮撞上“美国传承号”游船，导致游船倾斜并部分沉入水中。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T01:49:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/atlantic-asphalt-hits-american-heritage-533199",
+      "reference": [
+        "世界日报",
+        "法广",
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "anthropic-china-hong-kong-investors-ipo-restricted-8db0dc",
+      "title": "彭博曝中国大陆及香港机构认购Anthropic受阻",
+      "description": "彭博援引知情人士称，中国大陆及香港机构投资者参与Anthropic首次公开募股（IPO）受到限制，已有数家银行拒收相关认购指令；另有银行认为，这类投资者获配股份的机会不大。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T01:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/anthropic-china-hong-kong-investors-ipo-restricted-8db0dc",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tian-hong-arms-smuggling-appeal-ruling-e8fffc",
+      "title": "澎湃新闻称田红涉走私案二审开庭将择期宣判",
+      "description": "据澎湃新闻报道，田红及其儿子付义涵涉走私运动枪支散件案二审于11月12日在北京开庭。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T01:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/tian-hong-arms-smuggling-appeal-ruling-e8fffc",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "bytedance-plans-400-billion-share-buyback-a1b781",
+      "title": "据报字节跳动拟按4000亿美元估值回购股份",
+      "description": "字节跳动据彭博社援引知情人士报道，计划按约4000亿美元估值向投资者回购最多60亿美元股份。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T01:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/bytedance-plans-400-billion-share-buyback-a1b781",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tcl-hisense-report-quarterly-revenue-profit-growth-a68692",
+      "title": "TCL电子和海信视像前三季度营收利润双增",
+      "description": "11月13日傍晚，TCL电子发布前三季度业绩报告，海信视像发布业绩说明会记录。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T01:10:50.730533+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/tcl-hisense-report-quarterly-revenue-profit-growth-a68692",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "kuala-lumpur-chief-orders-fire-rights-criticism-192364",
+      "title": "吉隆坡总警长要求警员遇威胁开枪遭批违反人权标准",
+      "description": "吉隆坡总警长法迪尔要求警员在察觉威胁时开枪。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T01:08:52+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/kuala-lumpur-chief-orders-fire-rights-criticism-192364",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-fa-appoints-chang-weiwei-womens-coach-cf1161",
+      "title": "中国足协聘常卫魏担任女足国家队主教练",
+      "description": "中国足协11月13日宣布，经过选聘专家组评议，决定由常卫魏执教中国女足国家队，王军担任第一助理教练。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T01:03:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/china-fa-appoints-chang-weiwei-womens-coach-cf1161",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "sports",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-china-trade-council-holds-first-meeting-139785",
+      "title": "中美贸易理事会举行首次正式会议",
+      "description": "中美贸易理事会11月13日举行首次正式会议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T01:03:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/us-china-trade-council-holds-first-meeting-139785",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-ten-month-trade-surplus-reaches-one-trillion-590b9d",
+      "title": "中国前十个月贸易顺差达到1.04万亿美元",
+      "description": "中国海关11月10日公布，前十个月进出口总额为44.81万亿元人民币，同比增长20%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T00:58:19+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/china-ten-month-trade-surplus-reaches-one-trillion-590b9d",
+      "reference": [
+        "SBS"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-medicaid-work-rule-grace-period-1d7612",
+      "title": "特朗普政府给予各州白卡工作要求六个月缓冲期",
+      "description": "特朗普政府宣布为各州执行白卡（联邦医疗补助计划）工作要求设置额外六个月过渡期。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T00:41:04+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/trump-medicaid-work-rule-grace-period-1d7612",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "title": "白宫宣布特朗普习近平普京将在深圳举行会晤",
+      "description": "白宫确认，美国总统特朗普、中国国家主席习近平和俄罗斯总统普京定于11月19日在深圳举行三方会晤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T00:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "日经",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 34,
+      "sources": []
+    },
+    {
+      "id": "china-firms-secure-buyback-loan-commitments-d90812",
+      "title": "再贷款利率下调后超50家A股公司获专项贷款承诺函",
+      "description": "中国人民银行下调股票回购增持再贷款利率后，A股相关专项贷款承诺函披露增加。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T00:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/china-firms-secure-buyback-loan-commitments-d90812",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "li-qiang-meets-anutin-expand-china-thailand-cooperation-ab85fb",
+      "title": "李强会见阿努廷商议拓展中泰合作",
+      "description": "中国总理李强11月13日在曼谷会晤泰国首相阿努廷，双方讨论扩大两国合作，并共同见证签署涉及汽车产业、职业教育、农业、海关和安全等领域的多份文件。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T00:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/li-qiang-meets-anutin-expand-china-thailand-cooperation-ab85fb",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "jensen-huang-exit-nvidia-fall-us-stocks-bb2872",
       "title": "英伟达换帅不确定性令美股多数收跌",
@@ -66,6 +404,27 @@
       "sources": []
     },
     {
+      "id": "takaichi-to-attend-asean-apec-summits-4edebc",
+      "title": "高市将于16日起访问菲律宾和中国出席峰会",
+      "description": "日本政府11月13日宣布，首相高市早苗将于11月16日至19日访问菲律宾和中国。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T00:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/takaichi-to-attend-asean-apec-summits-4edebc",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "日经",
+        "日本放送协会"
+      ],
+      "section": "asia",
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
       "id": "south-korea-cheonghae-mission-expansion-not-joining-war-4fe639",
       "title": "伊朗警告韩国清海部队部署或涉助美对伊侵略",
       "description": "韩国国务会议10日通过清海部队派遣修正案草案，拟将任务区从索马里附近的亚丁湾扩至阿曼以南、靠近霍尔木兹海峡的海域。",
@@ -122,26 +481,6 @@
       ],
       "section": "sports",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "faa-orders-us-departure-ground-stop-2eeef2",
-      "title": "美国联邦航空管理局下令全国航班暂停起飞",
-      "description": "美国联邦航空管理局（FAA）因空中交通管制通信故障，以安全为由下令全美机场离港航班暂停起飞。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T23:40:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/faa-orders-us-departure-ground-stop-2eeef2",
-      "reference": [
-        "澎湃新闻",
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 10,
       "sources": []
     },
     {
@@ -281,25 +620,6 @@
       ],
       "section": "tech",
       "sourceCount": 20,
-      "sources": []
-    },
-    {
-      "id": "atlantic-asphalt-hits-american-heritage-533199",
-      "title": "纽奥良港油轮撞上河轮致其严重倾斜并部分沉没",
-      "description": "一艘名为“大西洋沥青号”的油轮于当地时间11月13日中午约12时30分，在纽奥良港行政大楼外撞上停靠中的河轮“美国传承号”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T22:01:41+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/atlantic-asphalt-hits-american-heritage-533199",
-      "reference": [
-        "世界日报",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1126,26 +1446,6 @@
       "sources": []
     },
     {
-      "id": "china-bond-stock-financing-surpasses-loans-4e8275",
-      "title": "央行数据显示10月人民币贷款减少1000亿元",
-      "description": "中国人民银行公布的2026年10月金融统计数据显示，前十个月人民币贷款增加11.42万亿元，较上年同期少3.55万亿元；10月贷款减少1000亿元，降幅较去年同月扩大3200亿元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T12:48:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/china-bond-stock-financing-surpasses-loans-4e8275",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "hubei-launches-tech-finance-plan-supporting-firms-4af5d9",
       "title": "湖北七部门出台科技金融新政力争三年惠及万户企业",
       "description": "湖北省七部门近日联合推出“科技金融12条”，通过基金、信贷、债券、保险、担保和科技成果转化等方式，为科技企业不同发展阶段提供金融支持。",
@@ -1516,24 +1816,6 @@
       "sources": []
     },
     {
-      "id": "china-fa-appoints-chang-weiwei-womens-coach-cf1161",
-      "title": "中国足协聘常卫魏出任国家女足主教练",
-      "description": "中国足协经选聘专家组评议，聘常卫魏任国家女足主教练、王军任第一助教，备战洛杉矶奥运会亚洲区预选赛和巴西女足世界杯。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T11:51:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/china-fa-appoints-chang-weiwei-womens-coach-cf1161",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "tcl-panel-costs-rise-material-prices-0c5b69",
       "title": "赵军称原材料涨价推高面板成本",
       "description": "TCL科技集团高级副总裁、TCL华星CEO赵军11月12日接受第一财经等媒体采访时表示，上游原材料涨价及汇率因素加重了公司成本负担，TCL华星不得不通过提价释放部分压力。",
@@ -1627,24 +1909,6 @@
       "sources": []
     },
     {
-      "id": "catl-signs-exclusive-evtol-battery-deal-f6bd2a",
-      "title": "宁德时代与亿维特签约成为独家电池伙伴",
-      "description": "宁德时代11月12日宣布与亿维特（杭州）航空科技有限公司签署协议，将成为其载人、载物电动垂直起降飞行器（eVTOL）的独家电池合作伙伴，为相关机型提供航空动力电池。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T11:13:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/catl-signs-exclusive-evtol-battery-deal-f6bd2a",
-      "reference": [
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "shanghai-gene-editing-study-investigation-34f989",
       "title": "上海通报交大基因编辑研究违规及处理结果",
       "description": "上海市调查处置工作组11月13日公布上海交通大学医学院基因编辑研究事件调查结果，认定临床前研究信息披露、医院审查和知情告知等环节存在问题，并对相关人员及机构作出处分和整改、处罚要求。",
@@ -1662,24 +1926,6 @@
       ],
       "section": "china",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "coca-cola-hungary-investment-expansion-928d50",
-      "title": "可口可乐匈牙利投资350亿福林扩建产能",
-      "description": "可口可乐匈牙利子公司宣布投资350亿福林（约合新台币34.7亿元）扩大产能，这是该公司在匈牙利规模最大的一笔投资，目标是加强中东欧市场供应能力并减少包装对环境的影响。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T11:00:53+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/coca-cola-hungary-investment-expansion-928d50",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1715,24 +1961,6 @@
         "联合早报"
       ],
       "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-semiconductor-output-forecast-2026-23b037",
-      "title": "台湾半导体业2026年产值预估达9.7615万亿元",
-      "description": "台湾半导体产业协会13日公布工研院产科国际所统计的第三季度产业产值，合计新台币2.662万亿元，环比增长19.3%、同比增长59.4%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T10:44:46+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/taiwan-semiconductor-output-forecast-2026-23b037",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -1937,27 +2165,6 @@
       "sources": []
     },
     {
-      "id": "takaichi-to-attend-asean-apec-summits-4edebc",
-      "title": "高市将访菲律宾和中国出席东盟及APEC峰会",
-      "description": "日本政府13日宣布，首相高市早苗定于11月16日至19日访问菲律宾和中国，出席东盟相关首脑会议及在深圳举行的亚太经合组织（APEC）领导人会议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T09:57:23+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/takaichi-to-attend-asean-apec-summits-4edebc",
-      "reference": [
-        "共同网",
-        "联合早报",
-        "日经",
-        "日本放送协会"
-      ],
-      "section": "asia",
-      "sourceCount": 14,
-      "sources": []
-    },
-    {
       "id": "iranian-women-remove-headscarves-publicly-d16eba",
       "title": "伊朗女性公共场合不戴头巾现象增多",
       "description": "伊朗公共场合不戴头巾、穿现代服饰的女性日渐增多，服装店也引进更多现代时装，但仍把传统长袍摆在橱窗显眼处，掩护不合规定的服饰。",
@@ -1973,25 +2180,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "finance-ministry-issues-offshore-trust-income-tax-guidance-ec7f3d",
-      "title": "财政部发布离岸信托个人所得税处理规则问答",
-      "description": "中国财政部11月13日在官网发布离岸信托个人所得税政策口径问答，说明相关财产原值如何确认、税款如何追征及外币所得如何换算，并回应受托人变更、信托纳税年度和特定股票交易等问题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T09:46:34.323013+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/finance-ministry-issues-offshore-trust-income-tax-guidance-ec7f3d",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3047,24 +3235,6 @@
       "sources": []
     },
     {
-      "id": "australia-opens-online-counterterror-center-afd355",
-      "title": "澳大利亚启用反恐网络中心应对网络暴力极端主义",
-      "description": "澳大利亚政府在悉尼启用一座反恐网络中心，项目耗资7400万澳元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T05:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/australia-opens-online-counterterror-center-afd355",
-      "reference": [
-        "SBS"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "zaozhuang-police-crack-antiquities-trafficking-case-b7ed64",
       "title": "枣庄警方破获跨省文物倒卖案追回两千余件文物",
       "description": "山东枣庄警方破获一起跨省倒卖文物案，抓获20余名嫌疑人，追回涉案文物2000余件，其中包括多件国家一级、二级和三级珍贵文物。",
@@ -3250,24 +3420,6 @@
       "sources": []
     },
     {
-      "id": "shi-bingzhe-companies-charged-server-purchases-e8d1fa",
-      "title": "施炳哲及两家公司涉购涉诈服务器被控",
-      "description": "中国籍施炳哲与NJ Global Financial、Superphi两家公司11月13日在新加坡被控。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T03:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/shi-bingzhe-companies-charged-server-purchases-e8d1fa",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "smic-ai-semiconductor-shortage-through-2027-762175",
       "title": "中芯国际称AI半导体供应链紧张将延续至2027年",
       "description": "中芯国际联席首席执行官赵海军11月13日在第三季度业绩会上表示，数据中心和私有云需求使AI算力及配套芯片供不应求，供应链紧张将延续至2027年。",
@@ -3436,25 +3588,6 @@
       ],
       "section": "china",
       "sourceCount": 9,
-      "sources": []
-    },
-    {
-      "id": "trump-urges-vance-probe-democratic-cities-ac861e",
-      "title": "特朗普要求万斯调查民主党主政地区腐败",
-      "description": "特朗普11月12日在社交媒体指称加利福尼亚州、明尼苏达州、伊利诺伊州等民主党执政州治理失当、腐败严重，并要求副总统万斯全力调查当地犯罪与腐败。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T19:35:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/trump-urges-vance-probe-democratic-cities-ac861e",
-      "reference": [
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3657,25 +3790,6 @@
       "sources": []
     },
     {
-      "id": "nytimes-rubio-briefed-trump-huang-spy-link-931360",
-      "title": "纽时称鲁比奥简报黄仁勋情报 特朗普仍邀其访华",
-      "description": "《纽约时报》援引知情人士报道称，2026年5月特朗普乘“空军一号”赴华途中，国务卿兼国家安全顾问马可·鲁比奥在得知英伟达首席执行官黄仁勋将在阿拉斯加加入行程后，向特朗普通报了黄仁勋与黄乐的关系，以及美国方面掌握的有关黄乐的情报。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T12:10:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/nytimes-rubio-briefed-trump-huang-spy-link-931360",
-      "reference": [
-        "世界日报",
-        "纽约时报"
-      ],
-      "section": "world",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
       "id": "china-releases-skills-assessment-draft-regulation-39d952",
       "title": "人社部就技能人才评价条例草案公开征求意见",
       "description": "中国人力资源和社会保障部11月12日公布《技能人才评价条例（征求意见稿）》，意见征集将持续至12月12日。",
@@ -3713,24 +3827,6 @@
       "sources": []
     },
     {
-      "id": "qin-bin-appointed-beijing-discipline-chief-cf24df",
-      "title": "秦斌出任北京市委常委及市纪委书记",
-      "description": "中共中央近日批准秦斌出任中共北京市委委员、常委和北京市纪委书记。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T10:38:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/qin-bin-appointed-beijing-discipline-chief-cf24df",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "cnooc-drills-high-yield-gas-well-bohai-eb4a8c",
       "title": "中国海油在渤海钻获日产80万立方米气井",
       "description": "中国海洋石油有限公司公布，该公司在渤海中部超深层火山岩地层发现一口油气井，测试日产天然气约80万立方米，约合2800万立方英尺。",
@@ -3747,61 +3843,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "zhang-han-calls-anti-infiltration-law-political-tool-349225",
-      "title": "台湾陆委会援引案件证据反驳国台办否认跨国镇压",
-      "description": "台湾陆委会发言人梁文杰11月12日在例行记者会上反驳中国国务院台湾事务办公室（国台办）关于“跨国镇压”是编造谎言的说法。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T10:20:41+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/zhang-han-calls-anti-infiltration-law-political-tool-349225",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "dongguan-health-bureau-orders-doctor-pay-restoration-bf17d1",
-      "title": "东莞卫健局叫停欠费扣医生绩效并责令医院补发",
-      "description": "东莞市卫健局已介入广东医科大学附属东莞第一医院因患者欠费扣减医生绩效薪酬一事，成立专项工作组核查，并要求医院立即停止相关管理办法。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T08:52:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/dongguan-health-bureau-orders-doctor-pay-restoration-bf17d1",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "zhao-shitang-appointed-national-petitions-chief-93a0de",
-      "title": "国务院任命赵世堂为国家信访局局长",
-      "description": "国务院任命赵世堂为国家信访局局长，并免去李文章该职。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T08:33:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/zhao-shitang-appointed-national-petitions-chief-93a0de",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -4372,24 +4413,6 @@
       "sources": []
     },
     {
-      "id": "amec-ships-first-plasma-wafer-dicing-tool-2f9390",
-      "title": "中微公司全球首台等离子体晶圆切割设备付运",
-      "description": "中微半导体设备（上海）股份有限公司（简称中微公司，股票代码688012）近日推出Primo Matrix双反应台等离子体晶圆切割设备。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T12:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/amec-ships-first-plasma-wafer-dicing-tool-2f9390",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-football-clubs-financial-review-rules-016397",
       "title": "中足联发布职业联赛俱乐部财务审核细则",
       "description": "中足联公布《中国足球职业联赛俱乐部财务健康审核实施细则（试行）》，将于2027年1月1日起施行，适用于中超、中甲、中乙参赛俱乐部及申请联赛准入的俱乐部。",
@@ -4784,24 +4807,6 @@
       "url": "https://kaopu.news/story/2026-11-05/northeast-china-tv-expands-beyond-suspense-d3299d",
       "reference": [
         "澎湃新闻"
-      ],
-      "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "paris-court-orders-pissarro-return-f7dc36",
-      "title": "巴黎法院下令归还纳粹掠夺的毕沙罗画作",
-      "description": "巴黎法院11月5日裁定，一幅二战期间被纳粹夺走的卡米耶·毕沙罗画作，须归还银行家兼收藏家萨洛蒙·弗拉维安的后人。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-05T14:52:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/paris-court-orders-pissarro-return-f7dc36",
-      "reference": [
-        "联合早报"
       ],
       "section": "culture",
       "sourceCount": 1,
