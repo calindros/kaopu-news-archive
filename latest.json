@@ -3,9 +3,48 @@
     "date": "2026-11-14",
     "timestamp": 1794678325,
     "totalPages": 1,
-    "total": 269
+    "total": 268
   },
   "stories": [
+    {
+      "id": "megaspeed-nvidia-ai-chips-probe-9a180a",
+      "title": "据报黄乐经Megaspeed获逾40亿美元辉达芯片引美新调查",
+      "description": "据《世界日报》报道，黄乐通过新加坡公司Megaspeed取得价值超过40亿美元的辉达先进人工智能芯片。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T19:43:03+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/megaspeed-nvidia-ai-chips-probe-9a180a",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "faa-orders-us-departure-ground-stop-2eeef2",
+      "title": "FAA空管通信故障致全美航班停飞近五小时",
+      "description": "美国联邦航空管理局（FAA）因空中交通管制通信系统故障，于美东时间11月13日15时53分下令全美机场暂停航班起飞。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T19:12:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/faa-orders-us-departure-ground-stop-2eeef2",
+      "reference": [
+        "澎湃新闻",
+        "世界日报",
+        "联合早报",
+        "财新"
+      ],
+      "section": "us",
+      "sourceCount": 34,
+      "sources": []
+    },
     {
       "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
       "title": "黄仁勋辞去英伟达职务克雷斯暂代首席执行官",
@@ -79,27 +118,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "faa-orders-us-departure-ground-stop-2eeef2",
-      "title": "FAA通信故障致全美航班停飞逾四小时",
-      "description": "美国联邦航空管理局（FAA）因空中交通管制通信故障，于当地时间11月13日下午下令全美机场暂停航班起飞，约四小时后解除。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T15:24:03.054000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/faa-orders-us-departure-ground-stop-2eeef2",
-      "reference": [
-        "澎湃新闻",
-        "世界日报",
-        "联合早报",
-        "财新"
-      ],
-      "section": "us",
-      "sourceCount": 33,
       "sources": []
     },
     {
@@ -2228,24 +2246,6 @@
       "sources": []
     },
     {
-      "id": "volunteer-coalition-launches-poland-drill-3cd346",
-      "title": "英法牵头志愿联盟在波兰启动首次联合军演",
-      "description": "由英国和法国牵头的“志愿联盟”已于11月9日在波兰展开首次多国联合军事演习，训练内容服务于俄乌冲突结束后在乌克兰部署部队的准备工作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T23:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/volunteer-coalition-launches-poland-drill-3cd346",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "kovalenko-sema-films-war-sexual-violence-documentary-985db4",
       "title": "乌克兰导演拍摄战争性暴力纪录片《痕迹》",
       "description": "2023年春，乌克兰导演阿丽莎·科瓦连科与非政府组织SEMA成员投票决定共同拍摄纪录片《痕迹》。",
@@ -3779,25 +3779,6 @@
       ],
       "section": "life",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "united-airlines-restricts-unauthorized-ai-agents-825448",
-      "title": "美联航禁止第三方AI代理代客订票",
-      "description": "美国联合航空11月11日宣布，禁止未经授权的第三方人工智能代理代替旅客订机票、修改行程或办理相关交易。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T06:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/united-airlines-restricts-unauthorized-ai-agents-825448",
-      "reference": [
-        "澎湃新闻",
-        "世界日报"
-      ],
-      "section": "ai",
-      "sourceCount": 3,
       "sources": []
     },
     {
