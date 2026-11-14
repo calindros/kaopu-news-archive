@@ -3,9 +3,85 @@
     "date": "2026-11-14",
     "timestamp": 1794692368,
     "totalPages": 1,
-    "total": 268
+    "total": 269
   },
   "stories": [
+    {
+      "id": "chinese-firms-export-ai-drama-tools-825935",
+      "title": "中国企业将AI短剧工具推向海外市场",
+      "description": "中国企业正把AI短剧制作工具、工作流和平台推向美国、东南亚等市场，并参与当地作品生产。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T21:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/chinese-firms-export-ai-drama-tools-825935",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "myanmar-teenager-cannot-return-to-school-e6e713",
+      "title": "缅甸少年因安全风险多年未能返校",
+      "description": "阿山（化名）现年17岁，住在缅甸中部一处村庄，因安全顾虑多年未能返校。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T21:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/myanmar-teenager-cannot-return-to-school-e6e713",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "voyager-1-reaches-one-light-day-72d0e0",
+      "title": "旅行家1号将抵达距地球一个光日的位置",
+      "description": "美国国家航空暨太空总署（NASA）的旅行家1号定于美东时间11月18日清晨5时16分，飞至距地球一个光日的位置，约合260亿公里。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T20:52:05+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/voyager-1-reaches-one-light-day-72d0e0",
+      "reference": [
+        "中央通訊社",
+        "世界日报"
+      ],
+      "section": "tech",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "faa-orders-us-departure-ground-stop-2eeef2",
+      "title": "霍楚要求达菲为全美航班停飞事件辞职",
+      "description": "美国联邦航空管理局（FAA）因空中交通管制通信故障，于11月13日下午下令全美机场暂停航班起飞，禁令近五小时后于当晚解除。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T20:24:57+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/faa-orders-us-departure-ground-stop-2eeef2",
+      "reference": [
+        "澎湃新闻",
+        "世界日报",
+        "联合早报",
+        "财新"
+      ],
+      "section": "us",
+      "sourceCount": 35,
+      "sources": []
+    },
     {
       "id": "megaspeed-nvidia-ai-chips-probe-9a180a",
       "title": "据报黄乐经Megaspeed获逾40亿美元辉达芯片引美新调查",
@@ -25,34 +101,13 @@
       "sources": []
     },
     {
-      "id": "faa-orders-us-departure-ground-stop-2eeef2",
-      "title": "FAA空管通信故障致全美航班停飞近五小时",
-      "description": "美国联邦航空管理局（FAA）因空中交通管制通信系统故障，于美东时间11月13日15时53分下令全美机场暂停航班起飞。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T19:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/faa-orders-us-departure-ground-stop-2eeef2",
-      "reference": [
-        "澎湃新闻",
-        "世界日报",
-        "联合早报",
-        "财新"
-      ],
-      "section": "us",
-      "sourceCount": 34,
-      "sources": []
-    },
-    {
       "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "黄仁勋辞去英伟达职务克雷斯暂代首席执行官",
-      "description": "英伟达共同创办人黄仁勋于11月12日辞去公司总裁、首席执行官及董事职务，结束约33年的执掌。",
+      "title": "英伟达两大股东促董事会评估黄仁勋回任",
+      "description": "英伟达联合创始人黄仁勋11月12日辞去公司总裁、首席执行官及董事职务，结束逾33年的公司领导生涯。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-14T17:14:58+00:00",
+      "updatedAt": "2026-11-14T19:30:02+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-29",
       "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
@@ -63,7 +118,7 @@
         "公视"
       ],
       "section": "china",
-      "sourceCount": 410,
+      "sourceCount": 411,
       "sources": []
     },
     {
@@ -266,24 +321,6 @@
         "财新"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "voyager-1-reaches-one-light-day-72d0e0",
-      "title": "旅行者1号将抵达距地球一个光日位置",
-      "description": "美国国家航空航天局（NASA）表示，旅行者1号探测器将于美国东部时间2026年11月18日清晨5时16分到达距地球一个光日的位置。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T13:49:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/voyager-1-reaches-one-light-day-72d0e0",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "tech",
       "sourceCount": 1,
       "sources": []
     },
@@ -3482,24 +3519,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "spacex-plans-74-billion-supercomputer-campuses-26cabd",
-      "title": "SpaceX拟投逾740亿美元建设两座超算园区",
-      "description": "SpaceX于11月12日表示，计划在美国德克萨斯州星际基地和亚利桑那州科奇斯县建设两座超级计算园区，以扩展人工智能计算能力，投资总额超过740亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T07:06:43+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/spacex-plans-74-billion-supercomputer-campuses-26cabd",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
       "sources": []
     },
     {
