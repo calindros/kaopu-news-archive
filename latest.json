@@ -1,19 +1,19 @@
 {
   "details": {
     "date": "2026-11-14",
-    "timestamp": 1794626440,
+    "timestamp": 1794634807,
     "totalPages": 1,
     "total": 270
   },
   "stories": [
     {
       "id": "faa-orders-us-departure-ground-stop-2eeef2",
-      "title": "美国联邦航空管理局解除全国航班停飞令",
-      "description": "美国联邦航空管理局（FAA）在美国中部时间11月13日下午因空中交通管制通信故障，对全国机场实施地面停飞；约四小时后解除指令，航班开始恢复。",
+      "title": "美国联邦航空管理局因空管通信故障暂停全国航班起飞",
+      "description": "美国联邦航空管理局（FAA）11月13日美东时间下午约3时53分因空中交通管制通信故障，下令全美机场待起飞航班暂停起飞。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-14T02:14:00+00:00",
+      "updatedAt": "2026-11-14T04:45:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-13",
       "url": "https://kaopu.news/story/2026-11-13/faa-orders-us-departure-ground-stop-2eeef2",
@@ -24,7 +24,296 @@
         "财新"
       ],
       "section": "us",
-      "sourceCount": 19,
+      "sourceCount": 21,
+      "sources": []
+    },
+    {
+      "id": "nytimes-rubio-briefed-trump-huang-spy-link-931360",
+      "title": "据报鲁比奥向特朗普简报黄仁勋与疑涉间谍商人关系",
+      "description": "美国情报界在调查新加坡云计算企业Megaspeed涉嫌向中国转移敏感技术期间，春季截获一批相关通信。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T04:05:32+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/nytimes-rubio-briefed-trump-huang-spy-link-931360",
+      "reference": [
+        "世界日报",
+        "纽约时报",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "microsoft-outage-disrupts-us-users-connectors-72c8f7",
+      "title": "微软Outlook全球服务中断逾24小时后逐步恢复",
+      "description": "微软旗下Outlook及Microsoft 365相关服务发生全球性中断，故障于美国东部时间2026年11月12日下午开始。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T04:02:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/microsoft-outage-disrupts-us-users-connectors-72c8f7",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "澎湃新闻",
+        "SBS"
+      ],
+      "section": "tech",
+      "sourceCount": 21,
+      "sources": []
+    },
+    {
+      "id": "priest-reports-self-described-police-asked-mass-details-148f81",
+      "title": "周守仁呼吁各堂区在宏福苑火灾周年为亡者举行弥撒",
+      "description": "天主教香港教区主教周守仁于2026年11月13日致函各堂区，呼吁在11月26日为大埔宏福苑火灾遇难者举行弥撒，并在之后的主日弥撒中加入为亡者祈祷的意向。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T04:01:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/priest-reports-self-described-police-asked-mass-details-148f81",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "黄仁勋辞去英伟达全部职务结束33年任期",
+      "description": "英伟达11月12日宣布，联合创始人黄仁勋辞去公司总裁、首席执行官和董事职务，即刻生效，结束其执掌公司33年的任期。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T03:55:18+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 399,
+      "sources": []
+    },
+    {
+      "id": "wang-zhonglin-probed-for-misconduct-4f01b6",
+      "title": "全国人大环资委副主任委员王忠林被查",
+      "description": "中央纪委国家监委网站11月13日发布通报称，十四届全国人大环境与资源保护委员会副主任委员王忠林涉嫌严重违纪违法，正在接受纪律审查和监察调查。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T03:49:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/wang-zhonglin-probed-for-misconduct-4f01b6",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "德国之声"
+      ],
+      "section": "china",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "turkey-qatar-sign-mutual-defense-pact-f7b705",
+      "title": "土耳其与卡塔尔签署共同防御协议约定联手应对外部攻击",
+      "description": "土耳其和卡塔尔于11月13日宣布签署共同防御协议，两国领导人此前在伊斯坦布尔会晤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T03:46:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/turkey-qatar-sign-mutual-defense-pact-f7b705",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-nhsa-to-release-dual-drug-catalogs-5877bb",
+      "title": "瑞基奥仑赛成为首个且唯一纳入医保的CAR-T药物",
+      "description": "11月14日，中国国家医疗保障局、人力资源和社会保障部公布2026年国家基本医保药品目录和商业健康保险创新药品目录。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T03:32:39.093343+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/china-nhsa-to-release-dual-drug-catalogs-5877bb",
+      "reference": [
+        "第一财经",
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "cold-air-brings-china-cooling-ce5a2c",
+      "title": "两股冷空气将使中国大部气温明显下降",
+      "description": "中国天气网14日发布预报称，两股冷空气自14日起陆续南下影响中国，过程延续至18日。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T03:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/cold-air-brings-china-cooling-ce5a2c",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "luo-wenjia-urges-caution-china-travel-d4995f",
+      "title": "海基会披露3名台湾科技人士赴大陆后遭限制出境",
+      "description": "台湾海峡交流基金会披露，今年2月以来，已有3名台湾高科技产业人士赴中国大陆后遭限制出境，无法返台。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T03:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/luo-wenjia-urges-caution-china-travel-d4995f",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "southern-power-grid-ev-chain-power-growth-54f2f0",
+      "title": "南方电网披露新能源车产业链贡献三成用电增量",
+      "description": "南方电网数据显示，2026年1至10月，广东、广西、云南、贵州、海南五省区新能源汽车产业链售电量占全网的17.1%，同比增长14.8%，对全网用电增量的贡献率为34.1%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T03:07:39.615605+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/southern-power-grid-ev-chain-power-growth-54f2f0",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-energy-agencies-release-storage-plan-18e164",
+      "title": "两部门发布新型储能方案设定2030年3亿千瓦目标",
+      "description": "国家发展改革委、国家能源局11月13日发布《“十五五”新型储能实施方案》，提出到2030年全国新型储能装机规模达到3亿千瓦，平均储能时长约3小时。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T03:02:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/china-energy-agencies-release-storage-plan-18e164",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "scholars-urge-trump-notify-congress-taiwan-arms-sales-8039f5",
+      "title": "美学者促特朗普先向国会通报小规模对台军售",
+      "description": "特朗普与习近平会晤前，邦妮·葛来仪等美国学者呼吁特朗普政府先向国会通报一批小规模对台军售；一项总额140亿美元的相关军售案仍待政府批准。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T02:56:32+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/scholars-urge-trump-notify-congress-taiwan-arms-sales-8039f5",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "shanghai-gene-editing-study-investigation-34f989",
+      "title": "上海调查组公布基因编辑致患儿死亡事件处理结果",
+      "description": "上海市调查处置工作组11月13日公布上海交通大学医学院基因编辑临床研究致患儿死亡事件的调查结果。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T02:51:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/shanghai-gene-editing-study-investigation-34f989",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "财新",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "irish-army-defuses-bomb-near-summit-dinner-d5710a",
+      "title": "爱尔兰陆军据报拆除峰会晚宴附近爆炸装置",
+      "description": "爱尔兰陆军据报于11月13日拆除一枚在都柏林梅里恩广场另一侧建筑内发现的爆炸装置。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T02:40:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/irish-army-defuses-bomb-near-summit-dinner-d5710a",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "cho-hyun-visits-china-meets-wang-yi-7ebf79",
+      "title": "中韩外长在北京会谈讨论半岛局势与合作",
+      "description": "中国外长王毅与韩国外长赵显11月13日在北京举行会谈，讨论朝鲜半岛局势及双边关系。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T02:24:54+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/cho-hyun-visits-china-meets-wang-yi-7ebf79",
+      "reference": [
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
       "sources": []
     },
     {
@@ -86,8 +375,8 @@
     },
     {
       "id": "starship-booster-splashes-down-gulf-fire-c4ef20",
-      "title": "星舰第15次试飞入轨并部署26颗卫星",
-      "description": "SpaceX“星舰”于美国中部时间11月13日下午实施第15次试飞，飞船S42进入地球轨道并部署26颗星链V3卫星。",
+      "title": "星舰第15次试飞未能捕获超重型助推器",
+      "description": "美国太空探索技术公司SpaceX的“星舰”于美国中部时间11月13日16时48分从得克萨斯州南部升空，实施第15次试飞。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -102,7 +391,25 @@
         "中央通訊社"
       ],
       "section": "tech",
-      "sourceCount": 5,
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "pla-aircraft-cross-taiwan-strait-median-line-ee196e",
+      "title": "台湾通报中国10架次军机及11艘船在台海周边活动",
+      "description": "台湾国防部称，11月13日上午6时至14日上午6时，台海周边发现中国军机10架次，其中4架次越过海峡中线，进入台湾中部、西南及东部空域；另有军舰8艘、公务船3艘，机舰船合计21架（艘）。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T01:49:41+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/pla-aircraft-cross-taiwan-strait-median-line-ee196e",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -366,26 +673,6 @@
       "sources": []
     },
     {
-      "id": "wang-zhonglin-probed-for-misconduct-4f01b6",
-      "title": "王忠林涉嫌严重违纪违法接受审查调查",
-      "description": "中央纪委国家监委11月13日发布消息称，王忠林因涉嫌严重违纪违法，正接受纪律审查和监察调查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T00:06:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/wang-zhonglin-probed-for-misconduct-4f01b6",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "德国之声"
-      ],
-      "section": "china",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "deepseek-opens-full-app-api-b74dc9",
       "title": "DeepSeek开放全家桶API供开发者调用",
       "description": "DeepSeek宣布开放整合多项应用能力的API。",
@@ -542,27 +829,6 @@
       "sources": []
     },
     {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "黄仁勋辞去英伟达总裁、首席执行官和董事职务",
-      "description": "英伟达共同创办人黄仁勋于11月12日辞去公司总裁、首席执行官及董事职务，即刻生效，结束了长达33年的执掌任期。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T23:07:37+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 395,
-      "sources": []
-    },
-    {
       "id": "witkoff-norway-peace-proposal-talks-6bf424",
       "title": "科斯塔宣布五国及欧盟机构参加下轮谈判",
       "description": "欧洲理事会主席安东尼奥·科斯塔11月13日在都柏林欧洲政治共同体峰会结束后的记者会上宣布，欧盟领导人同意由法国、德国、意大利、波兰、英国及欧盟机构组成欧洲代表团，参加下一轮俄乌和平谈判。",
@@ -599,27 +865,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "microsoft-outage-disrupts-us-users-connectors-72c8f7",
-      "title": "微软多项云服务全球中断后逐步恢复",
-      "description": "微软旗下Outlook、Teams、Microsoft 365和Copilot等服务发生全球性中断，多个国家和地区的用户无法正常登录、收发邮件或使用相关功能。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T22:45:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/microsoft-outage-disrupts-us-users-connectors-72c8f7",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "澎湃新闻",
-        "SBS"
-      ],
-      "section": "tech",
-      "sourceCount": 20,
       "sources": []
     },
     {
@@ -946,25 +1191,6 @@
       "sources": []
     },
     {
-      "id": "cho-hyun-visits-china-meets-wang-yi-7ebf79",
-      "title": "韩中外长北京会谈讨论双边关系及半岛局势",
-      "description": "韩国外交部长赵显与中国外交部长王毅11月13日在北京举行会谈，讨论韩中关系和朝鲜半岛局势，并就加强沟通、拓展合作交换意见。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T15:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/cho-hyun-visits-china-meets-wang-yi-7ebf79",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "social-security-medicare-eligibility-review-be97c9",
       "title": "社安局要求部分Medicare受益人核验资格",
       "description": "美国社会安全局已开始向部分Medicare受益人寄发资格确认通知。",
@@ -1109,24 +1335,6 @@
       ],
       "section": "ai",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "china-nhsa-to-release-dual-drug-catalogs-5877bb",
-      "title": "医保商保双目录将发布",
-      "description": "2026创新药高质量发展大会将于11月14日在苏州开幕，并现场发布2026年国家医保药品目录和商保创新药目录。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T14:05:35.417748+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/china-nhsa-to-release-dual-drug-catalogs-5877bb",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1388,25 +1596,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-energy-agencies-release-storage-plan-18e164",
-      "title": "中国两部门提出2030年新型储能装机3亿千瓦目标",
-      "description": "11月13日，国家发展改革委、国家能源局联合印发《“十五五”新型储能实施方案》，提出到2030年全国新型储能装机规模达到3亿千瓦，平均储能时长约3小时。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T12:54:37.933632+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/china-energy-agencies-release-storage-plan-18e164",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1888,44 +2077,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "chow-sang-sang-unauthorized-data-access-082a39",
-      "title": "周生生称系统遭未经授权访问客户及员工信息或被提取",
-      "description": "周生生公告称，集团系统遭未经授权访问，初步调查发现，会员系统和官方电商渠道受到影响，部分客户及员工个人信息曾被访问，且可能已被提取。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T11:26:55.405606+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/chow-sang-sang-unauthorized-data-access-082a39",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "shanghai-gene-editing-study-investigation-34f989",
-      "title": "上海通报交大基因编辑研究违规及处理结果",
-      "description": "上海市调查处置工作组11月13日公布上海交通大学医学院基因编辑研究事件调查结果，认定临床前研究信息披露、医院审查和知情告知等环节存在问题，并对相关人员及机构作出处分和整改、处罚要求。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T11:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/shanghai-gene-editing-study-investigation-34f989",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "财新"
-      ],
-      "section": "china",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -2442,24 +2593,6 @@
       "sources": []
     },
     {
-      "id": "luo-wenjia-urges-caution-china-travel-d4995f",
-      "title": "罗文嘉提醒台湾民众赴中国大陆评估风险",
-      "description": "海峡交流基金会秘书长罗文嘉13日在背景说明会上谈及台湾民众赴中国大陆后遭盘查、留置乃至逮捕的案例，提醒民众留意风险，并以“危邦不入”呼吁谨慎前往。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T08:44:15+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/luo-wenjia-urges-caution-china-travel-d4995f",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "embodied-ai-experts-confront-costs-deployment-cd3675",
       "title": "具身智能从业者直面迭代成本与落地难题",
       "description": "2026百度世界大会相关论坛上，具身智能从业者讨论了模型和数据迭代的高昂成本，以及机器人进入真实场景后的稳定性和商业化问题。",
@@ -2512,24 +2645,6 @@
         "英国广播公司"
       ],
       "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "am-best-climate-risk-widens-insurance-gap-9b8758",
-      "title": "贝氏评级称气候风险扩大巨灾保险保障缺口",
-      "description": "贝氏评级人士认为，气候变化正扩大巨灾保险保障缺口，中国财险公司需要调整再保险风险分担方式，并加快探索巨灾风险证券化。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T08:27:36.455077+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/am-best-climate-risk-widens-insurance-gap-9b8758",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -2659,25 +2774,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "jd-completes-ceconomy-majority-stake-3968eb",
-      "title": "京东完成收购Ceconomy并取得近六成股权",
-      "description": "京东已完成对欧洲消费电子零售集团Ceconomy的收购，取得其59.8%的股本及投票权。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T07:33:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/jd-completes-ceconomy-majority-stake-3968eb",
-      "reference": [
-        "联合早报",
-        "德国之声"
-      ],
-      "section": "business",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3402,24 +3498,6 @@
       "sources": []
     },
     {
-      "id": "umno-chief-warns-pact-collapse-return-power-6ddb1f",
-      "title": "巫统总秘书阿斯拉夫警告协议失效或须还政于民",
-      "description": "巫统总秘书阿斯拉夫警告，若国阵与希盟任何一方不遵守双方的政治协议，协议可能失效，届时或须还政于民。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T03:30:31+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/umno-chief-warns-pact-collapse-return-power-6ddb1f",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "smic-ai-semiconductor-shortage-through-2027-762175",
       "title": "中芯国际称AI半导体供应链紧张将延续至2027年",
       "description": "中芯国际联席首席执行官赵海军11月13日在第三季度业绩会上表示，数据中心和私有云需求使AI算力及配套芯片供不应求，供应链紧张将延续至2027年。",
@@ -3645,24 +3723,6 @@
       "sources": []
     },
     {
-      "id": "hong-kong-legislature-passes-northern-metropolis-bill-3ff1ac",
-      "title": "香港立法会通过北部都会区发展条例草案",
-      "description": "香港立法会11月12日通过《北部都会区发展条例草案》，为北部都会区土地开发和工程建设简化部分程序。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T13:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/hong-kong-legislature-passes-northern-metropolis-bill-3ff1ac",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "lilly-orforglipron-approved-china-1d4e98",
       "title": "礼来口服减重药穆优达获中国批准上市",
       "description": "11月12日，国家药品监督管理局官网信息显示，礼来申报的1类创新药奥氟格列隆钙片（商品名穆优达）已获准上市。",
@@ -3736,24 +3796,6 @@
       "sources": []
     },
     {
-      "id": "china-criminal-procedure-draft-narrows-designated-residence-01c143",
-      "title": "刑诉法修正草案提请初审并公开征求意见",
-      "description": "刑事诉讼法修正草案近日提请立法机关初次审议，并在会后公开征求社会意见。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T12:28:39.075762+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/china-criminal-procedure-draft-narrows-designated-residence-01c143",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "atp-sponsorship-revenue-tops-100-million-5d80a6",
       "title": "ATP统一开发赞助收入首次突破1亿美元",
       "description": "ATP表示，2026年由其统一开发的商业赞助收入同比增加49%，总额首次超过1亿美元，达到2022年的三倍以上。",
@@ -3769,43 +3811,6 @@
       ],
       "section": "sports",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-firms-rush-rent-overseas-nvidia-compute-18ebdc",
-      "title": "中国企业据报抢租海外英伟达算力",
-      "description": "中国人工智能企业担心美国因黄仁勋卷入的间谍风波而收紧先进芯片远程使用限制，正争相预订海外数据中心的英伟达算力。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T12:23:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/china-firms-rush-rent-overseas-nvidia-compute-18ebdc",
-      "reference": [
-        "德国之声"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-releases-skills-assessment-draft-regulation-39d952",
-      "title": "人社部就技能人才评价条例草案公开征求意见",
-      "description": "中国人力资源和社会保障部11月12日公布《技能人才评价条例（征求意见稿）》，意见征集将持续至12月12日。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T11:38:00.775683+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/china-releases-skills-assessment-draft-regulation-39d952",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "section": "china",
-      "sourceCount": 2,
       "sources": []
     },
     {
