@@ -1,19 +1,137 @@
 {
   "details": {
     "date": "2026-11-14",
-    "timestamp": 1794612312,
+    "timestamp": 1794619245,
     "totalPages": 1,
-    "total": 269
+    "total": 270
   },
   "stories": [
     {
-      "id": "faa-orders-us-departure-ground-stop-2eeef2",
-      "title": "美国FAA因空管通信故障下令全国航班停飞",
-      "description": "美国联邦航空管理局（FAA）因全国航空交通管制系统发生通信故障，于11月13日下午下令全美机场暂停离港航班起飞。",
+      "id": "jensen-huang-exit-nvidia-fall-us-stocks-bb2872",
+      "title": "英伟达换帅不确定性令美股多数收跌",
+      "description": "美东时间11月13日，美国股市主要指数多数收跌，科技股和人工智能相关股票成为卖压集中区域。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-13T23:17:37+00:00",
+      "updatedAt": "2026-11-14T00:09:36.982713+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/jensen-huang-exit-nvidia-fall-us-stocks-bb2872",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "法广",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "wang-zhonglin-probed-for-misconduct-4f01b6",
+      "title": "王忠林涉嫌严重违纪违法接受审查调查",
+      "description": "中央纪委国家监委11月13日发布消息称，王忠林因涉嫌严重违纪违法，正接受纪律审查和监察调查。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T00:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/wang-zhonglin-probed-for-misconduct-4f01b6",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "德国之声"
+      ],
+      "section": "china",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "deepseek-opens-full-app-api-b74dc9",
+      "title": "DeepSeek开放全家桶API供开发者调用",
+      "description": "DeepSeek宣布开放整合多项应用能力的API。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T00:01:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/deepseek-opens-full-app-api-b74dc9",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "south-korea-cheonghae-mission-expansion-not-joining-war-4fe639",
+      "title": "伊朗警告韩国清海部队部署或涉助美对伊侵略",
+      "description": "韩国国务会议10日通过清海部队派遣修正案草案，拟将任务区从索马里附近的亚丁湾扩至阿曼以南、靠近霍尔木兹海峡的海域。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T23:56:06+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/south-korea-cheonghae-mission-expansion-not-joining-war-4fe639",
+      "reference": [
+        "韩国国际广播电台",
+        "韩民族日报",
+        "东亚日报"
+      ],
+      "section": "asia",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "us-congress-requests-huang-briefing-314756",
+      "title": "美国国会调查英伟达对华芯片销售及出口政策",
+      "description": "美国国会多个委员会已启动对英伟达对华人工智能芯片销售及特朗普政府出口管制政策的调查，并要求黄仁勋、商务部长霍华德·卢特尼克等人出席听证或接受问询。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T23:55:55+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/us-congress-requests-huang-briefing-314756",
+      "reference": [
+        "公视",
+        "世界日报",
+        "联合早报",
+        "法广"
+      ],
+      "section": "ai",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "lundberg-tops-nba-rookie-rankings-fa6c01",
+      "title": "勇士新秀伦德伯格登上周度新秀榜首",
+      "description": "金州勇士新秀亚克塞尔·伦德伯格进入本赛季最佳新秀候选行列，NBA官网12日公布的周度新秀排名将他列为第一。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T23:55:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/lundberg-tops-nba-rookie-rankings-fa6c01",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "sports",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "faa-orders-us-departure-ground-stop-2eeef2",
+      "title": "美国联邦航空管理局下令全国航班暂停起飞",
+      "description": "美国联邦航空管理局（FAA）因空中交通管制通信故障，以安全为由下令全美机场离港航班暂停起飞。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T23:40:11+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-13",
       "url": "https://kaopu.news/story/2026-11-13/faa-orders-us-departure-ground-stop-2eeef2",
@@ -23,7 +141,26 @@
         "联合早报"
       ],
       "section": "us",
-      "sourceCount": 8,
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "ft-reports-nvidia-contact-arm-ceo-haas-9cde5c",
+      "title": "金融时报称英伟达接触安谋CEO哈斯谈接班",
+      "description": "英国《金融时报》援引知情人士称，英伟达已就黄仁勋的潜在继任安排接触安谋首席执行官哈斯（Rene Haas）。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T23:39:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/ft-reports-nvidia-contact-arm-ceo-haas-9cde5c",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -45,6 +182,24 @@
       ],
       "section": "us",
       "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "volunteer-coalition-launches-poland-drill-3cd346",
+      "title": "英法牵头志愿联盟在波兰启动首次联合军演",
+      "description": "由英国和法国牵头的“志愿联盟”已于11月9日在波兰展开首次多国联合军事演习，训练内容服务于俄乌冲突结束后在乌克兰部署部队的准备工作。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T23:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/volunteer-coalition-launches-poland-drill-3cd346",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -130,20 +285,21 @@
     },
     {
       "id": "atlantic-asphalt-hits-american-heritage-533199",
-      "title": "油轮撞上新奥尔良停靠游轮 约129名乘客在船",
-      "description": "据《纽约邮报》报道，当地时间13日中午12时30分左右，油轮“Atlantic Asphalt”在新奥尔良港行政大楼外撞上停靠中的“American Heritage”号游轮。",
+      "title": "纽奥良港油轮撞上河轮致其严重倾斜并部分沉没",
+      "description": "一艘名为“大西洋沥青号”的油轮于当地时间11月13日中午约12时30分，在纽奥良港行政大楼外撞上停靠中的河轮“美国传承号”。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-13T21:41:33+00:00",
+      "updatedAt": "2026-11-13T22:01:41+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-13",
       "url": "https://kaopu.news/story/2026-11-13/atlantic-asphalt-hits-american-heritage-533199",
       "reference": [
-        "世界日报"
+        "世界日报",
+        "法广"
       ],
       "section": "us",
-      "sourceCount": 1,
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -389,47 +545,6 @@
       "sources": []
     },
     {
-      "id": "us-congress-requests-huang-briefing-314756",
-      "title": "美国参院要求英伟达前CEO黄仁勋和卢特尼克作证",
-      "description": "美国参议院银行委员会主席蒂姆·斯科特要求英伟达前首席执行官黄仁勋和商务部长霍华德·卢特尼克，就对华先进芯片出口及相关国家安全疑虑接受问询。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T16:18:45.432000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/us-congress-requests-huang-briefing-314756",
-      "reference": [
-        "公视",
-        "世界日报",
-        "联合早报",
-        "法广"
-      ],
-      "section": "ai",
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
-      "id": "jensen-huang-exit-nvidia-fall-us-stocks-bb2872",
-      "title": "美股三大指数收跌英伟达跌逾4%",
-      "description": "美东时间11月12日，美国三大股指全线收跌，英伟达大幅下挫，费城半导体指数也走低。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T16:01:42+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/jensen-huang-exit-nvidia-fall-us-stocks-bb2872",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "business",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "gaza-storms-flood-displaced-tents-054191",
       "title": "加沙暴雨淹没数万顶帐篷致四人死亡",
       "description": "加沙近日连降暴雨，数万顶安置流离失所者的帐篷被水淹没。",
@@ -564,26 +679,6 @@
       ],
       "section": "us",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "wang-zhonglin-probed-for-misconduct-4f01b6",
-      "title": "中国全国人大环资委副主任委员王忠林被查",
-      "description": "中央纪委国家监委11月13日通报称，十四届全国人大环境与资源保护委员会副主任委员、湖北省委原书记王忠林涉嫌严重违纪违法，目前正接受纪律审查和监察调查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T15:02:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/wang-zhonglin-probed-for-misconduct-4f01b6",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "德国之声"
-      ],
-      "section": "china",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -2989,24 +3084,6 @@
       "sources": []
     },
     {
-      "id": "iranian-official-source-sirik-enemy-military-attack-8d6e02",
-      "title": "伊朗革命卫队称战机摧毁美军巴林预警雷达",
-      "description": "伊朗伊斯兰革命卫队称，其战机于13日攻击并摧毁了部署在巴林岛上的美军预警雷达。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T05:23:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/iranian-official-source-sirik-enemy-military-attack-8d6e02",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "north-china-fireball-meteorite-classified-l-chondrite-6d55ca",
       "title": "华北火流星坠落陨石获鉴定为L群普通球粒陨石",
       "description": "11月6日傍晚，华北夜空出现的火流星发生爆炸，随后有陨石落地。",
@@ -3185,24 +3262,6 @@
       "url": "https://kaopu.news/story/2026-11-13/shi-bingzhe-companies-charged-server-purchases-e8d1fa",
       "reference": [
         "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "lee-jae-myung-proposes-capital-market-reforms-63ffdc",
-      "title": "李在明赴韩国交易所提出资本市场改革措施",
-      "description": "韩国总统李在明13日访问韩国交易所并主持资本市场政策座谈会，这是他就任总统后第二次到访该交易所。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T03:17:58+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/lee-jae-myung-proposes-capital-market-reforms-63ffdc",
-      "reference": [
-        "韩国国际广播电台"
       ],
       "section": "asia",
       "sourceCount": 1,
@@ -3617,24 +3676,6 @@
       "sources": []
     },
     {
-      "id": "france-plans-international-defense-ai-center-f69da0",
-      "title": "法国国防部拟设国际中心推动国防人工智能应用",
-      "description": "法国国防部提出设立国际中心的方案，目标是支持人工智能更多用于国防领域。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T11:53:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/france-plans-international-defense-ai-center-f69da0",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-releases-skills-assessment-draft-regulation-39d952",
       "title": "人社部就技能人才评价条例草案公开征求意见",
       "description": "中国人力资源和社会保障部11月12日公布《技能人才评价条例（征求意见稿）》，意见征集将持续至12月12日。",
@@ -3651,24 +3692,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "nvidia-jensen-huang-removal-report-nikkei-falls-032821",
-      "title": "据报英伟达拟罢免黄仁勋日经指数跌0.7%",
-      "description": "据共同社报道，有消息称英伟达董事会正推进罢免首席执行官黄仁勋的准备工作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T11:35:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/nvidia-jensen-huang-removal-report-nikkei-falls-032821",
-      "reference": [
-        "共同网"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
