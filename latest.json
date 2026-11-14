@@ -1,19 +1,118 @@
 {
   "details": {
     "date": "2026-11-14",
-    "timestamp": 1794656690,
+    "timestamp": 1794663904,
     "totalPages": 1,
     "total": 272
   },
   "stories": [
     {
-      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "title": "白宫宣布特朗普习近平普京将举行首次三方会谈",
-      "description": "美国白宫13日宣布，特朗普、习近平和普京定于11月19日在深圳举行三方首脑会谈，时间与亚太经合组织（APEC）领导人会议重合。",
+      "id": "nytimes-rubio-briefed-trump-huang-spy-link-931360",
+      "title": "美媒称特朗普获黄仁勋相关情报后仍邀其访华",
+      "description": "据CNN援引知情人士报道，美国情报界春季拦截到与Megaspeed有关的通讯。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-14T11:25:33+00:00",
+      "updatedAt": "2026-11-14T13:19:06+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/nytimes-rubio-briefed-trump-huang-spy-link-931360",
+      "reference": [
+        "世界日报",
+        "纽约时报",
+        "联合早报",
+        "德国之声"
+      ],
+      "section": "world",
+      "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "faa-orders-us-departure-ground-stop-2eeef2",
+      "title": "美国空管通信故障致全国航班停飞逾四小时",
+      "description": "美东时间2026年11月13日下午，美国空中交通管制雷达和通信系统出现不稳定。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T13:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/faa-orders-us-departure-ground-stop-2eeef2",
+      "reference": [
+        "澎湃新闻",
+        "世界日报",
+        "联合早报",
+        "财新"
+      ],
+      "section": "us",
+      "sourceCount": 32,
+      "sources": []
+    },
+    {
+      "id": "microsoft-outage-disrupts-us-users-connectors-72c8f7",
+      "title": "微软宣布持续逾24小时的全球服务中断结束",
+      "description": "微软表示，影响Microsoft 365及多项关联服务、持续超过24小时的全球中断已经结束。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T13:02:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/microsoft-outage-disrupts-us-users-connectors-72c8f7",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "澎湃新闻",
+        "SBS"
+      ],
+      "section": "tech",
+      "sourceCount": 23,
+      "sources": []
+    },
+    {
+      "id": "richard-pan-wins-california-house-seat-9b361a",
+      "title": "潘君达赢得期中选举将出任加州联邦众议员",
+      "description": "台裔民主党人潘君达在美国期中选举中以近六成得票率击败共和党籍现任联邦众议员基利（Kevin Kiley），将成为加州联邦众议员。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T12:52:08+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/richard-pan-wins-california-house-seat-9b361a",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "lakenheath-suspected-unauthorized-drone-activity-466307",
+      "title": "莱肯希思基地出现疑似未经授权无人机活动",
+      "description": "英国萨福克郡莱肯希思皇家空军基地发生疑似未经授权的无人机活动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T12:47:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/lakenheath-suspected-unauthorized-drone-activity-466307",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "title": "特朗普习近平普京定于深圳举行首次三方会晤",
+      "description": "白宫宣布，美国总统特朗普、中国国家主席习近平和俄罗斯总统普京将于11月19日在深圳举行首次正式三方会晤，时间正值亚太经合组织（APEC）领导人会议期间。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T12:25:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-02",
       "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
@@ -24,7 +123,120 @@
         "澎湃新闻"
       ],
       "section": "world",
-      "sourceCount": 38,
+      "sourceCount": 39,
+      "sources": []
+    },
+    {
+      "id": "zelensky-says-us-raised-donbas-withdrawal-nato-f4ebd1",
+      "title": "泽连斯基称美方提议撤出顿巴斯换取北约资格",
+      "description": "泽连斯基称，美国谈判代表首次提出把乌克兰从顿巴斯撤军与获得北约成员资格相联系的设想。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T12:03:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/zelensky-says-us-raised-donbas-withdrawal-nato-f4ebd1",
+      "reference": [
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "czech-think-tank-simulates-taiwan-blockade-4f6f2b",
+      "title": "捷克智库兵推模拟中国封锁台湾危机",
+      "description": "捷克智库“欧洲价值安全政策中心”近日在布拉格举行跨国兵棋推演，约30名捷克及外国安全专家、前军事将领和政治人物参与。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T12:00:51+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/czech-think-tank-simulates-taiwan-blockade-4f6f2b",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-nhsa-to-release-dual-drug-catalogs-5877bb",
+      "title": "国家医保局发布双目录基本医保新增107种药品",
+      "description": "国家医疗保障局11月14日在苏州公布2026年国家基本医保药品目录和商业健康保险创新药品目录。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T11:54:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/china-nhsa-to-release-dual-drug-catalogs-5877bb",
+      "reference": [
+        "第一财经",
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 17,
+      "sources": []
+    },
+    {
+      "id": "sanae-takaichi-li-qiang-manila-contact-limited-43a945",
+      "title": "高市早苗与李强马尼拉行程错开接触有限",
+      "description": "日本首相高市早苗与中国国务院总理李强将从11月15日起先后前往菲律宾马尼拉，参加东盟相关会议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T11:48:49+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/sanae-takaichi-li-qiang-manila-contact-limited-43a945",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "yilan-man-faked-councilor-bribery-report-arrested-9087df",
+      "title": "台湾宜兰男子涉嫌自购啤酒伪造议员贿选举报遭收押",
+      "description": "台湾宜兰检警查出，林姓男子涉嫌自行买下啤酒，在包装上写下台湾宜兰县议员黄建勇的姓名，再拨打贿选举报专线，谎称在住处外发现啤酒。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T11:32:22+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/yilan-man-faked-councilor-bribery-report-arrested-9087df",
+      "reference": [
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-b21-bomber-completes-first-conventional-weapons-drop-344a22",
+      "title": "美国B-21轰炸机完成首次常规武器投放试验",
+      "description": "美国空军和诺斯罗普·格鲁曼公司11月13日宣布，隐身战略轰炸机B-21在此前一周完成首次武器投放试验，成功投放常规武器。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T11:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/us-b21-bomber-completes-first-conventional-weapons-drop-344a22",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -44,6 +256,24 @@
       ],
       "section": "china",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "tangshan-probes-hongci-hospital-d01b66",
+      "title": "唐山卫健委调查弘慈医院住院管理问题",
+      "description": "唐山市卫健委工作人员11月12日向澎湃新闻表示，已成立联合调查组，对唐山弘慈医院执业行为进行全面检查。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T11:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/tangshan-probes-hongci-hospital-d01b66",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -83,26 +313,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-nhsa-to-release-dual-drug-catalogs-5877bb",
-      "title": "国家医保局公布新版医保目录新增107种药品",
-      "description": "国家医保局与人力资源社会保障部11月14日在苏州公布2026年国家基本医保药品目录和商业健康保险创新药品目录调整结果。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T10:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/china-nhsa-to-release-dual-drug-catalogs-5877bb",
-      "reference": [
-        "第一财经",
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 16,
       "sources": []
     },
     {
@@ -199,25 +409,6 @@
       "sources": []
     },
     {
-      "id": "zelensky-says-us-raised-donbas-withdrawal-nato-f4ebd1",
-      "title": "泽连斯基称美方首次提议撤出顿巴斯换取北约资格",
-      "description": "泽连斯基11月14日向记者表示，美国谈判代表首次提出探讨乌克兰是否会撤出顿巴斯以换取北约成员资格。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T10:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/zelensky-says-us-raised-donbas-withdrawal-nato-f4ebd1",
-      "reference": [
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "scholars-urge-trump-notify-congress-taiwan-arms-sales-8039f5",
       "title": "葛来仪警告对台军售延宕损害美国盟友信誉",
       "description": "第五届柏林台湾会议于2026年11月12日至13日举行。",
@@ -279,24 +470,22 @@
       "sources": []
     },
     {
-      "id": "faa-orders-us-departure-ground-stop-2eeef2",
-      "title": "FAA因空管通信故障暂停全美航班起飞四小时",
-      "description": "美国联邦航空管理局（FAA）因空中交通管制通信系统发生故障，于美国东部时间11月13日15时54分左右要求全美机场暂停航班起飞，约4小时后、20时15分左右解除指令。",
+      "id": "french-protesters-plan-fifth-weekend-protest-c46b3d",
+      "title": "法国示威者集会反对警察正当防卫法案",
+      "description": "法国示威者预计周六举行连续第五个周末的抗议集会。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-14T09:34:00+00:00",
+      "updatedAt": "2026-11-14T09:33:40+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/faa-orders-us-departure-ground-stop-2eeef2",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/french-protesters-plan-fifth-weekend-protest-c46b3d",
       "reference": [
-        "澎湃新闻",
-        "世界日报",
         "联合早报",
-        "财新"
+        "法广"
       ],
-      "section": "us",
-      "sourceCount": 31,
+      "section": "world",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -522,24 +711,6 @@
       "sources": []
     },
     {
-      "id": "french-protesters-plan-fifth-weekend-protest-c46b3d",
-      "title": "法国示威者将举行第五个周末抗议集会",
-      "description": "法国示威者计划于11月14日举行连续第五个周末的抗议集会，诉求包括加强儿童权益保护，以及反对赋予开枪警员“正当防卫推定”的法案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T08:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/french-protesters-plan-fifth-weekend-protest-c46b3d",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "hong-kong-police-enable-facial-recognition-6e0d62",
       "title": "香港警方将于11月16日启用锐眼人脸识别",
       "description": "香港警务处处长周一鸣11月14日宣布，“锐眼计划”将于11月16日启用人脸识别功能。",
@@ -613,25 +784,6 @@
       "sources": []
     },
     {
-      "id": "sanae-takaichi-li-qiang-manila-contact-limited-43a945",
-      "title": "高市早苗与李强在马尼拉接触机会有限",
-      "description": "日本首相高市早苗与中国总理李强将于11月15日至16日先后到访菲律宾马尼拉参加东盟相关会议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T07:45:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/sanae-takaichi-li-qiang-manila-contact-limited-43a945",
-      "reference": [
-        "共同网",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "ft-reports-nvidia-contact-arm-ceo-haas-9cde5c",
       "title": "英伟达董事会称尚未正式接触CEO继任候选人",
       "description": "英伟达董事会表示，正在遴选猎头公司协助寻找首席执行官继任者，目前尚未正式接触任何候选人。",
@@ -671,27 +823,6 @@
       ],
       "section": "business",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "microsoft-outage-disrupts-us-users-connectors-72c8f7",
-      "title": "微软多项服务全球中断后逐步恢复",
-      "description": "微软旗下 Microsoft 365、Outlook、Teams 等服务从美国东部时间11月12日下午起发生全球性中断，影响70多个国家和地区的用户及机构。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T07:27:40+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/microsoft-outage-disrupts-us-users-connectors-72c8f7",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "澎湃新闻",
-        "SBS"
-      ],
-      "section": "tech",
-      "sourceCount": 22,
       "sources": []
     },
     {
@@ -1343,26 +1474,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nytimes-rubio-briefed-trump-huang-spy-link-931360",
-      "title": "据报鲁比奥向特朗普简报黄仁勋与疑涉间谍商人关系",
-      "description": "美国情报界在调查新加坡云计算企业Megaspeed涉嫌向中国转移敏感技术期间，春季截获一批相关通信。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T04:05:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/nytimes-rubio-briefed-trump-huang-spy-link-931360",
-      "reference": [
-        "世界日报",
-        "纽约时报",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 9,
       "sources": []
     },
     {
@@ -2383,45 +2494,6 @@
       "sources": []
     },
     {
-      "id": "cop31-antalya-opens-global-stocktake-54a7c1",
-      "title": "COP31领导人呼吁加快兑现气候承诺",
-      "description": "第31届联合国气候变化大会（COP31）11月9日至20日在土耳其安塔利亚举行，土耳其担任主席国，澳大利亚主导政府间谈判。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T13:39:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/cop31-antalya-opens-global-stocktake-54a7c1",
-      "reference": [
-        "澎湃新闻",
-        "公视",
-        "联合早报",
-        "SBS"
-      ],
-      "section": "world",
-      "sourceCount": 41,
-      "sources": []
-    },
-    {
-      "id": "paraguay-ueno-collapse-pena-impeachment-74ed97",
-      "title": "Ueno银行倒闭后潘尼亚辞职并遭弹劾",
-      "description": "巴拉圭Ueno银行进入破产管理程序后，近300万客户取款受阻。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T13:28:21+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/paraguay-ueno-collapse-pena-impeachment-74ed97",
-      "reference": [
-        "端传媒"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-insurance-regulator-expense-allocation-rules-214f8d",
       "title": "金融监管总局发布财险费用分摊管理新规",
       "description": "金融监管总局11月13日发布《关于加强财产保险公司费用分摊管理的通知》，对财险公司费用分摊工作提出具体要求。",
@@ -3253,25 +3325,6 @@
       "sources": []
     },
     {
-      "id": "japan-plans-nationalize-aging-equipment-901749",
-      "title": "日本经产省启动重要物资老旧设备接管讨论",
-      "description": "日本经济产业省于11月12日在专家会议上启动讨论一项制度，拟由独立行政法人临时取得化学品、铸件等重要物资的老旧生产设备，用国家资金更新后交原企业运营。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T08:08:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/japan-plans-nationalize-aging-equipment-901749",
-      "reference": [
-        "日经",
-        "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "malaysia-invites-li-qiang-ecrl-opening-2a7756",
       "title": "联合早报称马来西亚邀李强下月出席东铁通车",
       "description": "据《联合早报》报道，马来西亚政府已邀请中国总理李强下月访马，参加东海岸铁路（ECRL）启用仪式。",
@@ -3679,24 +3732,6 @@
       "sources": []
     },
     {
-      "id": "pennsylvania-measles-pregnant-cases-record-high-d93d1b",
-      "title": "宾州麻疹孕妇确诊数创数十年来新高",
-      "description": "宾州今年麻疹病例已超过1500例。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T06:13:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/pennsylvania-measles-pregnant-cases-record-high-d93d1b",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "california-eases-garage-conversion-rules-93a355",
       "title": "加州放宽车库改建限制高龄租户停车位受影响",
       "description": "加州SB 1211放宽车库等非居住空间改建附属住宅单位的限制后，高龄及身心障碍租户因原有停车位被占用或取消而反弹；洛杉矶一名83岁租户已起诉房东，称改建计划违反公平住房和残障相关法律及地方租客保护规定。",
@@ -3766,24 +3801,6 @@
         "世界日报"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-october-deficit-hits-record-8d99a2",
-      "title": "美国10月财政赤字达4040亿美元创历史同期新高",
-      "description": "美国财政部11月12日公布，2026年10月联邦财政赤字达4040亿美元，较上年同期增加42%，创历年10月最高纪录。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T05:34:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/us-october-deficit-hits-record-8d99a2",
-      "reference": [
-        "财新"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -3933,24 +3950,6 @@
         "中央通訊社"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "shenzhen-bay-books-seized-6ce4d7",
-      "title": "小树经深圳湾返广州时三本繁体书遭海关没收",
-      "description": "据端传媒报道，数年前，读者小树从香港经深圳湾返回广州时，海关检查她的行李，并没收其中三本《通识词典》。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T23:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/shenzhen-bay-books-seized-6ce4d7",
-      "reference": [
-        "端传媒"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
