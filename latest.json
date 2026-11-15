@@ -1,11 +1,68 @@
 {
   "details": {
     "date": "2026-11-15",
-    "timestamp": 1794739425,
+    "timestamp": 1794742461,
     "totalPages": 1,
-    "total": 270
+    "total": 271
   },
   "stories": [
+    {
+      "id": "cop31-antalya-opens-global-stocktake-54a7c1",
+      "title": "COP31在安塔利亚开幕聚焦气候承诺落实",
+      "description": "第31届联合国气候变化大会（COP31）11月9日在土耳其安塔利亚开幕，会期至11月20日，来自190多个国家的代表参加。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T10:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/cop31-antalya-opens-global-stocktake-54a7c1",
+      "reference": [
+        "澎湃新闻",
+        "公视",
+        "联合早报",
+        "SBS"
+      ],
+      "section": "world",
+      "sourceCount": 42,
+      "sources": []
+    },
+    {
+      "id": "china-venture-capital-shifts-to-semiconductors-643249",
+      "title": "中国创投资金从具身智能转向半导体领域",
+      "description": "中国创投资金在具身智能融资降温后转向半导体，机器人企业融资收缩之际，半导体投资交易和融资规模上升。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T10:02:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/china-venture-capital-shifts-to-semiconductors-643249",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "yemen-forces-withdraw-bab-el-mandeb-houthis-control-836c27",
+      "title": "也门政府军撤出曼德海峡地区助胡塞扩大控制",
+      "description": "也门政府军宣布从曼德海峡附近撤出，南方武装部队称已将驻扎在塔伊兹省西部祖巴卜机场及海峡一带的部队重新部署至亚丁方向，胡塞武装由此扩大了对当地的控制。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T09:51:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/yemen-forces-withdraw-bab-el-mandeb-houthis-control-836c27",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
       "title": "黄仁勋辞去英伟达总裁、首席执行官及董事职务",
@@ -62,6 +119,24 @@
       ],
       "section": "asia",
       "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "canada-pledges-tropical-forest-fund-a83b59",
+      "title": "加拿大承诺向热带森林基金注资最高5.6亿加元",
+      "description": "加拿大总理马克·卡尼在菲律宾马尼拉出席东盟峰会期间会见巴西总统卢拉，并宣布将在四年内向巴西和挪威共同主导的“永续热带森林基金”提供最高5.6亿加元（约5.27亿新元）初始资金。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T09:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/canada-pledges-tropical-forest-fund-a83b59",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1307,24 +1382,6 @@
       "sources": []
     },
     {
-      "id": "megaspeed-nvidia-ai-chips-probe-9a180a",
-      "title": "据报黄乐经Megaspeed获逾40亿美元辉达芯片引美新调查",
-      "description": "据《世界日报》报道，黄乐通过新加坡公司Megaspeed取得价值超过40亿美元的辉达先进人工智能芯片。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T19:43:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/megaspeed-nvidia-ai-chips-probe-9a180a",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "gan-kim-yong-asean-integration-2d6d69",
       "title": "颜金勇称新加坡明年将推动亚细安一体化",
       "description": "新加坡副总理颜金勇在马尼拉接受新加坡媒体联访，谈到新加坡明年担任亚细安轮值主席国的工作方向。",
@@ -1674,24 +1731,6 @@
       "sources": []
     },
     {
-      "id": "canada-philippines-complete-trade-talks-b17153",
-      "title": "加拿大宣布与菲律宾完成自贸协定谈判",
-      "description": "加拿大总理马克·卡尼在马尼拉出席亚细安峰会期间宣布，加拿大和菲律宾已完成全面自由贸易协定谈判。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T10:52:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/canada-philippines-complete-trade-talks-b17153",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "singapore-hsa-warns-iv-supplement-risks-de6443",
       "title": "新加坡卫科局警告社媒静脉补剂风险",
       "description": "社交平台近期出现推销NAD等静脉输液补剂和上门注射服务的广告。",
@@ -1724,24 +1763,6 @@
         "当今大马"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "hungary-investigators-find-hidden-cash-001b65",
-      "title": "匈牙利调查人员多地搜出近2000万美元藏匿现金",
-      "description": "匈牙利当局扩大对前政府涉嫌腐败案的调查，调查人员近日在多地搜出大批藏匿现金。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T10:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/hungary-investigators-find-hidden-cash-001b65",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -3180,24 +3201,6 @@
       "sources": []
     },
     {
-      "id": "xintec-tsmc-outsourcing-agreement-4ae5b8",
-      "title": "精材董事会通过与台积电签订产能外包协议",
-      "description": "精材董事会于11月13日通过与台积电签订产能外包协议，合作开展先进封装后段制程。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T14:39:50+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/xintec-tsmc-outsourcing-agreement-4ae5b8",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "huang-megaspeed-nvidia-chips-shipped-china-e85916",
       "title": "黄乐关联的Megaspeed被指将辉达芯片运往中国",
       "description": "法新社报道，黄乐曾任董事的云计算公司Megaspeed被指以东南亚数据中心采购电脑硬件为掩护，将辉达芯片运往中国，协助北京规避贸易限制。",
@@ -3817,6 +3820,24 @@
         "联合早报"
       ],
       "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "embodied-ai-experts-confront-costs-deployment-cd3675",
+      "title": "具身智能从业者直面迭代成本与落地难题",
+      "description": "2026百度世界大会相关论坛上，具身智能从业者讨论了模型和数据迭代的高昂成本，以及机器人进入真实场景后的稳定性和商业化问题。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-13T08:41:47.171580+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/embodied-ai-experts-confront-costs-deployment-cd3675",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "ai",
       "sourceCount": 1,
       "sources": []
     },
