@@ -1,11 +1,89 @@
 {
   "details": {
     "date": "2026-11-15",
-    "timestamp": 1794706841,
+    "timestamp": 1794713492,
     "totalPages": 1,
     "total": 269
   },
   "stories": [
+    {
+      "id": "spacex-plans-full-starship-recovery-5f9d5f",
+      "title": "星舰飞船首次完成轨道返回并被发射塔捕获",
+      "description": "SpaceX“星舰”飞船在第15次试飞中完成轨道飞行后返回得州星港，并首次由发射塔机械臂捕获回收。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T02:18:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/spacex-plans-full-starship-recovery-5f9d5f",
+      "reference": [
+        "朝鲜日报",
+        "中央通訊社",
+        "法广",
+        "世界日报"
+      ],
+      "section": "tech",
+      "sourceCount": 17,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "黄仁勋辞去英伟达总裁首席执行官及董事职务",
+      "description": "英伟达共同创办人黄仁勋于11月12日辞去总裁、首席执行官及董事职务，结束长达33年的公司领导生涯。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T01:31:44+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 412,
+      "sources": []
+    },
+    {
+      "id": "cnn-vance-weighs-skipping-2028-race-3bdd57",
+      "title": "CNN称范斯认真考虑不参加2028年总统选举",
+      "description": "CNN援引约12名范斯的盟友和顾问称，共和党在期中选举中惨败后，副总统范斯正认真考虑是否参加2028年总统选举，目前尚未作出决定。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T01:15:44+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/cnn-vance-weighs-skipping-2028-race-3bdd57",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "israeli-strike-reportedly-kills-hamas-rafah-commander-younis-d054cd",
+      "title": "以军空袭据报致哈马斯拉法旅指挥官身亡",
+      "description": "以色列国防军和辛贝特星期天凌晨在加沙地带南部发动空袭。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T01:09:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/israeli-strike-reportedly-kills-hamas-rafah-commander-younis-d054cd",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "cities-adjust-parking-fees-fb69ba",
       "title": "多地优化停车收费降低短停与夜间停车负担",
@@ -128,12 +206,12 @@
     },
     {
       "id": "witkoff-norway-peace-proposal-talks-6bf424",
-      "title": "欧洲敲定下一轮俄乌和谈代表团组成",
-      "description": "欧洲已确定由英国、法国、德国、意大利、波兰及欧盟机构组成代表团队，准备参加下一轮俄乌和平谈判。",
+      "title": "俄美乌阿布扎比会谈达成大规模换俘共识",
+      "description": "美国斡旋的俄罗斯、乌克兰三方会谈11日在阿联酋阿布扎比结束，俄乌代表就大规模交换战俘达成一致。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-14T23:25:00+00:00",
+      "updatedAt": "2026-11-14T23:31:39+00:00",
       "occurredAt": "",
       "publishedAt": "2026-10-20",
       "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
@@ -144,7 +222,7 @@
         "公视"
       ],
       "section": "world",
-      "sourceCount": 131,
+      "sourceCount": 132,
       "sources": []
     },
     {
@@ -164,27 +242,6 @@
       ],
       "section": "us",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "spacex-plans-full-starship-recovery-5f9d5f",
-      "title": "SpaceX首次用机械臂回收星舰上段飞船",
-      "description": "SpaceX于11月14日完成星舰第15次试飞，并首次用发射塔机械臂捕捉回收上段太空船，使其安全返回星际基地发射台。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T22:47:14+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/spacex-plans-full-starship-recovery-5f9d5f",
-      "reference": [
-        "朝鲜日报",
-        "中央通訊社",
-        "法广",
-        "世界日报"
-      ],
-      "section": "tech",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -279,27 +336,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "英伟达两大股东促董事会评估黄仁勋回任",
-      "description": "英伟达联合创始人黄仁勋11月12日辞去公司总裁、首席执行官及董事职务，结束逾33年的公司领导生涯。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T19:30:02+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 411,
       "sources": []
     },
     {
@@ -1944,24 +1980,6 @@
       "sources": []
     },
     {
-      "id": "irish-army-defuses-bomb-near-summit-dinner-d5710a",
-      "title": "爱尔兰陆军据报拆除峰会晚宴附近爆炸装置",
-      "description": "爱尔兰陆军据报于11月13日拆除一枚在都柏林梅里恩广场另一侧建筑内发现的爆炸装置。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T02:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/irish-army-defuses-bomb-near-summit-dinner-d5710a",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "akutagawa-grove-manuscript-found-7b4197",
       "title": "东京北区发现芥川龙之介《竹林中》亲笔原稿",
       "description": "东京都北区政府11月12日宣布，已确认找到芥川龙之介小说《竹林中》的亲笔原稿。",
@@ -2016,27 +2034,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "starship-booster-splashes-down-gulf-fire-c4ef20",
-      "title": "星舰第15次试飞未能捕获超重型助推器",
-      "description": "美国太空探索技术公司SpaceX的“星舰”于美国中部时间11月13日16时48分从得克萨斯州南部升空，实施第15次试飞。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T01:56:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/starship-booster-splashes-down-gulf-fire-c4ef20",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "第一财经",
-        "中央通訊社"
-      ],
-      "section": "tech",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -3764,27 +3761,6 @@
       "sources": []
     },
     {
-      "id": "washington-logan-circle-shooting-five-people-shot-47c504",
-      "title": "华盛顿特区健身房枪击造成一死四伤",
-      "description": "美国华盛顿特区洛根圆环附近的Vida Fitness健身房11月12日上午发生枪击，造成一人死亡、四人受伤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T06:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/washington-logan-circle-shooting-five-people-shot-47c504",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "世界日报",
-        "公视"
-      ],
-      "section": "us",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "sue-ling-gin-trust-donates-casl-immigration-aid-2901f6",
       "title": "甄素莲基金会捐200万美元扩大华咨处移民服务",
       "description": "甄素莲基金会信托近日向芝加哥华人咨询服务处捐赠200万美元，资助该机构扩大“移民公正计划”。",
@@ -4496,6 +4472,24 @@
         "中央通訊社"
       ],
       "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "yangtze-delta-sets-four-innovation-shifts-fdfd67",
+      "title": "长三角提出科创协同建设四项转变",
+      "description": "第一财经刊文提出，面向“十五五”，长三角共建上海（长三角）国际科技创新中心，将在理念、创新环节、空间组织和制度供给上实现四方面转变。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-10T12:29:43.517057+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-10",
+      "url": "https://kaopu.news/story/2026-11-10/yangtze-delta-sets-four-innovation-shifts-fdfd67",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "tech",
       "sourceCount": 1,
       "sources": []
     },
