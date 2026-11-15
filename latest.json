@@ -1,11 +1,131 @@
 {
   "details": {
     "date": "2026-11-15",
-    "timestamp": 1794698746,
+    "timestamp": 1794706841,
     "totalPages": 1,
     "total": 269
   },
   "stories": [
+    {
+      "id": "cities-adjust-parking-fees-fb69ba",
+      "title": "多地优化停车收费降低短停与夜间停车负担",
+      "description": "上海、湖南、广州、济南、银川等地近期调整停车收费安排，推出按分钟计费、短时免费、夜间优惠和居民包月等做法，着眼于减少临时停车支出并减轻居民停车成本。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T01:00:58.969466+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/cities-adjust-parking-fees-fb69ba",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "faa-orders-us-departure-ground-stop-2eeef2",
+      "title": "美国空管通信故障致全国航班停飞逾四小时",
+      "description": "美国联邦航空管理局（FAA）因多个空中交通管制中心通信异常，于美东时间11月13日下令全美机场暂停航班起飞。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T01:00:07+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/faa-orders-us-departure-ground-stop-2eeef2",
+      "reference": [
+        "澎湃新闻",
+        "世界日报",
+        "联合早报",
+        "财新"
+      ],
+      "section": "us",
+      "sourceCount": 36,
+      "sources": []
+    },
+    {
+      "id": "microsoft-outage-disrupts-us-users-connectors-72c8f7",
+      "title": "微软全球服务中断逾24小时后基本恢复",
+      "description": "微软表示，影响全球多地的服务中断在持续超过24小时后已基本结束。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T00:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/microsoft-outage-disrupts-us-users-connectors-72c8f7",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "澎湃新闻",
+        "SBS"
+      ],
+      "section": "tech",
+      "sourceCount": 24,
+      "sources": []
+    },
+    {
+      "id": "china-agencies-ease-innovative-drug-access-54ff7e",
+      "title": "四部门发文完善创新药进院使用和支付机制",
+      "description": "国家卫生健康委员会等四部门11月10日印发通知，要求完善创新药进入医院、临床使用和医保支付的相关机制，以减少药品从获批到患者实际使用之间的障碍。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T00:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/china-agencies-ease-innovative-drug-access-54ff7e",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-nhsa-to-release-dual-drug-catalogs-5877bb",
+      "title": "财新称瑞基奥仑赛进医保价格降至30万元以下",
+      "description": "国家医保局与人力资源和社会保障部公布2026年国家基本医保药品目录和商业健康保险创新药品目录。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T00:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/china-nhsa-to-release-dual-drug-catalogs-5877bb",
+      "reference": [
+        "第一财经",
+        "澎湃新闻",
+        "联合早报",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 19,
+      "sources": []
+    },
+    {
+      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "title": "特朗普习近平普京定于深圳举行首次三方会晤",
+      "description": "美国总统唐纳德·特朗普、中国国家主席习近平和俄罗斯总统弗拉基米尔·普京定于11月19日在深圳举行三方会晤，会议安排在11月18日至19日举行的亚太经合组织（APEC）领导人会议期间。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T00:07:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "日经",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 40,
+      "sources": []
+    },
     {
       "id": "witkoff-norway-peace-proposal-talks-6bf424",
       "title": "欧洲敲定下一轮俄乌和谈代表团组成",
@@ -141,27 +261,6 @@
       ],
       "section": "tech",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "faa-orders-us-departure-ground-stop-2eeef2",
-      "title": "霍楚要求达菲为全美航班停飞事件辞职",
-      "description": "美国联邦航空管理局（FAA）因空中交通管制通信故障，于11月13日下午下令全美机场暂停航班起飞，禁令近五小时后于当晚解除。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T20:24:57+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/faa-orders-us-departure-ground-stop-2eeef2",
-      "reference": [
-        "澎湃新闻",
-        "世界日报",
-        "联合早报",
-        "财新"
-      ],
-      "section": "us",
-      "sourceCount": 35,
       "sources": []
     },
     {
@@ -465,27 +564,6 @@
       "sources": []
     },
     {
-      "id": "microsoft-outage-disrupts-us-users-connectors-72c8f7",
-      "title": "微软宣布持续逾24小时的全球服务中断结束",
-      "description": "微软表示，影响Microsoft 365及多项关联服务、持续超过24小时的全球中断已经结束。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T13:02:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/microsoft-outage-disrupts-us-users-connectors-72c8f7",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "澎湃新闻",
-        "SBS"
-      ],
-      "section": "tech",
-      "sourceCount": 23,
-      "sources": []
-    },
-    {
       "id": "richard-pan-wins-california-house-seat-9b361a",
       "title": "潘君达赢得期中选举将出任加州联邦众议员",
       "description": "台裔民主党人潘君达在美国期中选举中以近六成得票率击败共和党籍现任联邦众议员基利（Kevin Kiley），将成为加州联邦众议员。",
@@ -522,27 +600,6 @@
       "sources": []
     },
     {
-      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "title": "特朗普习近平普京定于深圳举行首次三方会晤",
-      "description": "白宫宣布，美国总统特朗普、中国国家主席习近平和俄罗斯总统普京将于11月19日在深圳举行首次正式三方会晤，时间正值亚太经合组织（APEC）领导人会议期间。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T12:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "reference": [
-        "韩国国际广播电台",
-        "联合早报",
-        "日经",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 39,
-      "sources": []
-    },
-    {
       "id": "czech-think-tank-simulates-taiwan-blockade-4f6f2b",
       "title": "捷克智库兵推模拟中国封锁台湾危机",
       "description": "捷克智库“欧洲价值安全政策中心”近日在布拉格举行跨国兵棋推演，约30名捷克及外国安全专家、前军事将领和政治人物参与。",
@@ -558,26 +615,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-nhsa-to-release-dual-drug-catalogs-5877bb",
-      "title": "国家医保局发布双目录基本医保新增107种药品",
-      "description": "国家医疗保障局11月14日在苏州公布2026年国家基本医保药品目录和商业健康保险创新药品目录。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T11:54:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/china-nhsa-to-release-dual-drug-catalogs-5877bb",
-      "reference": [
-        "第一财经",
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 17,
       "sources": []
     },
     {
@@ -3784,24 +3821,6 @@
       "sources": []
     },
     {
-      "id": "autumn-breaks-boost-november-travel-020258",
-      "title": "中小学秋假带动亲子出游多地景区限流、场馆预约紧张",
-      "description": "全国多地中小学秋假于11月中旬陆续开启，亲子出游带动交通客流上升，部分景区采取限流措施，热门文博场馆的预约名额也已售罄。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T06:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/autumn-breaks-boost-november-travel-020258",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "scientists-tag-monarch-butterflies-migration-544bc1",
       "title": "科学家为近1750只帝王斑蝶安装太阳能追踪器",
       "description": "科学家今年已为近1750只帝王斑蝶安装微型太阳能无线电追踪器，以记录它们的迁徙路线、停留地点和夜间栖息位置。",
@@ -3891,27 +3910,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "alice-huang-manhattan-supermicro-smuggling-probe-cfea5d",
-      "title": "彭博称美司法部调查黄乐关联实体涉美超微产品走私",
-      "description": "据彭博社援引一名知情人士报道，美国司法部正在调查与黄乐有关联的实体是否参与将美超微电脑产品走私至中国，调查由纽约曼哈顿联邦检察官办公室主导。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T02:43:44+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/alice-huang-manhattan-supermicro-smuggling-probe-cfea5d",
-      "reference": [
-        "世界日报",
-        "端传媒",
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "us",
-      "sourceCount": 5,
       "sources": []
     },
     {
