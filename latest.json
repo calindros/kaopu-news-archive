@@ -1,15 +1,313 @@
 {
   "details": {
     "date": "2026-11-15",
-    "timestamp": 1794731436,
+    "timestamp": 1794735886,
     "totalPages": 1,
     "total": 271
   },
   "stories": [
     {
+      "id": "miit-seeks-comments-auto-modification-rules-e50485",
+      "title": "工信部征求汽车改装管理办法意见",
+      "description": "工业和信息化部会同相关部门起草的《汽车改装管理办法（征求意见稿）》已向社会公开征求意见，意见反馈截止日为12月12日。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T09:04:38.664548+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/miit-seeks-comments-auto-modification-rules-e50485",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nahles-ai-replaces-800000-german-jobs-9f73e7",
+      "title": "纳勒斯预计人工智能15年内将取代德国80万个岗位",
+      "description": "德国联邦劳动局局长安德烈娅·纳勒斯在接受《商报》采访时估算，今后15年，人工智能将令德国约80万个岗位消失；她同时判断，新岗位的增量大致与此相当。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T09:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/nahles-ai-replaces-800000-german-jobs-9f73e7",
+      "reference": [
+        "德国之声"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "railway-platform-smoking-lacks-unified-ban-42622a",
+      "title": "铁路站台控烟缺少全国统一禁令，专家称铁路部门缺少强制执法依据",
+      "description": "近日，两名外籍旅客在高铁车门口吸烟的视频引发讨论。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T08:40:53.124451+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/railway-platform-smoking-lacks-unified-ban-42622a",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "spacex-plans-full-starship-recovery-5f9d5f",
+      "title": "SpaceX星舰首次被发射塔机械臂捕获",
+      "description": "SpaceX星舰第15次试飞完成后，飞船于美东时间11月14日从轨道返回得克萨斯州南部星际基地，并首次由发射塔机械臂捕获。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T08:36:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/spacex-plans-full-starship-recovery-5f9d5f",
+      "reference": [
+        "朝鲜日报",
+        "中央通訊社",
+        "法广",
+        "世界日报"
+      ],
+      "section": "tech",
+      "sourceCount": 20,
+      "sources": []
+    },
+    {
+      "id": "germany-migration-integration-report-623ce1",
+      "title": "德国政府报告称移民融入总体改善",
+      "description": "德国联邦政府近日发布移民融入报告，融入事务专员娜塔莉·帕夫里克周三介绍报告结论，并对德国社会融入的整体进展作出积极评价。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T08:34:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/germany-migration-integration-report-623ce1",
+      "reference": [
+        "德国之声"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "hsk-candidates-top-one-million-36ca7c",
+      "title": "中文水平考试考生人数首次突破百万人次",
+      "description": "中文水平考试（HSK）2026年考生人数首次超过100万人次，相关数据在世界中文大会上公布。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T08:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/hsk-candidates-top-one-million-36ca7c",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "iranian-official-source-sirik-enemy-military-attack-8d6e02",
+      "title": "伊朗称无人机袭击巴林美军雷达，巴方称已拦截",
+      "description": "伊朗伊斯兰革命卫队称，11月15日派出六架无人机攻击巴林里法直升机基地的美军防空雷达。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T08:18:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/iranian-official-source-sirik-enemy-military-attack-8d6e02",
+      "reference": [
+        "澎湃新闻",
+        "日本放送协会",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "kyodo-poll-takaichi-cabinet-approval-50-4-percent-95f464",
+      "title": "共同社民调显示高市内阁支持率升至50.4%",
+      "description": "共同社11月14日至15日开展的全国电话舆论调查显示，高市内阁支持率为50.4%，较10月上一次调查增加1.3个百分点；不支持率为34.4%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T08:00:45+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/kyodo-poll-takaichi-cabinet-approval-50-4-percent-95f464",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "beijing-drone-rules-ban-flight-storage-10c2de",
+      "title": "北京无人机新规实施全域禁飞禁存",
+      "description": "北京市修订后的《北京市无人驾驶航空器管理规定》于11月15日实施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T07:55:21+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/beijing-drone-rules-ban-flight-storage-10c2de",
+      "reference": [
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "nyt-reviews-us-china-summit-risks-4d8d0b",
+      "title": "纽约时报梳理APEC川习会前美中关系风险",
+      "description": "纽约时报在亚太经合组织（APEC）领导人会议前梳理美中关系的主要议题及潜在冲突风险。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T07:47:45+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/nyt-reviews-us-china-summit-risks-4d8d0b",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ai-comic-dramas-shift-content-ip-42289e",
+      "title": "AI漫剧行业从堆产量转向内容和IP经营",
+      "description": "第一财经调查发现，AI漫剧回本难度上升，部分产能退出，行业竞争开始从快速铺量转向内容、IP和商业化能力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T07:38:50.007977+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/ai-comic-dramas-shift-content-ip-42289e",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "zelensky-says-us-raised-donbas-withdrawal-nato-f4ebd1",
+      "title": "泽连斯基称美方询问撤出顿巴斯换北约",
+      "description": "乌克兰总统泽连斯基称，美国谈判代表询问，乌克兰若加入北约，是否愿意从东部顿巴斯地区撤出部队；这是美方首次提出这一问题。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T07:30:56+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/zelensky-says-us-raised-donbas-withdrawal-nato-f4ebd1",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "法广",
+        "德国之声"
+      ],
+      "section": "world",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "ups-cargo-jet-collides-miami-airport-c20cbe",
+      "title": "巴拿马航空客机与UPS货机在迈阿密机场滑行时擦撞",
+      "description": "巴拿马航空一架波音737客机与联合包裹服务公司（UPS）一架波音767货机在迈阿密国际机场滑行时擦撞。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T07:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/ups-cargo-jet-collides-miami-airport-c20cbe",
+      "reference": [
+        "世界日报",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "hong-kong-disney-ticket-qr-codes-stolen-878f04",
+      "title": "香港迪士尼约1.7万个电子门票二维码遭窃",
+      "description": "香港迪士尼乐园网上票务系统约1.7万个电子门票二维码遭盗，园方已向警方报案，并暂停网上售票和酒店预订。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T07:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/hong-kong-disney-ticket-qr-codes-stolen-878f04",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-f15ex-arrives-kadena-begins-deployment-5eddb3",
+      "title": "美军开始在嘉手纳基地部署F-15EX战机",
+      "description": "美军15日宣布，F-15战机后继机型F-15EX已抵达日本冲绳县嘉手纳基地并开始部署。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T07:15:53+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/us-f15ex-arrives-kadena-begins-deployment-5eddb3",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "korean-tax-exam-scorer-admits-ai-cheating-eae799",
+      "title": "韩国税务考试最高分考生承认使用人工智能作弊",
+      "description": "韩国国家税务师资格考试最高分考生韩某于11月15日承认，自己在考试中利用电子设备和生成式人工智能作弊。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T07:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/korean-tax-exam-scorer-admits-ai-cheating-eae799",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "title": "特朗普习近平普京定于深圳举行首次三方会谈",
-      "description": "特朗普、习近平和普京将于11月19日在深圳举行首次三方会晤，时间与11月18日至19日举行的亚太经合组织（APEC）领导人会议重合。",
+      "title": "特朗普习近平普京将于深圳举行首次三方会谈",
+      "description": "美国总统特朗普、中国国家主席习近平和俄罗斯总统普京定于11月19日在深圳举行三方会谈，时间与11月18日至19日的亚太经合组织（APEC）领导人会议重合。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -24,7 +322,7 @@
         "澎湃新闻"
       ],
       "section": "world",
-      "sourceCount": 47,
+      "sourceCount": 48,
       "sources": []
     },
     {
@@ -182,24 +480,6 @@
       "sources": []
     },
     {
-      "id": "ups-cargo-jet-collides-miami-airport-c20cbe",
-      "title": "UPS货机与巴拿马航空客机在迈阿密机场相撞",
-      "description": "UPS波音767货机与巴拿马航空波音737客机14日晚在迈阿密国际机场相撞。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T06:25:35+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-15",
-      "url": "https://kaopu.news/story/2026-11-15/ups-cargo-jet-collides-miami-airport-c20cbe",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "new-york-schools-class-size-compliance-9497a5",
       "title": "纽约公校小班制达标率升至73.4%",
       "description": "纽约市长曼达尼与市教育总监萨谬思宣布，2026至2027学年纽约市公立学校有73.4%的班级符合州法小班人数限制，超过本学年70%的阶段目标，但仍有逾四分之一班级超出规定人数。",
@@ -254,27 +534,6 @@
       ],
       "section": "business",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "spacex-plans-full-starship-recovery-5f9d5f",
-      "title": "SpaceX星舰首次由发射塔机械臂捕获回收",
-      "description": "美国太空探索技术公司SpaceX的星舰第二级飞船于当地时间11月14日返回得克萨斯州星际基地，并首次由发射塔机械臂在空中捕获回收，完成第15次试飞。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T06:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/spacex-plans-full-starship-recovery-5f9d5f",
-      "reference": [
-        "朝鲜日报",
-        "中央通訊社",
-        "法广",
-        "世界日报"
-      ],
-      "section": "tech",
-      "sourceCount": 19,
       "sources": []
     },
     {
@@ -512,24 +771,6 @@
       "url": "https://kaopu.news/story/2026-11-15/japan-meti-adb-nuclear-cooperation-mou-955f70",
       "reference": [
         "日本放送协会"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-f15ex-arrives-kadena-begins-deployment-5eddb3",
-      "title": "美军F-15EX战机抵达嘉手纳并启动部署",
-      "description": "美国军方于11月15日宣布，F-15EX型战机已到达位于日本冲绳县的嘉手纳基地，部署行动已经启动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T05:29:58+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-15",
-      "url": "https://kaopu.news/story/2026-11-15/us-f15ex-arrives-kadena-begins-deployment-5eddb3",
-      "reference": [
-        "共同网"
       ],
       "section": "asia",
       "sourceCount": 1,
@@ -1079,27 +1320,6 @@
       "sources": []
     },
     {
-      "id": "zelensky-says-us-raised-donbas-withdrawal-nato-f4ebd1",
-      "title": "泽连斯基称美方首次询问撤出顿巴斯换取北约资格",
-      "description": "乌克兰总统泽连斯基说，美国谈判代表在阿布扎比新一轮俄乌会谈后，询问乌方是否愿意在加入北约的条件下撤出顿巴斯。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T15:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/zelensky-says-us-raised-donbas-withdrawal-nato-f4ebd1",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "法广",
-        "德国之声"
-      ],
-      "section": "world",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "finland-chinese-workers-trafficking-probe-f79ceb",
       "title": "芬兰中国工人协议被曝引发人口贩运调查",
       "description": "财新称，2026年夏天，芬兰电池材料厂项目的中国工人被要求签署协议，相关情况引发人口贩运刑事调查。",
@@ -1523,25 +1743,6 @@
       "sources": []
     },
     {
-      "id": "wmo-report-global-climate-records-f043df",
-      "title": "世气组织预计2026年跻身有记录以来最暖年份前四",
-      "description": "世界气象组织（WMO）在《联合国气候变化框架公约》第31次缔约方大会开幕日发布《2026年全球气候状况报告》。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T09:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/wmo-report-global-climate-records-f043df",
-      "reference": [
-        "第一财经",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "hdb-expands-maju-gillman-nature-park-5ae4c9",
       "title": "建屋局扩大两地保留绿地并将吉门营房部分划为自然公园",
       "description": "建屋发展局修订马裕树林和吉门营房住宅发展方案，增加拟保留的林地，并将吉门营房部分绿地划为新的自然公园。",
@@ -1670,24 +1871,6 @@
       "sources": []
     },
     {
-      "id": "wmo-reports-record-earth-energy-imbalance-3f9991",
-      "title": "世界气象组织报告地球能量失衡创纪录",
-      "description": "世界气象组织近日发布《2026年气候状况最新通报》，指出地球能量失衡、海洋储热和全球平均海平面均达到观测以来的纪录水平。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T08:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/wmo-reports-record-earth-energy-imbalance-3f9991",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "hong-kong-police-enable-facial-recognition-6e0d62",
       "title": "香港警方将于11月16日启用锐眼人脸识别",
       "description": "香港警务处处长周一鸣11月14日宣布，“锐眼计划”将于11月16日启用人脸识别功能。",
@@ -1722,24 +1905,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "singapore-rwanda-carbon-project-approved-a1bb1f",
-      "title": "新加坡首个碳信用项目获批落地卢旺达",
-      "description": "新加坡与卢旺达已为Climate Bridge国际私人有限公司在卢旺达开展的安全供水碳信用项目颁发授权书。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T08:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/singapore-rwanda-carbon-project-approved-a1bb1f",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3250,42 +3415,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-fda-teleflex-arrow-class-one-recall-a732c1",
-      "title": "食药署启动泰利福亚诺导管第一级回收",
-      "description": "台湾食药署因泰利福亚诺压力注射型周边置入中央静脉导管组出现涂层问题，于13日启动第一级回收，要求立即停止使用，并在24小时内全面下架。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T12:26:56+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/taiwan-fda-teleflex-arrow-class-one-recall-a732c1",
-      "reference": [
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "bersih-chair-urges-rulers-review-najib-pardon-fairness-45523f",
-      "title": "净选盟主席促元首及统治者审视纳吉特赦公平性",
-      "description": "围绕前首相纳吉阿都拉萨获特赦是否公平，净选盟主席费沙请求国家元首和马来统治者进行审视。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T12:17:05+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/bersih-chair-urges-rulers-review-najib-pardon-fairness-45523f",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "ministry-review-yagen-second-hydropower-eia-a93d40",
       "title": "生态环境部拟审查牙根二级水电站环评文件",
       "description": "生态环境部拟审查四川省雅砻江牙根二级水电站工程等5个项目的环境影响评价文件，公示期为2026年11月11日至17日，共5个工作日。",
@@ -3670,24 +3799,6 @@
       "sources": []
     },
     {
-      "id": "embodied-ai-experts-confront-costs-deployment-cd3675",
-      "title": "具身智能从业者直面迭代成本与落地难题",
-      "description": "2026百度世界大会相关论坛上，具身智能从业者讨论了模型和数据迭代的高昂成本，以及机器人进入真实场景后的稳定性和商业化问题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T08:41:47.171580+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/embodied-ai-experts-confront-costs-deployment-cd3675",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "bbc-exposes-uk-talent-visa-fraud-114b39",
       "title": "BBC调查揭露中介涉嫌造假助人申请英国人才签证",
       "description": "BBC卧底调查发现，iCareer Consultancy UK顾问关世龙向记者提出收费88万元人民币（约9.8万英镑）的签证服务，称即使申请人没有艺术背景，也能安排制作作品集、展览及媒体报道，协助申请英国全球人才签证。",
@@ -3761,24 +3872,6 @@
       "sources": []
     },
     {
-      "id": "china-health-commission-reaffirms-surrogacy-ban-8e2e20",
-      "title": "国家卫健委重申严禁任何形式代孕",
-      "description": "在国家卫生健康委11月13日举行的新闻发布会上，新闻发言人杨金瑞重申，中国禁止各类代孕。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T07:44:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/china-health-commission-reaffirms-surrogacy-ban-8e2e20",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "chen-xi-says-japan-challenges-postwar-order-584b1f",
       "title": "陈曦指日本右翼行径挑衅战后国际秩序",
       "description": "中国国防部新闻发言人陈曦11月13日下午回应日本近期安保政策动向，批评日本右翼势力借所谓“中国威胁论”推动防卫开支增长，并增强进攻作战和远程打击能力。",
@@ -3793,61 +3886,6 @@
         "澎湃新闻"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-urges-philippines-curb-taiwan-comments-603a11",
-      "title": "中国国防部敦促菲律宾约束个别政客涉台言论",
-      "description": "中国国防部新闻发言人陈曦11月13日下午回应菲律宾防长涉台言论，敦促菲方约束个别政客、恪守一个中国原则。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T07:34:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/china-urges-philippines-curb-taiwan-comments-603a11",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-says-china-hates-jimmy-lai-release-unlikely-caa0bd",
-      "title": "特朗普称习近平不太可能释放黎智英",
-      "description": "美国总统特朗普11月12日接受塞勒姆新闻频道采访时表示，他不看好中国国家主席习近平会同意释放香港壹传媒创始人黎智英。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T07:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/trump-says-china-hates-jimmy-lai-release-unlikely-caa0bd",
-      "reference": [
-        "法广",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "spacex-plans-74-billion-supercomputer-campuses-26cabd",
-      "title": "SpaceX拟投逾740亿美元建设两座超算园区",
-      "description": "SpaceX于11月12日表示，计划在美国德克萨斯州星际基地和亚利桑那州科奇斯县建设两座超级计算园区，以扩展人工智能计算能力，投资总额超过740亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T07:06:43+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/spacex-plans-74-billion-supercomputer-campuses-26cabd",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "ai",
       "sourceCount": 1,
       "sources": []
     },
@@ -3885,25 +3923,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "zaozhuang-police-crack-antiquities-trafficking-case-b7ed64",
-      "title": "枣庄警方破获跨省文物倒卖案追回两千余件文物",
-      "description": "山东枣庄警方破获一起跨省倒卖文物案，抓获20余名嫌疑人，追回涉案文物2000余件，其中包括多件国家一级、二级和三级珍贵文物。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T05:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/zaozhuang-police-crack-antiquities-trafficking-case-b7ed64",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -4797,24 +4816,6 @@
         "澎湃新闻"
       ],
       "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "xie-yingying-dies-beijing-translator-b5e0ad",
-      "title": "澎湃新闻报道翻译家谢莹莹逝世，享年88岁",
-      "description": "据澎湃新闻报道，翻译家、北京外国语大学德语学院教授及博士生导师谢莹莹因病去世，于2026年11月3日在北京逝世，享年88岁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-06T14:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-06",
-      "url": "https://kaopu.news/story/2026-11-06/xie-yingying-dies-beijing-translator-b5e0ad",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "culture",
       "sourceCount": 1,
       "sources": []
     },
