@@ -1,11 +1,127 @@
 {
   "details": {
     "date": "2026-11-15",
-    "timestamp": 1794778401,
+    "timestamp": 1794786216,
     "totalPages": 1,
-    "total": 274
+    "total": 272
   },
   "stories": [
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "金融时报称黄仁勋考虑重掌英伟达",
+      "description": "英国《金融时报》援引知情人士称，黄仁勋在11月12日辞去英伟达总裁、首席执行官和董事职务数日后，已与亲信讨论重返公司的可能。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T23:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 453,
+      "sources": []
+    },
+    {
+      "id": "offshore-trust-tax-reports-exceed-1600-billion-yuan-670fb4",
+      "title": "中国离岸信托个税申报额突破1600亿元",
+      "description": "中国离岸信托收益个人所得税申报的90天过渡期已于10月22日结束。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T22:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-11",
+      "url": "https://kaopu.news/story/2026-11-11/offshore-trust-tax-reports-exceed-1600-billion-yuan-670fb4",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "联合早报",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "sanae-takaichi-li-qiang-manila-contact-limited-43a945",
+      "title": "李强抵马尼拉后与高市接触机会有限",
+      "description": "中国国务院总理李强完成泰国行程后前往菲律宾，于11月15日晚抵达马尼拉。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T22:47:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/sanae-takaichi-li-qiang-manila-contact-limited-43a945",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "vulcan-rocket-fails-to-deliver-amazon-satellites-a080e9",
+      "title": "美国“火神”火箭未能将亚马逊40颗卫星送入预定轨道",
+      "description": "美国联合发射联盟公司的“火神”运载火箭执行亚马逊卫星发射任务时发生异常，搭载的40颗宽带通信卫星未能进入预定低地轨道。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T21:34:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/vulcan-rocket-fails-to-deliver-amazon-satellites-a080e9",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ray-li-shares-book-research-process-c0a3d1",
+      "title": "Ray Li分享《张禹九传记》写作考证过程",
+      "description": "西悉尼大学作者之一 Ray Li 在 SBS 访谈中介绍了《张禹九传记》的写作缘起，以及搜集和核对史料的过程。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T21:21:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/ray-li-shares-book-research-process-c0a3d1",
+      "reference": [
+        "SBS"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "koito-plans-cut-lighting-costs-30-percent-e50c78",
+      "title": "小糸制作所计划到2030年度削减车灯制造成本三成",
+      "description": "小糸制作所计划到2030年度将车灯制造成本降低约三成，以缩小与中国厂商的价格差距。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T21:12:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/koito-plans-cut-lighting-costs-30-percent-e50c78",
+      "reference": [
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "gibran-tells-prabowo-he-plans-to-resign-76a178",
       "title": "印尼副总统吉布兰辞职获总统普拉博沃接受",
@@ -533,27 +649,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "逾11万人联署要求黄仁勋重返英伟达",
-      "description": "英伟达联合创办人黄仁勋于11月12日辞去公司总裁、首席执行官和董事职务，首席财务官科莱特·克雷斯暂代首席执行官。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T12:44:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 448,
       "sources": []
     },
     {
@@ -1994,42 +2089,6 @@
       "sources": []
     },
     {
-      "id": "gan-kim-yong-asean-integration-2d6d69",
-      "title": "颜金勇称新加坡明年将推动亚细安一体化",
-      "description": "新加坡副总理颜金勇在马尼拉接受新加坡媒体联访，谈到新加坡明年担任亚细安轮值主席国的工作方向。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T16:07:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/gan-kim-yong-asean-integration-2d6d69",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "pakistan-climate-minister-attends-india-sco-civilization-dde71f",
-      "title": "巴基斯坦气候部长将赴印度出席上合文明对话大会",
-      "description": "巴基斯坦气候变化部长马利克将于本月晚些时候前往新德里，出席上海合作组织文明对话大会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T15:38:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/pakistan-climate-minister-attends-india-sco-civilization-dde71f",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "finland-chinese-workers-trafficking-probe-f79ceb",
       "title": "芬兰中国工人协议被曝引发人口贩运调查",
       "description": "财新称，2026年夏天，芬兰电池材料厂项目的中国工人被要求签署协议，相关情况引发人口贩运刑事调查。",
@@ -2117,26 +2176,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "sanae-takaichi-li-qiang-manila-contact-limited-43a945",
-      "title": "高市早苗与李强马尼拉行程错开接触有限",
-      "description": "日本首相高市早苗与中国国务院总理李强将从11月15日起先后前往菲律宾马尼拉，参加东盟相关会议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T11:48:49+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/sanae-takaichi-li-qiang-manila-contact-limited-43a945",
-      "reference": [
-        "共同网",
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -3211,24 +3250,6 @@
       "sources": []
     },
     {
-      "id": "china-ten-month-trade-surplus-reaches-one-trillion-590b9d",
-      "title": "中国前十个月贸易顺差达到1.04万亿美元",
-      "description": "中国海关11月10日公布，前十个月进出口总额为44.81万亿元人民币，同比增长20%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T00:58:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/china-ten-month-trade-surplus-reaches-one-trillion-590b9d",
-      "reference": [
-        "SBS"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "trump-medicaid-work-rule-grace-period-1d7612",
       "title": "特朗普政府给予各州白卡工作要求六个月缓冲期",
       "description": "特朗普政府宣布为各州执行白卡（联邦医疗补助计划）工作要求设置额外六个月过渡期。",
@@ -3243,24 +3264,6 @@
         "世界日报"
       ],
       "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-firms-secure-buyback-loan-commitments-d90812",
-      "title": "再贷款利率下调后超50家A股公司获专项贷款承诺函",
-      "description": "中国人民银行下调股票回购增持再贷款利率后，A股相关专项贷款承诺函披露增加。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T00:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/china-firms-secure-buyback-loan-commitments-d90812",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -3525,25 +3528,6 @@
       ],
       "section": "us",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "taiwan-legislature-passes-parental-leave-reform-492a1b",
-      "title": "台湾立法院通过产假延长及育儿假修法",
-      "description": "台湾立法院11月13日三读通过《性别平等工作法》和《就业保险法》部分条文修正，将产假从8周延长至14周，并把育儿留职停薪的适用期限放宽至子女满9岁前。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T14:54:54+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/taiwan-legislature-passes-parental-leave-reform-492a1b",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -4838,24 +4822,6 @@
         "公视"
       ],
       "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "chinese-microdramas-enter-uk-mainstream-4f62f1",
-      "title": "中国微短剧加速进入英国主流市场",
-      "description": "中国兴起的微短剧正在英国扩大受众，并吸引本地制作公司和流媒体平台参与。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T00:20:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/chinese-microdramas-enter-uk-mainstream-4f62f1",
-      "reference": [
-        "英国广播公司"
-      ],
-      "section": "culture",
       "sourceCount": 1,
       "sources": []
     },
