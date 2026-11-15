@@ -1,11 +1,69 @@
 {
   "details": {
     "date": "2026-11-15",
-    "timestamp": 1794735886,
+    "timestamp": 1794739425,
     "totalPages": 1,
-    "total": 271
+    "total": 270
   },
   "stories": [
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "黄仁勋辞去英伟达总裁、首席执行官及董事职务",
+      "description": "黄仁勋于11月12日辞去英伟达总裁、首席执行官及董事职务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T09:48:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 445,
+      "sources": []
+    },
+    {
+      "id": "asean-china-south-china-sea-code-delay-7dadb7",
+      "title": "马来西亚称南中国海准则近九成内容达成共识",
+      "description": "马来西亚外交部长莫哈末哈山表示，亚细安与中国已就《南中国海行为准则》近九成条款、段落和措辞达成共识，谈判进入最后阶段。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T09:33:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/asean-china-south-china-sea-code-delay-7dadb7",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "taiwan-election-commission-nuclear-referendum-forum-c9e3c1",
+      "title": "台湾非核家园公投意见会聚焦供电与经济",
+      "description": "台湾中选会于11月12日和14日举行“废除非核家园”公投意见发表会，正反方代表就核电与经济发展、稳定供电及能源政策展开交锋。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T09:29:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/taiwan-election-commission-nuclear-referendum-forum-c9e3c1",
+      "reference": [
+        "公视",
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 6,
+      "sources": []
+    },
     {
       "id": "miit-seeks-comments-auto-modification-rules-e50485",
       "title": "工信部征求汽车改装管理办法意见",
@@ -119,8 +177,8 @@
     },
     {
       "id": "iranian-official-source-sirik-enemy-military-attack-8d6e02",
-      "title": "伊朗称无人机袭击巴林美军雷达，巴方称已拦截",
-      "description": "伊朗伊斯兰革命卫队称，11月15日派出六架无人机攻击巴林里法直升机基地的美军防空雷达。",
+      "title": "伊朗称无人机袭击巴林美军雷达，巴林军方称遭拦截",
+      "description": "伊朗伊斯兰革命卫队11月15日称，出动6架无人机攻击巴林里法直升机基地内的美军防空雷达，行动是为报复其所称的美国敌对行为。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -131,10 +189,11 @@
       "reference": [
         "澎湃新闻",
         "日本放送协会",
+        "法广",
         "联合早报"
       ],
       "section": "world",
-      "sourceCount": 4,
+      "sourceCount": 5,
       "sources": []
     },
     {
@@ -153,6 +212,25 @@
       ],
       "section": "asia",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "hong-kong-mplus-cancels-hou-hsiao-hsien-film-3e92f1",
+      "title": "香港M+取消侯孝贤《童年往事》两场放映",
+      "description": "香港M+博物馆取消了侯孝贤1985年电影《童年往事》的两场放映，原定场次为11月22日和12月12日。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T07:59:25+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/hong-kong-mplus-cancels-hou-hsiao-hsien-film-3e92f1",
+      "reference": [
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "culture",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -288,8 +366,8 @@
     },
     {
       "id": "korean-tax-exam-scorer-admits-ai-cheating-eae799",
-      "title": "韩国税务考试最高分考生承认使用人工智能作弊",
-      "description": "韩国国家税务师资格考试最高分考生韩某于11月15日承认，自己在考试中利用电子设备和生成式人工智能作弊。",
+      "title": "韩国税务师考试榜首承认借助AI作弊",
+      "description": "韩国今年税务师资格考试两阶段均名列第一的考生11月15日承认利用生成式人工智能作弊。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -298,10 +376,11 @@
       "publishedAt": "2026-11-15",
       "url": "https://kaopu.news/story/2026-11-15/korean-tax-exam-scorer-admits-ai-cheating-eae799",
       "reference": [
+        "法广",
         "联合早报"
       ],
       "section": "asia",
-      "sourceCount": 1,
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -323,6 +402,25 @@
       ],
       "section": "world",
       "sourceCount": 48,
+      "sources": []
+    },
+    {
+      "id": "saudi-coalition-intercepts-houthi-riyadh-missiles-6f86ec",
+      "title": "沙特联军称拦截射向利雅得的两枚导弹",
+      "description": "沙特领导的联军周日称，防空部队拦截并摧毁胡塞武装射向利雅得的两枚弹道导弹。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-15T07:02:02+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/saudi-coalition-intercepts-houthi-riyadh-missiles-6f86ec",
+      "reference": [
+        "联合早报",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -365,24 +463,6 @@
       "sources": []
     },
     {
-      "id": "hong-kong-mplus-cancels-hou-hsiao-hsien-film-3e92f1",
-      "title": "香港M+未获许可取消侯孝贤《童年往事》放映",
-      "description": "香港M+博物馆取消了原定于11月22日和12月12日放映的侯孝贤电影《童年往事》。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T06:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-15",
-      "url": "https://kaopu.news/story/2026-11-15/hong-kong-mplus-cancels-hou-hsiao-hsien-film-3e92f1",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "faa-orders-us-departure-ground-stop-2eeef2",
       "title": "FAA通信系统故障致全美航班停飞逾四小时",
       "description": "美国联邦航空管理局（FAA）因空中交通管制通信系统故障，于11月13日下令全美机场暂停航班起飞。",
@@ -401,27 +481,6 @@
       ],
       "section": "us",
       "sourceCount": 44,
-      "sources": []
-    },
-    {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "黄仁勋辞职后美国国会审查对华芯片政策",
-      "description": "黄仁勋于2026年11月12日辞去辉达总裁、首席执行官和董事职务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T06:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 443,
       "sources": []
     },
     {
@@ -888,24 +947,6 @@
       "sources": []
     },
     {
-      "id": "saudi-coalition-intercepts-houthi-riyadh-missiles-6f86ec",
-      "title": "沙特联军称拦截胡塞武装射向利雅得的两枚导弹",
-      "description": "沙特领导的联军称，胡塞武装射向首都利雅得的两枚弹道导弹已被防空系统击落。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T04:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-15",
-      "url": "https://kaopu.news/story/2026-11-15/saudi-coalition-intercepts-houthi-riyadh-missiles-6f86ec",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "brazil-reports-first-mpox-death-3f0667",
       "title": "巴西今年报告出现首例M痘死亡病例",
       "description": "克鲁斯基金会11月14日发布的报告显示，巴西今年已确诊1009例M痘病例，首例相关死亡发生在里约热内卢。",
@@ -1353,25 +1394,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-election-commission-nuclear-referendum-forum-c9e3c1",
-      "title": "台湾中选会举行非核家园公投第二场意见会",
-      "description": "台湾中选会11月14日晚举行“废除非核家园”公投第二场意见发表会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T14:15:35+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/taiwan-election-commission-nuclear-referendum-forum-c9e3c1",
-      "reference": [
-        "公视",
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -3872,24 +3894,6 @@
       "sources": []
     },
     {
-      "id": "chen-xi-says-japan-challenges-postwar-order-584b1f",
-      "title": "陈曦指日本右翼行径挑衅战后国际秩序",
-      "description": "中国国防部新闻发言人陈曦11月13日下午回应日本近期安保政策动向，批评日本右翼势力借所谓“中国威胁论”推动防卫开支增长，并增强进攻作战和远程打击能力。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T07:34:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/chen-xi-says-japan-challenges-postwar-order-584b1f",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "airbus-a350-ulr-breaks-flight-distance-record-dc34d8",
       "title": "空客A350-1000ULR创商用客机最远飞行纪录",
       "description": "空中客车A350-1000ULR完成创纪录飞行，以1万4388英里（约2万3155公里）刷新商业客机飞行距离的吉尼斯世界纪录。",
@@ -4999,24 +5003,6 @@
       "url": "https://kaopu.news/story/2026-11-02/table-tennis-fake-streams-push-products-b1bbdc",
       "reference": [
         "澎湃新闻"
-      ],
-      "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "golden-state-valkyries-win-wnba-title-6a0e24",
-      "title": "金州女武神击败美梦首夺WNBA总冠军",
-      "description": "10月31日，金州女武神在WNBA总冠军赛第七战以68比63战胜亚特兰大美梦，首次夺得队史总冠军。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-01T09:10:05+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-01",
-      "url": "https://kaopu.news/story/2026-11-01/golden-state-valkyries-win-wnba-title-6a0e24",
-      "reference": [
-        "中央通訊社"
       ],
       "section": "sports",
       "sourceCount": 1,
