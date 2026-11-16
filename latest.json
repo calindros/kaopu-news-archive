@@ -1,19 +1,19 @@
 {
   "details": {
     "date": "2026-11-16",
-    "timestamp": 1794810581,
+    "timestamp": 1794815107,
     "totalPages": 1,
-    "total": 266
+    "total": 267
   },
   "stories": [
     {
       "id": "china-october-economic-data-miss-forecasts-80b722",
-      "title": "国家统计局公布10月经济数据，工业增速回落",
-      "description": "国家统计局11月16日公布的2026年10月国民经济数据显示，工业生产和消费销售增速放慢，前十个月固定资产投资降幅扩大。",
+      "title": "中国前十月固定资产投资同比下降8.1%",
+      "description": "中国国家统计局11月16日公布2026年10月国民经济数据。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-16T05:28:00+00:00",
+      "updatedAt": "2026-11-16T06:19:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-16",
       "url": "https://kaopu.news/story/2026-11-16/china-october-economic-data-miss-forecasts-80b722",
@@ -24,7 +24,238 @@
         "财新"
       ],
       "section": "business",
-      "sourceCount": 14,
+      "sourceCount": 17,
+      "sources": []
+    },
+    {
+      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "title": "习近平、普京和特朗普将于深圳举行首次三方会晤",
+      "description": "中国外交部发言人11月16日宣布，国家主席习近平将于11月19日在深圳与俄罗斯总统弗拉基米尔·普京、美国总统唐纳德·特朗普举行中俄美元首会晤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:15:15+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "日经",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 66,
+      "sources": []
+    },
+    {
+      "id": "us-flu-season-starts-early-spreads-south-west-3725ae",
+      "title": "美国流感季提前来临并向南部和西部扩散",
+      "description": "美国流感季较往年提前启动，近期病例在南部和西部增加。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/us-flu-season-starts-early-spreads-south-west-3725ae",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "paho-revokes-us-measles-elimination-status-49259c",
+      "title": "泛美卫生组织撤销美国麻疹消除地位",
+      "description": "泛美卫生组织（PAHO）于11月13日撤销美国的麻疹消除认定，美国自2000年起保持的约26年纪录由此告终。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/paho-revokes-us-measles-elimination-status-49259c",
+      "reference": [
+        "德国之声",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "delray-beach-cancels-2027-parades-a2286c",
+      "title": "佛州德尔雷滩取消2027年圣帕特里克节及同志游行",
+      "description": "佛罗里达州德尔雷滩市政府宣布，2027年将取消圣帕特里克节游行和年度同志游行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:00:51+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/delray-beach-cancels-2027-parades-a2286c",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "deepseek-limits-long-chat-daily-usage-21ef3a",
+      "title": "DeepSeek因算力不足收紧对话使用限制",
+      "description": "DeepSeek近日以算力不足为由收紧对话服务限制，包括不再支持长期闲置的长对话，并将单次输入上限设为4万字。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:00:35+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/deepseek-limits-long-chat-daily-usage-21ef3a",
+      "reference": [
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-nhsa-to-release-dual-drug-catalogs-5877bb",
+      "title": "药明巨诺CAR-T医保支付标准定为28.86万元",
+      "description": "药明巨诺的瑞基奥仑赛注射液（商品名倍诺达）纳入2026年国家基本医保目录，成为首个且目前唯一进入基本医保目录的CAR-T药物。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T05:59:38.358666+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/china-nhsa-to-release-dual-drug-catalogs-5877bb",
+      "reference": [
+        "第一财经",
+        "澎湃新闻",
+        "联合早报",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 22,
+      "sources": []
+    },
+    {
+      "id": "taiwan-stocks-fall-below-43000-9bc68d",
+      "title": "台股收盘下跌2635.04点创历史第二大跌点",
+      "description": "台北股市周一收盘大幅下跌，加权指数报41040.08点，较前一交易日下跌2635.04点，跌幅6.03%；收盘点位为当天最低，收盘跌点排名历史第二。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T05:57:29+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/taiwan-stocks-fall-below-43000-9bc68d",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "taiwan-counts-fetuses-social-housing-priority-58202a",
+      "title": "台湾内政部将胎儿纳入社宅承租排序",
+      "description": "台湾内政部11月11日发布并施行一项办法，明确育有未成年子女的家庭承租该部兴办社会住宅时的排序规则：申请人或配偶的未成年子女与胎儿合并计算，人数较多者优先承租。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T05:37:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/taiwan-counts-fetuses-social-housing-priority-58202a",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "马斯克等硅谷人士联署呼吁黄仁勋复职",
+      "description": "埃隆·马斯克及多名硅谷人士支持一封要求英伟达董事会让黄仁勋复任首席执行官的公开信。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T05:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 467,
+      "sources": []
+    },
+    {
+      "id": "xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
+      "title": "习近平将主持深圳APEC领导人会议",
+      "description": "亚太经合组织第三十三次领导人非正式会议定于11月18日至19日在深圳举行，中国国家主席习近平将主持会议并发表讲话。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T05:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "澎湃新闻",
+        "共同网"
+      ],
+      "section": "china",
+      "sourceCount": 20,
+      "sources": []
+    },
+    {
+      "id": "czechs-protest-public-media-funding-reform-60f135",
+      "title": "捷克数十万人示威反对公共媒体经费改革",
+      "description": "捷克公民团体“民主百万时刻”11月15日在布拉格莱特纳公园举行示威，反对政府调整公共媒体经费制度。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T05:25:39+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/czechs-protest-public-media-funding-reform-60f135",
+      "reference": [
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "jo-yong-won-delegation-arrives-moscow-4fa6e0",
+      "title": "赵甬元率朝鲜党政代表团抵达莫斯科",
+      "description": "朝鲜劳动党中央委员会书记赵甬元率朝鲜党和政府代表团访俄，代表团已抵达莫斯科。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T05:23:48+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/jo-yong-won-delegation-arrives-moscow-4fa6e0",
+      "reference": [
+        "韩国国际广播电台"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -45,6 +276,61 @@
       ],
       "section": "business",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "bessent-demands-nvidia-clarify-china-chip-legality-3af6b9",
+      "title": "贝森特要求英伟达十日内说明对华芯片销售是否合法",
+      "description": "美国财政部长贝森特在电视专访中要求英伟达董事会和外部律师在10天内说明，公司是否为追求营收和利润而向中国进行涉嫌违法的芯片销售。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T05:20:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/bessent-demands-nvidia-clarify-china-chip-legality-3af6b9",
+      "reference": [
+        "公视"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nvidia-seeks-taiwan-help-smuggling-case-acb765",
+      "title": "基隆检方起诉9人涉将辉达AI服务器走私至中国大陆",
+      "description": "台湾基隆地方检察署8月24日起诉9人，指控他们通过第三地转运，将74台搭载辉达B300芯片的AI服务器非法售往中国大陆。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T05:17:56+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/nvidia-seeks-taiwan-help-smuggling-case-acb765",
+      "reference": [
+        "联合早报",
+        "公视"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "hassan-karim-police-questioning-d89160",
+      "title": "哈山卡林称因马来诗网上流传受警方传召",
+      "description": "据当今大马报道，公正党巴西古当国会议员哈山卡林称，他在社交媒体发布马来诗《微臣不甘》（Patik Tak Rela）；他称事情缘于该诗在网上流传。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T05:07:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/hassan-karim-police-questioning-d89160",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -166,27 +452,6 @@
       "sources": []
     },
     {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "支持者请愿要求黄仁勋回归英伟达",
-      "description": "黄仁勋辞去英伟达首席执行官职务后，黄仁勋辞职后，支持者发起网络请愿，呼吁他回归英伟达。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T04:53:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 461,
-      "sources": []
-    },
-    {
       "id": "asean-signs-enhanced-power-grid-mou-ca96b7",
       "title": "东盟成员国签署增强版电网合作备忘录",
       "description": "东盟成员国已签署《东盟电网增强版合作备忘录》，为发展跨境电力基础设施和多边电力交易建立合作框架。",
@@ -205,24 +470,22 @@
       "sources": []
     },
     {
-      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "title": "中方确认中美俄元首将于深圳举行首次会晤",
-      "description": "中国外交部11月16日确认，习近平、美国总统唐纳德·特朗普和俄罗斯总统弗拉基米尔·普京定于11月19日在深圳举行三方会晤。",
+      "id": "china-hog-prices-hit-decade-low-facabe",
+      "title": "中国外三元生猪均价跌至十年新低",
+      "description": "中国全国外三元生猪均价上周跌至每公斤人民币8.63元，刷新十年低点，也低于4月中旬的此前低点。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-16T04:27:00+00:00",
+      "updatedAt": "2026-11-16T04:27:14+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/china-hog-prices-hit-decade-low-facabe",
       "reference": [
-        "韩国国际广播电台",
         "联合早报",
-        "日经",
-        "澎湃新闻"
+        "中央通訊社"
       ],
-      "section": "world",
-      "sourceCount": 64,
+      "section": "business",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -302,24 +565,6 @@
       "sources": []
     },
     {
-      "id": "deepseek-limits-long-chat-daily-usage-21ef3a",
-      "title": "DeepSeek因算力不足限制长对话，另有限制每日额度",
-      "description": "据《联合早报》援引《科创板日报》报道，DeepSeek因算力不足限制网页端和应用端的长对话；另据用户反馈，平台还限制每日使用额度。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T03:57:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/deepseek-limits-long-chat-daily-usage-21ef3a",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-asean-trade-upgrade-protocol-takes-effect-59f144",
       "title": "中国与东盟自贸区3.0版升级议定书定于12月生效",
       "description": "中国与东盟自由贸易区3.0版升级议定书将从2026年12月1日起施行。",
@@ -334,24 +579,6 @@
         "澎湃新闻"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "shen-po-yang-leads-chiang-wan-an-630c6a",
-      "title": "信民协会台北民调显示沈伯洋领先蒋万安",
-      "description": "信民协会公布的台北市长选情民调显示，民进党参选人沈伯洋支持度为48.6%，领先寻求连任的国民党籍市长蒋万安（33.8%）14.8个百分点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T03:54:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/shen-po-yang-leads-chiang-wan-an-630c6a",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -520,21 +747,23 @@
       "sources": []
     },
     {
-      "id": "taiwan-stocks-fall-below-43000-9bc68d",
-      "title": "台股盘中重挫逾1800点跌破42000点",
-      "description": "台湾股市16日盘中加权指数一度跌至41802点，跌逾1800点，失守42000点和约42482点的10日线。",
+      "id": "estonia-thwarts-russian-directed-drone-factory-arson-2c0914",
+      "title": "爱沙尼亚称拘留八人挫败俄军事情报机构纵火案",
+      "description": "爱沙尼亚称，11月14日凌晨，有人企图纵火破坏位于塔林以北维姆西的国防企业Threod Systems工厂；8名居住在拉脱维亚的人员因涉嫌与案件有关被拘留。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-16T03:13:54+00:00",
+      "updatedAt": "2026-11-16T03:03:41+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/taiwan-stocks-fall-below-43000-9bc68d",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/estonia-thwarts-russian-directed-drone-factory-arson-2c0914",
       "reference": [
-        "中央通訊社"
+        "联合早报",
+        "澎湃新闻",
+        "法广"
       ],
-      "section": "asia",
-      "sourceCount": 2,
+      "section": "world",
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -601,7 +830,7 @@
     {
       "id": "japan-q3-gdp-falls-annualized-rate-b692df",
       "title": "日本三季度实际GDP年率下降0.1%",
-      "description": "日本内阁府16日公布的初值显示，2026年7月至9月日本实际GDP环比减少0.02%，按年率计算下降0.1%，为四个季度以来首次负增长，表现低于市场预期。",
+      "description": "日本内阁府公布的2026年第三季度（7月至9月）GDP初值显示，实际GDP较上一季度下降0.02%，按年率计算下降0.1%，这是过去四个季度中首次录得负增长，结果低于市场此前的正增长预期。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -612,10 +841,11 @@
       "reference": [
         "共同网",
         "日经",
-        "中央通訊社"
+        "中央通訊社",
+        "法广"
       ],
       "section": "business",
-      "sourceCount": 6,
+      "sourceCount": 7,
       "sources": []
     },
     {
@@ -997,24 +1227,6 @@
       "sources": []
     },
     {
-      "id": "us-flu-season-starts-early-spreads-south-west-3725ae",
-      "title": "美国流感季提前开始并扩散至南部西部",
-      "description": "美国今年流感季提前开始，疫情已在南部和西部扩散。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T01:10:42+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/us-flu-season-starts-early-spreads-south-west-3725ae",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "lawrence-wong-asean-haze-accountability-fe23d4",
       "title": "印尼总统普拉博沃就跨境烟霾向新马致歉",
       "description": "11月15日，印度尼西亚总统普拉博沃在菲律宾马尼拉出席东盟峰会期间，代表印尼政府和人民，就当地森林及土地火灾造成的跨境烟霾向新加坡和马来西亚民众致歉。",
@@ -1177,42 +1389,6 @@
         "公视"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-hog-prices-hit-decade-low-facabe",
-      "title": "中国外三元生猪均价跌至十年最低水平",
-      "description": "上周，中国全国外三元生猪均价为每公斤8.63元（每斤4.31元），创十年新低，低于4月中旬水平。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T00:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/china-hog-prices-hit-decade-low-facabe",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nvidia-seeks-taiwan-help-smuggling-case-acb765",
-      "title": "英伟达据报就员工涉走私案向台湾官员求助",
-      "description": "英伟达据报曾就一名张姓经理涉嫌协助将装有该公司芯片的服务器运往中国大陆一事，向台湾官员表达关切并请求协助。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T00:41:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/nvidia-seeks-taiwan-help-smuggling-case-acb765",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "ai",
       "sourceCount": 1,
       "sources": []
     },
@@ -1572,25 +1748,6 @@
       "sources": []
     },
     {
-      "id": "estonia-thwarts-russian-directed-drone-factory-arson-2c0914",
-      "title": "爱沙尼亚将关闭与俄罗斯所有边境口岸",
-      "description": "爱沙尼亚外长查赫克纳11月15日宣布，该国将从12月1日起关闭与俄罗斯之间的所有边境口岸。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T17:35:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-15",
-      "url": "https://kaopu.news/story/2026-11-15/estonia-thwarts-russian-directed-drone-factory-arson-2c0914",
-      "reference": [
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "ft-reports-nvidia-contact-arm-ceo-haas-9cde5c",
       "title": "贝森特要求辉达从外部寻找黄仁勋继任者",
       "description": "美国财政部长斯科特·贝森特11月15日要求辉达从公司外部寻找黄仁勋的继任者，并要求辉达董事会及外聘法律顾问在10天内回答有关公司出口管制合规文化的问题。",
@@ -1761,24 +1918,6 @@
       "sources": []
     },
     {
-      "id": "guinea-deports-1557-illegal-gold-miners-e933d3",
-      "title": "法新社称几内亚驱逐1557名非法采金者",
-      "description": "法新社援引几内亚司法与安全部门消息人士称，几内亚当局近日将1557名因非法采金被捕并定罪的西非国家公民驱逐出境。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T14:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-15",
-      "url": "https://kaopu.news/story/2026-11-15/guinea-deports-1557-illegal-gold-miners-e933d3",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "hospitals-reorganize-emergency-services-855999",
       "title": "多地医院调整院区急诊接诊服务安排",
       "description": "多地医院通过关闭部分院区急诊、转移患者就诊点或整合急救人员，调整急诊服务配置。",
@@ -1811,24 +1950,6 @@
         "联合早报"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "romania-black-sea-ships-hit-drones-68c6e5",
-      "title": "三艘商船在罗马尼亚附近黑海遭无人机击中",
-      "description": "罗马尼亚总理尼库列斯库说，三艘商船于11月14日深夜在靠近苏利纳运河的黑海水域遭无人机击中。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T13:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-15",
-      "url": "https://kaopu.news/story/2026-11-15/romania-black-sea-ships-hit-drones-68c6e5",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -1923,27 +2044,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
-      "title": "习近平将主持深圳APEC第三十三次领导人会议",
-      "description": "亚太经济合作组织（APEC）第三十三次领导人非正式会议定于11月18日至19日在深圳举行，中国国家主席习近平将主持会议并发表讲话。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T11:30:47.669911+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "澎湃新闻",
-        "共同网"
-      ],
-      "section": "china",
-      "sourceCount": 12,
       "sources": []
     },
     {
@@ -2606,24 +2706,6 @@
       "sources": []
     },
     {
-      "id": "four-brokerages-face-regulatory-penalties-7be973",
-      "title": "四家券商因多项违规受到监管处罚",
-      "description": "11月11日至14日，针对国盛证券、湘财证券、中信证券和申港证券的多项监管决定陆续作出或披露，涉及从业人员违规交易、经纪业务及账户管理、员工推介非代销产品和分支机构管理等问题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T05:07:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-15",
-      "url": "https://kaopu.news/story/2026-11-15/four-brokerages-face-regulatory-penalties-7be973",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "biden-says-cancer-would-end-reelection-bid-0ec6ab",
       "title": "拜登新回忆录将于17日出版并披露白宫内幕",
       "description": "美国前总统乔·拜登的480页回忆录《答应我，美国》（Promise Me, America）定于11月17日出版。",
@@ -2733,25 +2815,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "paho-revokes-us-measles-elimination-status-49259c",
-      "title": "泛美卫生组织据报撤销美国麻疹消除认定",
-      "description": "据德国之声援引《华尔街日报》及知情人士的报道，泛美卫生组织（PAHO）已撤销美国的麻疹消除认定，结束美国自2000年起保持的26年纪录；世界日报也援引知情人士报道了这一决定。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T23:23:22+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/paho-revokes-us-measles-elimination-status-49259c",
-      "reference": [
-        "德国之声",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3676,25 +3739,6 @@
       "sources": []
     },
     {
-      "id": "us-court-authorizes-binance-asset-freeze-83cdf2",
-      "title": "美司法部获准冻结币安案逾12亿美元资产",
-      "description": "美国司法部11月12日表示，已获法院授权，可扣押或冻结币安加密货币盗窃案中逾12亿美元相关资产；司法部还宣布查封朝鲜黑客行动FaceStealer使用的云端基础设施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T15:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/us-court-authorizes-binance-asset-freeze-83cdf2",
-      "reference": [
-        "联合早报",
-        "德国之声"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "huang-megaspeed-nvidia-chips-shipped-china-e85916",
       "title": "黄乐关联的Megaspeed被指将辉达芯片运往中国",
       "description": "法新社报道，黄乐曾任董事的云计算公司Megaspeed被指以东南亚数据中心采购电脑硬件为掩护，将辉达芯片运往中国，协助北京规避贸易限制。",
@@ -3857,24 +3901,6 @@
         "澎湃新闻"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "singapore-ai-jobs-layoffs-apprenticeships-fbb3a2",
-      "title": "刘洁敏称人工智能尚未引发裁员潮",
-      "description": "新加坡人力部代部长、数码发展及新闻部高级政务部长刘洁敏在接受《联合早报》采访时说，人工智能尚未造成外界担心的大规模裁员，现阶段对就业的影响更多表现为企业放慢招聘或更加谨慎。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T10:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/singapore-ai-jobs-layoffs-apprenticeships-fbb3a2",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "ai",
       "sourceCount": 1,
       "sources": []
     },
