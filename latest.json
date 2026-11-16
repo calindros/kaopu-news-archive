@@ -1,11 +1,249 @@
 {
   "details": {
     "date": "2026-11-16",
-    "timestamp": 1794806176,
+    "timestamp": 1794810581,
     "totalPages": 1,
-    "total": 268
+    "total": 266
   },
   "stories": [
+    {
+      "id": "china-october-economic-data-miss-forecasts-80b722",
+      "title": "国家统计局公布10月经济数据，工业增速回落",
+      "description": "国家统计局11月16日公布的2026年10月国民经济数据显示，工业生产和消费销售增速放慢，前十个月固定资产投资降幅扩大。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T05:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/china-october-economic-data-miss-forecasts-80b722",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "联合早报",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "fed-report-ai-boosts-stock-valuations-5d9875",
+      "title": "美联储称人工智能风险成金融稳定首要隐忧",
+      "description": "美国联邦储备委员会11月13日发布半年一度的《金融稳定报告》，称人工智能相关风险已成为受访者最常提及的未来12至18个月美国金融稳定隐患。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T05:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/fed-report-ai-boosts-stock-valuations-5d9875",
+      "reference": [
+        "第一财经",
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "intel-shareholders-sue-over-pc-sales-impact-f09dd8",
+      "title": "英特尔遭股东提起证券欺诈集体诉讼",
+      "description": "英特尔遭投资者提起拟议证券欺诈集体诉讼。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T05:01:35.954412+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/intel-shareholders-sue-over-pc-sales-impact-f09dd8",
+      "reference": [
+        "中央通訊社",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "takaichi-to-attend-asean-apec-summits-4edebc",
+      "title": "高市早苗启程访问菲律宾和中国出席峰会",
+      "description": "日本首相高市早苗已于11月16日上午从东京羽田机场乘政府专机前往菲律宾马尼拉，随后将赴中国深圳。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T04:55:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-09",
+      "url": "https://kaopu.news/story/2026-11-09/takaichi-to-attend-asean-apec-summits-4edebc",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "日经",
+        "日本放送协会"
+      ],
+      "section": "asia",
+      "sourceCount": 22,
+      "sources": []
+    },
+    {
+      "id": "asean-china-south-china-sea-code-delay-7dadb7",
+      "title": "东盟与中国未能按计划完成南海行为准则谈判",
+      "description": "东盟与中国在11月15日于马尼拉举行的东盟峰会期间，未能按菲律宾原定目标在年内敲定《南海行为准则》。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T04:53:56+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/asean-china-south-china-sea-code-delay-7dadb7",
+      "reference": [
+        "联合早报",
+        "日本放送协会"
+      ],
+      "section": "china",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "iranian-official-source-sirik-enemy-military-attack-8d6e02",
+      "title": "伊朗称六架无人机袭击巴林美军雷达",
+      "description": "伊朗伊斯兰革命卫队称，出动6架无人机攻击巴林里法直升机基地内的美军防空雷达，并称此举是对美国敌对行动的报复。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T04:53:39+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/iranian-official-source-sirik-enemy-military-attack-8d6e02",
+      "reference": [
+        "澎湃新闻",
+        "日本放送协会",
+        "法广",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "yemen-forces-withdraw-bab-el-mandeb-houthis-control-836c27",
+      "title": "也门政府军撤出曼德海峡周边地区转守亚丁",
+      "description": "也门政府军11月15日证实，已撤出曼德海峡周边地区，并将部队重新部署至亚丁及邻近省份加强防御。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T04:53:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/yemen-forces-withdraw-bab-el-mandeb-houthis-control-836c27",
+      "reference": [
+        "联合早报",
+        "公视",
+        "日本放送协会"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "japan-ukraine-remote-rubble-clearing-test-82c68d",
+      "title": "日本援助乌克兰启动远程清理瓦砾测试",
+      "description": "日本政府通过联合国开发计划署援助乌克兰，开展远程操控工程机械清理瓦砾的测试。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T04:53:23+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/japan-ukraine-remote-rubble-clearing-test-82c68d",
+      "reference": [
+        "日本放送协会"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "支持者请愿要求黄仁勋回归英伟达",
+      "description": "黄仁勋辞去英伟达首席执行官职务后，黄仁勋辞职后，支持者发起网络请愿，呼吁他回归英伟达。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T04:53:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 461,
+      "sources": []
+    },
+    {
+      "id": "asean-signs-enhanced-power-grid-mou-ca96b7",
+      "title": "东盟成员国签署增强版电网合作备忘录",
+      "description": "东盟成员国已签署《东盟电网增强版合作备忘录》，为发展跨境电力基础设施和多边电力交易建立合作框架。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T04:50:38+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/asean-signs-enhanced-power-grid-mou-ca96b7",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "title": "中方确认中美俄元首将于深圳举行首次会晤",
+      "description": "中国外交部11月16日确认，习近平、美国总统唐纳德·特朗普和俄罗斯总统弗拉基米尔·普京定于11月19日在深圳举行三方会晤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T04:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "日经",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 64,
+      "sources": []
+    },
+    {
+      "id": "ivonescimab-us-fda-application-rejected-503c52",
+      "title": "美国FDA未批准康方依沃西二线肺癌申请",
+      "description": "美国食品药品监督管理局（FDA）未批准康方生物与Summit Therapeutics合作开发的依沃西，用于第三代EGFR-TKI治疗后进展的EGFR突变非鳞状非小细胞肺癌二线治疗。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T04:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/ivonescimab-us-fda-application-rejected-503c52",
+      "reference": [
+        "第一财经",
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
     {
       "id": "cctv-investigation-construction-waste-farmland-68b845",
       "title": "央视曝光建筑垃圾侵占农田后两地启动调查",
@@ -25,24 +263,21 @@
       "sources": []
     },
     {
-      "id": "china-october-economic-data-miss-forecasts-80b722",
-      "title": "国家统计局公布10月国民经济运行数据",
-      "description": "国家统计局11月16日公布的数据显示，2026年10月规模以上工业增加值同比实际增长4.8%，社会消费品零售总额同比增长0.4%；1—10月固定资产投资（不含农户）同比下降8.1%。",
+      "id": "south-korea-leads-china-imports-six-months-f35b8e",
+      "title": "韩国连续六个月成为中国最大进口来源国",
+      "description": "韩国今年4月至9月连续六个月成为中国最大进口来源国。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-16T03:58:00+00:00",
+      "updatedAt": "2026-11-16T04:09:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/china-october-economic-data-miss-forecasts-80b722",
+      "url": "https://kaopu.news/story/2026-11-16/south-korea-leads-china-imports-six-months-f35b8e",
       "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "联合早报",
-        "财新"
+        "联合早报"
       ],
       "section": "business",
-      "sourceCount": 10,
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -118,47 +353,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "据报黄仁勋与盟友商讨重返英伟达",
-      "description": "英伟达前首席执行官黄仁勋据报正与盟友商讨重返公司。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T03:49:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 460,
-      "sources": []
-    },
-    {
-      "id": "jensen-huang-shenzhen-trump-xi-tech-security-8100c1",
-      "title": "黄仁勋被曝婚外情后辞去英伟达首席执行官职务",
-      "description": "英伟达首席执行官黄仁勋近日在多段婚外情被曝光后辞职，其中一段关系涉及黄乐（Alice Huang）。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T03:48:54+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/jensen-huang-shenzhen-trump-xi-tech-security-8100c1",
-      "reference": [
-        "联合早报",
-        "世界日报",
-        "纽约时报"
-      ],
-      "section": "china",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -252,6 +446,24 @@
       "sources": []
     },
     {
+      "id": "data-center-firms-lose-4-trillion-market-value-d990f7",
+      "title": "数据中心相关企业自6月来市值蒸发4.2万亿美元",
+      "description": "市场对人工智能热潮的信心转弱，通常被视为数据中心建设受益者的全球制造业、公用事业和矿业企业遭遇抛售，自6月以来合计市值减少4.2万亿美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T03:23:20+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/data-center-firms-lose-4-trillion-market-value-d990f7",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "china-consumer-association-urges-platforms-tighten-apparel-a9f871",
       "title": "中消协要求电商平台严管网购服装商家",
       "description": "中国消费者协会要求电商平台加强网购服装经营管理，针对商家宣传、商品质量和售后环节采取措施。",
@@ -323,27 +535,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "title": "中国确认习特普深圳举行首次三方会晤",
-      "description": "中国外交部11月16日确认，国家主席习近平将于11月19日在深圳与美国总统特朗普、俄罗斯总统普京举行会晤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T03:06:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "reference": [
-        "韩国国际广播电台",
-        "联合早报",
-        "日经",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 62,
       "sources": []
     },
     {
@@ -467,24 +658,21 @@
       "sources": []
     },
     {
-      "id": "takaichi-to-attend-asean-apec-summits-4edebc",
-      "title": "高市早苗将访问菲律宾和中国出席地区峰会",
-      "description": "日本首相高市早苗将于11月16日至19日访问菲律宾和中国，出席菲律宾举行的东盟相关会议，并赴深圳参加亚太经合组织（APEC）领导人会议。",
+      "id": "lai-seeks-taipower-budget-support-affb18",
+      "title": "赖建信争取立法委员支持拨款补助台电711亿元",
+      "description": "台湾经济部次长赖建信表示，经济部将争取台湾立法委员支持行政院追加预算案，为台电安排新台币711亿元补助。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-16T02:28:22+00:00",
+      "updatedAt": "2026-11-16T02:27:24+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/takaichi-to-attend-asean-apec-summits-4edebc",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/lai-seeks-taipower-budget-support-affb18",
       "reference": [
-        "共同网",
-        "联合早报",
-        "日经",
-        "日本放送协会"
+        "中央通訊社"
       ],
       "section": "asia",
-      "sourceCount": 18,
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -677,24 +865,6 @@
       ],
       "section": "business",
       "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "ivonescimab-us-fda-application-rejected-503c52",
-      "title": "康方生物依沃西美国上市申请未获FDA批准",
-      "description": "康方生物自主研发的依沃西联合化疗方案在美国的上市申请未获FDA批准。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T01:38:46.961959+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/ivonescimab-us-fda-application-rejected-503c52",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1029,24 +1199,6 @@
       "sources": []
     },
     {
-      "id": "intel-shareholders-sue-over-pc-sales-impact-f09dd8",
-      "title": "英特尔股东提起集体诉讼指控隐瞒PC销售冲击",
-      "description": "英特尔股东已向美国加州圣何塞联邦法院提起拟议集体诉讼，指控公司没有及时披露PC销售放缓和库存过剩对收入的影响。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T00:47:37+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/intel-shareholders-sue-over-pc-sales-impact-f09dd8",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "nvidia-seeks-taiwan-help-smuggling-case-acb765",
       "title": "英伟达据报就员工涉走私案向台湾官员求助",
       "description": "英伟达据报曾就一名张姓经理涉嫌协助将装有该公司芯片的服务器运往中国大陆一事，向台湾官员表达关切并请求协助。",
@@ -1117,25 +1269,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "yemen-forces-withdraw-bab-el-mandeb-houthis-control-836c27",
-      "title": "也门政府军撤出曼德海峡周边转守亚丁",
-      "description": "胡塞武装向也门国际承认政府的临时所在地亚丁推进之际，也门政府军15日证实撤出曼德海峡周边，并将兵力调往亚丁及邻近省份加强防御。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T00:27:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-15",
-      "url": "https://kaopu.news/story/2026-11-15/yemen-forces-withdraw-bab-el-mandeb-houthis-control-836c27",
-      "reference": [
-        "联合早报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1736,24 +1869,6 @@
       "sources": []
     },
     {
-      "id": "iran-hormuz-route-deal-coastal-states-3f2ea6",
-      "title": "伊朗称与两沿岸国达成霍尔木兹海峡航道协议",
-      "description": "伊朗议会国家安全与外交政策委员会发言人卡什卡维11月15日宣布，伊朗已完成霍尔木兹海峡通行航道方案审议，并与两个沿岸国家达成航道协议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T12:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-15",
-      "url": "https://kaopu.news/story/2026-11-15/iran-hormuz-route-deal-coastal-states-3f2ea6",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-bond-stock-financing-surpasses-loans-4e8275",
       "title": "中国10月人民币贷款净减1000亿元",
       "description": "中国人民银行11月13日公布的数据显示，2026年前十个月人民币贷款累计增加11.42万亿元，比上年同期少3.55万亿元；10月当月贷款净减少1000亿元，较去年同月多减3200亿元。",
@@ -1772,27 +1887,6 @@
       ],
       "section": "business",
       "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "zelensky-says-us-raised-donbas-withdrawal-nato-f4ebd1",
-      "title": "泽连斯基称美方探询乌撤出顿巴斯换北约",
-      "description": "乌克兰总统泽连斯基称，美国谈判代表首次询问乌克兰是否愿意撤出顿巴斯，以换取加入北约的资格。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T12:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/zelensky-says-us-raised-donbas-withdrawal-nato-f4ebd1",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "法广",
-        "德国之声"
-      ],
-      "section": "world",
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -1996,24 +2090,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "asean-china-south-china-sea-code-delay-7dadb7",
-      "title": "马来西亚称南中国海准则近九成内容达成共识",
-      "description": "马来西亚外交部长莫哈末哈山表示，亚细安与中国已就《南中国海行为准则》近九成条款、段落和措辞达成共识，谈判进入最后阶段。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T09:33:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/asean-china-south-china-sea-code-delay-7dadb7",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2624,24 +2700,6 @@
       "sources": []
     },
     {
-      "id": "china-medical-insurance-backs-drug-innovation-73afef",
-      "title": "章轲提出医保支持医药创新六大举措",
-      "description": "国家医保局局长章轲11月14日在2026年创新药高质量发展大会上提出，医保支持医药创新将聚焦资金供给、价格体系、价值评价、支付安排、数据应用和支付渠道六方面。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T02:24:44.420456+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-15",
-      "url": "https://kaopu.news/story/2026-11-15/china-medical-insurance-backs-drug-innovation-73afef",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "cities-adjust-parking-fees-fb69ba",
       "title": "多地优化停车收费降低短停与夜间停车负担",
       "description": "上海、湖南、广州、济南、银川等地近期调整停车收费安排，推出按分钟计费、短时免费、夜间优惠和居民包月等做法，着眼于减少临时停车支出并减轻居民停车成本。",
@@ -2657,27 +2715,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-nhsa-to-release-dual-drug-catalogs-5877bb",
-      "title": "国家医保局公布新版医保目录新增107种药品",
-      "description": "中国国家医保局公布2026年国家基本医保药品目录和商业健康保险创新药品目录调整结果。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T01:00:58.642367+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/china-nhsa-to-release-dual-drug-catalogs-5877bb",
-      "reference": [
-        "第一财经",
-        "澎湃新闻",
-        "联合早报",
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 21,
       "sources": []
     },
     {
@@ -2736,24 +2773,6 @@
       "sources": []
     },
     {
-      "id": "finland-chinese-workers-trafficking-probe-f79ceb",
-      "title": "芬兰中国工人协议被曝引发人口贩运调查",
-      "description": "财新称，2026年夏天，芬兰电池材料厂项目的中国工人被要求签署协议，相关情况引发人口贩运刑事调查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T15:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/finland-chinese-workers-trafficking-probe-f79ceb",
-      "reference": [
-        "财新"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "prabowo-seeks-70-percent-mining-permit-state-share-bac662",
       "title": "普拉博沃主张采矿准证管理收益至少七成归国家",
       "description": "印度尼西亚总统普拉博沃提出，采矿准证管理收益至少七成应归国家；必要时，国家还应取得相关采矿股份的控制权。",
@@ -2790,24 +2809,6 @@
       "sources": []
     },
     {
-      "id": "nissan-china-joint-venture-car-exports-1d8f06",
-      "title": "日产计划年内向30多个国家出口合资车型",
-      "description": "日产计划于2026年让中国合资企业生产的车型进入30多个国家市场。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T13:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/nissan-china-joint-venture-car-exports-1d8f06",
-      "reference": [
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "richard-pan-wins-california-house-seat-9b361a",
       "title": "潘君达赢得期中选举将出任加州联邦众议员",
       "description": "台裔民主党人潘君达在美国期中选举中以近六成得票率击败共和党籍现任联邦众议员基利（Kevin Kiley），将成为加州联邦众议员。",
@@ -2822,24 +2823,6 @@
         "中央通訊社"
       ],
       "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "yilan-man-faked-councilor-bribery-report-arrested-9087df",
-      "title": "台湾宜兰男子涉嫌自购啤酒伪造议员贿选举报遭收押",
-      "description": "台湾宜兰检警查出，林姓男子涉嫌自行买下啤酒，在包装上写下台湾宜兰县议员黄建勇的姓名，再拨打贿选举报专线，谎称在住处外发现啤酒。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T11:32:22+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/yilan-man-faked-councilor-bribery-report-arrested-9087df",
-      "reference": [
-        "公视"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -2917,24 +2900,6 @@
       "sources": []
     },
     {
-      "id": "anwar-urges-malaysia-military-cyber-defense-e06d8e",
-      "title": "安华要求提升马来西亚军队网络防御能力",
-      "description": "马来西亚首相安华表示，马来西亚每月面临数千次网络攻击企图。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T10:38:49+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/anwar-urges-malaysia-military-cyber-defense-e06d8e",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "hdb-expands-maju-gillman-nature-park-5ae4c9",
       "title": "建屋局扩大两地保留绿地并将吉门营房部分划为自然公园",
       "description": "建屋发展局修订马裕树林和吉门营房住宅发展方案，增加拟保留的林地，并将吉门营房部分绿地划为新的自然公园。",
@@ -2986,25 +2951,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "fed-report-ai-boosts-stock-valuations-5d9875",
-      "title": "美联储报告将人工智能列为金融稳定首要隐忧",
-      "description": "美联储11月13日发布半年一度的《金融稳定报告》。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T08:53:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/fed-report-ai-boosts-stock-valuations-5d9875",
-      "reference": [
-        "第一财经",
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3521,6 +3467,24 @@
         "联合早报"
       ],
       "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tian-hong-arms-smuggling-appeal-ruling-e8fffc",
+      "title": "澎湃新闻称田红涉走私案二审开庭将择期宣判",
+      "description": "据澎湃新闻报道，田红及其儿子付义涵涉走私运动枪支散件案二审于11月12日在北京开庭。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-14T01:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/tian-hong-arms-smuggling-appeal-ruling-e8fffc",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
