@@ -1,11 +1,84 @@
 {
   "details": {
     "date": "2026-11-16",
-    "timestamp": 1794864225,
+    "timestamp": 1794872163,
     "totalPages": 1,
-    "total": 266
+    "total": 267
   },
   "stories": [
+    {
+      "id": "southern-california-bank-outage-hinders-transactions-d44259",
+      "title": "摩根大通软件故障导致大通及相关交易延迟",
+      "description": "美国多家银行16日出现网银登录、余额查询或转账异常。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T22:01:25+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/southern-california-bank-outage-hinders-transactions-d44259",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "cbp-reminds-travelers-declare-agricultural-products-99888e",
+      "title": "美国海关提醒返美旅客申报茶叶咖啡等农产品",
+      "description": "美国海关暨边境保护局（CBP）提醒返美旅客，携带茶叶、咖啡、火锅底料等农业产品入境时必须申报。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T21:45:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/cbp-reminds-travelers-declare-agricultural-products-99888e",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ample-crude-supply-signs-send-oil-prices-lower-635a4a",
+      "title": "原油供应充足迹象推动国际油价大跌",
+      "description": "国际油价16日创下约一周来最大跌幅。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T21:43:48+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/ample-crude-supply-signs-send-oil-prices-lower-635a4a",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "canada-seeks-pragmatic-china-trade-ties-aef86f",
+      "title": "加拿大总理卡尼抵达深圳将会晤习近平",
+      "description": "加拿大总理马克·卡尼11月16日抵达深圳，定于11月17日上午与中国国家主席习近平举行双边会晤，之后将出席周三举行的亚太经合组织（APEC）峰会。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T21:37:23.243000+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/canada-seeks-pragmatic-china-trade-ties-aef86f",
+      "reference": [
+        "联合早报",
+        "加拿大国际广播电台"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
     {
       "id": "japanese-firms-adopt-chinese-open-weight-models-e04db2",
       "title": "日本企业用中国开放权重模型开发自有大模型",
@@ -118,24 +191,6 @@
       ],
       "section": "business",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "southern-california-bank-outage-hinders-transactions-d44259",
-      "title": "南加州多家银行系统故障阻碍网银和大额现金交易",
-      "description": "南加州多家银行和金融服务在16日上午出现系统异常，用户报告网银登录、账户余额查询和交易办理受阻；巴沙迪那一名客户到银行存取现金时，也无法办理大额业务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T19:41:58+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/southern-california-bank-outage-hinders-transactions-d44259",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1751,24 +1806,6 @@
       "sources": []
     },
     {
-      "id": "iaea-urges-iran-allow-nuclear-inspections-a35e9b",
-      "title": "伊朗拒绝国际原子能机构核查受损设施",
-      "description": "伊朗外交部副部长加里巴巴迪11月15日说，在战争结束且美国满足伊朗提出的条件之前，伊朗不会让国际原子能机构核查人员进入受损核设施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T07:41:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/iaea-urges-iran-allow-nuclear-inspections-a35e9b",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "london-life-sciences-week-canary-wharf-plan-edd6df",
       "title": "伦敦生命科学周将开幕介绍金丝雀码头转型计划",
       "description": "伦敦生命科学周2026定于当地时间11月16日开幕。",
@@ -3256,24 +3293,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "rushan-homebuyer-pays-410000-yuan-resale-under-90000-28a567",
-      "title": "乳山市成立专项工作组核查低价看房乱象",
-      "description": "11月15日，乳山市组织住建、市场监管、文旅、公安等部门成立专项工作组，核查总台《每周质量报告》曝光的乳山银滩低价看房团问题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T11:21:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-15",
-      "url": "https://kaopu.news/story/2026-11-15/rushan-homebuyer-pays-410000-yuan-resale-under-90000-28a567",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 3,
       "sources": []
     },
     {
