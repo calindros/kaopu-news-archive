@@ -7,6 +7,45 @@
   },
   "stories": [
     {
+      "id": "witkoff-norway-peace-proposal-talks-6bf424",
+      "title": "俄美乌阿布扎比会谈同意推进换俘并继续谈判",
+      "description": "俄罗斯、乌克兰和美国在阿联酋首都阿布扎比举行的两天会谈于11月11日结束。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T18:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-20",
+      "url": "https://kaopu.news/story/2026-10-20/witkoff-norway-peace-proposal-talks-6bf424",
+      "reference": [
+        "法广",
+        "澎湃新闻",
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 134,
+      "sources": []
+    },
+    {
+      "id": "canada-october-inflation-holds-3-1-percent-6171ab",
+      "title": "加拿大十月通胀率维持在3.1%",
+      "description": "加拿大统计局最新数据显示，10月消费者价格指数（CPI）同比上涨3.1%，与9月涨幅相同。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T17:15:37.880000+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/canada-october-inflation-holds-3-1-percent-6171ab",
+      "reference": [
+        "加拿大国际广播电台"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
       "title": "逾17.7万人联署要求黄仁勋重返英伟达",
       "description": "要求英伟达董事会恢复黄仁勋首席执行官职务的公开信，已获超过17.7万人联署。",
@@ -43,6 +82,25 @@
       ],
       "section": "life",
       "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-may-meet-kim-in-china-0570d7",
+      "title": "特朗普称东亚之行期间可能与金正恩会晤",
+      "description": "特朗普11月16日启程赴亚洲前对记者说，本周东亚之行期间可能与金正恩会面。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T16:33:44+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/trump-may-meet-kim-in-china-0570d7",
+      "reference": [
+        "联合早报",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -192,18 +250,18 @@
       "sources": []
     },
     {
-      "id": "trump-may-meet-kim-in-china-0570d7",
-      "title": "特朗普称本周可能在中国会见金正恩",
-      "description": "美国总统特朗普在启程赴亚洲前表示，本周东亚行期间可能在中国与朝鲜领导人金正恩会面。",
+      "id": "fbi-helps-sri-lanka-fight-cyber-scams-128e2c",
+      "title": "美国联邦调查局将助斯里兰卡打击跨国诈骗",
+      "description": "美国驻斯里兰卡大使馆11月16日宣布，联邦调查局（FBI）人员将与斯里兰卡执法机关合作，协助调查当地跨国犯罪网络，并提供调查技巧、数字取证和案件办理方面的支持。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-16T15:04:00+00:00",
+      "updatedAt": "2026-11-16T15:03:40+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/trump-may-meet-kim-in-china-0570d7",
+      "url": "https://kaopu.news/story/2026-11-16/fbi-helps-sri-lanka-fight-cyber-scams-128e2c",
       "reference": [
-        "联合早报"
+        "法广"
       ],
       "section": "world",
       "sourceCount": 1,
@@ -261,6 +319,26 @@
       ],
       "section": "china",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "huawei-cloud-open-sources-embodied-world-model-7b2d10",
+      "title": "华为云与福龙马新一代清扫机器人启动预售",
+      "description": "11月16日，华为云与福龙马联合研制的新一代智能清扫机器人启动预售，产品发布会定于2026年12月在上海举行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T14:47:05+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/huawei-cloud-open-sources-embodied-world-model-7b2d10",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1452,25 +1530,6 @@
       "sources": []
     },
     {
-      "id": "huawei-cloud-open-sources-embodied-world-model-7b2d10",
-      "title": "华为云开源新款具身智能世界模型",
-      "description": "华为云发布并开源具身世界模型CloudRobo-WM1.2，同时宣布与福龙马集团联合研制的新一代智能清扫机器人启动预售。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T09:02:33.395885+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/huawei-cloud-open-sources-embodied-world-model-7b2d10",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "section": "ai",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "taiwan-inbound-investment-tops-20-billion-8fc393",
       "title": "台湾前十月侨外投资额首破200亿美元",
       "description": "台湾经济部公布，今年前10个月侨外来台投资获批1878件，金额约208.99亿美元，同比增长127.5%，首次超过200亿美元并创历年新高。",
@@ -1635,25 +1694,6 @@
       "sources": []
     },
     {
-      "id": "un-considers-binding-autonomous-weapons-talks-9a0073",
-      "title": "联合国审议大会讨论自主武器规则谈判",
-      "description": "联合国《特定常规武器公约》审议大会周一在日内瓦举行，128个缔约国讨论是否启动制定致命性自主武器国际规范的谈判，谈判最终应形成何种法律文件也是分歧所在。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T07:33:44+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/un-considers-binding-autonomous-weapons-talks-9a0073",
-      "reference": [
-        "联合早报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "hong-kong-dse-china-universities-reach-169-b05fe5",
       "title": "参与香港文凭试招生的中国大陆高校增至169所",
       "description": "香港特区政府教育局宣布，2027/2028学年文凭试收生计划有169所中国大陆高校参加，分布于21个省、直辖市及两个自治区，并接受参加2027年香港中学文凭考试的考生申请。",
@@ -1729,25 +1769,6 @@
       ],
       "section": "business",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "global-cryosphere-exceeds-safe-operating-boundary-6626c9",
-      "title": "国际研究发现全球冰冻圈已越过安全运行空间",
-      "description": "斯德哥尔摩大学、清华大学、波茨坦气候影响研究所等机构的研究人员在美国《科学》杂志发表论文，指出全球冰冻圈已超出安全运行空间，退化正在加快，部分变化难以逆转。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T07:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/global-cryosphere-exceeds-safe-operating-boundary-6626c9",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2647,24 +2668,6 @@
       ],
       "section": "tech",
       "sourceCount": 23,
-      "sources": []
-    },
-    {
-      "id": "sk-hynix-funds-korean-chip-suppliers-a9337d",
-      "title": "SK海力士拟五年投入1.4万亿韩元扶持韩国供应商",
-      "description": "SK海力士宣布，未来五年将投入1.4万亿韩元（约合新台币345亿元），扶持韩国半导体材料、零部件和设备供应商，以强化供应链，应对人工智能芯片市场竞争加剧。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T02:21:15+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/sk-hynix-funds-korean-chip-suppliers-a9337d",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
