@@ -1,11 +1,356 @@
 {
   "details": {
     "date": "2026-11-16",
-    "timestamp": 1794815107,
+    "timestamp": 1794818339,
     "totalPages": 1,
-    "total": 267
+    "total": 265
   },
   "stories": [
+    {
+      "id": "cho-hyun-visits-china-meets-wang-yi-7ebf79",
+      "title": "中韩外长北京会谈讨论双边关系与半岛局势",
+      "description": "韩国外交部长赵显与中国外交部长王毅11月13日在北京会谈并共进晚餐，会谈约一个半小时。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T07:12:22+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/cho-hyun-visits-china-meets-wang-yi-7ebf79",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "韩民族日报"
+      ],
+      "section": "asia",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "china-asean-trade-upgrade-protocol-takes-effect-59f144",
+      "title": "中国—东盟自贸区3.0版议定书定于12月1日生效",
+      "description": "中国与东盟领导人11月16日在菲律宾马尼拉举行的中国—东盟领导人会议上宣布，自贸区3.0版升级议定书定于2026年12月1日正式生效。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:51:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/china-asean-trade-upgrade-protocol-takes-effect-59f144",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "bessent-demands-nvidia-clarify-china-chip-legality-3af6b9",
+      "title": "贝森特要求英伟达十日内说明芯片出口合规",
+      "description": "美国财政部长斯科特·贝森特11月15日接受福克斯新闻采访时，要求英伟达董事会和外聘法律顾问在10天内说明公司是否遵守芯片出口限制，并主张新任首席执行官应从公司外部遴选。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/bessent-demands-nvidia-clarify-china-chip-legality-3af6b9",
+      "reference": [
+        "公视",
+        "世界日报"
+      ],
+      "section": "ai",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "us-allies-agree-protect-ai-supply-chain-40d0d4",
+      "title": "八个伙伴签署宣言加强人工智能供应链安全",
+      "description": "日本、韩国、印度、英国、澳大利亚、以色列、卡塔尔和阿联酋于11月15日签署《旧金山持久繁荣安全基础宣言》，承诺加强人工智能关键技术及供应链安全合作。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/us-allies-agree-protect-ai-supply-chain-40d0d4",
+      "reference": [
+        "联合早报",
+        "世界日报"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "jensen-huang-resigns-after-affair-329ab0",
+      "title": "纽时报道黄仁勋坦承婚外情后辞任英伟达首席执行官",
+      "description": "据《纽约时报》报道，英伟达创始人兼首席执行官黄仁勋上周末向公司首席法务官泰德（Tim Teter）承认与Megaspeed高管黄乐有婚外情。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/jensen-huang-resigns-after-affair-329ab0",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "据报黄仁勋与亲信商议回归英伟达",
+      "description": "黄仁勋辞去英伟达首席执行官数日后，正与亲近盟友讨论重返公司的可能性。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 471,
+      "sources": []
+    },
+    {
+      "id": "nvidia-seeks-taiwan-help-smuggling-case-acb765",
+      "title": "基隆检方起诉英伟达经理等九人涉向中国走私服务器",
+      "description": "台湾基隆地方检察署于2026年8月24日起诉英伟达台湾分公司经理张登隆等9人，指控他们协助将搭载英伟达B300芯片的服务器经第三地转运至中国。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/nvidia-seeks-taiwan-help-smuggling-case-acb765",
+      "reference": [
+        "联合早报",
+        "公视",
+        "世界日报"
+      ],
+      "section": "ai",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "crosbie-challenges-gruters-rnc-chair-f63e5b",
+      "title": "克罗斯比宣布竞选共和党全国委员会主席",
+      "description": "美联社报道，共和党全国委员会（RNC）在期中选举失利后出现要求追责的内部行动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/crosbie-challenges-gruters-rnc-chair-f63e5b",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "faa-orders-us-departure-ground-stop-2eeef2",
+      "title": "FAA空管通信故障致全美航班停飞",
+      "description": "美国联邦航空管理局（FAA）空管通信系统发生故障，11月13日下令全美机场暂停航班起飞，停飞约4个半小时。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/faa-orders-us-departure-ground-stop-2eeef2",
+      "reference": [
+        "澎湃新闻",
+        "世界日报",
+        "联合早报",
+        "财新"
+      ],
+      "section": "us",
+      "sourceCount": 55,
+      "sources": []
+    },
+    {
+      "id": "ivonescimab-us-fda-application-rejected-503c52",
+      "title": "FDA拒绝批准依沃西美国上市申请",
+      "description": "康方生物的美国合作伙伴Summit Therapeutics称，美国食品药品监督管理局（FDA）未批准依沃西单抗用于特定肺癌患者二线治疗的上市申请。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/ivonescimab-us-fda-application-rejected-503c52",
+      "reference": [
+        "第一财经",
+        "澎湃新闻",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "sanders-social-security-monthly-200-increase-ec1a14",
+      "title": "桑德斯提案拟为社会保障金每月加发200美元",
+      "description": "美国无党籍佛蒙特州联邦参议员伯尼·桑德斯今年稍早提出《社安金扩张法案》，计划在年度生活成本调整之外，为所有社会保障金领取人每月增加200美元，全年至少多发2400美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/sanders-social-security-monthly-200-increase-ec1a14",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "state-local-elections-shape-data-centers-70335c",
+      "title": "民主党赢得四个美墨边境州州长选举",
+      "description": "美国民主党在2026年11月3日的期中选举中赢得加利福尼亚州、亚利桑那州、新墨西哥州和得克萨斯州的州长选举。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-26",
+      "url": "https://kaopu.news/story/2026-10-26/state-local-elections-shape-data-centers-70335c",
+      "reference": [
+        "世界日报",
+        "第一财经",
+        "端传媒",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 31,
+      "sources": []
+    },
+    {
+      "id": "wingtech-appeals-dutch-court-ruling-250220",
+      "title": "荷兰法院追加禁令并设最高3亿欧元罚款",
+      "description": "荷兰阿姆斯特丹上诉法院企业法庭11月11日作出追加临时措施裁定，要求闻泰科技、裕成控股及安世中国遵守多项禁令，相关罚款总额最高不超过3亿欧元（约合人民币22.23亿元）。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/wingtech-appeals-dutch-court-ruling-250220",
+      "reference": [
+        "第一财经",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "funeral-operator-hackers-ai-steal-fire-dispatch-data-046aad",
+      "title": "苏姓殡葬业者勾结黑客用AI窃取消防个资牟利",
+      "description": "台湾桃园地检署调查发现，一名苏姓非法殡葬业者自2026年4月起与张姓、林姓和李姓三名黑客合谋，利用AI代理程序侵入台湾内政部消防署和桃园市消防局系统，窃取即时派遣个人信息。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:23:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/funeral-operator-hackers-ai-steal-fire-dispatch-data-046aad",
+      "reference": [
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-revises-appliance-after-sales-standards-344a92",
+      "title": "市场监管总局修订发布四项家电售后服务国家标准",
+      "description": "市场监管总局（国家标准委）近日修订发布4项家电售后服务国家标准，分别适用于电冰箱、空调器、洗衣机和饮水机，对服务方条件、服务流程及服务规范作出规定，将质量管理要求覆盖到售后环节。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/china-revises-appliance-after-sales-standards-344a92",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "congo-ebola-outbreak-remains-uncontrolled-ac36ff",
+      "title": "非洲疾控中心主任称刚果（金）埃博拉疫情仍未受控",
+      "description": "距离宣布疫情暴发已过半年，刚果（金）的埃博拉疫情依然没有得到控制。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/congo-ebola-outbreak-remains-uncontrolled-ac36ff",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "cop31-antalya-opens-global-stocktake-54a7c1",
+      "title": "COP31在安塔利亚聚焦落实气候承诺",
+      "description": "第31届联合国气候变化大会（COP31）11月9日在土耳其安塔利亚开幕，缔约方正就落实气候承诺、气候融资和能源转型进行谈判。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/cop31-antalya-opens-global-stocktake-54a7c1",
+      "reference": [
+        "澎湃新闻",
+        "公视",
+        "联合早报",
+        "SBS"
+      ],
+      "section": "world",
+      "sourceCount": 45,
+      "sources": []
+    },
+    {
+      "id": "california-voters-pass-housing-bond-south-bay-ea1b11",
+      "title": "加州选民通过住房债券提案南湾平价住房项目盼重启",
+      "description": "加州选民以59%的支持率通过1号提案，授权州政府发行逾110亿元债券，支持退伍军人及符合收入条件家庭的住房计划。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/california-voters-pass-housing-bond-south-bay-ea1b11",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "china-october-economic-data-miss-forecasts-80b722",
       "title": "中国前十月固定资产投资同比下降8.1%",
@@ -25,6 +370,24 @@
       ],
       "section": "business",
       "sourceCount": 17,
+      "sources": []
+    },
+    {
+      "id": "chicago-chinatown-cameras-robberies-fall-97ed3a",
+      "title": "芝加哥华埠新增约60部监控摄像机抢劫案降三成",
+      "description": "芝加哥华埠近年增设约60部监控摄像机，资金由伊利诺伊州政府提供。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/chicago-chinatown-cameras-robberies-fall-97ed3a",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -49,6 +412,24 @@
       "sources": []
     },
     {
+      "id": "american-cancer-society-prostate-screening-guidelines-ed261c",
+      "title": "美国癌症协会建议中年男性定期筛查前列腺癌",
+      "description": "美国癌症协会11月12日公布更新后的前列腺癌筛查建议，提出50至69岁、风险一般的男性每两年进行一次前列腺特异性抗原（PSA）血液检测。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/american-cancer-society-prostate-screening-guidelines-ed261c",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "us-flu-season-starts-early-spreads-south-west-3725ae",
       "title": "美国流感季提前来临并向南部和西部扩散",
       "description": "美国流感季较往年提前启动，近期病例在南部和西部增加。",
@@ -63,6 +444,43 @@
         "世界日报"
       ],
       "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-dot-orders-airline-flight-refunds-4b7f01",
+      "title": "美国运输部规定航班取消延误时旅客不搭乘可退还票款",
+      "description": "美国联邦运输部（DOT）规定，航班取消或达到重大延误标准后，旅客若决定不再搭乘，航空公司必须退还全部票款，并退回已付但未使用的附加服务费用。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/us-dot-orders-airline-flight-refunds-4b7f01",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-plans-ai-national-champions-4d2e79",
+      "title": "川普政府据报拟遴选20多家AI国家冠军企业",
+      "description": "据《华尔街日报》援引知情人士报道，川普政府计划遴选20多家美国企业组成AI“国家冠军”阵容，协助推广美国AI产品、拓展海外市场，并与中国企业竞争。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:10:49+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/trump-plans-ai-national-champions-4d2e79",
+      "reference": [
+        "中央通訊社",
+        "世界日报"
+      ],
+      "section": "ai",
       "sourceCount": 2,
       "sources": []
     },
@@ -83,6 +501,42 @@
       ],
       "section": "us",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "us-universities-set-ai-application-rules-e9dbc4",
+      "title": "美国大学加紧制定学生用AI申请规范",
+      "description": "美国高中生越来越多地借助人工智能撰写大学申请文书、筛选院校，各大学正加紧制定相关使用规范，但校际标准并不一致。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/us-universities-set-ai-application-rules-e9dbc4",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "chiang-wan-an-attend-tpp-rally-8af6ad",
+      "title": "蒋万安将出席民众党选前大型竞选集会",
+      "description": "台湾民众党主席黄国昌证实，国民党籍台北市长蒋万安已答应出席该党定于11月21日晚举行的选前大型竞选集会。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T06:03:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/chiang-wan-an-attend-tpp-rally-8af6ad",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -181,27 +635,6 @@
       "sources": []
     },
     {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "马斯克等硅谷人士联署呼吁黄仁勋复职",
-      "description": "埃隆·马斯克及多名硅谷人士支持一封要求英伟达董事会让黄仁勋复任首席执行官的公开信。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T05:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 467,
-      "sources": []
-    },
-    {
       "id": "xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
       "title": "习近平将主持深圳APEC领导人会议",
       "description": "亚太经合组织第三十三次领导人非正式会议定于11月18日至19日在深圳举行，中国国家主席习近平将主持会议并发表讲话。",
@@ -276,43 +709,6 @@
       ],
       "section": "business",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "bessent-demands-nvidia-clarify-china-chip-legality-3af6b9",
-      "title": "贝森特要求英伟达十日内说明对华芯片销售是否合法",
-      "description": "美国财政部长贝森特在电视专访中要求英伟达董事会和外部律师在10天内说明，公司是否为追求营收和利润而向中国进行涉嫌违法的芯片销售。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T05:20:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/bessent-demands-nvidia-clarify-china-chip-legality-3af6b9",
-      "reference": [
-        "公视"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nvidia-seeks-taiwan-help-smuggling-case-acb765",
-      "title": "基隆检方起诉9人涉将辉达AI服务器走私至中国大陆",
-      "description": "台湾基隆地方检察署8月24日起诉9人，指控他们通过第三地转运，将74台搭载辉达B300芯片的AI服务器非法售往中国大陆。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T05:17:56+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/nvidia-seeks-taiwan-help-smuggling-case-acb765",
-      "reference": [
-        "联合早报",
-        "公视"
-      ],
-      "section": "ai",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -489,25 +885,6 @@
       "sources": []
     },
     {
-      "id": "ivonescimab-us-fda-application-rejected-503c52",
-      "title": "美国FDA未批准康方依沃西二线肺癌申请",
-      "description": "美国食品药品监督管理局（FDA）未批准康方生物与Summit Therapeutics合作开发的依沃西，用于第三代EGFR-TKI治疗后进展的EGFR突变非鳞状非小细胞肺癌二线治疗。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T04:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/ivonescimab-us-fda-application-rejected-503c52",
-      "reference": [
-        "第一财经",
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "cctv-investigation-construction-waste-farmland-68b845",
       "title": "央视曝光建筑垃圾侵占农田后两地启动调查",
       "description": "央视《财经调查》曝光辽宁鞍山、海城以及浙江金华金东区存在建筑垃圾违规倾倒、填埋问题，部分地点涉及耕地和永久基本农田。",
@@ -540,45 +917,6 @@
         "联合早报"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "faa-orders-us-departure-ground-stop-2eeef2",
-      "title": "美国FAA因通信故障下令全国航班停飞",
-      "description": "美国联邦航空管理局因空管通信系统故障，于11月13日下令全美航班暂停起飞，停飞约四个半小时。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T03:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/faa-orders-us-departure-ground-stop-2eeef2",
-      "reference": [
-        "澎湃新闻",
-        "世界日报",
-        "联合早报",
-        "财新"
-      ],
-      "section": "us",
-      "sourceCount": 52,
-      "sources": []
-    },
-    {
-      "id": "china-asean-trade-upgrade-protocol-takes-effect-59f144",
-      "title": "中国与东盟自贸区3.0版升级议定书定于12月生效",
-      "description": "中国与东盟自由贸易区3.0版升级议定书将从2026年12月1日起施行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T03:54:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/china-asean-trade-upgrade-protocol-takes-effect-59f144",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
@@ -1016,45 +1354,6 @@
         "澎湃新闻"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "state-local-elections-shape-data-centers-70335c",
-      "title": "民主党胜选令美国数据中心扩建审查趋严",
-      "description": "美国民主党在11月3日中期选举中重新赢得国会参众两院多数，并在多州州长选举中占优。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T02:00:46+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-26",
-      "url": "https://kaopu.news/story/2026-10-26/state-local-elections-shape-data-centers-70335c",
-      "reference": [
-        "世界日报",
-        "第一财经",
-        "端传媒",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 30,
-      "sources": []
-    },
-    {
-      "id": "wingtech-appeals-dutch-court-ruling-250220",
-      "title": "*ST闻泰将对荷兰法院安世裁定提起上诉",
-      "description": "*ST闻泰表示，将通过中国境内外法律途径对荷兰阿姆斯特丹上诉法院企业法庭针对安世半导体相关方作出的追加临时措施裁定提起上诉。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T01:48:53.428596+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/wingtech-appeals-dutch-court-ruling-250220",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -1559,24 +1858,6 @@
       "sources": []
     },
     {
-      "id": "us-allies-agree-protect-ai-supply-chain-40d0d4",
-      "title": "美国及盟友达成协议保护人工智能供应链",
-      "description": "据彭博社转述，《金融时报》报道，美国及其伙伴已同意合作甄别并保护可能受中国影响的人工智能技术及相关供应链。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T23:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/us-allies-agree-protect-ai-supply-chain-40d0d4",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "kelly-sydney-night-markets-small-business-6e4c0e",
       "title": "Kelly盼借悉尼夜市为小生意创造发展机会",
       "description": "被称为“夜市女王”的Kelly在澳大利亚生活30年，正推动悉尼夜市发展，并盼把自己熟悉的夜市文化带到当地。",
@@ -1825,24 +2106,6 @@
       "sources": []
     },
     {
-      "id": "wong-meets-lula-boost-regional-trade-0e8f97",
-      "title": "黄循财会晤卢拉推动区域经贸合作",
-      "description": "新加坡总理兼财政部长黄循财11月15日在菲律宾马尼拉举行的第49届东盟峰会期间会见巴西总统卢拉，讨论通过《南方共同市场—新加坡自由贸易协定》加强双边及区域经贸合作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T15:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-15",
-      "url": "https://kaopu.news/story/2026-11-15/wong-meets-lula-boost-regional-trade-0e8f97",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "japan-residency-language-rule-jlpt-slots-fill-2374c7",
       "title": "日本拟设永住日语门槛致JLPT考位提前报满",
       "description": "据联合早报报道，日本政府计划在永住许可审核中加入日语能力要求，带动外国人集中报考JLPT。",
@@ -1876,27 +2139,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "cop31-antalya-opens-global-stocktake-54a7c1",
-      "title": "李长庚呼吁金融业为气候转型分担风险",
-      "description": "第31届联合国气候变化大会（COP31）正在土耳其安塔利亚举行，各方就落实气候承诺、气候融资和能源转型等议题磋商。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T14:50:43+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/cop31-antalya-opens-global-stocktake-54a7c1",
-      "reference": [
-        "澎湃新闻",
-        "公视",
-        "联合早报",
-        "SBS"
-      ],
-      "section": "world",
-      "sourceCount": 44,
       "sources": []
     },
     {
@@ -2169,24 +2411,6 @@
       "url": "https://kaopu.news/story/2026-11-15/nanwei-li-ping-detained-insider-trading-111166",
       "reference": [
         "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-venture-capital-shifts-to-semiconductors-643249",
-      "title": "中国创投资金从具身智能转向半导体领域",
-      "description": "中国创投资金在具身智能融资降温后转向半导体，机器人企业融资收缩之际，半导体投资交易和融资规模上升。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T10:02:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-15",
-      "url": "https://kaopu.news/story/2026-11-15/china-venture-capital-shifts-to-semiconductors-643249",
-      "reference": [
-        "联合早报"
       ],
       "section": "business",
       "sourceCount": 1,
@@ -2669,43 +2893,6 @@
       "sources": []
     },
     {
-      "id": "japan-meti-adb-nuclear-cooperation-mou-955f70",
-      "title": "日本经产省据报拟与亚开行签署核电合作备忘录",
-      "description": "日本放送协会报道称，日本经济产业省拟与亚洲开发银行签署合作备忘录，支持亚洲各国引进核电。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T05:30:23+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-15",
-      "url": "https://kaopu.news/story/2026-11-15/japan-meti-adb-nuclear-cooperation-mou-955f70",
-      "reference": [
-        "日本放送协会"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "cho-hyun-visits-china-meets-wang-yi-7ebf79",
-      "title": "中韩外长北京会谈讨论朝鲜半岛局势",
-      "description": "韩国外交部长赵显与中国外交部长王毅11月13日在北京钓鱼台国宾馆会谈并共进晚餐，讨论双边关系和朝鲜半岛局势，并就拓展合作交换意见。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T05:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/cho-hyun-visits-china-meets-wang-yi-7ebf79",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "biden-says-cancer-would-end-reelection-bid-0ec6ab",
       "title": "拜登新回忆录将于17日出版并披露白宫内幕",
       "description": "美国前总统乔·拜登的480页回忆录《答应我，美国》（Promise Me, America）定于11月17日出版。",
@@ -2832,24 +3019,6 @@
         "联合早报"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "prabowo-seeks-70-percent-mining-permit-state-share-bac662",
-      "title": "普拉博沃主张采矿准证管理收益至少七成归国家",
-      "description": "印度尼西亚总统普拉博沃提出，采矿准证管理收益至少七成应归国家；必要时，国家还应取得相关采矿股份的控制权。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T14:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/prabowo-seeks-70-percent-mining-permit-state-share-bac662",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -3258,25 +3427,6 @@
       "sources": []
     },
     {
-      "id": "bmw-recalls-720796-us-cars-fire-risk-ec2938",
-      "title": "宝马因起火风险在美召回72万余辆汽车",
-      "description": "宝马宣布在美国召回720,796辆汽车，涉及14种车型。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/bmw-recalls-720796-us-cars-fire-risk-ec2938",
-      "reference": [
-        "联合早报",
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "cuny-lecture-rock-springs-massacre-archaeology-62d874",
       "title": "纽约市大亚裔研究所讲座介绍石泉市排华屠杀研究",
       "description": "纽约市大亚裔研究所近日举办线上讲座，格林内尔学院人类学助理教授吴劳拉（Laura W. Ng）介绍怀俄明州石泉市排华暴力遗址的考古工作，并讲述研究人员帮助Lok Chung Chun家族寻找先祖墓地、完成祭拜的过程。",
@@ -3422,24 +3572,6 @@
       "sources": []
     },
     {
-      "id": "california-community-college-professor-earns-800k-57e397",
-      "title": "加州社区学院教授维雷亚2024年相似工作量收入近80万美元",
-      "description": "加州社区学院部分教师把内容相近的课程整合起来，通过线上教学跨校承担大量课程并取得高额收入，教学互动与质量也由此受到质疑。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T04:40:44+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/california-community-college-professor-earns-800k-57e397",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "priest-reports-self-described-police-asked-mass-details-148f81",
       "title": "周守仁呼吁各堂区在宏福苑火灾周年为亡者举行弥撒",
       "description": "天主教香港教区主教周守仁于2026年11月13日致函各堂区，呼吁在11月26日为大埔宏福苑火灾遇难者举行弥撒，并在之后的主日弥撒中加入为亡者祈祷的意向。",
@@ -3552,24 +3684,6 @@
       "sources": []
     },
     {
-      "id": "trump-medicaid-work-rule-grace-period-1d7612",
-      "title": "特朗普政府给予各州白卡工作要求六个月缓冲期",
-      "description": "特朗普政府宣布为各州执行白卡（联邦医疗补助计划）工作要求设置额外六个月过渡期。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T00:41:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/trump-medicaid-work-rule-grace-period-1d7612",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "deepseek-opens-full-app-api-b74dc9",
       "title": "DeepSeek开放全家桶API供开发者调用",
       "description": "DeepSeek宣布开放整合多项应用能力的API。",
@@ -3606,27 +3720,6 @@
       "sources": []
     },
     {
-      "id": "trump-democrats-undocumented-immigrants-legal-status-deal-b563be",
-      "title": "特朗普承认遣返过严仍坚持大规模驱逐政策",
-      "description": "美国总统特朗普在中期选举后承认，政府遣返移民的做法对一些有正当工作的人可能过于严厉，并表示愿与民主党商谈移民安排；但他随后重申，未要求新任白宫幕僚长史蒂芬·米勒改变大规模驱逐行动，称政策不会改变。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T23:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/trump-democrats-undocumented-immigrants-legal-status-deal-b563be",
-      "reference": [
-        "世界日报",
-        "法广",
-        "联合早报",
-        "财新"
-      ],
-      "section": "us",
-      "sourceCount": 11,
-      "sources": []
-    },
-    {
       "id": "kovalenko-sema-films-war-sexual-violence-documentary-985db4",
       "title": "乌克兰导演拍摄战争性暴力纪录片《痕迹》",
       "description": "2023年春，乌克兰导演阿丽莎·科瓦连科与非政府组织SEMA成员投票决定共同拍摄纪录片《痕迹》。",
@@ -3641,24 +3734,6 @@
         "端传媒"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "australia-rethinks-working-holiday-visa-limits-cda0e5",
-      "title": "据报澳大利亚政府重审打工度假签证限制",
-      "description": "据SBS报道，在农业、旅游和酒店餐饮行业团体提出顾虑后，澳大利亚联邦政府正重新审视拟议中的打工度假签证限制。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T21:25:40+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/australia-rethinks-working-holiday-visa-limits-cda0e5",
-      "reference": [
-        "SBS"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -3679,63 +3754,6 @@
       ],
       "section": "culture",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "bessent-reportedly-moves-military-base-over-iran-threat-939252",
-      "title": "贝森特因死亡威胁迁入军事基地",
-      "description": "美国财政部长斯科特·贝森特11月13日接受美国消费者新闻与商业频道（CNBC）采访时证实，他已依照美国特勤局的安全建议，离开华盛顿乔治城住所，迁入一处名称未公开的军事基地。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T20:43:30+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/bessent-reportedly-moves-military-base-over-iran-threat-939252",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "朝鲜日报",
-        "日经"
-      ],
-      "section": "us",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "white-house-denies-hassett-departure-report-2b1256",
-      "title": "白宫否认哈西特未来几周离开特朗普政府",
-      "description": "当地时间11月13日，白宫否认国家经济委员会主任凯文·哈西特将在未来几周离职的消息。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T20:43:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/white-house-denies-hassett-departure-report-2b1256",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "sanders-social-security-monthly-200-increase-ec1a14",
-      "title": "桑德斯推动社会保障金每月增发200美元",
-      "description": "美国无党籍佛蒙特州联邦参议员伯尼·桑德斯推动《社会保障金扩张法案》，提议在年度生活成本调整之外，为所有社会保障金领取人每月增加200美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T16:41:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/sanders-social-security-monthly-200-increase-ec1a14",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3827,63 +3845,6 @@
       ],
       "section": "sports",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "google-launches-gemini-4-hydrogen-e1636b",
-      "title": "谷歌推出轻量级模型Gemini 4 Hydrogen",
-      "description": "谷歌于北京时间11月13日发布轻量级模型Gemini 4 Hydrogen，这是该公司六周内推出的第三款新模型。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T12:52:37.934389+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/google-launches-gemini-4-hydrogen-e1636b",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "ai",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "jensen-huang-chip-export-debate-4b312b",
-      "title": "黄仁勋风波牵动对华芯片出口争论",
-      "description": "人工智能和半导体企业正高薪招聘反情报人才，以防商业机密遭窃、管理层遭渗透。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T12:10:30+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/jensen-huang-chip-export-debate-4b312b",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-accesses-nvidia-compute-via-data-centers-55044c",
-      "title": "路透发现中国逾30亿美元AI项目涉受限英伟达芯片",
-      "description": "路透社核查中国政府和企业材料后发现，中国多地总额超过30亿美元的AI算力项目涉及英伟达受美国出口管制的处理器。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T11:44:21+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/china-accesses-nvidia-compute-via-data-centers-55044c",
-      "reference": [
-        "法广",
-        "德国之声",
-        "世界日报",
-        "中央通訊社"
-      ],
-      "section": "ai",
-      "sourceCount": 10,
       "sources": []
     },
     {
