@@ -1,6 +1,6 @@
 {
   "details": {
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "timestamp": 1794872163,
     "totalPages": 1,
     "total": 267
@@ -8,20 +8,81 @@
   "stories": [
     {
       "id": "southern-california-bank-outage-hinders-transactions-d44259",
-      "title": "摩根大通软件故障导致大通及相关交易延迟",
-      "description": "美国多家银行16日出现网银登录、余额查询或转账异常。",
+      "title": "摩根大通软件故障致部分交易处理延迟",
+      "description": "摩根大通11月16日发生内部软件故障，部分交易处理延迟；当天，多家银行及支付服务也有用户报告异常。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-16T22:01:25+00:00",
+      "updatedAt": "2026-11-16T23:21:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-16",
       "url": "https://kaopu.news/story/2026-11-16/southern-california-bank-outage-hinders-transactions-d44259",
       "reference": [
-        "世界日报"
+        "世界日报",
+        "联合早报"
       ],
       "section": "life",
-      "sourceCount": 2,
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "知情人士称英伟达董事会无意让黄仁勋复职",
+      "description": "据联合早报转述路透社报道，三名知情人士称，英伟达董事会目前无意让黄仁勋重新执掌公司。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T23:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 482,
+      "sources": []
+    },
+    {
+      "id": "liu-jun-leads-tsinghua-new-statistics-department-3135f2",
+      "title": "刘军离开哈佛出任清华新设统计系主任",
+      "description": "刘军已从哈佛大学转赴北京清华大学，担任该校新设统计系主任。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T22:58:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/liu-jun-leads-tsinghua-new-statistics-department-3135f2",
+      "reference": [
+        "端传媒"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "title": "中美俄三国元首将于深圳举行首次面对面会晤",
+      "description": "中国外交部发言人毛宁11月16日宣布，习近平将于11月19日在深圳与美国总统特朗普、俄罗斯总统普京举行三方会晤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-16T22:57:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "日经",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 79,
       "sources": []
     },
     {
@@ -267,27 +328,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "逾17.7万人联署要求黄仁勋重返英伟达",
-      "description": "要求英伟达董事会恢复黄仁勋首席执行官职务的公开信，已获超过17.7万人联署。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T17:02:30+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 480,
       "sources": []
     },
     {
@@ -1039,27 +1079,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "title": "中方确认习近平、普京、特朗普将于19日在深圳会晤",
-      "description": "中国外交部11月16日确认，习近平将于11月19日在深圳与俄罗斯总统弗拉基米尔·普京、美国总统唐纳德·特朗普举行中俄美元首会晤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T12:36:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "reference": [
-        "韩国国际广播电台",
-        "联合早报",
-        "日经",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 78,
       "sources": []
     },
     {
@@ -4614,24 +4633,6 @@
       ],
       "section": "business",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "huawei-announces-osta-subbrand-0cb676",
-      "title": "余承东宣布华为将推出OSTA星芒子品牌",
-      "description": "余承东在社交媒体宣布，华为将推出名为OSTA星芒的全新子品牌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T04:04:39.977268+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/huawei-announces-osta-subbrand-0cb676",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
       "sources": []
     },
     {
