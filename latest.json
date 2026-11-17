@@ -1,11 +1,334 @@
 {
   "details": {
     "date": "2026-11-17",
-    "timestamp": 1794892901,
+    "timestamp": 1794897367,
     "totalPages": 1,
     "total": 264
   },
   "stories": [
+    {
+      "id": "hong-kong-disney-ticket-qr-codes-stolen-878f04",
+      "title": "香港迪士尼约1.7万个电子门票二维码疑遭盗取",
+      "description": "香港迪士尼乐园称在线票务系统遭入侵。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-17T05:07:06+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-15",
+      "url": "https://kaopu.news/story/2026-11-15/hong-kong-disney-ticket-qr-codes-stolen-878f04",
+      "reference": [
+        "联合早报",
+        "日本放送协会"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "fangtaozi-operator-fined-false-contact-lens-ad-e97c97",
+      "title": "方桃子运营公司虚构美瞳体验被罚6万8288元",
+      "description": "广州我的影视文化传媒有限公司因发布虚构美瞳使用体验、且未取得广告审查证明，被广州市番禺区市场监督管理局责令停止发布相关广告，并罚款6万8288元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-17T05:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/fangtaozi-operator-fined-false-contact-lens-ad-e97c97",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-schools-close-pandemic-era-record-b4a8a3",
+      "title": "美国上学年1156所学校关闭创疫情以来新高",
+      "description": "美国学区因学生减少和财政紧张而关闭学校。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-17T05:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/us-schools-close-pandemic-era-record-b4a8a3",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "harvard-study-us-data-center-emissions-391e6e",
+      "title": "哈佛研究估算美国大型数据中心年排放2570万吨",
+      "description": "哈佛大学研究团队的一项研究估算，2024年5月至2025年4月，美国403座大型数据中心排放约2570万吨二氧化碳，约占美国排放总量的0.5%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-17T05:01:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/harvard-study-us-data-center-emissions-391e6e",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "cop31-antalya-opens-global-stocktake-54a7c1",
+      "title": "COP31与会方讨论安塔利亚人工智能宣言",
+      "description": "第31届联合国气候变化大会（COP31）正在土耳其安塔利亚举行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-17T04:50:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-05",
+      "url": "https://kaopu.news/story/2026-11-05/cop31-antalya-opens-global-stocktake-54a7c1",
+      "reference": [
+        "澎湃新闻",
+        "公视",
+        "联合早报",
+        "SBS"
+      ],
+      "section": "world",
+      "sourceCount": 49,
+      "sources": []
+    },
+    {
+      "id": "trump-may-meet-kim-in-china-0570d7",
+      "title": "特朗普称访华期间或与金正恩会晤",
+      "description": "美国总统特朗普当地时间16日从白宫启程，前往菲律宾和中国访问。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-17T04:50:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/trump-may-meet-kim-in-china-0570d7",
+      "reference": [
+        "联合早报",
+        "法广",
+        "财新",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "us-congress-china-ai-chip-restrictions-defense-bill-03c51c",
+      "title": "美国商务部收紧五国先进芯片出口许可",
+      "description": "美国商务部于11月16日公布先进半导体出口临时最终规则，收紧向印度尼西亚、马来西亚、新加坡、泰国和巴西出口、再出口或在当地转移受管制芯片的许可要求，并限制中国等高风险国家企业通过海外数据中心远程获取大量算力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-17T04:50:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/us-congress-china-ai-chip-restrictions-defense-bill-03c51c",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "财新",
+        "日经"
+      ],
+      "section": "ai",
+      "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "asean-china-leaders-urge-south-china-sea-code-8971e5",
+      "title": "中东盟峰会南海行为准则谈判延至2027年",
+      "description": "中国与东盟领导人11月16日在菲律宾首都马尼拉举行第29届峰会，讨论深化合作。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-17T04:50:21+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/asean-china-leaders-urge-south-china-sea-code-8971e5",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "公视",
+        "德国之声"
+      ],
+      "section": "world",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "lin-chia-lung-second-us-visit-texas-3029b4",
+      "title": "台湾外长林佳龙两个月内第二次赴美",
+      "description": "台湾外交部称，外长林佳龙正在美国得克萨斯州访问，这是他两个月内第二次赴美。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-17T04:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/lin-chia-lung-second-us-visit-texas-3029b4",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "mongolia-president-khurelsukh-resigns-a55b2c",
+      "title": "蒙古国总统呼日勒苏赫宣布辞去总统职务",
+      "description": "蒙古国总统呼日勒苏赫当地时间17日上午宣布辞去总统职务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-17T04:48:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/mongolia-president-khurelsukh-resigns-a55b2c",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-labor-ministry-childcare-subsidy-9c48ab",
+      "title": "台湾劳动部为育儿友善企业提供最高135万元补助",
+      "description": "台湾劳动部11月17日宣布，将补助支持员工照顾未满12岁子女的企业，并奖励采用育儿友善制度的中小企业。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-17T04:37:05+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/taiwan-labor-ministry-childcare-subsidy-9c48ab",
+      "reference": [
+        "公视"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-agencies-advance-recycling-system-e247e4",
+      "title": "九部门提出意见推动再生资源回收体系建设",
+      "description": "商务部等9部门提出关于深入推进再生资源回收体系建设、促进回收行业高质量发展的意见，提出到2030年初步形成回收网络覆盖完善、居民交投方便、分拣效率较高、末端处理绿色规范的回收体系。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-17T04:37:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/china-agencies-advance-recycling-system-e247e4",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "lian-maojun-jilin-standing-committee-changchun-party-chief-8c5468",
+      "title": "连茂君出任吉林省委常委、长春市委书记",
+      "description": "长春市领导干部会议11月16日宣布中央关于市委主要负责人的调整：连茂君获任吉林省委委员、常委及长春市委书记，张恩惠不再担任长春市委书记。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-17T04:37:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/lian-maojun-jilin-standing-committee-changchun-party-chief-8c5468",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "taipei-polls-puma-shen-leads-wayne-chiang-dbfda0",
+      "title": "台北市长封关民调显示选情胶着",
+      "description": "台湾台北市长选战的多份封关民调于11月16日公布，沈伯洋与寻求连任的蒋万安支持度差距从微幅领先到十多个百分点不等，各机构结果并不一致。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-17T04:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/taipei-polls-puma-shen-leads-wayne-chiang-dbfda0",
+      "reference": [
+        "联合早报",
+        "端传媒"
+      ],
+      "section": "asia",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "china-drug-regulator-flags-27-batches-1c1644",
+      "title": "国家药监局通报17家药企27批次药品不符合规定",
+      "description": "国家药品监督管理局通报，抽检发现标示为17家药企生产的27批次药品不符合规定。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-17T04:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/china-drug-regulator-flags-27-batches-1c1644",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "suspected-russian-planes-enter-fukuoka-airspace-37381b",
+      "title": "日本称两架疑似俄军机进入福冈附近领空",
+      "description": "日本防卫省称，两架疑似俄罗斯军机于11月17日凌晨进入福冈县西南部冲之岛附近领空，航空自卫队紧急升空。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-17T04:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/suspected-russian-planes-enter-fukuoka-airspace-37381b",
+      "reference": [
+        "共同网",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "yutaka-enatsu-dies-aged-78-fdcd06",
+      "title": "共同社援引相关人士称江夏丰去世，享年78岁",
+      "description": "共同社援引相关人士消息称，日本职棒传奇球星江夏丰去世，享年78岁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-17T04:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/yutaka-enatsu-dies-aged-78-fdcd06",
+      "reference": [
+        "共同网"
+      ],
+      "section": "sports",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "us-allies-agree-protect-ai-supply-chain-40d0d4",
       "title": "美韩日等十国签署宣言加强人工智能供应链保护",
@@ -48,6 +371,24 @@
       "sources": []
     },
     {
+      "id": "eu-imposes-dumping-duties-steel-imports-ef667e",
+      "title": "欧盟对五地冷轧扁钢征收反倾销税",
+      "description": "欧盟委员会宣布，对来自台湾、印度、日本、土耳其和越南的特定冷轧扁钢产品征收反倾销税，措施自当地时间2026年11月17日起实施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-17T04:03:51+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/eu-imposes-dumping-duties-steel-imports-ef667e",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "wsj-reports-nvidia-family-centered-culture-ae827d",
       "title": "《华尔街日报》称辉达内部运作带有家族色彩",
       "description": "辉达内部运作被《华尔街日报》描述为高度围绕首席执行官黄仁勋及其家人展开，并伴有强势管理和公开训斥员工的情况。",
@@ -62,6 +403,24 @@
         "世界日报"
       ],
       "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "unc-north-korea-talks-halted-e4231c",
+      "title": "据报联合国军司令部筹备对朝会谈因韩方要求道歉中断",
+      "description": "据韩国国际广播电台转述的美国媒体NK News报道，NK News援引多名消息人士称，联合国军司令部军事停战委员会在今年9月21日非军事区地雷爆炸后曾与朝鲜军方接触，并推动举行自2019年以来首次面对面会谈。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-17T03:54:27+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/unc-north-korea-talks-halted-e4231c",
+      "reference": [
+        "韩国国际广播电台"
+      ],
+      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -182,27 +541,6 @@
       "sources": []
     },
     {
-      "id": "us-congress-china-ai-chip-restrictions-defense-bill-03c51c",
-      "title": "美国收紧五国芯片出口管制限制中国海外算力",
-      "description": "美国商务部工业与安全局11月16日发布临时最终规则，收紧先进人工智能芯片及相关算力服务的出口管制，旨在阻止中国企业通过第三国数据中心远程使用美国受管制芯片。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-17T03:10:07+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/us-congress-china-ai-chip-restrictions-defense-bill-03c51c",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "财新",
-        "日经"
-      ],
-      "section": "ai",
-      "sourceCount": 11,
-      "sources": []
-    },
-    {
       "id": "chen-mingchi-trump-controls-taiwan-arms-sale-d604e7",
       "title": "陈明祺称对台军售批准时间取决于特朗普",
       "description": "台湾外交部次长陈明祺在法新社专访中表示，美国总额140亿美元的对台军售案何时获批，主要由美国总统特朗普决定。",
@@ -254,25 +592,6 @@
       ],
       "section": "culture",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "suspected-russian-planes-enter-fukuoka-airspace-37381b",
-      "title": "日本称两架疑似俄军机进入冲之岛附近领空",
-      "description": "日本防卫省称，17日当天，两架可能是俄罗斯军机的飞机接连进入福冈县附近海域领空。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-17T02:31:40+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/suspected-russian-planes-enter-fukuoka-airspace-37381b",
-      "reference": [
-        "共同网",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -480,27 +799,6 @@
       ],
       "section": "china",
       "sourceCount": 487,
-      "sources": []
-    },
-    {
-      "id": "trump-may-meet-kim-in-china-0570d7",
-      "title": "特朗普称访华期间或会晤金正恩",
-      "description": "美国总统特朗普在启程访问亚洲前表示，访华期间可能与朝鲜领导人金正恩会面。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-17T01:38:51+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/trump-may-meet-kim-in-china-0570d7",
-      "reference": [
-        "联合早报",
-        "法广",
-        "财新",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -765,27 +1063,6 @@
       "sources": []
     },
     {
-      "id": "cop31-antalya-opens-global-stocktake-54a7c1",
-      "title": "土耳其发起人工智能气候承诺评估环境风险",
-      "description": "联合国气候变化框架公约第31次缔约方大会（COP31）正在土耳其安塔利亚举行，会议定于11月20日结束。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-17T00:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/cop31-antalya-opens-global-stocktake-54a7c1",
-      "reference": [
-        "澎湃新闻",
-        "公视",
-        "联合早报",
-        "SBS"
-      ],
-      "section": "world",
-      "sourceCount": 48,
-      "sources": []
-    },
-    {
       "id": "brazil-investors-question-fiscal-reform-stocks-fall-2eba18",
       "title": "投资者质疑财政改革巴西股市下跌近2%",
       "description": "巴西金融市场16日走弱，雷亚尔收于1美元兑约5.78雷亚尔，基准股指Ibovespa下跌1.83%。",
@@ -839,27 +1116,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-agencies-push-megaspeed-listing-delay-e5d17e",
-      "title": "特朗普为暂缓将Megaspeed列入实体清单辩护",
-      "description": "美国总统唐纳德·特朗普11月16日为商务部长霍华德·卢特尼克暂缓将新加坡公司Megaspeed列入出口管制实体清单辩护，称若不延后处理，美国可能与中国发生严重冲突。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-17T00:01:53+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/us-agencies-push-megaspeed-listing-delay-e5d17e",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 13,
       "sources": []
     },
     {
@@ -1458,27 +1714,6 @@
       "sources": []
     },
     {
-      "id": "asean-china-leaders-urge-south-china-sea-code-8971e5",
-      "title": "中国与东盟承诺南海争议海域保持克制",
-      "description": "中国与东盟领导人11月16日在菲律宾马尼拉举行第29届东盟—中国峰会，南海争议是会议议题之一。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T14:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/asean-china-leaders-urge-south-china-sea-code-8971e5",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "公视",
-        "德国之声"
-      ],
-      "section": "world",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "who-warns-antimicrobial-resistance-threatens-modern-medicine-6e5d90",
       "title": "世卫警告抗药性正威胁现代医学未来",
       "description": "世界卫生组织官员警告，抗微生物药物抗药性已相当普遍，正威胁现代医学，并呼吁各国加快推进国家行动计划。",
@@ -1568,24 +1803,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taipei-polls-puma-shen-leads-wayne-chiang-dbfda0",
-      "title": "台北市长封关民调对领先者判断不一",
-      "description": "台湾台北市长选战进入最后阶段，多家机构在民调发布禁令生效前公布调查结果，但对沈伯洋和寻求连任的蒋万安谁领先，判断差距很大。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T13:47:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/taipei-polls-puma-shen-leads-wayne-chiang-dbfda0",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -1963,27 +2180,6 @@
       "sources": []
     },
     {
-      "id": "iranian-official-source-sirik-enemy-military-attack-8d6e02",
-      "title": "伊朗革命卫队称无人机袭击巴林美军雷达设施",
-      "description": "伊朗伊斯兰革命卫队称，其航天部队在当地时间15日凌晨出动6架无人机，袭击巴林里法直升机基地内的美军防空雷达设施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T12:10:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/iranian-official-source-sirik-enemy-military-attack-8d6e02",
-      "reference": [
-        "澎湃新闻",
-        "日本放送协会",
-        "法广",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 9,
-      "sources": []
-    },
-    {
       "id": "cnn-vance-weighs-skipping-2028-race-3bdd57",
       "title": "CNN称万斯认真考虑不参加2028年总统竞选",
       "description": "美国副总统万斯在共和党中期选举惨败后，正认真考虑不参加2028年总统竞选，但尚未作出决定。",
@@ -2113,24 +2309,6 @@
       "sources": []
     },
     {
-      "id": "lian-maojun-jilin-standing-committee-changchun-party-chief-8c5468",
-      "title": "连茂君出任吉林省委常委、长春市委书记",
-      "description": "连茂君出任吉林省委常委、长春市委书记。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T10:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/lian-maojun-jilin-standing-committee-changchun-party-chief-8c5468",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "jiangxi-starts-twelfth-drug-procurement-3535bf",
       "title": "江西启动第十二批国家药品集采结果执行",
       "description": "江西省医疗机构已于11月16日零时起执行第十二批国家组织药品集中带量采购中选结果。",
@@ -2167,24 +2345,6 @@
       ],
       "section": "business",
       "sourceCount": 8,
-      "sources": []
-    },
-    {
-      "id": "fangtaozi-operator-fined-false-contact-lens-ad-e97c97",
-      "title": "方桃子运营方因发布医疗广告违法行为被罚6.82万余元",
-      "description": "近日，AI演员“方桃子”的运营方因发布医疗广告违法行为，被罚款6.82万余元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T09:57:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/fangtaozi-operator-fined-false-contact-lens-ad-e97c97",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2889,24 +3049,6 @@
       "sources": []
     },
     {
-      "id": "chiang-wan-an-attend-tpp-rally-8af6ad",
-      "title": "蒋万安将出席民众党选前大型竞选集会",
-      "description": "台湾民众党主席黄国昌证实，国民党籍台北市长蒋万安已答应出席该党定于11月21日晚举行的选前大型竞选集会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T06:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/chiang-wan-an-attend-tpp-rally-8af6ad",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "delray-beach-cancels-2027-parades-a2286c",
       "title": "佛州德尔雷滩取消2027年圣帕特里克节及同志游行",
       "description": "佛罗里达州德尔雷滩市政府宣布，2027年将取消圣帕特里克节游行和年度同志游行。",
@@ -2921,24 +3063,6 @@
         "世界日报"
       ],
       "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-counts-fetuses-social-housing-priority-58202a",
-      "title": "台湾内政部将胎儿纳入社宅承租排序",
-      "description": "台湾内政部11月11日发布并施行一项办法，明确育有未成年子女的家庭承租该部兴办社会住宅时的排序规则：申请人或配偶的未成年子女与胎儿合并计算，人数较多者优先承租。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T05:37:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/taiwan-counts-fetuses-social-housing-priority-58202a",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -3151,24 +3275,6 @@
       "sources": []
     },
     {
-      "id": "jensen-huang-influence-fades-d70cab",
-      "title": "日经称黄仁勋失势引发特朗普政府内部纷争",
-      "description": "日经称，英伟达前首席执行官黄仁勋在特朗普政府中的影响力已经减弱。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T01:48:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/jensen-huang-influence-fades-d70cab",
-      "reference": [
-        "日经"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "us-china-trade-council-holds-first-meeting-139785",
       "title": "中美贸易理事会举行首次会议讨论关税",
       "description": "中美经贸磋商机制项下贸易理事会于11月13日通过视频方式举行首次会议。",
@@ -3205,24 +3311,6 @@
       ],
       "section": "china",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "south-korea-phone-detox-center-teens-047b86",
-      "title": "韩国政府设立全国唯一青少年手机戒断中心",
-      "description": "韩国政府出资设立全国唯一的手机戒断中心，为未满18岁的少女提供为期8天的疗程。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T01:01:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/south-korea-phone-detox-center-teens-047b86",
-      "reference": [
-        "公视"
-      ],
-      "section": "life",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3301,24 +3389,6 @@
       "sources": []
     },
     {
-      "id": "beijing-fines-pien-tze-huang-stores-cancer-claims-aa2613",
-      "title": "北京有关机构处罚宣称片仔癀可治癌门店",
-      "description": "近日，北京市有关机构因片仔癀线下门店宣称其可治疗癌症，对相关门店开出罚单。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T00:23:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/beijing-fines-pien-tze-huang-stores-cancer-claims-aa2613",
-      "reference": [
-        "财新"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "beijing-phases-out-flexible-women-retirement-604960",
       "title": "财新称北京将逐步取消女性灵活就业者50岁退休政策",
       "description": "据财新报道，北京自2026年11月1日起规范女性灵活就业人员退休年龄，原先部分人员适用的50岁退休安排将逐步退出。",
@@ -3333,24 +3403,6 @@
         "财新"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "kelly-sydney-night-markets-small-business-6e4c0e",
-      "title": "Kelly盼借悉尼夜市为小生意创造发展机会",
-      "description": "被称为“夜市女王”的Kelly在澳大利亚生活30年，正推动悉尼夜市发展，并盼把自己熟悉的夜市文化带到当地。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T23:09:51+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/kelly-sydney-night-markets-small-business-6e4c0e",
-      "reference": [
-        "SBS"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -3461,42 +3513,6 @@
         "第一财经"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-fire-agency-orders-hazard-fixes-cc845d",
-      "title": "国家消防救援局要求单位限期整改严重火灾隐患",
-      "description": "国家消防救援局发布通告，要求相关社会单位（场所）在11月30日前完成对严重火灾隐患和消防安全违法行为的自查整改。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T14:17:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-15",
-      "url": "https://kaopu.news/story/2026-11-15/china-fire-agency-orders-hazard-fixes-cc845d",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "rubio-cia-report-trump-warning-6291f7",
-      "title": "卢比欧据称依据未明CIA报告警告特朗普",
-      "description": "围绕辉达共同创办人黄仁勋与前Megaspeed主管黄乐的争议中，黄乐涉嫌替中国从事间谍活动的核心指控受到质疑。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-15T13:10:27+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-15",
-      "url": "https://kaopu.news/story/2026-11-15/rubio-cia-report-trump-warning-6291f7",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
@@ -4596,24 +4612,6 @@
       "url": "https://kaopu.news/story/2026-11-11/ihi-plans-japan-satellite-mass-production-22394c",
       "reference": [
         "日经"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "teco-gmi-cloud-japan-modular-data-center-a60fd3",
-      "title": "东元与GMI Cloud将在日本建设模块化数据中心",
-      "description": "东元将与人工智能云服务商GMI Cloud及日本凯信数基株式会社（KSDI），在日本九州鹿儿岛县萨摩川内市建设模块化数据中心。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T07:07:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/teco-gmi-cloud-japan-modular-data-center-a60fd3",
-      "reference": [
-        "中央通訊社"
       ],
       "section": "tech",
       "sourceCount": 1,
