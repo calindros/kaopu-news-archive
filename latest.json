@@ -1,11 +1,258 @@
 {
   "details": {
     "date": "2026-11-18",
-    "timestamp": 1794965782,
+    "timestamp": 1794972767,
     "totalPages": 1,
-    "total": 253
+    "total": 255
   },
   "stories": [
+    {
+      "id": "foxconn-to-acquire-sony-auto-camera-unit-e10008",
+      "title": "鸿海拟以72.4亿日元收购索尼车载摄像头业务",
+      "description": "鸿海11月17日宣布，拟以72.4亿日元现金收购索尼半导体解决方案公司（SSS）在泰国开展的车载摄像头模组业务，计划在取得监管批准并满足协议先决条件后，于2027年4月底前完成交割。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-18T02:13:02+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/foxconn-to-acquire-sony-auto-camera-unit-e10008",
+      "reference": [
+        "中央通訊社",
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "sanae-takaichi-trump-philippines-cooperation-7d9c8e",
+      "title": "高市与特朗普在马尼拉确认继续紧密合作",
+      "description": "日本首相高市早苗17日晚在马尼拉出席菲律宾总统马科斯主持的晚宴时，与美国总统特朗普短暂交谈。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-18T02:13:02+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/sanae-takaichi-trump-philippines-cooperation-7d9c8e",
+      "reference": [
+        "共同网",
+        "联合早报",
+        "日经"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "nsa-net-classified-communications-network-outage-74b8a3",
+      "title": "美国国家安全局机密通信网因补丁暂时降级",
+      "description": "美国国家安全局用于内部传递机密信息的NSANet在11月17日计划例行维护期间出现暂时性性能下降，部分内部系统受到影响。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-18T02:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/nsa-net-classified-communications-network-outage-74b8a3",
+      "reference": [
+        "世界日报",
+        "法广",
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "xu-yiding-indicted-bribery-shanghai-ac5165",
+      "title": "农发行原副行长徐一丁被检方提起公诉",
+      "description": "上海市人民检察院第三分院近日已将中国农业发展银行原党委委员、副行长徐一丁涉嫌受贿案诉至上海市第三中级人民法院，检方以涉嫌受贿罪对其提起公诉。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-18T02:01:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/xu-yiding-indicted-bribery-shanghai-ac5165",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "apple-internal-update-disrupts-services-7b1cb0",
+      "title": "苹果内部系统更新致多项服务中断",
+      "description": "苹果多项线上服务于11月17日发生中断，涉及App Store、Apple Music、云存储账户登录及支付功能。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-18T01:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/apple-internal-update-disrupts-services-7b1cb0",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "tech",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "putin-lee-jae-myung-apec-meeting-3001b7",
+      "title": "普京将在APEC期间与李在明会面",
+      "description": "克里姆林宫称，普京将在APEC领导人非正式会议期间以某种形式会见韩国总统李在明。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-18T01:53:47+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/putin-lee-jae-myung-apec-meeting-3001b7",
+      "reference": [
+        "韩民族日报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nigeria-bauchi-attack-chinese-citizen-killed-9a5ade",
+      "title": "尼日利亚包奇州袭击致一名中国公民死亡",
+      "description": "尼日利亚东北部包奇州11月14日发生武装人员袭击，一名中国公民遇难；一名当地警察在与袭击者交火时身亡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-18T01:53:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/nigeria-bauchi-attack-chinese-citizen-killed-9a5ade",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-congress-china-ai-chip-restrictions-defense-bill-03c51c",
+      "title": "美国扩大芯片出口管制封堵对华海外算力渠道",
+      "description": "美国商务部工业与安全局（BIS）11月16日发布先进半导体出口管制临时最终规则，将新加坡、马来西亚、泰国、印度尼西亚和巴西列为高风险转运国家。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-18T01:53:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-14",
+      "url": "https://kaopu.news/story/2026-11-14/us-congress-china-ai-chip-restrictions-defense-bill-03c51c",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "财新",
+        "日经"
+      ],
+      "section": "ai",
+      "sourceCount": 32,
+      "sources": []
+    },
+    {
+      "id": "shiseido-sells-aupres-unit-idg-led-consortium-dc70da",
+      "title": "资生堂将欧珀莱运营公司全部股权售予IDG主导联盟",
+      "description": "资生堂已签署协议，将资生堂丽源化妆品有限公司的全部股权转让给由IDG资本主导的投资者联盟。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-18T01:42:38+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/shiseido-sells-aupres-unit-idg-led-consortium-dc70da",
+      "reference": [
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "uk-court-approves-asset-recovery-settlement-1f7b72",
+      "title": "英国高院批准苏海金徐海卡交出约5500万英镑资产",
+      "description": "英国国家打击犯罪局近日宣布，英国高等法院已批准苏海金、徐海卡的两项资产追缴和解协议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-18T01:37:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/uk-court-approves-asset-recovery-settlement-1f7b72",
+      "reference": [
+        "财新"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-senior-homeowners-mortgages-double-3c8e28",
+      "title": "美国75岁以上房主仍还房贷人数升至393万",
+      "description": "美国75岁及以上仍在偿还房贷的房主，2025年增至约393万人，较2010年的179万人增加一倍以上。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-18T01:35:18+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/us-senior-homeowners-mortgages-double-3c8e28",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "canada-seeks-pragmatic-china-trade-ties-aef86f",
+      "title": "中加达成补充经贸安排扩大关税减免",
+      "description": "加拿大总理马克·卡尼与中国国家主席习近平11月17日在深圳会晤，双方同意扩大并延长部分关税减免措施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-18T01:25:24+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/canada-seeks-pragmatic-china-trade-ties-aef86f",
+      "reference": [
+        "联合早报",
+        "加拿大国际广播电台",
+        "纽约时报",
+        "财新"
+      ],
+      "section": "world",
+      "sourceCount": 16,
+      "sources": []
+    },
+    {
+      "id": "jo-yong-won-delegation-arrives-moscow-4fa6e0",
+      "title": "赵甬元在莫斯科会见普京讨论巩固俄朝关系",
+      "description": "朝鲜劳动党中央委员会书记赵甬元率党政代表团访问俄罗斯，并于11月16日在莫斯科克里姆林宫会见俄罗斯总统普京，双方谈及巩固两国关系。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-18T01:23:23+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/jo-yong-won-delegation-arrives-moscow-4fa6e0",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
     {
       "id": "huawei-trial-prosecutors-allege-criminal-enterprise-30255e",
       "title": "华为刑案辩方称检方未能证明指控",
@@ -26,22 +273,42 @@
       "sources": []
     },
     {
-      "id": "sanae-takaichi-trump-philippines-cooperation-7d9c8e",
-      "title": "高市早苗与特朗普在菲律宾确认继续合作",
-      "description": "日本首相高市早苗11月17日在菲律宾总统费迪南德·马科斯主持的晚宴上，与美国总统唐纳德·特朗普短暂交谈。",
+      "id": "asif-merchant-trump-assassination-plot-sentenced-daf7db",
+      "title": "巴基斯坦男子密谋刺杀特朗普被判330个月监禁",
+      "description": "巴基斯坦籍男子阿西夫·默钱特11月17日在纽约布鲁克林联邦法院被判处330个月监禁。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-18T01:13:00+00:00",
+      "updatedAt": "2026-11-18T01:15:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/sanae-takaichi-trump-philippines-cooperation-7d9c8e",
+      "url": "https://kaopu.news/story/2026-11-18/asif-merchant-trump-assassination-plot-sentenced-daf7db",
       "reference": [
-        "共同网",
         "联合早报"
       ],
-      "section": "asia",
-      "sourceCount": 2,
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-may-meet-kim-in-china-0570d7",
+      "title": "特朗普在马尼拉称金正恩“应该想来”会面",
+      "description": "美国总统唐纳德·特朗普11月17日在菲律宾马尼拉参加四方安全对话领导人会议期间，回应记者有关金正恩是否会赴华的问题称，金正恩“应该想来”，并表示“拭目以待”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-18T01:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/trump-may-meet-kim-in-china-0570d7",
+      "reference": [
+        "联合早报",
+        "法广",
+        "财新",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 17,
       "sources": []
     },
     {
@@ -63,24 +330,21 @@
       "sources": []
     },
     {
-      "id": "trump-may-meet-kim-in-china-0570d7",
-      "title": "特朗普称深圳APEC期间或与金正恩会面",
-      "description": "美国总统特朗普在菲律宾出席四方安全对话领导人会议期间，再次谈到与朝鲜领导人金正恩会面的可能性，并表示对在深圳举行的亚太经合组织（APEC）领导人非正式会议期间会面持开放态度。",
+      "id": "nvidia-kinsus-substrate-expansion-investment-97095d",
+      "title": "景硕称获辉达逾10亿美元投资扩建载板产能",
+      "description": "辉达宣布扩大与多家供应链伙伴的产能合作，涵盖载板、先进封装、晶圆及委托制造，并与台积电、鸿海、矽品、京元电、景硕、欣兴等企业合作，以支持人工智能基础设施建设。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-18T00:53:58+00:00",
+      "updatedAt": "2026-11-18T00:54:27+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/trump-may-meet-kim-in-china-0570d7",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/nvidia-kinsus-substrate-expansion-investment-97095d",
       "reference": [
-        "联合早报",
-        "法广",
-        "财新",
-        "澎湃新闻"
+        "中央通訊社"
       ],
-      "section": "world",
-      "sourceCount": 16,
+      "section": "business",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -141,27 +405,6 @@
       ],
       "section": "ai",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "us-congress-china-ai-chip-restrictions-defense-bill-03c51c",
-      "title": "美国商务部新规限制中国企业远程获取先进算力",
-      "description": "美国商务部工业与安全局11月16日发布先进半导体出口管制新规，限制中国等受管制地区的企业通过海外数据中心远程取得大规模算力。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-18T00:40:06+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/us-congress-china-ai-chip-restrictions-defense-bill-03c51c",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "财新",
-        "日经"
-      ],
-      "section": "ai",
-      "sourceCount": 30,
       "sources": []
     },
     {
@@ -266,6 +509,25 @@
       "sources": []
     },
     {
+      "id": "nvidia-revenue-forecast-exceeds-estimates-95fd97",
+      "title": "英伟达超预期财报带动股价盘后上涨",
+      "description": "英伟达公布2027财年第三季度业绩，并给出高于市场预期的第四季度营收展望。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-18T00:20:14+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/nvidia-revenue-forecast-exceeds-estimates-95fd97",
+      "reference": [
+        "中央通訊社",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
       "id": "deutsche-bank-leaked-confidential-files-742754",
       "title": "当今大马称德意志银行逾1500万份密件外泄",
       "description": "当今大马报道，德意志银行超过1500万份内部材料遭泄露，内容包括高管电子邮件、保密风险评估和可疑交易报告。",
@@ -281,25 +543,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nvidia-revenue-forecast-exceeds-estimates-95fd97",
-      "title": "英伟达财报与营收指引超预期盘后股价走高",
-      "description": "美国股市周二（11月17日）三大股指收跌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-17T23:50:43.249032+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/nvidia-revenue-forecast-exceeds-estimates-95fd97",
-      "reference": [
-        "中央通訊社",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -319,6 +562,25 @@
       ],
       "section": "world",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "wsj-reports-nvidia-family-centered-culture-ae827d",
+      "title": "纽时称黄敏珊在英伟达影响力超出职务",
+      "description": "《纽约时报》称，黄仁勋辞去英伟达首席执行官职务后，女儿黄敏珊在公司的实际影响力超出其正式职务，黄家成员的任职安排也令公司治理和接班问题受到审视。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-17T23:45:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/wsj-reports-nvidia-family-centered-culture-ae827d",
+      "reference": [
+        "世界日报",
+        "中央通訊社"
+      ],
+      "section": "tech",
+      "sourceCount": 5,
       "sources": []
     },
     {
@@ -410,26 +672,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nsa-net-classified-communications-network-outage-74b8a3",
-      "title": "美国国家安全局机密通信网维护期间短暂降级",
-      "description": "美国国家安全局供员工内部传递机密信息的NSANet在例行维护时出现暂时功能下降。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-17T23:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/nsa-net-classified-communications-network-outage-74b8a3",
-      "reference": [
-        "世界日报",
-        "法广",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -768,27 +1010,6 @@
       ],
       "section": "us",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "canada-seeks-pragmatic-china-trade-ties-aef86f",
-      "title": "习近平与卡尼深圳会晤同意扩大关税减免",
-      "description": "中国国家主席习近平与加拿大总理马克·卡尼11月17日在深圳会晤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-17T16:12:17.528000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/canada-seeks-pragmatic-china-trade-ties-aef86f",
-      "reference": [
-        "联合早报",
-        "加拿大国际广播电台",
-        "纽约时报",
-        "财新"
-      ],
-      "section": "world",
-      "sourceCount": 15,
       "sources": []
     },
     {
@@ -1735,24 +1956,6 @@
       "sources": []
     },
     {
-      "id": "foxconn-to-acquire-sony-auto-camera-unit-e10008",
-      "title": "鸿海拟现金收购索尼半导体车载相机模组业务",
-      "description": "鸿海宣布与索尼半导体解决方案公司（SSS）签署协议，拟以72.4亿日元（约新台币14.5亿元）现金收购其车载相机模组业务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-17T10:50:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/foxconn-to-acquire-sony-auto-camera-unit-e10008",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "hassan-karim-police-questioning-d89160",
       "title": "哈山卡林因抗议纳吉特赦诗作遭警方调查",
       "description": "据哈山卡林说，警方援引《煽动法令》第4(1)条文，调查公正党巴西古当国会议员哈山卡林发布抗议纳吉获特赦的马来诗《微臣不甘》（Patik Tak Rela）一事。",
@@ -1786,25 +1989,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nyt-reviews-us-china-summit-risks-4d8d0b",
-      "title": "特朗普与习近平深圳会晤预计聚焦人工智能",
-      "description": "美国总统特朗普与中国国家主席习近平定于11月18日至19日在深圳举行的亚太经合组织（APEC）领导人会议期间会晤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-17T10:25:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-15",
-      "url": "https://kaopu.news/story/2026-11-15/nyt-reviews-us-china-summit-risks-4d8d0b",
-      "reference": [
-        "世界日报",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1935,24 +2119,6 @@
       "sources": []
     },
     {
-      "id": "germany-norway-fund-ukraine-patriot-systems-ea56a1",
-      "title": "德国挪威共同出资为乌克兰采购爱国者系统",
-      "description": "德国和挪威将共同出资，为乌克兰采购新一批美国“爱国者”防空系统及相关装备。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-17T09:53:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/germany-norway-fund-ukraine-patriot-systems-ea56a1",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "zaqy-mohamad-urges-youth-spot-online-extremism-e67141",
       "title": "扎吉哈呼吁青年识别网络极端主义诱导",
       "description": "扎吉哈星期二（11月17日）在共和理工学院举行的跨机构后续关怀团年度青年论坛上，呼吁青年警惕网络极端主义，不要把判断力交给人工智能。",
@@ -2022,25 +2188,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "who-warns-antimicrobial-resistance-threatens-modern-medicine-6e5d90",
-      "title": "世卫组织警告抗药性威胁现代医学并敦促各国加快行动",
-      "description": "世界卫生组织官员2026年11月16日警告，抗微生物药物抗药性正威胁现代医学。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-17T09:31:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/who-warns-antimicrobial-resistance-threatens-modern-medicine-6e5d90",
-      "reference": [
-        "法广",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2456,25 +2603,6 @@
       "sources": []
     },
     {
-      "id": "nvidia-executive-urges-huang-return-67c3bc",
-      "title": "据报辉达主管致函董事会促黄仁勋复职",
-      "description": "据《华尔街日报》报道，辉达开发者技术主管卡里尔（Nader Khalil）已致函公司高层、约60名曾直接向黄仁勋汇报的主管及董事会10名成员，要求黄仁勋复任首席执行官，并警告公司关键人才正考虑离职。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-17T06:54:34+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/nvidia-executive-urges-huang-return-67c3bc",
-      "reference": [
-        "中央通訊社",
-        "世界日报"
-      ],
-      "section": "tech",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "cxmt-ymtc-enter-global-memory-ranks-231dcd",
       "title": "中国“双长”十年间跻身全球存储芯片前列",
       "description": "成立十年的长鑫存储和长江存储，已分别进入全球DRAM和NAND市场营收份额前列。",
@@ -2529,25 +2657,6 @@
       ],
       "section": "life",
       "sourceCount": 8,
-      "sources": []
-    },
-    {
-      "id": "wsj-reports-nvidia-family-centered-culture-ae827d",
-      "title": "纽约时报称黄敏珊权力引发辉达治理质疑",
-      "description": "据《纽约时报》报道，黄仁勋辞去辉达首席执行官职务后，女儿黄敏珊仍任物理AI产品市场营销高级总监。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-17T06:35:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/wsj-reports-nvidia-family-centered-culture-ae827d",
-      "reference": [
-        "世界日报",
-        "中央通訊社"
-      ],
-      "section": "tech",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -3232,24 +3341,6 @@
       "sources": []
     },
     {
-      "id": "imf-chief-warns-ai-reliance-threatens-financial-stability-690b93",
-      "title": "IMF总裁警告AI依赖恐危及全球金融稳定",
-      "description": "国际货币基金组织（IMF）总裁克里斯塔利娜·格奥尔基耶娃11月16日在东南亚国家联盟峰会期间接受CNBC采访时警告，全球经济增长过度倚重AI投资，仿佛“只靠一条腿站立”；如果投资者信心转弱、资金撤出AI领域，经济增长可能受损，金融稳定也会面临风险。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-17T01:37:35+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/imf-chief-warns-ai-reliance-threatens-financial-stability-690b93",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-adds-phenolphthalein-bisacodyl-food-list-50ed08",
       "title": "两部门已将酚丁类和比沙可啶类列入非食用物质名录",
       "description": "中国市场监管总局、国家卫生健康委11月16日联合将酚丁（酚汀）类和比沙可啶类物质纳入食品非食用物质名录；市场监管总局于11月7日发布两项补充检验方法。",
@@ -3422,24 +3513,6 @@
       "occurredAt": "",
       "publishedAt": "2026-11-16",
       "url": "https://kaopu.news/story/2026-11-16/china-universities-warn-illegal-vpn-use-570cf9",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "macau-continues-resident-cash-payments-3cb37e",
-      "title": "澳门政府连续20年向合资格居民派发现金",
-      "description": "澳门行政长官岑浩辉11月16日发表2027年施政报告，宣布延续现金分享计划，澳门将连续第20年向居民派发现金。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T13:54:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/macau-continues-resident-cash-payments-3cb37e",
       "reference": [
         "联合早报"
       ],
@@ -3653,24 +3726,6 @@
       "sources": []
     },
     {
-      "id": "new-york-shsat-glitch-makeup-exams-ca29e8",
-      "title": "纽约特殊高中入学考系统故障考生可获补考",
-      "description": "纽约市特殊高中入学考试（SHSAT）11月14日发生技术故障，部分考生无法登录系统或完成作答。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T06:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/new-york-shsat-glitch-makeup-exams-ca29e8",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "crosbie-challenges-gruters-rnc-chair-f63e5b",
       "title": "克罗斯比宣布竞选共和党全国委员会主席",
       "description": "美联社报道，共和党全国委员会（RNC）在期中选举失利后出现要求追责的内部行动。",
@@ -3704,24 +3759,6 @@
       ],
       "section": "us",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "california-voters-pass-housing-bond-south-bay-ea1b11",
-      "title": "加州选民通过住房债券提案南湾平价住房项目盼重启",
-      "description": "加州选民以59%的支持率通过1号提案，授权州政府发行逾110亿元债券，支持退伍军人及符合收入条件家庭的住房计划。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T06:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/california-voters-pass-housing-bond-south-bay-ea1b11",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
