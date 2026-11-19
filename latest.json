@@ -1,19 +1,19 @@
 {
   "details": {
     "date": "2026-11-19",
-    "timestamp": 1795087301,
+    "timestamp": 1795094961,
     "totalPages": 1,
-    "total": 258
+    "total": 259
   },
   "stories": [
     {
       "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "title": "中俄美首次三方会晤发表和平宣言",
-      "description": "中国国家主席习近平、俄罗斯总统普京和美国总统特朗普11月19日下午在深圳麒麟山庄举行中俄美首次三方元首会晤，并在会后共同发表《中俄美元首和平宣言》。",
+      "title": "中美俄元首深圳会晤后发表和平宣言",
+      "description": "11月19日下午，习近平、普京和特朗普在深圳麒麟山庄举行中美俄三国元首首次三方会晤，会议持续约90分钟。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-19T11:16:00+00:00",
+      "updatedAt": "2026-11-19T12:22:04+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-02",
       "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
@@ -24,7 +24,329 @@
         "澎湃新闻"
       ],
       "section": "world",
-      "sourceCount": 140,
+      "sourceCount": 145,
+      "sources": []
+    },
+    {
+      "id": "trump-hints-nvidia-blackwell-china-sales-f13d39",
+      "title": "特朗普称两三年后可放行Blackwell芯片售华",
+      "description": "美国总统唐纳德·特朗普11月19日在深圳出席亚太经合组织（APEC）峰会期间接受福克斯新闻采访时表示，若两三年后Blackwell不再是最先进的芯片，美国届时可以允许英伟达向中国销售。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T12:20:43+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/trump-hints-nvidia-blackwell-china-sales-f13d39",
+      "reference": [
+        "联合早报",
+        "世界日报"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "miit-approves-eight-region-6g-innovation-pilot-cd2784",
+      "title": "工信部同意八省市开展6G创新发展试点",
+      "description": "中国工业和信息化部同意北京、河北、上海、江苏、浙江、安徽、湖北、广东8个省（市）开展6G创新发展部省协同试点。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T12:18:34.847341+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/miit-approves-eight-region-6g-innovation-pilot-cd2784",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "tech",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-adds-phenolphthalein-bisacodyl-food-list-50ed08",
+      "title": "两部门将酚丁类和比沙可啶类列入非食用名录",
+      "description": "中国市场监管总局、国家卫生健康委11月16日联合发布新一批食品中可能添加的非食用物质名录，将酚丁（酚汀）类和比沙可啶类物质纳入其中。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T12:15:34.847609+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/china-adds-phenolphthalein-bisacodyl-food-list-50ed08",
+      "reference": [
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "life",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "three-property-firms-face-delisting-risk-de7eb7",
+      "title": "多家A股公司跌破1元面临面值退市风险",
+      "description": "截至11月19日收盘，第一财经根据Wind数据统计，A股收盘价低于1元的公司共有7家，其中4家停牌，另外3家均为ST股。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T12:05:51.878412+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/three-property-firms-face-delisting-risk-de7eb7",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-us-philippines-expand-defense-cooperation-caa52d",
+      "title": "美菲将推进逾20亿美元防务融资方案",
+      "description": "美国与菲律宾宣布扩大防务和经济合作，拟推进一项超过20亿美元的对外军事融资贷款计划，协助菲律宾向美国供应商采购防务及安全装备。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T12:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/trump-us-philippines-expand-defense-cooperation-caa52d",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "south-korea-exports-surpass-one-trillion-674648",
+      "title": "韩国年度出口额首次突破1万亿美元",
+      "description": "韩国今年累计出口额首次突破1万亿美元，成为美国、德国和中国之后第四个达到这一门槛的国家。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T11:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/south-korea-exports-surpass-one-trillion-674648",
+      "reference": [
+        "东亚日报",
+        "韩国国际广播电台",
+        "中央通訊社",
+        "韩民族日报"
+      ],
+      "section": "business",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "japan-india-tokyo-foreign-defense-talks-f1b73f",
+      "title": "日印同意争取自卫队2027年起使用印度射击场",
+      "description": "日本与印度在东京举行外长、防长“2+2”磋商，茂木敏充、小泉进次郎、苏杰生和拉杰纳特·辛格出席。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T11:48:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/japan-india-tokyo-foreign-defense-talks-f1b73f",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "peace-committee-warns-gaza-ceasefire-collapse-854edc",
+      "title": "和平委员会警告加沙停火协议面临崩溃",
+      "description": "特朗普设立的和平委员会11月17日向联合国安理会提交报告，警告以色列和哈马斯若不兑现谈判期间的承诺，加沙脆弱停火可能破裂。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T11:47:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/peace-committee-warns-gaza-ceasefire-collapse-854edc",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-malaysia-sovereign-ai-cloud-plan-d89f21",
+      "title": "美国与马来西亚拟合作建设主权人工智能云设施",
+      "description": "美国与马来西亚拟推进主权人工智能云计划。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T11:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/us-malaysia-sovereign-ai-cloud-plan-d89f21",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "alibaba-q2-revenue-rises-ten-percent-d0cda1",
+      "title": "阿里巴巴财年二季度营收同比增长10%",
+      "description": "阿里巴巴集团11月19日公布截至2026年9月30日的2027财年第二季度业绩，营收为2715.19亿元，同比增长10%；经营利润291.16亿元，较上年同期增加443%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T11:42:38.568388+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/alibaba-q2-revenue-rises-ten-percent-d0cda1",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-virtual-power-capacity-exceeds-20-million-kw-3858b7",
+      "title": "全国虚拟电厂调节能力突破2000万千瓦",
+      "description": "国家能源局11月19日发布《中国虚拟电厂发展报告（2026）》。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T11:40:01.242633+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/china-virtual-power-capacity-exceeds-20-million-kw-3858b7",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
+      "title": "APEC深圳会议通过以“展望”为名的联合文件",
+      "description": "亚太经合组织第三十三次领导人非正式会议11月19日在深圳举行，与会经济体领导人通过一份以“展望”为名的联合文件。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T11:35:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "中央通訊社",
+        "第一财经"
+      ],
+      "section": "china",
+      "sourceCount": 129,
+      "sources": []
+    },
+    {
+      "id": "musk-regrets-446-million-midterm-spending-f02fab",
+      "title": "马斯克称近5亿美元助选共和党未见成效",
+      "description": "埃隆·马斯克在《纽约时报》DealBook峰会上谈及2026年美国中期选举时承认，他投入近5亿美元支持共和党候选人，却没有看到预期成果；如果重新决定，他会少花一些。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T11:30:37+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/musk-regrets-446-million-midterm-spending-f02fab",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "eu-proposes-45-billion-euro-ukraine-loan-04cb12",
+      "title": "欧盟委员会提议提供450亿欧元贷款援乌",
+      "description": "欧盟委员会11月18日提议向乌克兰追加450亿欧元贷款，用于填补2027年资金缺口，并支持民生预算和军事防卫。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T11:29:47+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/eu-proposes-45-billion-euro-ukraine-loan-04cb12",
+      "reference": [
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-arrives-shenzhen-apec-meeting-e5b2e2",
+      "title": "特朗普与习近平深圳会晤同意制定行动计划",
+      "description": "美国总统特朗普与中国国家主席习近平11月19日下午在深圳麒麟山庄举行今年第三次双边会晤，讨论贸易、人工智能芯片、稀土供应链和台海局势。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T11:22:25+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/trump-arrives-shenzhen-apec-meeting-e5b2e2",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "澎湃新闻",
+        "财新"
+      ],
+      "section": "china",
+      "sourceCount": 50,
+      "sources": []
+    },
+    {
+      "id": "icj-rules-myanmar-rohingya-genocide-7c20ba",
+      "title": "国际法院裁定缅甸对罗兴亚人实施种族灭绝",
+      "description": "国际法院星期四（11月19日）裁定，缅甸在若开邦北部针对罗兴亚人的行动达到种族灭绝的法律认定标准。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T11:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/icj-rules-myanmar-rohingya-genocide-7c20ba",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-regulator-tightens-short-selling-rules-4953f8",
+      "title": "台湾金管会将限制1028只个股低于前收盘价做空",
+      "description": "台湾金管会宣布，第二轮稳定股市措施将于2026年11月20日起实施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T11:04:07+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/taiwan-regulator-tightens-short-selling-rules-4953f8",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
       "sources": []
     },
     {
@@ -67,27 +389,6 @@
       "sources": []
     },
     {
-      "id": "xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
-      "title": "习近平在深圳提出建设亚太共同体",
-      "description": "亚太经合组织第三十三次领导人非正式会议11月18日至19日在深圳举行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T10:52:39.093820+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "中央通訊社",
-        "第一财经"
-      ],
-      "section": "china",
-      "sourceCount": 122,
-      "sources": []
-    },
-    {
       "id": "eu-leaders-coordinate-ecb-top-appointments-902ccc",
       "title": "欧盟领导人协调欧央行三项高层职位人选",
       "description": "欧盟领导人正把欧洲央行行长、执行委员会成员和首席经济学家三项高层任命放在同一套人事安排中协调，来自西班牙的德科斯与来自荷兰的诺特竞争行长职位。",
@@ -124,24 +425,42 @@
       "sources": []
     },
     {
-      "id": "trump-arrives-shenzhen-apec-meeting-e5b2e2",
-      "title": "习近平与特朗普深圳会晤同意制定行动计划",
-      "description": "中国国家主席习近平与美国总统特朗普11月19日在深圳举行双边会晤，这是两人今年第三次会面。",
+      "id": "iea-hormuz-crisis-energy-security-threat-794dc6",
+      "title": "国际能源署称霍尔木兹危机成能源安全史上最大威胁",
+      "description": "国际能源署11月19日发布年度《世界能源展望》，称霍尔木兹海峡危机已成为全球能源安全史上最大威胁，影响规模超过上世纪70年代石油危机。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-19T10:30:00+00:00",
+      "updatedAt": "2026-11-19T10:33:49+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/trump-arrives-shenzhen-apec-meeting-e5b2e2",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/iea-hormuz-crisis-energy-security-threat-794dc6",
       "reference": [
         "联合早报",
         "中央通訊社",
-        "澎湃新闻",
-        "财新"
+        "法广"
       ],
-      "section": "china",
-      "sourceCount": 48,
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "taiwan-stocks-tumble-below-39000-f4e379",
+      "title": "台湾加权指数大跌1768点失守年线",
+      "description": "台湾加权指数19日收报38426.89点，下跌1768.02点，跌幅4.40%，创收盘跌点史上第七高；成交值为新台币8952.81亿元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T10:33:49+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/taiwan-stocks-tumble-below-39000-f4e379",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "business",
+      "sourceCount": 11,
       "sources": []
     },
     {
@@ -241,8 +560,8 @@
     },
     {
       "id": "singapore-shanghai-sign-16-cooperation-agreements-dff761",
-      "title": "新沪理事会会议签署16项协议拓展合作",
-      "description": "新加坡—上海全面合作理事会第七次会议11月19日在上海举行，由唐振辉和上海市长朱忠明共同主持。",
+      "title": "新沪理事会第七次会议签订16项合作协议",
+      "description": "新加坡—上海全面合作理事会第七次会议11月19日在上海召开。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -254,7 +573,7 @@
         "联合早报"
       ],
       "section": "china",
-      "sourceCount": 1,
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -275,27 +594,6 @@
       ],
       "section": "culture",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "south-korea-exports-surpass-one-trillion-674648",
-      "title": "韩国年出口额首破万亿美元成为第四个达标国",
-      "description": "韩国今年累计出口额于11月19日突破1万亿美元，成为继美国、德国和中国之后第四个达到这一年度出口门槛的国家。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T09:58:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/south-korea-exports-surpass-one-trillion-674648",
-      "reference": [
-        "东亚日报",
-        "韩国国际广播电台",
-        "中央通訊社",
-        "韩民族日报"
-      ],
-      "section": "business",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -356,25 +654,6 @@
       ],
       "section": "china",
       "sourceCount": 15,
-      "sources": []
-    },
-    {
-      "id": "taiwan-stocks-tumble-below-39000-f4e379",
-      "title": "台湾加权指数重挫1768点跌破4万点",
-      "description": "台湾加权指数11月19日大幅下跌，收于38426.89点，跌1768.02点，跌幅4.40%，失守4万点及约39368点的年线。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T09:37:40+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/taiwan-stocks-tumble-below-39000-f4e379",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "business",
-      "sourceCount": 10,
       "sources": []
     },
     {
@@ -603,25 +882,6 @@
       ],
       "section": "asia",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "iea-hormuz-crisis-energy-security-threat-794dc6",
-      "title": "国际能源署称中东危机构成能源安全史上最大威胁",
-      "description": "国际能源署11月19日发布年度《世界能源展望》，称美国和以色列今年2月打击伊朗后引发的中东危机，已对能源安全构成史上最大威胁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T09:06:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/iea-hormuz-crisis-energy-security-threat-794dc6",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1110,25 +1370,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-regulator-tightens-short-selling-rules-4953f8",
-      "title": "台湾金管会推出第二轮股市限空措施",
-      "description": "台湾金融监督管理委员会11月19日宣布第二轮稳定股市措施，11月20日起实施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T07:01:49+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/taiwan-regulator-tightens-short-selling-rules-4953f8",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1824,26 +2065,6 @@
       "sources": []
     },
     {
-      "id": "musk-regrets-446-million-midterm-spending-f02fab",
-      "title": "马斯克称近5亿美元助选共和党收效有限",
-      "description": "埃隆·马斯克11月18日在《纽约时报》DealBook峰会上谈到自己对美国中期选举的投入，称他为共和党候选人及维持共和党对得克萨斯州的控制花了近5亿美元；如果能重来，他会减少支出。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T05:39:56+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/musk-regrets-446-million-midterm-spending-f02fab",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "analysts-propose-boost-private-investment-92a8eb",
       "title": "连平刘涛建议多措并举提振民间投资",
       "description": "连平、刘涛在一篇分析文章中提出，提振民间投资不能只靠增加信贷，还应从企业盈利、政策预期、法治环境、新兴产业投资和账款清欠等方面综合施策。",
@@ -2101,24 +2322,6 @@
       "sources": []
     },
     {
-      "id": "miami-herald-haitian-pastor-sanon-convicted-89892e",
-      "title": "迈阿密先驱报称海地牧师萨农共谋谋杀罪成",
-      "description": "法广援引《迈阿密先驱报》报道，美国陪审团判定68岁的海地牧师克里斯蒂安·萨农多项罪名成立，包括共谋谋杀和绑架海地前总统若弗内尔·摩依士。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T04:01:37+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/miami-herald-haitian-pastor-sanon-convicted-89892e",
-      "reference": [
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "taiwan-court-limits-hit-run-liability-cada69",
       "title": "最高行政法院大法庭限定肇事逃逸须属故意",
       "description": "台湾最高行政法院大法庭近日裁定，《道路交通管理处罚条例》第62条第4项所称肇事逃逸，须是驾驶人知道事故发生后仍故意离开现场。",
@@ -2151,24 +2354,6 @@
         "澎湃新闻"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "poland-seeks-gcap-observer-role-b51199",
-      "title": "波兰有意以观察员身份加入日英意战机计划",
-      "description": "波兰副总理兼外长西科尔斯基11月18日在华沙接受共同社等媒体采访时表示，波兰希望以观察员身份参与日本、英国和意大利推进的下一代战机计划GCAP。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T03:57:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/poland-seeks-gcap-observer-role-b51199",
-      "reference": [
-        "共同网"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -2241,44 +2426,6 @@
         "日经"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "grossi-says-yongbyon-enrichment-expansion-complete-cae6e9",
-      "title": "格罗西称朝鲜宁边铀浓缩设施扩建外部施工完成",
-      "description": "国际原子能机构总干事拉斐尔·格罗西11月18日在理事会会议上介绍朝鲜核设施情况时说，宁边铀浓缩设施自2026年9月中旬开始扩建，新增建筑的外部施工在10月底前后完成。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T03:07:45+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/grossi-says-yongbyon-enrichment-expansion-complete-cae6e9",
-      "reference": [
-        "联合早报",
-        "法广",
-        "韩国国际广播电台"
-      ],
-      "section": "world",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "trump-hints-nvidia-blackwell-china-sales-f13d39",
-      "title": "特朗普暗示两三年后放行Blackwell对华销售",
-      "description": "美国总统特朗普在中国深圳出席亚太经合组织峰会期间接受福克斯新闻采访时说，若两三年后自己仍在任，他届时会表示美国可以允许英伟达向中国出售Blackwell芯片，因为公司那时已有其他产品。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T02:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/trump-hints-nvidia-blackwell-china-sales-f13d39",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "ai",
       "sourceCount": 1,
       "sources": []
     },
@@ -2547,25 +2694,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-stocks-fall-below-43000-9bc68d",
-      "title": "台湾股市剧烈震荡后收涨重新站上四万点",
-      "description": "台湾股市18日大幅震荡，指数盘中从40938.2点跌至39260.99点，高低相差1677.21点，收盘上涨102.8点，涨幅0.26%，报40194.91点，重新站上四万点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T00:27:57+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/taiwan-stocks-fall-below-43000-9bc68d",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 30,
-      "sources": []
-    },
-    {
       "id": "china-eldercare-beds-fall-2025-4da459",
       "title": "全国养老床位总量降至767.9万张",
       "description": "《2025年度国家老龄事业发展公报》显示，截至2025年末，全国养老床位为767.9万张，较2020年823.8万张的峰值减少；每千名老年人约有23.7张床位。",
@@ -2829,25 +2957,6 @@
       ],
       "section": "business",
       "sourceCount": 16,
-      "sources": []
-    },
-    {
-      "id": "zhuhai-huafa-funding-strain-credit-risk-ca7e9d",
-      "title": "珠海国资委将两家国企股权注入资本集团",
-      "description": "11月13日和16日的公告分别称，珠海国资委将格力集团、珠海水控集团股权增资注入珠海资本集团，作为新一轮国资整合的一部分，为面临流动性压力的华发集团提供支持。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-18T15:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/zhuhai-huafa-funding-strain-credit-risk-ca7e9d",
-      "reference": [
-        "日经",
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3180,24 +3289,6 @@
       "sources": []
     },
     {
-      "id": "trump-us-philippines-expand-defense-cooperation-caa52d",
-      "title": "特朗普称美菲达成一项重大贸易协议",
-      "description": "据路透社报道，美国总统特朗普11月18日在马尼拉会见菲律宾总统小马可斯后，于总统府午宴上称，美菲刚达成一项“非常重大”的贸易协议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-18T08:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/trump-us-philippines-expand-defense-cooperation-caa52d",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "paho-revokes-us-measles-elimination-status-49259c",
       "title": "泛美卫生组织撤销美墨玻利维亚麻疹消除资格",
       "description": "泛美卫生组织（PAHO）11月17日宣布，美国、墨西哥和玻利维亚失去麻疹消除状态。",
@@ -3385,21 +3476,22 @@
       "sources": []
     },
     {
-      "id": "democrats-expand-medicaid-four-states-cda18c",
-      "title": "民主党拟在四州推动扩大白卡覆盖",
-      "description": "民主党人计划在佐治亚州、得克萨斯州、堪萨斯州和威斯康星州推动扩大医疗补助计划（Medicaid，俗称白卡），将更多低收入成年人纳入保障。",
+      "id": "huawei-trial-prosecutors-allege-criminal-enterprise-30255e",
+      "title": "华为及三家关联公司完成刑事案结案陈词",
+      "description": "华为及三家关联公司在纽约东区联邦法院的刑事案于11月17日完成结案陈词。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
       "updatedAt": "2026-11-18T06:29:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/democrats-expand-medicaid-four-states-cda18c",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/huawei-trial-prosecutors-allege-criminal-enterprise-30255e",
       "reference": [
-        "世界日报"
+        "世界日报",
+        "联合早报"
       ],
       "section": "us",
-      "sourceCount": 1,
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -3625,24 +3717,6 @@
       "sources": []
     },
     {
-      "id": "adp-china-workers-unpaid-work-hours-905877",
-      "title": "ADP报告显示中国42%受访员工每周无偿工作至少6小时",
-      "description": "ADP研究院发布《职场人2026：全球劳动力观点》。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-18T04:23:36.581718+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/adp-china-workers-unpaid-work-hours-905877",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "nvidia-gpu-rent-hike-lifts-china-chip-stocks-eabbdf",
       "title": "英伟达业绩和GPU租赁价格上涨之际，中国算力股走强",
       "description": "11月18日午盘，A股算力芯片相关股票走高，港股芯片股也有上涨。",
@@ -3657,24 +3731,6 @@
         "第一财经"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-builds-runway-antelope-reef-878ecc",
-      "title": "卫星图像显示中国在羚羊礁修建近三公里跑道",
-      "description": "据法新社报道，美国战略与国际问题研究中心（CSIS）和澳大利亚洛伊研究所近期发布的报告及卫星图像显示，中国从2025年底起在西沙群岛羚羊礁大规模疏浚、填海，并在礁上修建跑道。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-18T03:54:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/china-builds-runway-antelope-reef-878ecc",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
       "sourceCount": 1,
       "sources": []
     },
@@ -3749,24 +3805,6 @@
       ],
       "section": "tech",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "huang-agrees-senate-banking-testimony-d2fe34",
-      "title": "黄仁勋同意赴美国参议院银行委员会作证",
-      "description": "美国参议院银行委员会主席蒂姆·斯科特的发言人表示，辉达前首席执行官黄仁勋已同意到委员会作证，委员会正与他协调安排。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-18T01:40:47+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/huang-agrees-senate-banking-testimony-d2fe34",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3913,24 +3951,6 @@
       ],
       "section": "tech",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "miit-approves-eight-region-6g-innovation-pilot-cd2784",
-      "title": "工信部同意八省市开展6G创新发展部省协同试点",
-      "description": "工业和信息化部办公厅同意北京市、河北省、上海市、江苏省、浙江省、安徽省、湖北省和广东省开展6G创新发展部省协同试点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-17T08:53:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/miit-approves-eight-region-6g-innovation-pilot-cd2784",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
       "sources": []
     },
     {
