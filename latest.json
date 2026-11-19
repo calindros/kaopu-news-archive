@@ -1,11 +1,319 @@
 {
   "details": {
     "date": "2026-11-19",
-    "timestamp": 1795051941,
+    "timestamp": 1795059010,
     "totalPages": 1,
-    "total": 266
+    "total": 264
   },
   "stories": [
+    {
+      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "title": "英伟达董事会拒绝黄仁勋重返首席执行官职位",
+      "description": "英伟达公布第三季度业绩时，董事会明确表示无意让黄仁勋重返首席执行官职位。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T02:20:35+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-10-29",
+      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "公视"
+      ],
+      "section": "china",
+      "sourceCount": 534,
+      "sources": []
+    },
+    {
+      "id": "lee-jae-myung-xi-jinping-shenzhen-talks-peace-378381",
+      "title": "李在明与习近平宣布韩中自贸谈判实质完成",
+      "description": "韩国总统李在明与中国国家主席习近平11月18日在深圳会谈，宣布韩中自贸协定第二阶段服务贸易和投资谈判实质性完成。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T02:19:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/lee-jae-myung-xi-jinping-shenzhen-talks-peace-378381",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "中央通訊社",
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "title": "习近平特朗普普京将于深圳举行首次三方会晤",
+      "description": "习近平、特朗普和普京定于11月19日在深圳麒麟山庄举行首次正式三方会晤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T02:18:54+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "日经",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 110,
+      "sources": []
+    },
+    {
+      "id": "deutsche-bank-proposes-small-1mdb-settlement-66a24d",
+      "title": "德意志银行据报提议仅以索赔额一小部分和解",
+      "description": "据《当今大马》报道，德意志银行在与一马公司的和解磋商中提出，付款金额只占索赔额的一小部分。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T02:02:23+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/deutsche-bank-proposes-small-1mdb-settlement-66a24d",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-xi-jensen-huang-scandal-c34a7f",
+      "title": "特朗普称或曾向习近平提及黄仁勋风波",
+      "description": "据《卫报》报道，美国总统特朗普19日在深圳接受福克斯新闻采访时说，他可能曾简短向中国国家主席习近平提到英伟达创始人黄仁勋涉及婚外情传闻及共谍疑云。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T02:00:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/trump-xi-jensen-huang-scandal-c34a7f",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-arrives-shenzhen-apec-meeting-e5b2e2",
+      "title": "习近平亲赴机场迎接抵深出席APEC的特朗普",
+      "description": "美国总统特朗普于11月18日下午乘专机抵达深圳宝安国际机场，参加亚太经合组织第三十三次领导人非正式会议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T01:54:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/trump-arrives-shenzhen-apec-meeting-e5b2e2",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "澎湃新闻",
+        "财新"
+      ],
+      "section": "china",
+      "sourceCount": 23,
+      "sources": []
+    },
+    {
+      "id": "us-abstains-north-korea-human-rights-vote-5c9741",
+      "title": "美国首次在联大北韩人权决议表决中弃权",
+      "description": "当地时间18日，美国在联合国大会就北韩人权决议案投下弃权票。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T01:52:18+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/us-abstains-north-korea-human-rights-vote-5c9741",
+      "reference": [
+        "韩国国际广播电台"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nikkei-takaichi-trump-post-summit-call-17b2ef",
+      "title": "日经称高市将在中美俄会谈后与特朗普通话",
+      "description": "日经报道，日美政府正协调安排高市早苗在11月19日深圳中美俄首脑会谈结束后与美国总统特朗普通电话。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T01:49:32+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/nikkei-takaichi-trump-post-summit-call-17b2ef",
+      "reference": [
+        "日经"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "lawrence-wong-urges-singapore-china-asean-cooperation-d727e7",
+      "title": "台湾APEC代表施振荣在深圳与习近平握手",
+      "description": "台湾APEC领袖代表、宏碁集团创办人暨荣誉董事长施振荣18日抵达深圳，参加2026年亚太经合组织（APEC）经济领袖会议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T01:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/lawrence-wong-urges-singapore-china-asean-cooperation-d727e7",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
+      "id": "medicare-part-b-premium-rises-2027-f72434",
+      "title": "红蓝卡B部分月保费明年上调至209.40美元",
+      "description": "美国联邦医疗服务中心（CMS）公布2027年红蓝卡收费标准，B部分标准月保费将增加6.50美元，升至209.40美元，涨幅为3.2%，全年多缴78美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T01:30:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/medicare-part-b-premium-rises-2027-f72434",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "xi-outlines-apec-agenda-shenzhen-dinner-7bc0d6",
+      "title": "澳大利亚总理阿尔巴尼斯与普京合影惹争议",
+      "description": "澳大利亚总理安东尼·阿尔巴尼斯在深圳出席APEC峰会期间与俄罗斯总统弗拉基米尔·普京同框，引发争议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T01:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/xi-outlines-apec-agenda-shenzhen-dinner-7bc0d6",
+      "reference": [
+        "中央通訊社",
+        "公视",
+        "SBS"
+      ],
+      "section": "china",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "bay-area-naturalization-approvals-plunge-bdecff",
+      "title": "旧金山湾区入籍批准量一年间大幅下滑",
+      "description": "旧金山湾区圣何塞和旧金山两处美国公民及移民服务局（USCIS）办公室的入籍批准量大幅下降，申请数减少、待审案件增加。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T01:28:24+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/bay-area-naturalization-approvals-plunge-bdecff",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "gta6-preorders-exceed-sixteen-point-five-billion-ffdc84",
+      "title": "GTA6发售前预售额已超16.5亿美元",
+      "description": "Rockstar Games定于11月19日在全球推出《侠盗猎车手VI》（GTA6），面向PlayStation 5和Xbox Series X|S。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T01:22:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/gta6-preorders-exceed-sixteen-point-five-billion-ffdc84",
+      "reference": [
+        "日经"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "liu-hengping-xiamen-bishop-ordained-9a91de",
+      "title": "厦门教区候任主教刘恒平受祝圣成为主教",
+      "description": "厦门教区候任主教刘恒平11月18日在厦门鹭江道天主教堂接受祝圣，成为近4个月来中国大陆第6位获祝圣的主教。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T01:21:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/liu-hengping-xiamen-bishop-ordained-9a91de",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "south-korea-cabinet-approves-probe-bill-65f528",
+      "title": "韩国国务会议通过特检法公布案，法案经总统批准后公布施行",
+      "description": "韩国国务会议审议并通过一项特别检察法的公布案，调查尹锡悦政府时期检察厅、国家情报院、监察院等机构涉嫌捏造事实开展调查和提起诉讼的问题。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T01:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/south-korea-cabinet-approves-probe-bill-65f528",
+      "reference": [
+        "东亚日报",
+        "朝鲜日报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "ukraine-drone-strike-hits-crimean-bridge-ff04a7",
+      "title": "乌克兰袭击致克里米亚大桥桥拱坍塌",
+      "description": "乌克兰军方于11月16日至17日对克里米亚大桥发动多轮袭击，两个桥拱中的一座及部分公路桥面受损并坠入水中，大桥公路交通中断。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-19T01:07:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/ukraine-drone-strike-hits-crimean-bridge-ff04a7",
+      "reference": [
+        "法广",
+        "联合早报",
+        "公视",
+        "财新"
+      ],
+      "section": "world",
+      "sourceCount": 7,
+      "sources": []
+    },
     {
       "id": "bay-area-storm-brings-heavy-rain-45b16e",
       "title": "强风暴袭击旧金山湾区造成街道内涝",
@@ -180,25 +488,6 @@
       "sources": []
     },
     {
-      "id": "xi-outlines-apec-agenda-shenzhen-dinner-7bc0d6",
-      "title": "中国在深圳举办APEC经济领袖会议欢迎晚宴",
-      "description": "中国作为东道主，于11月18日晚在深圳国际交流中心为2026年亚太经济合作组织（APEC）经济领袖会议举办欢迎晚宴，习近平出席并致辞，各经济体代表参加。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T00:20:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/xi-outlines-apec-agenda-shenzhen-dinner-7bc0d6",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "gaza-residents-report-first-israeli-ground-raid-679873",
       "title": "以军越过加沙停火黄线发动攻势致至少3人死亡",
       "description": "以色列军队于11月18日越过加沙停火协议划定的“黄线”，在加沙中部努塞赖特难民营及周边展开地面行动并实施空袭，造成至少3人死亡。",
@@ -310,48 +599,6 @@
       "sources": []
     },
     {
-      "id": "lee-jae-myung-xi-jinping-shenzhen-talks-peace-378381",
-      "title": "习近平李在明宣布中韩自贸协定第二阶段谈判实质完成",
-      "description": "中国国家主席习近平与韩国总统李在明18日在深圳会晤，并宣布中韩自贸协定第二阶段谈判实质性完成。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T00:14:12+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/lee-jae-myung-xi-jinping-shenzhen-talks-peace-378381",
-      "reference": [
-        "韩国国际广播电台",
-        "联合早报",
-        "中央通訊社",
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "title": "习近平特朗普普京将于深圳举行首次三方会晤",
-      "description": "习近平、美国总统特朗普和俄罗斯总统普京定于11月19日下午在深圳麒麟山庄举行三方会谈，会议安排在亚太经合组织领导人非正式会议期间，预计持续约一小时。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T00:11:57+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "reference": [
-        "韩国国际广播电台",
-        "联合早报",
-        "日经",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 109,
-      "sources": []
-    },
-    {
       "id": "fed-minutes-signal-more-rate-hikes-767aec",
       "title": "美联储纪要显示几乎所有官员认可后续加息",
       "description": "美国联邦储备委员会11月18日公布10月利率决策会议纪要。",
@@ -369,27 +616,6 @@
       ],
       "section": "business",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "trump-arrives-shenzhen-apec-meeting-e5b2e2",
-      "title": "习近平亲赴深圳机场迎接到访的美国总统特朗普",
-      "description": "美国总统特朗普乘“空军一号”于11月18日下午抵达深圳宝安国际机场，出席亚太经合组织第三十三次领导人非正式会议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T00:08:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/trump-arrives-shenzhen-apec-meeting-e5b2e2",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "澎湃新闻",
-        "财新"
-      ],
-      "section": "china",
-      "sourceCount": 20,
       "sources": []
     },
     {
@@ -880,26 +1106,6 @@
       "sources": []
     },
     {
-      "id": "lawrence-wong-urges-singapore-china-asean-cooperation-d727e7",
-      "title": "施振荣抵深圳出席APEC代表团称接机尚可接受",
-      "description": "台湾APEC领袖代表施振荣18日上午乘坐华航专机抵达深圳宝安机场，出席在深圳举行的2026年APEC经济领袖会议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-18T18:26:05+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/lawrence-wong-urges-singapore-china-asean-cooperation-d727e7",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 14,
-      "sources": []
-    },
-    {
       "id": "jensen-huang-resignation-asian-stocks-fall-5612f6",
       "title": "亚欧股市下挫韩国综指收盘跌破5000点",
       "description": "亚洲多地股市在11月17日收跌，欧洲主要股指在17日和18日连续走低。",
@@ -918,27 +1124,6 @@
       ],
       "section": "business",
       "sourceCount": 16,
-      "sources": []
-    },
-    {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "英伟达董事会拒绝黄仁勋回任首席执行官",
-      "description": "英伟达11月17日公布第三季度业绩之际，黄仁勋公开表示愿意重返首席执行官职位；董事会主席哈维·琼斯随后表示，董事会一致接受了他的辞呈，目前无意让他复职。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-18T17:13:12.565000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 530,
       "sources": []
     },
     {
@@ -2129,24 +2314,6 @@
       "sources": []
     },
     {
-      "id": "who-bundibugyo-vaccine-trials-dr-congo-376122",
-      "title": "世卫预计两款邦迪布焦疫苗最快下周将在民主刚果试验",
-      "description": "世卫组织秘书长谭德塞在日内瓦记者会上说，针对邦迪布焦伊波拉病毒的两款候选疫苗最快下周将在民主刚果开展试验。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-18T08:31:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/who-bundibugyo-vaccine-trials-dr-congo-376122",
-      "reference": [
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "trump-us-philippines-expand-defense-cooperation-caa52d",
       "title": "特朗普称美菲达成一项重大贸易协议",
       "description": "据路透社报道，美国总统特朗普11月18日在马尼拉会见菲律宾总统小马可斯后，于总统府午宴上称，美菲刚达成一项“非常重大”的贸易协议。",
@@ -2162,24 +2329,6 @@
       ],
       "section": "us",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "ruag-ammunition-third-party-russia-transfer-237476",
-      "title": "瑞士媒体称瑞士制造精确制导弹药似经第三方转供俄罗斯",
-      "description": "《新苏黎世报·周日版》分析莫斯科一份合规证书登记资料后称，其中列有瑞士国有军工企业鲁阿格公司的两笔弹药交付记录，登记时间分别为2022年12月和2023年4月。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-18T08:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/ruag-ammunition-third-party-russia-transfer-237476",
-      "reference": [
-        "瑞士新闻简讯"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2238,25 +2387,6 @@
         "中央通訊社"
       ],
       "section": "life",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "eu-imposes-dumping-duties-steel-imports-ef667e",
-      "title": "欧盟对五地冷轧扁钢征收反倾销税",
-      "description": "欧盟自当地时间11月17日起，对来自台湾、印度、日本、土耳其和越南的特定冷轧扁钢产品征收反倾销税。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-18T08:05:06+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/eu-imposes-dumping-duties-steel-imports-ef667e",
-      "reference": [
-        "中央通訊社",
-        "共同网"
-      ],
-      "section": "world",
       "sourceCount": 3,
       "sources": []
     },
@@ -2403,24 +2533,6 @@
         "联合早报"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "kdi-raises-korea-2026-growth-forecast-5735c7",
-      "title": "韩国开发研究院上调韩国2026年增长预测至3.8%",
-      "description": "韩国开发研究院（KDI）11月18日发布《2026年下半年经济展望》，将韩国2026年经济增长预测定为3.8%，比8月公布的预测高0.6个百分点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-18T06:46:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/kdi-raises-korea-2026-growth-forecast-5735c7",
-      "reference": [
-        "韩国国际广播电台"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -2851,26 +2963,6 @@
       "sources": []
     },
     {
-      "id": "us-colleges-international-student-enrollment-falls-7a0028",
-      "title": "美国高校秋季国际学生总人数同比下降9%",
-      "description": "国际教育研究所（IIE）调查显示，美国高校2026年秋季国际学生总人数同比减少9%，连续第二年下降；首次入学的国际学生人数降幅更大，达到15%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-18T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/us-colleges-international-student-enrollment-falls-7a0028",
-      "reference": [
-        "世界日报",
-        "澎湃新闻",
-        "财新"
-      ],
-      "section": "us",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "lin-chia-lung-second-us-visit-texas-3029b4",
       "title": "林佳龙率团访德州推动台美经贸合作",
       "description": "台湾外长林佳龙近日访问美国得克萨斯州，拜会休斯敦市长约翰·惠特迈，并与当地台商交流。",
@@ -3182,43 +3274,6 @@
       ],
       "section": "asia",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "lawrence-wong-takes-asean-chairmanship-gavel-9bd029",
-      "title": "新加坡完成东盟轮值主席国交接仪式",
-      "description": "新加坡总理黄循财在马尼拉举行的第49届东盟峰会闭幕仪式上，从菲律宾总统小马可斯手中接过象征主席国职权的议事槌，完成轮值主席国交接。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-18T04:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/lawrence-wong-takes-asean-chairmanship-gavel-9bd029",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "imf-raises-south-korea-growth-forecast-2b9ab2",
-      "title": "IMF上调韩国2026年经济增长预期至3.9%",
-      "description": "国际货币基金组织（IMF）11月17日公布韩国2026年第四条款磋商结果，将韩国2026年经济增长预期从此前的3.3%调高至3.9%，上调0.6个百分点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-18T03:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/imf-raises-south-korea-growth-forecast-2b9ab2",
-      "reference": [
-        "韩国国际广播电台",
-        "韩民族日报"
-      ],
-      "section": "business",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3553,24 +3608,6 @@
       "sources": []
     },
     {
-      "id": "chongqing-officials-order-political-cleanup-bda4e9",
-      "title": "重庆市委常委会和市政府党组部署肃清流毒",
-      "description": "原重庆市市长黄奇帆退休十年后，于10月13日晚被宣布接受调查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-17T14:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/chongqing-officials-order-political-cleanup-bda4e9",
-      "reference": [
-        "财新"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "nvidia-forms-security-export-controls-committee-fbac6a",
       "title": "英伟达董事会设立国家安全与出口管制监督委员会",
       "description": "英伟达董事会于11月17日宣布成立国家安全与出口管制监督委员会，负责监督公司的国家安全政策、出口管制合规和全球贸易风险管理。",
@@ -3664,24 +3701,6 @@
       ],
       "section": "ai",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "trump-defends-lutnick-china-chip-split-ea8d88",
-      "title": "特朗普承认对华芯片分歧并称不会撤换卢特尼克",
-      "description": "美国总统特朗普11月16日承认，美国财政部长贝森特与美国商务部长卢特尼克在如何堵住中国通过其他国家数据中心使用先进人工智能芯片的漏洞上存在分歧，并表示不会撤换卢特尼克。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-17T12:37:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/trump-defends-lutnick-china-chip-split-ea8d88",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3938,42 +3957,6 @@
       "occurredAt": "",
       "publishedAt": "2026-11-16",
       "url": "https://kaopu.news/story/2026-11-16/cbp-reminds-travelers-declare-agricultural-products-99888e",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "massachusetts-family-comfort-income-highest-050647",
-      "title": "马萨诸塞州四口之家舒适生活收入门槛全美最高",
-      "description": "SmartAsset公布的2026年生活成本研究估算，马萨诸塞州四口之家要达到研究定义的舒适生活水平，年税前家庭收入需为32万9555美元，在全美各州中居首。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-17T06:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/massachusetts-family-comfort-income-highest-050647",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "robin-hood-report-nyc-food-aid-6c0152",
-      "title": "罗宾汉报告称纽约去年130万人求助食物站",
-      "description": "罗宾汉基金会最新报告显示，2025年纽约市约130万人曾到食物发放站领取食物，约占全市人口的15%，比前一年略多。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-17T06:01:49+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/robin-hood-report-nyc-food-aid-6c0152",
       "reference": [
         "世界日报"
       ],
@@ -4601,24 +4584,6 @@
         "联合早报"
       ],
       "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "airbus-a350-ulr-breaks-flight-distance-record-dc34d8",
-      "title": "空客A350-1000ULR创商用客机最远飞行纪录",
-      "description": "空中客车A350-1000ULR完成创纪录飞行，以1万4388英里（约2万3155公里）刷新商业客机飞行距离的吉尼斯世界纪录。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T06:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/airbus-a350-ulr-breaks-flight-distance-record-dc34d8",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "tech",
       "sourceCount": 1,
       "sources": []
     },
