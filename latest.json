@@ -1,15 +1,51 @@
 {
   "details": {
     "date": "2026-11-20",
-    "timestamp": 1795163955,
+    "timestamp": 1795166388,
     "totalPages": 1,
-    "total": 259
+    "total": 257
   },
   "stories": [
     {
+      "id": "lai-seeks-taipower-budget-support-affb18",
+      "title": "台湾立法院三读通过6076亿元追加预算案",
+      "description": "台湾立法院三读通过115年度中央政府追加预算案，岁入增加新台币828亿元，岁出增加6076亿3230万元；债务举借追加预算数2085亿5411万元也按原案列入。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T07:53:22+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/lai-seeks-taipower-budget-support-affb18",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "cnki-ai-detection-upgrade-rates-surge-c238a1",
+      "title": "澎湃实测显示论文AI检测结果差异悬殊",
+      "description": "澎湃新闻对中国知网、万方、维普开展同文实测发现，三家平台给出的论文AIGC疑似率相差明显。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T07:44:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/cnki-ai-detection-upgrade-rates-surge-c238a1",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
       "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "title": "习近平特朗普普京在深圳举行首次三边会晤",
-      "description": "习近平、特朗普和普京11月19日在深圳麒麟山庄举行中美俄元首首次三边会晤，会后发表和平宣言。",
+      "title": "美中俄举行首次三边会晤并发表和平宣言",
+      "description": "美国总统特朗普、中国国家主席习近平和俄罗斯总统普京11月19日在深圳举行三国领导人首次三边会晤，会谈约90分钟，随后发布《美中俄元首和平宣言》。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -28,9 +64,47 @@
       "sources": []
     },
     {
+      "id": "tsmc-suspends-china-advanced-chip-orders-93b7cf",
+      "title": "路透称台积电暂停中国大陆部分16纳米以下订单",
+      "description": "台积电正收紧对中国大陆芯片设计公司的先进制程订单限制，并暂停部分此前获准的订单。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T07:30:52+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/tsmc-suspends-china-advanced-chip-orders-93b7cf",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "日经"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "umno-pas-election-wins-dependence-ef98b1",
+      "title": "巫统与伊党合作赢下柔佛森美兰马六甲三州选",
+      "description": "巫统与伊党在柔佛、森美兰和马六甲州选中合作，三地均取得胜利。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T07:30:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/umno-pas-election-wins-dependence-ef98b1",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "nikkei-index-falls-below-58000-9da2dc",
-      "title": "日经指数大跌5.06%收于56436点",
-      "description": "11月20日，东京股市日经平均指数收于56436.65点，较前一交易日下跌3007.56点，跌幅5.06%，为三个交易日来首次下跌。",
+      "title": "科技股抛售令日韩股市大幅收跌逾5%",
+      "description": "11月20日，日本和韩国股市大幅收跌，日经225指数下跌5.06%，韩国综合股价指数下跌5.21%。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -46,6 +120,61 @@
       ],
       "section": "business",
       "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "taiwan-stocks-tumble-below-39000-f4e379",
+      "title": "台湾股市暴跌2393点收盘创近七个月新低",
+      "description": "台湾股市20日开低走低，加权指数收于36033.29点，下跌2393.60点，跌幅6.23%；盘中最低跌至35738.68点。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T07:13:20+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/taiwan-stocks-tumble-below-39000-f4e379",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "business",
+      "sourceCount": 22,
+      "sources": []
+    },
+    {
+      "id": "jt-books-russia-business-loss-50cbe9",
+      "title": "日本烟草因失去俄业务经营权计提巨额亏损",
+      "description": "日本烟草产业公司（JT）因失去在俄业务实际经营权，11月19日将2026财年净利润预期从盈利6620亿日元下调至净亏损7240亿日元，并计提约1.377万亿日元亏损。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T07:02:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/jt-books-russia-business-loss-50cbe9",
+      "reference": [
+        "共同网"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "kuomintang-proposes-reservoir-solar-ban-talks-763550",
+      "title": "国民党提案禁民生及备援水源水库设光电立院交协商",
+      "description": "中国国民党立法院党团提出决议案，要求政府立即拆除设在供应民生或灌溉用水水库的光电板，并禁止今后在供应民生用水或作为备用水源的水库设置光电设施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T06:58:05+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/kuomintang-proposes-reservoir-solar-ban-talks-763550",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -110,6 +239,42 @@
       "sources": []
     },
     {
+      "id": "yang-yuanjing-italy-ultramarathon-third-place-07dba5",
+      "title": "杨渊菁赴意大利超马赛跑完5616公里获第三",
+      "description": "55岁的高中体育教师杨渊菁9月初赴意大利维罗纳参加“超级马拉松赛”（Ultra Triathlon Italy-Run），用74天跑完5616公里，获得第三名。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T06:37:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/yang-yuanjing-italy-ultramarathon-third-place-07dba5",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "sports",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tsmc-shares-hit-seven-month-low-c30ab6",
+      "title": "台积电盘中跌至七个多月新低并收于2000元",
+      "description": "台积电股价盘中一度跌至新台币1970元，为今年4月9日以来最低，收盘回升至2000元，全天下跌100元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T06:36:47+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/tsmc-shares-hit-seven-month-low-c30ab6",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "japan-weather-agency-warns-wind-snow-357379",
       "title": "日本气象厅提醒北海道北陆警惕暴风灾害",
       "description": "日本气象厅20日表示，受高空强冷空气影响，日本大气不稳定状况将持续，并提醒北海道、北陆警惕暴风。",
@@ -164,6 +329,43 @@
       ],
       "section": "asia",
       "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "russian-tu95-enter-taiwan-adiz-exit-66c544",
+      "title": "俄罗斯两架轰炸机北返进入台湾防空识别区",
+      "description": "俄罗斯两架Tu-95轰炸机北返时从台湾南侧进入台湾防空识别区，飞经台湾东部空域后，在基隆东北方向离开。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T06:30:38+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/russian-tu95-enter-taiwan-adiz-exit-66c544",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "indonesia-plans-stricter-soybean-import-controls-0076c4",
+      "title": "印尼据报拟收紧大豆进口管制并增设许可检验",
+      "description": "印尼据一名高级官员向路透社透露，拟收紧大豆进口管理，增设许可和检验要求，并将大豆列为必需品及战略主粮。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/indonesia-plans-stricter-soybean-import-controls-0076c4",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -286,6 +488,24 @@
       "sources": []
     },
     {
+      "id": "new-york-lawmakers-urge-ebt-terminal-upgrades-7e5417",
+      "title": "纽约州议员敦促商家12月1日前升级EBT刷卡设备",
+      "description": "纽约州众议员李荣恩、冈萨雷斯—罗哈斯等民选官员和社区组织代表近日在曼哈顿华埠呼吁接受EBT付款的商家，在2026年12月1日前升级刷卡设备，确保新卡启用后持卡人能够支付。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T06:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/new-york-lawmakers-urge-ebt-terminal-upgrades-7e5417",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "trump-hints-nvidia-blackwell-china-sales-f13d39",
       "title": "特朗普称两三年后可能允许Blackwell芯片售华",
       "description": "美国总统特朗普表示，美国可能要等两三年，才会考虑允许英伟达向中国出售Blackwell芯片；他提出的条件是届时这款芯片已不再处于最先进水平。",
@@ -341,6 +561,24 @@
       ],
       "section": "us",
       "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "nongfu-spring-plans-fairfield-brewery-lease-e7d3d3",
+      "title": "农夫山泉据报将租用费尔菲尔德旧啤酒厂",
+      "description": "据《旧金山纪事报》报道，农夫山泉已选定加州费尔菲尔德原百威英博啤酒厂作为美国瓶装茶生产基地，计划由其美国子公司Streamfill Packers承租厂房。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T06:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/nongfu-spring-plans-fairfield-brewery-lease-e7d3d3",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -448,24 +686,6 @@
         "世界日报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "umno-pas-election-wins-dependence-ef98b1",
-      "title": "李泰德称巫统三州合作连胜或受制伊党",
-      "description": "巫统与伊党在柔佛、森美兰和马六甲州选中合作并取得三连胜。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T06:10:06+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/umno-pas-election-wins-dependence-ef98b1",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -752,25 +972,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-stocks-tumble-below-39000-f4e379",
-      "title": "台股盘中跌逾2400点一度失守3.6万点",
-      "description": "台湾股市11月20日早盘开低后继续下挫，盘中最低跌至35959点，较前一交易日收盘下跌逾2400点，一度跌破36000点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T05:18:57+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/taiwan-stocks-tumble-below-39000-f4e379",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "business",
-      "sourceCount": 16,
-      "sources": []
-    },
-    {
       "id": "tajima-kozo-enters-fifa-presidential-race-d35b9f",
       "title": "国际足联确认三人报名竞选主席",
       "description": "国际足联11月19日宣布，主席选举报名截止前共收到三人报名，分别是寻求连任的现任主席因凡蒂诺、法国足协主席菲利普·迪亚洛，以及日本足协名誉主席田岛幸三。",
@@ -944,25 +1145,6 @@
       "sources": []
     },
     {
-      "id": "tsmc-suspends-china-advanced-chip-orders-93b7cf",
-      "title": "据报台积电暂停中国客户16纳米以下订单",
-      "description": "美国先进芯片出口管制新规于11月20日生效后，路透社援引知情人士称，台积电暂停部分中国芯片设计企业此前获准的16纳米及以下制程订单；客户取得美国出口许可证后，相关订单才可继续。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T04:23:05+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/tsmc-suspends-china-advanced-chip-orders-93b7cf",
-      "reference": [
-        "中央通訊社",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "spot-gold-slips-below-3800-a2b521",
       "title": "国际金价连续三日下跌累计缩水近8%",
       "description": "国际金价连续三个交易日走低。",
@@ -1092,24 +1274,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "lai-seeks-taipower-budget-support-affb18",
-      "title": "台湾民众党团将删中油2338亿元增资预算",
-      "description": "台湾民众党立法院党团宣布，将在追加预算审议中全数删除中油2338亿3400万元新台币增资预算；对经济部拟拨给中油、台电的补助款，党团主张改以主决议要求2027年第一季度电价不涨。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T04:02:46+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/lai-seeks-taipower-budget-support-affb18",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -1370,24 +1534,6 @@
       "sources": []
     },
     {
-      "id": "tsmc-shares-hit-seven-month-low-c30ab6",
-      "title": "台积电股价盘中跌至1990元刷新七个多月低点",
-      "description": "台积电股价20日盘中下探至新台币1990元，下跌110元，为4月13日以来最低。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T02:58:47+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/tsmc-shares-hit-seven-month-low-c30ab6",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "global-cryosphere-exceeds-safe-operating-space-329f8d",
       "title": "国际研究指出全球冰冻圈已超出安全运行空间",
       "description": "斯德哥尔摩大学、清华大学和波茨坦气候影响研究所等机构的研究人员在美国《科学》杂志发表论文，指出全球冰冻圈已超出安全运行空间，退化正在加快，部分变化难以逆转。",
@@ -1439,24 +1585,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "cnki-ai-detection-upgrade-rates-surge-c238a1",
-      "title": "知网算法升级后原创论文频遭AI误判",
-      "description": "中国知网10月24日升级AIGC检测算法后，用户反映论文AI疑似率上升，同一篇未修改文稿在不同时间检测结果不一，人工撰写的姓名、项目名称等也曾被标红。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T02:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/cnki-ai-detection-upgrade-rates-surge-c238a1",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "ai",
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -2172,42 +2300,6 @@
       "sources": []
     },
     {
-      "id": "liu-hanyuan-solar-storage-scheme-300gw-975cd5",
-      "title": "刘汉元称光储方案跑通获支持后半年回到300GW",
-      "description": "11月18日，通威集团董事局主席刘汉元在2026第九届国际光伏与储能产业大会期间接受澎湃新闻等媒体采访，介绍通威的置信光伏系统级解决方案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T14:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/liu-hanyuan-solar-storage-scheme-300gw-975cd5",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "solar-storage-projects-worth-535-billion-yuan-7e4d85",
-      "title": "多地政府与企业签约光储项目总额达535亿元",
-      "description": "在2026年第九届国际光伏与储能产业大会期间，多地政府和行业企业围绕光储产业项目开展对接并完成签约，金额累计达535亿元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T14:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/solar-storage-projects-worth-535-billion-yuan-7e4d85",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "lithuania-liberal-movement-budrys-no-confidence-b59462",
       "title": "立陶宛自由运动党称若外长持续推动代表处更名将对外长提不信任案",
       "description": "立陶宛在野党自由运动党主席、前议长希米利特表示，若外长布德里斯继续推动更改台湾驻立陶宛代表处名称，该党就会对他提出不信任案。",
@@ -2242,24 +2334,6 @@
       ],
       "section": "life",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "nsf-opens-shanghai-testing-lab-39fcf6",
-      "title": "NSF启用上海实验室推动涉水认证本地化",
-      "description": "NSF（诺思孚）11月19日在上海启用中国物理性能实验室，投资约800万美元，为其在中国迄今最大单笔投资。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T14:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/nsf-opens-shanghai-testing-lab-39fcf6",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2451,25 +2525,6 @@
       ],
       "section": "asia",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "russian-tu95-enter-taiwan-adiz-exit-66c544",
-      "title": "俄罗斯两架图-95轰炸机北返进入台湾防空识别区",
-      "description": "台湾国防部称，19日上午发现两架俄罗斯图-95轰炸机从台湾南侧进入台湾防空识别区。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T12:28:37+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/russian-tu95-enter-taiwan-adiz-exit-66c544",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2699,24 +2754,6 @@
       "sources": []
     },
     {
-      "id": "japan-police-order-proactive-cyber-investigations-8c1b18",
-      "title": "日本警察厅要求警方主动查明网络攻击实情",
-      "description": "日本警察厅召集全国警察网络安全负责人举行临时会议，要求各地警方摆脱等待企业通报的做法，主动调查网络攻击并查明具体情况。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T10:35:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/japan-police-order-proactive-cyber-investigations-8c1b18",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "us-china-commission-warns-china-strategic-advantage-0619fc",
       "title": "美中委员会警告中国借特习互动谋求战略优势",
       "description": "美国国会美中经济与安全审查委员会11月18日发布年度报告，警告称，特朗普与习近平频繁接触之际，中国仍在经济、科技和军事领域谋求超越美国。",
@@ -2732,26 +2769,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "south-korea-court-upholds-kim-keon-hee-sentence-0f31e8",
-      "title": "韩国最高法院维持金建希四年刑期",
-      "description": "韩国最高法院全员合议庭11月19日作出终审裁决，驳回金建希及独立检察组提出的上诉、抗诉，维持二审判处她有期徒刑4年、罚金5000万韩元的结果。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T10:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/south-korea-court-upholds-kim-keon-hee-sentence-0f31e8",
-      "reference": [
-        "澎湃新闻",
-        "韩民族日报",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -2826,24 +2843,6 @@
         "澎湃新闻"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-local-elections-test-party-strength-a00227",
-      "title": "台湾九合一选举将检验三党地方执政实力",
-      "description": "台湾九合一选举定于11月28日举行，民进党、国民党和民众党进入选战最后阶段，地方执政版图及蓝白合作成为焦点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T09:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/taiwan-local-elections-test-party-strength-a00227",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -3497,24 +3496,6 @@
       "sources": []
     },
     {
-      "id": "beike-chongqing-halts-suspected-loan-fraud-deals-893089",
-      "title": "财新称贝壳在重庆叫停一笔疑似骗贷交易",
-      "description": "财新报道，11月4日，重庆两江新区一家贝壳签约中心录入交易时，系统因成交价较平台和区域历史数据偏离逾50%发出预警。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T04:36:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/beike-chongqing-halts-suspected-loan-fraud-deals-893089",
-      "reference": [
-        "财新"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "niu-qian-david-vanderbilt-win-buckley-prize-44f013",
       "title": "牛谦与戴维·范德比尔特共获2027年巴克利奖",
       "description": "美国物理学会于北京时间2026年11月19日宣布，中国科学技术大学教授牛谦与罗格斯大学教授戴维·范德比尔特共同获得2027年度奥利弗·E·巴克利凝聚态物理奖。",
@@ -3717,24 +3698,6 @@
         "联合早报"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-eldercare-beds-fall-2025-4da459",
-      "title": "全国养老床位总量降至767.9万张",
-      "description": "《2025年度国家老龄事业发展公报》显示，截至2025年末，全国养老床位为767.9万张，较2020年823.8万张的峰值减少；每千名老年人约有23.7张床位。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T00:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/china-eldercare-beds-fall-2025-4da459",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
