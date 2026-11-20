@@ -1,19 +1,19 @@
 {
   "details": {
     "date": "2026-11-20",
-    "timestamp": 1795144567,
+    "timestamp": 1795152827,
     "totalPages": 1,
-    "total": 258
+    "total": 259
   },
   "stories": [
     {
       "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "title": "中美俄领导人深圳会晤并发表和平宣言",
-      "description": "中国国家主席习近平、美国总统唐纳德·特朗普和俄罗斯总统弗拉基米尔·普京11月19日在深圳举行三国领导人首次三边会晤，并在会后发表和平宣言。",
+      "title": "中美俄领导人深圳会晤发布和平宣言",
+      "description": "中国国家主席习近平、美国总统唐纳德·特朗普和俄罗斯总统弗拉基米尔·普京11月19日在深圳举行三方会晤，会后发表《和平宣言》，承诺就降低核风险、防止核扩散展开对话。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-20T03:22:54+00:00",
+      "updatedAt": "2026-11-20T04:31:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-02",
       "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
@@ -24,7 +24,266 @@
         "澎湃新闻"
       ],
       "section": "world",
-      "sourceCount": 241,
+      "sourceCount": 244,
+      "sources": []
+    },
+    {
+      "id": "iea-hormuz-crisis-energy-security-threat-794dc6",
+      "title": "国际能源署警告霍尔木兹危机威胁全球能源安全",
+      "description": "国际能源署（IEA）11月19日发布年度《世界能源展望》报告，称霍尔木兹海峡危机已成为能源安全面临的史上最大威胁，冲击规模超过上世纪70年代石油危机。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T04:18:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/iea-hormuz-crisis-energy-security-threat-794dc6",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "singapore-shanghai-sign-16-cooperation-agreements-dff761",
+      "title": "沪新理事会签署16项协议拓展合作",
+      "description": "上海市—新加坡全面合作理事会第七次会议11月19日在上海举行，由上海市市长朱忠明和新加坡律政部长兼内政部第二部长唐振辉共同主持。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T04:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/singapore-shanghai-sign-16-cooperation-agreements-dff761",
+      "reference": [
+        "联合早报",
+        "第一财经",
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "us-consumers-stockpile-emergency-supplies-3e8b85",
+      "title": "美国消费者因科技风险忧虑增加备灾囤货",
+      "description": "美国消费者近来增加生活必需品和应急物资采购，零售商称瓶装水、大米、罐头、丙烷、露营用品和发电机等商品需求走强，备灾囤货已涉及多类商品。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T04:10:48+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/us-consumers-stockpile-emergency-supplies-3e8b85",
+      "reference": [
+        "联合早报",
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "fcc-bars-china-carriers-us-phone-numbers-53ee95",
+      "title": "美国FCC禁止中国三大运营商直接获取美国号码",
+      "description": "美国联邦通信委员会（FCC）11月19日以国家安全为由，表决禁止中国移动、中国电信和中国联通直接获取美国电话号码资源。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T04:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/fcc-bars-china-carriers-us-phone-numbers-53ee95",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "indonesia-restores-singapore-pipeline-gas-775481",
+      "title": "印尼全面恢复对新加坡的管道天然气供应",
+      "description": "印度尼西亚已于11月12日恢复全部对新加坡的管道天然气供应。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T04:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/indonesia-restores-singapore-pipeline-gas-775481",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tan-see-leng-says-singapore-gas-remains-key-97ce17",
+      "title": "陈诗龙称新加坡未来五年仍以天然气发电为主",
+      "description": "新加坡能源与工业部长陈诗龙表示，新加坡未来五年发电仍将以天然气为主，核能是正在审慎研究的替代选项；新加坡尚未决定是否部署核能。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T04:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/tan-see-leng-says-singapore-gas-remains-key-97ce17",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tan-see-leng-singapore-decarbonization-costs-3db945",
+      "title": "陈诗龙称新加坡脱碳不会不惜一切代价",
+      "description": "新加坡能源与工业部长陈诗龙在接受《联合早报》采访时表示，新加坡将继续拓展能源来源以保障供电稳定，同时推进能源脱碳；但政府不会为减排不计成本，确保电价可负担、市场具竞争力仍是关键。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T04:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/tan-see-leng-singapore-decarbonization-costs-3db945",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tan-see-leng-urges-asean-grid-links-c9ed65",
+      "title": "陈诗龙呼吁东盟凝聚共识推进区域电网互联",
+      "description": "新加坡能源与贸工部长陈诗龙呼吁东盟成员国形成共同政治意愿，以长期投入推动区域电网互联。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T04:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/tan-see-leng-urges-asean-grid-links-c9ed65",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "samsung-names-business-leaders-strengthen-autonomy-7ca97f",
+      "title": "三星电子调整高层任命强化事业部独立经营",
+      "description": "三星电子11月20日通过官网公布新一轮领导层任命，保留双CEO安排，并调整存储、系统LSI、DS技术及MX业务负责人，以加强事业部独立经营。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T03:55:43.685021+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/samsung-names-business-leaders-strengthen-autonomy-7ca97f",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "singapore-seniors-cpf-topup-62d45c",
+      "title": "新加坡逾78万名长者将获最高1500元公积金填补",
+      "description": "新加坡人力部和中央公积金局11月20日宣布，超过78万2000名退休储蓄低于基本存款的年长者，将在12月8日前获得公积金填补。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T03:55:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/singapore-seniors-cpf-topup-62d45c",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-wont-rush-iran-decision-before-new-year-a4a2a7",
+      "title": "特朗普称年后再决定对伊朗采取何种行动",
+      "description": "美国总统特朗普11月19日接受Axios采访时说，他不会在2026年内仓促决定美国对伊朗采取何种下一步行动，将等到新年后再观察局势。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T03:55:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/trump-wont-rush-iran-decision-before-new-year-a4a2a7",
+      "reference": [
+        "联合早报",
+        "日经",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "ig-metall-announces-german-plant-strikes-4db53c",
+      "title": "德国IG Metall宣布多家厂区将罢工24小时",
+      "description": "德国金属工业工会IG Metall宣布，奥迪、宝马及巴伐利亚州部分工业企业厂区将于11月20日举行24小时罢工。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T03:38:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/ig-metall-announces-german-plant-strikes-4db53c",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "doris-tsao-named-qiantang-scholar-724ba1",
+      "title": "曹颖出任浙江钱塘高等研究院钱塘学者",
+      "description": "浙江钱塘高等研究院官网于2026年11月19日发布人才招聘信息，显示曹颖（Doris Y. Tsao）已担任该院钱塘学者，；钱塘意识系统研究所隶属于该院。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T03:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/doris-tsao-named-qiantang-scholar-724ba1",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "meta-reconsiders-2030-net-zero-deadline-9e0762",
+      "title": "Meta因人工智能热潮重评2030年净零期限",
+      "description": "Meta于华盛顿当地时间19日表示，受人工智能（AI）热潮影响，公司正在重新评估净零排放目标的实现期限；其原定目标是在2030年达成净零排放。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T03:06:52+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/meta-reconsiders-2030-net-zero-deadline-9e0762",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -118,6 +377,24 @@
         "世界日报"
       ],
       "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tsmc-shares-hit-seven-month-low-c30ab6",
+      "title": "台积电股价盘中跌至1990元刷新七个多月低点",
+      "description": "台积电股价20日盘中下探至新台币1990元，下跌110元，为4月13日以来最低。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T02:58:47+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/tsmc-shares-hit-seven-month-low-c30ab6",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -438,25 +715,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-wont-rush-iran-decision-before-new-year-a4a2a7",
-      "title": "特朗普称将观察新年后局势再决定对伊行动",
-      "description": "美国总统唐纳德·特朗普11月19日接受Axios采访时表示，他不急于决定对伊朗的下一步行动，将先观察新年后的局势。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T02:02:33+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/trump-wont-rush-iran-decision-before-new-year-a4a2a7",
-      "reference": [
-        "联合早报",
-        "日经"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1256,25 +1514,6 @@
       "sources": []
     },
     {
-      "id": "singapore-shanghai-sign-16-cooperation-agreements-dff761",
-      "title": "新沪全面合作理事会签署16项合作协议",
-      "description": "新加坡—上海全面合作理事会第七次会议11月19日在上海举行，由新加坡律政部长兼内政部第二部长唐振辉与上海市市长朱忠明共同主持。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T15:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/singapore-shanghai-sign-16-cooperation-agreements-dff761",
-      "reference": [
-        "联合早报",
-        "第一财经"
-      ],
-      "section": "china",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "china-virtual-power-capacity-exceeds-20-million-kw-3858b7",
       "title": "国家能源局报告显示虚拟电厂调节能力提前达标",
       "description": "国家能源局11月19日发布《中国虚拟电厂发展报告（2026）》。",
@@ -1841,24 +2080,6 @@
       "sources": []
     },
     {
-      "id": "three-property-firms-face-delisting-risk-de7eb7",
-      "title": "多家A股公司跌破1元面临面值退市风险",
-      "description": "截至11月19日收盘，第一财经根据Wind数据统计，A股收盘价低于1元的公司共有7家，其中4家停牌，另外3家均为ST股。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T12:05:51.878412+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/three-property-firms-face-delisting-risk-de7eb7",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "trump-us-philippines-expand-defense-cooperation-caa52d",
       "title": "美菲将推进逾20亿美元防务融资方案",
       "description": "美国与菲律宾宣布扩大防务和经济合作，拟推进一项超过20亿美元的对外军事融资贷款计划，协助菲律宾向美国供应商采购防务及安全装备。",
@@ -2006,26 +2227,6 @@
       "sources": []
     },
     {
-      "id": "iea-hormuz-crisis-energy-security-threat-794dc6",
-      "title": "国际能源署称霍尔木兹危机成能源安全史上最大威胁",
-      "description": "国际能源署11月19日发布年度《世界能源展望》，称霍尔木兹海峡危机已成为全球能源安全史上最大威胁，影响规模超过上世纪70年代石油危机。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T10:33:49+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/iea-hormuz-crisis-energy-security-threat-794dc6",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "us-china-commission-warns-china-strategic-advantage-0619fc",
       "title": "美中委员会警告中国借特习互动谋求战略优势",
       "description": "美国国会美中经济与安全审查委员会11月18日发布年度报告，警告称，特朗普与习近平频繁接触之际，中国仍在经济、科技和军事领域谋求超越美国。",
@@ -2157,46 +2358,6 @@
       "sources": []
     },
     {
-      "id": "mongolia-president-khurelsukh-resigns-a55b2c",
-      "title": "蒙古国议会批准呼日勒苏赫辞职请求",
-      "description": "蒙古国国家大呼拉尔11月19日举行全体会议，表决通过总统呼日勒苏赫的辞职请求，辞职正式生效。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T09:34:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/mongolia-president-khurelsukh-resigns-a55b2c",
-      "reference": [
-        "澎湃新闻",
-        "法广",
-        "财新",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "pew-predicts-islam-largest-religion-2035-fec707",
-      "title": "皮尤预测伊斯兰教2035年将成全球信众最多宗教",
-      "description": "皮尤研究中心与波兰人口与宗教高级研究中心（CASPAR）合作完成的研究于2026年11月18日发布。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T09:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/pew-predicts-islam-largest-religion-2035-fec707",
-      "reference": [
-        "联合早报",
-        "财新"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "singapore-stages-ai-cyber-drill-4e8961",
       "title": "新加坡首次演练大规模AI网络攻防",
       "description": "新加坡国防数码防卫与情报军部队和新加坡网络安全局11月17日至20日在新加坡理工大学榜鹅校区举行第五届关键基础设施防御演习，主题为“AI时代的网络安全”。",
@@ -2211,42 +2372,6 @@
         "联合早报"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "tatung-china-huaying-settlement-agreement-f0bef5",
-      "title": "大同与中国华映科技签署7.68亿元和解协议",
-      "description": "大同与中国华映科技（集团）签署和解协议，以人民币7.68亿元了结业绩补偿款诉讼争议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T09:18:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/tatung-china-huaying-settlement-agreement-f0bef5",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "qaf-founder-says-ai-cannot-issue-fatwas-a8b9aa",
-      "title": "Qaf创办人澄清人工智能不能颁布教法裁决",
-      "description": "伊斯兰人工智能助手Qaf上线后，穆斯林社群围绕人工智能能否回答宗教问题、尤其能否颁布教法裁决出现分歧。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T09:16:44+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/qaf-founder-says-ai-cannot-issue-fatwas-a8b9aa",
-      "reference": [
-        "英国广播公司"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -3555,24 +3680,6 @@
       "sources": []
     },
     {
-      "id": "china-agencies-advance-recycling-system-e247e4",
-      "title": "商务部等九部门出台意见健全再生资源回收体系",
-      "description": "11月17日，商务部等九部门公布《关于深入推进再生资源回收体系建设 促进回收行业高质量发展的意见》，提出到2030年初步建成回收网络较健全、居民交投便利、分拣高效、末端处理绿色规范的再生资源回收体系。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-18T12:51:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/china-agencies-advance-recycling-system-e247e4",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "restaurant-chains-raise-menu-prices-f75eb4",
       "title": "连锁餐饮集团宣布上调部分餐点价格",
       "description": "原物料和人事成本上升之际，多家台湾连锁餐饮企业宣布提高部分餐点价格。",
@@ -3621,80 +3728,6 @@
       "url": "https://kaopu.news/story/2026-11-18/fda-glp-1-drugs-naion-warning-update-22dd70",
       "reference": [
         "第一财经"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "vals-ai-models-misclassify-civilians-military-targets-98570f",
-      "title": "Vals发现多款AI模型将平民误判为军事目标",
-      "description": "独立人工智能评估机构Vals对八家科技公司的先进模型进行模拟军事任务测试，发现一些模型把平民、救护车、投降人员和学校判定为军事目标。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-18T10:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/vals-ai-models-misclassify-civilians-military-targets-98570f",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "rockstar-promotes-gta-vi-douyin-23620c",
-      "title": "《侠盗猎车手》系列未获中国大陆销售批准，Rockstar仍在抖音宣传GTA VI",
-      "description": "美国游戏开发商Rockstar Games在抖音官方认证账号发布中文视频，宣布《侠盗猎车手VI》（GTA VI）开放预先下载。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-18T08:35:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/rockstar-promotes-gta-vi-douyin-23620c",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-youth-unemployment-rate-falls-october-1eb6c7",
-      "title": "中国16至24岁劳动力失业率降至17.2%",
-      "description": "中国国家统计局11月18日发布的数据显示，2026年10月城镇16至24岁劳动力（不含在校生）失业率为17.2%，比9月回落0.8个百分点，连续两个月下降，降至4个月来低位；与去年同期相比低0.1个百分点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-18T08:12:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/china-youth-unemployment-rate-falls-october-1eb6c7",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "中央通訊社"
-      ],
-      "section": "life",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "sumon-builds-three-storey-home-a965fa",
-      "title": "孟加拉客工在家乡建成三层独立洋房",
-      "description": "在新加坡工作14年后，孟加拉客工苏蒙花约2500万孟加拉塔卡（约25.8万新元），在家乡建成一栋三层独立洋房。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-18T07:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/sumon-builds-three-storey-home-a965fa",
-      "reference": [
-        "联合早报"
       ],
       "section": "life",
       "sourceCount": 1,
@@ -4107,24 +4140,6 @@
       ],
       "section": "culture",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "us-court-rejects-memory-makers-dismissal-bid-3fabb2",
-      "title": "美国法院驳回三星等三家存储厂商撤诉动议",
-      "description": "美国加州北区联邦地区法院11月14日驳回三星电子、SK海力士和美光科技要求终止反垄断诉讼的动议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-16T23:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/us-court-rejects-memory-makers-dismissal-bid-3fabb2",
-      "reference": [
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
