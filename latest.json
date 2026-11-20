@@ -7,6 +7,63 @@
   },
   "stories": [
     {
+      "id": "cursor-weighs-phasing-out-chinese-ai-models-3a51e5",
+      "title": "据报Cursor考虑逐步停用中国AI模型",
+      "description": "据路透社转述的CNBC报道，SpaceX旗下人工智能编程平台Cursor正评估逐步停用中国开发的开放权重AI模型，理由是地缘政治风险。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T17:31:02+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/cursor-weighs-phasing-out-chinese-ai-models-3a51e5",
+      "reference": [
+        "中央通訊社",
+        "世界日报"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "taiwan-reports-meta-2700-election-influence-accounts-e40e9a",
+      "title": "台湾通报Meta近2700个疑涉中国信息行动账号",
+      "description": "路透社援引三名台湾政府官员及内部报告报道，台湾政府近几周在Meta旗下平台发现并通报近2700个疑似参与中国相关信息行动的账号。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T17:17:17.130000+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/taiwan-reports-meta-2700-election-influence-accounts-e40e9a",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "加拿大国际广播电台"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "cnn-murphy-seeks-stop-pay-absent-lawmakers-4a2022",
+      "title": "CNN称墨菲要求停发缺勤共和党议员薪水",
+      "description": "CNN 20日报道，美国北卡罗来纳州共和党众议员格雷格·墨菲在11月18日的一场闭门会议上批评期中选举落选后没有返回华盛顿的共和党同僚，并要求党团领导层停止向未到国会履职的议员发薪。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T16:20:37+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/cnn-murphy-seeks-stop-pay-absent-lawmakers-4a2022",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
       "title": "中美俄元首首次会晤发表和平宣言",
       "description": "习近平、美国总统特朗普和俄罗斯总统普京11月19日在深圳举行首次三方元首会晤，并共同发表《和平宣言》，承诺就降低核风险、防止核扩散开展对话。",
@@ -163,24 +220,6 @@
       "sources": []
     },
     {
-      "id": "cursor-weighs-phasing-out-chinese-ai-models-3a51e5",
-      "title": "CNBC称Cursor考虑逐步停用中国AI模型",
-      "description": "据路透社转述的CNBC报道，SpaceX旗下AI编码平台Cursor正以地缘政治风险为由，考虑逐步停止使用中国开发的开放权重AI模型。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T15:26:33+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/cursor-weighs-phasing-out-chinese-ai-models-3a51e5",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "nikkei-takaichi-trump-post-summit-call-17b2ef",
       "title": "高市与特朗普通话听取美中俄会谈情况",
       "description": "日本首相高市早苗19日晚在首相公邸与美国总统特朗普通电话，听取他介绍美中首脑会谈和美中俄首脑会谈的情况。",
@@ -217,6 +256,27 @@
       ],
       "section": "asia",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "burnham-says-brexit-lost-more-than-gained-e0a4c4",
+      "title": "英国与欧盟拟推进多项协议调整脱欧后关系",
+      "description": "英国首相柏南20日在布鲁塞尔与欧盟理事会主席柯斯塔、欧盟委员会主席范德赖恩举行峰会。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T15:08:42+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/burnham-says-brexit-lost-more-than-gained-e0a4c4",
+      "reference": [
+        "英国广播公司",
+        "公视",
+        "联合早报",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 5,
       "sources": []
     },
     {
@@ -1749,25 +1809,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-reports-meta-2700-election-influence-accounts-e40e9a",
-      "title": "台湾向Meta通报近2700个疑涉选举干预账号",
-      "description": "台湾已向Meta通报近2700个账号，称其疑似参与与中国大陆有关、旨在影响台湾地方选举的信息行动；Meta表示已移除这些账号，其中许多此前已被系统停用。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T08:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/taiwan-reports-meta-2700-election-influence-accounts-e40e9a",
-      "reference": [
-        "中央通訊社",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "cnki-ai-detection-upgrade-rates-surge-c238a1",
       "title": "澎湃实测显示论文AI检测结果差异悬殊",
       "description": "澎湃新闻对中国知网、万方、维普开展同文实测发现，三家平台给出的论文AIGC疑似率相差明显。",
@@ -2325,27 +2366,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "burnham-says-brexit-lost-more-than-gained-e0a4c4",
-      "title": "安迪·柏南与欧盟举行峰会推动英欧关系重启",
-      "description": "英国首相安迪·柏南与欧盟20日在布鲁塞尔举行峰会，讨论通过食品贸易、碳排放交易和青年交流等合作，改善英国脱欧后的双边关系。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T06:02:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/burnham-says-brexit-lost-more-than-gained-e0a4c4",
-      "reference": [
-        "英国广播公司",
-        "公视",
-        "联合早报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -3750,24 +3770,6 @@
       "occurredAt": "",
       "publishedAt": "2026-11-19",
       "url": "https://kaopu.news/story/2026-11-19/us-doj-russian-suspect-tracks-silicon-valley-workers-82df42",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "south-carolina-restaurant-trafficking-arrests-8bac36",
-      "title": "南卡警方搜查餐厅与住宅逮捕六人",
-      "description": "11月16日，南卡罗来纳州安德森郡执法部门联合搜查Imperial Grill餐厅及郡内三处住宅，逮捕六人，调查涉及涉嫌人口贩运和强迫劳动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T06:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/south-carolina-restaurant-trafficking-arrests-8bac36",
       "reference": [
         "世界日报"
       ],
