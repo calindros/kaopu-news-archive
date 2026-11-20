@@ -1,27 +1,395 @@
 {
   "details": {
     "date": "2026-11-20",
-    "timestamp": 1795166388,
+    "timestamp": 1795170768,
     "totalPages": 1,
-    "total": 257
+    "total": 260
   },
   "stories": [
     {
-      "id": "lai-seeks-taipower-budget-support-affb18",
-      "title": "台湾立法院三读通过6076亿元追加预算案",
-      "description": "台湾立法院三读通过115年度中央政府追加预算案，岁入增加新台币828亿元，岁出增加6076亿3230万元；债务举借追加预算数2085亿5411万元也按原案列入。",
+      "id": "icj-rules-myanmar-rohingya-genocide-7c20ba",
+      "title": "国际法院以九比六裁定缅甸对罗兴亚人实施种族灭绝",
+      "description": "联合国国际法院11月19日以9票赞成、6票反对裁定，缅甸安全部队2017年在若开邦北部针对罗兴亚人的行动构成种族灭绝，缅甸须承担国家责任并采取补救措施。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-20T07:53:22+00:00",
+      "updatedAt": "2026-11-20T09:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/icj-rules-myanmar-rohingya-genocide-7c20ba",
+      "reference": [
+        "联合早报",
+        "法广",
+        "加拿大国际广播电台",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "australia-climate-draft-phase-out-fossil-fuels-d09761",
+      "title": "COP31谈判因草案删化石燃料表述陷入分歧",
+      "description": "第31届联合国气候变化大会（COP31）谈判进入最后阶段，近200个国家的代表仍未就协议草案达成共识。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T09:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/australia-climate-draft-phase-out-fossil-fuels-d09761",
+      "reference": [
+        "联合早报",
+        "公视",
+        "第一财经",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "us-abstains-north-korea-human-rights-vote-5c9741",
+      "title": "美国在联大朝鲜人权决议表决中投弃权票",
+      "description": "联合国大会第三委员会11月18日以95票赞成、14票反对、58票弃权通过朝鲜人权决议案，美国投下弃权票。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T09:04:04+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/us-abstains-north-korea-human-rights-vote-5c9741",
+      "reference": [
+        "韩国国际广播电台",
+        "韩民族日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "taiwan-stocks-tumble-below-39000-f4e379",
+      "title": "台湾加权指数周跌近18%创1991年以来最差纪录",
+      "description": "台湾加权股价指数11月20日收盘下跌6.23%，报36033.29点，本周累计跌幅约17.5%，创1991年以来最差单周表现。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T08:54:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/taiwan-stocks-tumble-below-39000-f4e379",
+      "reference": [
+        "中央通訊社",
+        "公视",
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 24,
+      "sources": []
+    },
+    {
+      "id": "trump-xi-shenzhen-talks-taiwan-independence-419222",
+      "title": "台湾陆委会称新华社所报特朗普表态不实",
+      "description": "美国总统特朗普与中国国家主席习近平11月19日在深圳会晤，这是两人今年第三次会面。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T08:53:27+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/trump-xi-shenzhen-talks-taiwan-independence-419222",
+      "reference": [
+        "日经",
+        "中央通訊社",
+        "公视",
+        "世界日报"
+      ],
+      "section": "china",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "alibaba-q2-revenue-rises-ten-percent-d0cda1",
+      "title": "阿里称算力管制将影响云业务规划",
+      "description": "阿里巴巴11月19日公布2027财年第二季度业绩时表示，计算设备出口管制及全球算力政策变化增加了产品供应和经营规划的不确定性，公司正评估下一财年云业务目标、数据中心建设规模和资本开支。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T08:48:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/alibaba-q2-revenue-rises-ten-percent-d0cda1",
+      "reference": [
+        "第一财经",
+        "澎湃新闻",
+        "联合早报",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "china-indonesia-sign-economic-partnership-talks-mou-a71b08",
+      "title": "中印尼签署全面经济伙伴关系协定谈判备忘录",
+      "description": "11月20日，中国商务部部长王文涛与印度尼西亚贸易部长布迪·桑托索签署一份有关开启中印尼全面经济伙伴关系协定谈判的谅解备忘录。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T08:41:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/china-indonesia-sign-economic-partnership-talks-mou-a71b08",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-singapore-launch-fta-upgrade-talks-04d802",
+      "title": "中新签署备忘录启动自贸协定4.0版升级谈判",
+      "description": "11月20日，中国商务部部长王文涛与新加坡副总理兼能源、贸易及工业部长颜金勇签署谅解备忘录，启动中新自贸协定4.0版升级谈判。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T08:40:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/china-singapore-launch-fta-upgrade-talks-04d802",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "anwar-xi-jinping-advance-malaysia-china-cooperation-786a40",
+      "title": "安华与习近平会谈推进马中多领域合作",
+      "description": "11月20日，马来西亚首相安华与中国国家主席习近平举行双边会谈，讨论推进霹雳河向槟城输水计划，并就人工智能、投资贸易和稀土工业合作交换意见。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T08:39:17+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/anwar-xi-jinping-advance-malaysia-china-cooperation-786a40",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "liu-sichuan-takes-kelun-chairman-role-b6302a",
+      "title": "刘思川接任科伦药业董事长并兼任总经理",
+      "description": "近日，科伦药业宣布董事长变更：现年75岁的创始人刘革新向董事会提出辞去董事长职务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T08:34:16.050299+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/liu-sichuan-takes-kelun-chairman-role-b6302a",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "hebei-dairy-farm-ends-contract-sells-spot-milk-e77f52",
+      "title": "河北牧场因合同奶价偏低中断合作转卖散奶",
+      "description": "年末，部分产区散奶价格回升至高于乳企合同奶价的水平，牧场与乳企围绕2027年合同定价的谈判出现僵持。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T08:32:16.050969+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/hebei-dairy-farm-ends-contract-sells-spot-milk-e77f52",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "south-korea-supreme-court-han-duck-soo-verdict-34fd59",
+      "title": "韩国大法院首次认定紧急戒严属于内乱",
+      "description": "韩国大法院全体合议庭11月19日认定，2024年12月3日宣布的紧急戒严属于内乱，并撤销前国务总理韩德洙二审15年有期徒刑判决中的部分内容，将案件发回首尔高等法院重审。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T08:30:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/south-korea-supreme-court-han-duck-soo-verdict-34fd59",
+      "reference": [
+        "东亚日报",
+        "韩国国际广播电台",
+        "韩民族日报"
+      ],
+      "section": "asia",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "malaysia-plans-rohingya-refugees-turkey-resettlement-b8001a",
+      "title": "马来西亚计划将1万名罗兴亚难民安置到土耳其",
+      "description": "马来西亚副首相阿末扎希11月20日宣布，政府计划安排1万名罗兴亚难民前往土耳其；内阁已同意这项建议，土耳其政府也已答应接收。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T08:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/malaysia-plans-rohingya-refugees-turkey-resettlement-b8001a",
+      "reference": [
+        "当今大马",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "title": "中美俄首次三方会晤发表和平宣言",
+      "description": "习近平、特朗普和普京在深圳麒麟山庄举行三国领导人首次三方会晤，并在会后发表和平宣言。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T08:27:05+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "日经",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 255,
+      "sources": []
+    },
+    {
+      "id": "taiwan-october-export-orders-record-high-a6379f",
+      "title": "台湾10月外销订单创历年单月新高",
+      "description": "台湾经济部20日公布，台湾10月外销订单达1238.2亿美元，刷新单月纪录，同比增长78.3%，连续21个月增长。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T08:20:54+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/taiwan-october-export-orders-record-high-a6379f",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "tan-see-leng-urges-asean-grid-links-c9ed65",
+      "title": "新加坡将借2027年东盟主席国任期推动区域电网",
+      "description": "新加坡计划在2027年担任东盟轮值主席国期间推动区域电网愿景，并争取跨境电力互联投资。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T08:16:52+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/tan-see-leng-urges-asean-grid-links-c9ed65",
+      "reference": [
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "lai-seeks-taipower-budget-support-affb18",
+      "title": "台湾立法院三读通过6076亿元追加预算案",
+      "description": "台湾立法院11月20日完成三读，批准行政院提出的2026年度中央政府追加预算案。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T08:15:22+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-16",
       "url": "https://kaopu.news/story/2026-11-16/lai-seeks-taipower-budget-support-affb18",
       "reference": [
-        "中央通訊社"
+        "中央通訊社",
+        "公视"
       ],
       "section": "asia",
-      "sourceCount": 7,
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "stan-shih-returns-apec-completes-mission-7404fd",
+      "title": "台湾代表团称与中方交涉17次争取平等参与",
+      "description": "台湾领袖代表施振荣率团出席深圳APEC经济领袖会议后，于11月19日晚返台。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T08:08:43+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/stan-shih-returns-apec-completes-mission-7404fd",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "taiwan-reports-meta-2700-election-influence-accounts-e40e9a",
+      "title": "台湾向Meta通报近2700个疑涉选举干预账号",
+      "description": "台湾已向Meta通报近2700个账号，称其疑似参与与中国大陆有关、旨在影响台湾地方选举的信息行动；Meta表示已移除这些账号，其中许多此前已被系统停用。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T08:01:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/taiwan-reports-meta-2700-election-influence-accounts-e40e9a",
+      "reference": [
+        "中央通訊社",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "russian-airstrikes-ukraine-kill-five-930e25",
+      "title": "俄军大规模空袭乌克兰造成至少五人死亡",
+      "description": "俄罗斯军队连夜对乌克兰发动大规模导弹和无人机袭击，基辅及西部城市利沃夫至少5人死亡，另有15人受伤，部分地区停电。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-20T07:52:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/russian-airstrikes-ukraine-kill-five-930e25",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -43,24 +411,21 @@
       "sources": []
     },
     {
-      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "title": "美中俄举行首次三边会晤并发表和平宣言",
-      "description": "美国总统特朗普、中国国家主席习近平和俄罗斯总统普京11月19日在深圳举行三国领导人首次三边会晤，会谈约90分钟，随后发布《美中俄元首和平宣言》。",
+      "id": "xi-jinping-meets-thai-pm-anutin-c5ffe8",
+      "title": "习近平在深圳会见泰国首相阿努廷",
+      "description": "习近平11月20日上午在深圳会见泰国首相阿努廷。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-20T07:40:06+00:00",
+      "updatedAt": "2026-11-20T07:39:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/xi-jinping-meets-thai-pm-anutin-c5ffe8",
       "reference": [
-        "韩国国际广播电台",
-        "联合早报",
-        "日经",
-        "澎湃新闻"
+        "联合早报"
       ],
-      "section": "world",
-      "sourceCount": 253,
+      "section": "china",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -103,12 +468,12 @@
     },
     {
       "id": "nikkei-index-falls-below-58000-9da2dc",
-      "title": "科技股抛售令日韩股市大幅收跌逾5%",
-      "description": "11月20日，日本和韩国股市大幅收跌，日经225指数下跌5.06%，韩国综合股价指数下跌5.21%。",
+      "title": "日经指数收盘重挫3007点，跌幅达5.06%",
+      "description": "日本东京股市日经平均指数11月20日收于56436.65点，较前一交易日下跌3007.56点，跌幅5.06%，为三个交易日以来首次收跌。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-20T07:19:50+00:00",
+      "updatedAt": "2026-11-20T07:28:50+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-20",
       "url": "https://kaopu.news/story/2026-11-20/nikkei-index-falls-below-58000-9da2dc",
@@ -119,26 +484,25 @@
         "法广"
       ],
       "section": "business",
-      "sourceCount": 9,
+      "sourceCount": 10,
       "sources": []
     },
     {
-      "id": "taiwan-stocks-tumble-below-39000-f4e379",
-      "title": "台湾股市暴跌2393点收盘创近七个月新低",
-      "description": "台湾股市20日开低走低，加权指数收于36033.29点，下跌2393.60点，跌幅6.23%；盘中最低跌至35738.68点。",
+      "id": "house-panel-urges-china-aerospace-curbs-437ed0",
+      "title": "美众院委员会敦促收紧对华航空航天限制",
+      "description": "美国众议院中国问题特别委员会发布报告，敦促美国收紧对华航空航天领域的投资和出口限制，并建议对相关承包商采取措施。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-20T07:13:20+00:00",
+      "updatedAt": "2026-11-20T07:26:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/taiwan-stocks-tumble-below-39000-f4e379",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/house-panel-urges-china-aerospace-curbs-437ed0",
       "reference": [
-        "中央通訊社",
-        "公视"
+        "联合早报"
       ],
-      "section": "business",
-      "sourceCount": 22,
+      "section": "china",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -312,26 +676,6 @@
       "sources": []
     },
     {
-      "id": "south-korea-supreme-court-han-duck-soo-verdict-34fd59",
-      "title": "韩国大法院首次认定紧急戒严属于内乱",
-      "description": "韩国大法院全员合议庭11月19日首次在司法判决中认定，2024年12月3日宣布的紧急戒严属于内乱；法院同时撤销前国务总理韩德洙二审判决中的部分有罪认定，将案件发回首尔高等法院重审。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T06:32:17+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/south-korea-supreme-court-han-duck-soo-verdict-34fd59",
-      "reference": [
-        "东亚日报",
-        "韩国国际广播电台",
-        "韩民族日报"
-      ],
-      "section": "asia",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "russian-tu95-enter-taiwan-adiz-exit-66c544",
       "title": "俄罗斯两架轰炸机北返进入台湾防空识别区",
       "description": "俄罗斯两架Tu-95轰炸机北返时从台湾南侧进入台湾防空识别区，飞经台湾东部空域后，在基隆东北方向离开。",
@@ -366,27 +710,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-xi-shenzhen-talks-taiwan-independence-419222",
-      "title": "台湾陆委会称新华社涉台会谈报道不实",
-      "description": "中国国家主席习近平与美国总统特朗普11月19日在深圳会晤，这是两人今年第三次会面。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T06:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/trump-xi-shenzhen-talks-taiwan-independence-419222",
-      "reference": [
-        "日经",
-        "中央通訊社",
-        "公视",
-        "世界日报"
-      ],
-      "section": "china",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -726,27 +1049,6 @@
       "sources": []
     },
     {
-      "id": "australia-climate-draft-phase-out-fossil-fuels-d09761",
-      "title": "COP31各国代表因化石燃料措辞分歧继续磋商",
-      "description": "近200个国家的谈判代表在土耳其安塔利亚经过两周磋商后，仍在为COP31政治协议草案中的关键分歧寻求共识。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T06:02:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/australia-climate-draft-phase-out-fossil-fuels-d09761",
-      "reference": [
-        "联合早报",
-        "公视",
-        "第一财经",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "burnham-says-brexit-lost-more-than-gained-e0a4c4",
       "title": "安迪·柏南与欧盟举行峰会推动英欧关系重启",
       "description": "英国首相安迪·柏南与欧盟20日在布鲁塞尔举行峰会，讨论通过食品贸易、碳排放交易和青年交流等合作，改善英国脱欧后的双边关系。",
@@ -1067,27 +1369,6 @@
       "sources": []
     },
     {
-      "id": "icj-rules-myanmar-rohingya-genocide-7c20ba",
-      "title": "国际法院裁定缅甸对罗兴亚人实施种族灭绝",
-      "description": "国际法院11月19日裁定，缅甸对若开邦北部罗兴亚人实施了种族灭绝。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T04:51:15+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/icj-rules-myanmar-rohingya-genocide-7c20ba",
-      "reference": [
-        "联合早报",
-        "法广",
-        "加拿大国际广播电台",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
       "id": "malaysia-dpp-refugees-need-written-interstate-approval-b0362a",
       "title": "马来西亚内政部称DPP持卡人跨州须先获书面批准",
       "description": "联邦政府自2026年起推行难民登记文件计划（DPP），但持有相关证件的难民仍不得进入沙巴、砂拉越和纳闽。",
@@ -1331,24 +1612,6 @@
       "sources": []
     },
     {
-      "id": "tan-see-leng-urges-asean-grid-links-c9ed65",
-      "title": "陈诗龙呼吁东盟凝聚共识推进区域电网互联",
-      "description": "新加坡能源与贸工部长陈诗龙呼吁东盟成员国形成共同政治意愿，以长期投入推动区域电网互联。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T04:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/tan-see-leng-urges-asean-grid-links-c9ed65",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "samsung-names-business-leaders-strengthen-autonomy-7ca97f",
       "title": "三星电子调整高层任命强化事业部独立经营",
       "description": "三星电子11月20日通过官网公布新一轮领导层任命，保留双CEO安排，并调整存储、系统LSI、DS技术及MX业务负责人，以加强事业部独立经营。",
@@ -1475,26 +1738,6 @@
       ],
       "section": "us",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "alibaba-q2-revenue-rises-ten-percent-d0cda1",
-      "title": "阿里巴巴二季度营收同比增长10%",
-      "description": "阿里巴巴集团11月19日发布2027财年第二季度业绩，季度收入为2715.19亿元，同比增长10%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T03:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/alibaba-q2-revenue-rises-ten-percent-d0cda1",
-      "reference": [
-        "第一财经",
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -1980,26 +2223,6 @@
       "sources": []
     },
     {
-      "id": "stan-shih-returns-apec-completes-mission-7404fd",
-      "title": "施振荣返台称完成赖清德交付任务",
-      "description": "代表台湾出席亚太经合组织（APEC）经济领导人会议的宏碁创办人施振荣，11月19日晚率代表团返回桃园国际机场。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T00:11:33+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/stan-shih-returns-apec-completes-mission-7404fd",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "yueli-lychee-ice-wine-apec-dinner-sells-out-20830c",
       "title": "悦荔荔枝冰酒入选APEC晚宴后网店售罄",
       "description": "广州从化悦荔荔枝冰酒入选11月18日在深圳举行的亚太经合组织（APEC）领导人非正式会议欢迎晚宴用酒。",
@@ -2115,25 +2338,6 @@
       "sources": []
     },
     {
-      "id": "ample-crude-supply-signs-send-oil-prices-lower-635a4a",
-      "title": "霍尔木兹海峡运输受阻令国际油价收盘近乎持平",
-      "description": "国际油价19日收盘基本持平，霍尔木兹海峡油轮运输受阻的消息支撑市场，抵消了美国原油库存增加及全球石油供应过剩预期带来的下行压力。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T21:07:54+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/ample-crude-supply-signs-send-oil-prices-lower-635a4a",
-      "reference": [
-        "中央通訊社",
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "mamdani-carriage-worker-transition-plan-c4f118",
       "title": "曼达尼签署纽约马车禁令工会随即提告",
       "description": "纽约市长佐兰·曼达尼签署终止一般收费马车服务的法案后，交通工人工会（TWU）数分钟内向曼哈顿联邦法院提起集体诉讼。",
@@ -2149,24 +2353,6 @@
       ],
       "section": "life",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "hunterbrook-report-amd-shares-fall-eight-percent-59f26a",
-      "title": "Hunterbrook报告指超微涉华关联股价跌8%",
-      "description": "美国做空机构Hunterbrook Media发布报告称，超微与中国实体及被美国列入黑名单的企业有关联，可能因此面临更严格的监管审查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T19:57:46+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/hunterbrook-report-amd-shares-fall-eight-percent-59f26a",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2644,24 +2830,6 @@
       "sources": []
     },
     {
-      "id": "banks-aided-jho-low-transfer-illicit-wealth-669bd6",
-      "title": "多家银行被曝助刘特佐转移不义之财逃法网",
-      "description": "当今大马披露，多家银行在已有警示的情况下，仍秘密协助刘特佐转移非法所得；报道指，这些协助使他得以躲避法律追究。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T12:09:47+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/banks-aided-jho-low-transfer-illicit-wealth-669bd6",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "trump-us-philippines-expand-defense-cooperation-caa52d",
       "title": "美菲将推进逾20亿美元防务融资方案",
       "description": "美国与菲律宾宣布扩大防务和经济合作，拟推进一项超过20亿美元的对外军事融资贷款计划，协助菲律宾向美国供应商采购防务及安全装备。",
@@ -2695,24 +2863,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "peace-committee-warns-gaza-ceasefire-collapse-854edc",
-      "title": "和平委员会警告加沙停火协议面临崩溃",
-      "description": "特朗普设立的和平委员会11月17日向联合国安理会提交报告，警告以色列和哈马斯若不兑现谈判期间的承诺，加沙脆弱停火可能破裂。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T11:47:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/peace-committee-warns-gaza-ceasefire-collapse-854edc",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2900,25 +3050,6 @@
       ],
       "section": "us",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "marape-png-taiwan-office-closure-resistance-ff4ab8",
-      "title": "台湾外交部称驻巴纽技术团撤离规划已完成",
-      "description": "台湾外交部表示，驻巴布亚新几内亚技术团已制定撤离路线及相关方案，团员和家属共5人目前仍在当地。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T08:00:12+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/marape-png-taiwan-office-closure-resistance-ff4ab8",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -3475,27 +3606,6 @@
       "sources": []
     },
     {
-      "id": "southern-california-bank-outage-hinders-transactions-d44259",
-      "title": "摩根大通软件故障致多家美国银行服务异常",
-      "description": "美国多家银行的网上银行、手机应用和部分转账业务在11月16日出现异常，摩根大通随后将故障归因于其本地硬件系统中的软件问题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T04:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/southern-california-bank-outage-hinders-transactions-d44259",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "中央通訊社",
-        "SBS"
-      ],
-      "section": "life",
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
       "id": "niu-qian-david-vanderbilt-win-buckley-prize-44f013",
       "title": "牛谦与戴维·范德比尔特共获2027年巴克利奖",
       "description": "美国物理学会于北京时间2026年11月19日宣布，中国科学技术大学教授牛谦与罗格斯大学教授戴维·范德比尔特共同获得2027年度奥利弗·E·巴克利凝聚态物理奖。",
@@ -3588,24 +3698,6 @@
       "sources": []
     },
     {
-      "id": "us-abstains-north-korea-human-rights-vote-5c9741",
-      "title": "美国首次在联大北韩人权决议表决中弃权",
-      "description": "当地时间18日，美国在联合国大会就北韩人权决议案投下弃权票。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T01:52:18+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/us-abstains-north-korea-human-rights-vote-5c9741",
-      "reference": [
-        "韩国国际广播电台"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "house-panel-questions-microsoft-bytedance-openai-deal-7d2971",
       "title": "美众院委员会要求微软说明字节跳动AI服务交易报道",
       "description": "美国众议院中国问题特别委员会11月18日要求微软向议员说明The Information关于微软拟通过Azure向字节跳动提供OpenAI模型服务的报道。",
@@ -3641,46 +3733,6 @@
       ],
       "section": "us",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "bank-china-lin-jingzhen-bribery-sentence-a5681f",
-      "title": "中国银行原副行长林景臻一审被判有期徒刑13年",
-      "description": "11月18日，杭州市中级人民法院对中国银行原党委委员、副行长林景臻受贿案作出一审判决，判处其有期徒刑13年，并处罚金人民币300万元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T00:42:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/bank-china-lin-jingzhen-bribery-sentence-a5681f",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "shenzhen-hosts-apec-leaders-summit-bf9094",
-      "title": "深圳APEC峰会期间交通管制影响居民出行",
-      "description": "亚太经合组织（APEC）领导人非正式会议于2026年11月18日至19日在深圳举行，峰会期间实施的交通管制和安保措施给部分居民日常出行带来不便。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T00:37:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-15",
-      "url": "https://kaopu.news/story/2026-11-15/shenzhen-hosts-apec-leaders-summit-bf9094",
-      "reference": [
-        "英国广播公司",
-        "联合早报",
-        "日经",
-        "纽约时报"
-      ],
-      "section": "china",
-      "sourceCount": 6,
       "sources": []
     },
     {
