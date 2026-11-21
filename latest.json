@@ -1,11 +1,66 @@
 {
   "details": {
     "date": "2026-11-21",
-    "timestamp": 1795275014,
+    "timestamp": 1795281939,
     "totalPages": 1,
     "total": 264
   },
   "stories": [
+    {
+      "id": "nanyang-confucius-institute-research-transition-493ba4",
+      "title": "南大孔院2027年2月转型为研究型学院",
+      "description": "南洋理工大学孔子学院将从2027年2月起停止开办各类课程，转为以研究为主的学院。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-21T16:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/nanyang-confucius-institute-research-transition-493ba4",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "singapore-health-ministry-hires-debt-collectors-10906c",
+      "title": "新加坡保健卫生部委托催收公司追讨长期医药欠费",
+      "description": "新加坡保健卫生部委托多家持牌第三方债务催收公司，向长期拖欠公共医疗机构医疗费用的患者追讨欠款。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-21T16:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/singapore-health-ministry-hires-debt-collectors-10906c",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "iran-claims-us-f16-damaged-denied-adc731",
+      "title": "伊朗称击伤美军F-16遭中央司令部否认",
+      "description": "伊朗伊斯兰共和国广播电视台援引伊朗军方声明称，防空部队于11月20日晚在波斯湾上空拦截一架美军F-16，称其受损并被迫紧急降落；美国中央司令部随后否认。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-21T15:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/iran-claims-us-f16-damaged-denied-adc731",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
     {
       "id": "fbi-crime-database-suspected-breach-579a8b",
       "title": "美国农业部拨款系统据报遭网络攻击",
@@ -24,6 +79,42 @@
       ],
       "section": "us",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "trump-iran-permanent-agreement-76999a",
+      "title": "特朗普称将与伊朗达成一项永久协议",
+      "description": "美国总统特朗普在福克斯新闻频道播出的采访节目中谈及伊朗问题。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-21T15:35:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/trump-iran-permanent-agreement-76999a",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "philippines-drops-china-south-china-sea-code-goal-61da60",
+      "title": "菲律宾放弃年内与中国达成南海准则目标",
+      "description": "菲律宾在11月中旬于马尼拉举行的东盟年度峰会上放弃了2026年内与中国达成南海行为准则的目标。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-21T15:13:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/philippines-drops-china-south-china-sea-code-goal-61da60",
+      "reference": [
+        "德国之声"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2038,27 +2129,6 @@
       "sources": []
     },
     {
-      "id": "burnham-says-brexit-lost-more-than-gained-e0a4c4",
-      "title": "英欧峰会达成72项共识推动关系重整",
-      "description": "英国与欧盟领导人11月20日在比利时布鲁塞尔的欧盟总部举行第二次峰会，会后宣布在贸易、安全与防务、碳排放和青年交流等领域达成72项共识。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T00:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/burnham-says-brexit-lost-more-than-gained-e0a4c4",
-      "reference": [
-        "英国广播公司",
-        "公视",
-        "联合早报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "mohamad-sabu-warns-worker-expulsions-hurt-malaysia-economy-4c1363",
       "title": "末沙布警告驱逐移工恐拖累马来西亚经济",
       "description": "马来西亚农粮部长莫哈末沙布警告，部分群体鼓动排斥移工并主张驱逐他们，可能危及马来西亚经济。",
@@ -2074,27 +2144,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "icj-rules-myanmar-rohingya-genocide-7c20ba",
-      "title": "国际法院裁定缅甸对罗兴亚人实施种族灭绝",
-      "description": "国际法院11月19日以9票对6票裁定，缅甸在2017年针对若开邦北部罗兴亚人的军事行动构成种族灭绝。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T23:35:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/icj-rules-myanmar-rohingya-genocide-7c20ba",
-      "reference": [
-        "联合早报",
-        "法广",
-        "加拿大国际广播电台",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 14,
       "sources": []
     },
     {
@@ -2775,24 +2824,6 @@
       ],
       "section": "life",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "vietnam-parliament-limits-death-penalty-four-crimes-da9d94",
-      "title": "越南国会通过修法将死刑罪名减至四类",
-      "description": "越南国会星期五（11月20日）通过刑法修正案，将可判死刑的罪行限于叛国、谋杀、恐怖主义和非法制造毒品四类。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T12:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/vietnam-parliament-limits-death-penalty-four-crimes-da9d94",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3604,24 +3635,6 @@
       "occurredAt": "",
       "publishedAt": "2026-11-20",
       "url": "https://kaopu.news/story/2026-11-20/tan-see-leng-singapore-decarbonization-costs-3db945",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "singapore-seniors-cpf-topup-62d45c",
-      "title": "新加坡逾78万名长者将获最高1500元公积金填补",
-      "description": "新加坡人力部和中央公积金局11月20日宣布，超过78万2000名退休储蓄低于基本存款的年长者，将在12月8日前获得公积金填补。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T03:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/singapore-seniors-cpf-topup-62d45c",
       "reference": [
         "联合早报"
       ],
@@ -4745,24 +4758,6 @@
       "occurredAt": "",
       "publishedAt": "2026-11-12",
       "url": "https://kaopu.news/story/2026-11-12/peoples-literature-reclaims-fees-essay-plagiarism-3e9824",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "fudan-scholars-trace-century-zhongshan-roads-9e3270",
-      "title": "复旦学者梳理中山路百年命名与空间分布",
-      "description": "复旦大学历史地理研究中心副研究员李爽和教授韩昭庆在发表于《地理学报》的研究中，借助历史地图、地籍图和道路数据，梳理1925年至2021年中国县级及以上政区中山路的命名与空间变化。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-11T23:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-11",
-      "url": "https://kaopu.news/story/2026-11-11/fudan-scholars-trace-century-zhongshan-roads-9e3270",
       "reference": [
         "澎湃新闻"
       ],
