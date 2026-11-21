@@ -3,9 +3,161 @@
     "date": "2026-11-21",
     "timestamp": 1795275014,
     "totalPages": 1,
-    "total": 263
+    "total": 264
   },
   "stories": [
+    {
+      "id": "fbi-crime-database-suspected-breach-579a8b",
+      "title": "美国农业部拨款系统据报遭网络攻击",
+      "description": "据NBC News报道，美国农业部已告知员工，一套用于协助向农民拨款的系统遭到网络攻击。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-21T15:35:48+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/fbi-crime-database-suspected-breach-579a8b",
+      "reference": [
+        "联合早报",
+        "法广",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "mexico-military-arrests-sinaloa-fbi-fugitive-meza-73180b",
+      "title": "墨西哥军方在锡那罗亚州逮捕FBI十大通缉逃犯梅萨",
+      "description": "墨西哥军方特种部队于2026年11月20日晚在锡那罗亚州抓获毒枭梅萨及其两名手下。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-21T14:35:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/mexico-military-arrests-sinaloa-fbi-fugitive-meza-73180b",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "costa-eu-budget-cut-200-billion-euros-469f0e",
+      "title": "柯斯塔公布拟向科技巨头征税的欧盟预算草案",
+      "description": "欧盟理事会主席安东尼奥·柯斯塔公布2028至2034年长期预算新草案，较欧盟委员会最初方案削减2040亿欧元，并提议对达到门槛的全球科技企业征收数字业务税。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-21T14:32:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/costa-eu-budget-cut-200-billion-euros-469f0e",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "australia-climate-draft-phase-out-fossil-fuels-d09761",
+      "title": "COP31谈判未达共识延至21日继续",
+      "description": "在土耳其安塔利亚举行的联合国气候变化框架公约第31次缔约方大会（COP31）未能按原定安排于11月20日闭幕。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-21T14:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/australia-climate-draft-phase-out-fossil-fuels-d09761",
+      "reference": [
+        "联合早报",
+        "公视",
+        "第一财经",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "title": "中美俄元首深圳首次会晤并发表和平宣言",
+      "description": "习近平、美国总统特朗普和俄罗斯总统普京11月19日在深圳举行首次中美俄元首三方会晤，会议持续约90分钟。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-21T14:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "日经",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 284,
+      "sources": []
+    },
+    {
+      "id": "eu-indonesia-sign-economic-partnership-agreement-618c14",
+      "title": "欧盟与印尼签署全面经济伙伴关系协定",
+      "description": "欧盟与印度尼西亚11月21日在布鲁塞尔签署全面经济伙伴关系协定（CEPA）及投资保护协定（IPA）。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-21T14:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/eu-indonesia-sign-economic-partnership-agreement-618c14",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ge-zhi-extradited-us-court-appearance-d92879",
+      "title": "新加坡籍男子葛志被引渡至美后首次出庭",
+      "description": "35岁的新加坡籍男子葛志经新加坡法院批准引渡至美国，11月20日在波士顿联邦法院首次出庭，面对证券欺诈和洗钱指控。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-21T14:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/ge-zhi-extradited-us-court-appearance-d92879",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "visa-china-card-clearing-preparation-approval-03e5fa",
+      "title": "财新称Visa在华实体获清算筹备许可",
+      "description": "据财新报道，Visa在中国境内的法人实体威士信息技术（北京）有限公司于10月初获得银行卡清算机构筹备许可。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-21T14:09:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/visa-china-card-clearing-preparation-approval-03e5fa",
+      "reference": [
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "araghchi-iran-seeks-us-deal-67a389",
       "title": "特朗普称伊朗想达成的协议非其所能接受",
@@ -80,27 +232,6 @@
       ],
       "section": "ai",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "australia-climate-draft-phase-out-fossil-fuels-d09761",
-      "title": "COP31谈判因核心议题分歧延至21日",
-      "description": "联合国气候变化大会（COP31）未能在原定闭幕日就化石燃料和气候融资等核心议题达成共识，谈判从11月20日延至21日继续。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T13:41:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/australia-climate-draft-phase-out-fossil-fuels-d09761",
-      "reference": [
-        "联合早报",
-        "公视",
-        "第一财经",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 10,
       "sources": []
     },
     {
@@ -682,27 +813,6 @@
       "sources": []
     },
     {
-      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "title": "中美俄元首深圳会晤并发表和平宣言",
-      "description": "习近平、美国总统特朗普和俄罗斯总统普京11月19日在深圳举行中美俄元首首次三方会晤，会谈约90分钟。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T09:02:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "reference": [
-        "韩国国际广播电台",
-        "联合早报",
-        "日经",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 280,
-      "sources": []
-    },
-    {
       "id": "taiwan-october-export-orders-record-high-a6379f",
       "title": "台湾10月外销订单创历年单月新高",
       "description": "台湾经济部11月20日公布，10月外销订单达1238.2亿美元，同比增长78.3%，刷新历年单月纪录，连续第21个月同比增长。",
@@ -830,24 +940,6 @@
       ],
       "section": "ai",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "costa-eu-budget-cut-200-billion-euros-469f0e",
-      "title": "法广称柯斯塔草案拟削减欧盟预算2000亿欧元",
-      "description": "欧盟理事会主席安东尼奥·柯斯塔将于今天公布下一期长期预算草案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T08:02:37+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/costa-eu-budget-cut-200-billion-euros-469f0e",
-      "reference": [
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1536,24 +1628,6 @@
       "sources": []
     },
     {
-      "id": "fbi-crime-database-suspected-breach-579a8b",
-      "title": "CNN称FBI全国犯罪信息中心疑遭入侵",
-      "description": "美国联邦调查局（FBI）的全国犯罪信息中心疑似遭到黑客入侵。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T05:36:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/fbi-crime-database-suspected-breach-579a8b",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "pla-jets-cross-taiwan-strait-median-line-560026",
       "title": "15架次中国军机越过海峡中线进入台湾中部和西南空域",
       "description": "台湾国防部称，11月21日上午8时46分起，陆续发现中国人民解放军各型军机21架次出海，其中15架次越过台湾海峡中线及其延长线，进入台湾中部和西南空域。",
@@ -2142,24 +2216,6 @@
       "sources": []
     },
     {
-      "id": "denmark-orders-expulsion-russian-defense-attache-4dd07e",
-      "title": "丹麦决定七日内驱逐俄罗斯国防武官",
-      "description": "丹麦指控莫斯科涉嫌策划在哥本哈根暗杀一名乌克兰饶舌歌手未遂，并决定在七天内驱逐俄罗斯国防武官。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T22:03:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/denmark-orders-expulsion-russian-defense-attache-4dd07e",
-      "reference": [
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "mamdani-restructures-nypd-response-unit-2c21f0",
       "title": "曼达尼重组纽约警局战略反应组取消抗议任务",
       "description": "纽约市长曼达尼本周一宣布重组纽约市警察局战略反应组（SRG），取消该组处置抗议活动的职责，并将其反恐任务纳入警察局情报与反恐体系。",
@@ -2288,27 +2344,6 @@
       ],
       "section": "asia",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "iranian-official-source-sirik-enemy-military-attack-8d6e02",
-      "title": "美伊交火升级格什姆岛空袭后波及海湾目标",
-      "description": "美伊在格什姆岛空袭及海湾地区报复行动中升级军事冲突。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T16:13:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/iranian-official-source-sirik-enemy-military-attack-8d6e02",
-      "reference": [
-        "澎湃新闻",
-        "日本放送协会",
-        "法广",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 17,
       "sources": []
     },
     {
@@ -2757,24 +2792,6 @@
         "联合早报"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-central-bank-proposes-routine-aml-mechanism-968d2e",
-      "title": "央行反洗钱局提出常态化打击洗钱犯罪机制",
-      "description": "11月20日，中国人民银行反洗钱局一名相关负责人在2026第十六届中国反洗钱高峰论坛上提出，应建立常态化打击洗钱犯罪的工作机制，并加强跨境协作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T12:17:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/china-central-bank-proposes-routine-aml-mechanism-968d2e",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
