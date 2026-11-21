@@ -1,11 +1,86 @@
 {
   "details": {
     "date": "2026-11-21",
-    "timestamp": 1795249856,
+    "timestamp": 1795253800,
     "totalPages": 1,
-    "total": 265
+    "total": 264
   },
   "stories": [
+    {
+      "id": "alpoge-claude-riemann-proof-claim-7839a9",
+      "title": "数学家称Claude协助证明黎曼猜想",
+      "description": "美国人工智能公司Anthropic数学家莱文特·阿尔波格称，他与Claude合作找到了黎曼猜想的证明，并于11月20日在个人网站公布材料。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-21T08:15:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/alpoge-claude-riemann-proof-claim-7839a9",
+      "reference": [
+        "第一财经",
+        "澎湃新闻",
+        "世界日报"
+      ],
+      "section": "ai",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "weride-q3-robotaxi-revenue-tops-100m-yuan-d346be",
+      "title": "文远知行全球Robotaxi单季收入首次突破1亿元",
+      "description": "文远知行11月20日公布2026年第三季度财报，全球Robotaxi业务单季收入首次超过1亿元人民币，公司季度营收也创历史新高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-21T08:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/weride-q3-robotaxi-revenue-tops-100m-yuan-d346be",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-power-retailer-rules-tighten-small-firm-funding-cd4ce7",
+      "title": "第一财经称多地收紧售电规则加重中小公司资金压力",
+      "description": "第一财经报道，广东等地陆续收紧售电公司履约保障要求，银行授信审核趋严也加大了中小民营售电企业筹措担保资金的难度。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-21T07:40:33.949553+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/china-power-retailer-rules-tighten-small-firm-funding-cd4ce7",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "iraq-hartha-plant-fire-kills-four-injures-thirty-f575f7",
+      "title": "伊拉克哈尔萨发电站大火致至少4死30伤",
+      "description": "伊拉克南部巴士拉以北的哈尔萨发电站发生火灾，至少4人死亡、30人受伤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-21T07:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/iraq-hartha-plant-fire-kills-four-injures-thirty-f575f7",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "sheinbaum-xi-meeting-seeks-ease-tariff-dispute-52da0a",
       "title": "辛鲍姆会晤习近平盼墨中关系迈入新时代",
@@ -302,26 +377,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "alpoge-claude-riemann-proof-claim-7839a9",
-      "title": "Anthropic数学家称借助Claude找到黎曼猜想证明",
-      "description": "美国人工智能公司Anthropic的数学家Levent Alpöge于当地时间11月20日表示，他在Claude协助下找到黎曼猜想的证明，并在个人网站公开了Lean形式化证明文件。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T06:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/alpoge-claude-riemann-proof-claim-7839a9",
-      "reference": [
-        "第一财经",
-        "澎湃新闻",
-        "世界日报"
-      ],
-      "section": "ai",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1854,24 +1909,6 @@
       "sources": []
     },
     {
-      "id": "weride-q3-robotaxi-revenue-tops-100m-yuan-d346be",
-      "title": "文远知行三季度Robotaxi收入首破亿元",
-      "description": "文远知行公布2026年第三季度财报，Robotaxi业务收入首次超过1亿元，同比增长204%，其中海外市场贡献超过九成。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T14:23:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/weride-q3-robotaxi-revenue-tops-100m-yuan-d346be",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "prabowo-nominates-new-vice-president-4bbbaa",
       "title": "普拉博沃据报11月25日将提交两名副总统人选",
       "description": "据《联合早报》报道，印度尼西亚总统普拉博沃预计于11月25日向人民协商会议（人协）提交两名副总统候选人，以填补吉布兰辞职后留下的空缺。",
@@ -2712,24 +2749,6 @@
       "sources": []
     },
     {
-      "id": "china-red-chip-firms-move-registration-onshore-cdbe68",
-      "title": "路透称证监会要求新设红筹企业迁回注册地后赴境外上市",
-      "description": "据路透社报道，知情人士称，中国证监会近日告知部分律师事务所代表，2023年境外上市新规实施后成立的红筹企业，须将注册地迁回中国境内，才能在中国大陆以外地区上市。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T09:39:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/china-red-chip-firms-move-registration-onshore-cdbe68",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "carney-seeks-taiwan-trade-framework-signing-7fc5db",
       "title": "卡尼称加拿大希望近期签署对台贸易协议",
       "description": "加拿大总理马克·卡尼11月18日在中国深圳表示，加拿大与台湾的贸易合作架构协议进展良好，加方希望近期完成签署。",
@@ -2748,24 +2767,6 @@
       ],
       "section": "world",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "ice-sheets-may-have-crossed-tipping-points-b2f0c7",
-      "title": "英研究报告警告两大冰盖可能已越过气候临界点",
-      "description": "埃克塞特大学与英国南极考察处的研究人员撰写的报告，警告南极西部冰盖、格陵兰冰盖等可能已越过气候临界点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T09:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/ice-sheets-may-have-crossed-tipping-points-b2f0c7",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -4924,24 +4925,6 @@
       ],
       "section": "sports",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-table-tennis-youth-olympics-no-medals-be0cbf",
-      "title": "中国乒乓球队青奥会首次无奖牌收官",
-      "description": "达喀尔青奥会乒乓球项目于11月5日结束全部比赛，中国队在男单、女单和混双均未获奖牌，这是青奥会2010年创办以来中国队首次在该项目颗粒无收。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-07T07:41:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-05",
-      "url": "https://kaopu.news/story/2026-11-05/china-table-tennis-youth-olympics-no-medals-be0cbf",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "sports",
-      "sourceCount": 2,
       "sources": []
     }
   ]
