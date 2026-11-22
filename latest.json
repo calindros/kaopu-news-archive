@@ -1,19 +1,59 @@
 {
   "details": {
     "date": "2026-11-22",
-    "timestamp": 1795333238,
+    "timestamp": 1795336344,
     "totalPages": 1,
-    "total": 265
+    "total": 264
   },
   "stories": [
     {
-      "id": "australia-climate-draft-phase-out-fossil-fuels-d09761",
-      "title": "COP31主席国提交未点名化石燃料的新草案",
-      "description": "联合国气候变化大会COP31在土耳其安塔利亚未能按原定安排结束，谈判延至11月22日。",
+      "id": "indonesia-candy-factory-fire-three-dead-36-missing-1746b8",
+      "title": "印尼糖果厂火灾已致6死33人失联",
+      "description": "印尼万丹省西冷县Fonusa Agung Mulia糖果厂于11月21日下午起火。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-22T06:18:00+00:00",
+      "updatedAt": "2026-11-22T06:55:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/indonesia-candy-factory-fire-three-dead-36-missing-1746b8",
+      "reference": [
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "iranian-official-source-sirik-enemy-military-attack-8d6e02",
+      "title": "巴林称民用工业设施遭伊朗袭击起火",
+      "description": "巴林内政部11月21日晚通报称，该国一处民用工业设施当天遭伊朗袭击后起火。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T06:54:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/iranian-official-source-sirik-enemy-military-attack-8d6e02",
+      "reference": [
+        "澎湃新闻",
+        "日本放送协会",
+        "法广",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 20,
+      "sources": []
+    },
+    {
+      "id": "australia-climate-draft-phase-out-fossil-fuels-d09761",
+      "title": "土耳其澳大利亚提出电气化减排新草案",
+      "description": "第31届联合国气候变化大会（COP31）主席国土耳其和澳大利亚11月22日提出新版协议草案，主张通过推动全球经济电气化减少温室气体排放、增强能源安全。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T06:31:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-17",
       "url": "https://kaopu.news/story/2026-11-17/australia-climate-draft-phase-out-fossil-fuels-d09761",
@@ -24,7 +64,339 @@
         "法广"
       ],
       "section": "world",
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
+      "id": "new-york-national-grid-gas-rate-freeze-703c57",
+      "title": "纽约州批准国家电网天然气基本费率冻结至2028年",
+      "description": "纽约州公共服务委员会近日批准国家电网天然气输送基本费率冻结方案，纽约市及长岛约190万名用户的现行基本费率将维持至2028年3月底。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T06:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/new-york-national-grid-gas-rate-freeze-703c57",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "new-york-times-reports-jensen-huang-abuse-84a7c4",
+      "title": "纽时曝黄仁勋长期羞辱威胁辉达员工",
+      "description": "《纽约时报》称，辉达联合创始人黄仁勋多年来在公司内部以当众斥责、羞辱和言语威胁等方式管理员工，并将这类压力视为促使员工提高表现的手段。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T06:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/new-york-times-reports-jensen-huang-abuse-84a7c4",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "new-york-stock-indexes-drop-sharply-95f0b3",
+      "title": "美股抛售潮令三大股指单周大幅下跌",
+      "description": "美国股市在截至11月20日的一周大幅下挫。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T06:29:39.710581+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/new-york-stock-indexes-drop-sharply-95f0b3",
+      "reference": [
+        "澎湃新闻",
+        "中央通訊社",
+        "法广",
+        "世界日报"
+      ],
+      "section": "business",
       "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "fbi-crime-database-suspected-breach-579a8b",
+      "title": "美媒称FBI国家犯罪信息中心疑遭入侵",
+      "description": "据NBC News报道，美国农业部已告知员工，一套协助向农民拨款的系统遭到网络攻击。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/fbi-crime-database-suspected-breach-579a8b",
+      "reference": [
+        "联合早报",
+        "法广",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "trump-democrats-credit-card-rate-cap-095f47",
+      "title": "特朗普称将与民主党合作推动信用卡利率设限",
+      "description": "美国总统特朗普表示，将与即将掌控国会两院的民主党合作，推动为信用卡利率设定上限，以兑现竞选承诺。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/trump-democrats-credit-card-rate-cap-095f47",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "yu-hua-xichuan-new-york-literary-talk-6dc3fb",
+      "title": "余华西川纽约对谈分享文学跨语言经验",
+      "description": "诗人西川与作家余华11月21日在纽约华美协进社参加“文学回响”（Literary Echoes）美中文学对谈，围绕创作、翻译、文学改编以及人工智能对写作的影响展开交流。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/yu-hua-xichuan-new-york-literary-talk-6dc3fb",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "los-angeles-train-cargo-theft-arrests-439a3a",
+      "title": "美国检方起诉14人团伙盗窃逾2250万美元列车货物",
+      "description": "美国联邦检方已起诉由21岁洛杉矶男子Nathan Daniel Angel带头的14人团伙，指控他们在2024年2月至2026年8月间多次劫掠南加州货运列车，至少洗劫36列，盗取货物价值超过2250万美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T06:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/los-angeles-train-cargo-theft-arrests-439a3a",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "mta-recommends-firing-nine-eagle-members-aeb42f",
+      "title": "MTA调查认定9名查票员违规并建议解雇",
+      "description": "MTA内部调查认定，EAGLE公车查票队9名成员在两起乘客冲突中违规，其中包括两名主管。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T06:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/mta-recommends-firing-nine-eagle-members-aeb42f",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "brooklyn-apartment-collapse-excavation-probe-9a9c8c",
+      "title": "布鲁克林公寓楼塌致8死调查聚焦邻近工地",
+      "description": "布鲁克林一栋公寓楼11月11日倒塌，造成8人死亡。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T06:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/brooklyn-apartment-collapse-excavation-probe-9a9c8c",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "south-korea-china-auto-trade-deficit-record-929e83",
+      "title": "韩国对华汽车贸易逆差创下历年新高",
+      "description": "韩国今年前10个月对华汽车贸易逆差达42.3056亿美元，同比扩大92.7%，超过去年全年，创历年新高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T06:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/south-korea-china-auto-trade-deficit-record-929e83",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-orders-contractors-notify-white-house-d73d73",
+      "title": "特朗普要求联邦承包商回应国会前先报白宫",
+      "description": "特朗普于11月20日发布行政命令，要求联邦承包商和分包商收到国会查询或索取信息的要求后，先向白宫通报并协商答复方式；政府认定为机密或受“行政特权”保护的信息及通信内容，不得提供给国会。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T06:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/trump-orders-contractors-notify-white-house-d73d73",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "new-senators-shape-schumer-van-hollen-race-f08b22",
+      "title": "13名新科参议员成舒默与范霍伦争夺领袖关键",
+      "description": "民主党13名新当选参议员正成为查克·舒默与克里斯·范霍伦争夺参院民主党领袖职位的关键。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T06:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/new-senators-shape-schumer-van-hollen-race-f08b22",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-officials-report-no-cyberattack-evidence-f1a77d",
+      "title": "美国多家关键系统六天内接连发生故障",
+      "description": "11月12日至17日，微软、美国联邦航空管理局（FAA）、摩根大通、苹果和美国国家安全局（NSA）等机构接连发生服务中断或故障，影响办公通信、航班、银行交易及内部网络。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T06:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/us-officials-report-no-cyberattack-evidence-f1a77d",
+      "reference": [
+        "法广",
+        "公视",
+        "世界日报",
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "new-york-public-library-best-books-2026-7ca4de",
+      "title": "纽约公共图书馆公布2026年度好书名单",
+      "description": "纽约公共图书馆近日发布2026年度好书名单，馆员和工作人员共选出260本作品，面向成人、青少年和儿童。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T06:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/new-york-public-library-best-books-2026-7ca4de",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-praises-jeffries-seeks-cooperation-5ba1fa",
+      "title": "特朗普称赞杰弗里斯并表达合作意愿",
+      "description": "美国总统唐纳德·特朗普11月21日接受福斯新闻节目《周六美国》主持人麦肯内尼专访时，称赞获提名出任下一届众议院议长的民主党人哈基姆·杰弗里斯，并表示期待在下一届国会与他合作；特朗普同时为白宫新任幕僚长史蒂芬·米勒辩护。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T06:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/trump-praises-jeffries-seeks-cooperation-5ba1fa",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-navy-keeps-doris-miller-carrier-name-0d779c",
+      "title": "美国海军确认第四艘福特级航母保留米勒舰名",
+      "description": "美国海军确认，正在建造的第四艘福特级航空母舰将继续使用“多里斯·米勒号”这一名称，不会改以特朗普命名。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T06:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/us-navy-keeps-doris-miller-carrier-name-0d779c",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "frontier-flight-no-pilot-passengers-deplane-511fb7",
+      "title": "世界日报称边疆航空航班缺飞行员乘客登机后被迫下机",
+      "description": "据世界日报报道，南加州居民许小姐表示，她于11月19日晚搭乘边疆航空一班原定从西雅图飞往洛杉矶的航班。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T06:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/frontier-flight-no-pilot-passengers-deplane-511fb7",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "baldwin-medicare-age-50-proposal-b63915",
+      "title": "鲍德温提案拟将联邦医保参保年龄降至50岁",
+      "description": "美国威斯康星州民主党参议员塔米·鲍德温提出《50岁联邦医疗保险法案》，拟允许50至64岁人群自愿加入联邦医疗保险（Medicare）。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T06:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/baldwin-medicare-age-50-proposal-b63915",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -118,6 +490,24 @@
       "sources": []
     },
     {
+      "id": "kuomintang-steps-up-referendum-campaign-8b6bac",
+      "title": "国民党称公投前最后一周将加强宣传",
+      "description": "中国国民党文传会主委陈以信表示，围绕11月28日举行的“废除非核家园”公投，国民党将在投票前最后一周加大宣传。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T05:59:45+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/kuomintang-steps-up-referendum-campaign-8b6bac",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "japan-draft-nuclear-submarine-review-7d54bb",
       "title": "共同社披露日本拟尽早决定核潜艇引进问题",
       "description": "共同社援引多名相关人士披露，日本政府拟在年底修订的三份安保文件中写入启动核动力潜艇引进探讨，并尽早就是否引进作出结论。",
@@ -191,6 +581,24 @@
       ],
       "section": "sports",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "taiwan-air-force-mq9b-induction-ceremony-866244",
+      "title": "中央社称台湾空军拟12月举行首批MQ-9B接装典礼",
+      "description": "中央社援引未具名消息称，台湾空军计划于今年12月为首批两架MQ-9B无人机举行接装典礼；后续将继续测评，完成相关程序后纳入战备序列。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T05:37:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/taiwan-air-force-mq9b-induction-ceremony-866244",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -513,42 +921,6 @@
       ],
       "section": "life",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "los-angeles-train-cargo-theft-arrests-439a3a",
-      "title": "21岁男子率14人团伙劫列车盗走2250万美元货物",
-      "description": "洛杉矶21岁男子安奇拉（Nathan Daniel Angel）为首的14人团伙，被控在南加州多次劫掠货运列车，盗取价值超过2250万美元的货物。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T03:20:45+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/los-angeles-train-cargo-theft-arrests-439a3a",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "indonesia-candy-factory-fire-three-dead-36-missing-1746b8",
-      "title": "印尼糖果厂火灾致三死三十六人失踪",
-      "description": "印尼西冷县Fonusa Agung Mulia糖果厂11月21日下午起火，造成3人死亡，另有36人失踪。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T03:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/indonesia-candy-factory-fire-three-dead-36-missing-1746b8",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -905,27 +1277,6 @@
       "sources": []
     },
     {
-      "id": "iranian-official-source-sirik-enemy-military-attack-8d6e02",
-      "title": "巴林称伊朗袭击民用工业设施致起火受损",
-      "description": "巴林称，一处民用工业设施遭伊朗袭击后起火并受损，目前没有人员伤亡。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T23:57:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/iranian-official-source-sirik-enemy-military-attack-8d6e02",
-      "reference": [
-        "澎湃新闻",
-        "日本放送协会",
-        "法广",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 19,
-      "sources": []
-    },
-    {
       "id": "south-korean-universities-tighten-ai-cheating-controls-dd6b1b",
       "title": "韩国高校加严论述考试防作弊措施",
       "description": "韩国主要大学自主招生论述考试于11月21日开始，校方加强智能设备防作弊措施，部分考生质疑措施实效，并称临时调整影响答题习惯。",
@@ -1145,26 +1496,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "fbi-crime-database-suspected-breach-579a8b",
-      "title": "美国农业部拨款系统据报遭网络攻击",
-      "description": "据NBC News报道，美国农业部已告知员工，一套用于协助向农民拨款的系统遭到网络攻击。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T15:35:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/fbi-crime-database-suspected-breach-579a8b",
-      "reference": [
-        "联合早报",
-        "法广",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -2649,45 +2980,6 @@
       "sources": []
     },
     {
-      "id": "pragmatik-labs-valuation-reaches-5-billion-79004d",
-      "title": "彭博社引述知情人士称语用科技估值升至50亿美元",
-      "description": "联合早报援引彭博社报道，彭博社引述知情人士称，林俊旸创立的语用科技近日完成数千万美元新一轮融资，估值达到50亿美元，较今年8月首轮融资时的20亿美元高出逾一倍。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T03:33:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/pragmatik-labs-valuation-reaches-5-billion-79004d",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "new-york-stock-indexes-drop-sharply-95f0b3",
-      "title": "AI投资回报疑虑加剧美股重挫道指标普跌入修正区间",
-      "description": "美国股市20日遭遇大幅抛售，人工智能投资回报和估值疑虑加深，科技股领跌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T03:08:47+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/new-york-stock-indexes-drop-sharply-95f0b3",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社",
-        "法广",
-        "世界日报"
-      ],
-      "section": "business",
-      "sourceCount": 11,
-      "sources": []
-    },
-    {
       "id": "us-army-plans-iowa-ammunition-plant-blast-87f46e",
       "title": "第八巡回上诉法院暂停艾奥瓦弹药厂爆破计划",
       "description": "美国第八巡回上诉法院11月19日暂停美国陆军在艾奥瓦州米德尔敦弹药厂引爆约5吨叠氮化铅的计划，并暂时中止美国环保署核发的相关许可，直至法院对紧急暂缓请求作出裁决。",
@@ -2722,24 +3014,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "new-york-times-reports-jensen-huang-abuse-84a7c4",
-      "title": "纽时称黄仁勋长期羞辱威胁辉达员工",
-      "description": "《世界日报》转述《纽约时报》的调查报道，称辉达共同创办人黄仁勋多年来以公开羞辱、辱骂和威胁的方式管理员工；黄仁勋方面否认相关指控，辉达拒绝进一步评论。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T02:01:47+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/new-york-times-reports-jensen-huang-abuse-84a7c4",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2886,69 +3160,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "south-korea-supreme-court-han-duck-soo-verdict-34fd59",
-      "title": "韩国大法院认定戒严属内乱并将韩德洙案发回重审",
-      "description": "韩国大法院全体合议庭11月19日认定，2024年12月3日宣布的紧急戒严违宪违法，且是以扰乱宪政秩序为目的的内乱行为。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T23:23:50+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/south-korea-supreme-court-han-duck-soo-verdict-34fd59",
-      "reference": [
-        "东亚日报",
-        "韩国国际广播电台",
-        "韩民族日报",
-        "财新"
-      ],
-      "section": "asia",
-      "sourceCount": 9,
-      "sources": []
-    },
-    {
-      "id": "korean-tax-exam-scorer-admits-ai-cheating-eae799",
-      "title": "韩国税务师考试状元承认借助AI作弊",
-      "description": "韩国税务师资格考试第一名合格者韩某承认在考试中借助微型摄像头、手机和生成式人工智能作弊，警方已展开调查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T23:23:33+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-15",
-      "url": "https://kaopu.news/story/2026-11-15/korean-tax-exam-scorer-admits-ai-cheating-eae799",
-      "reference": [
-        "法广",
-        "联合早报",
-        "澎湃新闻",
-        "东亚日报"
-      ],
-      "section": "asia",
-      "sourceCount": 12,
-      "sources": []
-    },
-    {
-      "id": "south-korea-court-upholds-kim-keon-hee-sentence-0f31e8",
-      "title": "韩国大法院维持金建希四年刑期判决",
-      "description": "韩国大法院全员合议庭11月19日驳回金建希案控辩双方上诉，维持二审判决，判处她有期徒刑4年、罚金5000万韩元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T23:22:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/south-korea-court-upholds-kim-keon-hee-sentence-0f31e8",
-      "reference": [
-        "澎湃新闻",
-        "韩民族日报",
-        "联合早报",
-        "东亚日报"
-      ],
-      "section": "asia",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -3325,24 +3536,6 @@
       "sources": []
     },
     {
-      "id": "fed-officials-split-over-further-tightening-2237be",
-      "title": "美联储官员主张进一步收紧但加息节奏存分歧",
-      "description": "多名美联储官员本周接连表示，美国通胀仍高于目标，货币政策需要进一步收紧；但对加息幅度和速度看法不一，既有主张审慎推进的声音，也有人提出更大幅度或连续加息。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T10:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/fed-officials-split-over-further-tightening-2237be",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "japan-h3-launch-operations-mitsubishi-transfer-b0e36a",
       "title": "JAXA将从H3火箭11号机起移交发射业务",
       "description": "JAXA与三菱重工业公司达成协议，从H3火箭11号机起由三菱重工接手发射业务。",
@@ -3398,25 +3591,6 @@
       "sources": []
     },
     {
-      "id": "pentagon-miller-iran-war-cost-48-billion-b49cf4",
-      "title": "美国对伊战争开支截至11月13日升至483亿美元",
-      "description": "美国国防部副主计长亚瑟·米勒（Arthur Miller）11月19日在参议院军事委员会作证称，截至11月13日，美军自美国和以色列于2026年2月28日对伊朗开战以来，相关支出累计达483亿美元，涵盖作战、弹药及装备更换费用。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T09:48:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/pentagon-miller-iran-war-cost-48-billion-b49cf4",
-      "reference": [
-        "法广",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "zhong-fangda-expelled-party-public-office-303bf2",
       "title": "茅台集团原总经理助理钟方达被开除党籍和公职",
       "description": "中国贵州茅台酒厂（集团）有限责任公司原总经理助理钟方达被开除党籍和公职，将涉嫌犯罪问题移送检察机关依法审查起诉，所涉财物一并移送。",
@@ -3450,25 +3624,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-abstains-north-korea-human-rights-vote-5c9741",
-      "title": "美国在联大朝鲜人权决议表决中投弃权票",
-      "description": "联合国大会第三委员会11月18日以95票赞成、14票反对、58票弃权通过朝鲜人权决议案，美国投下弃权票。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T09:04:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/us-abstains-north-korea-human-rights-vote-5c9741",
-      "reference": [
-        "韩国国际广播电台",
-        "韩民族日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3563,153 +3718,6 @@
         "联合早报"
       ],
       "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-consumers-stockpile-emergency-supplies-3e8b85",
-      "title": "美国消费者增加应急物资采购应对系统故障",
-      "description": "美国多家零售商表示，消费者近期增加采购瓶装水、米、罐头、丙烷和发电机等生活必需品及应急用品。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T06:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/us-consumers-stockpile-emergency-supplies-3e8b85",
-      "reference": [
-        "联合早报",
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "henry-yau-bribery-conspiracy-sentenced-37-months-8b7eef",
-      "title": "前ICE遣返主管邱亨利因收贿泄密被判37个月",
-      "description": "前美国移民与海关执法局（ICE）遣返主管邱亨利因共谋索取和接受贿赂及不当酬金，11月18日被纽约南区联邦法院判处37个月监禁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T06:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/henry-yau-bribery-conspiracy-sentenced-37-months-8b7eef",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "afp-white-house-removes-cairncross-cyber-director-de76cc",
-      "title": "白宫撤换网络安全总监凯恩克罗斯由戴维斯接任",
-      "description": "美国白宫11月19日宣布，由五角大厦首席信息官克莉丝汀·戴维斯（Kirsten A. Davies）接任国家网络安全总监，原任西恩·凯恩克罗斯（Sean Cairncross）已被解职。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T06:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/afp-white-house-removes-cairncross-cyber-director-de76cc",
-      "reference": [
-        "联合早报",
-        "世界日报",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "bay-area-storm-brings-heavy-rain-45b16e",
-      "title": "强风暴袭击旧金山湾区刷新降雨纪录",
-      "description": "强风暴于2026年11月18日袭击旧金山湾区，暴雨淹没多处街道和低洼地区。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T06:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/bay-area-storm-brings-heavy-rain-45b16e",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "pacific-storm-threatens-five-state-power-4472b8",
-      "title": "太平洋强风暴威胁美国五州电力供应",
-      "description": "来自太平洋的强风暴正威胁美国西部和中部五州，强风可能吹倒树木、扯断电缆并造成大范围停电。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T06:17:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/pacific-storm-threatens-five-state-power-4472b8",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "bill-cassidy-proposes-social-security-investment-fund-4d6c69",
-      "title": "卡西迪研拟提出举债1.5万亿美元设美国社保投资基金",
-      "description": "美国路易斯安那州共和党联邦参议员比尔·卡西迪正研拟提出一项社会保障融资构想，计划举债1.5万亿美元，另设一个独立于社会保障信托基金的投资基金。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T06:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/bill-cassidy-proposes-social-security-investment-fund-4d6c69",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "new-hampshire-couple-pleads-guilty-wire-fraud-88de1d",
-      "title": "新罕布什尔州夫妇因跨州诈骗案认罪",
-      "description": "陈忠和郭思佳11月18日在新罕布什尔州联邦地区法院承认串谋电信诈骗。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T06:13:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/new-hampshire-couple-pleads-guilty-wire-fraud-88de1d",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "richards-seeks-shsat-reform-or-phaseout-c2b413",
-      "title": "理查兹要求州议会修改或逐步废除特殊高中考试",
-      "description": "皇后区长理查兹近日在区情咨文中再次批评特殊高中入学考试（SHSAT），要求纽约州议会修改这项考试或逐步废除。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/richards-seeks-shsat-reform-or-phaseout-c2b413",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -4712,24 +4720,6 @@
       "sources": []
     },
     {
-      "id": "gods-dont-give-gifts-us-theatrical-release-7a001f",
-      "title": "纯AI动画长片《神无赐福》定档美国院线",
-      "description": "由美国导演扎克·伦敦编剧并执导的动画长片《神无赐福》（Gods Don't Give Gifts）定于12月4日在美国传统院线上映。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-13T08:52:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/gods-dont-give-gifts-us-theatrical-release-7a001f",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "atp-sponsorship-revenue-tops-100-million-5d80a6",
       "title": "ATP统一开发赞助收入首次突破1亿美元",
       "description": "ATP表示，2026年由其统一开发的商业赞助收入同比增加49%，总额首次超过1亿美元，达到2022年的三倍以上。",
@@ -4744,24 +4734,6 @@
         "澎湃新闻"
       ],
       "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "li-shuangyuan-dies-aged-99-12853a",
-      "title": "著名法学家李双元逝世，享年99岁",
-      "description": "著名法学家李双元于2026年11月11日16时54分去世，享年99岁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-12T07:43:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/li-shuangyuan-dies-aged-99-12853a",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "culture",
       "sourceCount": 1,
       "sources": []
     },
