@@ -1,11 +1,361 @@
 {
   "details": {
-    "date": "2026-11-22",
-    "timestamp": 1795389955,
+    "date": "2026-11-23",
+    "timestamp": 1795398143,
     "totalPages": 1,
-    "total": 267
+    "total": 266
   },
   "stories": [
+    {
+      "id": "us-officials-report-no-cyberattack-evidence-f1a77d",
+      "title": "美国情报总监警告系统升级期间还会出现更多故障",
+      "description": "美国国家情报总监杰伊·克雷顿11月22日表示，政府机构和企业更新老旧系统时，仍会出现故障和服务中断，公众应预料还会遇到更多此类情况。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T00:41:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/us-officials-report-no-cyberattack-evidence-f1a77d",
+      "reference": [
+        "法广",
+        "公视",
+        "世界日报",
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "fcc-bars-china-carriers-us-phone-numbers-53ee95",
+      "title": "美国FCC拟限制中国三大运营商获取美号码",
+      "description": "美国联邦通信委员会（FCC）于美东时间2026年11月19日投票通过一项拟议规则，计划限制列入其“覆盖清单”的中国电信、中国移动和中国联通直接获取美国电话号码资源。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T00:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/fcc-bars-china-carriers-us-phone-numbers-53ee95",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "中央通訊社",
+        "法广"
+      ],
+      "section": "china",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "australia-climate-draft-phase-out-fossil-fuels-d09761",
+      "title": "COP31未能达成政治协议后闭幕",
+      "description": "联合国气候变化框架公约第三十一次缔约方大会（COP31）当地时间11月22日在土耳其安塔利亚闭幕。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T00:23:57+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/australia-climate-draft-phase-out-fossil-fuels-d09761",
+      "reference": [
+        "联合早报",
+        "公视",
+        "第一财经",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 22,
+      "sources": []
+    },
+    {
+      "id": "russian-drone-strike-kyiv-apartment-collapse-36bb88",
+      "title": "俄军无人机袭击基辅州公寓致多人死伤",
+      "description": "俄军在11月21日至22日对乌克兰多地发动攻势。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T00:18:54+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/russian-drone-strike-kyiv-apartment-collapse-36bb88",
+      "reference": [
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-exchanges-cut-financing-margin-to-80-percent-016e3c",
+      "title": "沪深北交易所推出A股稳市组合措施",
+      "description": "经中国证监会批准，沪深北交易所于11月22日公布一揽子A股稳市安排，涉及融资保证金比例、创业板做市机制和市场降费；中国结算也推出部分债券费用减免措施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T00:11:39.441461+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/china-exchanges-cut-financing-margin-to-80-percent-016e3c",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "财新",
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
+      "id": "alpoge-claude-riemann-proof-claim-7839a9",
+      "title": "阿尔波格称借助Claude构建黎曼猜想形式化证明",
+      "description": "Anthropic数学家莱文特·阿尔波格称，他与Claude合作构建了黎曼猜想的形式化证明，并于11月20日公开相关材料。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T00:10:59+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/alpoge-claude-riemann-proof-claim-7839a9",
+      "reference": [
+        "第一财经",
+        "澎湃新闻",
+        "世界日报",
+        "财新"
+      ],
+      "section": "ai",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "us-probes-huang-le-nvidia-china-chip-sales-274039",
+      "title": "美国调查黄乐并要求英伟达说明对华芯片销售",
+      "description": "美国国家情报总监克莱顿11月22日说，美方正调查新加坡企业超速国际前高管、中国籍女子黄乐及该公司，并怀疑黄乐涉及间谍活动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T00:02:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/us-probes-huang-le-nvidia-china-chip-sales-274039",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "spot-gold-slips-below-3800-a2b521",
+      "title": "国际金价一周下跌近9%创14个月新低",
+      "description": "国际现货黄金本周累计下跌8.9%，每盎司3800、3700和3600美元关口先后失守，价格最低跌至3502美元，创14个月新低。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T23:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/spot-gold-slips-below-3800-a2b521",
+      "reference": [
+        "澎湃新闻",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "china-pension-survey-residents-under-200-eb09dd",
+      "title": "调查显示近八成居民类养老金领取者月领不超200元",
+      "description": "中国健康与养老追踪调查项目组近日发布第六轮数据：60岁以上居民类养老金领取者中，近八成每月领取不超过200元，中位数为125元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T23:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/china-pension-survey-residents-under-200-eb09dd",
+      "reference": [
+        "财新"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "lockheed-martin-transfer-korea-helicopter-technology-450516",
+      "title": "洛克希德·马丁拟向韩国转移最高九成直升机技术",
+      "description": "洛克希德·马丁提出在美国政府批准范围内向韩国转移最多90%的下一代高速直升机技术知识产权，并与韩国防务企业联合开发、生产。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T23:25:15+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/lockheed-martin-transfer-korea-helicopter-technology-450516",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "south-korea-plans-repatriate-six-north-korean-fishers-ca1c26",
+      "title": "东亚日报称韩国拟近期遣返6名朝鲜渔民",
+      "description": "东亚日报援引韩国政府部门消息称，韩国有关机构近日已完成对7名获救朝鲜渔民的联合审查，政府计划近期遣返其中希望返朝的6人；另1人表示希望归顺韩国。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T23:24:45+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/south-korea-plans-repatriate-six-north-korean-fishers-ca1c26",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-officials-oppose-command-transfer-date-2359d3",
+      "title": "美前官员反对预定韩美战时指挥权移交年份",
+      "description": "多名前美国官员及前驻韩美军司令反对预先确定韩美战时作战指挥权移交年份，主张先依据双方商定的能力标准进行评估。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T23:21:06+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/us-officials-oppose-command-transfer-date-2359d3",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-may-meet-kim-in-china-0570d7",
+      "title": "特朗普访华期间未能与金正恩会晤",
+      "description": "特朗普在访华期间最终未能与朝鲜领导人金正恩会晤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T23:20:06+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-16",
+      "url": "https://kaopu.news/story/2026-11-16/trump-may-meet-kim-in-china-0570d7",
+      "reference": [
+        "联合早报",
+        "法广",
+        "财新",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 29,
+      "sources": []
+    },
+    {
+      "id": "jensen-huang-resignation-media-bias-debate-f593e5",
+      "title": "黄仁勋辞去英伟达首席执行官等职务",
+      "description": "英伟达创始人黄仁勋11月12日辞去公司首席执行官、总裁和董事职务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T23:19:12+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/jensen-huang-resignation-media-bias-debate-f593e5",
+      "reference": [
+        "世界日报",
+        "东亚日报"
+      ],
+      "section": "ai",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "south-korea-china-auto-trade-deficit-record-929e83",
+      "title": "韩国前十个月对华汽车逆差创历史新高",
+      "description": "韩国2026年前10个月对华汽车贸易逆差达到42.3056亿美元，同比增长92.7%，超过去年全年规模并创历史新高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T23:18:56+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/south-korea-china-auto-trade-deficit-record-929e83",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "东亚日报"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "personal-income-tax-exceeds-last-year-total-ccd9cc",
+      "title": "离岸信托补税带动中国10月个税大增近90%",
+      "description": "中国2026年10月一般公共预算收入同比由降转增，离岸信托收益补缴个税带动个人所得税收入大幅上升。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T23:03:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/personal-income-tax-exceeds-last-year-total-ccd9cc",
+      "reference": [
+        "第一财经",
+        "财新",
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "hong-kong-fire-residents-new-home-windows-cb20df",
+      "title": "端传媒记录宏福苑居民大火后分散安置生活",
+      "description": "端传媒回顾宏福苑大火后居民分散安置的生活。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T23:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/hong-kong-fire-residents-new-home-windows-cb20df",
+      "reference": [
+        "端传媒"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "taiwan-local-elections-test-party-strength-a00227",
+      "title": "民进党力争扩大台湾地方执政版图",
+      "description": "台湾2026年九合一地方选举定于11月28日举行，选民将选出未来四年的地方治理团队。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-22T23:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/taiwan-local-elections-test-party-strength-a00227",
+      "reference": [
+        "联合早报",
+        "英国广播公司"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
+      "sources": []
+    },
     {
       "id": "japan-median-age-crosses-50-7b509e",
       "title": "日本人口年龄中位数首次突破50岁",
@@ -121,27 +471,6 @@
       "sources": []
     },
     {
-      "id": "australia-climate-draft-phase-out-fossil-fuels-d09761",
-      "title": "COP31闭幕未能就政治决定达成一致",
-      "description": "联合国气候变化框架公约第31次缔约方大会（COP31）11月22日在土耳其安塔利亚闭幕，但各方未能就政治决定达成一致。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T18:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/australia-climate-draft-phase-out-fossil-fuels-d09761",
-      "reference": [
-        "联合早报",
-        "公视",
-        "第一财经",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 19,
-      "sources": []
-    },
-    {
       "id": "new-york-thanksgiving-storms-wind-rain-6e2028",
       "title": "两股沿岸风暴预计给纽约感恩节带来强风豪雨",
       "description": "纽约市感恩节前后将先后受到两股沿岸风暴影响。",
@@ -175,27 +504,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-officials-report-no-cyberattack-evidence-f1a77d",
-      "title": "美国官员称多项关键系统故障无网攻迹象",
-      "description": "美国微软、航空、金融及政府系统在11月12日至17日接连发生技术故障。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T15:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/us-officials-report-no-cyberattack-evidence-f1a77d",
-      "reference": [
-        "法广",
-        "公视",
-        "世界日报",
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 9,
       "sources": []
     },
     {
@@ -390,27 +698,6 @@
       "sources": []
     },
     {
-      "id": "china-exchanges-cut-financing-margin-to-80-percent-016e3c",
-      "title": "沪深北交易所下调融资保证金比例至80%",
-      "description": "经中国证监会批准，上海、深圳、北京证券交易所于11月22日公布一揽子稳市措施，将融资买入证券的最低保证金比例从100%降至80%，新比例自11月30日起实施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T13:33:37.997546+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/china-exchanges-cut-financing-margin-to-80-percent-016e3c",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "财新",
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 14,
-      "sources": []
-    },
-    {
       "id": "fujian-legislature-approves-measures-lin-kechuang-d89566",
       "title": "福建省人大常委会许可对林科闯采取刑事强制措施",
       "description": "福建省人大常委会11月19日举行的第二十六次会议作出决定，同意有关方面对省十四届人大代表林科闯采取刑事强制措施。",
@@ -560,25 +847,6 @@
       "sources": []
     },
     {
-      "id": "south-korea-china-auto-trade-deficit-record-929e83",
-      "title": "韩国前十个月对华汽车贸易逆差创历史新高",
-      "description": "韩联社报道，韩国贸易协会和韩国产业通商部11月22日公布的数据显示，韩国2026年1月至10月对华汽车贸易逆差达42.3056亿美元，同比增长92.7%，超过去年全年规模。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T12:23:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/south-korea-china-auto-trade-deficit-record-929e83",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "fudan-report-inclusive-medical-insurance-expansion-slows-75bdd0",
       "title": "复旦团队报告指惠民保市场扩围趋缓",
       "description": "复旦大学经济学院副院长、风险管理与保险学系主任许闲教授团队11月21日发布《2026年城市定制型商业医疗保险（惠民保）知识图谱》。",
@@ -672,45 +940,6 @@
       ],
       "section": "world",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "fcc-bars-china-carriers-us-phone-numbers-53ee95",
-      "title": "FCC拟限制中国三大电信商获取美国号码资源",
-      "description": "美国联邦通信委员会（FCC）于11月19日表决通过一项拟议规则，拟限制列入其“覆盖清单”的中国电信、中国移动和中国联通直接获取美国电话号码资源；其他支持互联网协议（IP）的服务供应商也在措施范围内。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T11:34:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/fcc-bars-china-carriers-us-phone-numbers-53ee95",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "china",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "russian-drone-strike-kyiv-apartment-collapse-36bb88",
-      "title": "俄无人机击中基辅州公寓楼致至少14人被困",
-      "description": "俄罗斯无人机袭击乌克兰基辅州德梅尔村一栋五层公寓楼，造成楼体部分坍塌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T10:59:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/russian-drone-strike-kyiv-apartment-collapse-36bb88",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -915,27 +1144,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-may-meet-kim-in-china-0570d7",
-      "title": "特朗普结束亚洲行未能与金正恩会面",
-      "description": "美国总统唐纳德·特朗普结束亚洲行返美时确认，此行没有与朝鲜领导人金正恩会面，美朝首脑会谈未能举行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T08:52:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/trump-may-meet-kim-in-china-0570d7",
-      "reference": [
-        "联合早报",
-        "法广",
-        "财新",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 28,
       "sources": []
     },
     {
@@ -1863,27 +2071,6 @@
       "sources": []
     },
     {
-      "id": "alpoge-claude-riemann-proof-claim-7839a9",
-      "title": "Lean与Mathlib确认黎曼猜想证明通过核验",
-      "description": "Lean与Mathlib社区当地时间11月21日发表联合声明，确认数学家Levent Alpöge提交的黎曼猜想形式化证明通过检查，且代码表达的命题与Mathlib数学库中的黎曼猜想定义一致。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T02:54:36.427339+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/alpoge-claude-riemann-proof-claim-7839a9",
-      "reference": [
-        "第一财经",
-        "澎湃新闻",
-        "世界日报",
-        "财新"
-      ],
-      "section": "ai",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
       "id": "marles-rejects-cbo-aukus-submarine-report-df3f28",
       "title": "马尔斯驳斥美国报告称AUKUS可能缩减潜艇规模",
       "description": "11月22日，澳大利亚国防部长马尔斯批评美国国会预算办公室关于AUKUS潜艇安排影响的报告。",
@@ -1990,25 +2177,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "spot-gold-slips-below-3800-a2b521",
-      "title": "国际金价一周下跌8.9%并创14个月新低",
-      "description": "国际金价本周显著下挫，伦敦金累计跌幅达8.9%，3800、3700和3600美元/盎司关口相继失守，现货黄金最低报3502美元/盎司，创14个月新低。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T01:52:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/spot-gold-slips-below-3800-a2b521",
-      "reference": [
-        "澎湃新闻",
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -2248,43 +2416,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "hong-kong-fire-residents-new-home-windows-cb20df",
-      "title": "端传媒记录宏福苑居民分散安置后的新家窗景",
-      "description": "宏福苑大火一周年前后，端传媒走访居民并拍摄他们分散安置后的新家窗景，记录搬迁后的生活。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T22:59:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/hong-kong-fire-residents-new-home-windows-cb20df",
-      "reference": [
-        "端传媒"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-local-elections-test-party-strength-a00227",
-      "title": "台湾九合一选举将于11月28日投票",
-      "description": "台湾2026年“九合一”地方选举定于11月28日举行，选民将选出未来四年的地方治理团队。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T21:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/taiwan-local-elections-test-party-strength-a00227",
-      "reference": [
-        "联合早报",
-        "英国广播公司"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -2603,24 +2734,6 @@
       "sources": []
     },
     {
-      "id": "philippines-pax-silica-new-clark-manufacturing-park-57b880",
-      "title": "菲律宾借硅盛世规划新克拉克市先进制造园区",
-      "description": "菲律宾军事基地改建发展局（BCDA）向在菲台湾商人介绍新克拉克市先进制造园区规划。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T12:30:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/philippines-pax-silica-new-clark-manufacturing-park-57b880",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "chongqing-proposes-nine-food-delivery-platform-rules-f4d9a2",
       "title": "重庆拟以九项措施压实网餐平台食品安全责任",
       "description": "重庆市市场监督管理局启动征求意见，拟通过“九个一律”措施明确网络餐饮平台和商户的食品安全管理责任。",
@@ -2676,24 +2789,6 @@
       "sources": []
     },
     {
-      "id": "mca-backs-ahmad-zahid-early-election-call-9ea85f",
-      "title": "马华支持阿末扎希促安华提前解散国会",
-      "description": "马华公会总秘书张盛闻11月21日在马华妇女组第17届中央代表大会致辞时，首次公开支持国阵主席阿末扎希呼吁解散国会，并促请首相安华提前举行第16届全国大选。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T11:45:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/mca-backs-ahmad-zahid-early-election-call-9ea85f",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "taiwan-scholars-call-age-based-ai-guidance-5b99f2",
       "title": "台湾学者呼吁为中小学AI使用制定分龄指引",
       "description": "台中教育大学教授李政轩引用郭伯臣团队研究指出，台湾中小学约四成学生每周至少一次借助人工智能学习，略低于经合组织国家的46%。",
@@ -2708,24 +2803,6 @@
         "公视"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "hadi-says-pas-waits-dap-exits-government-3957fa",
-      "title": "哈迪称行动党先离开团结政府伊党才考虑加入",
-      "description": "伊党主席哈迪阿旺表示，希盟领导的团结政府须先让行动党退出，伊党才会考虑加入。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T11:29:05+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/hadi-says-pas-waits-dap-exits-government-3957fa",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -2784,26 +2861,6 @@
       "sources": []
     },
     {
-      "id": "personal-income-tax-exceeds-last-year-total-ccd9cc",
-      "title": "离岸信托补税推动中国10月个税收入增长近九成",
-      "description": "中国10月个人所得税收入同比增长89.6%，达到2964亿元，离岸信托收益补缴税款推动当月收入大幅上升。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T09:37:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/personal-income-tax-exceeds-last-year-total-ccd9cc",
-      "reference": [
-        "第一财经",
-        "财新",
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "chan-kwok-ki-allows-legal-wang-fuk-memorials-3dd41f",
       "title": "陈国基称政府允许合法悼念宏福苑遇难者",
       "description": "香港政务司司长陈国基20日出席活动后表示，宏福苑火灾一周年相关悼念活动只要合法，香港特区政府就会允许，不会阻止市民和灾民悼念；如有需要，相关部门也可协助市民或宗教团体举办活动。",
@@ -2820,24 +2877,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "taiwan-october-export-orders-record-high-a6379f",
-      "title": "台湾10月外销订单创历年单月新高",
-      "description": "台湾经济部11月20日公布，10月外销订单达1238.2亿美元，同比增长78.3%，刷新历年单月纪录，连续第21个月同比增长。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T08:50:58+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/taiwan-october-export-orders-record-high-a6379f",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -2984,24 +3023,6 @@
         "世界日报"
       ],
       "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "jensen-huang-resignation-media-bias-debate-f593e5",
-      "title": "黄仁勋辞职引发华人社群对媒体报道的争论",
-      "description": "英伟达创始人黄仁勋于11月12日辞去公司首席执行官、总裁和董事职务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T06:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/jensen-huang-resignation-media-bias-debate-f593e5",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "ai",
       "sourceCount": 2,
       "sources": []
     },
@@ -3430,24 +3451,6 @@
       "sources": []
     },
     {
-      "id": "suzhou-court-sentences-qiu-life-c30905",
-      "title": "苏州法院一审判处杀害男友女儿的邱某无期徒刑",
-      "description": "苏州市中级人民法院11月18日作出一审判决，认定邱某故意杀害男友尹先生年仅3岁的女儿彤彤，以故意杀人罪判处邱某无期徒刑，并剥夺政治权利终身。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T01:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/suzhou-court-sentences-qiu-life-c30905",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "missouri-court-approves-bayer-roundup-settlement-06595c",
       "title": "密苏里法院批准拜耳72.5亿元除草剂和解案",
       "description": "密苏里州圣路易巡回法院批准拜耳为Roundup除草剂相关诉讼提出的和解方案，金额最高达72.5亿元。",
@@ -3611,24 +3614,6 @@
       ],
       "section": "us",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "new-york-amazon-delivery-bill-price-warning-38379c",
-      "title": "纽约市议会推进配送法案亚马逊警告订单加价",
-      "description": "纽约市议会正在推进第518号提案，拟要求亚马逊、联邦快递等配送企业申领执照，并直接雇用目前由分包商雇用的配送员。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T19:47:48+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/new-york-amazon-delivery-bill-price-warning-38379c",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
       "sources": []
     },
     {
