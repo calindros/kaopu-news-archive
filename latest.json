@@ -3,9 +3,48 @@
     "date": "2026-11-23",
     "timestamp": 1795398143,
     "totalPages": 1,
-    "total": 266
+    "total": 265
   },
   "stories": [
+    {
+      "id": "bay-area-thanksgiving-flood-transport-risk-0346b1",
+      "title": "旧金山暂停部分停车执法应对风暴洪水风险",
+      "description": "美国国家气象局预报，旧金山湾区11月24日至25日将迎来新一轮风暴，并与异常高潮位叠加，沿海低洼地区、地下室和易积水道路面临洪水风险。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T01:21:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/bay-area-thanksgiving-flood-transport-risk-0346b1",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "trump-warns-huge-taxes-overseas-ai-data-centers-3ed649",
+      "title": "特朗普威胁重税阻止美企海外建设数据中心",
+      "description": "美国总统特朗普11月20日在白宫记者会上表示，美国将不允许本国企业在海外建设数据中心，并威胁对仍在其他国家建设的企业征收“巨额税款”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T00:52:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/trump-warns-huge-taxes-overseas-ai-data-centers-3ed649",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "第一财经",
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 6,
+      "sources": []
+    },
     {
       "id": "us-officials-report-no-cyberattack-evidence-f1a77d",
       "title": "美国情报总监警告系统升级期间还会出现更多故障",
@@ -25,6 +64,42 @@
       ],
       "section": "us",
       "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "pachocki-proposes-ai-perplexity-thresholds-cad045",
+      "title": "帕乔基建议以困惑度设定AI业界共同门槛",
+      "description": "OpenAI首席科学家雅库布·帕乔基在博客中提出，AI开发者应为能力日益增强的模型设立行业共同边界。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T00:37:07+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/pachocki-proposes-ai-perplexity-thresholds-cad045",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ministry-worker-espionage-death-sentence-bff95f",
+      "title": "澎湃新闻称部委工作人员因间谍罪被判死刑",
+      "description": "澎湃新闻报道，某部委工作人员麻某长期为B国情报机构搜集并传递中国国家秘密，法院以间谍罪判处其死刑，同时终身剥夺政治权利、没收其全部个人财产。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T00:36:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/ministry-worker-espionage-death-sentence-bff95f",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -128,6 +203,24 @@
       ],
       "section": "ai",
       "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "nepal-pm-shah-visits-india-reset-ties-12a136",
+      "title": "尼泊尔总理沙哈首访印度寻求重启双边关系",
+      "description": "尼泊尔总理巴伦德拉·沙哈周日抵达新德里，开始为期两天的访问，寻求修复与印度的双边关系。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T00:09:54+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/nepal-pm-shah-visits-india-reset-ties-12a136",
+      "reference": [
+        "英国广播公司"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1033,26 +1126,6 @@
       ],
       "section": "world",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "trump-warns-huge-taxes-overseas-ai-data-centers-3ed649",
-      "title": "特朗普威胁对海外建数据中心美企征重税",
-      "description": "美国总统特朗普11月20日在白宫记者会上表示，美国企业若在海外建设数据中心，将面临“巨额税款”或惩罚。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T10:02:40.268497+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/trump-warns-huge-taxes-overseas-ai-data-centers-3ed649",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -2180,24 +2253,6 @@
       "sources": []
     },
     {
-      "id": "bay-area-thanksgiving-flood-transport-risk-0346b1",
-      "title": "美国国家气象局警告湾区感恩节前洪水风险",
-      "description": "美国国家气象局11月21日警告，旧金山湾区感恩节前可能出现破纪录洪水。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T01:43:54+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/bay-area-thanksgiving-flood-transport-risk-0346b1",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "minor-planet-center-announces-mini-moon-2026-qq8-92e4f1",
       "title": "小行星中心通报地球新迷你卫星2026 QQ8",
       "description": "国际天文学联合会小行星中心10月正式通报发现地球迷你卫星小行星2026 QQ8。",
@@ -2528,24 +2583,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "philippines-drops-china-south-china-sea-code-goal-61da60",
-      "title": "菲律宾放弃年内与中国达成南海准则目标",
-      "description": "菲律宾在11月中旬于马尼拉举行的东盟年度峰会上放弃了2026年内与中国达成南海行为准则的目标。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T15:13:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/philippines-drops-china-south-china-sea-code-goal-61da60",
-      "reference": [
-        "德国之声"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3413,25 +3450,6 @@
       "sources": []
     },
     {
-      "id": "li-qiang-australia-trade-cooperation-87c73d",
-      "title": "李强与阿尔巴尼斯同意建立中澳人工智能对话机制",
-      "description": "中国国务院总理李强与澳大利亚总理阿尔巴尼斯11月20日在北京举行第11轮中澳总理年度会晤，并共同发表联合成果声明。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T03:41:02+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/li-qiang-australia-trade-cooperation-87c73d",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "us-army-plans-iowa-ammunition-plant-blast-87f46e",
       "title": "第八巡回上诉法院暂停艾奥瓦弹药厂爆破计划",
       "description": "美国第八巡回上诉法院11月19日暂停美国陆军在艾奥瓦州米德尔敦弹药厂引爆约5吨叠氮化铅的计划，并暂时中止美国环保署核发的相关许可，直至法院对紧急暂缓请求作出裁决。",
@@ -3672,25 +3690,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "anwar-xi-jinping-advance-malaysia-china-cooperation-786a40",
-      "title": "安华习近平深圳会晤推动中马关系深化",
-      "description": "马来西亚首相安华20日在深圳麒麟山庄会见中国国家主席习近平，双方就经贸、科技和基础设施合作交换意见。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T14:41:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/anwar-xi-jinping-advance-malaysia-china-cooperation-786a40",
-      "reference": [
-        "当今大马",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -4922,24 +4921,6 @@
       "url": "https://kaopu.news/story/2026-11-09/ma-qingsheng-dies-aged-95-a2808a",
       "reference": [
         "联合早报"
-      ],
-      "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "dakar-youth-olympics-debut-africa-5ae7d8",
-      "title": "达卡青年奥运会开赛成为非洲首场奥运赛事",
-      "description": "塞内加尔首都达卡的2026年青年奥林匹克运动会已经开赛，成为首次在非洲举办的奥运赛事。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-09T01:00:08+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-09",
-      "url": "https://kaopu.news/story/2026-11-09/dakar-youth-olympics-debut-africa-5ae7d8",
-      "reference": [
-        "公视"
       ],
       "section": "sports",
       "sourceCount": 1,
