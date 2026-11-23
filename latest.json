@@ -1,11 +1,575 @@
 {
   "details": {
     "date": "2026-11-23",
-    "timestamp": 1795419556,
+    "timestamp": 1795423526,
     "totalPages": 1,
-    "total": 267
+    "total": 268
   },
   "stories": [
+    {
+      "id": "china-elderly-childcare-service-plan-89a6bf",
+      "title": "四部门公布养老托育体系建设方案",
+      "description": "中国国家发展改革委、民政部、国家卫生健康委和教育部于11月23日联合公布《“一老一小”服务体系建设实施方案》，明确到2030年的养老与托育服务建设目标。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T07:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/china-elderly-childcare-service-plan-89a6bf",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "taiwan-stocks-tumble-below-39000-f4e379",
+      "title": "台股反弹收涨778点三大法人仍卖超511亿元",
+      "description": "受人工智能产业前景疑虑及海外科技股下跌影响，台湾股市在此前连续大幅走低后于11月23日回升。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T07:10:46+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/taiwan-stocks-tumble-below-39000-f4e379",
+      "reference": [
+        "中央通訊社",
+        "公视",
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 39,
+      "sources": []
+    },
+    {
+      "id": "jinxiu-police-arrest-12-illegal-bird-hunting-suspects-69e1be",
+      "title": "广西多地打击非法捕鸟柳州立案33起",
+      "description": "广西多地近日开展打击非法猎捕、贩卖和食用野生鸟类的行动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:48:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/jinxiu-police-arrest-12-illegal-bird-hunting-suspects-69e1be",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "indonesia-candy-factory-fire-three-dead-36-missing-1746b8",
+      "title": "印尼万丹糖果厂火灾致24死、约30人失联",
+      "description": "印尼万丹省芝坎德的PT Fonusa Agung Mulia糖果厂11月21日发生火灾。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:45:27+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/indonesia-candy-factory-fire-three-dead-36-missing-1746b8",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "delta-weight-balance-system-failure-delays-flights-5c0c4f",
+      "title": "达美航空载重平衡系统故障致逾千航班延误",
+      "description": "达美航空计算飞机载重与平衡的自动化系统于11月22日上午发生故障，造成航班大面积延误和部分取消。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/delta-weight-balance-system-failure-delays-flights-5c0c4f",
+      "reference": [
+        "世界日报",
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "china-navy-showcases-ships-aircraft-zhuhai-airshow-4851d6",
+      "title": "中国海军将携多型舰机亮相珠海航展",
+      "description": "中国海军将于12月7日至13日参加在广东珠海举行的第十六届中国国际航空航天博览会，展示舰艇、舰载航空装备和无人装备。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:42:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/china-navy-showcases-ships-aircraft-zhuhai-airshow-4851d6",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "iranian-official-source-sirik-enemy-military-attack-8d6e02",
+      "title": "巴林称伊朗袭击工业设施致两人受伤",
+      "description": "巴林内政部称，伊朗于11月21日袭击该国一处民用工业设施，现场起火并造成财产损失。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:32:41+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-12",
+      "url": "https://kaopu.news/story/2026-11-12/iranian-official-source-sirik-enemy-military-attack-8d6e02",
+      "reference": [
+        "澎湃新闻",
+        "日本放送协会",
+        "法广",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 23,
+      "sources": []
+    },
+    {
+      "id": "nepal-pm-shah-visits-india-reset-ties-12a136",
+      "title": "尼泊尔总理沙哈访印讨论经济与能源合作",
+      "description": "尼泊尔总理巴伦德拉·沙哈于11月22日抵达新德里，开启为期两天的印度之行，此行期间将与印度总理纳伦德拉·莫迪会面，双方预计将讨论双边经济和能源合作。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:32:40+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/nepal-pm-shah-visits-india-reset-ties-12a136",
+      "reference": [
+        "英国广播公司",
+        "法广"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "australia-climate-draft-phase-out-fossil-fuels-d09761",
+      "title": "COP31闭幕未能通过总体政治协议",
+      "description": "第31届《联合国气候变化框架公约》缔约方大会（COP31）于11月22日在土耳其安塔利亚闭幕。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:32:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/australia-climate-draft-phase-out-fossil-fuels-d09761",
+      "reference": [
+        "联合早报",
+        "公视",
+        "第一财经",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 29,
+      "sources": []
+    },
+    {
+      "id": "eu-indonesia-sign-economic-partnership-agreement-618c14",
+      "title": "欧盟与印尼签署全面经济伙伴关系协定",
+      "description": "欧盟与印度尼西亚11月21日在布鲁塞尔签署全面经济伙伴关系协定（CEPA），欧盟委员会主席乌尔苏拉·冯德莱恩和印尼经济统筹部长艾尔朗加·哈塔托出席。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:32:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/eu-indonesia-sign-economic-partnership-agreement-618c14",
+      "reference": [
+        "联合早报",
+        "日经"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "new-york-thanksgiving-storms-wind-rain-6e2028",
+      "title": "纽约感恩节风暴或影响梅西游行气球升空",
+      "description": "国家气象局预报，纽约市感恩节前后可能先后受到两股沿岸风暴影响，第二股风暴可能带来强风豪雨，并影响第100届梅西感恩节大游行的巨型气球升空。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/new-york-thanksgiving-storms-wind-rain-6e2028",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "hubbard-defeats-foxx-democrats-reach-258-house-seats-e37820",
+      "title": "北卡哈伯德击败福克斯民主党众院席次至少达258席",
+      "description": "民主党人哈伯德（Chuck Hubbard）在北卡罗来纳州第五国会选区击败共和党现任众议员福克斯（Virginia Foxx），使民主党在美国众议院的席位达到至少258席。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/hubbard-defeats-foxx-democrats-reach-258-house-seats-e37820",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "jeffries-democrats-trump-healthcare-cooperation-d1e385",
+      "title": "杰佛瑞斯称民主党可与特朗普合作推进健保",
+      "description": "美国众议院少数党领袖哈基姆·杰佛瑞斯11月22日在哥伦比亚广播公司《面对全国》节目专访中表示，民主党可与总统唐纳德·特朗普及共和党在医疗保健、降低生活成本和移民问题上寻找合作空间。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/jeffries-democrats-trump-healthcare-cooperation-d1e385",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-probes-huang-le-nvidia-china-chip-sales-274039",
+      "title": "美国要求英伟达说明对华芯片销售合规情况",
+      "description": "美国财政部长贝森特11月22日表示，美国政府已要求英伟达解释其对华先进人工智能芯片销售是否符合出口限制，但目前尚未收到答复。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/us-probes-huang-le-nvidia-china-chip-sales-274039",
+      "reference": [
+        "联合早报",
+        "世界日报"
+      ],
+      "section": "china",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "americans-use-credit-buy-food-debt-cycle-cd5868",
+      "title": "美国消费者举债买菜陷入还款循环",
+      "description": "美国食品杂货价格较2020年上涨32%，消费者转向折扣超市，也越来越多地通过信用卡或“先买后付”（BNPL）购买食品；一些人因而陷入偿还旧账后无力购买下一顿食物的循环。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/americans-use-credit-buy-food-debt-cycle-cd5868",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "el-sayed-rebrands-medicare-trumpcare-trump-reposts-2bc0f2",
+      "title": "萨伊德将全民医保包装成特朗普健保获特朗普转发",
+      "description": "密歇根州民主党籍联邦参议员当选人阿卜杜勒·萨伊德，将竞选期间主张的“全民医保”（Medicare-for-all）改称“特朗普健保”（TrumpCare），并获得美国总统唐纳德·特朗普转发。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/el-sayed-rebrands-medicare-trumpcare-trump-reposts-2bc0f2",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-officials-report-no-cyberattack-evidence-f1a77d",
+      "title": "美国情报总监警告系统升级将带来更多故障",
+      "description": "美国国家情报总监杰伊·克莱顿11月22日表示，政府机构和企业更新老旧系统期间，故障、服务暂时中断和空窗难以避免，民众应做好还会出现更多科技服务中断的准备。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/us-officials-report-no-cyberattack-evidence-f1a77d",
+      "reference": [
+        "法广",
+        "公视",
+        "世界日报",
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 13,
+      "sources": []
+    },
+    {
+      "id": "mta-plans-nyc-subway-signal-upgrade-3f2959",
+      "title": "MTA计划2050年前完成纽约地铁信号升级",
+      "description": "大都会运输署（MTA）近日公布首份覆盖全系统的地铁信号现代化路线图，计划在2050年前分阶段改造纽约市地铁全长763英里的信号设施，全部更换为通信式列车控制系统（CBTC）。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/mta-plans-nyc-subway-signal-upgrade-3f2959",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "republicans-split-over-trump-midterm-loss-5d70d9",
+      "title": "共和党败选后就特朗普责任出现分歧",
+      "description": "民主党在期中选举中赢得56%的普选票，领先幅度被报道形容为现代政治史上前所未有，并结束共和党在德州、堪萨斯州、密西西比州和南卡罗来纳州持续数十年的执政优势。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/republicans-split-over-trump-midterm-loss-5d70d9",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "bay-area-thanksgiving-flood-transport-risk-0346b1",
+      "title": "国家气象局预警湾区沿海严重淹水风险",
+      "description": "美国国家气象局预报，旧金山湾区11月24日至25日将有风暴与异常高潮位同时出现，沿海低洼地带面临严重淹水风险。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:24:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/bay-area-thanksgiving-flood-transport-risk-0346b1",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "charles-wang-center-joins-caipa-network-2cb862",
+      "title": "王嘉廉社区医疗中心加入CAIPA服务网络",
+      "description": "王嘉廉社区医疗中心于11月20日宣布加入亚美医师协会（CAIPA）服务网络。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/charles-wang-center-joins-caipa-network-2cb862",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "korean-woman-arrested-lax-ice-5d8df9",
+      "title": "逾期居留韩裔女子在洛杉矶机场遭ICE逮捕",
+      "description": "一名韩裔女子今年10月在洛杉矶国际机场准备飞往得克萨斯州时遭美国移民与海关执法局（ICE）逮捕，丈夫当时陪在她身边。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:21:23+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/korean-woman-arrested-lax-ice-5d8df9",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "huang-le-jensen-huang-china-state-security-contact-596366",
+      "title": "《纽约时报》称黄乐与黄仁勋交往时曾联系中国国安部",
+      "description": "《纽约时报》援引多名知情人士称，商人黄乐与英伟达前首席执行官黄仁勋发生婚外情期间，曾与一名中国国家安全部官员联系逾一年，时间为2025年春季至2026年秋季。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/huang-le-jensen-huang-china-state-security-contact-596366",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-thanksgiving-fares-hit-decade-high-c85c10",
+      "title": "美国感恩节假期机票将创十年来最高价",
+      "description": "美国繁忙的2026年感恩节旅游周已于上周五开始，旅客在假期出行前面临航班中断风险和机票涨价压力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/us-thanksgiving-fares-hit-decade-high-c85c10",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "walnut-creek-hoa-fees-near-1300-73c373",
+      "title": "核桃溪公寓和连栋住宅HOA月费中位数逼近1300美元",
+      "description": "2026年8月至10月，核桃溪市挂牌出售的公寓和连栋住宅，业主协会（HOA）月费中位数接近1300美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:18:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/walnut-creek-hoa-fees-near-1300-73c373",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "jensen-huang-couple-control-nvidia-shares-df0a9d",
+      "title": "华尔街日报称黄仁勋夫妇掌控约8.7亿股辉达",
+      "description": "《华尔街日报》依据美国证券交易委员会申报文件梳理称，黄仁勋与妻子洛莉通过生前信托、不可撤销信托、有限责任公司和私人慈善基金会，直接或间接持有并控制约8.7亿股辉达股票，近期市值超过1090亿美元，约占辉达总股数的3.6%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:17:09+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/jensen-huang-couple-control-nvidia-shares-df0a9d",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-regulator-tightens-short-selling-rules-4953f8",
+      "title": "台湾金管会推出五项措施全面禁止平盘下放空",
+      "description": "台湾金融监督管理委员会（金管会）11月21日宣布五项稳定股市措施，自11月23日起实施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:14:47+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/taiwan-regulator-tightens-short-selling-rules-4953f8",
+      "reference": [
+        "中央通訊社",
+        "公视",
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 16,
+      "sources": []
+    },
+    {
+      "id": "trump-urges-nvidia-board-rehire-huang-19816a",
+      "title": "特朗普要求英伟达董事会重新聘用黄仁勋",
+      "description": "美国总统特朗普呼吁英伟达董事会重新聘用已辞职的首席执行官黄仁勋，称他回归将有利于公司，也符合美国利益。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:12:45+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/trump-urges-nvidia-board-rehire-huang-19816a",
+      "reference": [
+        "世界日报",
+        "中央通訊社"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "copper-prices-fall-near-seven-month-low-049237",
+      "title": "国际铜价大幅下挫并跌至近七个月低点",
+      "description": "国际铜价大幅回落。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:12:34+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/copper-prices-fall-near-seven-month-low-049237",
+      "reference": [
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ai-chip-bag-gun-alert-students-detained-bb9cb5",
+      "title": "AI误将薯片袋识为枪支致四名高中生遭警方制伏",
+      "description": "马里兰州巴尔的摩郡肯伍德高中校外，一套由学区采用的Omnilert人工智能枪支侦测系统将一只薯片包装袋误识为枪支并发出警报。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:12:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/ai-chip-bag-gun-alert-students-detained-bb9cb5",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "yunnan-rural-commercial-bank-formation-approved-40e45e",
       "title": "云南农商银行获批筹建省级统一法人机构",
@@ -23,25 +587,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "indonesia-candy-factory-fire-three-dead-36-missing-1746b8",
-      "title": "印尼万丹糖果厂火灾已致24人死亡",
-      "description": "印度尼西亚万丹省芝坎德的PT Fonusa Agung Mulia糖果厂11月21日傍晚发生火灾。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T06:07:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/indonesia-candy-factory-fire-three-dead-36-missing-1746b8",
-      "reference": [
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -178,27 +723,6 @@
       "sources": []
     },
     {
-      "id": "australia-climate-draft-phase-out-fossil-fuels-d09761",
-      "title": "COP31在安塔利亚闭幕近200国未达政治共识",
-      "description": "11月22日，联合国气候变化大会COP31在土耳其安塔利亚闭幕。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T05:52:24+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/australia-climate-draft-phase-out-fossil-fuels-d09761",
-      "reference": [
-        "联合早报",
-        "公视",
-        "第一财经",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 28,
-      "sources": []
-    },
-    {
       "id": "liren-tech-receives-regulatory-warning-0293d0",
       "title": "利仁科技因关联交易信披违规被北京证监局警示",
       "description": "北京证监局近日对利仁科技、董事长兼总经理宋老亮及时任董事会秘书李伟出具警示函，并将三方记入证券期货市场诚信档案。",
@@ -235,25 +759,6 @@
       ],
       "section": "ai",
       "sourceCount": 9,
-      "sources": []
-    },
-    {
-      "id": "china-elderly-childcare-service-plan-89a6bf",
-      "title": "四部门发布“一老一小”服务体系建设实施方案",
-      "description": "国家发展改革委、民政部、国家卫生健康委和教育部于2026年11月23日公布《“一老一小”服务体系建设实施方案》，为“十五五”时期养老与托育服务提出设施建设、服务供给、运营管理及保障措施等安排。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T05:43:38.082729+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/china-elderly-childcare-service-plan-89a6bf",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "section": "life",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -314,26 +819,6 @@
       ],
       "section": "world",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "taiwan-stocks-tumble-below-39000-f4e379",
-      "title": "台股一周暴跌逾7600点创历史纪录",
-      "description": "台湾股市受人工智能产业前景疑虑和卖压冲击，11月20日收盘重挫2393.60点，单周累计下跌7641.83点、跌幅约17.5%，创史上最大单周跌点纪录。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T05:20:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/taiwan-stocks-tumble-below-39000-f4e379",
-      "reference": [
-        "中央通訊社",
-        "公视",
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 37,
       "sources": []
     },
     {
@@ -524,43 +1009,6 @@
       "sources": []
     },
     {
-      "id": "trump-urges-nvidia-board-rehire-huang-19816a",
-      "title": "特朗普要求英伟达董事会回聘黄仁勋",
-      "description": "美国总统特朗普11月22日深夜在社交平台“真实社群”发文，要求英伟达董事会重新聘用创始人黄仁勋出任首席执行官。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T04:35:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/trump-urges-nvidia-board-rehire-huang-19816a",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-navy-showcases-ships-aircraft-zhuhai-airshow-4851d6",
-      "title": "中国海军将携多型舰机亮相珠海航展",
-      "description": "中国海军将参加定于12月7日至13日在广东珠海举行的第十六届中国国际航空航天博览会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T04:34:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/china-navy-showcases-ships-aircraft-zhuhai-airshow-4851d6",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "ministry-worker-espionage-death-sentence-bff95f",
       "title": "中国法院判处部委工作人员麻某死刑",
       "description": "中国法院以间谍罪判处部委工作人员麻某死刑，并剥夺其政治权利终身、没收个人全部财产。",
@@ -577,24 +1025,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "jinxiu-police-arrest-12-illegal-bird-hunting-suspects-69e1be",
-      "title": "广西八地林长因涉鸟违法问题被约谈",
-      "description": "广西壮族自治区总林长办公室11月21日约谈三江侗族自治县、融水苗族自治县、荔浦市、金秀瑶族自治县、平南县、合浦县、银海区和铁山港区的林长，要求各地排查鸟类保护工作中的问题、分析原因并落实整改。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T04:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/jinxiu-police-arrest-12-illegal-bird-hunting-suspects-69e1be",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -705,27 +1135,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-officials-report-no-cyberattack-evidence-f1a77d",
-      "title": "克莱顿警告系统升级仍会带来更多故障",
-      "description": "美国国家情报总监杰伊·克莱顿11月22日表示，企业和政府部门升级老旧系统期间，仍可能发生故障和服务中断。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T03:35:16+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/us-officials-report-no-cyberattack-evidence-f1a77d",
-      "reference": [
-        "法广",
-        "公视",
-        "世界日报",
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 12,
       "sources": []
     },
     {
@@ -1153,24 +1562,6 @@
       "sources": []
     },
     {
-      "id": "bay-area-thanksgiving-flood-transport-risk-0346b1",
-      "title": "旧金山暂停部分停车执法应对风暴洪水风险",
-      "description": "美国国家气象局预报，旧金山湾区11月24日至25日将迎来新一轮风暴，并与异常高潮位叠加，沿海低洼地区、地下室和易积水道路面临洪水风险。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T01:21:34+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/bay-area-thanksgiving-flood-transport-risk-0346b1",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
       "id": "chinese-automakers-surpass-japanese-39-markets-0f742d",
       "title": "中国车企在39国新车份额超过日本车企",
       "description": "中国汽车制造商在2026年1至9月的新车销售份额，在39个国家高于日本同行；14个国家当年出现份额反超，其中8个在欧洲。",
@@ -1340,42 +1731,6 @@
       ],
       "section": "ai",
       "sourceCount": 8,
-      "sources": []
-    },
-    {
-      "id": "nepal-pm-shah-visits-india-reset-ties-12a136",
-      "title": "尼泊尔总理沙哈首访印度寻求重启双边关系",
-      "description": "尼泊尔总理巴伦德拉·沙哈周日抵达新德里，开始为期两天的访问，寻求修复与印度的双边关系。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T00:09:54+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/nepal-pm-shah-visits-india-reset-ties-12a136",
-      "reference": [
-        "英国广播公司"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-probes-huang-le-nvidia-china-chip-sales-274039",
-      "title": "美国调查黄乐并要求英伟达说明对华芯片销售",
-      "description": "美国国家情报总监克莱顿11月22日说，美方正调查新加坡企业超速国际前高管、中国籍女子黄乐及该公司，并怀疑黄乐涉及间谍活动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T00:02:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/us-probes-huang-le-nvidia-china-chip-sales-274039",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1659,42 +2014,6 @@
       "sources": []
     },
     {
-      "id": "new-york-thanksgiving-storms-wind-rain-6e2028",
-      "title": "两股沿岸风暴预计给纽约感恩节带来强风豪雨",
-      "description": "纽约市感恩节前后将先后受到两股沿岸风暴影响。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T17:59:16+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/new-york-thanksgiving-storms-wind-rain-6e2028",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "delta-weight-balance-system-failure-delays-flights-5c0c4f",
-      "title": "达美载重平衡系统故障致航班延误",
-      "description": "11月22日上午，达美航空计算离场航班载重与平衡的自动化系统发生故障，航班因此延误，飞往亚特兰大哈兹菲尔德-杰克逊国际机场的航班一度暂停起飞。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T17:24:24+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/delta-weight-balance-system-failure-delays-flights-5c0c4f",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "singapore-ymca-platform-unauthorized-access-45a4bc",
       "title": "新加坡青年会平台遭入侵逾1.3万人资料或受影响",
       "description": "新加坡基督教青年会（YMCA）旗下“青年行善活动”（Youth For Causes，YFC）线上申请平台及相关数据库发生网络安全事故，超过1.3万人可能受影响。",
@@ -1865,27 +2184,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "iranian-official-source-sirik-enemy-military-attack-8d6e02",
-      "title": "巴林称伊朗袭击民用工业设施致两人受伤",
-      "description": "巴林内政部11月22日通报称，巴林一处民用工业设施于11月21日遭伊朗袭击。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T13:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-12",
-      "url": "https://kaopu.news/story/2026-11-12/iranian-official-source-sirik-enemy-military-attack-8d6e02",
-      "reference": [
-        "澎湃新闻",
-        "日本放送协会",
-        "法广",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 22,
       "sources": []
     },
     {
@@ -2645,26 +2943,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-regulator-tightens-short-selling-rules-4953f8",
-      "title": "台湾金管会将全面禁止平盘以下放空",
-      "description": "台湾金融监督管理委员会（金管会）宣布，将从2026年11月23日起实施五项稳定证券市场措施，其中包括禁止投资者以低于前一交易日收盘价的价格，通过融券或借券方式卖出上市、上柜股票及台湾存托凭证。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T05:44:41+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/taiwan-regulator-tightens-short-selling-rules-4953f8",
-      "reference": [
-        "中央通訊社",
-        "公视",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 15,
-      "sources": []
-    },
-    {
       "id": "qinghai-delingha-earthquake-magnitude-5-6-5db14a",
       "title": "德令哈5.6级地震后部分列车限速恢复运行",
       "description": "青海海西州德令哈市辖区11月21日18时45分发生5.6级地震，震源深度10千米。",
@@ -2885,43 +3163,6 @@
         "联合早报"
       ],
       "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "marles-rejects-cbo-aukus-submarine-report-df3f28",
-      "title": "马尔斯驳斥美国报告称AUKUS可能缩减潜艇规模",
-      "description": "11月22日，澳大利亚国防部长马尔斯批评美国国会预算办公室关于AUKUS潜艇安排影响的报告。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T02:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/marles-rejects-cbo-aukus-submarine-report-df3f28",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "iran-power-company-rotating-blackouts-ab3cdf",
-      "title": "伊朗国家电力公司将从11月22日起轮流限电",
-      "description": "伊朗国家电力公司将从11月22日（星期日）起实施轮流限电。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T02:35:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/iran-power-company-rotating-blackouts-ab3cdf",
-      "reference": [
-        "法广",
-        "联合早报"
-      ],
-      "section": "world",
       "sourceCount": 2,
       "sources": []
     },
@@ -3276,24 +3517,6 @@
       "sources": []
     },
     {
-      "id": "chongqing-proposes-nine-food-delivery-platform-rules-f4d9a2",
-      "title": "重庆拟以九项措施压实网餐平台食品安全责任",
-      "description": "重庆市市场监督管理局启动征求意见，拟通过“九个一律”措施明确网络餐饮平台和商户的食品安全管理责任。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T12:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/chongqing-proposes-nine-food-delivery-platform-rules-f4d9a2",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "taiwan-scholars-call-age-based-ai-guidance-5b99f2",
       "title": "台湾学者呼吁为中小学AI使用制定分龄指引",
       "description": "台中教育大学教授李政轩引用郭伯臣团队研究指出，台湾中小学约四成学生每周至少一次借助人工智能学习，略低于经合组织国家的46%。",
@@ -3367,24 +3590,6 @@
       "sources": []
     },
     {
-      "id": "guiyang-education-bureau-debunks-beijing-teachers-rumor-864840",
-      "title": "贵阳市教育局确认“北京教师飞贵阳”系虚假信息",
-      "description": "贵阳市教育局核查后确认，网传“北京22名教师飞往贵阳、落地后陷入沉默”的说法不实，贵阳没有安排北京教师赴当地开展相关活动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T06:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/guiyang-education-bureau-debunks-beijing-teachers-rumor-864840",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "huang-agrees-senate-banking-testimony-d2fe34",
       "title": "黄仁勋同意赴美国参议院公开作证",
       "description": "美国共和党参议员蒂姆·斯科特的幕僚11月20日表示，英伟达前首席执行官黄仁勋已同意在参议院公开听证会上作证。",
@@ -3423,42 +3628,6 @@
       "sources": []
     },
     {
-      "id": "mamdani-carriage-worker-transition-plan-c4f118",
-      "title": "曼达尼签署法案将纽约观光马车服务定于2028年退场",
-      "description": "纽约市长佐赫兰·曼达尼11月19日签署“罗曼奇法”，规定一般收费马车服务自2028年6月1日起终止。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T06:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/mamdani-carriage-worker-transition-plan-c4f118",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "zhuang-proposes-lower-illegal-battery-shop-closure-threshold-93d80b",
-      "title": "庄文怡提案降低违规电池商家停业门槛",
-      "description": "纽约市议会11月20日举行住宅防火与锂电池安全紧急监督听证会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T06:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/zhuang-proposes-lower-illegal-battery-shop-closure-threshold-93d80b",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "nvidia-accelerates-pay-raises-stock-awards-dd8808",
       "title": "英伟达将加薪和股权激励提前至12月发放",
       "description": "英伟达临时首席执行官科莱特·克雷斯11月18日在加州圣克拉拉总部主持黄仁勋离任后的首场全员大会，宣布将原定于2027年实施的加薪和额外股权激励提前到2026年12月发放。",
@@ -3493,45 +3662,6 @@
         "世界日报"
       ],
       "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "title": "ACoM专家称黄仁勋重返英伟达希望渺茫",
-      "description": "美国社区媒体（ACoM）11月20日举行全国媒体简报会，与会专家认为，黄仁勋重返英伟达担任首席执行官的可能性不高。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T06:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-10-29",
-      "url": "https://kaopu.news/story/2026-10-29/nyt-us-officials-alice-huang-china-intelligence-2f4578",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "公视"
-      ],
-      "section": "china",
-      "sourceCount": 543,
-      "sources": []
-    },
-    {
-      "id": "nvidia-shares-plunge-investor-losses-2ead43",
-      "title": "辉达股价跌近半重仓华人投资者亏损加深",
-      "description": "辉达股价从10月初每股约239元跌至11月20日盘中不到126元，累计下跌约47%；当天盘中跌幅一度达到14%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T06:17:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/nvidia-shares-plunge-investor-losses-2ead43",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -3609,24 +3739,6 @@
       "sources": []
     },
     {
-      "id": "acom-briefing-huang-scandal-asian-impact-45366c",
-      "title": "美国社区媒体讨论黄仁勋风波对亚裔影响",
-      "description": "美国社区媒体（American Community Media，ACoM）于2026年11月20日举行全国媒体简报会，邀请亚裔民权领袖和经济专家讨论英伟达创办人黄仁勋因婚外情争议及疑似中国间谍风波辞去首席执行官职务一事。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/acom-briefing-huang-scandal-asian-impact-45366c",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "california-bar-refers-zacharia-complaint-investigation-d1cf19",
       "title": "加州律师公会已将扎卡里亚申诉转入进一步调查",
       "description": "加州律师公会已将针对凯蒂·扎卡里亚涉嫌无照执业及不当使用律师头衔的申诉交由进一步调查。",
@@ -3678,99 +3790,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-army-plans-iowa-ammunition-plant-blast-87f46e",
-      "title": "第八巡回上诉法院暂停艾奥瓦弹药厂爆破计划",
-      "description": "美国第八巡回上诉法院11月19日暂停美国陆军在艾奥瓦州米德尔敦弹药厂引爆约5吨叠氮化铅的计划，并暂时中止美国环保署核发的相关许可，直至法院对紧急暂缓请求作出裁决。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T02:41:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/us-army-plans-iowa-ammunition-plant-blast-87f46e",
-      "reference": [
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "missouri-court-approves-bayer-roundup-settlement-06595c",
-      "title": "密苏里法院批准拜耳72.5亿元除草剂和解案",
-      "description": "密苏里州圣路易巡回法院批准拜耳为Roundup除草剂相关诉讼提出的和解方案，金额最高达72.5亿元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T01:33:25+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/missouri-court-approves-bayer-roundup-settlement-06595c",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "honda-recalls-us-cars-takata-airbag-risk-127554",
-      "title": "本田将因气囊破裂风险召回美国逾81万辆汽车",
-      "description": "美国国家公路交通安全管理局表示，本田将在美国召回810592辆讴歌和本田品牌汽车，原因是高田安全气囊充气装置存在破裂风险。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T23:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/honda-recalls-us-cars-takata-airbag-risk-127554",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "mamdani-restructures-nypd-response-unit-2c21f0",
-      "title": "曼达尼重组纽约警局战略反应组取消抗议任务",
-      "description": "纽约市长曼达尼本周一宣布重组纽约市警察局战略反应组（SRG），取消该组处置抗议活动的职责，并将其反恐任务纳入警察局情报与反恐体系。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T21:53:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/mamdani-restructures-nypd-response-unit-2c21f0",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "musk-regrets-446-million-midterm-spending-f02fab",
-      "title": "马斯克后悔投入近5亿美元助选共和党",
-      "description": "埃隆·马斯克11月18日通过视频参加《纽约时报》DealBook峰会时表示，他在本轮美国中期选举中投入近5亿美元支持共和党候选人，却没有看到多少成果；如果重新选择，他会少花一些钱。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-20T20:13:27+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/musk-regrets-446-million-midterm-spending-f02fab",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 5,
       "sources": []
     },
     {
