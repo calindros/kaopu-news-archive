@@ -1,19 +1,19 @@
 {
   "details": {
     "date": "2026-11-23",
-    "timestamp": 1795447149,
+    "timestamp": 1795455701,
     "totalPages": 1,
     "total": 265
   },
   "stories": [
     {
       "id": "trump-urges-nvidia-board-rehire-huang-19816a",
-      "title": "英伟达董事会一致通过黄仁勋复职",
-      "description": "英伟达董事会于11月23日一致投票决定，即日起恢复黄仁勋的公司总裁、首席执行官及董事会成员职务。",
+      "title": "英伟达董事会一致恢复黄仁勋全部职务",
+      "description": "英伟达董事会11月23日一致投票决定，即日起恢复黄仁勋的总裁、首席执行官和董事职务。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-23T15:10:42.448545+00:00",
+      "updatedAt": "2026-11-23T16:56:32+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-23",
       "url": "https://kaopu.news/story/2026-11-23/trump-urges-nvidia-board-rehire-huang-19816a",
@@ -24,7 +24,122 @@
         "中央通訊社"
       ],
       "section": "us",
-      "sourceCount": 17,
+      "sourceCount": 33,
+      "sources": []
+    },
+    {
+      "id": "huang-agrees-senate-banking-testimony-d2fe34",
+      "title": "黄仁勋同意赴美国参议院公开作证",
+      "description": "英伟达前首席执行官黄仁勋已同意在美国参议院银行委员会公开听证会上作证。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T16:44:06+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/huang-agrees-senate-banking-testimony-d2fe34",
+      "reference": [
+        "中央通訊社",
+        "世界日报",
+        "联合早报"
+      ],
+      "section": "ai",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "cnn-suspected-china-agents-fake-jobs-us-d2f3d4",
+      "title": "CNN调查称疑似中国情报人员借招聘刺探美国敏感信息",
+      "description": "CNN调查称，疑似中国情报人员通过虚构咨询公司和招聘广告接触美国现任、前任政府官员等专业人士，试图借研究工作获取敏感信息。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T15:33:43+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/cnn-suspected-china-agents-fake-jobs-us-d2f3d4",
+      "reference": [
+        "联合早报",
+        "德国之声",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "mcn-account-buying-influencer-swaps-ads-fe67c7",
+      "title": "调查称部分MCN机构买号换人接广告",
+      "description": "部分MCN机构被曝通过购入已有粉丝账号、替换内容和出镜者来承接广告，账号实名主体与实际运营者、出镜博主并不总是一致；澎湃新闻转述了中国新闻网《民生调查局》的相关调查。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T15:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/mcn-account-buying-influencer-swaps-ads-fe67c7",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "title": "中美俄深圳峰会发表和平宣言承诺启动核对话",
+      "description": "中国国家主席习近平、美国总统唐纳德·特朗普和俄罗斯总统弗拉基米尔·普京在深圳举行首次中美俄三方元首会晤，会谈约90分钟。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T15:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "日经",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 292,
+      "sources": []
+    },
+    {
+      "id": "australia-jobless-rate-hits-five-year-high-5c6a13",
+      "title": "澳大利亚失业率升至五年高位引发衰退担忧",
+      "description": "澳大利亚10月失业率升至4.9%，创2021年以来新高，并高于市场预期。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T15:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/australia-jobless-rate-hits-five-year-high-5c6a13",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nyc-releases-third-911-records-20f2ce",
+      "title": "纽约市公布第三批9/11灾后档案累计44万页",
+      "description": "纽约市法务部11月22日公布第三批“9/11文件”，新增8万余份档案，向公众开放的总量达到44万页。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T15:08:50+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/nyc-releases-third-911-records-20f2ce",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -175,7 +290,7 @@
     {
       "id": "germany-schools-bomb-threat-emails-ee6f63",
       "title": "德国数百所学校收到炸弹威胁邮件",
-      "description": "德国各地数百所学校星期一收到炸弹威胁邮件，部分学校出于安全考虑疏散师生。",
+      "description": "德国数百所学校11月23日收到炸弹威胁邮件，部分学校疏散师生。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -184,10 +299,11 @@
       "publishedAt": "2026-11-23",
       "url": "https://kaopu.news/story/2026-11-23/germany-schools-bomb-threat-emails-ee6f63",
       "reference": [
+        "法广",
         "联合早报"
       ],
       "section": "world",
-      "sourceCount": 1,
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -712,25 +828,6 @@
       "sources": []
     },
     {
-      "id": "cnn-suspected-china-agents-fake-jobs-us-d2f3d4",
-      "title": "疑似中国情报网络借虚假招聘刺探美国敏感信息",
-      "description": "美国有线电视新闻网（CNN）调查发现，疑似中国情报人员通过虚假咨询公司和高薪招聘广告接触美国官员及其他专业人士，试图获取敏感信息；相关网站网络的规模可能超过此前所知。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T12:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/cnn-suspected-china-agents-fake-jobs-us-d2f3d4",
-      "reference": [
-        "联合早报",
-        "德国之声"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "china-energy-agency-reports-october-residential-power-afd062",
       "title": "国家能源局公布10月居民用电下降6.4%",
       "description": "国家能源局11月23日公布的数据显示，2026年10月全社会用电量为8709亿千瓦时，同比增长1.6%，增速较9月提高0.4个百分点。",
@@ -841,6 +938,42 @@
         "联合早报"
       ],
       "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "australia-solomon-islands-finalize-comprehensive-treaty-186031",
+      "title": "澳大利亚将与所罗门群岛敲定全面条约",
+      "description": "澳大利亚外长黄英贤预计将于11月24日向国会表示，澳大利亚即将与所罗门群岛敲定全面条约，以提升双边关系。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T12:02:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/australia-solomon-islands-finalize-comprehensive-treaty-186031",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "zelensky-urges-ukraine-europe-us-russia-talks-3a5f0e",
+      "title": "泽连斯基呼吁尽快举行乌欧美俄四方会谈",
+      "description": "乌克兰总统泽连斯基通过视频向在柏林集会的北约成员国议员发言，欢迎近期推动乌俄和谈的努力，并呼吁乌克兰、欧洲、美国和俄罗斯尽快举行四方会谈。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T12:02:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/zelensky-urges-ukraine-europe-us-russia-talks-3a5f0e",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -959,7 +1092,7 @@
     {
       "id": "us-probes-huang-le-nvidia-china-chip-sales-274039",
       "title": "美国调查英伟达对华芯片销售合规责任",
-      "description": "美国政府正调查英伟达在对华出口限制实施后，是否仍有先进人工智能芯片流入中国。",
+      "description": "美国财政部长斯科特·贝森特说，政府正要求英伟达说明对华芯片销售是否符合美国出口限制，并将调查公司内部哪些层级知情、谁负责合规把关。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -968,12 +1101,13 @@
       "publishedAt": "2026-11-23",
       "url": "https://kaopu.news/story/2026-11-23/us-probes-huang-le-nvidia-china-chip-sales-274039",
       "reference": [
-        "联合早报",
+        "中央通訊社",
         "世界日报",
-        "公视"
+        "联合早报",
+        "法广"
       ],
       "section": "china",
-      "sourceCount": 5,
+      "sourceCount": 10,
       "sources": []
     },
     {
@@ -1212,27 +1346,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "title": "美中俄深圳峰会承诺开展核风险对话",
-      "description": "美国总统唐纳德·特朗普、中国国家主席习近平和俄罗斯总统弗拉基米尔·普京11月19日在深圳举行首次三方峰会，会谈约90分钟。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T10:19:52+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "reference": [
-        "韩国国际广播电台",
-        "联合早报",
-        "日经",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 291,
       "sources": []
     },
     {
@@ -2379,24 +2492,6 @@
       "sources": []
     },
     {
-      "id": "copper-prices-fall-near-seven-month-low-049237",
-      "title": "国际铜价大幅下挫并跌至近七个月低点",
-      "description": "国际铜价大幅回落。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T06:12:34+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/copper-prices-fall-near-seven-month-low-049237",
-      "reference": [
-        "日经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "ai-chip-bag-gun-alert-students-detained-bb9cb5",
       "title": "AI误将薯片袋识为枪支致四名高中生遭警方制伏",
       "description": "马里兰州巴尔的摩郡肯伍德高中校外，一套由学区采用的Omnilert人工智能枪支侦测系统将一只薯片包装袋误识为枪支并发出警报。",
@@ -2448,27 +2543,6 @@
       ],
       "section": "us",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "california-subpoenas-nvidia-china-chip-probe-bbce63",
-      "title": "加州检察长向英伟达发出调查传票",
-      "description": "加州检察长罗布·邦塔11月19日向英伟达发出调查传票，核查公司或其前首席执行官黄仁勋的行为是否使中国取得先进芯片或机密信息，以及英伟达是否就相关风险误导投资者和公众。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/california-subpoenas-nvidia-china-chip-probe-bbce63",
-      "reference": [
-        "中央通訊社",
-        "世界日报",
-        "联合早报",
-        "法广"
-      ],
-      "section": "business",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -3145,24 +3219,6 @@
       "sources": []
     },
     {
-      "id": "turkey-opposition-protests-sozcu-tv-takeover-5e4317",
-      "title": "土耳其在野党示威抗议政府接管发言人电视台",
-      "description": "土耳其主要在野党新党发起示威，抗议政府接管发言人电视台（Sozcu TV）并逮捕该台高层主管。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T23:32:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/turkey-opposition-protests-sozcu-tv-takeover-5e4317",
-      "reference": [
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "jensen-huang-resignation-media-bias-debate-f593e5",
       "title": "黄仁勋辞去英伟达首席执行官等职务",
       "description": "英伟达创始人黄仁勋11月12日辞去公司首席执行官、总裁和董事职务。",
@@ -3179,26 +3235,6 @@
       ],
       "section": "ai",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "trump-wont-rush-iran-decision-before-new-year-a4a2a7",
-      "title": "内塔尼亚胡被曝考虑未经美批准单独打击伊朗",
-      "description": "澎湃新闻援引以色列方面消息称，内塔尼亚胡正考虑在未获美国批准的情况下单独对伊朗发动袭击。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T19:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/trump-wont-rush-iran-decision-before-new-year-a4a2a7",
-      "reference": [
-        "联合早报",
-        "日经",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -3363,24 +3399,6 @@
         "联合早报"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "new-york-national-grid-gas-rate-freeze-703c57",
-      "title": "纽约州批准国家电网天然气基本费率冻结至2028年",
-      "description": "纽约州公共服务委员会近日批准国家电网天然气输送基本费率冻结方案，纽约市及长岛约190万名用户的现行基本费率将维持至2028年3月底。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T06:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/new-york-national-grid-gas-rate-freeze-703c57",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -3783,25 +3801,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "senate-passes-energy-permitting-reform-bill-e1d3e0",
-      "title": "美国参议院通过能源许可改革法案",
-      "description": "美国参议院11月19日晚以62票赞成、33票反对通过《跨党派美国可负担与就业法案》。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T06:17:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/senate-passes-energy-permitting-reform-bill-e1d3e0",
-      "reference": [
-        "法广",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 3,
       "sources": []
     },
     {
