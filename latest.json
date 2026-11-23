@@ -1,19 +1,39 @@
 {
   "details": {
     "date": "2026-11-23",
-    "timestamp": 1795455701,
+    "timestamp": 1795469693,
     "totalPages": 1,
     "total": 266
   },
   "stories": [
     {
-      "id": "trump-urges-nvidia-board-rehire-huang-19816a",
-      "title": "英伟达董事会一致批准黄仁勋即日起复职",
-      "description": "英伟达董事会11月23日一致通过决议，恢复黄仁勋的总裁、首席执行官和董事职务，决定即日起生效。",
+      "id": "us-army-plans-iowa-ammunition-plant-blast-87f46e",
+      "title": "美陆军拟绕过法院暂停令引爆68桶劣化炸药",
+      "description": "美国陆军计划于2026年11月25日在爱荷华州米德城的陆军弹药厂，对68桶劣化叠氮化铅实施受控引爆。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-23T19:21:33+00:00",
+      "updatedAt": "2026-11-23T20:06:08+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/us-army-plans-iowa-ammunition-plant-blast-87f46e",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "公视"
+      ],
+      "section": "us",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "trump-urges-nvidia-board-rehire-huang-19816a",
+      "title": "英伟达董事会一致恢复黄仁勋全部职务",
+      "description": "英伟达董事会一致投票，恢复黄仁勋的总裁、首席执行官和董事职务，决定即刻生效。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T19:49:30+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-23",
       "url": "https://kaopu.news/story/2026-11-23/trump-urges-nvidia-board-rehire-huang-19816a",
@@ -24,7 +44,25 @@
         "中央通訊社"
       ],
       "section": "us",
-      "sourceCount": 39,
+      "sourceCount": 43,
+      "sources": []
+    },
+    {
+      "id": "eu-proposes-22nd-russia-sanctions-plan-928855",
+      "title": "欧委会提出第22轮对俄制裁方案扩大限制",
+      "description": "11月23日，冯德莱恩在法国斯特拉斯堡公布欧委会第22轮对俄制裁提案，涉及金融、能源、体育和文化。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T19:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/eu-proposes-22nd-russia-sanctions-plan-928855",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -542,26 +580,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-army-plans-iowa-ammunition-plant-blast-87f46e",
-      "title": "美国陆军拟引爆68桶炸药居民忧铅污染",
-      "description": "美国陆军计划在几天内于爱荷华州米德尔敦的陆军弹药厂引爆68桶变质叠氮化铅，总重近5吨。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T13:18:47+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/us-army-plans-iowa-ammunition-plant-blast-87f46e",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "公视"
-      ],
-      "section": "us",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -3154,24 +3172,6 @@
         "公视"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "binance-heist-north-korea-hacker-training-8aed09",
-      "title": "币安窃案牵出朝鲜网军人才培养体系",
-      "description": "公视报道聚焦币安窃案及北韩骇客。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T01:01:07+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/binance-heist-north-korea-hacker-training-8aed09",
-      "reference": [
-        "公视"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
