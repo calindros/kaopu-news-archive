@@ -1,11 +1,89 @@
 {
   "details": {
     "date": "2026-11-23",
-    "timestamp": 1795469693,
+    "timestamp": 1795477471,
     "totalPages": 1,
-    "total": 267
+    "total": 268
   },
   "stories": [
+    {
+      "id": "fudan-report-inclusive-medical-insurance-expansion-slows-75bdd0",
+      "title": "复旦报告显示惠民保市场转向结构性调整",
+      "description": "复旦大学经济学院许闲教授团队11月21日发布《2026年城市定制型商业医疗保险（惠民保）知识图谱》。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T23:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/fudan-report-inclusive-medical-insurance-expansion-slows-75bdd0",
+      "reference": [
+        "第一财经",
+        "财新"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-urges-nvidia-board-rehire-huang-19816a",
+      "title": "英伟达董事会一致恢复黄仁勋全部职务",
+      "description": "英伟达董事会11月23日一致决定，即日起恢复黄仁勋担任公司总裁、首席执行官和董事。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T23:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/trump-urges-nvidia-board-rehire-huang-19816a",
+      "reference": [
+        "联合早报",
+        "德国之声",
+        "世界日报",
+        "中央通訊社"
+      ],
+      "section": "us",
+      "sourceCount": 52,
+      "sources": []
+    },
+    {
+      "id": "china-state-funds-inject-yuan-stocks-rebound-e5ebfb",
+      "title": "端传媒称国家队注资1287亿元推动A股回升",
+      "description": "端传媒报道，10月A股较6月高点下跌约20%，逼近熊市临界点；国家队随后注资1287亿元人民币，带动股市回升。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T23:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/china-state-funds-inject-yuan-stocks-rebound-e5ebfb",
+      "reference": [
+        "端传媒"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "huang-le-jensen-huang-china-state-security-contact-596366",
+      "title": "美情报报告称黄乐曾与中国国安官员联系",
+      "description": "《纽约时报》援引多名了解美国情报报告的人士称，商人黄乐在2025年春季至2026年秋季与一名中国国家安全部官员保持联系超过一年；相关时期至少部分与她和黄仁勋关系亲密的时期重合。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T22:58:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/huang-le-jensen-huang-china-state-security-contact-596366",
+      "reference": [
+        "联合早报",
+        "德国之声",
+        "端传媒"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
     {
       "id": "huang-agrees-senate-banking-testimony-d2fe34",
       "title": "黄仁勋将出席参议院公开听证会作证",
@@ -25,6 +103,25 @@
       ],
       "section": "ai",
       "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "us-gasoline-prices-fall-below-four-dollars-36a98b",
+      "title": "供应过剩预期推动国际油价大幅下跌",
+      "description": "国际原油期货价格11月23日大幅下跌。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T21:41:08+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/us-gasoline-prices-fall-below-four-dollars-36a98b",
+      "reference": [
+        "世界日报",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -136,27 +233,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-urges-nvidia-board-rehire-huang-19816a",
-      "title": "英伟达董事会一致恢复黄仁勋职务",
-      "description": "英伟达董事会11月23日一致表决，决定自当日起恢复黄仁勋的总裁、首席执行官和董事职务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T20:42:41+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/trump-urges-nvidia-board-rehire-huang-19816a",
-      "reference": [
-        "联合早报",
-        "德国之声",
-        "世界日报",
-        "中央通訊社"
-      ],
-      "section": "us",
-      "sourceCount": 46,
       "sources": []
     },
     {
@@ -1159,25 +1235,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "huang-le-jensen-huang-china-state-security-contact-596366",
-      "title": "报道称黄乐与中国国安官员联系逾一年",
-      "description": "德国之声援引《纽约时报》报道称，中国商人黄乐在2025年春季至2026年秋季期间，曾与一名中国国家安全部官员保持联系，时间超过一年。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T11:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/huang-le-jensen-huang-china-state-security-contact-596366",
-      "reference": [
-        "联合早报",
-        "德国之声"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2282,24 +2339,6 @@
       "sources": []
     },
     {
-      "id": "simplexity-ant-group-leads-100m-prea-round-ba3644",
-      "title": "至简动力获蚂蚁领投1亿美元Pre-A轮融资",
-      "description": "至简动力获得蚂蚁集团领投的1亿美元Pre-A轮融资，估值达到16亿美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T07:06:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/simplexity-ant-group-leads-100m-prea-round-ba3644",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "jinxiu-police-arrest-12-illegal-bird-hunting-suspects-69e1be",
       "title": "广西多地打击非法捕鸟柳州立案33起",
       "description": "广西多地近日开展打击非法猎捕、贩卖和食用野生鸟类的行动。",
@@ -3397,24 +3436,6 @@
         "中央通訊社"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "melatonin-products-fake-import-status-3344e0",
-      "title": "央视调查揭露褪黑素超标产品假冒进口销售",
-      "description": "《财经调查》调查发现，有商家把在中国生产的褪黑素产品包装成进口普通食品或膳食补充剂，在网络平台销售，同时宣传改善睡眠等保健功效。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T13:23:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/melatonin-products-fake-import-status-3344e0",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
