@@ -1,15 +1,225 @@
 {
   "details": {
     "date": "2026-11-23",
-    "timestamp": 1795416287,
+    "timestamp": 1795419556,
     "totalPages": 1,
-    "total": 268
+    "total": 267
   },
   "stories": [
     {
+      "id": "yunnan-rural-commercial-bank-formation-approved-40e45e",
+      "title": "云南农商银行获批筹建省级统一法人机构",
+      "description": "国家金融监督管理总局同意筹建云南农村商业银行股份有限公司。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/yunnan-rural-commercial-bank-formation-approved-40e45e",
+      "reference": [
+        "澎湃新闻",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "indonesia-candy-factory-fire-three-dead-36-missing-1746b8",
+      "title": "印尼万丹糖果厂火灾已致24人死亡",
+      "description": "印度尼西亚万丹省芝坎德的PT Fonusa Agung Mulia糖果厂11月21日傍晚发生火灾。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:07:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/indonesia-candy-factory-fire-three-dead-36-missing-1746b8",
+      "reference": [
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "sherrill-office-criticizes-google-ai-search-schools-7ae2cd",
+      "title": "新泽西州长薛瑞尔办公室批评谷歌强制学校启用AI搜索",
+      "description": "新泽西州州长薛瑞尔办公室批评谷歌将人工智能功能与学校搜索服务绑定，称学区若要继续使用谷歌搜索，就无法拒绝让学生接触AI。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/sherrill-office-criticizes-google-ai-search-schools-7ae2cd",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "brooklyn-apartment-collapse-excavation-probe-9a9c8c",
+      "title": "布碌仑楼塌后楼宇局勒令皇后区两工地停工",
+      "description": "纽约市楼宇局在布碌仑弗莱布许一栋公寓倒塌、造成8人死亡后，扩大对结构工程师王杰明参与设计项目的安全检查。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/brooklyn-apartment-collapse-excavation-probe-9a9c8c",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "california-subpoenas-nvidia-china-chip-probe-bbce63",
+      "title": "加州检察长向英伟达发出调查传票",
+      "description": "加州检察长罗布·邦塔11月19日向英伟达发出调查传票，核查公司或其前首席执行官黄仁勋的行为是否使中国取得先进芯片或机密信息，以及英伟达是否就相关风险误导投资者和公众。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/california-subpoenas-nvidia-china-chip-probe-bbce63",
+      "reference": [
+        "中央通訊社",
+        "世界日报",
+        "联合早报",
+        "法广"
+      ],
+      "section": "business",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "chinatown-clt-nyc-fines-relief-session-41ebd7",
+      "title": "华埠土地信托会将办违规罚款减免中文说明会",
+      "description": "华埠土地信托会（Chinatown CLT）将与纽约市财政局合作，于11月24日下午在曼哈顿华埠举办中文说明会，介绍纽约市ECB违规罚款减免及合规计划，帮助华人业主和商户核对欠款、了解申请条件。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/chinatown-clt-nyc-fines-relief-session-41ebd7",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ice-arrests-travelers-seattle-tacoma-airport-456dc8",
+      "title": "西雅图机场ICE逮捕两名墨西哥籍旅客",
+      "description": "11月21日上午，美国移民与海关执法局（ICE）人员在西雅图—塔科马国际机场登机空桥逮捕两名墨西哥籍旅客。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T06:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/ice-arrests-travelers-seattle-tacoma-airport-456dc8",
+      "reference": [
+        "联合早报",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "msci-considers-alternatives-indonesia-downgrade-ee280b",
+      "title": "彭博称明晟愿考虑替代方案避免下调印尼评级",
+      "description": "据彭博社报道，知情人士称，明晟（MSCI）首席执行官费尔南德斯11月10日与印尼总统普拉博沃通话超过一小时。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T05:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/msci-considers-alternatives-indonesia-downgrade-ee280b",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "title": "特朗普习近平普京深圳会晤并发布和平宣言",
+      "description": "美国总统特朗普、中国国家主席习近平和俄罗斯总统普京11月19日在深圳举行首次三方元首会晤，会后发布《和平宣言》。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T05:55:27+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "日经",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 289,
+      "sources": []
+    },
+    {
+      "id": "australia-climate-draft-phase-out-fossil-fuels-d09761",
+      "title": "COP31在安塔利亚闭幕近200国未达政治共识",
+      "description": "11月22日，联合国气候变化大会COP31在土耳其安塔利亚闭幕。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T05:52:24+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-17",
+      "url": "https://kaopu.news/story/2026-11-17/australia-climate-draft-phase-out-fossil-fuels-d09761",
+      "reference": [
+        "联合早报",
+        "公视",
+        "第一财经",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 28,
+      "sources": []
+    },
+    {
+      "id": "liren-tech-receives-regulatory-warning-0293d0",
+      "title": "利仁科技因关联交易信披违规被北京证监局警示",
+      "description": "北京证监局近日对利仁科技、董事长兼总经理宋老亮及时任董事会秘书李伟出具警示函，并将三方记入证券期货市场诚信档案。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T05:52:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/liren-tech-receives-regulatory-warning-0293d0",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "ai-confidence-crisis-sends-kospi-back-to-start-64a06c",
-      "title": "全球AI信心转弱韩国综指盘中跌幅扩大至5%",
-      "description": "韩国综合股价指数（KOSPI）11月23日盘中跌幅扩大至5%，三星电子和SK海力士股价均下跌超过5%。",
+      "title": "韩国股市因AI疑虑大跌回落至年初水平",
+      "description": "全球科技股遭抛售、投资者对人工智能热潮能否持续的疑虑加深之际，韩国综合股价指数（KOSPI）大幅下跌，盘中跌破4700点，回到年初附近。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -18,13 +228,13 @@
       "publishedAt": "2026-11-23",
       "url": "https://kaopu.news/story/2026-11-23/ai-confidence-crisis-sends-kospi-back-to-start-64a06c",
       "reference": [
-        "朝鲜日报",
-        "澎湃新闻",
         "中央通訊社",
-        "韩国国际广播电台"
+        "韩国国际广播电台",
+        "朝鲜日报",
+        "澎湃新闻"
       ],
       "section": "ai",
-      "sourceCount": 4,
+      "sourceCount": 9,
       "sources": []
     },
     {
@@ -44,6 +254,24 @@
       ],
       "section": "life",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "latifah-urges-anwar-stop-rohingya-deportations-78af77",
+      "title": "拉蒂花促安华政府保护罗兴亚人并停止遣返",
+      "description": "国际法院裁定缅甸对罗兴亚人实施种族灭绝后，捍卫自由律师团顾问拉蒂花要求马来西亚首相安华领导的昌明政府保护境内罗兴亚人，并停止遣返。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T05:40:23+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/latifah-urges-anwar-stop-rohingya-deportations-78af77",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -68,6 +296,27 @@
       "sources": []
     },
     {
+      "id": "russian-drone-strike-kyiv-apartment-collapse-36bb88",
+      "title": "俄军袭击基辅州多地致至少14人死亡",
+      "description": "俄罗斯军队11月22日夜间袭击乌克兰基辅州多个地点，造成至少14人死亡、多人受伤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T05:34:39+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/russian-drone-strike-kyiv-apartment-collapse-36bb88",
+      "reference": [
+        "联合早报",
+        "公视",
+        "日本放送协会",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
       "id": "taiwan-stocks-tumble-below-39000-f4e379",
       "title": "台股一周暴跌逾7600点创历史纪录",
       "description": "台湾股市受人工智能产业前景疑虑和卖压冲击，11月20日收盘重挫2393.60点，单周累计下跌7641.83点、跌幅约17.5%，创史上最大单周跌点纪录。",
@@ -88,44 +337,21 @@
       "sources": []
     },
     {
-      "id": "australia-climate-draft-phase-out-fossil-fuels-d09761",
-      "title": "COP31闭幕未能通过总体政治决议",
-      "description": "联合国气候变化大会COP31于当地时间11月22日晚在土耳其安塔利亚闭幕。",
+      "id": "jiangsu-regulator-proposes-shijing-fine-9500000-yuan-08e781",
+      "title": "江苏证监局拟对*ST仕净处以950万元罚款",
+      "description": "*ST仕净11月20日晚间公告称，公司已收到中国证监会江苏监管局下发的行政处罚事先告知书。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-23T05:15:09+00:00",
+      "updatedAt": "2026-11-23T05:19:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/australia-climate-draft-phase-out-fossil-fuels-d09761",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/jiangsu-regulator-proposes-shijing-fine-9500000-yuan-08e781",
       "reference": [
-        "联合早报",
-        "公视",
-        "第一财经",
-        "法广"
+        "澎湃新闻"
       ],
-      "section": "world",
-      "sourceCount": 27,
-      "sources": []
-    },
-    {
-      "id": "russian-drone-strike-kyiv-apartment-collapse-36bb88",
-      "title": "俄无人机袭击基辅州公寓和超市致4死3伤",
-      "description": "较新的报道援引基辅州官员称，迪梅尔公寓楼至少9人死亡；维什涅韦一家超市有2人死亡、8人受伤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T05:10:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/russian-drone-strike-kyiv-apartment-collapse-36bb88",
-      "reference": [
-        "联合早报",
-        "公视",
-        "日本放送协会"
-      ],
-      "section": "world",
-      "sourceCount": 4,
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -240,26 +466,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "south-korea-reviews-stock-stabilization-fund-697141",
-      "title": "韩国政府着手准备启动股市稳定基金",
-      "description": "韩国政府决定为股市稳定基金启动做好前期准备，以便根据市场情况启用。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T04:52:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/south-korea-reviews-stock-stabilization-fund-697141",
-      "reference": [
-        "中央通訊社",
-        "韩国国际广播电台",
-        "公视"
-      ],
-      "section": "business",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -1001,27 +1207,6 @@
       "sources": []
     },
     {
-      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "title": "中美俄领导人深圳峰会未获重大突破",
-      "description": "美国总统特朗普、中国国家主席习近平和俄罗斯总统普京11月19日在深圳举行首次三国领导人会晤，讨论降低核风险及解决国际冲突，但没有达成重大突破。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T01:01:08+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-02",
-      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
-      "reference": [
-        "韩国国际广播电台",
-        "联合早报",
-        "日经",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 288,
-      "sources": []
-    },
-    {
       "id": "binance-heist-north-korea-hacker-training-8aed09",
       "title": "币安窃案牵出朝鲜网军人才培养体系",
       "description": "公视报道聚焦币安窃案及北韩骇客。",
@@ -1471,25 +1656,6 @@
       ],
       "section": "us",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "ice-arrests-travelers-seattle-tacoma-airport-456dc8",
-      "title": "ICE在西雅图机场空桥逮捕两名旅客",
-      "description": "当地时间11月21日上午约8时，两名美国移民与海关执法局（ICE）探员在西雅图—塔科马国际机场阿拉斯加航空1306号航班的登机空桥上逮捕两名旅客。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T19:34:16+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/ice-arrests-travelers-seattle-tacoma-airport-456dc8",
-      "reference": [
-        "联合早报",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -2152,25 +2318,6 @@
       "sources": []
     },
     {
-      "id": "indonesia-candy-factory-fire-three-dead-36-missing-1746b8",
-      "title": "印尼糖果厂火灾已致6死33人失联",
-      "description": "印尼万丹省西冷县Fonusa Agung Mulia糖果厂于11月21日下午起火。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T06:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/indonesia-candy-factory-fire-three-dead-36-missing-1746b8",
-      "reference": [
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "new-york-national-grid-gas-rate-freeze-703c57",
       "title": "纽约州批准国家电网天然气基本费率冻结至2028年",
       "description": "纽约州公共服务委员会近日批准国家电网天然气输送基本费率冻结方案，纽约市及长岛约190万名用户的现行基本费率将维持至2028年3月底。",
@@ -2255,24 +2402,6 @@
       "occurredAt": "",
       "publishedAt": "2026-11-22",
       "url": "https://kaopu.news/story/2026-11-22/mta-recommends-firing-nine-eagle-members-aeb42f",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "brooklyn-apartment-collapse-excavation-probe-9a9c8c",
-      "title": "布鲁克林公寓楼塌致8死调查聚焦邻近工地",
-      "description": "布鲁克林一栋公寓楼11月11日倒塌，造成8人死亡。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T06:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/brooklyn-apartment-collapse-excavation-probe-9a9c8c",
       "reference": [
         "世界日报"
       ],
@@ -2421,24 +2550,6 @@
         "世界日报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nyc-pension-funds-asian-managers-investment-growth-adb2c8",
-      "title": "纽约市退休基金对亚裔管理公司投资增至62.8亿元",
-      "description": "纽约市主计长办公室公布的2026财年报告显示，市府五个公共退休基金交由亚裔持有的资产管理公司管理或承诺投资的金额达到62.8亿元，较上一财年增加47%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/nyc-pension-funds-asian-managers-investment-growth-adb2c8",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -2609,25 +2720,6 @@
       "sources": []
     },
     {
-      "id": "zhang-chaoyang-says-warning-letter-targeted-namesake-790ae9",
-      "title": "搜狐张朝阳称警示函所涉者与其重名",
-      "description": "北京证监局11月20日发布对一名张朝阳采取出具警示函措施的决定，称其未获中国证监会许可提供证券投资咨询服务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T05:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/zhang-chaoyang-says-warning-letter-targeted-namesake-790ae9",
-      "reference": [
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "europe-groups-plan-costs-arms-protests-8e9551",
       "title": "法国民众连续第六个周末举行抗议示威",
       "description": "法国民众于11月22日连续第六个周末举行示威，抗议生活成本上涨、公共服务不足及警方暴力。",
@@ -2664,24 +2756,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "regulators-issue-brokerage-staff-fines-865fdf",
-      "title": "多地证监局对券商及从业人员开出近10张罚单",
-      "description": "多地证监局于11月20日公布一批监管决定，涉及证券公司及从业人员经纪业务违规、分支机构合规管理不到位，以及持续督导履职不充分等问题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T04:42:37.053408+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/regulators-issue-brokerage-staff-fines-865fdf",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2921,26 +2995,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "iea-hormuz-crisis-energy-security-threat-794dc6",
-      "title": "国际能源署警告霍尔木兹危机威胁能源安全",
-      "description": "国际能源署11月19日发布年度《世界能源展望》，警告霍尔木兹海峡危机已成为能源安全面临的史上最大威胁。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T01:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/iea-hormuz-crisis-energy-security-threat-794dc6",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -3405,24 +3459,6 @@
       "sources": []
     },
     {
-      "id": "new-york-city-funds-worker-rights-education-02b367",
-      "title": "纽约市议会拨款210万美元助非传统劳工维权",
-      "description": "纽约市议会议长朱曼宁（Julie Menin）和多名市议员11月19日宣布，市议会将投入210万美元设立“非传统劳工组织及教育倡议”，资助基层组织为合同工、家政劳动者等群体开展组织和权益教育。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T06:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/new-york-city-funds-worker-rights-education-02b367",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "nvidia-accelerates-pay-raises-stock-awards-dd8808",
       "title": "英伟达将加薪和股权激励提前至12月发放",
       "description": "英伟达临时首席执行官科莱特·克雷斯11月18日在加州圣克拉拉总部主持黄仁勋离任后的首场全员大会，宣布将原定于2027年实施的加薪和额外股权激励提前到2026年12月发放。",
@@ -3679,43 +3715,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "cnki-ai-detection-upgrade-rates-surge-c238a1",
-      "title": "知网AI检测误判让论文作者陷入自证困境",
-      "description": "近日，知网等平台的AIGC检测结果波动、原创文本被标为高AI特征，已影响论文投稿、学生论文答辩和职称申报。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T01:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/cnki-ai-detection-upgrade-rates-surge-c238a1",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "ai",
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
-      "id": "trump-hints-nvidia-blackwell-china-sales-f13d39",
-      "title": "特朗普称美方希望只向中国出售旧款芯片",
-      "description": "美国总统特朗普11月20日结束亚洲之行后表示，美国希望对华销售的芯片限于较旧型号，即使不卖给中国也可以。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-21T01:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/trump-hints-nvidia-blackwell-china-sales-f13d39",
-      "reference": [
-        "联合早报",
-        "世界日报"
-      ],
-      "section": "ai",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -4350,25 +4349,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "foxconn-to-acquire-sony-auto-camera-unit-e10008",
-      "title": "鸿海拟以72.4亿日元收购索尼车载摄像头业务",
-      "description": "鸿海11月17日宣布，拟以72.4亿日元现金收购索尼半导体解决方案公司（SSS）在泰国开展的车载摄像头模组业务，计划在取得监管批准并满足协议先决条件后，于2027年4月底前完成交割。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-18T02:13:02+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/foxconn-to-acquire-sony-auto-camera-unit-e10008",
-      "reference": [
-        "中央通訊社",
-        "日经"
-      ],
-      "section": "business",
-      "sourceCount": 2,
       "sources": []
     },
     {
