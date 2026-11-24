@@ -3,9 +3,65 @@
     "date": "2026-11-24",
     "timestamp": 1795541187,
     "totalPages": 1,
-    "total": 270
+    "total": 271
   },
   "stories": [
+    {
+      "id": "new-york-thanksgiving-storms-wind-rain-6e2028",
+      "title": "东西岸风暴威胁美国感恩节旅客出行",
+      "description": "美国感恩节出行高峰将遇到东西岸风暴天气，航空和公路行程面临延误、受阻风险。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T19:11:02+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/new-york-thanksgiving-storms-wind-rain-6e2028",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "norway-ukraine-expand-desna-deployment-00d54b",
+      "title": "挪威乌克兰商议扩大DESNA反无人机系统部署",
+      "description": "挪威与乌克兰国防部长11月24日在奥斯陆会谈，讨论扩大共同开发的“DESNA”反无人机防空系统在乌克兰的部署范围。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T18:58:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/norway-ukraine-expand-desna-deployment-00d54b",
+      "reference": [
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "pentagon-seeks-automakers-drone-production-4e1645",
+      "title": "美媒称美国防部正洽车企生产军用无人机",
+      "description": "美国国防部正与通用汽车、福特等汽车企业洽谈，希望借助汽车业产线和供应链扩大军用无人机生产。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T18:41:39+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/pentagon-seeks-automakers-drone-production-4e1645",
+      "reference": [
+        "澎湃新闻",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
     {
       "id": "canada-mortgage-delinquency-record-high-82b1cd",
       "title": "加拿大房贷逾期率升至艾可飞追踪以来最高水平",
@@ -21,6 +77,24 @@
         "加拿大国际广播电台"
       ],
       "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-government-tariff-probe-europe-stocks-fall-3ca225",
+      "title": "美政府据报最快本周公布关税调查结果拖累欧洲股市收跌",
+      "description": "中央社称，有媒体引述知情人士表示，美国政府预计最快本周公布一项历时数月的关税调查结果，调查涉及欧盟、中国等方面的产业补贴；相关消息拖累欧洲主要股指收跌。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T17:20:56+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/us-government-tariff-probe-europe-stocks-fall-3ca225",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -57,24 +131,6 @@
         "世界日报"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "pentagon-seeks-automakers-drone-production-4e1645",
-      "title": "《华尔街日报》称美国防部洽谈车企协助量产军用无人机",
-      "description": "据澎湃新闻转引《华尔街日报》援引知情人士报道，美国国防部正与通用汽车、福特等制造商洽谈，拟借助汽车业的生产能力和供应链扩大军用无人机产量。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T17:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/pentagon-seeks-automakers-drone-production-4e1645",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -393,24 +449,6 @@
         "世界日报"
       ],
       "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "norway-ukraine-expand-desna-deployment-00d54b",
-      "title": "挪威与乌克兰将把DESNA部署至更多地区",
-      "description": "挪威与乌克兰拟将反无人机防空系统“DESNA”部署到乌克兰更多地区。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T14:06:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/norway-ukraine-expand-desna-deployment-00d54b",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -2955,24 +2993,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "new-york-thanksgiving-storms-wind-rain-6e2028",
-      "title": "纽约感恩节风暴威胁梅西游行巨型气球升空",
-      "description": "纽约市感恩节前后可能受两股沿岸风暴影响，强风、降雨与沿岸淹水风险给第100届梅西感恩节大游行带来天气考验。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T03:04:54+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/new-york-thanksgiving-storms-wind-rain-6e2028",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 3,
       "sources": []
     },
     {
