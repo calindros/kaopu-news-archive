@@ -3,17 +3,35 @@
     "date": "2026-11-24",
     "timestamp": 1795483165,
     "totalPages": 1,
-    "total": 269
+    "total": 268
   },
   "stories": [
     {
-      "id": "trump-urges-nvidia-board-rehire-huang-19816a",
-      "title": "英伟达董事会一致恢复黄仁勋全部职务",
-      "description": "英伟达董事会11月23日一致投票，决定即日起恢复黄仁勋总裁、首席执行官及董事职务。",
+      "id": "south-korea-kospi-gains-seven-percent-a8cc66",
+      "title": "韩国综合指数早盘涨幅扩大至7%",
+      "description": "亚洲早盘，韩国和日本股市走高。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-24T00:10:00+00:00",
+      "updatedAt": "2026-11-24T01:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/south-korea-kospi-gains-seven-percent-a8cc66",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-urges-nvidia-board-rehire-huang-19816a",
+      "title": "英伟达董事会一致恢复黄仁勋全部职务",
+      "description": "英伟达董事会一致决定恢复黄仁勋的总裁、首席执行官及董事职务，任命于11月23日即刻生效。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T01:02:22+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-23",
       "url": "https://kaopu.news/story/2026-11-23/trump-urges-nvidia-board-rehire-huang-19816a",
@@ -24,7 +42,157 @@
         "中央通訊社"
       ],
       "section": "us",
-      "sourceCount": 61,
+      "sourceCount": 69,
+      "sources": []
+    },
+    {
+      "id": "zelensky-claims-ukraine-sinks-russian-frigate-de5838",
+      "title": "泽连斯基称乌军在利比亚东部击沉俄舰",
+      "description": "据日经报道，乌军袭击了停泊在利比亚东部班加西海军基地的俄罗斯轻型护卫舰“水星”号及一架军用直升机；乌克兰总统弗拉基米尔·泽连斯基称，乌军动用7艘无人艇袭击，并称护卫舰被击沉。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T01:01:39+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/zelensky-claims-ukraine-sinks-russian-frigate-de5838",
+      "reference": [
+        "联合早报",
+        "法广",
+        "日经"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "bloomberg-index-estimates-liang-wenfeng-wealth-55-billion-cc7474",
+      "title": "彭博指数估梁文锋身家550亿美元居AI模型创作者之首",
+      "description": "深度求索完成新一轮融资后，彭博亿万富翁指数估算创始人梁文锋身家达到550亿美元，使他成为全球最富有的AI模型创造者。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T00:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/bloomberg-index-estimates-liang-wenfeng-wealth-55-billion-cc7474",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-survey-resident-pension-median-125-yuan-f861b0",
+      "title": "调查报告显示居民养老金月领取中位数为125元",
+      "description": "中国健康与养老追踪调查项目组11月发布第六轮调查报告。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T00:48:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/china-survey-resident-pension-median-125-yuan-f861b0",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "vaccine-safety-clinical-trials-monitoring-200bc9",
+      "title": "疫苗安全性经临床试验和获批后监测评估",
+      "description": "麻疹疫情在多国出现之际，疫苗安全性主要通过上市前临床试验和获批后的持续监测来评估。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T00:27:20+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/vaccine-safety-clinical-trials-monitoring-200bc9",
+      "reference": [
+        "英国广播公司"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "san-francisco-ai-venture-funding-48be66",
+      "title": "六成美国人工智能风投资金流向旧金山企业",
+      "description": "2023至2025年投向美国人工智能企业的风险资本中，六成流向总部设在旧金山市的公司。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T00:24:39+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/san-francisco-ai-venture-funding-48be66",
+      "reference": [
+        "英国广播公司"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "lee-nominates-kang-kum-sil-intelligence-chief-4fa3b0",
+      "title": "李在明提名五名韩国政府部门新负责人",
+      "description": "韩国总统李在明11月23日提名前法务部长官康锦实出任国家情报院院长，并调整外交、统一、行政安全和文化体育观光部门负责人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T00:23:57+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/lee-nominates-kang-kum-sil-intelligence-chief-4fa3b0",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "东亚日报"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "skubal-agrees-nine-year-mets-deal-e22d6e",
+      "title": "斯库巴尔同意与大都会签下投手纪录合同",
+      "description": "两届美国联盟赛扬奖得主塔里克·斯库巴尔已同意与纽约大都会队签下一份9年、总额4.5亿美元的合同，平均年薪5000万美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T00:23:45+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/skubal-agrees-nine-year-mets-deal-e22d6e",
+      "reference": [
+        "中央通訊社",
+        "东亚日报"
+      ],
+      "section": "sports",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "belgian-unions-strike-grounds-flights-1f0e61",
+      "title": "比利时全国罢工致布鲁塞尔机场404航班取消",
+      "description": "比利时主要工会11月23日发动全国罢工，抗议政府紧缩政策和预算削减。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T00:14:42+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/belgian-unions-strike-grounds-flights-1f0e61",
+      "reference": [
+        "法广",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -42,6 +210,24 @@
         "澎湃新闻"
       ],
       "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "saudi-triples-japan-oil-reserves-d0dd95",
+      "title": "沙特同意将其在日原油储备增至三倍",
+      "description": "日本经济产业省11月20日表示，沙特同意将存放在日本的原油从800万桶增至最多2400万桶，即扩大至原来的三倍。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T00:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/saudi-triples-japan-oil-reserves-d0dd95",
+      "reference": [
+        "共同网"
+      ],
+      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -1142,25 +1328,6 @@
       "sources": []
     },
     {
-      "id": "lee-nominates-kang-kum-sil-intelligence-chief-4fa3b0",
-      "title": "李在明改组外交安保团队提名五名人选",
-      "description": "11月23日，韩国总统李在明调整外交与国家安全团队，并提名多名部长人选。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T12:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/lee-nominates-kang-kum-sil-intelligence-chief-4fa3b0",
-      "reference": [
-        "韩国国际广播电台",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "cnpc-deputy-general-manager-xie-jun-probed-f0a2aa",
       "title": "中国石油党组召开会议表态拥护谢军被查决定",
       "description": "中国石油党组11月23日召开会议，通报党组成员、副总经理谢军涉嫌严重违纪违法，正在接受中央纪委国家监委纪律审查和监察调查。",
@@ -1493,24 +1660,6 @@
       ],
       "section": "business",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "belgian-unions-strike-grounds-flights-1f0e61",
-      "title": "比利时工会发起罢工致全国航班停飞",
-      "description": "比利时主要工会发起全国性反紧缩罢工，所有航班停飞。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T11:02:40+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/belgian-unions-strike-grounds-flights-1f0e61",
-      "reference": [
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1999,24 +2148,6 @@
       "sources": []
     },
     {
-      "id": "skubal-agrees-nine-year-mets-deal-e22d6e",
-      "title": "史库柏据报同意九年4.5亿美元加盟纽约大都会",
-      "description": "多家媒体报道称，两度获得美国职棒大联盟（MLB）赛扬奖的投手史库柏已同意与纽约大都会签订一份为期9年、总额4.5亿美元的合同，平均年薪为5000万美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T08:59:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/skubal-agrees-nine-year-mets-deal-e22d6e",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "memory-tensor-open-sources-memt-1-0-pro-c98320",
       "title": "记忆张量开源记忆原生模型MemT-1.0-Pro",
       "description": "记忆张量发布并开源与英伟达联合研发的记忆原生模型MemT-1.0-Pro。",
@@ -2110,25 +2241,6 @@
       "sources": []
     },
     {
-      "id": "zelensky-claims-ukraine-sinks-russian-frigate-de5838",
-      "title": "泽连斯基称乌军在利比亚近海击沉俄军护卫舰",
-      "description": "乌克兰总统泽连斯基称，乌军在利比亚近海以7艘乌克兰制造的无人艇发动袭击，击沉俄罗斯海军轻型护卫舰“水星号”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T08:32:35+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/zelensky-claims-ukraine-sinks-russian-frigate-de5838",
-      "reference": [
-        "联合早报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "fairprice-warns-impersonation-voucher-scam-6d6f79",
       "title": "平价集团提醒公众警惕冒名中奖诈骗",
       "description": "平价集团星期一（11月23日）说，近期收到冒名诈骗通报。",
@@ -2180,24 +2292,6 @@
         "中央通訊社"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "compass-group-plans-new-york-primary-listing-169dff",
-      "title": "康帕斯据报拟将主要上市地从伦敦迁至纽约",
-      "description": "据第一财经援引知情人士消息，富时100指数成分股康帕斯餐饮集团最早可能于当地时间2026年11月24日宣布有意将主要上市地从伦敦迁往纽约。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T08:17:55.145497+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/compass-group-plans-new-york-primary-listing-169dff",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -3048,25 +3142,6 @@
       "sources": []
     },
     {
-      "id": "iranian-guards-unveil-twin-missile-launcher-41170f",
-      "title": "伊朗首次展示可同时发射两枚液体燃料导弹的新装置",
-      "description": "伊朗国家电视台首次展示可同时发射两枚液体燃料导弹的新装置，并播出革命卫队指挥官视察地下基地的画面。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T04:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/iranian-guards-unveil-twin-missile-launcher-41170f",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "singapore-sets-sustainable-aviation-fuel-targets-988c74",
       "title": "新加坡设定航空可持续燃料使用目标",
       "description": "亚太可持续航空燃料大会在新加坡滨海湾金沙会展中心举行，来自世界各地的政界、产业界和学界人士围绕燃料生产与供应、技术应用、政策规范及商业模式交流。",
@@ -3121,24 +3196,6 @@
       "sources": []
     },
     {
-      "id": "lagarde-plans-early-ecb-exit-ea20b4",
-      "title": "拉加德决定提前卸任欧洲央行行长",
-      "description": "欧洲央行行长拉加德决定于2027年2月7日卸任，较八年任期提前八个月。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T03:17:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/lagarde-plans-early-ecb-exit-ea20b4",
-      "reference": [
-        "财新"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "ahmad-zahid-barisan-nasional-restore-gst-229dfe",
       "title": "阿末扎希称国阵重掌政权后将恢复消费税",
       "description": "国阵主席阿末扎希表示，如果国阵在第16届全国大选后重新取得联邦执政权，他支持恢复消费税（GST）。",
@@ -3171,24 +3228,6 @@
         "财新"
       ],
       "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "india-itbp-creates-shaurya-border-squad-be93d1",
-      "title": "印度边境警察设立常设特种小队应对边境对峙",
-      "description": "印度—西藏边境警察部队（ITBP）已在负责中印边境警戒的各营内设立“Shaurya小队”，作为常设特种力量，任务聚焦高原作战、近身冲突、无人机监视和边境局部对峙。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T02:52:33+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/india-itbp-creates-shaurya-border-squad-be93d1",
-      "reference": [
-        "日经"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -3437,24 +3476,6 @@
       ],
       "section": "us",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "singapore-ymca-platform-unauthorized-access-45a4bc",
-      "title": "新加坡青年会平台遭入侵逾1.3万人资料或受影响",
-      "description": "新加坡基督教青年会（YMCA）旗下“青年行善活动”（Youth For Causes，YFC）线上申请平台及相关数据库发生网络安全事故，超过1.3万人可能受影响。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T15:27:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/singapore-ymca-platform-unauthorized-access-45a4bc",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3783,43 +3804,6 @@
       ],
       "section": "sports",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "128-parties-agree-autonomous-weapons-instrument-334036",
-      "title": "常规武器公约会议未就致命性自主武器规则达成协议",
-      "description": "《特定常规武器公约》审查会议自11月16日起在瑞士举行，21日结束。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T04:56:22+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/128-parties-agree-autonomous-weapons-instrument-334036",
-      "reference": [
-        "联合早报",
-        "日本放送协会"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "nvidia-board-accepts-jensen-huang-resignation-8e7ede",
-      "title": "Wired称黄仁勋说谎促使英伟达董事会接受辞呈",
-      "description": "据Wired报道，英伟达董事会已接受黄仁勋辞去首席执行官职务的请求。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T04:40:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/nvidia-board-accepts-jensen-huang-resignation-8e7ede",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
       "sources": []
     },
     {
