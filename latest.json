@@ -1,11 +1,69 @@
 {
   "details": {
     "date": "2026-11-24",
-    "timestamp": 1795477471,
+    "timestamp": 1795483165,
     "totalPages": 1,
-    "total": 268
+    "total": 269
   },
   "stories": [
+    {
+      "id": "trump-urges-nvidia-board-rehire-huang-19816a",
+      "title": "英伟达董事会一致恢复黄仁勋全部职务",
+      "description": "英伟达董事会11月23日一致投票，决定即日起恢复黄仁勋总裁、首席执行官及董事职务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T00:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/trump-urges-nvidia-board-rehire-huang-19816a",
+      "reference": [
+        "联合早报",
+        "德国之声",
+        "世界日报",
+        "中央通訊社"
+      ],
+      "section": "us",
+      "sourceCount": 61,
+      "sources": []
+    },
+    {
+      "id": "police-release-ai-rumor-cases-22654f",
+      "title": "公安机关网安部门公布AI造谣十起典型案例",
+      "description": "公安机关网安部门公布2026年度使用AI工具编造、传播网络谣言的十起典型案例，相关整治工作依托“净网—2026”专项行动开展。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T00:04:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/police-release-ai-rumor-cases-22654f",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-pension-survey-residents-under-200-eb09dd",
+      "title": "CHARLS第六轮调查揭示老人照护缺口",
+      "description": "中国健康与养老追踪调查（CHARLS）项目组近日公布第六轮调查数据。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-23T23:45:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/china-pension-survey-residents-under-200-eb09dd",
+      "reference": [
+        "财新",
+        "中央通訊社"
+      ],
+      "section": "life",
+      "sourceCount": 3,
+      "sources": []
+    },
     {
       "id": "fudan-report-inclusive-medical-insurance-expansion-slows-75bdd0",
       "title": "复旦报告显示惠民保市场转向结构性调整",
@@ -26,24 +84,21 @@
       "sources": []
     },
     {
-      "id": "trump-urges-nvidia-board-rehire-huang-19816a",
-      "title": "英伟达董事会一致恢复黄仁勋全部职务",
-      "description": "英伟达董事会11月23日一致决定，即日起恢复黄仁勋担任公司总裁、首席执行官和董事。",
+      "id": "kyiv-phd-student-winter-blackout-response-118c01",
+      "title": "澎湃新闻联系基辅博士生了解停电断暖应对",
+      "description": "澎湃新闻记者联系了在基辅乌克兰国立技术大学攻读博士的徐同学，了解当地居民在寒冬遭遇停电、供暖中断时如何应对，并询问长期战事中的乌克兰民众对和平的期待及社会情绪。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
       "updatedAt": "2026-11-23T23:15:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/trump-urges-nvidia-board-rehire-huang-19816a",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/kyiv-phd-student-winter-blackout-response-118c01",
       "reference": [
-        "联合早报",
-        "德国之声",
-        "世界日报",
-        "中央通訊社"
+        "澎湃新闻"
       ],
-      "section": "us",
-      "sourceCount": 52,
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -602,25 +657,6 @@
         "中央通訊社"
       ],
       "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "china-pension-survey-residents-under-200-eb09dd",
-      "title": "调查显示机关事业单位养老金为居民类36倍",
-      "description": "中国健康与养老追踪调查（CHARLS）项目组近日发布第六轮调查数据。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T13:48:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/china-pension-survey-residents-under-200-eb09dd",
-      "reference": [
-        "财新",
-        "中央通訊社"
-      ],
-      "section": "life",
       "sourceCount": 2,
       "sources": []
     },
@@ -3781,24 +3817,6 @@
       "url": "https://kaopu.news/story/2026-11-22/nvidia-board-accepts-jensen-huang-resignation-8e7ede",
       "reference": [
         "世界日报"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "teamt5-ai-automated-attack-surge-e64b25",
-      "title": "TeamT5称AI自动化攻击10月起大规模爆发",
-      "description": "TeamT5首席执行官蔡松廷在接受中央社采访时表示，全球自10月起进入AI自动化攻击大规模爆发阶段。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T02:10:37+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/teamt5-ai-automated-attack-surge-e64b25",
-      "reference": [
-        "中央通訊社"
       ],
       "section": "ai",
       "sourceCount": 1,
