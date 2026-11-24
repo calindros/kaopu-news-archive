@@ -1,19 +1,78 @@
 {
   "details": {
     "date": "2026-11-24",
-    "timestamp": 1795491135,
+    "timestamp": 1795499084,
     "totalPages": 1,
     "total": 270
   },
   "stories": [
     {
-      "id": "trump-urges-nvidia-board-rehire-huang-19816a",
-      "title": "英伟达董事会一致决定黄仁勋复任首席执行官",
-      "description": "英伟达董事会于11月23日一致决定，恢复黄仁勋的总裁、首席执行官及董事职务，决议即日生效。",
+      "id": "japan-envoy-meets-detained-hokkaido-reporter-06c386",
+      "title": "日本驻俄使馆二次探视被拘记者称其健康无虞",
+      "description": "日本驻俄大使武藤显等使馆人员11月23日在莫斯科列福尔托沃看守所探视因间谍嫌疑被拘的《北海道新闻》记者今井裕纪。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-24T03:35:00+00:00",
+      "updatedAt": "2026-11-24T04:47:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/japan-envoy-meets-detained-hokkaido-reporter-06c386",
+      "reference": [
+        "共同网",
+        "日本放送协会"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "huaxing-capital-names-ge-xiaobo-ceo-da15e8",
+      "title": "华兴资本任命葛小波为首席执行官",
+      "description": "华兴资本控股公告称，葛小波获任公司首席执行官及执行委员会成员，任命于2026年11月24日生效。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T04:45:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/huaxing-capital-names-ge-xiaobo-ceo-da15e8",
+      "reference": [
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
+      "title": "深圳市委市政府致信感谢市民支持APEC峰会",
+      "description": "深圳市委、市政府11月24日发布《你们是城市的荣光——致广大市民朋友的感谢信》，感谢市民为亚太经合组织第三十三次领导人非正式会议在深圳举行提供支持。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T04:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-13",
+      "url": "https://kaopu.news/story/2026-11-13/xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "中央通訊社",
+        "第一财经"
+      ],
+      "section": "china",
+      "sourceCount": 144,
+      "sources": []
+    },
+    {
+      "id": "trump-urges-nvidia-board-rehire-huang-19816a",
+      "title": "英伟达董事会一致恢复黄仁勋全部职务",
+      "description": "英伟达董事会一致通过黄仁勋即刻恢复公司总裁、首席执行官和董事职务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T04:10:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-23",
       "url": "https://kaopu.news/story/2026-11-23/trump-urges-nvidia-board-rehire-huang-19816a",
@@ -24,13 +83,166 @@
         "中央通訊社"
       ],
       "section": "us",
-      "sourceCount": 92,
+      "sourceCount": 96,
+      "sources": []
+    },
+    {
+      "id": "new-senators-shape-schumer-van-hollen-race-f08b22",
+      "title": "中期选举后美国两党内部分歧加剧",
+      "description": "美国中期选举后，民主党重新掌握国会参众两院，但建制派与进步派围绕领导权和政策方向出现分歧；共和党内部也在败选后争论未来路线。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T03:54:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/new-senators-shape-schumer-van-hollen-race-f08b22",
+      "reference": [
+        "世界日报",
+        "澎湃新闻"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "trump-xi-shenzhen-talks-taiwan-independence-419222",
+      "title": "中方称特朗普深圳会晤时表示美不支持台独",
+      "description": "习近平与特朗普11月19日在深圳举行今年第三次会晤，持续约一小时。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T03:54:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/trump-xi-shenzhen-talks-taiwan-independence-419222",
+      "reference": [
+        "日经",
+        "中央通訊社",
+        "公视",
+        "世界日报"
+      ],
+      "section": "china",
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
+      "id": "guterres-urges-global-ai-risk-framework-8f6ec4",
+      "title": "古特雷斯促各国一年内建立AI风险管理机制",
+      "description": "联合国秘书长安东尼奥·古特雷斯11月23日在巴巴多斯布里奇敦举行的人工智能安全特别峰会上，敦促各国推进人工智能风险治理。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T03:35:24+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/guterres-urges-global-ai-risk-framework-8f6ec4",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "malaysia-plans-rohingya-refugees-turkey-resettlement-b8001a",
+      "title": "安华称土耳其暂未准备接收万名罗兴亚难民",
+      "description": "马来西亚首相安华证实，土耳其目前尚未准备接收马方拟安排赴土接受技能培训的1万名罗兴亚难民。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T03:32:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/malaysia-plans-rohingya-refugees-turkey-resettlement-b8001a",
+      "reference": [
+        "当今大马",
+        "联合早报",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "russian-planes-enter-korea-air-defense-zone-27672a",
+      "title": "俄军机进入韩国防空识别区郁陵岛居民一度接到避难警报",
+      "description": "多架俄罗斯军机24日上午进入韩国东部海域防空识别区并接近郁陵岛，韩国军方出动战机应对。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T03:27:01+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/russian-planes-enter-korea-air-defense-zone-27672a",
+      "reference": [
+        "朝鲜日报",
+        "联合早报",
+        "法广",
+        "韩国国际广播电台"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "wenzhou-shuangjingfang-market-cultural-district-bca5b1",
+      "title": "温州双井坊保留马路菜场打造文化街区",
+      "description": "温州鹿城区双井坊通过微更新保留双井头马路菜市场和原有街巷肌理，并在周边引入书店、文化空间、手作工坊、咖啡馆、酒吧和喜剧演出，形成日常交易与文化活动共存的街区。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T03:23:44.303055+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/wenzhou-shuangjingfang-market-cultural-district-bca5b1",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "american-mahjong-redesign-sparks-cultural-debate-f7ce49",
+      "title": "美式麻将改造牌面引发华裔社群争议",
+      "description": "美国麻将热潮带动美式麻将套装商业化，牌面改造也引发关于文化根源是否被淡化的争论。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T03:22:30+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/american-mahjong-redesign-sparks-cultural-debate-f7ce49",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "beijing-rental-draft-bars-wear-deposit-deductions-49bba2",
+      "title": "北京拟明确租房正常损耗不得扣押金",
+      "description": "北京市近日公布新版《北京市住房租赁合同（示范文本）（修订征求意见稿）》，拟明确承租人依约或按房屋及物品设施的性质正常使用，造成房屋、附属物品及设施设备损耗的，不承担赔偿责任，出租人也不能因此扣减押金。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T03:21:37.534052+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/beijing-rental-draft-bars-wear-deposit-deductions-49bba2",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "life",
+      "sourceCount": 1,
       "sources": []
     },
     {
       "id": "south-korea-kospi-gains-seven-percent-a8cc66",
-      "title": "黄仁勋复任消息推动亚太股市大涨",
-      "description": "英伟达宣布黄仁勋重返首席执行官职位后，隔夜美国股市大幅上涨；亚太市场在11月24日跟随走高，MSCI亚太指数上涨4%。",
+      "title": "韩国综指大涨触发侧车机制暂停程序买盘",
+      "description": "东京股市和韩国股市在隔夜美股大涨后于11月24日显著反弹。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -216,27 +428,6 @@
       ],
       "section": "china",
       "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "russian-planes-enter-korea-air-defense-zone-27672a",
-      "title": "俄军机进入韩国防空识别区未侵犯领空",
-      "description": "俄罗斯多架军机24日上午进入韩国东海防空识别区并飞近郁陵岛。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T02:34:28+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/russian-planes-enter-korea-air-defense-zone-27672a",
-      "reference": [
-        "朝鲜日报",
-        "联合早报",
-        "法广",
-        "韩国国际广播电台"
-      ],
-      "section": "world",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -586,24 +777,6 @@
         "联合早报"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-envoy-meets-detained-hokkaido-reporter-06c386",
-      "title": "日本驻俄大使会见被拘北海道新闻记者",
-      "description": "日本驻俄罗斯大使武藤显11月23日在莫斯科看守所探视北海道新闻社记者今井裕纪。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T01:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/japan-envoy-meets-detained-hokkaido-reporter-06c386",
-      "reference": [
-        "共同网"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -1551,24 +1724,6 @@
       "sources": []
     },
     {
-      "id": "new-senators-shape-schumer-van-hollen-race-f08b22",
-      "title": "民主党13名新科参议员将左右党团领袖选举",
-      "description": "民主党参议院党团定于12月1日以不记名投票选出领袖，13名新科参议员的立场成为查克·舒默与克里斯·范霍伦竞争的关键。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T13:28:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/new-senators-shape-schumer-van-hollen-race-f08b22",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "jensen-huang-exit-china-customers-cancel-nvidia-orders-18eb7c",
       "title": "路透称黄仁勋离职后中国客户取消辉达订单",
       "description": "据路透社援引知情人士消息，黄仁勋离开辉达后，一些中国客户已取消订单，另一些则在考虑是否采购。",
@@ -2434,24 +2589,6 @@
       "sources": []
     },
     {
-      "id": "un-security-council-stalls-guterres-successor-search-9abd86",
-      "title": "安理会遴选古特雷斯继任者陷入僵局",
-      "description": "联合国安理会遴选古特雷斯继任者陷入僵局。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T09:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/un-security-council-stalls-guterres-successor-search-9abd86",
-      "reference": [
-        "共同网"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "shen-po-yang-chiang-wan-an-campaign-events-b0286a",
       "title": "台北市长候选人选举活动将相隔一天举行",
       "description": "联合早报综合《联合报》与Yahoo即时新闻报道，沈伯洋计划11月27日在信义区仁爱路四段、台北市议会前举行“选前之夜”；蒋万安定于28日在市府路举办“开票之夜”，两场相隔一天。",
@@ -2467,25 +2604,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "hague-court-bans-byd-ti7-europe-sales-916e91",
-      "title": "荷兰法院裁定比亚迪Ti7侵权并禁止其在欧洲销售",
-      "description": "荷兰海牙地区法院11月20日初步认定，比亚迪Ti7侵犯捷豹路虎卫士在欧盟注册的外观设计权。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T09:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/hague-court-bans-byd-ti7-europe-sales-916e91",
-      "reference": [
-        "联合早报",
-        "财新"
-      ],
-      "section": "world",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -2601,27 +2719,6 @@
       "sources": []
     },
     {
-      "id": "xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
-      "title": "深圳APEC会议通过《深圳展望》推进亚太共同体建设",
-      "description": "亚太经合组织第三十三次领导人非正式会议于11月18日至19日在深圳举行，19日闭幕。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T08:51:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "中央通訊社",
-        "第一财经"
-      ],
-      "section": "china",
-      "sourceCount": 143,
-      "sources": []
-    },
-    {
       "id": "yicai-car-sos-arrears-call-failure-3fae19",
       "title": "第一财经称车载SOS欠费后无法呼出",
       "description": "有车主测试或发布视频称，车载SOS/eCall在欠费时无法拨出求救电话；另有车主向第一财经反映，服务到期未续费后按键会转接至电信运营商。",
@@ -2710,27 +2807,6 @@
       ],
       "section": "asia",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "trump-xi-shenzhen-talks-taiwan-independence-419222",
-      "title": "中方称特朗普深圳会谈时表示美国不支持台独",
-      "description": "习近平与美国总统特朗普11月19日在深圳举行约一小时会谈，这是两人2026年的第三次会晤。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T08:11:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/trump-xi-shenzhen-talks-taiwan-independence-419222",
-      "reference": [
-        "日经",
-        "中央通訊社",
-        "公视",
-        "世界日报"
-      ],
-      "section": "china",
-      "sourceCount": 14,
       "sources": []
     },
     {
@@ -3178,24 +3254,6 @@
       "sources": []
     },
     {
-      "id": "byd-launches-titanium-9-folding-steering-wheel-0c4385",
-      "title": "比亚迪推出方程豹钛9顶配折叠方向盘版",
-      "description": "比亚迪为方程豹钛9推出顶配折叠智舱版。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T04:58:00.657906+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/byd-launches-titanium-9-folding-steering-wheel-0c4385",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "miit-reports-23-app-sdk-user-rights-violations-9f3c12",
       "title": "工信部通报23款APP及SDK侵害用户权益",
       "description": "11月23日，工业和信息化部通报23款存在用户权益问题的APP及SDK，懂球帝、虎扑在列。",
@@ -3265,24 +3323,6 @@
         "中央通訊社"
       ],
       "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "singapore-sets-sustainable-aviation-fuel-targets-988c74",
-      "title": "新加坡设定航空可持续燃料使用目标",
-      "description": "亚太可持续航空燃料大会在新加坡滨海湾金沙会展中心举行，来自世界各地的政界、产业界和学界人士围绕燃料生产与供应、技术应用、政策规范及商业模式交流。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T03:40:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/singapore-sets-sustainable-aviation-fuel-targets-988c74",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -3567,27 +3607,6 @@
       ],
       "section": "ai",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-congress-china-ai-chip-restrictions-defense-bill-03c51c",
-      "title": "美国收紧AI芯片管制英伟达伙伴暂停东南亚出货",
-      "description": "美国商务部工业与安全局（BIS）收紧先进AI芯片出口管制，将向五个国家出口受管制芯片纳入许可审查，并限制海外数据中心向中国企业提供大规模算力。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-22T11:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/us-congress-china-ai-chip-restrictions-defense-bill-03c51c",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "财新",
-        "日经"
-      ],
-      "section": "ai",
-      "sourceCount": 47,
       "sources": []
     },
     {
@@ -4791,24 +4810,6 @@
       "occurredAt": "",
       "publishedAt": "2026-11-14",
       "url": "https://kaopu.news/story/2026-11-14/danny-chen-doc-nyc-film-premiere-3b1a18",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "metrograph-screens-five-restored-taiwanese-films-102ac5",
-      "title": "纽约Metrograph将放映五部修复台语老片",
-      "description": "纽约曼哈顿下东城艺术影院Metrograph将于2026年11月27日至29日推出“Taiyupian Spy Games”专题，放映五部数字修复台语片，内容涉及间谍、悬疑和蒙面英雄。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-14T06:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-14",
-      "url": "https://kaopu.news/story/2026-11-14/metrograph-screens-five-restored-taiwanese-films-102ac5",
       "reference": [
         "世界日报"
       ],
