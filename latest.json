@@ -1,19 +1,19 @@
 {
   "details": {
     "date": "2026-11-24",
-    "timestamp": 1795519898,
+    "timestamp": 1795534760,
     "totalPages": 1,
-    "total": 267
+    "total": 268
   },
   "stories": [
     {
       "id": "chen-jining-shanghai-party-chief-investigation-c09533",
-      "title": "上海市委书记陈吉宁接受中央纪委国家监委调查",
-      "description": "新华社11月24日晚发布消息称，陈吉宁涉嫌严重违反党纪和法律，中央纪委国家监委正对其开展审查调查。",
+      "title": "陈吉宁涉嫌严重违纪违法接受审查调查",
+      "description": "中共中央政治局委员、上海市委书记陈吉宁被指涉嫌严重违纪违法，现正接受中央纪委国家监委审查调查。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-24T13:29:00+00:00",
+      "updatedAt": "2026-11-24T14:35:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-24",
       "url": "https://kaopu.news/story/2026-11-24/chen-jining-shanghai-party-chief-investigation-c09533",
@@ -24,7 +24,183 @@
         "中央通訊社"
       ],
       "section": "china",
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "shen-xiangyang-ai-data-verification-f6e76c",
+      "title": "谭平估算机器人实用训练可能需十亿小时数据",
+      "description": "第六届IDEA大会上，香港科技大学电子与计算机工程学系教授谭平估算，参照大语言模型的学习效率，机器人达到实际应用能力所需的训练数据约为十亿小时。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T14:02:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/shen-xiangyang-ai-data-verification-f6e76c",
+      "reference": [
+        "第一财经",
+        "财新"
+      ],
+      "section": "ai",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "bay-area-thanksgiving-flood-transport-risk-0346b1",
+      "title": "旧金山市府部署应对感恩节风暴与异常高潮位",
+      "description": "旧金山市长罗伟11月23日与公共工程局、港务局、水务局及应急管理局负责人举行记者会，公布应对感恩节前风暴、异常高潮位和沿岸水浸风险的措施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T14:00:58+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/bay-area-thanksgiving-flood-transport-risk-0346b1",
+      "reference": [
+        "世界日报",
+        "星岛日报美国版"
+      ],
+      "section": "us",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "trump-urges-nvidia-board-rehire-huang-19816a",
+      "title": "英伟达董事会一致恢复黄仁勋三项职务",
+      "description": "英伟达董事会11月23日一致决定，恢复黄仁勋的公司总裁、首席执行官和董事职务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T14:00:54+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/trump-urges-nvidia-board-rehire-huang-19816a",
+      "reference": [
+        "联合早报",
+        "德国之声",
+        "世界日报",
+        "中央通訊社"
+      ],
+      "section": "us",
+      "sourceCount": 144,
+      "sources": []
+    },
+    {
+      "id": "china-urges-eu-follow-wto-rules-hybrid-probe-5fee2b",
+      "title": "欧盟公布混动汽车临时进口配额安排",
+      "description": "欧盟委员会11月24日公布对进口混合动力汽车实施临时保障配额的初步安排，措施定于2026年12月1日至2027年6月18日实施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T13:57:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/china-urges-eu-follow-wto-rules-hybrid-probe-5fee2b",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "德国之声"
+      ],
+      "section": "china",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "snow-traps-residents-tourists-kitashiobara-16ccf3",
+      "title": "日本多地大雪造成停电及交通受阻",
+      "description": "近日，低气压和锋面影响日本多地，长野、岐阜等地降下大雪，出现停电和交通受阻。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T13:43:01+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/snow-traps-residents-tourists-kitashiobara-16ccf3",
+      "reference": [
+        "共同网",
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "zelensky-claims-ukraine-sinks-russian-frigate-de5838",
+      "title": "乌克兰称在利比亚沿海击沉俄护卫舰",
+      "description": "乌克兰总统泽连斯基11月23日称，乌克兰国家安全局在国防军配合下，于22日动用7艘无人艇在利比亚沿海击沉俄罗斯海军“水星”号护卫舰。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T13:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/zelensky-claims-ukraine-sinks-russian-frigate-de5838",
+      "reference": [
+        "联合早报",
+        "法广",
+        "日经",
+        "日本放送协会"
+      ],
+      "section": "world",
       "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "india-regulator-deems-bisleri-water-unsafe-917318",
+      "title": "印度食安局复检认定比斯莱里水样不安全",
+      "description": "印度食品安全与标准局（FSSAI）11月22日通报，复检认定比斯莱里一份水样不符合安全标准，并检出具有潜在致癌风险的多环芳香烃（PAHs）。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T13:40:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/india-regulator-deems-bisleri-water-unsafe-917318",
+      "reference": [
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "oxfam-report-israel-gaza-toxic-pollution-2916ff",
+      "title": "乐施会报告指加沙污染危及居民健康与生存",
+      "description": "乐施会与冲突与环境观察组织11月23日发布124页报告《环境战争罪行》，称以色列军事行动造成的污染和基础设施破坏正威胁加沙居民健康与生存。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T13:37:35+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/oxfam-report-israel-gaza-toxic-pollution-2916ff",
+      "reference": [
+        "澎湃新闻",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "german-media-report-russia-nuclear-satellite-launch-832de4",
+      "title": "德媒称俄核弹头卫星最快12月发射",
+      "description": "德国媒体援引德国军方与情报部门消息称，俄罗斯已完成一颗名为“Sputnik-S”的卫星。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T13:31:41+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/german-media-report-russia-nuclear-satellite-launch-832de4",
+      "reference": [
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -46,6 +222,24 @@
       ],
       "section": "business",
       "sourceCount": 19,
+      "sources": []
+    },
+    {
+      "id": "foxconn-industrial-internet-plans-cash-dividend-80b675",
+      "title": "工业富联拟向股东派发132.85亿元现金红利",
+      "description": "2026年11月24日，工业富联披露2026年前三季度利润分配预案，拟按每股0.67元（含税）向股东派发现金，合计132.85亿元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T13:17:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/foxconn-industrial-internet-plans-cash-dividend-80b675",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -87,43 +281,93 @@
       "sources": []
     },
     {
-      "id": "snow-traps-residents-tourists-kitashiobara-16ccf3",
-      "title": "福岛县大雪致逾千名居民和旅客一度受困",
-      "description": "低气压和锋面影响日本多地降下大雪。",
+      "id": "sumatra-flood-recovery-lags-anniversary-dff1ef",
+      "title": "苏门答腊洪灾一周年重建进度仍缓慢",
+      "description": "苏门答腊特大洪灾发生一周年之际，灾后重建仍进展迟缓，数以千计灾民继续住在简陋棚屋里，一些村庄居民则自筹资金修路搭桥。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-24T12:39:48+00:00",
+      "updatedAt": "2026-11-24T12:44:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/snow-traps-residents-tourists-kitashiobara-16ccf3",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/sumatra-flood-recovery-lags-anniversary-dff1ef",
       "reference": [
-        "共同网",
-        "公视"
+        "联合早报"
       ],
       "section": "asia",
-      "sourceCount": 6,
+      "sourceCount": 1,
       "sources": []
     },
     {
-      "id": "trump-urges-nvidia-board-rehire-huang-19816a",
-      "title": "英伟达董事会一致恢复黄仁勋全部职务",
-      "description": "英伟达董事会11月23日一致决定，恢复联合创始人黄仁勋的总裁、首席执行官和董事职务。",
+      "id": "motegi-japan-skips-nuclear-ban-treaty-review-fbb3b8",
+      "title": "日本外相茂木称不以观察员身份参加禁核条约审议会",
+      "description": "日本外相茂木敏充11月24日在记者会上表示，日本不会以观察员身份参加定于11月30日在纽约联合国总部举行的《禁止核武器条约》首次审议大会。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-24T12:36:50.567591+00:00",
+      "updatedAt": "2026-11-24T12:34:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/trump-urges-nvidia-board-rehire-huang-19816a",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/motegi-japan-skips-nuclear-ban-treaty-review-fbb3b8",
       "reference": [
-        "联合早报",
-        "德国之声",
-        "世界日报",
-        "中央通訊社"
+        "共同网"
       ],
-      "section": "us",
-      "sourceCount": 141,
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-health-agencies-expand-vaccine-prescriptions-c8afd5",
+      "title": "三部门推动医疗机构为重点人群开具疫苗处方",
+      "description": "国家疾控局、国家卫健委和国家中医药局先后发布两份指导意见，推动临床医生为适宜人群开具疫苗处方，并把疫苗知识介绍纳入诊疗服务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T12:33:50.568094+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/china-health-agencies-expand-vaccine-prescriptions-c8afd5",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "uk-sanctions-houthi-movement-four-leaders-305ae5",
+      "title": "英国制裁也门青年运动及四名高层官员",
+      "description": "英国宣布对也门青年运动及其4名高层官员实施制裁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T12:33:37+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/uk-sanctions-houthi-movement-four-leaders-305ae5",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "fake-human-verification-tricks-users-running-malicious-514ecb",
+      "title": "假人机验证诱导用户运行恶意指令",
+      "description": "网络上出现伪装成人机验证的ClickFix社交工程攻击，页面要求用户按指定快捷键打开命令提示符，再复制、粘贴并运行指令。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T12:30:42+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/fake-human-verification-tricks-users-running-malicious-514ecb",
+      "reference": [
+        "公视"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -142,6 +386,42 @@
       ],
       "section": "asia",
       "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "pillemer-outlines-four-family-reconciliation-steps-2b1f1a",
+      "title": "康奈尔学者归纳家庭和解四种做法",
+      "description": "康奈尔大学社会学家卡尔·皮勒默总结出修复破裂家庭关系的四种做法：放下对往事对错的执着，反思自身责任，调整对家人的期待，并明确相处界限。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T12:28:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/pillemer-outlines-four-family-reconciliation-steps-2b1f1a",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-central-bank-stablecoin-reserve-rules-186126",
+      "title": "台湾央行预告稳定币准备金缴存门槛和比率",
+      "description": "台湾中央银行预告制定稳定币发行准备金缴存及查核办法，拟对与新台币或单一外币按1比1挂钩的稳定币设定准备金门槛。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T12:21:29+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/taiwan-central-bank-stablecoin-reserve-rules-186126",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -184,6 +464,24 @@
       "sources": []
     },
     {
+      "id": "reuters-tsmc-texas-factory-tax-breaks-f161e9",
+      "title": "路透称台积电评估德州建厂税惠成关键",
+      "description": "台积电正评估在美国得克萨斯州布拉佐斯县投资226亿美元建设芯片制造设施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T12:16:27+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/reuters-tsmc-texas-factory-tax-breaks-f161e9",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "takaichi-meets-icc-president-pledges-support-d87890",
       "title": "高市承诺年内缴清国际刑事法院2027年度分摊金",
       "description": "日本首相高市早苗11月24日在首相官邸会见国际刑事法院（ICC）院长赤根智子，并承诺在2026年内缴清日本对该院2027年度的全部分摊款。",
@@ -200,6 +498,24 @@
       ],
       "section": "world",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "england-heat-deaths-hit-record-c20061",
+      "title": "英格兰今夏高温相关死亡达5258例创新高",
+      "description": "英国卫生安全局初步报告估算，英格兰2026年夏季与高温有关的死亡人数多达5258例，创该局自2016年开始发布年度高温死亡报告以来的最高纪录。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T12:05:42+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/england-heat-deaths-hit-record-c20061",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -258,24 +574,6 @@
         "德国之声"
       ],
       "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "shen-xiangyang-ai-data-verification-f6e76c",
-      "title": "沈向洋称AI落地仍受数据和验证制约",
-      "description": "第六届IDEA大会11月24日举行，沈向洋等科研人士讨论人工智能在数学与编程上的进展，以及具身智能进入现实环境和AI生成结果如何验证等问题。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T11:56:41.097705+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/shen-xiangyang-ai-data-verification-f6e76c",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "ai",
       "sourceCount": 1,
       "sources": []
     },
@@ -353,6 +651,24 @@
         "中央通訊社"
       ],
       "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "russia-claims-downing-699-ukrainian-drones-b5c411",
+      "title": "俄国防部称防空部队一夜摧毁699架乌无人机",
+      "description": "俄罗斯国防部称，俄防空部队夜间拦截并摧毁了699架乌克兰无人机。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T11:33:47+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/russia-claims-downing-699-ukrainian-drones-b5c411",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -443,6 +759,24 @@
         "联合早报"
       ],
       "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "magyar-transcarpathia-visit-zelensky-meeting-59498c",
+      "title": "匈牙利总理马格雅将赴外喀尔巴阡会晤泽连斯基",
+      "description": "匈牙利总理马格雅表示，今天将前往乌克兰外喀尔巴阡州，与总统泽连斯基会谈，并会见当地匈牙利裔社群领袖。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T11:05:38+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/magyar-transcarpathia-visit-zelensky-meeting-59498c",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -667,43 +1001,6 @@
       "sources": []
     },
     {
-      "id": "china-urges-eu-follow-wto-rules-hybrid-probe-5fee2b",
-      "title": "欧盟公布混动汽车临时进口配额上限",
-      "description": "欧盟委员会公布混合动力汽车全球保障措施初步裁定，宣布临时进口配额将于2026年12月1日至2027年6月18日实施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T10:42:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/china-urges-eu-follow-wto-rules-hybrid-probe-5fee2b",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "reuters-tsmc-texas-factory-tax-breaks-f161e9",
-      "title": "路透称台积电德州设厂承诺取决于房产税优惠",
-      "description": "路透社报道，台积电通过德州“就业、能源、科技与创新”（JETI）计划向德州主计长办公室申请，拟在布拉佐斯县投资226亿美元建设芯片制造设施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T10:35:23+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/reuters-tsmc-texas-factory-tax-breaks-f161e9",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-uk-sign-education-framework-agreement-54c9a7",
       "title": "中英教育部长签署全方位合作框架协议",
       "description": "11月24日，中英教育部长在时隔九年再次举行的部长磋商会上签署《关于加强教育领域合作的框架协议》。",
@@ -887,24 +1184,6 @@
         "公视"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "oxfam-report-israel-gaza-toxic-pollution-2916ff",
-      "title": "乐施会报告称以军行动污染加沙环境",
-      "description": "乐施会与冲突与环境观察组织11月23日发布报告，称以色列军事行动造成的污染已波及加沙地带空气、土壤和水体，重金属、爆炸物残留、废墟中的石棉及污水可能在未来数十年继续危害居民健康与生存。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T09:51:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/oxfam-report-israel-gaza-toxic-pollution-2916ff",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -1480,24 +1759,6 @@
       "sources": []
     },
     {
-      "id": "india-regulator-deems-bisleri-water-unsafe-917318",
-      "title": "路透社称印度监管机构认定Bisleri水样不安全",
-      "description": "据路透社报道，印度食品安全与标准局（FSSAI）11月22日认定，从Bisleri生产设施取得的一份瓶装水样品不符合安全标准。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T07:48:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/india-regulator-deems-bisleri-water-unsafe-917318",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "mexico-military-arrests-sinaloa-fbi-fugitive-meza-73180b",
       "title": "墨西哥特种部队逮捕毒枭梅萨交火造成11人死亡",
       "description": "墨西哥特种部队在美墨情报合作支持下，于11月20日在锡那罗亚州瓜萨韦市抓获毒枭福斯托·伊西德罗·梅萨及两名同伙。",
@@ -1910,24 +2171,6 @@
       "sources": []
     },
     {
-      "id": "bay-area-thanksgiving-flood-transport-risk-0346b1",
-      "title": "旧金山市府加紧防洪准备应对风暴大潮",
-      "description": "旧金山市长罗伟和市府部门11月23日公布防灾部署，准备应对11月24日至25日风暴与异常高潮位带来的沿岸和街道淹水风险。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T06:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/bay-area-thanksgiving-flood-transport-risk-0346b1",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
       "id": "tajikistan-notifies-un-icc-exit-27c970",
       "title": "日经称塔吉克斯坦政府通知联合国退出国际刑事法院",
       "description": "据日经报道，塔吉克斯坦政府11月20日通知联合国，将退出国际刑事法院（ICC）；退出生效日为2027年11月20日。",
@@ -2193,27 +2436,6 @@
       "sources": []
     },
     {
-      "id": "zelensky-claims-ukraine-sinks-russian-frigate-de5838",
-      "title": "乌克兰证实无人艇在利比亚外海击沉俄护卫舰",
-      "description": "乌克兰总统泽连斯基11月23日公布乌克兰国家安全局拍摄的视频，证实乌方在利比亚附近动用7艘乌克兰制造的海上无人艇，袭击俄罗斯护卫舰“水星号”和干货船“安加拉号”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T05:21:33+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/zelensky-claims-ukraine-sinks-russian-frigate-de5838",
-      "reference": [
-        "联合早报",
-        "法广",
-        "日经",
-        "日本放送协会"
-      ],
-      "section": "world",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "fujian-plans-taiwan-strait-monitoring-system-f7d2ac",
       "title": "公视称福建拟将台海纳入全域观测体系",
       "description": "据公视报道，福建省近期拟将台湾海峡纳入海洋观测规划，串联太空、空域、陆地、海面和海底，建设全域一体化观监测体系及海底观测网。",
@@ -2269,43 +2491,6 @@
       ],
       "section": "china",
       "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "malaysiakini-sultan-ibrahim-najib-home-detention-e9ec17",
-      "title": "马来西亚总检察署重申反对审核纳吉居家服刑决定",
-      "description": "马来西亚总检察署重申反对马来西亚律师公会提出的司法审核申请，称国家元首行使特赦权作出的决定不属于法院可审理的事项。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T04:52:32+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/malaysiakini-sultan-ibrahim-najib-home-detention-e9ec17",
-      "reference": [
-        "当今大马",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
-      "id": "nepal-detains-japanese-chinese-scam-suspects-e487c9",
-      "title": "尼泊尔执法人员拘押40名涉嫌电信诈骗的日本和中国人",
-      "description": "尼泊尔当地部门通报，执法人员于11月18日在加德满都周边一处山坳度假酒店拘押40人，分别为35名日本人和5名中国人。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T04:47:40+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/nepal-detains-japanese-chinese-scam-suspects-e487c9",
-      "reference": [
-        "日本放送协会"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2591,24 +2776,6 @@
       "sources": []
     },
     {
-      "id": "uk-allies-back-myanmar-genocide-ruling-03afa1",
-      "title": "英国等14国认可国际法院缅甸种族灭绝裁决",
-      "description": "英国、澳大利亚等14国外交部长11月23日发表联合声明，认可国际法院关于缅甸在2017年若开邦镇压行动中对罗兴亚人实施种族灭绝的裁决。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T02:53:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/uk-allies-back-myanmar-genocide-ruling-03afa1",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-consumer-groups-warn-medical-overtreatment-91d50b",
       "title": "中消协等提示警惕口腔生殖诊疗诱导消费",
       "description": "中国消费者协会与中国市场监督管理学会11月24日发布消费提示，提醒消费者留意口腔和生殖健康诊疗中的诱导消费与过度医疗。",
@@ -2623,24 +2790,6 @@
         "澎湃新闻"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "chen-zhigang-explains-tax-treaty-benefits-52c82f",
-      "title": "陈志刚详解企业出海如何用好税收协定",
-      "description": "深圳大学经济学院副教授陈志刚在第一财经报道中表示，中国企业开展跨境业务不会自动获得税收协定优惠，须按投资所在经济体的规定申请。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T02:44:57.522404+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/chen-zhigang-explains-tax-treaty-benefits-52c82f",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -2720,24 +2869,6 @@
       "sources": []
     },
     {
-      "id": "south-korea-consumer-sentiment-index-falls-635591",
-      "title": "韩国消费者心理指数连续两月下滑至七个月低点",
-      "description": "韩国银行24日公布的11月调查显示，消费者心理指数为103.1，较上月回落2.3点，连续第二个月下降，并降至当年4月以来最低水平；指数仍高于长期平均值100。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T01:58:14+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/south-korea-consumer-sentiment-index-falls-635591",
-      "reference": [
-        "韩国国际广播电台"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "us-banks-restrict-ai-agent-access-8933a4",
       "title": "据报美国银行收紧AI代理权限防范失控",
       "description": "据路透社报道，美国多家大型和中型银行正在收紧内部人工智能（AI）代理人的权限，限制其接触关键系统，以防代理人失控。",
@@ -2753,24 +2884,6 @@
       ],
       "section": "ai",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-monitors-chinese-military-aircraft-ships-ea9e6f",
-      "title": "台湾通报3架次中国大陆军机越中线并侦获9艘军舰",
-      "description": "台湾国防部称，在11月23日上午6时至24日上午6时的统计时段内，侦获9艘中国人民解放军军舰，并发现3架次军机越过台湾海峡中线；相关军机活动涉及台湾西南部及东部空域。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T01:19:07+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/taiwan-monitors-chinese-military-aircraft-ships-ea9e6f",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2806,24 +2919,6 @@
         "联合早报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "korea-france-vietnam-win-vietnam-rail-design-753bc5",
-      "title": "韩法越联合体中标越南南北高铁设计项目",
-      "description": "越南南北高速铁路前期设计服务由韩法越企业组成的联合体中标，韩国企业此前已参与该项目线路规划。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T00:57:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/korea-france-vietnam-win-vietnam-rail-design-753bc5",
-      "reference": [
-        "朝鲜日报"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -3009,24 +3104,6 @@
         "日经"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-election-polls-undecided-rate-debate-c7a915",
-      "title": "台湾地方选举民调未表态率偏高引来可靠性争论",
-      "description": "台湾2026年“九合一”地方选举民调中，不表态受访者比例异常偏高。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T21:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/taiwan-election-polls-undecided-rate-debate-c7a915",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -3381,24 +3458,6 @@
       "sources": []
     },
     {
-      "id": "babysheep-fined-over-menstrual-ad-f35b3f",
-      "title": "丰瑞公司因babysheep安睡裤广告被罚45万元",
-      "description": "泉州市丰瑞卫生用品有限公司因推广babysheep安睡裤的广告违背社会良好风尚，被泉州市丰泽区市场监督管理局责令停止发布，并罚款45万元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T11:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/babysheep-fined-over-menstrual-ad-f35b3f",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "daraxonrasib-chemo-controls-advanced-pancreatic-cancer-687c12",
       "title": "早期试验显示新药联合化疗抑制晚期胰腺癌",
       "description": "一项第一/二期临床试验显示，靶向药daraxonrasib联合化疗对晚期胰腺癌患者呈现较强的肿瘤控制效果。",
@@ -3505,24 +3564,6 @@
         "当今大马"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "snow-holidays-boost-family-ski-travel-dae9d1",
-      "title": "多地中小学生雪假带动亲子冰雪游增长",
-      "description": "多地中小学生陆续迎来“雪假”，亲子家庭成为冰雪旅游的重要客源，滑雪、住宿等消费随之增加。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T09:32:38.525104+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/snow-holidays-boost-family-ski-travel-dae9d1",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -4432,24 +4473,6 @@
         "公视"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "germany-austria-tiktok-europe-sale-local-buyers-79dff2",
-      "title": "德国奥地利提议TikTok欧洲业务售予本地买家",
-      "description": "德国和奥地利政府提议TikTok将欧洲业务出售给当地买家，以降低其与中国关联带来的风险。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-19T05:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/germany-austria-tiktok-europe-sale-local-buyers-79dff2",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
