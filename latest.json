@@ -1,19 +1,37 @@
 {
   "details": {
     "date": "2026-11-24",
-    "timestamp": 1795508936,
+    "timestamp": 1795512818,
     "totalPages": 1,
     "total": 268
   },
   "stories": [
     {
-      "id": "trump-urges-nvidia-board-rehire-huang-19816a",
-      "title": "英伟达董事会一致同意黄仁勋即日起复任",
-      "description": "英伟达11月23日宣布，董事会一致通过黄仁勋即日起恢复总裁、首席执行官和董事职务。",
+      "id": "china-disease-control-urges-flu-vaccination-edcf1b",
+      "title": "国家疾控局呼吁公众及时接种流感疫苗",
+      "description": "国家疾控局新闻发言人、综合司副司长席晶晶在11月24日举行的例行新闻发布会上说，流感等急性呼吸道传染病已进入流行期；登革热、基孔肯雅热仍有境外输入风险，诺如病毒感染等肠道传染病也需防范在重点场所聚集发生。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-24T07:35:42+00:00",
+      "updatedAt": "2026-11-24T08:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/china-disease-control-urges-flu-vaccination-edcf1b",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-urges-nvidia-board-rehire-huang-19816a",
+      "title": "英伟达董事会一致通过黄仁勋复职",
+      "description": "英伟达董事会于11月23日一致通过恢复黄仁勋的总裁、首席执行官及董事职务，决定即刻生效。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T07:45:58+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-23",
       "url": "https://kaopu.news/story/2026-11-23/trump-urges-nvidia-board-rehire-huang-19816a",
@@ -24,13 +42,132 @@
         "中央通訊社"
       ],
       "section": "us",
-      "sourceCount": 122,
+      "sourceCount": 124,
+      "sources": []
+    },
+    {
+      "id": "mexico-military-arrests-sinaloa-fbi-fugitive-meza-73180b",
+      "title": "墨西哥特种部队逮捕毒枭梅萨交火造成11人死亡",
+      "description": "墨西哥特种部队在美墨情报合作支持下，于11月20日在锡那罗亚州瓜萨韦市抓获毒枭福斯托·伊西德罗·梅萨及两名同伙。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T07:45:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/mexico-military-arrests-sinaloa-fbi-fugitive-meza-73180b",
+      "reference": [
+        "联合早报",
+        "澎湃新闻",
+        "世界日报",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "chiu-warns-xi-fourth-term-taiwan-pressure-090cbf",
+      "title": "邱垂正警告习近平第四任期将对台推行未统先治",
+      "description": "台湾陆委会主委邱垂正11月24日在台北海洋大学一场讨论印太战略、全球南方及美中竞合对台湾影响的研讨会上表示，习近平第四任期对台施压可能采取更具侵略性的“未统先治”方式，并可能直接改变现状，使两岸管辖权争议加深。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T07:44:14+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/chiu-warns-xi-fourth-term-taiwan-pressure-090cbf",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "jinxiu-police-arrest-12-illegal-bird-hunting-suspects-69e1be",
+      "title": "广西启动野生鸟类交易专项排查整治",
+      "description": "广西壮族自治区市场监管局已部署全区开展野生鸟类非法交易排查整治，行动自11月23日起，为期三个多月。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T07:43:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/jinxiu-police-arrest-12-illegal-bird-hunting-suspects-69e1be",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "us-gasoline-prices-fall-below-four-dollars-36a98b",
+      "title": "中国大陆成品油第23轮调价预计下调",
+      "description": "中国大陆成品油零售价格在11月26日24时开启的2026年第23轮调价窗口预计下调。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T07:39:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/us-gasoline-prices-fall-below-four-dollars-36a98b",
+      "reference": [
+        "世界日报",
+        "中央通訊社",
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "trump-says-china-to-buy-250-boeing-jets-5d0eb5",
+      "title": "特朗普称中国将再购250架波音飞机",
+      "description": "美国总统特朗普11月23日接受美国财经媒体CNBC采访时表示，他认为中国会再购买250架波音飞机，并称自己会继续推销。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T07:26:05+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/trump-says-china-to-buy-250-boeing-jets-5d0eb5",
+      "reference": [
+        "联合早报",
+        "世界日报",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "huang-agrees-senate-banking-testimony-d2fe34",
+      "title": "美国国会安排黄仁勋接受闭门问询和公开作证",
+      "description": "美国国会已安排英伟达首席执行官黄仁勋接受两场问询：他将于12月1日在众议院闭门接受询问，并于12月3日出席参议院公开听证会作证。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T07:20:53+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/huang-agrees-senate-banking-testimony-d2fe34",
+      "reference": [
+        "中央通訊社",
+        "世界日报",
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 7,
       "sources": []
     },
     {
       "id": "south-korea-kospi-gains-seven-percent-a8cc66",
-      "title": "黄仁勋回归提振日韩股市大幅反弹",
-      "description": "11月24日，日韩股市大幅反弹。",
+      "title": "黄仁勋重返英伟达提振日韩股市收高",
+      "description": "日韩股市11月24日大幅收高。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -45,7 +182,7 @@
         "第一财经"
       ],
       "section": "asia",
-      "sourceCount": 8,
+      "sourceCount": 10,
       "sources": []
     },
     {
@@ -65,6 +202,42 @@
       ],
       "section": "life",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "huangpu-police-arrest-ai-bill-fraud-suspects-83f4a1",
+      "title": "黄浦警方抓获15名AI伪造和平饭店账单涉案人员",
+      "description": "上海市公安局黄浦分局查明，一家互联网酒类销售公司的负责人赵某某为吸引流量、增加酒类销量，借助AI制作并传播和平饭店“51万元酒水账单”假图。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T07:09:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/huangpu-police-arrest-ai-bill-fraud-suspects-83f4a1",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "korea-school-exam-smart-device-zero-scores-339c76",
+      "title": "韩国规定校内考试携带智能设备者当日成绩归零",
+      "description": "韩国代教育部长崔恩玉11月24日在国务会议上公布初高中校内考试防作弊新规。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T07:08:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/korea-school-exam-smart-device-zero-scores-339c76",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -89,6 +262,60 @@
       "sources": []
     },
     {
+      "id": "jewish-settlers-attack-west-bank-villages-burn-cars-87e83a",
+      "title": "犹太人定居者袭击西岸村庄并纵火焚车",
+      "description": "当地时间11月22日凌晨，约旦河西岸数个巴勒斯坦村落遭犹太人定居者袭击。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T07:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/jewish-settlers-attack-west-bank-villages-burn-cars-87e83a",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "hegseth-withholds-patriot-transfer-approval-a9fba2",
+      "title": "金融时报称赫格塞斯未批约60枚爱国者导弹交乌克兰",
+      "description": "赫格塞斯尚未批准向乌克兰移交约60枚美国此前同意提供的爱国者防空拦截导弹。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T07:02:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/hegseth-withholds-patriot-transfer-approval-a9fba2",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-issues-infant-food-licensing-rules-1e348f",
+      "title": "市场监管总局发布婴幼儿辅食生产许可新规",
+      "description": "国家市场监督管理总局11月23日公布《婴幼儿辅助食品生产许可审查细则（2026版）》，规定文件自发布之日起施行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T07:01:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/china-issues-infant-food-licensing-rules-1e348f",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "fifa-confirms-hosts-2031-2035-womens-world-cups-e4a5f3",
       "title": "国际足联确认四国合办2031年女足世界杯",
       "description": "国际足联11月23日在线上特别大会确认，美国、墨西哥、哥斯达黎加和牙买加将合办2031年女足世界杯，赛事将首次由四国共同主办。",
@@ -105,6 +332,60 @@
       ],
       "section": "sports",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "japan-births-fall-january-september-1896f5",
+      "title": "日本前三季度出生人数同比下降0.3%",
+      "description": "日本厚生劳动省11月24日公布的人口动态统计初值显示，2026年1月至9月，日本出生人数合计52.3304万人，统计范围包括外国人。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T06:47:38+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/japan-births-fall-january-september-1896f5",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-education-ministry-extends-teacher-maternity-leave-9c1cad",
+      "title": "台湾教育部修订教师请假规则产假延至72天",
+      "description": "台湾教育部于2026年11月20日公布修订后的《教师请假规则》，教师产假由42日延长至72日，陪产检及陪产假由7日增至14日。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T06:44:15+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/taiwan-education-ministry-extends-teacher-maternity-leave-9c1cad",
+      "reference": [
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "singapore-raises-growth-forecast-six-percent-3b9c6b",
+      "title": "新加坡上调今年经济增长预测至约6%",
+      "description": "新加坡能源贸易及工业部11月24日将2026年国内生产总值增长预测从4.5%至5.5%调高至约6%，并预计2027年增长2.5%至4.5%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T06:39:17+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/singapore-raises-growth-forecast-six-percent-3b9c6b",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -631,24 +912,6 @@
       "sources": []
     },
     {
-      "id": "chiu-warns-xi-fourth-term-taiwan-pressure-090cbf",
-      "title": "邱垂正警告习近平第四任期对台施压更具侵略性",
-      "description": "台湾陆委会主任委员邱垂正11月24日在台北海洋大学举办的研讨会上，以“两岸关系的现在与未来”为题演讲。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T05:27:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/chiu-warns-xi-fourth-term-taiwan-pressure-090cbf",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "zelensky-claims-ukraine-sinks-russian-frigate-de5838",
       "title": "乌克兰证实无人艇在利比亚外海击沉俄护卫舰",
       "description": "乌克兰总统泽连斯基11月23日公布乌克兰国家安全局拍摄的视频，证实乌方在利比亚附近动用7艘乌克兰制造的海上无人艇，袭击俄罗斯护卫舰“水星号”和干货船“安加拉号”。",
@@ -725,25 +988,6 @@
       ],
       "section": "china",
       "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "trump-says-china-to-buy-250-boeing-jets-5d0eb5",
-      "title": "特朗普预计中国再购250架波音飞机",
-      "description": "特朗普11月23日接受美国消费者新闻与商业频道（CNBC）采访时称，他预计中国还会购买250架波音飞机。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T04:53:51+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/trump-says-china-to-buy-250-boeing-jets-5d0eb5",
-      "reference": [
-        "联合早报",
-        "世界日报"
-      ],
-      "section": "china",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -1746,46 +1990,6 @@
       "sources": []
     },
     {
-      "id": "huang-agrees-senate-banking-testimony-d2fe34",
-      "title": "黄仁勋将出席参议院公开听证会作证",
-      "description": "英伟达前首席执行官黄仁勋将于当地时间12月3日10时出席美国参议院银行、住房和城市事务委员会公开听证会并作证。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T22:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/huang-agrees-senate-banking-testimony-d2fe34",
-      "reference": [
-        "中央通訊社",
-        "世界日报",
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "ai",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
-      "id": "us-gasoline-prices-fall-below-four-dollars-36a98b",
-      "title": "供应过剩预期推动国际油价大幅下跌",
-      "description": "国际原油期货价格11月23日大幅下跌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T21:41:08+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/us-gasoline-prices-fall-below-four-dollars-36a98b",
-      "reference": [
-        "世界日报",
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "iran-speaker-says-military-means-break-us-blockade-eeea71",
       "title": "伊朗议长称伊朗有军事手段打破美国封锁",
       "description": "伊朗伊斯兰议会议长卡利巴夫当地时间11月23日称，伊朗有军事手段打破美国封锁，必要时近期将采取行动。",
@@ -1888,24 +2092,6 @@
       "url": "https://kaopu.news/story/2026-11-23/eu-proposes-22nd-russia-sanctions-plan-928855",
       "reference": [
         "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "greer-says-us-canada-trade-talks-progress-582856",
-      "title": "格里尔称美加贸易谈判正取得积极进展",
-      "description": "美国最高贸易谈判代表贾米森·格里尔表示，美加贸易协议磋商进展良好。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T18:18:04.195000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/greer-says-us-canada-trade-talks-progress-582856",
-      "reference": [
-        "加拿大国际广播电台"
       ],
       "section": "world",
       "sourceCount": 1,
@@ -2131,25 +2317,6 @@
       "sources": []
     },
     {
-      "id": "germany-schools-bomb-threat-emails-ee6f63",
-      "title": "德国数百所学校收到炸弹威胁邮件",
-      "description": "德国数百所学校11月23日收到炸弹威胁邮件，部分学校疏散师生。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T13:51:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/germany-schools-bomb-threat-emails-ee6f63",
-      "reference": [
-        "法广",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "jensen-huang-couple-control-nvidia-shares-df0a9d",
       "title": "华尔街日报披露黄仁勋夫妇掌控逾8.7亿股辉达",
       "description": "《华尔街日报》披露，美国证券交易委员会申报文件显示，黄仁勋与妻子洛莉直接或间接持有并控制辉达约3.6%的股份，合计超过8.7亿股，按近期市值计算超过1090亿美元。",
@@ -2296,24 +2463,6 @@
       ],
       "section": "us",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "insurers-raise-stock-allocation-third-quarter-085d51",
-      "title": "三季度险资逆势增配股票占比升至10.56%",
-      "description": "金融监管总局公布的数据显示，2026年第三季度末，保险行业资金运用余额为41.64万亿元，较年初增加8.2%，较二季度末增长1.99%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T13:15:38.330547+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/insurers-raise-stock-allocation-third-quarter-085d51",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2683,24 +2832,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-customs-finds-us-export-labeling-violations-963dd6",
-      "title": "关务署查获468起输美货品产地违规案",
-      "description": "台湾财政部关务署公布输美货品产地标示查核结果。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T11:22:42+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/taiwan-customs-finds-us-export-labeling-violations-963dd6",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "chaoyang-police-probe-hengchang-qin-hongtao-e0e94e",
       "title": "朝阳警方对恒昌系相关公司立案侦查",
       "description": "北京市公安局朝阳分局已对“恒昌系”相关公司涉嫌违法犯罪立案侦查，并对实控人秦洪涛等多名嫌疑人依法采取刑事强制措施。",
@@ -2717,42 +2848,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "rakuten-securities-accounts-data-leak-bde84d",
-      "title": "乐天证券1572万个账户信息可能外泄",
-      "description": "乐天证券约1572万个账户的信息可能外泄。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T11:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/rakuten-securities-accounts-data-leak-bde84d",
-      "reference": [
-        "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "appeals-court-rules-rallies-need-no-city-approval-74f895",
-      "title": "上诉庭裁定公共空间集会无需地方政府批准",
-      "description": "上诉庭裁定，民众依据《和平集会法令》在地方政府管辖的公共空间举行集会，无须事先取得地方政府同意。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T10:31:28+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/appeals-court-rules-rallies-need-no-city-approval-74f895",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3167,25 +3262,6 @@
       "sources": []
     },
     {
-      "id": "jinxiu-police-arrest-12-illegal-bird-hunting-suspects-69e1be",
-      "title": "广西多地打击非法捕鸟柳州立案33起",
-      "description": "广西多地近日开展打击非法猎捕、贩卖和食用野生鸟类的行动。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T06:48:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/jinxiu-police-arrest-12-illegal-bird-hunting-suspects-69e1be",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "china-navy-showcases-ships-aircraft-zhuhai-airshow-4851d6",
       "title": "中国海军将携多型舰机亮相珠海航展",
       "description": "中国海军将于12月7日至13日参加在广东珠海举行的第十六届中国国际航空航天博览会，展示舰艇、舰载航空装备和无人装备。",
@@ -3241,24 +3317,6 @@
       "sources": []
     },
     {
-      "id": "americans-use-credit-buy-food-debt-cycle-cd5868",
-      "title": "美国消费者举债买菜陷入还款循环",
-      "description": "美国食品杂货价格较2020年上涨32%，消费者转向折扣超市，也越来越多地通过信用卡或“先买后付”（BNPL）购买食品；一些人因而陷入偿还旧账后无力购买下一顿食物的循环。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T06:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/americans-use-credit-buy-food-debt-cycle-cd5868",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "us-officials-report-no-cyberattack-evidence-f1a77d",
       "title": "美国情报总监警告系统升级将带来更多故障",
       "description": "美国国家情报总监杰伊·克莱顿11月22日表示，政府机构和企业更新老旧系统期间，故障、服务暂时中断和空窗难以避免，民众应做好还会出现更多科技服务中断的准备。",
@@ -3277,24 +3335,6 @@
       ],
       "section": "us",
       "sourceCount": 13,
-      "sources": []
-    },
-    {
-      "id": "mta-plans-nyc-subway-signal-upgrade-3f2959",
-      "title": "MTA计划2050年前完成纽约地铁信号升级",
-      "description": "大都会运输署（MTA）近日公布首份覆盖全系统的地铁信号现代化路线图，计划在2050年前分阶段改造纽约市地铁全长763英里的信号设施，全部更换为通信式列车控制系统（CBTC）。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T06:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/mta-plans-nyc-subway-signal-upgrade-3f2959",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3625,27 +3665,6 @@
       ],
       "section": "ai",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "fcc-bars-china-carriers-us-phone-numbers-53ee95",
-      "title": "美国FCC拟限制中国三大运营商获取美号码",
-      "description": "美国联邦通信委员会（FCC）于美东时间2026年11月19日投票通过一项拟议规则，计划限制列入其“覆盖清单”的中国电信、中国移动和中国联通直接获取美国电话号码资源。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T00:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/fcc-bars-china-carriers-us-phone-numbers-53ee95",
-      "reference": [
-        "联合早报",
-        "澎湃新闻",
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "china",
-      "sourceCount": 7,
       "sources": []
     },
     {
@@ -4947,24 +4966,6 @@
       ],
       "section": "sports",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "china-football-clubs-financial-review-rules-016397",
-      "title": "中足联发布职业联赛俱乐部财务审核细则",
-      "description": "中足联公布《中国足球职业联赛俱乐部财务健康审核实施细则（试行）》，将于2027年1月1日起施行，适用于中超、中甲、中乙参赛俱乐部及申请联赛准入的俱乐部。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-10T06:39:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-10",
-      "url": "https://kaopu.news/story/2026-11-10/china-football-clubs-financial-review-rules-016397",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "sports",
-      "sourceCount": 1,
       "sources": []
     }
   ]
