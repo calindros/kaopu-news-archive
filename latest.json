@@ -1,11 +1,296 @@
 {
   "details": {
     "date": "2026-11-25",
-    "timestamp": 1795570169,
+    "timestamp": 1795578305,
     "totalPages": 1,
-    "total": 273
+    "total": 271
   },
   "stories": [
+    {
+      "id": "china-automakers-europe-registrations-rise-71-percent-389681",
+      "title": "欧洲10月纯电动汽车销量同比增长56%",
+      "description": "欧洲汽车制造商协会（ACEA）11月24日公布，欧洲主要31国10月纯电动汽车销量同比增长56%，达到350,206辆，连续第22个月上升；新车总销量增长3%，达到1,128,252辆。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T02:20:03+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/china-automakers-europe-registrations-rise-71-percent-389681",
+      "reference": [
+        "联合早报",
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "xiamen-airlines-orders-50-boeing-737-8-34a2b5",
+      "title": "厦门航空订购50架波音737-8客机",
+      "description": "厦门航空订购50架波音737-8客机，中国南方航空于11月24日披露该订单。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T02:12:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/xiamen-airlines-orders-50-boeing-737-8-34a2b5",
+      "reference": [
+        "联合早报",
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "lawrence-wong-australia-leadership-meeting-5cad08",
+      "title": "黄循财与阿尔巴尼斯推动新澳合作升级",
+      "description": "新加坡总理黄循财与澳大利亚总理阿尔巴尼斯11月24日在堪培拉共同主持第11届新澳领导人会议，宣布扩大关键物资合作，并推进人工智能、碳捕集与封存及低排放创新领域的合作。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T02:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/lawrence-wong-australia-leadership-meeting-5cad08",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "huang-nvidia-open-weight-ai-debate-efacb8",
+      "title": "黄仁勋重返英伟达董事会令开放权重之争聚焦华府",
+      "description": "黄仁勋于11月23日重返英伟达董事会之际，开放权重人工智能模型的商业前景、安全风险及美中竞争成为美国政府与硅谷争论的焦点。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T02:02:03+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/huang-nvidia-open-weight-ai-debate-efacb8",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-urges-nvidia-board-rehire-huang-19816a",
+      "title": "英伟达董事会一致恢复黄仁勋三项职务",
+      "description": "英伟达董事会一致同意恢复黄仁勋的总裁、首席执行官和董事职务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T02:00:40.854697+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/trump-urges-nvidia-board-rehire-huang-19816a",
+      "reference": [
+        "中央通訊社",
+        "世界日报",
+        "联合早报",
+        "德国之声"
+      ],
+      "section": "us",
+      "sourceCount": 171,
+      "sources": []
+    },
+    {
+      "id": "ohare-radar-failure-delays-flights-3b119b",
+      "title": "奥黑尔机场地面雷达故障致约350航班延误",
+      "description": "11月24日，美国联邦航空管理局称，芝加哥奥黑尔国际机场地面雷达系统出现故障，技术人员正在维修一台空中交通管制设备。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T01:52:14+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/ohare-radar-failure-delays-flights-3b119b",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "世界日报"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "ftc-shein-consumer-misleading-100-million-settlement-ac2465",
+      "title": "希音同意支付1亿美元与美国联邦贸易委员会和解",
+      "description": "希音同意支付1亿美元，与美国联邦贸易委员会（FTC）就误导消费者指控达成和解。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T01:47:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/ftc-shein-consumer-misleading-100-million-settlement-ac2465",
+      "reference": [
+        "中央通訊社",
+        "世界日报",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "liu-guoguang-economist-dies-age-103-9d7a44",
+      "title": "著名经济学家刘国光逝世，享年103岁",
+      "description": "著名经济学家刘国光于2026年11月21日去世，终年103岁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T01:44:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/liu-guoguang-economist-dies-age-103-9d7a44",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-urges-eu-follow-wto-rules-hybrid-probe-5fee2b",
+      "title": "欧盟宣布对混合动力汽车实施临时进口配额",
+      "description": "欧盟委员会11月24日公布混合动力汽车全球保障措施初步裁定，宣布自12月1日至2027年6月18日，对从欧盟以外（列支敦士登、冰岛、挪威、乌克兰、肯尼亚及部分发展中国家除外）进口的混合动力及插电式混合动力汽车实施临时限制，并按来源国和地区设定配额。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T01:42:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/china-urges-eu-follow-wto-rules-hybrid-probe-5fee2b",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "德国之声",
+        "日经"
+      ],
+      "section": "china",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "taiwan-monitors-chinese-military-aircraft-ships-ea9e6f",
+      "title": "台湾国防部通报9艘军舰及1架中国人民解放军军机",
+      "description": "台湾国防部通报，11月24日上午6时至25日上午6时，侦测到9艘中国人民解放军军舰及1架军机活动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T01:38:11+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/taiwan-monitors-chinese-military-aircraft-ships-ea9e6f",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "korea-school-exam-smart-device-zero-scores-339c76",
+      "title": "韩国政府将加重校内考试智能设备作弊处罚",
+      "description": "韩国政府提出加强初高中校内考试防作弊措施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T01:37:08+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/korea-school-exam-smart-device-zero-scores-339c76",
+      "reference": [
+        "联合早报",
+        "韩民族日报"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "new-york-jury-finds-huawei-subsidiaries-guilty-2b9be5",
+      "title": "美国陪审团裁定华为十二项刑事指控中十项成立",
+      "description": "纽约东区联邦法院陪审团裁定，华为及其三家子公司所涉12项刑事指控中，10项成立、2项不成立。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T01:33:38+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/new-york-jury-finds-huawei-subsidiaries-guilty-2b9be5",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "first-finance-counts-robotics-firm-failures-98cd8a",
+      "title": "第一财经统计至少29家机器人公司破产、解散或停运",
+      "description": "第一财经梳理IT桔子、企查查信息称，2025年以来至少29家机器人企业破产、解散或停止运营，盈合机器人、达闼机器人、智橙动力等曾获资本关注的公司也在其中。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T01:31:39.874410+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/first-finance-counts-robotics-firm-failures-98cd8a",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-stocks-fall-below-40000-401faf",
+      "title": "台股早盘重挫逾两千点跌破四万点关口",
+      "description": "台湾股市早盘大幅下跌，加权指数一度跌至38061.05点，较前一交易日下跌2061.3点，跌破4万点及约39554点的年线。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T01:27:06+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/taiwan-stocks-fall-below-40000-401faf",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "alibaba-uses-homegrown-chips-ease-export-curbs-2922f0",
+      "title": "阿里巴巴启用自研芯片降低出口管制影响",
+      "description": "阿里巴巴集团已在下一代千问模型研发中使用自主设计的AI芯片，以减轻美国政府收紧相关芯片出口管制带来的影响。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T01:20:04+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/alibaba-uses-homegrown-chips-ease-export-curbs-2922f0",
+      "reference": [
+        "日经"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "thailand-plans-ban-rare-earth-mining-chemicals-3b2442",
       "title": "泰国请求中国协助缅甸矿场停产至少半年",
@@ -43,6 +328,67 @@
       ],
       "section": "us",
       "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "ministry-worker-espionage-death-sentence-bff95f",
+      "title": "中国部委干部泄露百余项情报被判死刑",
+      "description": "中国国家保密局旗下微信公众号“保密观”近日披露，一名曾在中央部委任职的麻姓干部因向B国情报机构提供国家秘密，被法院以间谍罪判处死刑，并被剥夺政治权利终身、没收个人全部财产。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T01:07:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/ministry-worker-espionage-death-sentence-bff95f",
+      "reference": [
+        "澎湃新闻",
+        "联合早报",
+        "中央通訊社",
+        "朝鲜日报"
+      ],
+      "section": "china",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "wsj-us-subsidy-probe-results-83a04c",
+      "title": "美据报拟公布16个贸易对象过剩产能关税方案",
+      "description": "据《华尔街日报》援引多名知情人士报道，美国贸易代表办公室计划公布针对中国、韩国、日本、欧盟等16个贸易对象制造业产能过剩问题的调查结果，并提出关税方案。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T01:07:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/wsj-us-subsidy-probe-results-83a04c",
+      "reference": [
+        "中央通訊社",
+        "朝鲜日报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "russian-planes-enter-korea-air-defense-zone-27672a",
+      "title": "俄军机逼近郁陵岛触发韩国警戒警报",
+      "description": "俄罗斯空军两架Tu-160战略轰炸机和两架Su-35战斗机11月24日上午进入韩国防空识别区，向郁陵岛方向南下。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T01:06:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/russian-planes-enter-korea-air-defense-zone-27672a",
+      "reference": [
+        "朝鲜日报",
+        "联合早报",
+        "法广",
+        "韩国国际广播电台"
+      ],
+      "section": "world",
+      "sourceCount": 8,
       "sources": []
     },
     {
@@ -165,48 +511,6 @@
       "sources": []
     },
     {
-      "id": "russian-planes-enter-korea-air-defense-zone-27672a",
-      "title": "韩国召见俄防务武官抗议军机逼近郁陵岛",
-      "description": "俄罗斯数架军机11月24日上午进入韩国东海防空识别区并向南接近郁陵岛。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T00:26:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/russian-planes-enter-korea-air-defense-zone-27672a",
-      "reference": [
-        "朝鲜日报",
-        "联合早报",
-        "法广",
-        "韩国国际广播电台"
-      ],
-      "section": "world",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "trump-urges-nvidia-board-rehire-huang-19816a",
-      "title": "黄仁勋复职后首次员工大会承认违规并道歉",
-      "description": "英伟达首席执行官黄仁勋复职后，11月24日在加州圣克拉拉总部召开首次全体员工大会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T00:24:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/trump-urges-nvidia-board-rehire-huang-19816a",
-      "reference": [
-        "联合早报",
-        "德国之声",
-        "世界日报",
-        "中央通訊社"
-      ],
-      "section": "us",
-      "sourceCount": 156,
-      "sources": []
-    },
-    {
       "id": "dr-congo-suspends-cobalt-exports-review-baab74",
       "title": "刚果（金）宣布暂停全部钴出口至四个月后复审",
       "description": "刚果（金）战略矿产市场监管与控制局（ARECOMS）11月23日宣布，自11月30日起暂停所有钴出口，并在四个月后重新评估暂停措施。",
@@ -222,25 +526,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ohare-radar-failure-delays-flights-3b119b",
-      "title": "奥黑尔地面雷达故障致约350趟航班延误",
-      "description": "奥黑尔部分跑道的地面监视雷达故障，无法正常工作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T00:12:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/ohare-radar-failure-delays-flights-3b119b",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -451,25 +736,6 @@
       "sources": []
     },
     {
-      "id": "new-york-jury-finds-huawei-subsidiaries-guilty-2b9be5",
-      "title": "美国陪审团裁定华为12项指控中10项成立",
-      "description": "美国纽约东区联邦法院陪审团11月24日裁定，华为及其三家子公司面临的12项刑事指控中有10项成立；陪审团未认定其犯有串谋参与有组织犯罪罪和串谋妨碍司法公正罪。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T23:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/new-york-jury-finds-huawei-subsidiaries-guilty-2b9be5",
-      "reference": [
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "china-elderly-childcare-service-plan-89a6bf",
       "title": "四部门发布“一老一小”服务体系建设方案",
       "description": "国家发展改革委、民政部、国家卫生健康委和教育部11月23日公布联合印发的《“一老一小”服务体系建设实施方案》，为“十五五”时期养老和托育服务体系建设明确目标和举措。",
@@ -676,25 +942,6 @@
       "sources": []
     },
     {
-      "id": "ftc-shein-consumer-misleading-100-million-settlement-ac2465",
-      "title": "希音同意支付1亿美元和解美国FTC消费者误导案",
-      "description": "美国联邦贸易委员会（FTC）指控快时尚电商希音在配送时效、商品评价和部分产品棉花产地信息上误导美国消费者。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T20:45:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/ftc-shein-consumer-misleading-100-million-settlement-ac2465",
-      "reference": [
-        "中央通訊社",
-        "世界日报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "princeton-student-eva-xie-detained-ice-067bfb",
       "title": "普林斯顿博士生谢翌在机场遭ICE拘留",
       "description": "普林斯顿大学中国籍神经科学博士生谢翌（Eva Yi Xie）11月19日参加完神经科学学会年会后，在华盛顿雷根国家机场准备搭乘国内航班时，被美国移民与海关执法局（ICE）拘留。",
@@ -874,24 +1121,6 @@
         "世界日报"
       ],
       "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "wsj-us-subsidy-probe-results-83a04c",
-      "title": "华尔街日报称美拟公布多国补贴调查结果",
-      "description": "《华尔街日报》援引知情人士称，美国贸易代表贾米森·格里尔预计最快于本周公布一项历时数月的调查结果，审查中国、欧盟及另外14个经济体的产业补贴；公布时间仍可能调整。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T16:19:50+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/wsj-us-subsidy-probe-results-83a04c",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -1134,26 +1363,6 @@
       ],
       "section": "ai",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "china-urges-eu-follow-wto-rules-hybrid-probe-5fee2b",
-      "title": "欧盟公布混动汽车临时进口配额安排",
-      "description": "欧盟委员会11月24日公布对进口混合动力汽车实施临时保障配额的初步安排，措施定于2026年12月1日至2027年6月18日实施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T13:57:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/china-urges-eu-follow-wto-rules-hybrid-probe-5fee2b",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "德国之声"
-      ],
-      "section": "china",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -1490,24 +1699,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "lawrence-wong-australia-leadership-meeting-5cad08",
-      "title": "新澳领导人会晤敲定多领域合作安排",
-      "description": "新加坡总理黄循财与澳大利亚总理阿尔巴尼斯在堪培拉共同主持第11届新澳领导人会议，并公布扩大关键物资、人工智能和低排放合作等安排。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T12:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/lawrence-wong-australia-leadership-meeting-5cad08",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 5,
       "sources": []
     },
     {
@@ -1990,24 +2181,6 @@
       "sources": []
     },
     {
-      "id": "mercedes-pauses-germany-investment-closure-review-667247",
-      "title": "奔驰暂停德国工厂投资并称若成本结构不变将审视关厂",
-      "description": "梅赛德斯-奔驰近日宣布暂停对德国工厂的进一步投资。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T10:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/mercedes-pauses-germany-investment-closure-review-667247",
-      "reference": [
-        "德国之声"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "philippines-extends-china-visa-waiver-0754ec",
       "title": "菲律宾将中国公民14天免签政策延长一年",
       "description": "菲律宾外交部于2026年11月23日宣布，将面向持中国普通护照、赴菲旅游或商务的14天免签入境安排延长一年，期限至2028年1月15日。",
@@ -2188,61 +2361,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "singapore-raises-growth-forecast-six-percent-3b9c6b",
-      "title": "新加坡贸工部上调2026年经济增长预测至约6%",
-      "description": "新加坡贸工部将2026年经济增长预测从4.5%至5.5%上调至约6%，为该部门今年第三次上调预测。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T09:32:37+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/singapore-raises-growth-forecast-six-percent-3b9c6b",
-      "reference": [
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "basf-cylib-battery-recycling-sale-cda0e2",
-      "title": "巴斯夫拟将欧美电池回收业务售予cylib",
-      "description": "巴斯夫11月20日与德国电池回收企业cylib签署协议，计划转让其在欧洲和北美的电池回收业务，并将电池材料业务资源更多投向正极活性材料。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T09:31:58.633222+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/basf-cylib-battery-recycling-sale-cda0e2",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "developers-transfer-property-stakes-control-shifts-8af13b",
-      "title": "房企化债转让物企股权，多家公司控制权易主",
-      "description": "房企偿债和债务重组推动多家物业公司股权转让，宝龙地产对宝龙商业的持股降至约5.6%，建业新生活大股东则拟以股份偿还贷款；恒大物业和金科服务也先后出现新的控股安排。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T09:26:58.635131+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/developers-transfer-property-stakes-control-shifts-8af13b",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2505,24 +2623,6 @@
       "sources": []
     },
     {
-      "id": "china-automakers-europe-registrations-rise-71-percent-389681",
-      "title": "六家中国车企10月欧洲新车注册量同比增长逾七成",
-      "description": "欧洲汽车制造商协会11月24日公布的数据显示，比亚迪、奇瑞汽车、零跑汽车、小鹏汽车、上汽集团和吉利集团10月在欧洲共注册新车16万7259辆，同比增加71.3%；六家车企合计市场份额从上年同期的9%升至14.8%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T07:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/china-automakers-europe-registrations-rise-71-percent-389681",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "ni-yuping-seeks-history-exam-opinions-a4031e",
       "title": "倪玉平征集网友对中考历史去留的意见",
       "description": "11月22日，视频号“倪玉平教授”发布题为《中考历史 该不该保留》的视频，邀请网友讨论中考是否应保留历史科目。",
@@ -2593,24 +2693,6 @@
         "澎湃新闻"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "korea-school-exam-smart-device-zero-scores-339c76",
-      "title": "韩国规定校内考试携带智能设备者当日成绩归零",
-      "description": "韩国代教育部长崔恩玉11月24日在国务会议上公布初高中校内考试防作弊新规。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T07:08:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/korea-school-exam-smart-device-zero-scores-339c76",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -2964,27 +3046,6 @@
       "sources": []
     },
     {
-      "id": "trump-may-meet-kim-in-china-0570d7",
-      "title": "华尔街日报称特朗普推动朝美会晤未果",
-      "description": "《华尔街日报》援引多名知情人士称，特朗普在2026年11月18日至19日赴中国深圳参加亚太经合组织（APEC）领导人非正式会议前，曾要求幕僚安排与金正恩会晤；朝方提出了美方无法接受的条件，双方最终未能见面。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T05:37:31+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/trump-may-meet-kim-in-china-0570d7",
-      "reference": [
-        "联合早报",
-        "法广",
-        "财新",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 34,
-      "sources": []
-    },
-    {
       "id": "amazon-decart-75-billion-acquisition-1a0c7e",
       "title": "亚马逊收购Decart技术并聘用其核心团队",
       "description": "当地时间11月23日，亚马逊宣布收购人工智能初创公司Decart的专有技术，并聘用其三名联合创始人及研究人员、工程师团队。",
@@ -3228,44 +3289,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "qidong-ebike-fire-five-dead-one-injured-6a0c57",
-      "title": "祁东和丰大厦电动车起火致5死1伤",
-      "description": "湖南消防救援总队近日公布的调查报告认定，湖南省衡阳市祁东县和丰大厦火灾由一辆违规改装的电动自行车充电时锂电池热失控引发。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T02:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/qidong-ebike-fire-five-dead-one-injured-6a0c57",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ministry-worker-espionage-death-sentence-bff95f",
-      "title": "中国部委干部向B国提供百余份情报被判死刑",
-      "description": "中国国家保密局旗下微信公众号“保密观”近日披露，一名中央部委麻姓干部因长期向B国情报机构提供国家秘密，被法院以间谍罪判处死刑，并被剥夺政治权利终身、没收个人全部财产。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T02:20:40+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/ministry-worker-espionage-death-sentence-bff95f",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -3544,24 +3567,6 @@
       "sources": []
     },
     {
-      "id": "liu-qitao-retired-chairman-investigated-08c89a",
-      "title": "中交集团原董事长刘起涛退休六年后被查",
-      "description": "退休六年的中交集团前党委书记、董事长刘起涛于2026年11月10日被查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T14:59:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/liu-qitao-retired-chairman-investigated-08c89a",
-      "reference": [
-        "财新"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "shanghai-metro-fare-changes-december-9fd1b6",
       "title": "上海公布轨道交通新票价方案定于12月1日实施",
       "description": "上海市发展改革委11月23日公布轨道交通票价机制优化方案，新基准票价和配套优惠措施定于12月1日起实施。",
@@ -3820,24 +3825,6 @@
       "sources": []
     },
     {
-      "id": "us-ports-bolster-cyber-defenses-a5ddcf",
-      "title": "美国港口加强网络防御应对黑客攻击升级",
-      "description": "美国港口和货船遭遇的网络攻击不断升级，多地正在加强防御；科珀斯克里斯蒂港保留应急作业方案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T10:02:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/us-ports-bolster-cyber-defenses-a5ddcf",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "gula-malaysia-law-covers-ai-child-abuse-b15b43",
       "title": "古拉称马来西亚刑事法律涵盖AI生成儿童性虐内容",
       "description": "马来西亚首相署（法律与体制改革）副部长古拉表示，即使相关画面没有真实儿童参与，人工智能生成的儿童性虐待内容仍受马来西亚现行刑事法律约束。",
@@ -4043,24 +4030,6 @@
       ],
       "section": "tech",
       "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "china-models-surpass-us-openrouter-usage-f5064e",
-      "title": "中国大模型调用量连续30周超过美国",
-      "description": "11月23日，模型API聚合平台OpenRouter发布最新周度统计。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T04:51:23.482951+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/china-models-surpass-us-openrouter-usage-f5064e",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
       "sources": []
     },
     {
