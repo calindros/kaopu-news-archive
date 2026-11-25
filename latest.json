@@ -3,9 +3,107 @@
     "date": "2026-11-25",
     "timestamp": 1795627387,
     "totalPages": 1,
-    "total": 264
+    "total": 265
   },
   "stories": [
+    {
+      "id": "us-army-plans-iowa-ammunition-plant-blast-87f46e",
+      "title": "美国陆军在艾奥瓦州引爆近5吨叠氮化铅",
+      "description": "美国陆军11月25日上午在艾奥瓦州东南部米德尔敦的一家弹药厂内，受控引爆近5吨叠氮化铅。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T20:12:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/us-army-plans-iowa-ammunition-plant-blast-87f46e",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "公视",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 13,
+      "sources": []
+    },
+    {
+      "id": "egypt-giza-oil-truck-fire-kills-30-eeed6a",
+      "title": "埃及吉萨省油品卡车起火致至少30人死亡",
+      "description": "埃及吉萨省瓦拉克区环城公路25日发生卡车火灾，涉事车辆装载石油制品。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T19:53:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/egypt-giza-oil-truck-fire-kills-30-eeed6a",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "reuters-tsmc-texas-factory-tax-breaks-f161e9",
+      "title": "台积电申请德州税惠评估226亿美元建厂",
+      "description": "台积电11月23日向德州政府提交JETI税务优惠申请，评估在布拉索斯县大学城周边投资226亿美元建设半导体制造园区。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T19:20:45+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/reuters-tsmc-texas-factory-tax-breaks-f161e9",
+      "reference": [
+        "中央通訊社",
+        "公视",
+        "世界日报"
+      ],
+      "section": "business",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "trump-urges-nvidia-board-rehire-huang-19816a",
+      "title": "英伟达董事会一致恢复黄仁勋首席执行官职务",
+      "description": "英伟达董事会11月23日一致决定恢复黄仁勋的总裁兼首席执行官职务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T19:14:49+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/trump-urges-nvidia-board-rehire-huang-19816a",
+      "reference": [
+        "中央通訊社",
+        "世界日报",
+        "联合早报",
+        "德国之声"
+      ],
+      "section": "us",
+      "sourceCount": 196,
+      "sources": []
+    },
+    {
+      "id": "us-thanksgiving-christmas-fares-hit-decade-high-ad3d45",
+      "title": "美国感恩节和圣诞机票价格升至十年新高",
+      "description": "今年美国感恩节和圣诞节机票价格双双升至10年来最高水平。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T18:38:16+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/us-thanksgiving-christmas-fares-hit-decade-high-ad3d45",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "wsj-us-subsidy-probe-results-83a04c",
       "title": "美国拟对14个经济体加征产能过剩关税",
@@ -251,27 +349,6 @@
       ],
       "section": "business",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "trump-urges-nvidia-board-rehire-huang-19816a",
-      "title": "英伟达董事会一致恢复黄仁勋职务",
-      "description": "11月23日，英伟达董事会一致决定恢复黄仁勋的总裁、首席执行官和董事职务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T14:47:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/trump-urges-nvidia-board-rehire-huang-19816a",
-      "reference": [
-        "中央通訊社",
-        "世界日报",
-        "联合早报",
-        "德国之声"
-      ],
-      "section": "us",
-      "sourceCount": 194,
       "sources": []
     },
     {
@@ -1610,25 +1687,6 @@
       "sources": []
     },
     {
-      "id": "reuters-tsmc-texas-factory-tax-breaks-f161e9",
-      "title": "台积电递交德州税惠申请评估226亿美元建厂",
-      "description": "台积电11月23日向美国德州提交就业、能源、科技与创新（JETI）计划申请，评估在布拉索斯郡大学城周边建设半导体制造园区。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T10:04:01+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/reuters-tsmc-texas-factory-tax-breaks-f161e9",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "business",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "chongqing-construction-units-directly-pay-migrant-workers-6110d8",
       "title": "重庆试点建设单位直接向农民工发工资",
       "description": "重庆市人力社保局、市发展改革委等11部门近日联合印发文件，要求政府项目和国企项目单列人工费预算、在开工前预拨人工费，并在政府项目试行由建设单位直接向农民工发工资。",
@@ -2636,27 +2694,6 @@
       ],
       "section": "us",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-army-plans-iowa-ammunition-plant-blast-87f46e",
-      "title": "美国陆军将于爱荷华州引爆约五吨劣化炸药",
-      "description": "美国陆军定于当地时间11月25日上午9时，在爱荷华州米德尔敦的陆军弹药厂受控引爆68桶劣化叠氮化铅。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T06:07:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/us-army-plans-iowa-ammunition-plant-blast-87f46e",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "公视",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 11,
       "sources": []
     },
     {
@@ -3865,24 +3902,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "california-middle-class-extra-living-costs-5e3845",
-      "title": "报告估算加州中产家庭年多支出3.3万美元",
-      "description": "非营利组织The Transparency Foundation发布《The Cost of California》报告，估算加州典型中产家庭每年因生活成本高于美国平均水平，多支出3万3439美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T06:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/california-middle-class-extra-living-costs-5e3845",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 2,
       "sources": []
     },
     {
