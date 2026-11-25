@@ -1,11 +1,133 @@
 {
   "details": {
     "date": "2026-11-25",
-    "timestamp": 1795621327,
+    "timestamp": 1795627387,
     "totalPages": 1,
     "total": 263
   },
   "stories": [
+    {
+      "id": "wsj-us-subsidy-probe-results-83a04c",
+      "title": "美国完成产能过剩调查拟对14个经济体加税",
+      "description": "美国贸易代表办公室完成对16个贸易伙伴为期八个月的产能过剩调查，并公布对其中14个经济体加征关税的提案。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T16:12:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/wsj-us-subsidy-probe-results-83a04c",
+      "reference": [
+        "中央通訊社",
+        "朝鲜日报",
+        "公视",
+        "世界日报"
+      ],
+      "section": "world",
+      "sourceCount": 21,
+      "sources": []
+    },
+    {
+      "id": "huang-le-jensen-huang-china-state-security-contact-596366",
+      "title": "纽时称美情报机构关注黄乐芯片跨境业务",
+      "description": "《纽约时报》11月25日刊发调查称，美国官员正在调查中国商人黄乐及其商业伙伴康伟在相关企业网络中的角色，并关注英伟达先进芯片是否通过相关商业网络流向中国。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T16:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/huang-le-jensen-huang-china-state-security-contact-596366",
+      "reference": [
+        "联合早报",
+        "德国之声",
+        "端传媒",
+        "世界日报"
+      ],
+      "section": "world",
+      "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "anwar-signals-no-early-election-a74756",
+      "title": "安华称第16届全国大选可能在2027年国庆前后举行",
+      "description": "马来西亚首相安华表示，第16届全国大选可能安排在2027年8月国庆日前后，但他称选举须在2028年2月前举行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T15:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/anwar-signals-no-early-election-a74756",
+      "reference": [
+        "联合早报",
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "title": "习近平特朗普普京深圳会晤发表和平宣言",
+      "description": "习近平、美国总统特朗普和俄罗斯总统普京在深圳举行首次三方峰会，会后共同发布《和平宣言》。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T15:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-02",
+      "url": "https://kaopu.news/story/2026-11-02/us-china-russia-discuss-apec-leaders-meeting-04a17e",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "日经",
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 297,
+      "sources": []
+    },
+    {
+      "id": "byd-ineos-hambach-plant-exclusive-talks-cb62b6",
+      "title": "比亚迪与英力士就收购法国工厂展开排他性谈判",
+      "description": "比亚迪与英力士汽车已就收购法国汉巴赫整车工厂进入排他性谈判，交易仍未敲定，后续须与相关工会协商。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T14:57:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/byd-ineos-hambach-plant-exclusive-talks-cb62b6",
+      "reference": [
+        "第一财经",
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "trump-urges-nvidia-board-rehire-huang-19816a",
+      "title": "英伟达董事会一致恢复黄仁勋职务",
+      "description": "11月23日，英伟达董事会一致决定恢复黄仁勋的总裁、首席执行官和董事职务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T14:47:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/trump-urges-nvidia-board-rehire-huang-19816a",
+      "reference": [
+        "中央通訊社",
+        "世界日报",
+        "联合早报",
+        "德国之声"
+      ],
+      "section": "us",
+      "sourceCount": 194,
+      "sources": []
+    },
     {
       "id": "us-stock-futures-nasdaq-fall-one-percent-4a7027",
       "title": "美股低开后纳指跌幅进一步扩大至4%",
@@ -25,6 +147,24 @@
       "sources": []
     },
     {
+      "id": "anwar-ends-subsidiary-allowance-scheme-de44a8",
+      "title": "安华称政府已终止经理设70家子公司领津贴做法",
+      "description": "安华称，一名官联公司经理通过设立70家小型子公司，每月额外领取7万令吉津贴。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T14:35:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/anwar-ends-subsidiary-allowance-scheme-de44a8",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "singapore-chief-justice-defines-judicial-review-limits-a9a7e4",
       "title": "新加坡全球法治大会强调司法审查边界",
       "description": "新加坡全球法治大会11月25日在新加坡举行，司法及检察官员围绕法治、司法审查和国际合作发表讲话。",
@@ -40,6 +180,24 @@
       ],
       "section": "asia",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "israel-lawmakers-advance-october-7-inquiry-bill-2f1bd1",
+      "title": "以色列议员初步通过调查哈马斯袭击法案",
+      "description": "以色列议员初步通过一项法案，拟成立国家调查委员会，调查导致哈马斯2023年10月7日袭击的安全漏洞。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T14:19:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/israel-lawmakers-advance-october-7-inquiry-bill-2f1bd1",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -62,6 +220,24 @@
       "sources": []
     },
     {
+      "id": "zhu-guangyao-urges-asia-shape-ai-rules-2c4113",
+      "title": "朱光耀呼吁亚洲参与制定人工智能规则",
+      "description": "中国财政部原副部长朱光耀11月25日在新加坡香格里拉酒店举行的“思想亚洲论坛”发表主旨演讲，呼吁亚洲依托自身数据和权益，参与人工智能治理规则制定，探索适合本地区的发展道路。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T14:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/zhu-guangyao-urges-asia-shape-ai-rules-2c4113",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "berendsen-begins-first-china-visit-8e14a0",
       "title": "王毅会见荷兰外交大臣讨论中荷关系与台湾问题",
       "description": "中国外长王毅11月25日在北京会见荷兰外交大臣贝伦德森，双方就中荷合作、台湾问题及中欧关系等议题交换意见。",
@@ -77,27 +253,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "wsj-us-subsidy-probe-results-83a04c",
-      "title": "美国提出对14个贸易伙伴加征产能过剩关税",
-      "description": "美国贸易代表办公室完成历时八个月的调查，提出依据《1974年贸易法》第301条款，对14个贸易伙伴的商品加征关税。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T14:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/wsj-us-subsidy-probe-results-83a04c",
-      "reference": [
-        "中央通訊社",
-        "朝鲜日报",
-        "公视",
-        "世界日报"
-      ],
-      "section": "world",
-      "sourceCount": 16,
       "sources": []
     },
     {
@@ -808,27 +963,6 @@
       "sources": []
     },
     {
-      "id": "trump-urges-nvidia-board-rehire-huang-19816a",
-      "title": "英伟达董事会一致通过黄仁勋复任总裁兼首席执行官",
-      "description": "英伟达董事会于11月23日一致同意恢复黄仁勋的总裁、首席执行官和董事职务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T11:32:23+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/trump-urges-nvidia-board-rehire-huang-19816a",
-      "reference": [
-        "中央通訊社",
-        "世界日报",
-        "联合早报",
-        "德国之声"
-      ],
-      "section": "us",
-      "sourceCount": 193,
-      "sources": []
-    },
-    {
       "id": "taiwan-stocks-fall-below-40000-401faf",
       "title": "台股重挫1926点创史上第六大收盘跌点",
       "description": "台湾加权指数周三（11月25日）大幅下跌，收于38195.43点，跌1926.92点，跌幅4.80%，创历史第六大收盘跌点。",
@@ -1179,27 +1313,6 @@
       "sources": []
     },
     {
-      "id": "huang-le-jensen-huang-china-state-security-contact-596366",
-      "title": "路透称黄乐关联企业以AI设备抵押融资",
-      "description": "与中国商人黄乐有关联的多家公司曾以高性能计算设备作抵押取得融资。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T10:27:05+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/huang-le-jensen-huang-china-state-security-contact-596366",
-      "reference": [
-        "联合早报",
-        "德国之声",
-        "端传媒",
-        "世界日报"
-      ],
-      "section": "world",
-      "sourceCount": 7,
-      "sources": []
-    },
-    {
       "id": "xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
       "title": "APEC深圳会议通过《深圳展望》提出亚太共同体",
       "description": "亚太经合组织第三十三次领导人非正式会议于2026年11月18日至19日在深圳举行并闭幕。",
@@ -1532,24 +1645,6 @@
         "澎湃新闻"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "anwar-signals-no-early-election-a74756",
-      "title": "安华称政府任期尚余一年多暗示不提前大选",
-      "description": "马来西亚首相安华11月25日在布城参加国家人工智能教育倡议推介活动后举行记者会，称团结政府任期还剩一年多，接下来会尽力提升治理成效。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T09:29:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/anwar-signals-no-early-election-a74756",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -2698,27 +2793,6 @@
       "sources": []
     },
     {
-      "id": "russian-planes-enter-korea-air-defense-zone-27672a",
-      "title": "俄军4架军机逼近郁陵岛未侵犯韩国领空",
-      "description": "俄罗斯4架军机11月24日上午进入韩国东部海域的防空识别区，向南飞近郁陵岛。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T05:13:52+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/russian-planes-enter-korea-air-defense-zone-27672a",
-      "reference": [
-        "朝鲜日报",
-        "联合早报",
-        "法广",
-        "韩国国际广播电台"
-      ],
-      "section": "world",
-      "sourceCount": 11,
-      "sources": []
-    },
-    {
       "id": "motegi-japan-skips-nuclear-ban-treaty-review-fbb3b8",
       "title": "日本外相茂木敏充不以观察员身份参加禁核条约大会",
       "description": "日本外相茂木敏充11月24日宣布，日本不以观察员身份参加定于11月30日在纽约联合国总部开幕的《禁止核武器条约》首次审议大会。",
@@ -2752,24 +2826,6 @@
         "世界日报"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "byd-ineos-hambach-plant-exclusive-talks-cb62b6",
-      "title": "比亚迪与英力士汽车就收购汉巴赫工厂展开独家谈判",
-      "description": "比亚迪于法国时间11月24日确认，已与英力士汽车就收购其位于法国汉巴赫的制造工厂展开独家谈判。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T04:39:41.760521+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/byd-ineos-hambach-plant-exclusive-talks-cb62b6",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -2979,25 +3035,6 @@
       "sources": []
     },
     {
-      "id": "japan-south-korea-stocks-fall-ai-doubts-d3c111",
-      "title": "人工智能热潮疑虑下日韩股市早盘大幅下跌",
-      "description": "日本和韩国股市早盘均明显走低。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T03:01:37+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/japan-south-korea-stocks-fall-ai-doubts-d3c111",
-      "reference": [
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "china-eximbank-signs-taiwan-finance-agreement-906e1b",
       "title": "国台办与中国进出口银行签约支持台企融资",
       "description": "国台办与中国进出口银行11月23日在北京签署《“十五五”时期促进两岸融合发展金融合作协议》，合作期限为2026年至2030年。",
@@ -3073,24 +3110,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "lawrence-wong-australia-leadership-meeting-5cad08",
-      "title": "黄循财与阿尔巴尼斯推动新澳合作升级",
-      "description": "新加坡总理黄循财与澳大利亚总理阿尔巴尼斯11月24日在堪培拉共同主持第11届新澳领导人会议，宣布扩大关键物资合作，并推进人工智能、碳捕集与封存及低排放创新领域的合作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T02:10:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/lawrence-wong-australia-leadership-meeting-5cad08",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -4048,24 +4067,6 @@
       ],
       "section": "sports",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "police-release-ai-rumor-cases-22654f",
-      "title": "公安机关网安部门公布AI造谣十起典型案例",
-      "description": "公安机关网安部门公布2026年度使用AI工具编造、传播网络谣言的十起典型案例，相关整治工作依托“净网—2026”专项行动开展。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T00:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/police-release-ai-rumor-cases-22654f",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
       "sources": []
     },
     {
