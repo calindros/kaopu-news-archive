@@ -1,19 +1,19 @@
 {
   "details": {
     "date": "2026-11-25",
-    "timestamp": 1795563173,
+    "timestamp": 1795570169,
     "totalPages": 1,
-    "total": 272
+    "total": 274
   },
   "stories": [
     {
       "id": "trump-urges-nvidia-board-rehire-huang-19816a",
       "title": "英伟达董事会一致恢复黄仁勋职务",
-      "description": "英伟达董事会11月23日一致决定，恢复黄仁勋的总裁、首席执行官和董事职务。",
+      "description": "英伟达董事会一致决定恢复黄仁勋的总裁、首席执行官及董事职务。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-24T23:17:00+00:00",
+      "updatedAt": "2026-11-25T00:24:10+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-23",
       "url": "https://kaopu.news/story/2026-11-23/trump-urges-nvidia-board-rehire-huang-19816a",
@@ -24,7 +24,272 @@
         "中央通訊社"
       ],
       "section": "us",
-      "sourceCount": 151,
+      "sourceCount": 156,
+      "sources": []
+    },
+    {
+      "id": "us-stocks-open-lower-nvidia-sinks-94b8c2",
+      "title": "美股科技股遭抛售纳指收跌1.48%",
+      "description": "美东时间11月24日，美国股市主要指数收盘涨跌不一，科技股和芯片股明显走低。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T00:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/us-stocks-open-lower-nvidia-sinks-94b8c2",
+      "reference": [
+        "第一财经",
+        "中央通訊社",
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "ohare-radar-failure-delays-flights-3b119b",
+      "title": "奥黑尔地面雷达故障致约350趟航班延误",
+      "description": "奥黑尔部分跑道的地面监视雷达故障，无法正常工作。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T00:12:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/ohare-radar-failure-delays-flights-3b119b",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "korea-starts-reconstruction-gain-levy-b69408",
+      "title": "东亚日报称韩国政府年内启动重建超额收益征收",
+      "description": "据东亚日报报道，韩国政府近期作出权威解释，要求在年内开始征收住宅重建超额收益回收款。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T23:58:32+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/korea-starts-reconstruction-gain-levy-b69408",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-offers-reward-north-korea-overseas-workers-cc4c27",
+      "title": "美国悬赏最高500万美元征集朝鲜海外劳工线索",
+      "description": "美国国务院“正义奖励”项目当地时间11月19日在社交平台X征集朝鲜向海外派遣劳工及相关支持活动的线索。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T23:58:03+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/us-offers-reward-north-korea-overseas-workers-cc4c27",
+      "reference": [
+        "东亚日报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "lee-jae-myung-orders-exam-cheating-probe-23f710",
+      "title": "李在明要求严查考试作弊并研究禁考措施",
+      "description": "韩国总统李在明11月24日在青瓦台主持国务会议，要求政府以零容忍原则打击考试作弊，跨部门调查国家考试中的既往作弊行为并依法追责。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T23:57:55+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/lee-jae-myung-orders-exam-cheating-probe-23f710",
+      "reference": [
+        "韩国国际广播电台",
+        "东亚日报"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "riyadh-pif-tower-attack-injures-11-791a13",
+      "title": "胡塞无人机袭击利雅得金融区致11人受伤",
+      "description": "也门胡塞武装11月24日以无人机袭击沙特首都利雅得阿卜杜拉国王金融区一栋大楼，造成11人受伤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T23:56:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/riyadh-pif-tower-attack-injures-11-791a13",
+      "reference": [
+        "法广",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "venezuela-discloses-debt-total-7e8841",
+      "title": "委内瑞拉公布2375亿美元债务总额",
+      "description": "委内瑞拉政府星期二（11月24日）发布宏观经济框架报告，披露全国债务总额为2375亿美元，约为国内生产总值的242%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T23:46:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/venezuela-discloses-debt-total-7e8841",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "chen-jining-probe-zhu-zhongming-inspects-insurance-2fc7b2",
+      "title": "陈吉宁被查当天朱忠明调研医保集中整治",
+      "description": "陈吉宁被通报接受审查调查当天，上海市长朱忠明前往基层了解医保领域整治进展。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T23:41:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/chen-jining-probe-zhu-zhongming-inspects-insurance-2fc7b2",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "spot-gold-slips-below-3800-a2b521",
+      "title": "国际金价收盘跌破3600美元关口",
+      "description": "国际金价在连续急跌后于11月24日收在每盎司3600美元下方。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T23:40:35.051782+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/spot-gold-slips-below-3800-a2b521",
+      "reference": [
+        "澎湃新闻",
+        "财新",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "bay-area-thanksgiving-flood-transport-risk-0346b1",
+      "title": "旧金山王潮逼近纪录多处沿岸面临淹水",
+      "description": "旧金山湾区在天文大潮与风暴天气叠加之际，沿岸及低洼地带面临淹水风险。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T23:38:56+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/bay-area-thanksgiving-flood-transport-risk-0346b1",
+      "reference": [
+        "世界日报",
+        "星岛日报美国版"
+      ],
+      "section": "us",
+      "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "devine-criticizes-mamdani-prison-capacity-plan-5ab5e1",
+      "title": "曼哈顿华埠命案被告被裁定不得保释",
+      "description": "曼哈顿华埠加萨林街27号一处住所11月20日发生致命袭击，一名62岁华裔女子死亡，66岁男室友受伤。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T23:37:31+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/devine-criticizes-mamdani-prison-capacity-plan-5ab5e1",
+      "reference": [
+        "星岛日报美国版",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "hong-kong-fire-residents-new-home-windows-cb20df",
+      "title": "宏福苑居民分散安置后探问未来去向",
+      "description": "宏福苑大火一周年前后，居民在分散安置中继续了解未来去向。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T23:32:58+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/hong-kong-fire-residents-new-home-windows-cb20df",
+      "reference": [
+        "端传媒",
+        "英国广播公司"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "chen-jining-shanghai-party-chief-investigation-c09533",
+      "title": "陈吉宁涉嫌严重违纪违法接受审查调查",
+      "description": "陈吉宁被宣布接受中央纪委国家监委审查调查，所涉事由为涉嫌严重违纪违法。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T23:32:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/chen-jining-shanghai-party-chief-investigation-c09533",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 15,
+      "sources": []
+    },
+    {
+      "id": "unfpa-report-youth-face-ambition-barriers-e25b90",
+      "title": "联合国人口基金报告称多重障碍阻碍青年实现抱负",
+      "description": "联合国人口基金近日发布《2026年世界人口状况报告》，称经济不稳定、不平等、排斥、冲突和气候变化阻碍数以百万计青年实现抱负，影响其就业、经济独立、住房及组建家庭。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T23:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/unfpa-report-youth-face-ambition-barriers-e25b90",
+      "reference": [
+        "财新"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -102,25 +367,6 @@
       "reference": [
         "联合早报",
         "SBS"
-      ],
-      "section": "business",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "us-stocks-open-lower-nvidia-sinks-94b8c2",
-      "title": "美国费城半导体指数单日重挫近8%",
-      "description": "美国股市周二收盘涨跌互现，科技及芯片股普遍下跌。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T22:56:36.897267+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/us-stocks-open-lower-nvidia-sinks-94b8c2",
-      "reference": [
-        "第一财经",
-        "中央通訊社"
       ],
       "section": "business",
       "sourceCount": 3,
@@ -367,24 +613,6 @@
       "sources": []
     },
     {
-      "id": "riyadh-pif-tower-attack-injures-11-791a13",
-      "title": "目击者称利雅得公共投资基金大楼遭袭，沙特民防部门通报11人受伤",
-      "description": "利雅得阿卜杜拉国王金融区一栋大楼遭袭，沙特阿拉伯民防部门称有11人受伤；目击者指认遇袭目标为公共投资基金大楼。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T19:31:39+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/riyadh-pif-tower-attack-injures-11-791a13",
-      "reference": [
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "new-york-thanksgiving-storms-wind-rain-6e2028",
       "title": "东西岸风暴威胁美国感恩节旅客出行",
       "description": "美国感恩节出行高峰将遇到东西岸风暴天气，航空和公路行程面临延误、受阻风险。",
@@ -528,27 +756,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "chen-jining-shanghai-party-chief-investigation-c09533",
-      "title": "陈吉宁因涉嫌严重违纪违法接受调查",
-      "description": "新华社11月24日通报，中央纪委国家监委已对中共中央政治局委员、上海市委书记陈吉宁启动审查调查，通报列明的原因是涉嫌严重违纪违法，但没有披露具体指控或其他调查细节。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T16:11:31.450000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/chen-jining-shanghai-party-chief-investigation-c09533",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 14,
       "sources": []
     },
     {
@@ -790,25 +997,6 @@
       ],
       "section": "ai",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "bay-area-thanksgiving-flood-transport-risk-0346b1",
-      "title": "旧金山市府部署应对感恩节风暴与异常高潮位",
-      "description": "旧金山市长罗伟11月23日与公共工程局、港务局、水务局及应急管理局负责人举行记者会，公布应对感恩节前风暴、异常高潮位和沿岸水浸风险的措施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T14:00:58+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/bay-area-thanksgiving-flood-transport-risk-0346b1",
-      "reference": [
-        "世界日报",
-        "星岛日报美国版"
-      ],
-      "section": "us",
-      "sourceCount": 11,
       "sources": []
     },
     {
@@ -1521,24 +1709,6 @@
       "sources": []
     },
     {
-      "id": "devine-criticizes-mamdani-prison-capacity-plan-5ab5e1",
-      "title": "戴文批马姆达尼监狱计划收容不足威胁安全",
-      "description": "纽约市长马姆达尼上周公布关闭雷克岛监狱的方案，计划以四座区域监狱取代，并把关闭期限延至2032年。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T11:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/devine-criticizes-mamdani-prison-capacity-plan-5ab5e1",
-      "reference": [
-        "星岛日报美国版"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "los-angeles-jury-orders-k3-pay-tenants-fc5097",
       "title": "洛杉矶陪审团判K3及关联企业赔偿租户765万美元",
       "description": "洛杉矶高等法院陪审团以11比1裁定，K3 Holdings及三家关联企业须向安德鲁·埃尔罗德和布里吉德·埃尔罗德夫妇支付共765万美元。",
@@ -1662,24 +1832,6 @@
         "中央通訊社"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "mertz-says-nato-ukraine-membership-was-mistake-27b971",
-      "title": "默茨称北约2008年未接纳乌克兰是错误",
-      "description": "德国总理弗里德里希·默茨11月23日在柏林与北约秘书长马克·吕特举行联合记者会时表示，北约2008年没有采纳美国提出的乌克兰入盟方案，是一次失误。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T10:47:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/mertz-says-nato-ukraine-membership-was-mistake-27b971",
-      "reference": [
-        "德国之声"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -1832,27 +1984,6 @@
       "sources": []
     },
     {
-      "id": "russian-planes-enter-korea-air-defense-zone-27672a",
-      "title": "俄军机逼近郁陵岛韩国确认未侵犯领空",
-      "description": "俄罗斯多架军机24日上午进入韩国东海（日本海）防空识别区，并一度逼近郁陵岛北部领空边界。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T10:04:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/russian-planes-enter-korea-air-defense-zone-27672a",
-      "reference": [
-        "朝鲜日报",
-        "联合早报",
-        "法广",
-        "韩国国际广播电台"
-      ],
-      "section": "world",
-      "sourceCount": 6,
-      "sources": []
-    },
-    {
       "id": "chan-kwok-ki-allows-legal-wang-fuk-memorials-3dd41f",
       "title": "宏福苑火灾周年前夕港府不办官方悼念活动",
       "description": "香港政府在宏福苑大火一周年前夕表示，不会组织官方悼念活动，但市民可以参加合法活动。",
@@ -1979,24 +2110,6 @@
       ],
       "section": "china",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "us-probes-global-ship-cyberattacks-iran-russia-10bf8f",
-      "title": "华尔街日报称美调查多艘船遭网攻是否涉伊俄",
-      "description": "据联合早报转述《华尔街日报》的报道，美国正在调查全球多艘运载能源及其他易爆物质的船只遭网络攻击和威胁信息，是否与伊朗或俄罗斯有关。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T09:34:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/us-probes-global-ship-cyberattacks-iran-russia-10bf8f",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2927,25 +3040,6 @@
       "sources": []
     },
     {
-      "id": "indonesia-mining-70-percent-stake-revenue-plan-0d6f63",
-      "title": "印尼政府研究国家取得矿业项目七成股权或收益",
-      "description": "印尼总统普拉博沃此前提出，国家应从采矿项目取得至少七成收益；能源与矿产资源部长巴赫里尔称，政府正研究国家持有项目70%股权或取得项目70%收入两种方案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T05:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/indonesia-mining-70-percent-stake-revenue-plan-0d6f63",
-      "reference": [
-        "联合早报",
-        "财新"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "china-eximbank-signs-taiwan-finance-agreement-906e1b",
       "title": "国台办与进出口银行签约为台企提供融资支持",
       "description": "中国国务院台湾事务办公室与中国进出口银行11月23日在北京签署一项面向“十五五”时期的金融合作协议，合作期为2026年至2030年，旨在为台商台企和两岸经贸相关领域增加金融服务与融资支持。",
@@ -2964,46 +3058,6 @@
       ],
       "section": "china",
       "sourceCount": 7,
-      "sources": []
-    },
-    {
-      "id": "nepal-pm-shah-visits-india-reset-ties-12a136",
-      "title": "莫迪宣布向尼泊尔提供2400亿卢比援助",
-      "description": "印度总理纳伦德拉·莫迪11月23日在新德里会见尼泊尔总理巴伦德拉·沙阿，宣布向尼泊尔提供约2400亿尼泊尔卢比、约合16亿美元的发展合作援助。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T04:47:31+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/nepal-pm-shah-visits-india-reset-ties-12a136",
-      "reference": [
-        "英国广播公司",
-        "法广",
-        "日经",
-        "日本放送协会"
-      ],
-      "section": "asia",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "japan-envoy-meets-detained-hokkaido-reporter-06c386",
-      "title": "日本驻俄使馆二次探视被拘记者称其健康无虞",
-      "description": "日本驻俄大使武藤显等使馆人员11月23日在莫斯科列福尔托沃看守所探视因间谍嫌疑被拘的《北海道新闻》记者今井裕纪。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T04:47:13+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/japan-envoy-meets-detained-hokkaido-reporter-06c386",
-      "reference": [
-        "共同网",
-        "日本放送协会"
-      ],
-      "section": "world",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3616,24 +3670,6 @@
         "中央通訊社"
       ],
       "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "lowy-institute-us-china-power-gap-e269c4",
-      "title": "洛伊报告称伊战和单边主义令中美实力差距收窄",
-      "description": "澳大利亚洛伊国际政策研究所11月22日发布《2026年亚洲实力指数》。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T13:38:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/lowy-institute-us-china-power-gap-e269c4",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
       "sourceCount": 2,
       "sources": []
     },
