@@ -1,6 +1,6 @@
 {
   "details": {
-    "date": "2026-11-24",
+    "date": "2026-11-25",
     "timestamp": 1795563173,
     "totalPages": 1,
     "total": 272
@@ -8,12 +8,12 @@
   "stories": [
     {
       "id": "trump-urges-nvidia-board-rehire-huang-19816a",
-      "title": "英伟达董事会一致恢复黄仁勋首席执行官职务",
-      "description": "英伟达11月23日宣布，董事会一致决定恢复黄仁勋的总裁、首席执行官和董事职务。",
+      "title": "英伟达董事会一致恢复黄仁勋职务",
+      "description": "英伟达董事会11月23日一致决定，恢复黄仁勋的总裁、首席执行官和董事职务。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-24T22:17:13+00:00",
+      "updatedAt": "2026-11-24T23:17:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-23",
       "url": "https://kaopu.news/story/2026-11-23/trump-urges-nvidia-board-rehire-huang-19816a",
@@ -24,24 +24,161 @@
         "中央通訊社"
       ],
       "section": "us",
-      "sourceCount": 148,
+      "sourceCount": 151,
       "sources": []
     },
     {
       "id": "new-york-jury-finds-huawei-subsidiaries-guilty-2b9be5",
-      "title": "纽约陪审团判华为及三家子公司十项指控成立",
-      "description": "纽约东区联邦法院陪审团于11月24日裁定，华为及其三家子公司面临的12项指控中有10项成立。",
+      "title": "美国陪审团裁定华为12项指控中10项成立",
+      "description": "美国纽约东区联邦法院陪审团11月24日裁定，华为及其三家子公司面临的12项刑事指控中有10项成立；陪审团未认定其犯有串谋参与有组织犯罪罪和串谋妨碍司法公正罪。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-24T21:51:11+00:00",
+      "updatedAt": "2026-11-24T23:16:00+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-24",
       "url": "https://kaopu.news/story/2026-11-24/new-york-jury-finds-huawei-subsidiaries-guilty-2b9be5",
       "reference": [
-        "世界日报"
+        "世界日报",
+        "联合早报"
       ],
       "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-elderly-childcare-service-plan-89a6bf",
+      "title": "四部门发布“一老一小”服务体系建设方案",
+      "description": "国家发展改革委、民政部、国家卫生健康委和教育部11月23日公布联合印发的《“一老一小”服务体系建设实施方案》，为“十五五”时期养老和托育服务体系建设明确目标和举措。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T23:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/china-elderly-childcare-service-plan-89a6bf",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "联合早报",
+        "财新"
+      ],
+      "section": "life",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "huang-agrees-senate-banking-testimony-d2fe34",
+      "title": "美国国会加紧调查英伟达对华芯片销售",
+      "description": "美国国会两党议员正调查英伟达对华先进人工智能芯片销售及出口管制执行情况，并要求特朗普政府说明相关处置。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T23:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-18",
+      "url": "https://kaopu.news/story/2026-11-18/huang-agrees-senate-banking-testimony-d2fe34",
+      "reference": [
+        "中央通訊社",
+        "世界日报",
+        "联合早报",
+        "澎湃新闻"
+      ],
+      "section": "ai",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "australia-jobless-rate-hits-five-year-high-5c6a13",
+      "title": "澳大利亚10月失业率升至五年新高",
+      "description": "澳大利亚10月失业率升至4.9%，创2021年以来新高并高于市场预期。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T23:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/australia-jobless-rate-hits-five-year-high-5c6a13",
+      "reference": [
+        "联合早报",
+        "SBS"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "us-stocks-open-lower-nvidia-sinks-94b8c2",
+      "title": "美国费城半导体指数单日重挫近8%",
+      "description": "美国股市周二收盘涨跌互现，科技及芯片股普遍下跌。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T22:56:36.897267+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/us-stocks-open-lower-nvidia-sinks-94b8c2",
+      "reference": [
+        "第一财经",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "new-york-times-reports-jensen-huang-abuse-84a7c4",
+      "title": "黄仁勋被曝长期羞辱员工后向员工道歉",
+      "description": "英伟达首席执行官黄仁勋11月24日在员工大会上承认违反公司行为准则，并为个人行为向员工道歉。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T22:22:20+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/new-york-times-reports-jensen-huang-abuse-84a7c4",
+      "reference": [
+        "世界日报",
+        "纽约时报",
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "australians-more-open-sharing-racism-experiences-be7693",
+      "title": "澳大利亚民众更愿公开讲述种族主义遭遇",
+      "description": "澳大利亚专家指出，当地种族主义事件仍普遍存在未被报告的情况。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T22:19:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/australians-more-open-sharing-racism-experiences-be7693",
+      "reference": [
+        "SBS"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "canada-conservatives-oppose-pr-expansion-plan-5a8d72",
+      "title": "加拿大保守党动议要求阻止永久居民扩额计划",
+      "description": "加拿大国会周二就联邦政府扩大永久居民名额的计划展开辩论。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T22:07:41.773000+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/canada-conservatives-oppose-pr-expansion-plan-5a8d72",
+      "reference": [
+        "加拿大国际广播电台"
+      ],
+      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -84,8 +221,8 @@
     },
     {
       "id": "katz-says-iran-developing-chemical-weapons-32e761",
-      "title": "卡茨称伊朗正研发化学武器以方准备应对",
-      "description": "以色列国防部长卡茨11月24日称，伊朗正在研发化学武器，但目前还不具备对以色列发动此类袭击的能力；他没有提供细节或证据。",
+      "title": "以色列防长称伊朗正研发化学武器",
+      "description": "以色列国防部长卡茨11月24日称，伊朗正研发化学武器，但目前尚无能力以此袭击以色列；他没有提供细节或证据。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -94,10 +231,11 @@
       "publishedAt": "2026-11-24",
       "url": "https://kaopu.news/story/2026-11-24/katz-says-iran-developing-chemical-weapons-32e761",
       "reference": [
+        "法广",
         "澎湃新闻"
       ],
       "section": "world",
-      "sourceCount": 1,
+      "sourceCount": 2,
       "sources": []
     },
     {
@@ -152,25 +290,6 @@
       ],
       "section": "business",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "new-york-times-reports-jensen-huang-abuse-84a7c4",
-      "title": "黄仁勋在员工会上为管理方式道歉",
-      "description": "英伟达联合创始人黄仁勋11月24日在员工会议上为自己的管理方式道歉，承认自己有时会削弱员工的自主权，并表示将检讨和改进。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T20:57:44+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/new-york-times-reports-jensen-huang-abuse-84a7c4",
-      "reference": [
-        "世界日报",
-        "纽约时报"
-      ],
-      "section": "ai",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -245,6 +364,24 @@
       ],
       "section": "us",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "riyadh-pif-tower-attack-injures-11-791a13",
+      "title": "目击者称利雅得公共投资基金大楼遭袭，沙特民防部门通报11人受伤",
+      "description": "利雅得阿卜杜拉国王金融区一栋大楼遭袭，沙特阿拉伯民防部门称有11人受伤；目击者指认遇袭目标为公共投资基金大楼。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-24T19:31:39+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/riyadh-pif-tower-attack-injures-11-791a13",
+      "reference": [
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -447,24 +584,6 @@
         "世界日报"
       ],
       "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-stocks-open-lower-nvidia-sinks-94b8c2",
-      "title": "美股盘初低开英伟达跌近6%市值蒸发近2500亿美元",
-      "description": "美国股市周二开盘后整体走低，VIX一度跃升逾20%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T15:05:49.951947+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/us-stocks-open-lower-nvidia-sinks-94b8c2",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -1157,27 +1276,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "huang-agrees-senate-banking-testimony-d2fe34",
-      "title": "美国国会调查英伟达并安排黄仁勋作证",
-      "description": "美国国会两党正调查英伟达对华先进芯片销售及美国出口管制执行情况，并安排英伟达创办人黄仁勋于12月接受众议院闭门问询、出席参议院公开听证会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T12:00:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-18",
-      "url": "https://kaopu.news/story/2026-11-18/huang-agrees-senate-banking-testimony-d2fe34",
-      "reference": [
-        "中央通訊社",
-        "世界日报",
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "ai",
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -1993,24 +2091,6 @@
       "sources": []
     },
     {
-      "id": "singapore-respects-icj-myanmar-genocide-ruling-c23d9d",
-      "title": "新加坡尊重国际法院缅甸种族灭绝案裁决",
-      "description": "新加坡外交部发言人11月24日表示，新加坡尊重国际法院对缅甸罗兴亚人种族灭绝案的裁决，正研究裁决影响。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T09:24:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/singapore-respects-icj-myanmar-genocide-ruling-c23d9d",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "taiwan-extends-china-film-antidumping-deadline-99523c",
       "title": "台湾财政部延长中国大陆产薄膜反倾销终裁期限",
       "description": "台湾财政部11月24日宣布，因调查需要，将中国大陆制造的特定聚酰胺薄膜反倾销税案的倾销最终认定期限延至2027年1月11日。",
@@ -2176,27 +2256,6 @@
       "sources": []
     },
     {
-      "id": "burnham-says-brexit-lost-more-than-gained-e0a4c4",
-      "title": "英国与欧盟达成72项共识重塑脱欧后关系",
-      "description": "11月20日，英国首相伯纳姆与欧盟方面在布鲁塞尔举行第二次英欧峰会，宣布在贸易、碳排放和青年交流等领域达成72项共识，推动调整脱欧后的双边关系。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T08:38:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/burnham-says-brexit-lost-more-than-gained-e0a4c4",
-      "reference": [
-        "英国广播公司",
-        "公视",
-        "联合早报",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 9,
-      "sources": []
-    },
-    {
       "id": "malaysia-air-force-officers-arrested-drug-smuggling-dbdb8c",
       "title": "马来西亚警方调查空军军机跨境运毒案",
       "description": "马来西亚警方正在调查一起涉嫌利用皇家空军军机跨境运毒的案件。",
@@ -2291,25 +2350,6 @@
       "sources": []
     },
     {
-      "id": "bbc-iran-ahmadi-74-lashes-bdbb53",
-      "title": "伊朗当局对歌手阿赫玛迪等五人各施74鞭",
-      "description": "据英国广播公司援引一名被告律师的说法，伊朗当局于11月23日在库姆刑事判决执行局第三分支对歌手帕拉斯托·阿赫玛迪和四名男性共同被告执行鞭刑，每人74鞭。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T08:04:40+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/bbc-iran-ahmadi-74-lashes-bdbb53",
-      "reference": [
-        "英国广播公司",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "li-jiaying-praised-after-shenzhou-mission-7dca9b",
       "title": "黎家盈在神舟二十三号任务中的表现获官方肯定",
       "description": "中国载人航天工程新闻发言人张静波11月23日在酒泉卫星发射中心表示，香港首名航天员黎家盈作为神舟二十三号任务载荷专家，完成了空间科学研究、技术试验和科普授课等工作。",
@@ -2379,26 +2419,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "us-gasoline-prices-fall-below-four-dollars-36a98b",
-      "title": "中国大陆成品油第23轮调价预计下调",
-      "description": "中国大陆成品油零售价格在11月26日24时开启的2026年第23轮调价窗口预计下调。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T07:39:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/us-gasoline-prices-fall-below-four-dollars-36a98b",
-      "reference": [
-        "世界日报",
-        "中央通訊社",
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -3650,24 +3670,6 @@
         "中央通訊社"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "luxury-hotels-enter-hanoi-28a841",
-      "title": "多家国际奢华酒店进驻河内竞争加剧",
-      "description": "河内国际奢华酒店数量增加，费尔蒙、西奥多和新罗汇纹近几个月已开业，华尔道夫与河内丽雅酒店也将陆续亮相。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T13:21:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/luxury-hotels-enter-hanoi-28a841",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
