@@ -1,19 +1,19 @@
 {
   "details": {
     "date": "2026-11-26",
-    "timestamp": 1795677794,
+    "timestamp": 1795681088,
     "totalPages": 1,
-    "total": 264
+    "total": 262
   },
   "stories": [
     {
       "id": "wsj-us-subsidy-probe-results-83a04c",
-      "title": "美国拟对14个贸易伙伴加征产能过剩关税",
-      "description": "美国贸易代表办公室11月25日公布依据《1974年贸易法》第301条提出的关税方案，拟对14个贸易伙伴征收与结构性产能过剩相关的新关税。",
+      "title": "美国拟对14个经济体加征新关税",
+      "description": "美国贸易代表办公室完成一项历时约8个月的《1974年贸易法》第301条调查，并公布拟议措施，计划以结构性制造业产能过剩为由，对包括中国在内的14个经济体加征关税。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-26T06:30:00+00:00",
+      "updatedAt": "2026-11-26T07:35:54+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-24",
       "url": "https://kaopu.news/story/2026-11-24/wsj-us-subsidy-probe-results-83a04c",
@@ -24,13 +24,262 @@
         "世界日报"
       ],
       "section": "world",
-      "sourceCount": 57,
+      "sourceCount": 62,
+      "sources": []
+    },
+    {
+      "id": "us-gasoline-prices-fall-below-four-dollars-36a98b",
+      "title": "中国大陆汽柴油每吨将分别下调440元和425元",
+      "description": "中国大陆汽油、柴油标准品价格定于11月26日24时起分别每吨下调440元和425元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T07:24:40.316659+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/us-gasoline-prices-fall-below-four-dollars-36a98b",
+      "reference": [
+        "世界日报",
+        "中央通訊社",
+        "澎湃新闻",
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "japan-hokkaido-glide-missile-deployment-ddd361",
+      "title": "日本防卫省计划12月在北海道部署高速滑翔弹",
+      "description": "日本防卫省计划于12月在北海道上富良野驻地部署陆上自卫队“25式高速滑翔弹”，具体日期仍在协调。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:55:16+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/japan-hokkaido-glide-missile-deployment-ddd361",
+      "reference": [
+        "澎湃新闻",
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "korean-riders-harass-migrant-couriers-c8425c",
+      "title": "韩国骑手私自盘查外籍同行令移民骑手不安",
+      "description": "韩民族日报报道，韩国部分外卖骑手私自拦查、威胁并追赶外籍同行，在韩难民和移民骑手因此感到不安，外卖配送就业限制也成为讨论焦点。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:50:25+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/korean-riders-harass-migrant-couriers-c8425c",
+      "reference": [
+        "韩民族日报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "india-regulator-deems-bisleri-water-unsafe-917318",
+      "title": "印度食安局要求各邦严查瓶装水和矿泉水",
+      "description": "印度食品安全与标准局已要求各邦加强包装饮用水和矿泉水监管。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:42:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/india-regulator-deems-bisleri-water-unsafe-917318",
+      "reference": [
+        "联合早报",
+        "公视"
+      ],
+      "section": "world",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "neuralink-fda-als-brain-interface-trial-approved-eb3e21",
+      "title": "Neuralink获批开展渐冻症脑机接口关键试验",
+      "description": "当地时间11月25日，Neuralink宣布，美国食品药品监督管理局已批准其开展一项面向渐冻症（ALS）所致严重瘫痪患者的关键性脑机接口临床试验。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:40:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/neuralink-fda-als-brain-interface-trial-approved-eb3e21",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "trump-urges-nvidia-board-rehire-huang-19816a",
+      "title": "英伟达董事会一致通过黄仁勋复任首席执行官",
+      "description": "英伟达董事会于11月23日一致同意黄仁勋复任首席执行官。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:32:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/trump-urges-nvidia-board-rehire-huang-19816a",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "纽约时报",
+        "中央通訊社"
+      ],
+      "section": "us",
+      "sourceCount": 265,
+      "sources": []
+    },
+    {
+      "id": "new-york-thanksgiving-storms-wind-rain-6e2028",
+      "title": "纽约州府警告感恩节风暴威胁交通供电",
+      "description": "纽约州州府提醒居民，国家气象局预计大型风暴系统将在感恩节当天及夜间影响纽约州多地，带来强风和大雨，交通、电力供应及沿海低洼地区都可能受到影响。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/new-york-thanksgiving-storms-wind-rain-6e2028",
+      "reference": [
+        "世界日报",
+        "星岛日报美国版",
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "huang-le-jensen-huang-china-state-security-contact-596366",
+      "title": "美官员称黄乐与黄仁勋交往暂无证据显示受中国指使",
+      "description": "美国情报官员11月24日向国会幕僚作闭门简报，称目前没有证据显示中国情报机构指使黄乐接近英伟达首席执行官黄仁勋，或借两人关系开展间谍活动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/huang-le-jensen-huang-china-state-security-contact-596366",
+      "reference": [
+        "联合早报",
+        "德国之声",
+        "端传媒",
+        "世界日报"
+      ],
+      "section": "world",
+      "sourceCount": 11,
+      "sources": []
+    },
+    {
+      "id": "queens-huang-family-medicare-fraud-c62133",
+      "title": "皇后区黄氏一家四口被控诈领医保逾5500万美元",
+      "description": "美国司法部11月24日宣布，纽约皇后区黄章、黄燕乐及其父母黄建新、黄秀琴遭联邦大陪审团起诉。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/queens-huang-family-medicare-fraud-c62133",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "princeton-student-eva-xie-detained-ice-067bfb",
+      "title": "ICE请求法院暂不释放普林斯顿博士生谢翌",
+      "description": "据端传媒报道，美国移民及海关执法局（ICE）11月25日向弗吉尼亚州东区联邦法院提交答复，反对普林斯顿大学博士生谢翌关于拘留违法的主张，并请求法院不要通过人身保护令下令立即释放她。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:29:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-20",
+      "url": "https://kaopu.news/story/2026-11-20/princeton-student-eva-xie-detained-ice-067bfb",
+      "reference": [
+        "世界日报",
+        "端传媒"
+      ],
+      "section": "us",
+      "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "cooper-blocks-trump-birthright-order-c077e5",
+      "title": "美国法官下令阻止特朗普限制出生公民权",
+      "description": "美国华盛顿特区联邦地区法院法官克里斯托弗·库珀于11月25日签发初步禁制令，阻止特朗普政府执行一项试图缩小出生公民权适用范围、打击“生育旅游”的行政命令。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/cooper-blocks-trump-birthright-order-c077e5",
+      "reference": [
+        "联合早报",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "new-york-controller-storefront-vacancy-high-9afd5a",
+      "title": "纽约市主计长推出店面经营数据查询平台",
+      "description": "纽约市主计长李文（Mark Levine）于11月25日推出街边店面数据平台，供公众按地区查询商家开业、结业和店铺空置情况。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:27:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/new-york-controller-storefront-vacancy-high-9afd5a",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "hugh-mo-wins-inouye-trailblazer-award-a7079e",
+      "title": "莫虎获全美亚太裔律师协会井上建开拓者奖",
+      "description": "全美亚太裔律师协会近日向76岁的华裔律师莫虎（Hugh H. Mo）颁发2026年度井上建开拓者奖，以肯定他近五十年来在法律工作、公共服务及扶助亚裔人才发展方面的投入。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/hugh-mo-wins-inouye-trailblazer-award-a7079e",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
       "sources": []
     },
     {
       "id": "us-army-plans-iowa-ammunition-plant-blast-87f46e",
-      "title": "美国陆军受控引爆近五吨劣化叠氮化铅",
-      "description": "美国陆军当地时间11月25日上午在艾奥瓦州东南部米德尔敦陆军弹药厂实施受控爆破，销毁68桶、总重约9500磅（近5吨）的劣化叠氮化铅。",
+      "title": "美国陆军销毁爱荷华州近5吨劣化叠氮化铅",
+      "description": "美国陆军当地时间11月25日上午在爱荷华州米德尔敦陆军弹药厂实施受控爆破，销毁了68桶、总重约9500磅（近5吨）的劣化叠氮化铅。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -49,6 +298,44 @@
       "sources": []
     },
     {
+      "id": "washington-post-reports-immigrants-lose-medicare-9765a0",
+      "title": "华邮称美社安局通知30万合法移民医保资格将受限",
+      "description": "美国社会安全局已向约30万名合法移民寄出通知，称他们可能因法律变更而不再符合联邦医疗保险资格。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:25:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/washington-post-reports-immigrants-lose-medicare-9765a0",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "us-air-force-deploys-f15ex-kadena-122e69",
+      "title": "美军在嘉手纳常态部署F-15EX战机",
+      "description": "美国空军在冲绳县嘉手纳基地向媒体展示F-15EX战机。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:23:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/us-air-force-deploys-f15ex-kadena-122e69",
+      "reference": [
+        "澎湃新闻",
+        "共同网",
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
       "id": "australia-inflation-reaches-three-year-high-ff7127",
       "title": "澳大利亚10月通胀率升至4.9%创三年新高",
       "description": "澳大利亚统计局公布，2026年10月消费者价格指数同比上涨4.9%，高于9月的4.3%，通胀水平达到三年来最高点。",
@@ -64,6 +351,47 @@
       ],
       "section": "business",
       "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "bay-area-thanksgiving-flood-transport-risk-0346b1",
+      "title": "帝王潮巨浪冲断柏斯菲卡市政码头",
+      "description": "帝王潮叠加巨浪袭击旧金山湾区沿岸，柏斯菲卡市政码头一段结构于11月25日上午断裂坠海，海水还越过沿岸防护设施，淹进多户民宅。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/bay-area-thanksgiving-flood-transport-risk-0346b1",
+      "reference": [
+        "世界日报",
+        "星岛日报美国版",
+        "联合早报"
+      ],
+      "section": "us",
+      "sourceCount": 22,
+      "sources": []
+    },
+    {
+      "id": "us-approves-spacex-million-satellites-space-data-center-f369bf",
+      "title": "FCC有条件批准SpaceX部署最多100万颗卫星",
+      "description": "美国联邦通信委员会（FCC）11月25日有条件批准SpaceX部署最多100万颗名为“Starmind”的卫星，供公司建设太空数据中心、开展人工智能运算。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/us-approves-spacex-million-satellites-space-data-center-f369bf",
+      "reference": [
+        "中央通訊社",
+        "世界日报",
+        "法广",
+        "联合早报"
+      ],
+      "section": "tech",
+      "sourceCount": 9,
       "sources": []
     },
     {
@@ -87,9 +415,27 @@
       "sources": []
     },
     {
+      "id": "california-puc-approves-pge-rate-hike-70c40d",
+      "title": "加州公用事业委员会批准PG&E临时涨价",
+      "description": "加州公用事业委员会11月25日一致批准PG&E自明年起实施临时费率上调，方案金额为4.56亿美元，平均用户月账单将增加约6美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:16:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/california-puc-approves-pge-rate-hike-70c40d",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "egypt-giza-oil-truck-fire-kills-30-eeed6a",
-      "title": "埃及吉萨油罐车爆炸起火致31死21伤",
-      "description": "埃及吉萨省瓦拉克区环城公路一辆运载石油制品的油罐车，在当地傍晚交通高峰时段翻覆并爆炸起火，火势波及周边车辆，造成至少31人死亡、21人受伤。",
+      "title": "埃及开罗油罐车翻覆爆炸致31死21伤",
+      "description": "11月25日傍晚，埃及开罗环状公路靠近吉萨省瓦拉克区路段发生油罐车翻覆、爆炸起火事故，造成31人死亡、21人受伤。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -100,10 +446,30 @@
       "reference": [
         "澎湃新闻",
         "联合早报",
+        "法广",
         "公视"
       ],
       "section": "world",
-      "sourceCount": 5,
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "japan-envoy-meets-detained-hokkaido-reporter-06c386",
+      "title": "今井妻公布手记呼吁俄方尽早释放",
+      "description": "《北海道新闻》记者今井裕纪的妻子Nozomi于11月26日公布手记，讲述丈夫被俄罗斯拘押后家人的痛苦，并呼吁尽早释放今井。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/japan-envoy-meets-detained-hokkaido-reporter-06c386",
+      "reference": [
+        "共同网",
+        "日本放送协会"
+      ],
+      "section": "world",
+      "sourceCount": 3,
       "sources": []
     },
     {
@@ -127,6 +493,24 @@
       "sources": []
     },
     {
+      "id": "kroger-plans-us-cuts-bangalore-hiring-a83f88",
+      "title": "福斯新闻网称克罗格拟裁员之际在印度招人",
+      "description": "据福斯新闻网报道，克罗格计划在美国裁减约3000名企业员工，同时在印度班加罗尔新设的全球能力中心招聘近30个职位。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:10:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/kroger-plans-us-cuts-bangalore-hiring-a83f88",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "china-union-platform-labor-agreements-702f8e",
       "title": "全总推动18家平台完成协商覆盖逾2500万人",
       "description": "全国总工会在第四季度新闻发布会上介绍，网络货运、网约车、网约配送和快递行业的18家重点平台企业，截至11月10日均已完成协商并签署协议，涉及新就业形态劳动者超过2500万人。",
@@ -145,6 +529,24 @@
       "sources": []
     },
     {
+      "id": "new-jersey-funds-immigrant-deportation-defense-8cab12",
+      "title": "新泽西州拨出2020万美元为移民提供遣返辩护",
+      "description": "新泽西州州长米基·谢里尔（Mikie Sherrill）政府近日将2020万美元分配给10家法律服务机构，为符合条件的低收入移民及被拘留者提供遣返辩护援助。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:07:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/new-jersey-funds-immigrant-deportation-defense-8cab12",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "jian-zhao-pleads-guilty-china-secrets-5efb32",
       "title": "美现役陆军中士赵坚认罪共谋向中国泄露军机密",
       "description": "美国现役陆军中士赵坚11月23日承认参与共谋，利用职务权限收集美国国防机密资料和军事装备，并出售或传递给代表中国行事的共犯。",
@@ -159,6 +561,45 @@
         "世界日报"
       ],
       "section": "us",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "kim-jong-un-seeks-nuclear-launch-expansion-f7a284",
+      "title": "金正恩视察核武设施要求拓展战术核武用途",
+      "description": "朝鲜领导人金正恩视察一处未公开的核武研究设施，并要求发展能在多个领域执行不同任务的战术核武器。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:03:39+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/kim-jong-un-seeks-nuclear-launch-expansion-f7a284",
+      "reference": [
+        "联合早报",
+        "韩国国际广播电台",
+        "法广"
+      ],
+      "section": "asia",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "china-coast-guard-approaches-japanese-fishing-boat-5719ce",
+      "title": "中国海警船驶入尖阁附近争议水域并试图接近日渔船",
+      "description": "两艘中国海警船于11月26日上午7时42分左右驶入有主权争议的尖阁诸岛（中国称钓鱼岛）附近争议水域，并试图靠近一艘日本渔船。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:03:38+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/china-coast-guard-approaches-japanese-fishing-boat-5719ce",
+      "reference": [
+        "联合早报",
+        "法广"
+      ],
+      "section": "china",
       "sourceCount": 2,
       "sources": []
     },
@@ -291,43 +732,21 @@
       "sources": []
     },
     {
-      "id": "trump-urges-nvidia-board-rehire-huang-19816a",
-      "title": "英伟达董事会恢复黄仁勋首席执行官职务",
-      "description": "英伟达董事会11月23日一致通过恢复黄仁勋的首席执行官职务。",
+      "id": "south-korea-household-real-income-falls-cd728a",
+      "title": "韩国三季度家庭实际收入同比下降2.1%",
+      "description": "韩国国家数据处11月26日公布的数据显示，2026年第三季度家庭月均收入为548万韩元，名义同比增长0.8%；扣除物价因素后，实际收入同比减少2.1%。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-26T05:50:33+00:00",
+      "updatedAt": "2026-11-26T05:49:57+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/trump-urges-nvidia-board-rehire-huang-19816a",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/south-korea-household-real-income-falls-cd728a",
       "reference": [
-        "世界日报",
-        "联合早报",
-        "纽约时报",
-        "中央通訊社"
+        "韩国国际广播电台"
       ],
-      "section": "us",
-      "sourceCount": 259,
-      "sources": []
-    },
-    {
-      "id": "princeton-student-eva-xie-detained-ice-067bfb",
-      "title": "ICE反对立即释放普林斯顿博士生谢翌",
-      "description": "美国移民与海关执法局（ICE）11月25日向法院提交答复，反对普林斯顿大学博士生谢翌关于拘留违法的主张，并请求法院不要通过人身保护令立即释放她。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T05:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-20",
-      "url": "https://kaopu.news/story/2026-11-20/princeton-student-eva-xie-detained-ice-067bfb",
-      "reference": [
-        "世界日报",
-        "端传媒"
-      ],
-      "section": "us",
-      "sourceCount": 10,
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -438,27 +857,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-approves-spacex-million-satellites-space-data-center-f369bf",
-      "title": "美国有条件批准SpaceX部署百万颗数据中心卫星",
-      "description": "美国联邦通信委员会（FCC）当地时间11月25日有条件批准SpaceX在近地轨道部署最多100万颗卫星，建设名为Starmind的人工智能数据中心星座。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T05:25:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/us-approves-spacex-million-satellites-space-data-center-f369bf",
-      "reference": [
-        "中央通訊社",
-        "世界日报",
-        "法广",
-        "联合早报"
-      ],
-      "section": "tech",
-      "sourceCount": 8,
       "sources": []
     },
     {
@@ -671,24 +1069,6 @@
       "sources": []
     },
     {
-      "id": "china-coast-guard-approaches-japanese-fishing-boat-5719ce",
-      "title": "两艘中国海警船试图接触日本渔船后被要求驶离",
-      "description": "日本海上保安厅称，两艘中国海警船于11月26日上午约7时42分进入尖阁诸岛（中国称钓鱼岛）附近水域，并试图接触一艘日本渔船。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T04:31:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/china-coast-guard-approaches-japanese-fishing-boat-5719ce",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "sp-global-ratings-places-nvidia-negative-watch-469559",
       "title": "标普将英伟达AA级长期评级列入负面观察",
       "description": "标普全球评级于当地时间11月25日将英伟达AA级长期信用评级列入负面观察名单。",
@@ -797,24 +1177,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "japan-hokkaido-glide-missile-deployment-ddd361",
-      "title": "日本广播协会称日本拟于12月在北海道部署高速滑翔弹",
-      "description": "日本防卫省计划最快于12月上旬将“25式高速滑翔弹”发射装置等运至北海道上富良野驻屯地，启动相关部署并组建新部队；这一计划由日本广播协会报道。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T03:44:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/japan-hokkaido-glide-missile-deployment-ddd361",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1154,46 +1516,6 @@
       "sources": []
     },
     {
-      "id": "kim-jong-un-seeks-nuclear-launch-expansion-f7a284",
-      "title": "金正恩要求朝鲜扩大多领域战术核武器运用",
-      "description": "朝鲜领导人金正恩于11月25日视察核材料生产及核武器研究部门，要求推动战术核武器用于更多领域。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T02:10:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/kim-jong-un-seeks-nuclear-launch-expansion-f7a284",
-      "reference": [
-        "联合早报",
-        "韩国国际广播电台"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "huang-le-jensen-huang-china-state-security-contact-596366",
-      "title": "美国官员称无证据显示黄乐受命接近黄仁勋",
-      "description": "美国情报官员11月24日在一场约两小时的闭门简报中告诉国会方面，政府仍未完全厘清中国商人黄乐在相关事件中的角色；目前没有证据显示她受中国国家安全部指使，与英伟达首席执行官黄仁勋发生婚外情；简报人员也未否认她在婚外情开始后向该部门传递情报。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T02:06:44+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/huang-le-jensen-huang-china-state-security-contact-596366",
-      "reference": [
-        "联合早报",
-        "德国之声",
-        "端传媒",
-        "世界日报"
-      ],
-      "section": "world",
-      "sourceCount": 10,
-      "sources": []
-    },
-    {
       "id": "anwar-government-considers-stricter-ecommerce-rules-3d96a4",
       "title": "安华称政府将考虑收紧国际电商廉价商品监管",
       "description": "马来西亚首相兼财政部长安华表示，政府将考虑制定更严格的规定，管控国际电商平台大量涌入的廉价商品，尤其是中国商品。",
@@ -1493,44 +1815,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "bay-area-thanksgiving-flood-transport-risk-0346b1",
-      "title": "旧金山帝王潮刷新11月高潮位纪录",
-      "description": "厄尔尼诺现象和年度帝王潮推高加州沿岸水位，旧金山刷新11月高潮位纪录，湾区及南加州多地出现淹水或面临沿岸洪水风险。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T00:24:54+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/bay-area-thanksgiving-flood-transport-risk-0346b1",
-      "reference": [
-        "世界日报",
-        "星岛日报美国版",
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 21,
-      "sources": []
-    },
-    {
-      "id": "cooper-blocks-trump-birthright-order-c077e5",
-      "title": "美国法官再禁特朗普政府执行出生公民权限制令",
-      "description": "美国联邦地区法院法官库珀于11月25日签发初步禁令，禁止联邦政府按照特朗普8月签署的新行政令，拒绝承认部分在美国出生儿童的公民身份。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T00:19:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/cooper-blocks-trump-birthright-order-c077e5",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -1941,24 +2225,6 @@
       "sources": []
     },
     {
-      "id": "queens-huang-family-medicare-fraud-c62133",
-      "title": "皇后区黄姓一家四口被控骗取医保逾5500万美元",
-      "description": "纽约皇后区黄姓一家四口被控借多家药房向联邦医保计划申报非必要处方药费用，检方称涉案金额超过5500万美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T17:38:04+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/queens-huang-family-medicare-fraud-c62133",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "hou-yizhao-yidh-settle-postage-fraud-462517",
       "title": "侯一照及两家公司和解支付30万美元",
       "description": "侯一照及其控制的义达快递公司、义达国际公司11月25日在纽约东区联邦法院与美国邮政署监察局达成和解。",
@@ -1973,24 +2239,6 @@
         "世界日报"
       ],
       "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "new-york-controller-storefront-vacancy-high-9afd5a",
-      "title": "纽约主计长推出平台公布店面空置率两年多来新高",
-      "description": "纽约市主计长李文推出线上店面数据平台，供公众查询各地商铺开业、关闭和空置情况。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T16:20:21+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/new-york-controller-storefront-vacancy-high-9afd5a",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -2291,43 +2539,6 @@
       "sources": []
     },
     {
-      "id": "malaysia-reports-proven-rare-earth-resources-34f020",
-      "title": "马来西亚已探明稀土资源达27.5万吨",
-      "description": "马来西亚天然资源及环境永续部长亚瑟古律11月25日在国会说，后续勘探截至2025年已探明稀土资源27万4887吨。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T13:44:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/malaysia-reports-proven-rare-earth-resources-34f020",
-      "reference": [
-        "当今大马",
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "local-government-financing-platforms-fall-92-percent-1c90a2",
-      "title": "全国融资平台数量较2023年3月末下降92%",
-      "description": "全国融资平台“退平台”工作进入最后阶段。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T13:37:34.489836+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/local-government-financing-platforms-fall-92-percent-1c90a2",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "eurozone-card-payments-overtake-cash-a20655",
       "title": "欧洲央行调查显示欧元区刷卡支付首超现金",
       "description": "欧洲央行11月25日公布调查结果，欧元区实体场所交易中，刷卡支付占45%，首次超过现金支付的44%；其余交易大多使用手机支付。",
@@ -2403,25 +2614,6 @@
       "sources": []
     },
     {
-      "id": "daye-smart-faces-risk-warning-5ab8bb",
-      "title": "神雾节能大烨智能将被实施其他风险警示",
-      "description": "神雾节能、大烨智能将于11月26日开市起被实施其他风险警示，股票简称分别变更为“ST节能”和“ST大烨”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T13:19:38.652113+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/daye-smart-faces-risk-warning-5ab8bb",
-      "reference": [
-        "澎湃新闻",
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "germany-q3-gdp-growth-cut-0-1-percent-24e271",
       "title": "德国三季度经济增速下修至0.1%",
       "description": "德国联邦统计局将2026年第三季度国内生产总值环比增幅从初步估算的0.2%下修至0.1%，低于此前公布值。",
@@ -2438,24 +2630,6 @@
       ],
       "section": "world",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "taiwan-offshore-wind-developers-direct-green-power-sales-5fdffd",
-      "title": "台湾离岸风电业者可转签协议直售绿电",
-      "description": "台湾经济部能源署表示，离岸风电开发商可以结束与台湾电力公司的固定收购合同，改与台湾企业签订购售电协议（CPPA），将绿电直接出售给有需求的企业。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T12:39:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/taiwan-offshore-wind-developers-direct-green-power-sales-5fdffd",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2515,25 +2689,6 @@
       "sources": []
     },
     {
-      "id": "us-air-force-deploys-f15ex-kadena-122e69",
-      "title": "美空军开始在嘉手纳基地部署F-15EX战机",
-      "description": "美国空军11月25日在冲绳嘉手纳基地向媒体展示F-15EX；该机型本月15日首次部署海外，将接替当地老旧F-15。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T12:17:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/us-air-force-deploys-f15ex-kadena-122e69",
-      "reference": [
-        "澎湃新闻",
-        "共同网"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "us-thanksgiving-fares-hit-decade-high-c85c10",
       "title": "美国感恩节航空出行预计创16年新高",
       "description": "美国感恩节假期航空出行预计达到16年来最高水平。",
@@ -2552,27 +2707,6 @@
       ],
       "section": "life",
       "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "russian-defense-linked-ship-drifts-finland-waters-33dfee",
-      "title": "泽连斯基证实乌方袭击芬兰湾俄货轮",
-      "description": "乌克兰总统泽连斯基证实，乌方于11月21日在芬兰湾袭击俄罗斯货轮“斯巴达二号”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T11:56:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/russian-defense-linked-ship-drifts-finland-waters-33dfee",
-      "reference": [
-        "联合早报",
-        "日本放送协会",
-        "澎湃新闻",
-        "公视"
-      ],
-      "section": "world",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -2646,26 +2780,6 @@
         "联合早报"
       ],
       "section": "us",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "uk-energy-price-cap-rises-26-percent-ed7ed5",
-      "title": "英国能源价格上限明年1月将上调26%",
-      "description": "英国能源监管机构Ofgem于11月25日宣布，能源价格上限将从2027年1月起提高26%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T11:35:44+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/uk-energy-price-cap-rises-26-percent-ed7ed5",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "world",
       "sourceCount": 3,
       "sources": []
     },
@@ -2800,25 +2914,6 @@
       "sources": []
     },
     {
-      "id": "new-york-thanksgiving-storms-wind-rain-6e2028",
-      "title": "纽约州府警告感恩节风暴威胁交通供电和沿海地区",
-      "description": "纽约州州府提醒居民，国家气象局预报，一套大型风暴系统将在感恩节当天及夜间影响纽约州多地，带来强风和大雨，交通、电力供应和沿海社区都可能受到影响。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T11:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/new-york-thanksgiving-storms-wind-rain-6e2028",
-      "reference": [
-        "世界日报",
-        "星岛日报美国版"
-      ],
-      "section": "life",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
       "id": "usda-proposes-snap-eligibility-tightening-a345c6",
       "title": "美国农业部拟收紧粮食券申领资格",
       "description": "美国农业部于10日提出修订，拟收紧补充营养援助计划（SNAP，俗称粮食券）的申领资格。",
@@ -2926,24 +3021,6 @@
         "澎湃新闻"
       ],
       "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "democrats-probe-vance-venezuela-oil-deal-dd75ce",
-      "title": "财新称美民主党调查万斯涉委内瑞拉石油商机",
-      "description": "据财新报道，美国民主党参议员正在调查副总统万斯是否动用职权，为一名主要政治捐助者所在企业提供牟利机会。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T09:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/democrats-probe-vance-venezuela-oil-deal-dd75ce",
-      "reference": [
-        "财新"
-      ],
-      "section": "us",
       "sourceCount": 1,
       "sources": []
     },
@@ -3332,43 +3409,6 @@
       "sources": []
     },
     {
-      "id": "new-york-joins-lawsuit-hud-housing-rule-89d2c1",
-      "title": "纽约市加入诉讼阻止联邦住房补助新规",
-      "description": "纽约市于11月23日宣布加入由旧金山牵头的地方政府联盟，起诉美国特朗普政府，要求法院阻止一项联邦住房补助新规。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T06:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/new-york-joins-lawsuit-hud-housing-rule-89d2c1",
-      "reference": [
-        "星岛日报美国版",
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "democrats-boycott-harvard-orientation-d07179",
-      "title": "53名美国民主党当选众议员拒绝参加哈佛迎新",
-      "description": "蒙大拿州当选众议员福斯塔格在社交媒体发布的联名信显示，53名民主党当选众议员表示，在哈佛研究生工会罢工期间，他们不会前往哈佛参加新国会议员迎新活动，也不会越过工会的纠察线，以此表达支持。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T06:18:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/democrats-boycott-harvard-orientation-d07179",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "experts-warn-ai-voice-cloning-scams-1d0de1",
       "title": "专家提醒民众防范AI仿声索款诈骗",
       "description": "诈骗者利用人工智能模仿亲友声音、编造突发状况索要钱款。",
@@ -3402,42 +3442,6 @@
       ],
       "section": "life",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "federal-railroad-withdraws-amtrak-relocation-funding-9b3488",
-      "title": "美国联邦铁路管理局撤回美铁迁建补助",
-      "description": "美国联邦铁路管理局（FRA）近日撤回对美国国铁（Amtrak）在芝加哥桥港区建设新维修场的全部补助，并禁止美铁出售14街现有铁路场站用地。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T06:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/federal-railroad-withdraws-amtrak-relocation-funding-9b3488",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "broderick-defeats-desjarlais-democrats-reach-259-seats-e71bf0",
-      "title": "布罗德里克险胜德贾莱斯助民主党众院至少获259席",
-      "description": "民主党候选人维多利亚·布罗德里克在田纳西州第四选区以约270票优势击败共和党现任众议员斯科特·德贾莱斯，胜差不到1%。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T06:13:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/broderick-defeats-desjarlais-democrats-reach-259-seats-e71bf0",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -4205,25 +4209,6 @@
       "sources": []
     },
     {
-      "id": "nyt-china-military-fears-us-ai-nuclear-retaliation-986075",
-      "title": "纽约时报称中国军方忧美国AI削弱核威慑力",
-      "description": "纽约时报梳理中国军方及民间研究人员近期发表的100多项研究，并采访专家和美国前官员后指出，中国军方研究人员对美国将人工智能用于核相关系统保持高度警惕。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T02:34:12+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/nyt-china-military-fears-us-ai-nuclear-retaliation-986075",
-      "reference": [
-        "世界日报",
-        "纽约时报"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "house-yang-german-tv-premiere-db0e4f",
       "title": "《杨家之屋》登陆德国电视呈现德中家庭创伤",
       "description": "悬疑影集《杨家之屋》（House of Yang）于2026年10月9日起在德国第一电视台（ARD）播出，并入选当年柏林电影节特别放映单元。",
@@ -4438,24 +4423,6 @@
         "中央通訊社"
       ],
       "section": "sports",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "euclid-telescope-releases-largest-data-set-aa2f7e",
-      "title": "欧几里德望远镜公布迄今最大观测数据集",
-      "description": "欧洲太空总署（ESA）公布欧几里德太空望远镜迄今规模最大、内容最完整的一批观测数据，编号为DR1。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T01:01:09+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/euclid-telescope-releases-largest-data-set-aa2f7e",
-      "reference": [
-        "公视"
-      ],
-      "section": "tech",
       "sourceCount": 1,
       "sources": []
     },
