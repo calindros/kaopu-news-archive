@@ -1,19 +1,19 @@
 {
   "details": {
     "date": "2026-11-26",
-    "timestamp": 1795681088,
+    "timestamp": 1795685125,
     "totalPages": 1,
-    "total": 262
+    "total": 261
   },
   "stories": [
     {
       "id": "wsj-us-subsidy-probe-results-83a04c",
-      "title": "美国拟对14个经济体加征新关税",
-      "description": "美国贸易代表办公室完成一项历时约8个月的《1974年贸易法》第301条调查，并公布拟议措施，计划以结构性制造业产能过剩为由，对包括中国在内的14个经济体加征关税。",
+      "title": "美国拟对14个贸易伙伴加征产能过剩关税",
+      "description": "美国贸易代表办公室（USTR）11月25日公布针对结构性产能过剩的301调查结果，提出对中国、欧盟、日本、韩国、台湾等14个贸易伙伴加征关税。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-26T07:35:54+00:00",
+      "updatedAt": "2026-11-26T08:34:56+00:00",
       "occurredAt": "",
       "publishedAt": "2026-11-24",
       "url": "https://kaopu.news/story/2026-11-24/wsj-us-subsidy-probe-results-83a04c",
@@ -24,13 +24,256 @@
         "世界日报"
       ],
       "section": "world",
-      "sourceCount": 62,
+      "sourceCount": 72,
+      "sources": []
+    },
+    {
+      "id": "china-defense-ministry-responds-taiwan-suicide-drone-boats-6b814a",
+      "title": "中国国防部回应台湾自杀式无人艇采购计划",
+      "description": "中国国防部新闻发言人陈曦在11月26日下午的例行记者会上回应台湾自杀式无人艇采购计划，称中国人民解放军是捍卫国家统一的强大力量，并批评台湾“台独”武装企图凭借少数装备阻止统一是“不自量力”。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T08:26:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/china-defense-ministry-responds-taiwan-suicide-drone-boats-6b814a",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "police-link-streaming-app-trojan-bank-theft-f7c170",
+      "title": "警方研判假追剧应用木马涉网银盗转案；相关案件累计损失逾1742万元",
+      "description": "台湾警方研判，犯罪者利用假冒影音短剧应用中的木马，疑似远程操控手机并操作网银转账。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T08:01:08+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/police-link-streaming-app-trojan-bank-theft-f7c170",
+      "reference": [
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-navy-showcases-ships-aircraft-zhuhai-airshow-4851d6",
+      "title": "中国海军将携多型舰机亮相珠海航展",
+      "description": "中国海军将于12月7日至13日参加在广东珠海举行的第十六届中国国际航空航天博览会，展示舰艇、舰载机、反潜巡逻机及无人装备，并安排飞行表演和舰艇开放活动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T07:50:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/china-navy-showcases-ships-aircraft-zhuhai-airshow-4851d6",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "japan-experts-weigh-nuclear-submarine-options-5befff",
+      "title": "共同社称日本政府专家会议拟综合评估核潜艇利弊",
+      "description": "据共同社援引多名相关人士报道，日本政府专家会议计划于12月汇总安保相关文件修订建议，草案拟主张综合权衡开发和引进核潜艇的利弊。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T07:49:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/japan-experts-weigh-nuclear-submarine-options-5befff",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "guo-jiakun-responds-canadian-spy-arrest-belgium-407327",
+      "title": "郭嘉昆回应华裔加拿大公民在比利时因涉间谍被捕",
+      "description": "11月26日举行的外交部例行记者会上，一名记者询问一名华裔加拿大公民因涉嫌间谍活动在比利时被捕的相关情况。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T07:45:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/guo-jiakun-responds-canadian-spy-arrest-belgium-407327",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-coast-guard-approaches-japanese-fishing-boat-5719ce",
+      "title": "两艘中国海警船接近日渔船被日方要求驶离",
+      "description": "两艘中国海警船于11月26日上午7时42分左右进入钓鱼岛及其附属岛屿附近海域，并试图接近一艘日本渔船。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T07:44:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/china-coast-guard-approaches-japanese-fishing-boat-5719ce",
+      "reference": [
+        "联合早报",
+        "法广",
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "pepsico-invests-shandong-plant-expansion-f9a3de",
+      "title": "百事集团投资3.1亿元启动山东生产基地二期建设",
+      "description": "百事集团宣布投入3.1亿元，启动百事食品山东生产基地二期工程。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T07:44:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/pepsico-invests-shandong-plant-expansion-f9a3de",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nepal-pm-shah-visits-india-reset-ties-12a136",
+      "title": "莫迪宣布向尼泊尔提供2400亿卢比发展方案",
+      "description": "尼泊尔总理巴伦德拉·沙阿11月23日在新德里会见印度总理纳伦德拉·莫迪，这是他就任以来首次访问印度。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T07:41:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/nepal-pm-shah-visits-india-reset-ties-12a136",
+      "reference": [
+        "英国广播公司",
+        "法广",
+        "日经",
+        "日本放送协会"
+      ],
+      "section": "asia",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "north-korea-showcases-conventional-weapons-000169",
+      "title": "朝鲜自2026年9月以来公开展示常规军力17次",
+      "description": "朝鲜自2026年9月以来频繁通过官方媒体展示常规军力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T07:40:18+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/north-korea-showcases-conventional-weapons-000169",
+      "reference": [
+        "韩民族日报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "lithuania-pm-can-revoke-taiwan-office-status-3e5398",
+      "title": "立陶宛总理称不更名可撤销台湾代表处法律地位",
+      "description": "立陶宛总理辛克维丘斯表示，如果台湾驻立陶宛代表处不愿更名，立陶宛可以单方面撤销其法律地位。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T07:39:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/lithuania-pm-can-revoke-taiwan-office-status-3e5398",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "new-york-jury-finds-huawei-subsidiaries-guilty-2b9be5",
+      "title": "美国陪审团裁定华为及三家子公司十项罪名成立",
+      "description": "美国纽约布鲁克林联邦法院陪审团于11月24日裁定，华为及其三家子公司面临的12项刑事指控中有10项成立，涉及银行欺诈、电信欺诈、洗钱、共谋窃取商业秘密以及违反美国对伊朗制裁规定等。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T07:35:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/new-york-jury-finds-huawei-subsidiaries-guilty-2b9be5",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "法广",
+        "公视"
+      ],
+      "section": "us",
+      "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "nagasaki-atomic-mary-statue-us-tour-9ed5c7",
+      "title": "长崎核爆玛利亚像随朝圣团启程赴美展示",
+      "description": "携带长崎“核爆玛利亚像”实物赴美的天主教朝圣团已于11月26日从长崎机场出发，15名成员包括教会相关人士和核爆受害者。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T07:34:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/nagasaki-atomic-mary-statue-us-tour-9ed5c7",
+      "reference": [
+        "共同网"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "beijing-court-awards-fan-xiaolei-punitive-damages-854e65",
+      "title": "北京一中院终审判熙仁医院赔偿范晓蕾388万余元",
+      "description": "北京市一中院于2026年7月31日作出终审判决，维持北京熙仁医院承担惩罚性赔偿的认定，判令医院赔偿范晓蕾各项损失，并另按损失的两倍支付惩罚性赔偿，合计388万余元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T07:30:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/beijing-court-awards-fan-xiaolei-punitive-damages-854e65",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
       "sources": []
     },
     {
       "id": "us-gasoline-prices-fall-below-four-dollars-36a98b",
-      "title": "中国大陆汽柴油每吨将分别下调440元和425元",
-      "description": "中国大陆汽油、柴油标准品价格定于11月26日24时起分别每吨下调440元和425元。",
+      "title": "中国发改委宣布汽柴油价格将下调",
+      "description": "中国国家发展和改革委员会宣布，汽油、柴油标准品价格将于11月26日24时起每吨分别下调440元和425元。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
@@ -46,6 +289,118 @@
       ],
       "section": "business",
       "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "min-aung-hlaing-rejects-icj-demands-bde840",
+      "title": "敏昂莱称缅甸不遵从国际法院部分要求",
+      "description": "缅甸领导人敏昂莱11月25日在一次会议上表示，缅甸不会接受国际法院裁决中政府认为不妥的部分要求。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T07:22:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/min-aung-hlaing-rejects-icj-demands-bde840",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-stocks-fall-below-40000-401faf",
+      "title": "台湾股市涨956点重返39000点",
+      "description": "美国贸易代表署公布301条款调查报告后，市场对新增关税的疑虑有所缓和，台湾股市强势反弹。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T07:16:57+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/taiwan-stocks-fall-below-40000-401faf",
+      "reference": [
+        "中央通訊社",
+        "公视"
+      ],
+      "section": "business",
+      "sourceCount": 19,
+      "sources": []
+    },
+    {
+      "id": "south-korea-court-rules-foreign-political-ban-d53ef9",
+      "title": "韩国宪法法院裁定外国人政治活动全面禁令违宪",
+      "description": "韩国宪法法院以6票赞成、3票反对，裁定《出入境管理法》第17条第2款违宪。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T07:15:03+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/south-korea-court-rules-foreign-political-ban-d53ef9",
+      "reference": [
+        "韩国国际广播电台"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "yun-sun-china-us-detente-hawkish-return-fc6c99",
+      "title": "孙韵称北京借美中缓和为鹰派回归做准备",
+      "description": "史汀生中心中国项目主任孙韵11月25日在美国《外交事务》刊文指出，北京正借美中关系缓和巩固合作、争取美国公众支持，为特朗普卸任后对华鹰派政策可能回归作准备。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:58:37+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/yun-sun-china-us-detente-hawkish-return-fc6c99",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "nikkei-225-breaks-below-57000-0e5abf",
+      "title": "日经指数大跌后反弹收涨近500点",
+      "description": "东京股市日经225指数由前一交易日急跌转为上涨，人工智能和半导体类股回升，带动指数收高。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:58:35+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/nikkei-225-breaks-below-57000-0e5abf",
+      "reference": [
+        "澎湃新闻",
+        "共同网",
+        "法广",
+        "中央通訊社"
+      ],
+      "section": "business",
+      "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "china-agencies-report-six-land-forest-violations-879618",
+      "title": "两部门通报六起违法占地毁林毁草问题",
+      "description": "自然资源部、国家林业和草原局公布六起在2026年第三季度发现的违法占地、破坏耕地及毁林毁草问题，涉及河北、山西、吉林、山东、贵州和宁夏。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T06:57:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/china-agencies-report-six-land-forest-violations-879618",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -585,25 +940,6 @@
       "sources": []
     },
     {
-      "id": "china-coast-guard-approaches-japanese-fishing-boat-5719ce",
-      "title": "中国海警船驶入尖阁附近争议水域并试图接近日渔船",
-      "description": "两艘中国海警船于11月26日上午7时42分左右驶入有主权争议的尖阁诸岛（中国称钓鱼岛）附近争议水域，并试图靠近一艘日本渔船。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T06:03:38+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/china-coast-guard-approaches-japanese-fishing-boat-5719ce",
-      "reference": [
-        "联合早报",
-        "法广"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "indonesia-names-nickel-trader-money-laundering-suspect-61b716",
       "title": "印尼检方将镍矿商阿里夫列为洗钱案嫌疑人",
       "description": "印度尼西亚总检察长办公室11月25日晚宣布，将镍矿交易商阿里夫列为洗钱案嫌疑人。",
@@ -710,25 +1046,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "taiwan-stocks-fall-below-40000-401faf",
-      "title": "台湾股市反弹956点重回39000点上方",
-      "description": "美国贸易代表署公布《301条款》调查报告、市场对关税安排的担忧有所缓和后，台湾股市于11月26日开高走高，收涨956.38点至39151.81点，涨幅2.50%，回到39000点上方。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T05:54:49+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/taiwan-stocks-fall-below-40000-401faf",
-      "reference": [
-        "中央通訊社",
-        "公视"
-      ],
-      "section": "business",
-      "sourceCount": 18,
       "sources": []
     },
     {
@@ -856,45 +1173,6 @@
         "中央通訊社"
       ],
       "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "new-york-jury-finds-huawei-subsidiaries-guilty-2b9be5",
-      "title": "美国陪审团裁定华为及三家子公司十项罪名成立",
-      "description": "纽约东区联邦法院陪审团于2026年11月24日作出裁决，认定华为及三家子公司遭控的12项刑事罪名中有10项成立，另两项不成立。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T05:21:07+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/new-york-jury-finds-huawei-subsidiaries-guilty-2b9be5",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "法广",
-        "公视"
-      ],
-      "section": "us",
-      "sourceCount": 11,
-      "sources": []
-    },
-    {
-      "id": "police-link-streaming-app-trojan-bank-theft-f7c170",
-      "title": "台湾警方发现追剧App木马疑被用于盗转网银存款",
-      "description": "台湾警方调查多起网银存款被盗转案件时发现，部分受害者曾安装带有木马的追剧App。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T05:10:19+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/police-link-streaming-app-trojan-bank-theft-f7c170",
-      "reference": [
-        "公视"
-      ],
-      "section": "asia",
       "sourceCount": 1,
       "sources": []
     },
@@ -1552,26 +1830,6 @@
       "sources": []
     },
     {
-      "id": "nikkei-225-breaks-below-57000-0e5abf",
-      "title": "日经指数早盘反弹一度收复58000点",
-      "description": "东京股市日经指数11月26日早盘反弹，一度重新站上58000点。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T01:55:55+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/nikkei-225-breaks-below-57000-0e5abf",
-      "reference": [
-        "澎湃新闻",
-        "共同网",
-        "法广"
-      ],
-      "section": "business",
-      "sourceCount": 8,
-      "sources": []
-    },
-    {
       "id": "anwar-orders-study-ai-wealth-fund-fc7962",
       "title": "安华指示研究设立人工智能财富基金",
       "description": "马来西亚首相兼财政部长安华要求通讯部和数码部评估设立人工智能财富基金的可行方案，目标是让全民共享科技发展带来的经济收益。",
@@ -1969,24 +2227,6 @@
       "sources": []
     },
     {
-      "id": "taiwan-election-suspicious-information-grows-5ccd1a",
-      "title": "台湾选举前跨平台可疑信息快速增加",
-      "description": "台湾将于2026年11月28日举行九类地方公职人员选举，台北市长职位受关注。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T23:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/taiwan-election-suspicious-information-grows-5ccd1a",
-      "reference": [
-        "端传媒"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "conservative-mps-question-joly-huawei-zte-removal-6c6fa8",
       "title": "保守党议员质询乔美兰为何未强制拆除华为中兴设备",
       "description": "加拿大保守党议员要求工业部长乔美兰解释，政府为何尚未动用《C-8法案》授予的权限，要求电信运营商移除华为和中兴通讯设备。",
@@ -2261,25 +2501,6 @@
       "sources": []
     },
     {
-      "id": "anwar-signals-no-early-election-a74756",
-      "title": "安华称第16届全国大选可能在2027年国庆前后举行",
-      "description": "马来西亚首相安华表示，第16届全国大选可能安排在2027年8月国庆日前后，但他称选举须在2028年2月前举行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T15:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/anwar-signals-no-early-election-a74756",
-      "reference": [
-        "联合早报",
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "us-china-russia-discuss-apec-leaders-meeting-04a17e",
       "title": "习近平特朗普普京深圳会晤发表和平宣言",
       "description": "习近平、美国总统特朗普和俄罗斯总统普京在深圳举行首次三方峰会，会后共同发布《和平宣言》。",
@@ -2320,24 +2541,6 @@
       "sources": []
     },
     {
-      "id": "anwar-ends-subsidiary-allowance-scheme-de44a8",
-      "title": "安华称政府已终止经理设70家子公司领津贴做法",
-      "description": "安华称，一名官联公司经理通过设立70家小型子公司，每月额外领取7万令吉津贴。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T14:35:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/anwar-ends-subsidiary-allowance-scheme-de44a8",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "amnesty-israel-gaza-women-reproductive-health-ec41a3",
       "title": "图克警告以色列对巴勒斯坦人暴行风险上升",
       "description": "联合国人权事务高级专员图克警告，以色列对巴勒斯坦人的侵害加剧，暴行罪风险上升，并呼吁各国立即行动。",
@@ -2375,24 +2578,6 @@
       "sources": []
     },
     {
-      "id": "singapore-chief-justice-defines-judicial-review-limits-a9a7e4",
-      "title": "新加坡全球法治大会强调司法审查边界",
-      "description": "新加坡全球法治大会11月25日在新加坡举行，司法及检察官员围绕法治、司法审查和国际合作发表讲话。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T14:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/singapore-chief-justice-defines-judicial-review-limits-a9a7e4",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "israel-lawmakers-advance-october-7-inquiry-bill-2f1bd1",
       "title": "以色列议员初步通过调查哈马斯袭击法案",
       "description": "以色列议员初步通过一项法案，拟成立国家调查委员会，调查导致哈马斯2023年10月7日袭击的安全漏洞。",
@@ -2408,25 +2593,6 @@
       ],
       "section": "world",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "basf-cylib-battery-recycling-sale-cda0e2",
-      "title": "巴斯夫拟出售欧美电池回收业务转向正极材料",
-      "description": "巴斯夫已与德国电池回收企业cylib签署协议，拟出售其欧洲和北美电池回收业务，并将电池材料业务集中于正极活性材料。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T14:16:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/basf-cylib-battery-recycling-sale-cda0e2",
-      "reference": [
-        "第一财经",
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2559,24 +2725,6 @@
       "sources": []
     },
     {
-      "id": "myanmar-mine-casualties-global-highest-fad5e3",
-      "title": "缅甸地雷伤亡人数连续三年居全球首位",
-      "description": "国际反地雷—集束弹药联盟11月24日发布年度报告称，缅甸2025年有1891人因地雷及战争遗留爆炸物死亡或受伤，连续第三年位居全球第一；叙利亚以1602人排第二。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T13:28:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/myanmar-mine-casualties-global-highest-fad5e3",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "us-air-force-b21-conventional-weapons-test-042091",
       "title": "美国空军称B-21完成首次常规弹药投射测试",
       "description": "美国空军近日宣布，B-21“突袭者”隐身战略轰炸机完成首次常规弹药投射测试。",
@@ -2595,44 +2743,6 @@
       "sources": []
     },
     {
-      "id": "china-navy-showcases-ships-aircraft-zhuhai-airshow-4851d6",
-      "title": "中国海军将开放055型驱逐舰供公众参观",
-      "description": "中国海军11月23日公布第十六届中国国际航空航天博览会参展安排。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T13:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/china-navy-showcases-ships-aircraft-zhuhai-airshow-4851d6",
-      "reference": [
-        "澎湃新闻",
-        "联合早报"
-      ],
-      "section": "china",
-      "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "germany-q3-gdp-growth-cut-0-1-percent-24e271",
-      "title": "德国三季度经济增速下修至0.1%",
-      "description": "德国联邦统计局将2026年第三季度国内生产总值环比增幅从初步估算的0.2%下修至0.1%，低于此前公布值。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T13:01:41+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/germany-q3-gdp-growth-cut-0-1-percent-24e271",
-      "reference": [
-        "中央通訊社",
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "china-gpu-shares-fall-foundry-uncertainty-793dbe",
       "title": "国产GPU四小龙遭集中抛售股价集体下跌",
       "description": "11月25日，沐曦股份、摩尔线程、壁仞科技和天数智芯股价全线下跌。",
@@ -2647,44 +2757,6 @@
         "第一财经"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "england-heat-deaths-hit-record-c20061",
-      "title": "英格兰今夏高温相关死亡估计达5258例",
-      "description": "英国卫生安全局11月24日公布的初步统计显示，2026年5月至9月，英格兰估计有5258例死亡与高温有关，是该机构2016年启动年度监测以来的最高年度数字。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T12:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/england-heat-deaths-hit-record-c20061",
-      "reference": [
-        "法广",
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "australia-passes-digital-duty-law-614a35",
-      "title": "澳大利亚通过数码注意义务法要求平台清除有害内容",
-      "description": "澳大利亚通过《数码注意义务法》，要求互联网企业主动清除有害内容及相关功能。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T12:23:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/australia-passes-digital-duty-law-614a35",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -3648,84 +3720,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ouyang-nana-hopes-strait-narrows-98ced6",
-      "title": "国台办欢迎两岸同胞关注音乐节目后续",
-      "description": "国台办发言人张晗11月25日在例行新闻发布会上表示，欢迎两岸同胞关注、收看《声生不息·天涯共此时》后续节目。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T03:02:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-22",
-      "url": "https://kaopu.news/story/2026-11-22/ouyang-nana-hopes-strait-narrows-98ced6",
-      "reference": [
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "china-eximbank-signs-taiwan-finance-agreement-906e1b",
-      "title": "国台办与中国进出口银行签约支持台企融资",
-      "description": "国台办与中国进出口银行11月23日在北京签署《“十五五”时期促进两岸融合发展金融合作协议》，合作期限为2026年至2030年。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T03:01:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/china-eximbank-signs-taiwan-finance-agreement-906e1b",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "中央通訊社",
-        "日经"
-      ],
-      "section": "china",
-      "sourceCount": 8,
-      "sources": []
-    },
-    {
-      "id": "china-extends-us-export-controls-suspension-6beb57",
-      "title": "中国商务部延长暂停部分两用物项对美出口管制",
-      "description": "中国商务部11月24日公告，经批准将继续暂停实施2024年第46号公告第二款，暂停期为2026年11月28日至2027年1月27日。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T02:48:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/china-extends-us-export-controls-suspension-6beb57",
-      "reference": [
-        "中央通訊社",
-        "财新"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "chen-jining-probe-zhu-zhongming-inspects-insurance-2fc7b2",
-      "title": "朱忠明赴基层调研医保领域集中整治工作",
-      "description": "上海市市长朱忠明赴长宁区一家医养机构和上海市医保中心，调研医保领域群众身边不正之风和腐败问题集中整治工作，并主持召开座谈会，副市长王华杰参加。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T02:41:42+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/chen-jining-probe-zhu-zhongming-inspects-insurance-2fc7b2",
-      "reference": [
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -4770,24 +4764,6 @@
         "中央通訊社"
       ],
       "section": "sports",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "yuhua-paris-review-editor-dialogue-8614c8",
-      "title": "余华等人与《巴黎评论》副主编探讨中国文学走向世界",
-      "description": "《巴黎评论》副主编丹尼斯·周与作家余华、《收获》杂志原主编程永新、出版人黄育海，11月16日晚在华东师范大学举行题为“《巴黎评论》与中国当代文学”的对谈，讨论中国作家在英语文学界的能见度，以及中文作品如何触达世界读者。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-17T02:36:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-16",
-      "url": "https://kaopu.news/story/2026-11-16/yuhua-paris-review-editor-dialogue-8614c8",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "culture",
       "sourceCount": 2,
       "sources": []
     },
