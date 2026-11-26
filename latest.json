@@ -1,11 +1,131 @@
 {
   "details": {
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "timestamp": 1795650247,
     "totalPages": 1,
-    "total": 265
+    "total": 266
   },
   "stories": [
+    {
+      "id": "us-army-plans-iowa-ammunition-plant-blast-87f46e",
+      "title": "美国陆军引爆近5吨老化炸药并称无人伤亡",
+      "description": "美国陆军11月25日上午在爱荷华州东南部米德尔敦一处弹药设施内，受控引爆近5吨老化叠氮化铅。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T23:55:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/us-army-plans-iowa-ammunition-plant-blast-87f46e",
+      "reference": [
+        "世界日报",
+        "联合早报",
+        "公视",
+        "法广"
+      ],
+      "section": "us",
+      "sourceCount": 14,
+      "sources": []
+    },
+    {
+      "id": "china-exchanges-cut-financing-margin-to-80-percent-016e3c",
+      "title": "沪深北交易所下调融资保证金比例至80%",
+      "description": "2026年11月22日，经中国证监会批准，沪深北交易所发布通知，将融资买入证券的最低保证金比例从100%降至80%，新规将于11月30日起实施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T23:51:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-22",
+      "url": "https://kaopu.news/story/2026-11-22/china-exchanges-cut-financing-margin-to-80-percent-016e3c",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "财新",
+        "联合早报"
+      ],
+      "section": "business",
+      "sourceCount": 17,
+      "sources": []
+    },
+    {
+      "id": "wsj-us-subsidy-probe-results-83a04c",
+      "title": "美国拟对14个经济体加征产能过剩关税",
+      "description": "美国贸易代表署（USTR）11月25日公布依据《1974年贸易法》第301条进行的结构性产能过剩调查报告，提议对14个经济体加征关税。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T23:22:19+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/wsj-us-subsidy-probe-results-83a04c",
+      "reference": [
+        "中央通訊社",
+        "朝鲜日报",
+        "公视",
+        "世界日报"
+      ],
+      "section": "world",
+      "sourceCount": 26,
+      "sources": []
+    },
+    {
+      "id": "ftc-shein-consumer-misleading-100-million-settlement-ac2465",
+      "title": "SHEIN同意支付1亿美元与美国FTC和解",
+      "description": "SHEIN与美国联邦贸易委员会（FTC）就涉嫌误导消费者的调查达成协议，将支付1亿美元用于消费者补偿，并加强消费者服务和合规措施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T23:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/ftc-shein-consumer-misleading-100-million-settlement-ac2465",
+      "reference": [
+        "中央通訊社",
+        "世界日报",
+        "联合早报",
+        "财新"
+      ],
+      "section": "world",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "us-proposes-10-percent-tariff-brazilian-aircraft-016e47",
+      "title": "美国拟对巴西成品飞机征收10%关税",
+      "description": "美国提议对巴西商品加征新关税，拟将巴西生产的成品飞机纳入10%税率，结束其现有免税待遇。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T23:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/us-proposes-10-percent-tariff-brazilian-aircraft-016e47",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-election-suspicious-information-grows-5ccd1a",
+      "title": "台湾选举前跨平台可疑信息快速增加",
+      "description": "台湾将于2026年11月28日举行九类地方公职人员选举，台北市长职位受关注。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T23:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/taiwan-election-suspicious-information-grows-5ccd1a",
+      "reference": [
+        "端传媒"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "chan-kwok-ki-allows-legal-wang-fuk-memorials-3dd41f",
       "title": "香港政府不办宏福苑大火周年官方悼念活动",
@@ -62,6 +182,24 @@
       ],
       "section": "us",
       "sourceCount": 8,
+      "sources": []
+    },
+    {
+      "id": "conservative-mps-question-joly-huawei-zte-removal-6c6fa8",
+      "title": "保守党议员质询乔美兰为何未强制拆除华为中兴设备",
+      "description": "加拿大保守党议员要求工业部长乔美兰解释，政府为何尚未动用《C-8法案》授予的权限，要求电信运营商移除华为和中兴通讯设备。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-25T22:20:23.696000+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/conservative-mps-question-joly-huawei-zte-removal-6c6fa8",
+      "reference": [
+        "加拿大国际广播电台"
+      ],
+      "section": "world",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -306,27 +444,6 @@
       "sources": []
     },
     {
-      "id": "us-army-plans-iowa-ammunition-plant-blast-87f46e",
-      "title": "美国陆军在艾奥瓦州引爆近5吨叠氮化铅",
-      "description": "美国陆军11月25日上午在艾奥瓦州东南部米德尔敦的一家弹药厂内，受控引爆近5吨叠氮化铅。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T20:12:36+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/us-army-plans-iowa-ammunition-plant-blast-87f46e",
-      "reference": [
-        "世界日报",
-        "联合早报",
-        "公视",
-        "法广"
-      ],
-      "section": "us",
-      "sourceCount": 13,
-      "sources": []
-    },
-    {
       "id": "egypt-giza-oil-truck-fire-kills-30-eeed6a",
       "title": "埃及吉萨省油品卡车起火致至少30人死亡",
       "description": "埃及吉萨省瓦拉克区环城公路25日发生卡车火灾，涉事车辆装载石油制品。",
@@ -401,27 +518,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "wsj-us-subsidy-probe-results-83a04c",
-      "title": "美国拟对14个经济体加征产能过剩关税",
-      "description": "美国贸易代表署11月25日公布针对制造业结构性产能过剩的301调查结果，提议对中国、欧盟、台湾等14个经济体的商品加征关税。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T17:58:11.446000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/wsj-us-subsidy-probe-results-83a04c",
-      "reference": [
-        "中央通訊社",
-        "朝鲜日报",
-        "公视",
-        "世界日报"
-      ],
-      "section": "world",
-      "sourceCount": 25,
       "sources": []
     },
     {
@@ -1045,26 +1141,6 @@
       ],
       "section": "business",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "ftc-shein-consumer-misleading-100-million-settlement-ac2465",
-      "title": "希音同意支付1亿美元了结美国消费者保护指控",
-      "description": "希音同意支付1亿美元，与美国联邦贸易委员会（FTC）就涉嫌误导消费者的行为达成和解。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T13:06:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/ftc-shein-consumer-misleading-100-million-settlement-ac2465",
-      "reference": [
-        "中央通訊社",
-        "世界日报",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 4,
       "sources": []
     },
     {
@@ -2331,24 +2407,6 @@
       "sources": []
     },
     {
-      "id": "almasirah-reports-hodeidah-port-attack-4fdee9",
-      "title": "马西拉电视台报告也门荷台达港遇袭",
-      "description": "青年运动旗下马西拉电视台称，也门荷台达港遭到攻击，沙特部队还袭击了当地国际机场。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T08:03:53+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/almasirah-reports-hodeidah-port-attack-4fdee9",
-      "reference": [
-        "法广"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "dell-raises-2027-revenue-profit-forecast-adc147",
       "title": "戴尔创季度营收纪录并第三次上调全年预期",
       "description": "戴尔科技美国当地时间11月24日公布2027财年第三季度业绩。",
@@ -2916,24 +2974,6 @@
       "sources": []
     },
     {
-      "id": "us-retailers-steady-spending-affordable-gifts-d62a7e",
-      "title": "美国零售商称消费稳健并推出平价节日商品",
-      "description": "美国多家零售商在黑色星期五和年底购物季到来前表示，消费者支出仍然稳健；部分商家增加平价商品，另有企业上调销售预期。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T06:01:50+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/us-retailers-steady-spending-affordable-gifts-d62a7e",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "metropolitan-shanghai-museum-signs-ten-year-mou-ba2356",
       "title": "大都会艺术博物馆与上海博物馆签署十年合作备忘录",
       "description": "纽约大都会艺术博物馆与上海博物馆近日在上海签署为期十年的合作备忘录。",
@@ -3229,24 +3269,6 @@
       "occurredAt": "",
       "publishedAt": "2026-11-25",
       "url": "https://kaopu.news/story/2026-11-25/loke-warns-coalition-state-election-clashes-efe05c",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "bersih-warns-anwar-reforms-fail-curb-kleptocracy-eb04ee",
-      "title": "净选盟警告安华政府改革不足以遏止盗贼统治",
-      "description": "净选盟主席费沙警告，安华政府迄今的改革措施仍不足以遏止盗贼统治，并敦促政府加快弥补改革缺口。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T03:06:54+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/bersih-warns-anwar-reforms-fail-curb-kleptocracy-eb04ee",
       "reference": [
         "当今大马"
       ],
