@@ -1,11 +1,343 @@
 {
   "details": {
     "date": "2026-11-26",
-    "timestamp": 1795691967,
+    "timestamp": 1795700095,
     "totalPages": 1,
     "total": 264
   },
   "stories": [
+    {
+      "id": "wsj-us-subsidy-probe-results-83a04c",
+      "title": "美国拟对14个贸易伙伴加征301关税",
+      "description": "美国贸易代表办公室11月25日公布依据《1974年贸易法》第301条完成的结构性产能过剩调查结果，并提出对14个贸易伙伴加征关税。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T12:32:46.079577+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/wsj-us-subsidy-probe-results-83a04c",
+      "reference": [
+        "中央通訊社",
+        "朝鲜日报",
+        "公视",
+        "世界日报"
+      ],
+      "section": "world",
+      "sourceCount": 84,
+      "sources": []
+    },
+    {
+      "id": "anwar-refers-khoo-poay-tiong-remarks-police-probe-5282df",
+      "title": "马来西亚警方立案调查两名行动党领袖言论",
+      "description": "马来西亚警方已就行动党领袖潘俭伟一则涉及纳吉特赦文件解密的脸书贴文，以及马六甲市国会议员邱培栋质疑瓜登营业场所在周五祈祷时段须暂停营业的言论立案调查。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T12:22:26+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/anwar-refers-khoo-poay-tiong-remarks-police-probe-5282df",
+      "reference": [
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "singapore-chief-justice-defines-judicial-review-limits-a9a7e4",
+      "title": "多国司法领袖在新加坡讨论司法独立",
+      "description": "新加坡全球法治大会在香格里拉酒店举行，为期两天，是新加坡司法机构成立200周年纪念活动的重点项目之一。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T12:11:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-25",
+      "url": "https://kaopu.news/story/2026-11-25/singapore-chief-justice-defines-judicial-review-limits-a9a7e4",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "asia",
+      "sourceCount": 4,
+      "sources": []
+    },
+    {
+      "id": "china-elderly-childcare-service-plan-89a6bf",
+      "title": "四部门印发方案明确“一老一小”服务目标",
+      "description": "国家发展改革委、民政部、国家卫生健康委和教育部11月23日对外公布《“一老一小”服务体系建设实施方案》，为养老与托育服务体系建设提出目标和措施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T12:04:46.241514+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/china-elderly-childcare-service-plan-89a6bf",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "联合早报",
+        "财新"
+      ],
+      "section": "life",
+      "sourceCount": 5,
+      "sources": []
+    },
+    {
+      "id": "li-wei-expelled-party-and-public-office-3b3f05",
+      "title": "江西省委原常委李伟被开除党籍和公职",
+      "description": "中央纪委国家监委通报，江西省委原常委、统战部原部长李伟被开除党籍和公职，涉嫌犯罪问题及相关财物将移送检察机关审查起诉。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T11:57:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/li-wei-expelled-party-and-public-office-3b3f05",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "china-approves-bepirovirsen-hepatitis-functional-cure-8dfccc",
+      "title": "国家药监局批准贝普若韦生在中国上市",
+      "description": "国家药品监督管理局批准葛兰素史克（GSK）的贝普若韦生注射液在中国上市，商品名为贺舒可。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T11:49:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/china-approves-bepirovirsen-hepatitis-functional-cure-8dfccc",
+      "reference": [
+        "第一财经",
+        "澎湃新闻"
+      ],
+      "section": "tech",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "brazil-led-team-discovers-ancient-reef-120cbb",
+      "title": "巴西领衔五国团队推测珊瑚礁可能有500万年历史",
+      "description": "由巴西伊塔雅伊河谷大学海洋学教授荷西·佩雷兹率领的五国团队，在大西洋赤道附近、巴西与西非之间的罗曼什断裂带发现一片珊瑚礁。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T11:48:54+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/brazil-led-team-discovers-ancient-reef-120cbb",
+      "reference": [
+        "公视"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "qin-lihong-2027-auto-demand-outlook-6f49ba",
+      "title": "秦力洪称2027年车市需求未必明显反弹",
+      "description": "蔚来汽车联合创始人、总裁秦力洪11月25日在蔚来创新科技日上表示，2026年中国汽车市场需求收缩可能不是短期波动，而是未来几年行业的新常态。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T11:47:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/qin-lihong-2027-auto-demand-outlook-6f49ba",
+      "reference": [
+        "财新"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "pig-prices-deepen-listed-producer-losses-6e97a1",
+      "title": "猪价低迷令上市养殖企业前三季度亏损超247亿元",
+      "description": "生猪价格仍低于养殖成本，上市养殖企业今年前三季度合计亏损超过247亿元，债务与现金流压力加大。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T11:43:37.556754+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/pig-prices-deepen-listed-producer-losses-6e97a1",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "malaysia-air-force-officers-arrested-drug-smuggling-dbdb8c",
+      "title": "马来西亚警方查出贩毒集团涉嫌利用空军设施运毒",
+      "description": "马来西亚警方调查发现，一个贩毒集团涉嫌过去两年利用空军航空运输设施走私毒品，在沙巴斗湖和纳闽进行至少21次交易，涉案毒品不少于3公吨，估值约1亿5600万令吉（约4800万新元）。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T11:39:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/malaysia-air-force-officers-arrested-drug-smuggling-dbdb8c",
+      "reference": [
+        "联合早报",
+        "当今大马"
+      ],
+      "section": "asia",
+      "sourceCount": 6,
+      "sources": []
+    },
+    {
+      "id": "anhui-disciplines-fu-removes-university-vice-president-800b17",
+      "title": "安徽省委决定处分付某并免去其安徽大学副校长职务",
+      "description": "安徽省委已决定给予付某党内严重警告处分，并免去其安徽大学党委常委、副校长职务。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T11:37:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/anhui-disciplines-fu-removes-university-vice-president-800b17",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "paper-drama-sales-copyright-child-protection-19bc7b",
+      "title": "商家售卖纸质短剧引出版权与未成年人保护问题",
+      "description": "电商平台上有商家销售将网络短剧画面和对白印成折叠册的“纸质短剧”，部分商品面向学生和儿童销售，作品授权、商品标识及未成年人保护要求由此受到关注。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T11:20:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/paper-drama-sales-copyright-child-protection-19bc7b",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "bond-investors-scrutinize-ai-debt-risk-966375",
+      "title": "债券投资者加码审视AI企业债风险",
+      "description": "本周，黄仁勋复职后英伟达股价反弹，提振全球科技股和人工智能（AI）交易。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T11:18:55.084025+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/bond-investors-scrutinize-ai-debt-risk-966375",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "hkex-evergrande-pledge-discipline-da56ee",
+      "title": "港交所就134亿元质押事件处分恒大及七名高管",
+      "description": "香港联交所11月26日公布纪律行动，谴责中国恒大（清盘中）和恒大物业，并对七名相关高管作出声明及谴责。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T11:18:55.083305+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/hkex-evergrande-pledge-discipline-da56ee",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "grekhov-arrested-bribery-russian-aerospace-forces-145462",
+      "title": "俄媒称空天军副总司令格列霍夫涉巨额受贿被捕",
+      "description": "俄媒报道称，莫斯科第235卫戍军事法院于11月25日决定对俄罗斯空天军副总司令尤里·格列霍夫采取逮捕措施。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T11:15:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/grekhov-arrested-bribery-russian-aerospace-forces-145462",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "alibaba-sells-zto-shares-stake-drops-6bbe3b",
+      "title": "阿里出售中通2500万股持股比例降至2.9%",
+      "description": "阿里巴巴旗下三家主体于11月24日出售中通快递2500万股A类普通股，交易通过美国存托股份（ADS）进行，每份售价19.28美元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T11:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/alibaba-sells-zto-shares-stake-drops-6bbe3b",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "uk-ministry-contacts-strategic-reservists-a7698a",
+      "title": "英国国防部致信约十万战略预备役要求做好应召准备",
+      "description": "英国国防部致信约10万名战略预备役人员，要求他们准备战时重返军队服役。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T11:14:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/uk-ministry-contacts-strategic-reservists-a7698a",
+      "reference": [
+        "澎湃新闻"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "uk-net-migration-near-30-year-low-1bf943",
+      "title": "英国净移民人数降至近30年来最低水平",
+      "description": "英国净移民人数降至近30年来最低水平。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T11:12:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/uk-net-migration-near-30-year-low-1bf943",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "shen-po-yang-chiang-wan-an-campaign-events-b0286a",
       "title": "沈伯洋取消台北实体选前之夜改办线上直播",
@@ -25,6 +357,42 @@
       ],
       "section": "asia",
       "sourceCount": 9,
+      "sources": []
+    },
+    {
+      "id": "zong-fuli-hongsheng-sales-production-control-d8d0bf",
+      "title": "第一财经称宗馥莉集中宏胜产销管理权",
+      "description": "第一财经称，宏胜的销售和生产管理进一步集中到宗馥莉手中。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T11:05:47.925462+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/zong-fuli-hongsheng-sales-production-control-d8d0bf",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "jakarta-surabaya-mahjong-attracts-new-players-252646",
+      "title": "雅加达和泗水麻将热吸引非华裔印尼人参与",
+      "description": "2026年年中，印度尼西亚雅加达和泗水的麻将活动增多，越来越多非华裔居民开始学习和参与。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T11:05:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/jakarta-surabaya-mahjong-attracts-new-players-252646",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -84,6 +452,42 @@
       "sources": []
     },
     {
+      "id": "la-county-prosecutors-decline-charges-lopez-93ddd2",
+      "title": "洛县检方决定不起诉开枪打死杨勇的洛市警员",
+      "description": "洛杉矶县检察官办公室本周宣布，不对在2024年5月一次心理健康危机处置中开枪打死杨勇的洛杉矶市警察安德烈斯·洛佩兹提起刑事诉讼。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T11:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/la-county-prosecutors-decline-charges-lopez-93ddd2",
+      "reference": [
+        "星岛日报美国版"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "lapd-2025-shootings-lead-major-cities-a69848",
+      "title": "洛杉矶警局2025年开枪47次居全美大城市之首",
+      "description": "洛杉矶警察局两份报告显示，该局警员2025年开枪47次，造成17人死亡，在美国各大城市警察部门中居首。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T11:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/lapd-2025-shootings-lead-major-cities-a69848",
+      "reference": [
+        "星岛日报美国版"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
       "id": "manhattan-judge-upholds-new-york-rent-freeze-624822",
       "title": "曼哈顿法院驳回房东诉讼维持冻租决定",
       "description": "纽约曼哈顿州最高法院法官兰特里11月25日公布一份20页裁决，驳回房东要求推翻租金指导委员会冻租决定的诉讼。",
@@ -119,6 +523,24 @@
       ],
       "section": "life",
       "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "new-york-lawmakers-weigh-stadium-food-price-cap-c56b12",
+      "title": "纽约州议员审议法案拟限制补贴场馆餐饮价格",
+      "description": "纽约州议员正审议《公平特许经营定价法》，拟限制获得纳税人补贴的大型娱乐场馆餐饮价格。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-26T11:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/new-york-lawmakers-weigh-stadium-food-price-cap-c56b12",
+      "reference": [
+        "星岛日报美国版"
+      ],
+      "section": "life",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -175,24 +597,6 @@
         "澎湃新闻"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-approves-bepirovirsen-hepatitis-functional-cure-8dfccc",
-      "title": "中国批准贝普若韦生用于乙肝功能性治愈",
-      "description": "国家药品监督管理局批准贝普若韦生（Bepirovirsen，商品名贺舒可）在中国上市。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T10:55:46.652505+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/china-approves-bepirovirsen-hepatitis-functional-cure-8dfccc",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "tech",
       "sourceCount": 1,
       "sources": []
     },
@@ -536,24 +940,6 @@
       "sources": []
     },
     {
-      "id": "li-wei-expelled-party-and-public-office-3b3f05",
-      "title": "江西省委原常委李伟被开除党籍和公职",
-      "description": "中央纪委国家监委经中共中央批准，对江西省委原常委、统战部原部长李伟开展审查调查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T10:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/li-wei-expelled-party-and-public-office-3b3f05",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "cai-fuchao-expelled-communist-party-0fbba4",
       "title": "蔡赴朝因严重违纪违法被开除党籍",
       "description": "经中共中央批准，中央纪委国家监委对蔡赴朝严重违纪违法问题启动审查调查；中央纪委常委会研究并报中共中央批准后，决定开除其党籍。",
@@ -625,27 +1011,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "wsj-us-subsidy-probe-results-83a04c",
-      "title": "美国拟对14个经济体加征产能过剩关税",
-      "description": "美国贸易代表署11月25日依据《1974年贸易法》第301条公布结构性产能过剩调查结果，并提出对中国、欧盟、日本、韩国、印度、越南、马来西亚等14个经济体加征关税。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T09:50:38+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/wsj-us-subsidy-probe-results-83a04c",
-      "reference": [
-        "中央通訊社",
-        "朝鲜日报",
-        "公视",
-        "世界日报"
-      ],
-      "section": "world",
-      "sourceCount": 76,
       "sources": []
     },
     {
@@ -1053,24 +1418,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "singapore-chief-justice-defines-judicial-review-limits-a9a7e4",
-      "title": "新加坡全球法治大会讨论司法审查与司法独立",
-      "description": "新加坡全球法治大会于11月25日至26日在香格里拉酒店举行，司法与政府官员就法治、司法审查边界和维护司法独立等议题发言。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T08:49:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/singapore-chief-justice-defines-judicial-review-limits-a9a7e4",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
       "sources": []
     },
     {
@@ -2107,26 +2454,6 @@
       "sources": []
     },
     {
-      "id": "kim-jong-un-seeks-nuclear-launch-expansion-f7a284",
-      "title": "金正恩视察核武设施要求拓展战术核武用途",
-      "description": "朝鲜领导人金正恩视察一处未公开的核武研究设施，并要求发展能在多个领域执行不同任务的战术核武器。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T06:03:39+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/kim-jong-un-seeks-nuclear-launch-expansion-f7a284",
-      "reference": [
-        "联合早报",
-        "韩国国际广播电台",
-        "法广"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
       "id": "south-korea-exports-top-one-trillion-32d001",
       "title": "韩国2026年出口额突破1万亿美元",
       "description": "截至2026年11月中旬，韩国当年出口额已突破1万亿美元，人工智能需求带动的半导体出口增长是主要推力。",
@@ -2309,42 +2636,6 @@
       "sources": []
     },
     {
-      "id": "cp-all-exits-cambodia-seven-eleven-a64161",
-      "title": "CP All将停止运营柬埔寨全部7-Eleven门店",
-      "description": "泰国卜蜂集团旗下零售商CP All将于2026年12月25日起停止在柬埔寨运营全部7-Eleven门店，结束当地业务。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T05:05:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/cp-all-exits-cambodia-seven-eleven-a64161",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "china-regulator-probes-dingzhi-technology-019d43",
-      "title": "江苏雷利控股子公司鼎智科技被证监会立案调查",
-      "description": "江苏雷利控股子公司江苏鼎智智能控制科技股份有限公司因涉嫌信息披露违法违规，已被中国证监会立案调查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T05:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/china-regulator-probes-dingzhi-technology-019d43",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "anne-thurston-dies-alexandria-virginia-6d3906",
       "title": "《毛泽东私人医生回忆录》合著者石文安逝世",
       "description": "美国政治学家、中国问题专家石文安（Anne F. Thurston）于2026年10月2日在弗吉尼亚州亚历山大市去世，享年83岁。",
@@ -2424,42 +2715,6 @@
       "sources": []
     },
     {
-      "id": "china-polypropylene-polyethylene-exports-halve-c10b2c",
-      "title": "中国聚丙烯和聚乙烯第三季出口量减半",
-      "description": "中国聚丙烯（PP）和聚乙烯（PE）第三季度出口量降至第二季度的一半，战前库存耗尽、原料涨价令出口热潮降温。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T04:32:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/china-polypropylene-polyethylene-exports-halve-c10b2c",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "sp-global-ratings-places-nvidia-negative-watch-469559",
-      "title": "标普将英伟达AA级长期评级列入负面观察",
-      "description": "标普全球评级于当地时间11月25日将英伟达AA级长期信用评级列入负面观察名单。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T04:24:37.396746+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/sp-global-ratings-places-nvidia-negative-watch-469559",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "hera-reveals-dimorphos-impact-crater-1a6fc6",
       "title": "希拉探测器公布迪莫弗斯撞击坑影像",
       "description": "欧洲航天局（ESA）11月25日公布希拉探测器对迪莫弗斯的最新观测影像。",
@@ -2515,25 +2770,6 @@
       "sources": []
     },
     {
-      "id": "kospi-drops-six-percent-closes-4697-93d85a",
-      "title": "韩综指五个月跌近半散户普遍承受亏损",
-      "description": "韩国综合股价指数（KOSPI）11月25日收于4697.51点，较6月19日盘中高点9385.59点下跌近半；当天下跌308.52点，跌幅6.16%，以4809点开盘，并在盘中触发卖出程序化交易暂停机制。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T03:54:39+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/kospi-drops-six-percent-closes-4697-93d85a",
-      "reference": [
-        "韩国国际广播电台",
-        "韩民族日报"
-      ],
-      "section": "business",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "skubal-agrees-nine-year-mets-deal-e22d6e",
       "title": "史库柏签约大都会创投手合同总额纪录",
       "description": "塔里克·史库柏已正式与纽约大都会签下为期9年、总额4.5亿美元的合同，创下大联盟投手合同总额新纪录。",
@@ -2567,24 +2803,6 @@
         "中央通訊社"
       ],
       "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "xiaomi-europe-expansion-beats-expectations-ad4035",
-      "title": "卢伟冰称小米汽车欧洲扩张进展好于预期",
-      "description": "据联合早报援引彭博社报道，小米集团总裁卢伟冰在11月24日举行的第三季度业绩电话会上称，小米汽车在欧洲推进业务的进度超过预期。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T03:03:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/xiaomi-europe-expansion-beats-expectations-ad4035",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -2848,25 +3066,6 @@
       "sources": []
     },
     {
-      "id": "israel-strike-gaza-hamas-security-chief-killed-ca231f",
-      "title": "以军空袭加沙造成至少10人死亡",
-      "description": "以色列军方11月25日空袭加沙地带。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T00:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/israel-strike-gaza-hamas-security-chief-killed-ca231f",
-      "reference": [
-        "法广",
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "sp-puts-nvidia-on-downgrade-watch-fa6020",
       "title": "标普将英伟达列入潜在降级观察名单",
       "description": "标普全球评级11月25日将英伟达的信用评级列入可能下调的观察名单，认为公司治理和董事会监督存在隐忧。",
@@ -2917,45 +3116,6 @@
         "澎湃新闻"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "ftc-shein-consumer-misleading-100-million-settlement-ac2465",
-      "title": "SHEIN同意支付1亿美元与美国FTC和解",
-      "description": "SHEIN与美国联邦贸易委员会（FTC）就涉嫌误导消费者的调查达成协议，将支付1亿美元用于消费者补偿，并加强消费者服务和合规措施。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T23:11:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/ftc-shein-consumer-misleading-100-million-settlement-ac2465",
-      "reference": [
-        "中央通訊社",
-        "世界日报",
-        "联合早报",
-        "财新"
-      ],
-      "section": "world",
-      "sourceCount": 5,
-      "sources": []
-    },
-    {
-      "id": "conservative-mps-question-joly-huawei-zte-removal-6c6fa8",
-      "title": "保守党议员质询乔美兰为何未强制拆除华为中兴设备",
-      "description": "加拿大保守党议员要求工业部长乔美兰解释，政府为何尚未动用《C-8法案》授予的权限，要求电信运营商移除华为和中兴通讯设备。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T22:20:23.696000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/conservative-mps-question-joly-huawei-zte-removal-6c6fa8",
-      "reference": [
-        "加拿大国际广播电台"
-      ],
-      "section": "world",
       "sourceCount": 1,
       "sources": []
     },
@@ -3329,25 +3489,6 @@
       "sources": []
     },
     {
-      "id": "gaoyichen-hangzhou-court-sentences-eleven-years-c07988",
-      "title": "高以忱受贿及利用影响力受贿案一审判处十一年",
-      "description": "浙江省杭州市中级人民法院对高以忱受贿及利用影响力受贿案作出一审判决。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T11:19:44+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/gaoyichen-hangzhou-court-sentences-eleven-years-c07988",
-      "reference": [
-        "澎湃新闻",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "china-launches-6g-pilot-eight-regions-5def20",
       "title": "工信部启动6G部省协同试点八省市获批",
       "description": "中国工业和信息化部11月24日在上海启动6G创新发展部省协同试点，北京、河北、上海、江苏、浙江、安徽、湖北和广东获批参与。",
@@ -3383,42 +3524,6 @@
       ],
       "section": "life",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "manhattan-chinatown-child-snatching-arrest-2bfce3",
-      "title": "华裔女子在曼哈顿华埠抢夺幼童未遂被捕",
-      "description": "纽约市警方称，40岁的华裔女子刘盈盈（Yung Yung Lau，又名Isadora Lau）在曼哈顿华埠试图带走一名3岁男童，后被捕。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T11:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/manhattan-chinatown-child-snatching-arrest-2bfce3",
-      "reference": [
-        "星岛日报美国版"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "usda-proposes-snap-eligibility-tightening-a345c6",
-      "title": "美国农业部拟收紧粮食券申领资格",
-      "description": "美国农业部于10日提出修订，拟收紧补充营养援助计划（SNAP，俗称粮食券）的申领资格。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T11:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/usda-proposes-snap-eligibility-tightening-a345c6",
-      "reference": [
-        "星岛日报美国版"
-      ],
-      "section": "us",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3712,24 +3817,6 @@
       "sources": []
     },
     {
-      "id": "singapore-st-johns-marine-station-upgrade-23a0f2",
-      "title": "新加坡圣约翰岛科研设施升级为国立海洋研究站",
-      "description": "新加坡国立研究基金会与新加坡国立大学11月25日宣布，位于圣约翰岛的海洋科研设施将升级并更名为“国立海洋研究站”。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T06:42:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/singapore-st-johns-marine-station-upgrade-23a0f2",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "alibaba-considers-offshore-bonds-ai-investment-39b352",
       "title": "阿里巴巴据报考虑明年发行离岸债券支持AI投资",
       "description": "阿里巴巴据报正考虑明年发行离岸人民币或美元债券，为扩大人工智能投资筹资。",
@@ -3744,24 +3831,6 @@
         "联合早报"
       ],
       "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "singapore-families-choose-one-day-funerals-43f728",
-      "title": "新加坡越来越多丧家选择一日丧礼",
-      "description": "新加坡选择“一日丧礼”的家庭正在增多。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T06:36:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/singapore-families-choose-one-day-funerals-43f728",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -3799,24 +3868,6 @@
       ],
       "section": "ai",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "california-self-employed-er-26000-bill-b44fa3",
-      "title": "加州自雇居民急诊后收到近2.6万美元账单",
-      "description": "一名加州自雇居民昏倒撞伤头部后接受急诊检查并缝合五针，医院提供自费折扣后仍要求他支付近2.6万美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T06:15:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/california-self-employed-er-26000-bill-b44fa3",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -3870,24 +3921,6 @@
         "日经"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "us-white-collar-job-search-27-weeks-d5b0d6",
-      "title": "美国求职者平均求职耗时达27周",
-      "description": "美国白领劳动者被裁后求职更加艰难。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T04:52:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/us-white-collar-job-search-27-weeks-d5b0d6",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -4202,24 +4235,6 @@
       "sources": []
     },
     {
-      "id": "china-leads-global-generative-ai-governance-standard-37df9c",
-      "title": "中国牵头编制全球首个生成式人工智能治理国际标准提案",
-      "description": "中国已与多国共同编制生成式人工智能风险应对国际标准提案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T09:09:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/china-leads-global-generative-ai-governance-standard-37df9c",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "gta6-preorders-exceed-sixteen-point-five-billion-ffdc84",
       "title": "《GTA6》首个完整销售日销售额达38亿美元",
       "description": "《侠盗猎车手6》（GTA 6）发售后的首个完整销售日销售额达到38亿美元，发行商称这一成绩刷新全球娱乐产业单日发行销售纪录。",
@@ -4362,24 +4377,6 @@
       "url": "https://kaopu.news/story/2026-11-23/daraxonrasib-chemo-controls-advanced-pancreatic-cancer-687c12",
       "reference": [
         "英国广播公司"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "hutchmed-sovleplenib-approved-china-026773",
-      "title": "和黄医药自主研发新药赛威珂获批上市",
-      "description": "11月23日，国家药品监督管理局批准和记黄埔医药（上海）有限公司申报的1类创新药醋酸索乐匹尼布片上市，商品名为赛威珂。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-23T10:12:34.540917+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/hutchmed-sovleplenib-approved-china-026773",
-      "reference": [
-        "第一财经"
       ],
       "section": "tech",
       "sourceCount": 1,
