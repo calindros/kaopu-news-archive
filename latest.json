@@ -1,11 +1,198 @@
 {
   "details": {
     "date": "2026-11-27",
-    "timestamp": 1795750895,
+    "timestamp": 1795756705,
     "totalPages": 1,
-    "total": 266
+    "total": 267
   },
   "stories": [
+    {
+      "id": "malaysia-air-force-officers-arrested-drug-smuggling-dbdb8c",
+      "title": "马来西亚警方查出空军设施涉运毒3吨",
+      "description": "马来西亚警方调查发现，一个跨国贩毒集团涉嫌利用空军航空运输设施走私毒品。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T04:18:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-19",
+      "url": "https://kaopu.news/story/2026-11-19/malaysia-air-force-officers-arrested-drug-smuggling-dbdb8c",
+      "reference": [
+        "联合早报",
+        "当今大马",
+        "财新"
+      ],
+      "section": "asia",
+      "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "wsj-us-subsidy-probe-results-83a04c",
+      "title": "美国提出对14个经济体加征301关税方案",
+      "description": "美国贸易代表办公室（USTR）于2026年11月25日公布拟依据《1974年贸易法》第301条，对中国及另外13个经济体加征关税的方案。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T04:17:16+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/wsj-us-subsidy-probe-results-83a04c",
+      "reference": [
+        "中央通訊社",
+        "朝鲜日报",
+        "公视",
+        "世界日报"
+      ],
+      "section": "world",
+      "sourceCount": 97,
+      "sources": []
+    },
+    {
+      "id": "china-pboc-shifts-policy-rate-anchor-overnight-1f0b3a",
+      "title": "央行将政策利率锚切换至隔夜逆回购利率",
+      "description": "中国人民银行已于2026年11月2日起将政策利率锚由7天期逆回购利率转为隔夜逆回购利率。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T04:02:37.195938+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-27",
+      "url": "https://kaopu.news/story/2026-11-27/china-pboc-shifts-policy-rate-anchor-overnight-1f0b3a",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "ling-urges-europe-cautious-trade-curbs-1b50e5",
+      "title": "凌激敦促欧洲审慎出台经贸限制措施",
+      "description": "中国商务部副部长兼国际贸易谈判副代表凌激11月26日在哥本哈根与丹麦外交部常务国务秘书叶普共同主持中丹经贸联委会第25次会议。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T03:58:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-27",
+      "url": "https://kaopu.news/story/2026-11-27/ling-urges-europe-cautious-trade-curbs-1b50e5",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "dai-bing-opposes-us-korea-alliance-targeting-china-5bee2a",
+      "title": "戴兵称不愿韩美同盟制约中韩关系",
+      "description": "中国驻韩国大使戴兵11月26日在首尔举行的中韩媒体座谈会上表示，中方不希望韩美同盟转而针对中国，也不愿该同盟成为中韩关系发展的制约因素。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T03:51:02+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-27",
+      "url": "https://kaopu.news/story/2026-11-27/dai-bing-opposes-us-korea-alliance-targeting-china-5bee2a",
+      "reference": [
+        "联合早报",
+        "韩民族日报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "taiwan-navy-veteran-jailed-six-years-c89cec",
+      "title": "马姓海军退役中士受中国大陆人员指示发展组织被判6年",
+      "description": "台湾高等法院台南分院11月26日判处马姓台湾海军退役中士有期徒刑6年，其中违反《国家安全法》判4年2个月，违反《贪污治罪条例》判2年6个月，合并执行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T03:50:19+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-27",
+      "url": "https://kaopu.news/story/2026-11-27/taiwan-navy-veteran-jailed-six-years-c89cec",
+      "reference": [
+        "公视"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "beijing-huiyuan-wins-trademark-case-de54ca",
+      "title": "北京汇源商标案一审胜诉对方被判赔9800万元",
+      "description": "北京汇源食品饮料有限公司在“汇源”商标侵权案一审中胜诉，江苏省一家中级人民法院判令鲁中汇源食品饮料有限公司等被告合计赔偿9800万元。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T03:47:40.855561+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-27",
+      "url": "https://kaopu.news/story/2026-11-27/beijing-huiyuan-wins-trademark-case-de54ca",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "robot-makers-shift-brain-training-infrastructure-bottleneck-87b0a3",
+      "title": "机器人企业转向大脑训练遭遇数据基础设施瓶颈",
+      "description": "机器人研发重心正从运动控制“小脑”转向“大脑”训练，但真实数据需求扩大，算力基础设施仍不成熟。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T03:47:40.854858+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-27",
+      "url": "https://kaopu.news/story/2026-11-27/robot-makers-shift-brain-training-infrastructure-bottleneck-87b0a3",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "us-blockade-china-refiners-buy-iraqi-crude-50773d",
+      "title": "美国封锁致伊朗供油中断中国独立炼厂转购伊拉克原油",
+      "description": "美国今年7月恢复对伊朗的海上封锁后，伊朗原油供应中断。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T03:35:06+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-27",
+      "url": "https://kaopu.news/story/2026-11-27/us-blockade-china-refiners-buy-iraqi-crude-50773d",
+      "reference": [
+        "英国广播公司"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "china-opposes-eu-parliament-macau-case-motion-7a223d",
+      "title": "欧洲议会通过动议要求释放区锦新",
+      "description": "欧洲议会11月26日以469票赞成、9票反对、87票弃权通过涉澳门前立法会议员区锦新案动议，要求撤销对他的判决并立即无条件释放他，同时敦促澳门保障其选择律师、接受家属探访及获得葡萄牙领事协助的权利。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T03:31:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-26",
+      "url": "https://kaopu.news/story/2026-11-26/china-opposes-eu-parliament-macau-case-motion-7a223d",
+      "reference": [
+        "澎湃新闻",
+        "联合早报"
+      ],
+      "section": "china",
+      "sourceCount": 2,
+      "sources": []
+    },
     {
       "id": "new-zealand-coalition-falls-short-majority-7f1ffe",
       "title": "新西兰执政联盟获65席未达议会多数",
@@ -63,6 +250,24 @@
       ],
       "section": "asia",
       "sourceCount": 16,
+      "sources": []
+    },
+    {
+      "id": "waterstones-taiwan-travelogue-fiction-award-678e67",
+      "title": "水石书店将《台湾漫游录》评为年度最佳虚构小说",
+      "description": "英国连锁书店水石于11月26日公布年度图书奖名单，杨双子创作、金翎翻译的《台湾漫游录》获年度最佳虚构小说。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T03:06:19+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-27",
+      "url": "https://kaopu.news/story/2026-11-27/waterstones-taiwan-travelogue-fiction-award-678e67",
+      "reference": [
+        "公视"
+      ],
+      "section": "culture",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -159,27 +364,6 @@
       "sources": []
     },
     {
-      "id": "wsj-us-subsidy-probe-results-83a04c",
-      "title": "美国拟对14个贸易伙伴加征产能过剩关税",
-      "description": "美国贸易代表办公室11月25日公布依据《贸易法》第301条开展的结构性产能过剩调查结果，并提出对14个经济体加征新关税的方案。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-27T02:47:16+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/wsj-us-subsidy-probe-results-83a04c",
-      "reference": [
-        "中央通訊社",
-        "朝鲜日报",
-        "公视",
-        "世界日报"
-      ],
-      "section": "world",
-      "sourceCount": 94,
-      "sources": []
-    },
-    {
       "id": "alyson-kiang-taiwan-u15-suzhou-football-fb844d",
       "title": "江昱琦入选台湾队将赴苏州参加U15女足赛",
       "description": "江昱琦入选台湾代表队，将于11月30日至12月6日前往中国苏州参加2026东亚足球联盟U15女子锦标赛。",
@@ -192,6 +376,24 @@
       "url": "https://kaopu.news/story/2026-11-27/alyson-kiang-taiwan-u15-suzhou-football-fb844d",
       "reference": [
         "世界日报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "taiwan-interior-ministry-gathers-party-evidence-48ef92",
+      "title": "台湾内政部称将搜证依法处理涉违法政党",
+      "description": "台湾内政部11月27日表示，政党活动须遵守宪法、政党法等规范，不得受他方指示、委托或资助从事违法组织活动；部门将继续搜集证据并依法处理。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T02:45:16+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-27",
+      "url": "https://kaopu.news/story/2026-11-27/taiwan-interior-ministry-gathers-party-evidence-48ef92",
+      "reference": [
+        "中央通訊社"
       ],
       "section": "asia",
       "sourceCount": 1,
@@ -1307,24 +1509,6 @@
       "sources": []
     },
     {
-      "id": "china-opposes-eu-parliament-macau-case-motion-7a223d",
-      "title": "中国驻欧盟使团反对欧洲议会涉区锦新案动议",
-      "description": "欧洲议会于11月26日就区锦新案判决通过一项动议。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T15:48:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/china-opposes-eu-parliament-macau-case-motion-7a223d",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "singapore-plans-nine-family-service-integration-5ebff4",
       "title": "新加坡家庭服务将整合为综合支援模式",
       "description": "新加坡家庭服务检讨委员会11月26日发布报告，建议将社会及家庭发展部资助的九个项目，包括家庭服务中心、家暴防治和儿童保护等，整合为“家庭服务综合支援模式”（OFS），在全岛七个区域推行。",
@@ -2047,25 +2231,6 @@
       "sources": []
     },
     {
-      "id": "australia-passes-digital-duty-law-614a35",
-      "title": "澳大利亚议会通过新法要求平台清除有害内容",
-      "description": "澳大利亚议会11月25日通过《数码注意义务法》，要求互联网企业主动清除有害内容及功能。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T12:55:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/australia-passes-digital-duty-law-614a35",
-      "reference": [
-        "联合早报",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "police-link-streaming-app-trojan-bank-theft-f7c170",
       "title": "假冒短剧App木马远控手机盗转网银逾1742万元",
       "description": "台湾警方正在调查多起网银账户存款遭盗转案件。",
@@ -2289,61 +2454,6 @@
       ],
       "section": "tech",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "qin-lihong-2027-auto-demand-outlook-6f49ba",
-      "title": "秦力洪称2027年车市需求未必明显反弹",
-      "description": "蔚来汽车联合创始人、总裁秦力洪11月25日在蔚来创新科技日上表示，2026年中国汽车市场需求收缩可能不是短期波动，而是未来几年行业的新常态。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T11:47:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/qin-lihong-2027-auto-demand-outlook-6f49ba",
-      "reference": [
-        "财新"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "pig-prices-deepen-listed-producer-losses-6e97a1",
-      "title": "猪价低迷令上市养殖企业前三季度亏损超247亿元",
-      "description": "生猪价格仍低于养殖成本，上市养殖企业今年前三季度合计亏损超过247亿元，债务与现金流压力加大。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T11:43:37.556754+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/pig-prices-deepen-listed-producer-losses-6e97a1",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "malaysia-air-force-officers-arrested-drug-smuggling-dbdb8c",
-      "title": "马来西亚警方查出贩毒集团涉嫌利用空军设施运毒",
-      "description": "马来西亚警方调查发现，一个贩毒集团涉嫌过去两年利用空军航空运输设施走私毒品，在沙巴斗湖和纳闽进行至少21次交易，涉案毒品不少于3公吨，估值约1亿5600万令吉（约4800万新元）。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T11:39:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/malaysia-air-force-officers-arrested-drug-smuggling-dbdb8c",
-      "reference": [
-        "联合早报",
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 6,
       "sources": []
     },
     {
@@ -2826,24 +2936,6 @@
       "sources": []
     },
     {
-      "id": "muhyiddin-knew-party-funds-illegal-origin-1eef49",
-      "title": "控方指慕尤丁明知土团党2530万令吉来源不合法",
-      "description": "副检察司旺沙哈鲁丁在建威计划案结案陈词中称，前首相慕尤丁知悉存入土团党银行账户的2530万令吉来源不合法。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T09:34:11+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/muhyiddin-knew-party-funds-illegal-origin-1eef49",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "who-us-three-h5-cases-one-death-376e9d",
       "title": "华盛顿州亚基马县奶牛场3人感染H5N1一人死亡",
       "description": "世界卫生组织11月24日通报，美国华盛顿州亚基马县一家奶牛场的3名成年工作人员感染H5N1禽流感病毒，其中1人死亡，另外两人已康复。",
@@ -2977,24 +3069,6 @@
       "sources": []
     },
     {
-      "id": "kuomintang-stands-for-cross-strait-peace-a1a20a",
-      "title": "萧旭岑称国民党坚定走两岸和平路线",
-      "description": "中国国民党副主席萧旭岑近日表示，赖清德仍在推进“台独”方向；他认为，这一做法会严重影响台海和平和台湾民众安全，并称其并不正确。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T08:39:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/kuomintang-stands-for-cross-strait-peace-a1a20a",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-five-agencies-issue-skills-education-plan-910520",
       "title": "五部门印发意见推进技工教育高质量发展",
       "description": "人力资源社会保障部、国家发展改革委、教育部、财政部和国务院国资委近日联合印发《关于推进技工教育高质量特色发展的意见》。",
@@ -3010,27 +3084,6 @@
       ],
       "section": "life",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
-      "title": "深圳APEC通过《深圳展望》提出建设亚太共同体",
-      "description": "亚太经合组织第三十三次领导人非正式会议于11月18日至19日在深圳举行。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T08:38:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-13",
-      "url": "https://kaopu.news/story/2026-11-13/xi-jinping-to-host-shenzhen-apec-summit-fe0fff",
-      "reference": [
-        "澎湃新闻",
-        "联合早报",
-        "中央通訊社",
-        "第一财经"
-      ],
-      "section": "china",
-      "sourceCount": 148,
       "sources": []
     },
     {
@@ -4360,24 +4413,6 @@
       "sources": []
     },
     {
-      "id": "fake-human-verification-tricks-users-running-malicious-514ecb",
-      "title": "假人机验证诱导用户运行恶意指令",
-      "description": "网络上出现伪装成人机验证的ClickFix社交工程攻击，页面要求用户按指定快捷键打开命令提示符，再复制、粘贴并运行指令。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T12:30:42+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/fake-human-verification-tricks-users-running-malicious-514ecb",
-      "reference": [
-        "公视"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "malaysian-national-laureate-samad-said-dies-e7b14c",
       "title": "马来西亚国家文学家沙末赛益逝世，享年91岁",
       "description": "马来西亚国家文学家沙末赛益逝世，享年91岁。",
@@ -4827,24 +4862,6 @@
       "url": "https://kaopu.news/story/2026-11-17/hong-kong-emerging-culture-builds-reading-spaces-877a64",
       "reference": [
         "端传媒"
-      ],
-      "section": "culture",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "zheng-yuanjie-ai-fairy-tale-animation-c6ffe8",
-      "title": "郑渊洁宣布用AI制作童话动画供读者免费观看",
-      "description": "作家郑渊洁恢复停更两年的自媒体，宣布将用人工智能把自己的童话作品制作成动画短片，并授权抖音账号“郑渊洁童话世界”（抖音号83425404836）发布，供读者免费收看。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-17T13:58:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-17",
-      "url": "https://kaopu.news/story/2026-11-17/zheng-yuanjie-ai-fairy-tale-animation-c6ffe8",
-      "reference": [
-        "澎湃新闻"
       ],
       "section": "culture",
       "sourceCount": 1,
