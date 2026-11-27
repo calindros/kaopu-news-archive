@@ -3,9 +3,278 @@
     "date": "2026-11-27",
     "timestamp": 1795750895,
     "totalPages": 1,
-    "total": 268
+    "total": 266
   },
   "stories": [
+    {
+      "id": "new-zealand-coalition-falls-short-majority-7f1ffe",
+      "title": "新西兰执政联盟获65席未达议会多数",
+      "description": "新西兰11月27日公布大选最终结果，拉克森领导的执政三党共获65席，在130席议会中距多数席位差1席。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T03:21:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-27",
+      "url": "https://kaopu.news/story/2026-11-27/new-zealand-coalition-falls-short-majority-7f1ffe",
+      "reference": [
+        "法广",
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "nvidia-chip-sellers-reject-china-cloud-rentals-14fabb",
+      "title": "美国新规限制中国企业租用海外AI算力",
+      "description": "美国商务部工业与安全局（BIS）出台新规，限制中国企业通过海外数据中心远程使用受管制的人工智能（AI）芯片算力。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T03:10:40+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-27",
+      "url": "https://kaopu.news/story/2026-11-27/nvidia-chip-sellers-reject-china-cloud-rentals-14fabb",
+      "reference": [
+        "世界日报",
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 3,
+      "sources": []
+    },
+    {
+      "id": "shen-po-yang-chiang-wan-an-campaign-events-b0286a",
+      "title": "沈伯洋取消仁爱路实体造势改办线上市民之夜",
+      "description": "民进党台北市长候选人沈伯洋取消原定在仁爱路四段举行的实体选前造势活动“市民之夜”，改以线上方式进行。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T03:07:51.282000+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/shen-po-yang-chiang-wan-an-campaign-events-b0286a",
+      "reference": [
+        "联合早报",
+        "中央通訊社",
+        "公视",
+        "英国广播公司"
+      ],
+      "section": "asia",
+      "sourceCount": 16,
+      "sources": []
+    },
+    {
+      "id": "harmonyos-china-smartphone-share-surpasses-ios-c30f6b",
+      "title": "鸿蒙三季度中国手机市场份额超过苹果iOS",
+      "description": "Counterpoint Research最新统计显示，2026年第三季度，中国智能手机销售市场的操作系统份额中，鸿蒙占22%，高于苹果iOS的18%；Android为60%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T03:01:20.864783+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-27",
+      "url": "https://kaopu.news/story/2026-11-27/harmonyos-china-smartphone-share-surpasses-ios-c30f6b",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "tech",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "singapore-resident-income-median-exceeds-6000-44d6a5",
+      "title": "新加坡全职就业居民收入中位数首破6000元",
+      "description": "新加坡人力部11月27日公布《2026年劳动力报告》预估数据。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T03:00:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-27",
+      "url": "https://kaopu.news/story/2026-11-27/singapore-resident-income-median-exceeds-6000-44d6a5",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "life",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "lee-nominates-kang-kum-sil-intelligence-chief-4fa3b0",
+      "title": "李在明重组外交安保团队提名五名官员",
+      "description": "韩国总统李在明宣布调整外交与国家安全团队，提名前法务部长官康锦实出任国家情报院院长，并提名任雄淳、洪翼杓、韩俊镐和姜由桢分别担任外交、统一、行政安全、文化体育观光部长官。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T02:57:13+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-23",
+      "url": "https://kaopu.news/story/2026-11-23/lee-nominates-kang-kum-sil-intelligence-chief-4fa3b0",
+      "reference": [
+        "韩国国际广播电台",
+        "联合早报",
+        "东亚日报",
+        "朝鲜日报"
+      ],
+      "section": "asia",
+      "sourceCount": 10,
+      "sources": []
+    },
+    {
+      "id": "apple-removes-talkie-after-child-safety-report-b498bf",
+      "title": "苹果将全球下架Talkie，AI角色被曝向儿童发送不当信息",
+      "description": "苹果本周将中国人工智能公司MiniMax开发的聊天应用Talkie从全球App Store下架。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T02:55:21+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-27",
+      "url": "https://kaopu.news/story/2026-11-27/apple-removes-talkie-after-child-safety-report-b498bf",
+      "reference": [
+        "中央通訊社"
+      ],
+      "section": "ai",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "hegseth-withholds-patriot-transfer-approval-a9fba2",
+      "title": "泽连斯基批美国延迟交付爱国者拦截弹",
+      "description": "乌克兰总统泽连斯基近日在基辅市中心办公室接受英国广播公司（BBC）专访，批评美国延迟交付爱国者防空拦截弹，并认为美国在和谈中对俄罗斯施压不足。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T02:54:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/hegseth-withholds-patriot-transfer-approval-a9fba2",
+      "reference": [
+        "联合早报"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
+      "id": "wsj-us-subsidy-probe-results-83a04c",
+      "title": "美国拟对14个贸易伙伴加征产能过剩关税",
+      "description": "美国贸易代表办公室11月25日公布依据《贸易法》第301条开展的结构性产能过剩调查结果，并提出对14个经济体加征新关税的方案。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T02:47:16+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/wsj-us-subsidy-probe-results-83a04c",
+      "reference": [
+        "中央通訊社",
+        "朝鲜日报",
+        "公视",
+        "世界日报"
+      ],
+      "section": "world",
+      "sourceCount": 94,
+      "sources": []
+    },
+    {
+      "id": "alyson-kiang-taiwan-u15-suzhou-football-fb844d",
+      "title": "江昱琦入选台湾队将赴苏州参加U15女足赛",
+      "description": "江昱琦入选台湾代表队，将于11月30日至12月6日前往中国苏州参加2026东亚足球联盟U15女子锦标赛。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T02:46:19+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-27",
+      "url": "https://kaopu.news/story/2026-11-27/alyson-kiang-taiwan-u15-suzhou-football-fb844d",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "assisted-driving-crashes-rulings-driver-liability-e668ae",
+      "title": "两起智驾致死事故判决划明驾驶员责任",
+      "description": "近期披露的两起辅助驾驶致死事故判决，分别判处涉案司机有期徒刑并要求赔偿。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T02:37:00.256020+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-27",
+      "url": "https://kaopu.news/story/2026-11-27/assisted-driving-crashes-rulings-driver-liability-e668ae",
+      "reference": [
+        "第一财经"
+      ],
+      "section": "life",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "chen-jining-shanghai-party-chief-investigation-c09533",
+      "title": "陈吉宁接受审查调查成为本届政治局第四人",
+      "description": "新华社11月24日晚通报，陈吉宁涉嫌严重违纪违法，中央纪委国家监委已对其开展审查调查。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T02:33:10+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-24",
+      "url": "https://kaopu.news/story/2026-11-24/chen-jining-shanghai-party-chief-investigation-c09533",
+      "reference": [
+        "澎湃新闻",
+        "第一财经",
+        "联合早报",
+        "中央通訊社"
+      ],
+      "section": "china",
+      "sourceCount": 34,
+      "sources": []
+    },
+    {
+      "id": "chan-kwok-ki-allows-legal-wang-fuk-memorials-3dd41f",
+      "title": "香港市民在宏福苑大火一周年自发悼念",
+      "description": "香港宏福苑大火一周年当天，居民、遇难者家属和市民在火场附近献花、祈祷并参加悼念活动。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T02:32:33+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-21",
+      "url": "https://kaopu.news/story/2026-11-21/chan-kwok-ki-allows-legal-wang-fuk-memorials-3dd41f",
+      "reference": [
+        "中央通訊社",
+        "联合早报",
+        "英国广播公司",
+        "端传媒"
+      ],
+      "section": "china",
+      "sourceCount": 12,
+      "sources": []
+    },
+    {
+      "id": "us-criticizes-korea-coupang-discrimination-5a243c",
+      "title": "美方批评韩国对Coupang等美企采取歧视性措施",
+      "description": "美国白宫与国务院批评韩国针对Coupang等美国科技企业采取的措施，称其具有歧视性。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T02:29:38+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-27",
+      "url": "https://kaopu.news/story/2026-11-27/us-criticizes-korea-coupang-discrimination-5a243c",
+      "reference": [
+        "韩国国际广播电台"
+      ],
+      "section": "world",
+      "sourceCount": 1,
+      "sources": []
+    },
     {
       "id": "kim-jong-un-seeks-nuclear-launch-expansion-f7a284",
       "title": "金正恩要求扩大朝鲜战术核武运用",
@@ -25,6 +294,24 @@
       ],
       "section": "asia",
       "sourceCount": 7,
+      "sources": []
+    },
+    {
+      "id": "japan-security-strategy-china-russia-north-korea-cooperation-351327",
+      "title": "共同社称日本拟在安保战略写入中俄朝合作加深",
+      "description": "共同社援引相关人士称，日本政府拟年内修改的三份安保文件中，《国家安全保障战略》拟写入俄乌冲突爆发后中俄朝军事合作加深的内容。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T02:13:18+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-27",
+      "url": "https://kaopu.news/story/2026-11-27/japan-security-strategy-china-russia-north-korea-cooperation-351327",
+      "reference": [
+        "共同网"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -65,6 +352,60 @@
       ],
       "section": "life",
       "sourceCount": 19,
+      "sources": []
+    },
+    {
+      "id": "suzuki-japan-lfp-battery-mass-production-af97a4",
+      "title": "铃木宣布将在日本量产磷酸铁锂电池",
+      "description": "铃木11月26日宣布，将与储能电池开发商ELIIYPower合作，在日本生产磷酸铁锂（LFP）电池，计划自2029年10月起投产。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T02:12:18+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-27",
+      "url": "https://kaopu.news/story/2026-11-27/suzuki-japan-lfp-battery-mass-production-af97a4",
+      "reference": [
+        "日经"
+      ],
+      "section": "business",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "judge-blocks-fcc-review-abc-licenses-03017a",
+      "title": "阿里汗法官叫停FCC提前审查ABC八家电视台执照",
+      "description": "美国联邦地区法院法官阿里汗11月25日颁布暂时限制令和初步禁制令，阻止美国联邦通信委员会（FCC）提前审查美国广播公司（ABC）旗下8家电视台的广播执照。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T02:10:38+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-27",
+      "url": "https://kaopu.news/story/2026-11-27/judge-blocks-fcc-review-abc-licenses-03017a",
+      "reference": [
+        "世界日报"
+      ],
+      "section": "us",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "south-korea-exam-cheating-cases-rise-6b6022",
+      "title": "韩国大学修学能力考试作弊查获数增近七成",
+      "description": "韩国教育部向国会教育委员会提交的报告显示，截至2026年11月25日，2027学年度大学修学能力考试共查获作弊474起，较上一年度的279起增加69.9%。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T02:04:47+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-27",
+      "url": "https://kaopu.news/story/2026-11-27/south-korea-exam-cheating-cases-rise-6b6022",
+      "reference": [
+        "韩国国际广播电台"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -188,6 +529,25 @@
       "sources": []
     },
     {
+      "id": "macron-calls-le-pen-arrogant-eu-budget-a11f52",
+      "title": "欧盟预算谈判未能消除成员国分歧",
+      "description": "欧盟各国领导人正在布鲁塞尔磋商2028年至2034年的长期预算，目标是在12月前达成协议，避免争论延续到欧洲多国选举之年；但预算规模、削减方案和对乌援助安排仍未取得一致。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T01:33:36+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-27",
+      "url": "https://kaopu.news/story/2026-11-27/macron-calls-le-pen-arrogant-eu-budget-a11f52",
+      "reference": [
+        "联合早报",
+        "法广"
+      ],
+      "section": "world",
+      "sourceCount": 2,
+      "sources": []
+    },
+    {
       "id": "byd-global-sales-rank-fourth-465bbd",
       "title": "比亚迪三季度全球销量升至车企第四",
       "description": "比亚迪2026年7月至9月全球车企销量排名升至第四，海外销售增长支撑其排名上升。",
@@ -281,24 +641,39 @@
       "sources": []
     },
     {
-      "id": "wsj-us-subsidy-probe-results-83a04c",
-      "title": "美国拟对14个经济体加征产能过剩关税",
-      "description": "美国贸易代表办公室公布针对14个经济体的结构性产能过剩调查结果，并提出依据《1974年贸易法》第301条加征关税的方案。",
+      "id": "korean-economists-demand-fund-budget-review-610b99",
+      "title": "韩国经济学界52人要求重审基金与明年预算案",
+      "description": "韩国经济学会、韩国财政学会等10个经济学术团体的前任和现任会长共52人发表联合声明，要求政府重新审议总额162万亿韩元的未来应对基金及明年预算案。",
       "context": "",
       "keyFacts": [],
       "timeline": [],
-      "updatedAt": "2026-11-27T00:58:00+00:00",
+      "updatedAt": "2026-11-27T00:59:00+00:00",
       "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/wsj-us-subsidy-probe-results-83a04c",
+      "publishedAt": "2026-11-27",
+      "url": "https://kaopu.news/story/2026-11-27/korean-economists-demand-fund-budget-review-610b99",
       "reference": [
-        "中央通訊社",
-        "朝鲜日报",
-        "公视",
-        "世界日报"
+        "朝鲜日报"
       ],
-      "section": "world",
-      "sourceCount": 92,
+      "section": "asia",
+      "sourceCount": 1,
+      "sources": []
+    },
+    {
+      "id": "south-korea-spy-agency-weighed-agent-intel-swap-75937c",
+      "title": "朝鲜日报称韩情报院曾考虑交第三国特工情报换A某获释",
+      "description": "朝鲜日报援引政府消息人士称，韩国国家情报院2026年上半年曾考虑以第三国黑色特工情报换取A某获释，最终放弃。",
+      "context": "",
+      "keyFacts": [],
+      "timeline": [],
+      "updatedAt": "2026-11-27T00:59:00+00:00",
+      "occurredAt": "",
+      "publishedAt": "2026-11-27",
+      "url": "https://kaopu.news/story/2026-11-27/south-korea-spy-agency-weighed-agent-intel-swap-75937c",
+      "reference": [
+        "朝鲜日报"
+      ],
+      "section": "asia",
+      "sourceCount": 1,
       "sources": []
     },
     {
@@ -353,24 +728,6 @@
         "中央通訊社"
       ],
       "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "nvidia-chip-sellers-reject-china-cloud-rentals-14fabb",
-      "title": "辉达芯片销售商据报拒绝向对中企出租算力的云商供货",
-      "description": "据CNBC援引两名知情人士报道，辉达芯片销售商已告知新兴AI云服务商，哪怕只有部分算力会提供给中国企业租用，也不会向其供货。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-27T00:50:33+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-27",
-      "url": "https://kaopu.news/story/2026-11-27/nvidia-chip-sellers-reject-china-cloud-rentals-14fabb",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "ai",
       "sourceCount": 1,
       "sources": []
     },
@@ -447,24 +804,6 @@
       "sources": []
     },
     {
-      "id": "macron-calls-le-pen-arrogant-eu-budget-a11f52",
-      "title": "马克龙斥勒庞反对选前敲定欧盟预算傲慢",
-      "description": "法国总统马克龙批评极右翼领导人玛丽娜·勒庞反对在法国大选前敲定欧盟长期预算，称她尚未当选便仿佛已掌握法国命运，言行傲慢。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-27T00:22:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-27",
-      "url": "https://kaopu.news/story/2026-11-27/macron-calls-le-pen-arrogant-eu-budget-a11f52",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "hong-kong-ticketing-system-hack-user-data-5c1ae0",
       "title": "香港城市售票网系统遭黑客入侵 130万用户资料或泄露",
       "description": "香港康乐及文化事务署11月25日公布，城市售票网售票系统遭黑客入侵。",
@@ -517,27 +856,6 @@
       ],
       "section": "asia",
       "sourceCount": 2,
-      "sources": []
-    },
-    {
-      "id": "shen-po-yang-chiang-wan-an-campaign-events-b0286a",
-      "title": "沈伯洋取消实体选前之夜改办线上活动",
-      "description": "台湾民进党台北市长候选人沈伯洋因仁爱路四段搭台封路影响交通，11月25日晚宣布取消原定27日晚举行的实体“市民之夜”，并拆除已搭建的舞台。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-27T00:11:56+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/shen-po-yang-chiang-wan-an-campaign-events-b0286a",
-      "reference": [
-        "联合早报",
-        "中央通訊社",
-        "公视",
-        "英国广播公司"
-      ],
-      "section": "asia",
-      "sourceCount": 15,
       "sources": []
     },
     {
@@ -804,27 +1122,6 @@
       "sources": []
     },
     {
-      "id": "chen-jining-shanghai-party-chief-investigation-c09533",
-      "title": "陈吉宁涉嫌严重违纪违法接受审查调查",
-      "description": "新华社11月24日晚通报，中共中央政治局委员、上海市委书记陈吉宁涉嫌严重违纪违法，正接受中央纪委国家监委审查调查。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T21:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/chen-jining-shanghai-party-chief-investigation-c09533",
-      "reference": [
-        "澎湃新闻",
-        "第一财经",
-        "联合早报",
-        "中央通訊社"
-      ],
-      "section": "china",
-      "sourceCount": 33,
-      "sources": []
-    },
-    {
       "id": "canada-border-agency-seizes-illegal-nicotine-products-063cba",
       "title": "加拿大边境部门截获逾2500万元非法尼古丁产品",
       "description": "加拿大边境服务局表示，11月7日至10日，执法人员在安大略省南部陆路口岸检查从美国运来的商业货物时，查获非法电子烟和尼古丁袋，货值合计超过2500万元。",
@@ -897,27 +1194,6 @@
       ],
       "section": "world",
       "sourceCount": 10,
-      "sources": []
-    },
-    {
-      "id": "chan-kwok-ki-allows-legal-wang-fuk-memorials-3dd41f",
-      "title": "宏福苑大火一周年市民献花两度遭民安队移走",
-      "description": "2026年11月26日，香港宏福苑大火一周年，居民、遇难者家属及市民前往附近的广福休憩处献花悼念。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T18:56:09.336000+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-21",
-      "url": "https://kaopu.news/story/2026-11-21/chan-kwok-ki-allows-legal-wang-fuk-memorials-3dd41f",
-      "reference": [
-        "中央通訊社",
-        "联合早报",
-        "英国广播公司",
-        "端传媒"
-      ],
-      "section": "china",
-      "sourceCount": 11,
       "sources": []
     },
     {
@@ -1790,25 +2066,6 @@
       "sources": []
     },
     {
-      "id": "hera-reveals-dimorphos-impact-crater-1a6fc6",
-      "title": "赫拉探测器近照揭示迪莫弗斯巨大撞击坑",
-      "description": "欧洲空间局（ESA）11月25日在柏林自然历史博物馆公布“赫拉”探测器对小行星“迪莫弗斯”的首批近距离图像。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T12:50:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/hera-reveals-dimorphos-impact-crater-1a6fc6",
-      "reference": [
-        "中央通訊社",
-        "澎湃新闻"
-      ],
-      "section": "world",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "police-link-streaming-app-trojan-bank-theft-f7c170",
       "title": "假冒短剧App木马远控手机盗转网银逾1742万元",
       "description": "台湾警方正在调查多起网银账户存款遭盗转案件。",
@@ -1825,24 +2082,6 @@
       ],
       "section": "asia",
       "sourceCount": 4,
-      "sources": []
-    },
-    {
-      "id": "laos-exits-un-least-developed-country-list-eb366d",
-      "title": "老挝正式退出联合国最不发达国家名单",
-      "description": "老挝于11月24日正式退出联合国最不发达国家名单，结束自1971年以来的最不发达国家身份。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T12:43:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/laos-exits-un-least-developed-country-list-eb366d",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "world",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -2158,42 +2397,6 @@
         "第一财经"
       ],
       "section": "ai",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "alibaba-sells-zto-shares-stake-drops-6bbe3b",
-      "title": "阿里出售中通2500万股持股比例降至2.9%",
-      "description": "阿里巴巴旗下三家主体于11月24日出售中通快递2500万股A类普通股，交易通过美国存托股份（ADS）进行，每份售价19.28美元。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T11:14:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/alibaba-sells-zto-shares-stake-drops-6bbe3b",
-      "reference": [
-        "澎湃新闻"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "zong-fuli-hongsheng-sales-production-control-d8d0bf",
-      "title": "第一财经称宗馥莉集中宏胜产销管理权",
-      "description": "第一财经称，宏胜的销售和生产管理进一步集中到宗馥莉手中。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T11:05:47.925462+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/zong-fuli-hongsheng-sales-production-control-d8d0bf",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -2682,24 +2885,6 @@
       "sources": []
     },
     {
-      "id": "malaysia-service-providers-delete-bullying-content-63e0e2",
-      "title": "马来西亚网络服务商今年删除逾4万条霸凌内容",
-      "description": "马来西亚通讯部长法米11月26日在国会披露，网络服务供应商今年以来应政府要求删除逾4万条霸凌内容。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T09:30:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/malaysia-service-providers-delete-bullying-content-63e0e2",
-      "reference": [
-        "联合早报"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "china-defense-ministry-rejects-drill-hype-2526a5",
       "title": "中国国防部回应未预告军演反对渲染炒作",
       "description": "中国国防部发言人陈曦26日在例行记者会上回应美国智库有关解放军对台大型未预告军演的报告，称加强练兵备战是捍卫国家主权和领土完整的“应有之义”，并反对有关方面“别有用心的渲染炒作”。",
@@ -2714,24 +2899,6 @@
         "中央通訊社"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "chinese-carmakers-expand-australia-market-976e02",
-      "title": "中国车企低价高配加速拓展澳大利亚市场",
-      "description": "中国汽车品牌正凭借低价和较丰富的配置扩大在澳大利亚的销售。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T09:25:59+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/chinese-carmakers-expand-australia-market-976e02",
-      "reference": [
-        "韩民族日报"
-      ],
-      "section": "business",
       "sourceCount": 1,
       "sources": []
     },
@@ -2772,42 +2939,6 @@
       "sources": []
     },
     {
-      "id": "chiu-warns-xi-fourth-term-taiwan-pressure-090cbf",
-      "title": "台北海洋大学研讨会聚焦美中竞争对台影响",
-      "description": "台北海洋大学于11月24日举办“印太战略与全球南方：美中竞合关系对台湾影响”研讨会，与会者讨论特朗普政府对华政策、印太战略及其对台湾的影响。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T09:06:24+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/chiu-warns-xi-fourth-term-taiwan-pressure-090cbf",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "asia",
-      "sourceCount": 3,
-      "sources": []
-    },
-    {
-      "id": "micron-taiwan-investment-pause-labor-dispute-4594bd",
-      "title": "谢金河称美光可能暂停后续在台投资",
-      "description": "谢金河11月26日在脸书称，美光高层此前拜访时提到，董事会可能因台湾劳资争议重新评估在台投资安排。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T09:06:21+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/micron-taiwan-investment-pause-labor-dispute-4594bd",
-      "reference": [
-        "中央通訊社"
-      ],
-      "section": "business",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "han-song-bribery-sentenced-thirteen-years-68e693",
       "title": "西安市人大常委会原主任韩松一审获刑十三年",
       "description": "甘肃省兰州市中级人民法院一审判决陕西省西安市人大常委会原党组书记、主任韩松犯受贿罪，判处有期徒刑十三年，并处罚金人民币三百万元。",
@@ -2823,25 +2954,6 @@
       ],
       "section": "china",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "japan-defense-budget-cuts-a549c1",
-      "title": "日本自民党安保调查会不满政府防卫费压缩方案",
-      "description": "日本自民党安全保障调查会11月25日在党总部开会，讨论年内修订三份安保相关文件。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T08:53:17+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/japan-defense-budget-cuts-a549c1",
-      "reference": [
-        "联合早报",
-        "共同网"
-      ],
-      "section": "asia",
-      "sourceCount": 2,
       "sources": []
     },
     {
@@ -2919,24 +3031,6 @@
       ],
       "section": "china",
       "sourceCount": 148,
-      "sources": []
-    },
-    {
-      "id": "mubarak-set-to-face-sedition-charge-d87eef",
-      "title": "当今大马称慕巴拉明日将因涉煽动法令被控",
-      "description": "据《当今大马》报道，森州双溪乌绒酋长慕巴拉将于11月27日因涉嫌抵触煽动法令被控。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-26T08:15:14+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-26",
-      "url": "https://kaopu.news/story/2026-11-26/mubarak-set-to-face-sedition-charge-d87eef",
-      "reference": [
-        "当今大马"
-      ],
-      "section": "asia",
-      "sourceCount": 1,
       "sources": []
     },
     {
@@ -3684,24 +3778,6 @@
       "sources": []
     },
     {
-      "id": "san-bruno-armed-eviction-founder-charged-2ff6b1",
-      "title": "旧金山纪事报称持枪逼迁案创办人遭刑事起诉",
-      "description": "据《旧金山纪事报》报道，2026年1月一个雨夜，ASAP非法占用者驱逐公司的六名人员闯入圣布鲁诺Allen Drive 260号住宅，试图迫使51岁的小曼萨诺（Silvino Manzano Jr.）离开。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T20:20:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/san-bruno-armed-eviction-founder-charged-2ff6b1",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "us",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
       "id": "microsoft-launches-red-alert-outage-response-0f35be",
       "title": "路透称微软启动红色警戒整顿中断应对机制",
       "description": "据中央社援引路透社查阅微软内部备忘录的报道，微软在11月12日至13日一场持续约24小时的大规模服务中断后启动最高级别“红色警戒”，着手整顿重大服务故障的预防与应急机制。",
@@ -3868,25 +3944,6 @@
       "sources": []
     },
     {
-      "id": "chinatown-clt-nyc-fines-relief-session-41ebd7",
-      "title": "华埠社区土地合作社举办市府罚款减免工作坊",
-      "description": "华埠共同发展机构旗下的华埠社区土地合作社（CCLT）11月24日在曼哈顿华埠联成公所举办工作坊，介绍纽约市环境管制委员会（ECB）违规罚款减免及合规计划。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T11:00:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-23",
-      "url": "https://kaopu.news/story/2026-11-23/chinatown-clt-nyc-fines-relief-session-41ebd7",
-      "reference": [
-        "世界日报",
-        "星岛日报美国版"
-      ],
-      "section": "life",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "taishan-unit-three-nuclear-island-pour-starts-7a4341",
       "title": "台山核电二期工程启动3号机组核岛浇筑",
       "description": "中国广核集团广东台山核电项目3号机组核岛首罐混凝土于11月25日开始灌注，台山核电二期工程由此进入建设阶段。",
@@ -3901,24 +3958,6 @@
         "第一财经"
       ],
       "section": "china",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "guangdong-guideline-guangzhou-eldercare-trust-pilot-6e4e3a",
-      "title": "广东多部门出台意见推动广州养老服务信托试点",
-      "description": "广东金融监管局近日联合多个部门发布《关于开展养老服务信托的指导意见》，为广州开展养老服务信托试点提供指引。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T10:09:39.196032+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/guangdong-guideline-guangzhou-eldercare-trust-pilot-6e4e3a",
-      "reference": [
-        "第一财经"
-      ],
-      "section": "life",
       "sourceCount": 1,
       "sources": []
     },
@@ -4212,24 +4251,6 @@
       "sources": []
     },
     {
-      "id": "cbs-jensen-huang-security-clearance-bca170",
-      "title": "CBS称黄仁勋仍持美国政府安全许可",
-      "description": "据CBS援引多名知情人士报道，英伟达首席执行官黄仁勋目前仍持有美国政府核发的安全许可，但许可等级尚未披露。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-25T03:42:03+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-25",
-      "url": "https://kaopu.news/story/2026-11-25/cbs-jensen-huang-security-clearance-bca170",
-      "reference": [
-        "世界日报"
-      ],
-      "section": "ai",
-      "sourceCount": 2,
-      "sources": []
-    },
-    {
       "id": "nikkei-iphone-duo-hinge-screen-cracks-cf7383",
       "title": "日经称iPhone Duo铰链设计与屏幕裂纹有关",
       "description": "日本经济新闻拆解苹果首款折叠屏手机iPhone Duo后，认为铰链设计可能是用户反映内屏裂纹的因素之一。",
@@ -4372,63 +4393,6 @@
       ],
       "section": "culture",
       "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "danish-greek-team-boosts-tobacco-paclitaxel-22c9f8",
-      "title": "丹麦希腊团队以基因工程提升烟草紫杉醇产量",
-      "description": "丹麦与希腊研究团队近期在本氏烟草中重建紫杉醇的完整生物合成途径，并通过基因工程使产量提升超过500倍。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T10:00:10+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/danish-greek-team-boosts-tobacco-paclitaxel-22c9f8",
-      "reference": [
-        "公视"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "falco-pig-kidney-transplant-year-dialysis-free-68e326",
-      "title": "法尔科移植基因改造猪肾后逾一年未透析",
-      "description": "美国麻省总医院布莱根与生物技术公司eGenesis于2026年11月23日宣布，58岁的莫莉·法尔科接受基因改造猪肾移植后已超过一年未进行透析，移植肾仍正常工作。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T09:24:26+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-24",
-      "url": "https://kaopu.news/story/2026-11-24/falco-pig-kidney-transplant-year-dialysis-free-68e326",
-      "reference": [
-        "公视"
-      ],
-      "section": "tech",
-      "sourceCount": 1,
-      "sources": []
-    },
-    {
-      "id": "gta6-preorders-exceed-sixteen-point-five-billion-ffdc84",
-      "title": "《GTA6》首个完整销售日销售额达38亿美元",
-      "description": "《侠盗猎车手6》（GTA 6）发售后的首个完整销售日销售额达到38亿美元，发行商称这一成绩刷新全球娱乐产业单日发行销售纪录。",
-      "context": "",
-      "keyFacts": [],
-      "timeline": [],
-      "updatedAt": "2026-11-24T08:26:00+00:00",
-      "occurredAt": "",
-      "publishedAt": "2026-11-19",
-      "url": "https://kaopu.news/story/2026-11-19/gta6-preorders-exceed-sixteen-point-five-billion-ffdc84",
-      "reference": [
-        "日经",
-        "世界日报",
-        "SBS",
-        "第一财经"
-      ],
-      "section": "tech",
-      "sourceCount": 12,
       "sources": []
     },
     {
